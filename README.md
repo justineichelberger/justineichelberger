@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:23 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:20 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Thailand (northeast) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>you can see or documented another type ball of lights which be appearing in northeast thailand soon before end of oct. 26  2002stroy 1.last month there were ball of lights hovering aboves thailand, there was a major balls in the middle while there were few small bright balls were like playing around the the bigger balls. then they joined together to form an ablong shape then it was gone. while it was taking off, it look like there were round waves. like a drop into the water waves(ring of ripples). durations: five to ten minutes.witness few malaysian saw it and take photo until it ran out of film.two or three weeks later the same balls of light appear again in malaysia. distance rough est. think should be more then 10,000 feet above sea levels.Want another living proof to witness by your eyes only? i have info, another few more weeks ufo to appear in thailand.(before end of oct)North east thailand, nearly by end of october, the sereval ball of lights will be shooting out from the long (mekong)river strait up to the sky until out of human sights and this ufo is becoming quite common in thailand & witness by several thousands of people along the river bank..according to the local thai people. this events appear every years on oct 26. the locals thai believe it a "Naga"(Dragon god). every year before the end of "pansai"(raining season retreat) period.those who want to witness the ufo or this rare occassion event. i know someone who can get us there. remember to bring along a very good video camcorder or any super high tech detector to document this event..the ball of lights is undetected by the military ground radar.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25435.html](http://www.nuforc.org/webreports/reports/025/S25435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately still occuring - still occuring minutes.</sub><blockquote><sub>Hovering object lit with red and white lights, no engine sounds, no directional movement.oval aircraft, hovering almost directly above my neighborhood.  No engine noise, flashing raspberry and white colored lights.  I left and returned an hour later.  The same aircraft is still hovering but further away, over the atlantic.  It still was not moving in any particular direction, just hovering.  Not lit like any other aircraft i've ever seen.  It appears is could be actually spinning.((NUFORC Note:  Possible sighting of a "twinkling" star, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102077.html](http://www.nuforc.org/webreports/reports/102/S102077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
