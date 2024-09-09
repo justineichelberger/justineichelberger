@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Broomfield/Lafayette (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, rectangular object seen flying in broad daylightI was driving Northbound on Hwy. 287.  What appeared to be just North of Dillon Rd., was a flying object going Westward.  Although I was not close enough to see great detail (I was about 3/4 of a mile away), it did not look like anything I have seen before; it was flying slowly at a constant altitude (approximately 100-150 ft. off of the ground).  It was going slower than an airplane and appeared far too big and rectangular to be a helicopter.  Because of its rectangular shape, I first thought it was a banner trailing behind an airplane (like the type you see at sporting events).  There was definitely no plane ahead of it though.  It was broad daylight and many cars were on the road...surely someone else saw this today?  Also, perhaps coincidentally, my car's engine timing seemed "off" for a minute...the engine reved up and down while at a stop light.NOTE:  there was a reported UFO sighting in the area (on Dillon Rd.) about two weeks ago; it was reported in The Broomfield Enterprise.  I dismissed the article at the time, but what i saw today makes me wonder…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72191.html](http://www.nuforc.org/webreports/reports/072/S72191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk Shaped Object Observed in Storm Cloud Formation Over Norfolk, Virginiastrange gray disk shaped object flying east to west in storm cloud formation above Norfolk, Virginia.  The object made no sound.  No severe weather occurred.  The object appeared to be intelligently controlled due to the motion and erratic pattern and the fact that the object moved up, straight and up into the clouds.  I had the feeling the object or UFO was trying to avoid being seen as it consistently maneuvered into the cloud formation.  This object was observed from a moving vehicle (Car), Sunday September 9, 2012  between the hours of 2:30 pm-3:00 pm, sunday September 9, 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93323.html](http://www.nuforc.org/webreports/reports/093/S93323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
