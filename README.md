@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomer (WI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cylinder shape over WI September 10, 2007It was early afternoon, and I was waiting for my vehicle to get worked on so I was sitting in the sun with my 19 year old son. We were facing west, and the sky was partly cloudy, with low humidity. The clouds were passing by with alot of space between them, and the sky was very blue. As we talked I saw a silver sparkle over my right shoulder. I looked and saw a tube/cylinder shaped object passing through the clouds. I told my son to look (we have seen 3 objects while together since 2003). He saw it and we started making comments to help us remember what we saw. There were no wings, no con-trails, no sound, and the tube shape was very visible. The object was heading southwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60284.html](http://www.nuforc.org/webreports/reports/060/S60284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>big, glowing, slow , red comet-like fireball  with a  tail that slowly stretched accross the sky, and took forever to slowly fade awayIt was already dark outside. It was the year 1998 in San Angelo, Texas. I went outside  because there was nothing to do inside. When I looked in the sky I saw a very big glowing red glowing fireball moving accross the sky with no sound. The moon was out too, it looked about a little smaller than the moon, it was big. The fire ball had a really long tail connected trailing behing it. As the ball continued to move accross at a really slow pace,  about the same speed  and height as a plane moves accross the sky, this was no plane though it looked like a big comet or meteor.  I have never seen any thing like that before, and I've seen a few comets and meteors. AS the ball moved accross the sky, the tail stayed glowing red and stretched accross the sky as far as I could see.  I wanted to call my mom who was asleep at the time inside.  But I didnt want to wake her.It lasted about an hour, the tail stayed lit a little longer after the ball kept going out of sight.  The tail just faded away real slowly afterwards.  I could tell it looked like it wasn't falling down to Earth, it just kind of looked like it kept going around the world.  I looked for some pictures on the net of what it looked like but found nothing.  IT looked like a comet but alot bigger and closer.  Pluse it was red and glowing, not blue.  I thought it might have been a spaceshuttle taking off but now I have seen how they take off, strait up in the air not accross the sky.  To this day I dont know what it was.  I have never seen it again I dont think it was an alien thing or nothing like that, just a UFO.  This is the truth, if anyone else has seen anything the same please say something.  I'm just trying to figure out what it was. This was in south side San Angelo around 1997 and 1998.  I was in an urban area so someone else had to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56401.html](http://www.nuforc.org/webreports/reports/056/S56401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
