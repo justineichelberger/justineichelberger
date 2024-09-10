@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>In Pasadena, California, at about 12:57a.m., Sunday, September 10th, 2017, my husband and I were traveling north on El Molino Ave., passing Colorado Blvd., when all of a sudden, we saw a light shoot straight down from the sky and disappeared into the mountains.  It happened so fast I wonder if anyone else saw it?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136108.html](http://www.nuforc.org/webreports/reports/136/S136108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomer (WI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cylinder shape over WI September 10, 2007It was early afternoon, and I was waiting for my vehicle to get worked on so I was sitting in the sun with my 19 year old son. We were facing west, and the sky was partly cloudy, with low humidity. The clouds were passing by with alot of space between them, and the sky was very blue. As we talked I saw a silver sparkle over my right shoulder. I looked and saw a tube/cylinder shaped object passing through the clouds. I told my son to look (we have seen 3 objects while together since 2003). He saw it and we started making comments to help us remember what we saw. There were no wings, no con-trails, no sound, and the tube shape was very visible. The object was heading southwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60284.html](http://www.nuforc.org/webreports/reports/060/S60284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
