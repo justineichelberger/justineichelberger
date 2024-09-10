@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black object hovering across the sky.The object in question was an octagonal shaped craft and it was traveling from south to north. The object appeared to be hovering unsteadily in the sky as it was moving sideways. The speed of the object appeared to be approximatly 400-600mph. The object also made no sound and was moving in a strange manner that is its edges seemed to be waving up and down. There were no lights emmitted from the object and the color of the object was black.((NUFORC Note:  We have requested more information from the witness.  We have received no other reports about the incident, and we would like to know more.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14071.html](http://www.nuforc.org/webreports/reports/014/S14071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Grover Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>light over south san luis obispo county septmeber 10this morning I took my dog out to go to the bathroom.Lookin up like i always do i saw a light moving in a north east way. it was going pretty slow at first but seemed to start to go faster and faster until it went out out of sight.  it was wierd beacause they way it went from slow to fast was not anything of earth orgin.  another wierd light over the central coast of california.  if anyone around san luis and santa barbara county see wierd lights. Let people know.  i wonder if vandenberg falls into place??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24986.html](http://www.nuforc.org/webreports/reports/024/S24986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
