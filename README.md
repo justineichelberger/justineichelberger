@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Falls (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red,  White, Blue, Lights in sky over PA, FallsI was having a smoke on my Father's back porch and seen in the western sky about a mile and a half away what I thought was a bright star. It kept catching my attention because it was extremely bright and it seems as though there was a lot of activity of lights for a star.So I went and had gotten my Father to look at it and said that it was not normal and it couldn't be a star. He agreed. He then got the binoculars. We both looked threw the binoculars and seen that it is burst of lights flashing like a police cars in and around the area of the white light. The colors consist of Red,white,blue,and green.The interesting part is that I hopped on the net and typed in red,blue,white,UFO and a mans sighting popped up and it was a sighting described exactly in the way I seen this UFO almost to a tee.  This sighting was seen on the same day last year. Now that is messed up.  Please is there is anything anyone can do.  In the sighting described by this man from Alabama,  He goes on to say that he had called police and they went out to look. I'm not going to do the same because I don't trust them or the government.  So for what its worth I Hope this helps.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83821.html](http://www.nuforc.org/webreports/reports/083/S83821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tolland (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>A large bright white light with spikes of light shooting out and then retracting .A large bright white light with spikes of light shooting out and then retracting has been appearing nightly for over a month. We assumed it was a star or planet.  Last night we watched it move to the right faster than a star would move.  Then it moved back to the original position. Then it moved towards us and then it moved far away backwards at speed even planes cannot move. Then back towards us.  Then it stopped moving. We have no idea what it is now, but someone should look at it and explain it. Our elevation is 700 ft., +41° 50' 24.26", -72° 22' 31.59" (41.840073, -72.375441), and we have a large view of the sky. It looked like there were briefly some blue rays of light at one point but I am not sure of that.I am sure there is a good explanation, it would be really nice to know since I see it through my window while I'm in bed. I did take photos of it with my Iphone.when you enlarge photo two other lights appear next to it one on each side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92625.html](http://www.nuforc.org/webreports/reports/092/S92625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
