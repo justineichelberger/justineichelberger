@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 9 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing Object moving West to East in North PhoenixThursday, September 09, 2010 8:45pm  North Phoenix, AZ  I spotted an orange glow moving from West to East along the 101 Freeway in N. Phoenix.  Orange glow was spotted about 15 degrees west of my location moving easterly at high speed.  It disappeared at about 20 degrees above the horizon in about 5-6 seconds at what I believe was approximately 2000 to 3000 feet in elevation above my home.  No sound or shockwave was evident, no vapor trail, only the sound of chirping crickets.The sky was cloudless and winds calm.  As the object moved directly overhead the neighborhood dogs began barking as if startled and as soon as the object disappeared they stopped.  Airplanes in a pattern for Phoenix Sky Harbor Airport were plainly visible along with the outline of the aircraft and cross the pattern at about 5000 feet at 150 knots.  No outline was visible with the glowing object which I would describe as the glow of a toaster against a wall and not that of a nozzle of a fighter jet.I witnessed a similar object hovering in the same neighborhood about 2 weeks earlier then moving to the north at a very low altitude and speed as it disappeared behind a home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77737.html](http://www.nuforc.org/webreports/reports/077/S77737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ventnor (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A flying disk, with 7 or 8 lights on the side, hovered for some time and abruptly descended straight downwards before it disappeared.Was driving home from work on Wellington Ave at 1 am, when I saw about 7 or 8 small, distinct lights that seemed to form the edge of a flying disk.  The boundary of the disk was faintly visible in the moonlight.  The disk hovered in the sky for about 25 seconds, not moving at all.  Then, it quickly began to descend vertically down, straight down, in a smooth gliding manner.  In about 3-5 seconds it descended beyond my line of sight, behind some houses.  I tried driving around the neighborhood to see if I could get a better view, but I could not see anything.((ADDENDUM FROM WITNESS))Dear Peter,I am almost certain of the date, as it was the day before I left home for college on September 10.  So technically it was on September 10 at 1:00 am, but the night of the 9th, if that makes sense. I didn't contact any residents because it seemed to descend over where the bay is, so very few people may have seen it since few houses overlook the bay. I didn't contact the press because, without a photograph, I would just appear to be crazy.  I considered taking a photo but my phone camera has poor quality, especially in the nighttime, so the photo would just be an indiscernible blur since I was in a moving car. Let me know if you have any other questions!((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132025.html](http://www.nuforc.org/webreports/reports/132/S132025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
