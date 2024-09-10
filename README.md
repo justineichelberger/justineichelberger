@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 red lights. hovering in sky,On Saturday the 10th of September my girlfriend and I were driving along upper middle road bridge when in the sky there were two red orbs, not moving, spaced probably only a few hundred feet apart, a third one then appeared forming a triangle of lights. the distances between were equally spread apart from what i could tell.it was a very clear night, not really any clouds in the sky,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83914.html](http://www.nuforc.org/webreports/reports/083/S83914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glenarm (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 lights star like moving in unison leaving atmosphere.2 lights equally spaced apart moving left to right.  Appeared like stars.  Left one faded, then right one faded 30 seconds later.  Believe it was same craft as last I reported.  This one was higher up, maybe leaving atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121849.html](http://www.nuforc.org/webreports/reports/121/S121849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
