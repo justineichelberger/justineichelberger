@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oshkosh (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A friend and I were in a boat going down the river towards the lake when we noticed 4 rapidly flashing white lights over Lake Winnebago moving in different directions.  One of the "objects" went directly over our heads and we thought it could be a helicopter but it was moving sideways and had something coming off the side of it.  Plus, it wasn't making any noise.  This object and the other three lights then flew over towards Fond du Lac, then across the lake, and then back over towards the mouth of the river. When they were over the mouth of the river the 4 lights then came together to form what looked like one craft/entity with 4 red lights that were not flashing.  As they moved closer, the white flashing lights broke off from the one "object" and again went in different directions.  The last we saw the 4 flashing lights they were moving again towards Fond du Lac when they disappeared.  The lights kept separating and going off in differen! t directions to then come back to form what looked like one "thing".  There were normal airplanes in the air around the same time that did not have the same light patterns as these objects.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92647.html](http://www.nuforc.org/webreports/reports/092/S92647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 red lights. hovering in sky,On Saturday the 10th of September my girlfriend and I were driving along upper middle road bridge when in the sky there were two red orbs, not moving, spaced probably only a few hundred feet apart, a third one then appeared forming a triangle of lights. the distances between were equally spread apart from what i could tell.it was a very clear night, not really any clouds in the sky,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83914.html](http://www.nuforc.org/webreports/reports/083/S83914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
