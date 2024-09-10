@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:23 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Huge Hoovering Triangle of Lights in High Point, NC!!!Me and my fiance were driving along Eastchester Blvd. in High Point, NC when saw a huge horizontal line of white lights approx. 1/2 mile wide hoovering in mid-air.  It hid and revealed itself in the distance while somehow flipping flatly into a triangular shape and it had white round lights all over!  It seemed to just float/glide, and would move very quick across the sky.  We followed it for about 3 miles, and when we stopped in some undeveloped housing area, we caught a very clear view of it hoovering over an empty field.  There was also a plane that was moving at a very fast speed chasing the object.  But as it got closer to it, the triangle would move out of the way very quickly.  We then heard a very strange noise and as we turned our radio down, it sounded like a high-pitched hum.  That's when we said OH S*** and almost wrecked our car turning around and getting the heck outta there.  We didn't have a decent camera with us to get any evidence as we wer! e just leaving a nearby restaurant.  We tried taking pictures with our camera phones, but because of the darkness and cheap 2 megapixel camera, we couldn't see the thing clearly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77750.html](http://www.nuforc.org/webreports/reports/077/S77750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Ramon (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My kids and I just saw this exact same craft depicted in link below pass over us while playing outside.  It was as big or bigger than airliner.. no wings... no sound... clear as day... moving fast... not blimp speed... no visible means of propulsion... tried to get my phone cam out but had left inside.http://lightsinthetexassky.blogspot.com/2010/07/navy-veteran-witnesses-cylinder-shaped.html  We saw another higher flying airliner a few minutes later and although about twice the altitude could see its wings clear as day.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143067.html](http://www.nuforc.org/webreports/reports/143/S143067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
