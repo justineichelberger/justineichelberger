@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:15 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Ramon (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My kids and I just saw this exact same craft depicted in link below pass over us while playing outside.  It was as big or bigger than airliner.. no wings... no sound... clear as day... moving fast... not blimp speed... no visible means of propulsion... tried to get my phone cam out but had left inside.http://lightsinthetexassky.blogspot.com/2010/07/navy-veteran-witnesses-cylinder-shaped.html  We saw another higher flying airliner a few minutes later and although about twice the altitude could see its wings clear as day.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143067.html](http://www.nuforc.org/webreports/reports/143/S143067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>large triangular object that was seen over our homeWe actually observed several incidents between July and mid-September, but this was different from the rest in that it was an enormous triangle shaped object that we estimated to be 300 ft. up over the top of our house. It was not noticeable at first, and what made us notice it was that along the edges of it were lights that at first glance looked like stars but had a pattern to them [triangular]. It made absolutely no noise, and was moving very slowly. We watched for about 20 minutes, but then got freaked out and went inside.This is in the same time frame of other incidents that were seen by ourselves and another friend, when we saw objects in the sky that changed direction extremely fast and had blue and amber lights.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48927.html](http://www.nuforc.org/webreports/reports/048/S48927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
