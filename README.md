@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tolland (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>A large bright white light with spikes of light shooting out and then retracting .A large bright white light with spikes of light shooting out and then retracting has been appearing nightly for over a month. We assumed it was a star or planet.  Last night we watched it move to the right faster than a star would move.  Then it moved back to the original position. Then it moved towards us and then it moved far away backwards at speed even planes cannot move. Then back towards us.  Then it stopped moving. We have no idea what it is now, but someone should look at it and explain it. Our elevation is 700 ft., +41° 50' 24.26", -72° 22' 31.59" (41.840073, -72.375441), and we have a large view of the sky. It looked like there were briefly some blue rays of light at one point but I am not sure of that.I am sure there is a good explanation, it would be really nice to know since I see it through my window while I'm in bed. I did take photos of it with my Iphone.when you enlarge photo two other lights appear next to it one on each side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92625.html](http://www.nuforc.org/webreports/reports/092/S92625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomer (WI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cylinder shape over WI September 10, 2007It was early afternoon, and I was waiting for my vehicle to get worked on so I was sitting in the sun with my 19 year old son. We were facing west, and the sky was partly cloudy, with low humidity. The clouds were passing by with alot of space between them, and the sky was very blue. As we talked I saw a silver sparkle over my right shoulder. I looked and saw a tube/cylinder shaped object passing through the clouds. I told my son to look (we have seen 3 objects while together since 2003). He saw it and we started making comments to help us remember what we saw. There were no wings, no con-trails, no sound, and the tube shape was very visible. The object was heading southwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60284.html](http://www.nuforc.org/webreports/reports/060/S60284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
