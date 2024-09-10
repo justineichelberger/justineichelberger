@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gretna (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a silver sphere hovering over Belle Chasse Hwy.by Mel Ott Park.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93033.html](http://www.nuforc.org/webreports/reports/093/S93033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Saratoga Springs (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Bronze colored cube.  400-700 feet in the air.  Lower than the clouds.Was driving, saw a cube floating in the air.  Went to take a video and it was gone.  Bronze in color.  About 400-700 feet above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129841.html](http://www.nuforc.org/webreports/reports/129/S129841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
