@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:43 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 10 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Valcatier (Military Base) (Canada) (PQ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>white light coming super fast to a stop then taking off again slowly and shutting off its light like a switch.White light double the size of double the pinpoint size of the North Star coming extremely fast from the west, and slowing down to a full stop above our heads.  It stayed there for 15 to 20 seconds.  No trail no sound.  I flicked my lighter to see if it would come and see us.  It then took again in the same direction towards the west but at a very slow pace.  Then with a double click it shut of its light.  The night sky was full of stars and in its immobile state above our heads it was well camouflashed.  Good thing ((deleted)) seen it coming,  no clouds that night and no wind.  No trail and the double click for shutting down its light had an electric feeling to it.  As we were walking through the woods something came to visit me but ((name deleted)) and ((name deleted)) didn,t see this. Knowbody neither is there one single sighting reported with this type of creature, neither will I ever talk about it,  that was a gift for that lighter clicking. I contacted an expert and such a creature does not exist. I am reporting only our sighting of the super fast white light because we were three to see it.  Me and ((name deleted)) sent an e-mail yesterday, but we didn't use this form we sent it to the director I think, there is a better description.  The day I see a sighting where there is creature similar to what I saw is the day I will talk about it.  However nobody would of ever guessed this.  I can only tell you that it is very small.  September sunday the 10th 1995 at 9:12pm to 9:27pm is important an I believe this can be verified.  If you have any questions about the white light it would be a pleasure for me to answer them for you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14415.html](http://www.nuforc.org/webreports/reports/014/S14415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gretna (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a silver sphere hovering over Belle Chasse Hwy.by Mel Ott Park.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93033.html](http://www.nuforc.org/webreports/reports/093/S93033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
