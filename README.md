@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Berwick (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>silver object reflecting light.Silver object looked to be reflecting sunlight for about ten seconds high in sky then disappeared in a period of 2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129865.html](http://www.nuforc.org/webreports/reports/129/S129865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I am a 19 year corrections officer. During my stay on 9/11/2020 at an Airbnb in Colrain, MA myself and eight friends were on a walk through a hay field.  As we sat for a rest I had lied down in the grass and looked up at the sky.  It had been a clear sky with no clouds. I noticed a silver object streaming north to south which appeared to be of a metallic material. I've viewed satellites many times prior at night and thought this may be one of them, but during the day? It was moving at a very high rate of speed. Much faster than any satellite I've seen before. The object (1) was cylindrical in shape and did not have a trail of smoke nor any outward propulsion exhaust. As I proceeded to stand up and tell another friend to look in the direction of travel to have a witness the object had moved too far for my eyes to catch up and vanished. There were no other objects in the sky. No lights appeared to be on the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159362.html](http://www.nuforc.org/webreports/reports/159/S159362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
