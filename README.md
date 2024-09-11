@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I am a 19 year corrections officer. During my stay on 9/11/2020 at an Airbnb in Colrain, MA myself and eight friends were on a walk through a hay field.  As we sat for a rest I had lied down in the grass and looked up at the sky.  It had been a clear sky with no clouds. I noticed a silver object streaming north to south which appeared to be of a metallic material. I've viewed satellites many times prior at night and thought this may be one of them, but during the day? It was moving at a very high rate of speed. Much faster than any satellite I've seen before. The object (1) was cylindrical in shape and did not have a trail of smoke nor any outward propulsion exhaust. As I proceeded to stand up and tell another friend to look in the direction of travel to have a witness the object had moved too far for my eyes to catch up and vanished. There were no other objects in the sky. No lights appeared to be on the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159362.html](http://www.nuforc.org/webreports/reports/159/S159362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fishers (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights appear out of no where and make very odd movements in the sky directly above us.At 12:25a.m. on September 11th, 2011 a group of six adults (myself included) were sitting on the back deck of a house in Grey Eagle subdivision in Fishers, Indiana.  I had been looking at the sky noticing the broken cloud cover on this moonless evening.   Suddenly, directly above us, two bright lights appeared in the clouds...sitting stationary directly overhead.  At first, I (we) thought that it was someone shining some very large spotlights into the sky.  However, I soon realized that this could not be possible because 1) the source and angle would mean that the lights would have to emminate from our current seated position 2) there was no light trail like you would normally see from a large industrial spotlight used to promote a business 3) the more I looked the more it was apparent that the light source was coming from above the clouds and shining through them, not up to them. Suddenly the two lights, which appeared to be about50 yards apart, began to move erratically.  They zigged and zagged, moved in circular and linear motions, and then one of the lights disappeared, only to reappear off in the distance, but remained about the same size.  That light then disappeared and reappered back over the top of us.  There was no sound associated with these lights, no smell, no disruption to anything on the ground.  This event lasted for about five minutes.  Then, just as quickly as they appeared, they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83868.html](http://www.nuforc.org/webreports/reports/083/S83868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
