@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:31 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Clair (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Satellite drone disguising as a starSaw a moving star.  At first I thought it was a satellite, but then noticed an airplane flying west.  Realized it was flying too low to be a satellite, as it was flying below the airplane.  It was moving north to south.  It stopped moving all of a sudden, as if it had been spotted.  It moved left right up down, like a video game controller and then went straight up as if it were disguising itself as a star in the sky. If you were to look in the sky you wouldn't be able to tell the difference if it was a star far way in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159340.html](http://www.nuforc.org/webreports/reports/159/S159340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Star like light on clear sunny day moving north to south changing from bright to almost invisible repeatedly.On 9/11/13 around 5:15 it was very sunny and totally clear outside.  I was out on my back porch relaxing after work when I noticed a light that looked like a star almost straight overhead. I was facing NE with the sun behind me.  I got my wife and a friend outside to check it out.  We all watched it for about 15 minutes before we had to leave.  During that time the object seemed to be shining bright then slowly dim to almost invisible and then back to shiny repeated the whole time we watched it.  The light looked like a big sun reflection off of the object to me as if something was slowly spinning or turning in circles.  It moved very slow from north to south then turned and headed west.  Although very slow the speed did not seem to be constant.  I did pull out my binoculars but all it did was make the star like object look a little bigger.  The pics I took just look like bright blue sky.  I am skeptical but know I saw something I have never seen before. I was researching to see if anyone in the area saw what I saw when I found this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102258.html](http://www.nuforc.org/webreports/reports/102/S102258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
