@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in La Crescenta (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>sphere like object with lighting spinning above us in la cresenta ca.while sitting in my vehichle my friend and i saw a sphere like object flying above us. it was very close to us. it had lights spinning around with a red blinking light on top. it kept spinning and getting further away. as we tried to follow, it dissapeared into space. this had to of been a ufo because it was spinning throughout the enitre time we were watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58679.html](http://www.nuforc.org/webreports/reports/058/S58679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Like a Meteor but it was larger, slower, brighter and more colorful.I was driving and heading toward the south and I thought at first that I was looking at a meteor coming down with a 30 to 45 degree angle towards the west.  The colors changed from white to purple to deep purple to red as it disappeared.  It was larger than a meteor.  I thought that it was about to hit the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09761.html](http://www.nuforc.org/webreports/reports/009/S09761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
