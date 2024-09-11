@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Stayton (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My mom and step dad say a red sphere flying and they came to get me it had lights underneath and flashed red when it continued to fly away moving fast and almost hovering like and it made a weird sound as it headed towards Silverton.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136119.html](http://www.nuforc.org/webreports/reports/136/S136119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wasaga Beach - Midland (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three orange glowing spheres pass across the night sky at Woodland Beach on Georgian Bay.Over a period of 15 minutes about midnight, three glowing orange spheres(appeared as if hot air balloons) passed to the north of our house at Woodland Beach travelling in a northeast direction.  The first two appeared higher up and father away while the third was lower and closer so that it appeared to be just above the treetops. All three were visible for 1 to 2 minutes from first sighting. All three continued to glow as they passed out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92698.html](http://www.nuforc.org/webreports/reports/092/S92698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
