@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white craft moved slowly and low to the horizon, heading approx. south-southeast.My friend and I were outside in his back yard in Clifton, about to head inside the house, when I caught a white glow just over the tops of some trees.  I stopped to look, thinking it was the moon, when I realized it was not.  He looked too, and we discovered that it was about the apparent size of the full moon, and the same pale white, though more blimp-shaped.  It had flashing white lights at the top and bottom.  It moved very slowly, and we walked out into the street to trace its progress.  We were able to view it for approximately 15 minutes as it headed south-southeast, and though we had no binoculars or telescope, we saw it clearly enough to be convinced that it was not a blimp (all white, no advertising, and it seemed to be illuminated by itself), nor a weather balloon, nor any conventional aircraft.  It was also NOT Venus, or any atmospheric disturbance!  We are both rational, logical men (and had not been drinking), but neither of us could come up with an explanation for what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09684.html](http://www.nuforc.org/webreports/reports/009/S09684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Cone' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We saw objects in the sky that could not have been stars. We observed them through bionoculars and saw 9 objects that hovered, pulsated with light ranging from green to red light. These were not commercial craft...because all planes were grounded on this day 9/11/2001. They seemed not to move, perhaps only slightly...appearing to get smaller or larger in size, only slightly. The light changed in a free flow manner from one color to another. They all appeared to be the same size, with the exception of one, which was larger, bright yellow light. There was some 'hazing' around some of these objects. One object was much larger in the southern sky...it was light colored. The others with the colored lights hovered in the westerly and northern sky areas. These sightenings occured after the tradgey in NYC...that same night. They hovered over 9/12/01 as well...the next evening in approx the same positions by 5 different people.((NUFORC Note:  Source is anonymous, save for an e-mail contact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19526.html](http://www.nuforc.org/webreports/reports/019/S19526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
