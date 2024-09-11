@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO over New York City on September 11, 2001.I was on the New Jersey side of the Hudson river watching F-16's flying over the city that day. It was then I noticed what looked like a chrome ball bearing in the sky.  Every time the planes moved towards the object it would move Its position.  The object moved in a way that conventional aircraft cannot.  It would moved from side to side up then down while covering large distances in a split second.  When the object did move it would remain stationary until it moved again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69256.html](http://www.nuforc.org/webreports/reports/069/S69256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Washington (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Husband and I thought it was Mars we were looking at.  Next thing we know the &quot;star&quot; appeared to get bigger glowing bright redHusband and I thought it was Mars we were looking at.  Next thing we know the "star" appeared to get bigger glowing bright red then became smaller and smaller in size. It twinkled white then faded away. 3 minutes later a second one came from another direction and did the same thing.  Never seen anything like this in my life!  And I'm always looking up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159342.html](http://www.nuforc.org/webreports/reports/159/S159342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
