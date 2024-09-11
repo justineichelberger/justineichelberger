@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Conifer/Pine (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>Fast, low flying object flew through our valley, then went out of sight and then came back and starting moving/reappearing erratically.Standing on my deck and it looked like something flew through the mountain range/Valley.  It looked like a shooting star at first but it flew straight and too low, at a speed too fast for anything man made, then it disappeared.  About 1 minute later it came back and was moving and flashing oddly back and forth, up, down and sideways like it was scanning the ground below or looking for something.  I ran into grab my phone and turn all my lights off and it was gone.  All the dogs in the area started barking at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159329.html](http://www.nuforc.org/webreports/reports/159/S159329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Clifton (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white craft moved slowly and low to the horizon, heading approx. south-southeast.My friend and I were outside in his back yard in Clifton, about to head inside the house, when I caught a white glow just over the tops of some trees.  I stopped to look, thinking it was the moon, when I realized it was not.  He looked too, and we discovered that it was about the apparent size of the full moon, and the same pale white, though more blimp-shaped.  It had flashing white lights at the top and bottom.  It moved very slowly, and we walked out into the street to trace its progress.  We were able to view it for approximately 15 minutes as it headed south-southeast, and though we had no binoculars or telescope, we saw it clearly enough to be convinced that it was not a blimp (all white, no advertising, and it seemed to be illuminated by itself), nor a weather balloon, nor any conventional aircraft.  It was also NOT Venus, or any atmospheric disturbance!  We are both rational, logical men (and had not been drinking), but neither of us could come up with an explanation for what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09684.html](http://www.nuforc.org/webreports/reports/009/S09684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
