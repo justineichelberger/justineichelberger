@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw four orange lights appear over ocean then disappear.Saw four orange lights appear over the ocean forming a square then one by one they disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102250.html](http://www.nuforc.org/webreports/reports/102/S102250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Conifer/Pine (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>Fast, low flying object flew through our valley, then went out of sight and then came back and starting moving/reappearing erratically.Standing on my deck and it looked like something flew through the mountain range/Valley.  It looked like a shooting star at first but it flew straight and too low, at a speed too fast for anything man made, then it disappeared.  About 1 minute later it came back and was moving and flashing oddly back and forth, up, down and sideways like it was scanning the ground below or looking for something.  I ran into grab my phone and turn all my lights off and it was gone.  All the dogs in the area started barking at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159329.html](http://www.nuforc.org/webreports/reports/159/S159329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
