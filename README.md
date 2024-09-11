@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:19 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Multi-colored flashes over Eugene, OregonOn this night, my husband and I spotted a flashing light of blue, red, white of an almost octagonal shape from a side view with the lights flashing in a "spider web" like fashion within it.  It was in the Northwest direction.  When observed in binoculars it appeared to be bouncing all over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113470.html](http://www.nuforc.org/webreports/reports/113/S113470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Philippi (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed 6 spherical objects with binoculars moving uniformly to the NE in a clear blue early evening skyAt approximately 7:05 PM ET on Sept. 11, 2015, in north-central West Virginia (near Philippi, WV), while relaxing on my back deck and watching aircraft fly over my area from a lying position with a pair of 8x42 binoculars, I observed a total of six (6) round or spherical objects near the zenith, moving in a Northeast direction.  I first observed two (2) objects and after slowly scanning the area nearby I saw four (4) additional objects.  I observed all six (6) for approximately 5 minutes before my view was obscured by the roof of my house.  The six objects moved together in a fairly uniform configuration that changed only slightly during this period.  When I lost my view, I moved quickly to find them again, but was unsuccessful in locating them a second time.  They appeared white to silver-white in color, and were all the same size in diameter.  These objects were only visible through the binoculars and not visible via the naked eye.  Having no frame of reference, I was unable to judge or estimate their size or the distance to their location.  It is possible they were balloons of some type but they would probably had to have been some type of cord connecting them together for them to move so uniformly.  I do believe, based on what I saw, that had I been able to observe them for a longer period, that they would have continued their uniform pattern movement.  I was alone at that time so no one else saw them.The sky was very clear, air temperature around 73 degrees F with moderate humidity around 70%.FYI, this is my first UFO sighting of something I could not easily explain or identify.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121877.html](http://www.nuforc.org/webreports/reports/121/S121877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
