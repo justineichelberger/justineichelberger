@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Incline Village (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object  over Lake Tahoe.Before dawn on Friday September 12th, I noticed a small red dot in the sky over Lake Tahoe. I was a passenger in a work truck.  I commented to my friend and asked if he could see it.  The red seemed to change slightly and then it turned white and  changed shape into more of a comet with a short tail, all bright white.  At this point my friend saw it too.  The object seemed to grow much larger then and resembled a bright spot light shining into a smoke like vapor, like a v shape trailing behind the light.  The light seemed to steer towards the south and west from my position on the north shore.  The vapor seemed to expand and lighten and the light then vanished completely.  Not sure what it was but I will be looking up more from now on!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113476.html](http://www.nuforc.org/webreports/reports/113/S113476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Berwick (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately nightly - nightly minutes.</sub><blockquote><sub>Nightly These orbs of light  appear and I have several videos  of them.  They look at first as if they are  still but when you  zoom up they are erratic with the direction they go.  Not like any normal  craft I have witnessed.  They move and stop just as fast.  The sky is usually clear and I see them just about every evening for the past few months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148807.html](http://www.nuforc.org/webreports/reports/148/S148807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
