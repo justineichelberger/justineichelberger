@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ottertail (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large dark reflective object with no lightsIt looked like a large reflective object - moving southwest over Lake Otttertail - me and my sister saw it moving pretty fast across the night sky after the moon had set, so it was very dark with lots of stars - we couldn't tell how close to us it was - no lights at all on the object but we think we could see the edges - it was all rounded - there were no sharp edges - because it was reflective -  My sister and I were up visiting our parents for their ((deleted--50-60th)) anniversary at their lake house on Ottertail Lake in Minnesota.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143088.html](http://www.nuforc.org/webreports/reports/143/S143088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rough and Ready (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>StatioNary bright light emits spray-like cloud into the sky.This morning at 6:01 A.M., I spotted a bright Star (like) in the sky, it wasn't streaking  but stationary like a star.  As I watched it slowly moved just a bit, then a big spray came from the back of it  in a large tear drop shape, it expanded into a cloud like shape, the bright light went out and the cloud expanded and expanded until it dissipated entirely.  It looked as if something was sprayed into the sky.  When my friend called me this morning I told her about it, she just emailed me that it was in the news, on KTVU, and sent me the picture.The only difference in what I saw and what they reported is, it looked stationary and then it looked like something was sprayed that turned into a large cloud, and both the light disappeared and the cloud slowly dissipated.  I have no idea what it was.  It could be the Government doing secret experiments.  Don't really like the idea of a spraying in the atmosphere!((ADDENDUM/CORRECTION FROM SOURCE OF REPORT))Correction on location,: 9 12-14 reportSighting Report:  CORRECTION on location, should be Rough and Ready, CA     Occurred :  9/12/2014 06:01 (Entered as : 09 12 14 06:01) Reported:  9/12/2014 10:05:53 AM 10:05 Posted:  9/18/2014  Location: Rough and Reday, CA Shape: Duration:  30 seconds  I am still scanning this sight to see if ANYONE saw the red flashing lights like I saw  and reported 6-25-14  it was just too weird!  I live on a hilltop and have a great view of the sky.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113471.html](http://www.nuforc.org/webreports/reports/113/S113471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
