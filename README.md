@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in La Veta (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Summary : Well what happened was when I was about 5,  I was coming back from a trip from my grandparents. I was looking out the windown and it was very dark. I suddenly saw a object it had lights with a circular pattern It had multiple colored lights mostly Red White & Blue. When I returned home I went over to the tv and turned it on. There was a news report of about 5 sightings of a ufo flashing red white and blue lights. I then kept it inside me till there was this pageIt had lights from my perspective with about a 2 foot per light seperation. It had a distinct pattern of the lights. It went White, Blue, Red. It flashed all the seperate lights at once. I observed it. My background is I am 16 know was 5 at the time have a good social life, very mature and very truthfull.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02711.html](http://www.nuforc.org/webreports/reports/002/S02711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Disk shape object above tree line.Object was low in the sky, just above the tree line.  Object streaked from left to right very fast with blinking lights.  I was standing on balcony and saw bright blinking lights off to my right.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130318.html](http://www.nuforc.org/webreports/reports/130/S130318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
