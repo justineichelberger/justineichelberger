@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:25 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:50 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately still visible - still visible minutes.</sub><blockquote><sub>mulitiple white lights moving across sky above uslights way up looks like sattelites but multiple grouped together in a semi circle seeming to move north or out since lights are fading ...but it looked like the stars were moving in formation...many of our neighbors and kids watched it pass overhead and move to the north spread out roughly oblong formation horizontly</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121903.html](http://www.nuforc.org/webreports/reports/121/S121903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>tear shaped objects slowly moving across the lake about 100 feet from the surface of the water.4 objects seen crossing over the lake michigan horizon from south to north of the lake changing color no noise before splitting up into three directions cardinal points.leaving behind a glowing blue/red and yellow/red green/red red/violet trail of vapor.each object left a different color of trail vapor.wich was able to be seen on the surface of the water.also a very strong smell of ozone like before a lightning storm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95074.html](http://www.nuforc.org/webreports/reports/095/S95074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
