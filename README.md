@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:51 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Beach City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Fast moving, high altitude.Witnessed a high altitude light moving at very high speed with no sound. At first we thought it was a satelite until it changed direction several times but always continuing in the same general direction. The night was completely clear and the moon had not risen yet. Temperature was about 80F, winds were calm. Dry, with high humidity. It took the object about 6 minutes to travel from horizon to horizon. Incidentally, a few minutes later a blue colored meteor burned in witnesses by myself and one other person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33294.html](http://www.nuforc.org/webreports/reports/033/S33294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dennisport (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Extremely bright..painful to the eyes in broad daylight, cigar/disk shaped.I was driving to a doctor's appointment around 2pm. My direction was north. I noticed a tremendous light reflection in the sky ahead. The shape was cigar/disk-like. What I remember was that this light was so bright it was painful to look at,almost like what a solar eclipse. Putting on sunglasses, I then saw the shape and noted that this craft was traveling west. The size was approximately half of my outstretched thumb.I was travelling in a line of traffic, so I was unable to keep track of the craft once it went behind trees after a minute. It was the brightest thing I've ever seen...brighter than the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26582.html](http://www.nuforc.org/webreports/reports/026/S26582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
