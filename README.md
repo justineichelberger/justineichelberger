@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rough and Ready (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>StatioNary bright light emits spray-like cloud into the sky.This morning at 6:01 A.M., I spotted a bright Star (like) in the sky, it wasn't streaking  but stationary like a star.  As I watched it slowly moved just a bit, then a big spray came from the back of it  in a large tear drop shape, it expanded into a cloud like shape, the bright light went out and the cloud expanded and expanded until it dissipated entirely.  It looked as if something was sprayed into the sky.  When my friend called me this morning I told her about it, she just emailed me that it was in the news, on KTVU, and sent me the picture.The only difference in what I saw and what they reported is, it looked stationary and then it looked like something was sprayed that turned into a large cloud, and both the light disappeared and the cloud slowly dissipated.  I have no idea what it was.  It could be the Government doing secret experiments.  Don't really like the idea of a spraying in the atmosphere!((ADDENDUM/CORRECTION FROM SOURCE OF REPORT))Correction on location,: 9 12-14 reportSighting Report:  CORRECTION on location, should be Rough and Ready, CA     Occurred :  9/12/2014 06:01 (Entered as : 09 12 14 06:01) Reported:  9/12/2014 10:05:53 AM 10:05 Posted:  9/18/2014  Location: Rough and Reday, CA Shape: Duration:  30 seconds  I am still scanning this sight to see if ANYONE saw the red flashing lights like I saw  and reported 6-25-14  it was just too weird!  I live on a hilltop and have a great view of the sky.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113471.html](http://www.nuforc.org/webreports/reports/113/S113471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harris Ranch (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Faster than the speed of life.I was a hot summer day, right in the middle of the harvest season.  We have been running up and down I-5 like a yo-yo since the 4th of July.  North bound on I-5, bright happy sunny day, load of tomatoes behind my 18 wheeler.    Suddenly as I aproach the intersection of 198 and I-5 (Harris Ranch), oh say a few miles south of the air field, I see clearly thru the bug spattered windshield, an airfoil of some kind apparently taking off from the runway at the Texaco station of Harris Ranch Inn.  I say to him "get it up, get it up, get it up" becuase his angle of attack is nearly paralell to the ground to gain sufficient speed for take-off.  The wing-like aeroplan-apparition, white or silver in color then lifted at a very shallow angle and accelerated to an incredible speed directly northbound over I-5, I noticed that his wing-tips grew smaller and smaller, closer and closer together untill it was just a dot that disapeard within 5-6 seconds.  At first I thought it was a Cessna or Beech or duster on the field.  Cant say weather it took off north or south of 198, but is was no jet and thats for sure. A crop cirle was reported in Fresno believed to be a hoax made by a crop cirlce company.    ((identifier deleted here))((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34935.html](http://www.nuforc.org/webreports/reports/034/S34935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
