@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6 - 0.6 minutes.</sub><blockquote><sub>LOOKED LIKE SEVEN STARS IN V FORMATION MOVING HIGH RATE OF SPEED,FASTER THAN A SATALITE,AND SEEMED TO BE FARTHER OUT THAN A SATTALITE((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41947.html](http://www.nuforc.org/webreports/reports/041/S41947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bordentown (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three ufo's, triangular, with very bright, round lights at the point of each angle.I was out with my wife, and two daughters, the night after September 11th, 2001. We went to Wal-Mart to get some stuff that we needed, and to stimulate the economy in any small way we could.  When we were driving back, and neared our home, at McGuire Air Force Base, we saw three, black, triangular shaped ufo's. Now, remember, all air traffic was shut down at that time.  So, we were confused to see aircraft flying so low and close to the road.  They were about 100 yards from the road, or less.  There were three aircraft, just above the tree line.  All three ufo's had round, very bright lights at all three points.  They were moving very slowly, and rotated circularly at the same time.  There was no noise being generated, it was completely quiet.  I pulled the car over, got out, walked around the car and into the field.  It was awesome, I was so happy to see them.  I wanted to run out into the field to get a better look, but my wife started panicing, telling me to get back in the car or she was going to leave without me, now I wish I would have.  A few days later we found out that the flight line at McGuire AFB was shut down at the same time we saw the ufo's, and F-16 fighters were sent out to investigate, freaky!  Talk about an awesome experience, great!  My wife and I both think it is obvious that they were observing what was going on, with the events of 911, and our sudden stop of daily routines.  Keep looking up in the sky, you never when you might see a ufo, awesome!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53606.html](http://www.nuforc.org/webreports/reports/053/S53606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
