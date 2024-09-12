@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westwood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light surrounded by clouds or fogI was walking my dog at a little after 6:00 am this morning (9/12/14) in Westwood area.  I happened to look up towards the western sky and saw a strange light glowing behind what looked like vapor or fog--kind of like what a jet looks like when it's coming in for a landing in fog.  But it wasn’t really moving.  There was some movement to it, but very slow.  The bright white part was about as bright as the moon, and about half the size (the setting moon was also visible quite a bit to the left and higher in the sky).As I watched it started to dissipate, then the light went out and there was a strange oblong 'glow' or vapor remnant left for a few seconds, then nothing at all visible where it had been. And there was absolutely no sound or noise associated with it.The entire event lasted maybe about 30-45 seconds. I tried taking a video with my cell phone, but it doesn't really show much and I wish I'd just tried taking a photo. I am an artist though, with an excellent visual memory, and went home and drew in pastel what I remember it looking like both when the light was bright and the vapor after it went out.  I also did another drawing in pencil.I'm interested in astronomy; I have seen comets, fireball meteors, planetary conjunctions, eclipses--this is like nothing I've ever seen before.  Like I said it looked like a jet coming towards me in fog, or like the top part of the moon peaking from behind clouds.  It was weird and fascinating to see.The air was perfectly clear and afterwards during the walk I even saw a small plane, a helicopter, and a low flying jet headed west --and they looked nothing like what I saw; they were all crystal clear in view--no halos, vapor, etc.From what I’ve found online this morning a lot of others saw something similar.  I sent an email to CBS news about it.  Some others reported it to a radio station.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113477.html](http://www.nuforc.org/webreports/reports/113/S113477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in La Veta (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Summary : Well what happened was when I was about 5,  I was coming back from a trip from my grandparents. I was looking out the windown and it was very dark. I suddenly saw a object it had lights with a circular pattern It had multiple colored lights mostly Red White & Blue. When I returned home I went over to the tv and turned it on. There was a news report of about 5 sightings of a ufo flashing red white and blue lights. I then kept it inside me till there was this pageIt had lights from my perspective with about a 2 foot per light seperation. It had a distinct pattern of the lights. It went White, Blue, Red. It flashed all the seperate lights at once. I observed it. My background is I am 16 know was 5 at the time have a good social life, very mature and very truthfull.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02711.html](http://www.nuforc.org/webreports/reports/002/S02711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
