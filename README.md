@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:12 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harris Ranch (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Faster than the speed of life.I was a hot summer day, right in the middle of the harvest season.  We have been running up and down I-5 like a yo-yo since the 4th of July.  North bound on I-5, bright happy sunny day, load of tomatoes behind my 18 wheeler.    Suddenly as I aproach the intersection of 198 and I-5 (Harris Ranch), oh say a few miles south of the air field, I see clearly thru the bug spattered windshield, an airfoil of some kind apparently taking off from the runway at the Texaco station of Harris Ranch Inn.  I say to him "get it up, get it up, get it up" becuase his angle of attack is nearly paralell to the ground to gain sufficient speed for take-off.  The wing-like aeroplan-apparition, white or silver in color then lifted at a very shallow angle and accelerated to an incredible speed directly northbound over I-5, I noticed that his wing-tips grew smaller and smaller, closer and closer together untill it was just a dot that disapeard within 5-6 seconds.  At first I thought it was a Cessna or Beech or duster on the field.  Cant say weather it took off north or south of 198, but is was no jet and thats for sure. A crop cirle was reported in Fresno believed to be a hoax made by a crop cirlce company.    ((identifier deleted here))((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34935.html](http://www.nuforc.org/webreports/reports/034/S34935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seal Beach (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was not a domestic or foreign aircraft, it wasnt an earthly ship..I was standing on a built platform 20' off the ground to observe the shuttle fly-over. It was around 1 o clock.As I was watching the shuttle flying by right in front of me, I noticed a very shiney cylinder shape object rotating at my 10 o clock at an altitude of at least 60k feet.I looked up at a gleeming cylinder and it looked like it had 3 curved panels attached by unknown means.It had a shiny light on bottom attached with what looked like a rod.I also seen that it had no structure(s) holding it together.It hovered at elevation and spun for many seconds. I tried to take photos but lost sight as soon as i took my eyes off of it.I enclosed a sketch of object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165203.html](http://www.nuforc.org/webreports/reports/165/S165203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
