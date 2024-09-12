@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 11 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reynolds (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a solid white light traveling West to East, dimmed and then disappearedA bright light (like a bright star) in the sky traveling West to East. It dimmed and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77771.html](http://www.nuforc.org/webreports/reports/077/S77771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 UFO over Los AngelesThe day after the incident of 9-11 where all planes were grounded and military jets were protecting our skies I spotted 3 copper colored disk shape craft with a yellow glow in the center flying in a flying v formation about 500-600 feet above my house These craft were going super slow headed north and making no noise at all, almost as if they were flying low to not be detected by radar, me, my brother and father spotted these craft, after about 10 minutes or so we noticed the military jets going into afterburner ...these jets very high in the sky but i noticed because of the loud noise they made and change of speed obviously, My belief is they might have spotted these craft and attempted to chase it,nonetheless I am totally convinced UFO's exist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65021.html](http://www.nuforc.org/webreports/reports/065/S65021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
