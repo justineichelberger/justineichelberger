@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:12 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seal Beach (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was not a domestic or foreign aircraft, it wasnt an earthly ship..I was standing on a built platform 20' off the ground to observe the shuttle fly-over. It was around 1 o clock.As I was watching the shuttle flying by right in front of me, I noticed a very shiney cylinder shape object rotating at my 10 o clock at an altitude of at least 60k feet.I looked up at a gleeming cylinder and it looked like it had 3 curved panels attached by unknown means.It had a shiny light on bottom attached with what looked like a rod.I also seen that it had no structure(s) holding it together.It hovered at elevation and spun for many seconds. I tried to take photos but lost sight as soon as i took my eyes off of it.I enclosed a sketch of object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165203.html](http://www.nuforc.org/webreports/reports/165/S165203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Manhattan UFOIt was a cloudless night with a big moon (cannot remember how full).  My brother and I were people watching in the apartments around Hell's Kitchen (mid-town on west side).  The object came over the apartment building and stayed there motionless.  It clearly had no markings and was featureless except for a band of orange lights that pulsated from yellow to orange.  After hovering for nearly five minutes it began to climb until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18021.html](http://www.nuforc.org/webreports/reports/018/S18021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
