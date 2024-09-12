@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was smoking outside and just happend to look up towards the moon when I sighted this object moving very fast in a circle type of turnThis object looked like a bird of prey that was gliding, with no movement of the wings.  It was moving fast and in a rounded turn to the South.  It was a pale gray color that was hard to see (almost blending in with the night time sky ) and a very unusual experience for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113493.html](http://www.nuforc.org/webreports/reports/113/S113493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lolo (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My son and I saw a bright, white colored object in the sky right near the moon, but lower about a half hour ago.My son came inside and said there was something by the moon. I went outside and what I saw was a white colored object moving west slowly. It seemed to be fairly high up-I don't know how high, but lower than what a commercial airliner flies at. This object was getting brighter and dimmer while moving west. There was no sound associated with it. It was going slow-not even as fast as a slow plane. There was a smoky looking circle of haze around this object, but as we have had forest fires around here maybe it was just leftover pollution, although the rest of the sky is clear today.The object moved west for about three to four minutes, then appeared to gain altitude and began going south. I watched it until it was very hard to see, then came inside. I thought, initially that maybe it was a helium balloon, but I have seen those in the sky before and this did not seem to be one. I have never seen helium balloons reflect sunlight like this object did. It definitely was NOT any aircraft that I have ever seen, and it was moving too slow to be a weather satellite. Last week, at about eleven thirty pm, my fiance and I saw a strange object in this area, and about fifteen minutes after we saw it there was a very fast moving jet that flew overhead(airforce?). If you would like more information on what we saw I would be happy to let you know. I am 29 years old, female, have nine years of law enforcement background, and am not a nut. My son is six years old. My fiance is 31 and a University Police Officer(and also not a nut case).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04098.html](http://www.nuforc.org/webreports/reports/004/S04098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
