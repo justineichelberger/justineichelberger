@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 12 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dennisport (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Extremely bright..painful to the eyes in broad daylight, cigar/disk shaped.I was driving to a doctor's appointment around 2pm. My direction was north. I noticed a tremendous light reflection in the sky ahead. The shape was cigar/disk-like. What I remember was that this light was so bright it was painful to look at,almost like what a solar eclipse. Putting on sunglasses, I then saw the shape and noted that this craft was traveling west. The size was approximately half of my outstretched thumb.I was travelling in a line of traffic, so I was unable to keep track of the craft once it went behind trees after a minute. It was the brightest thing I've ever seen...brighter than the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26582.html](http://www.nuforc.org/webreports/reports/026/S26582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bluish white energy orb travelling very low in sky just above tree tops.I was leaving Fort Warden front gate and turned right in my car.  My husband was about ten seconds behind me and turned left in his pickup.  I was just at the first stop sign and began driving and looked up to my left with my window open, and saw what I initially thought was a firework or low flare that was blue, but as it moved over the tree tops it was glowing blue white with no sound as my window was open, and it was not falling but went down behind the trees in front of me towards Chinese Gardens/North Beach area.  My husband saw it just before me, as he turned left on the same road and as he turned onto the small road with his large pickup he ended up on the side of the road in the ditch..  When he started up the ditch he was looking directly up at a blue white disc with a circle around it but the center was the blue energy type light and there was no sound as it passed over him.  It was at the same height over the trees and he didn't even think it was anyth! ing else but some type of flying craft but nothing he had ever seen before.  About the same time 8:20 our daughter who was in Port Angeles was on a walk and she saw a bluish white light fly across the sky over the water but it went out of her sight as it went down behind the trees at Crown Park.  She said she didn't know what it was, but it wasn't a jet or a plane or a helicopter and it was too close to be a star and that it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113574.html](http://www.nuforc.org/webreports/reports/113/S113574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
