@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:06 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:26 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Claremont (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>flashing bright light changing colors and smaller objects flying around it in the night sky.was at the home of a famous music celebrity when i noticed a strange light in the sky.  i watched it for a while and noticed that it seemed to move in an erratic fashion.  i then noticed that the light was changing colors.  i thought i should get some witnesses to make sure that i wasn't trippin'.  two guys came over and confirmed the object was flashing and changing colors.  all of a sudden, smaller lights started flying around the main light, but they were barely visible.  they seemed to come from the main light itself, then return to the light.  two more people, including the celebrity, then witnessed the object.  i have never seen anything like that - ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09772.html](http://www.nuforc.org/webreports/reports/009/S09772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sanger (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I SAW THE CRAFT HOVERING  ABOUT 500 FT FROM THE GROUND FACING NORTH</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77849.html](http://www.nuforc.org/webreports/reports/077/S77849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
