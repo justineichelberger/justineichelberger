@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fiery looking object, no sound, moved slowly at first then more rapidly and disappeared in the clouds.This appeared to be a hot air balloon at first (but have never seen a hot air balloon at night)?  We thought it was a hot air balloon that was firing its burner? It was in the eastern sky out over the Atlantic.  We were on the balcony of our condo (17th floor). I also thought it was a plane coming in for a landing with an engine on fire? There definitely appeared to be a flame coming from this object.  I could not detect any shape.  There was no sound. I had binoculars on it but could not discern any shape, or smoke?  The object moved closer to  our condo, almost overhead, then moved back towards the ocean and was lost in the clouds?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102212.html](http://www.nuforc.org/webreports/reports/102/S102212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>He could clearly make out three lights, with combinations of red and white."It was weird. I thought it was 3 planes flying together at first, but they were in unison the whole flight, there were red and white flashing lights." "They made a triangle formation." Peter also states that the three triangular lights were spread so far apart, he knew it was not an airplane of any type. The craft was moving fast enough that the sighting only lasted "a minute or two." The object finally disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25073.html](http://www.nuforc.org/webreports/reports/025/S25073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
