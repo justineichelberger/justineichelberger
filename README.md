@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Sighting of Unusual Flaming Object in Night Sky, East Daviess County, Kentucky, 7:52pm CDT, September 13, 2013Sighting of Unusual Flaming Object in Night Sky East Daviess County, Kentucky September 13, 2013  I saw this tonight at 7:52 pm CDT in the sky from eastern Daviess County, KY, September 13, 2013.   I am curious if anyone else reported seeing this.  It looked like a big ball of flame just below the moon and drifting across sky in a southwestern direction until I lost sight of it behind some pine trees.  Very amazing!  I took this picture with my cell phone.  My husband observed it with me and took several pictures with a digital camera, but the one on my phone is best.  (His are not steady).  I really am anxious to know what this was, or if it was seen by others.  -  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102208.html](http://www.nuforc.org/webreports/reports/102/S102208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White orbAfter hurricane Irma we lost power and had a generator running for the 2nd night in a row. The windows were wide open and the blinds all the way open.  I could easily see outside.  At 3:30 in the morning. I noticed a white glow then an orb ascend towards the sky.  It was about 100 feet from where i observed this.  My wife saw the same thing the following night but much closer.  No sound from the orb.  Similar to the sighting in Lee County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136302.html](http://www.nuforc.org/webreports/reports/136/S136302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
