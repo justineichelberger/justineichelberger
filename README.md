@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:08 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bluish white energy orb travelling very low in sky just above tree tops.I was leaving Fort Warden front gate and turned right in my car.  My husband was about ten seconds behind me and turned left in his pickup.  I was just at the first stop sign and began driving and looked up to my left with my window open, and saw what I initially thought was a firework or low flare that was blue, but as it moved over the tree tops it was glowing blue white with no sound as my window was open, and it was not falling but went down behind the trees in front of me towards Chinese Gardens/North Beach area.  My husband saw it just before me, as he turned left on the same road and as he turned onto the small road with his large pickup he ended up on the side of the road in the ditch..  When he started up the ditch he was looking directly up at a blue white disc with a circle around it but the center was the blue energy type light and there was no sound as it passed over him.  It was at the same height over the trees and he didn't even think it was anyth! ing else but some type of flying craft but nothing he had ever seen before.  About the same time 8:20 our daughter who was in Port Angeles was on a walk and she saw a bluish white light fly across the sky over the water but it went out of her sight as it went down behind the trees at Crown Park.  She said she didn't know what it was, but it wasn't a jet or a plane or a helicopter and it was too close to be a star and that it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113574.html](http://www.nuforc.org/webreports/reports/113/S113574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maysville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Objects were too bright and their aerodynamics were out a placeThis is a report on the mutiple objects that my 19 year old son and myself viewed.When objects were first noticed we were standing in my son's girlfriend's yard.As I have a habit of viewing the night time sky as was admiring the stars when I first noticed these bright illuminous objects seemed out of place. I first called out to my son Jeremy with excitement. Time was 21:30 and the night shy was crystal clear.Being an amatuer astronomer and know aerodynamics I knew this was no ordinary phenomena. We watched these objects go on and off. At first I thought they were flares but they changed there position to quickly. We continued to observe these objects as we got in our car and headed on KY HWY 9 going east 9 miles from Maysville KY. Color of objects were bright orange and continued to be pulsating on and off.They were a total of four to five objects as the would go side to side with lights going on and off. I mentioned to my son that these objects were similar in nature to the Phoenix lights. We are in the path of Greater Cincinnati Airport as I also could see Commercial Airlines in the distance sky.  This lasted for 30 minutes tell objects just dissapperaed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58804.html](http://www.nuforc.org/webreports/reports/058/S58804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
