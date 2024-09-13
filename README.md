@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange fireball in sky near LAX dissipating into glowing emberOn 9/13/04 at 9:05pm I observed in the southeast sky, east of LAX, approxiamately 10-15 miles away and less than 10,000 feet a stationary orange, fuzzy fireball aobut 80% the size of a full moon.  As it dissapated, it became redder and sharper and I could even make out "fire chunks".  A few seconds later, it ended as a pinpoint glowing ember and then this disappeared.  The whole event lasted approximately 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39287.html](http://www.nuforc.org/webreports/reports/039/S39287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lake Forest Park (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>2 bright lights aligned, one changing colors and movingI noticed two bright objects very high in the eastern sky at 1:30am when I went to the kitchen for a drink of water.  They caught my eye because there were no planes flying at that time due to the terrorist attacks.  I went outside to get a better look.  They were far brighter than any of the surrounding stars.  They were aligned at the same latitude, about 40 degrees up.  The one on the right was blinking, the one on the left was not.They were stationary for the most part, however the one on the right seemed to "jiggle".  I grabbed my Sony 8mm video camera from inside and went back out and started filming.  I tried several times to zoom in on the one on the right which was more active, but the digital zoom had difficulty focusing on it.  However, the video does show some interesting things.  First, when I zoomed in on the object on the right it is blurry but you can clearly see the changing colors - white, red, green, gold changing very rapidly.  Second, there is a point when the object on the right can clearly be seen moving quickly from left to right, then stopping and remaining stationary.   Several people have watched the video and agree that it does not look or behave like stars, planets, orbiting satellites, or aircraft.  I went back to bed with the objects still up there, so I do not know how long they remained.  Have not seen them since.((NUFORC Note:  We observe that the objects are not inconsistent with celestial bodies, perhaps "twinkling" stars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19715.html](http://www.nuforc.org/webreports/reports/019/S19715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
