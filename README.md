@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Looking exactly like Jupiter in night sky, a light appeared high in sky at time of ISS orbiting above, speeds across, vanishes, it exhiA light suddenly appeared high above, looking exactly like it could have been the planet Jupiter, almost directly overhead but slightly to the east, traveled from north to south in a flash just as if it had been hit by a baseball bat.  I’m guessing it may have traveled a sky distance of two to three degrees or about one seventh to one sixth of the sky immediately above me.  It had the same magnitude and appearance of Jupiter in the night sky, absolutely no difference.  I saw it for a split second or so and then it was gone, without fading in magnitude or changing in appearance.  Its brightness was consistent without any fluctuation.  It disappeared in the same form as it had appeared.  It displayed no streak, tail or any kind of trail or smoke.  It was a singular light and moved across the sky incredibly fast.  I observed it because I was watching the ISS moving from NW to NE that evening in my backyard.  The ISS had reached its zenith in the northern sky wh! en the ISS went behind a tall fir tree and while I waited for it to re-emerge (which it didn’t by the way) the unexplained light appeared about a degree away just to the south of the location of where I last saw the ISS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87168.html](http://www.nuforc.org/webreports/reports/087/S87168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Springer (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright aqua blue almost turqouis.About eleven i was on my way home from work and i see a flash of aqua blue lights (not plane or helicopter color) it was bright and circling in the field behind my house but would kimd of hover every now and then, actually had ALL the dogs in springer barking.  Springers out in the country so i was curious if i was the only one noticing this so i posted on facebook trying to see who else seen this and about three other people seen it from different parts of oklahoma and texas!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83944.html](http://www.nuforc.org/webreports/reports/083/S83944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
