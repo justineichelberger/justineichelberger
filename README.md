@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 22:00 - 22:00 minutes.</sub><blockquote><sub>Five orange-red lights over ocean that kept appearing and then disappearing. Would make a diagonal line, and would be spread out.Saw orange-red circles/ovals that were appearing and then disappearing. One would appear and then another one, and then another one.  They would appear and then disappear. At first the lights were clumped together, then they almost made an "S" shape.   After about 5-10 minutes they appeared again but more spread out.  Three of them made a diagagonal line, and there were two on the opposite side.  I continued to wait for more lights, but they did not come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129895.html](http://www.nuforc.org/webreports/reports/129/S129895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw what I thought  was a silent jet plane flying low and slow over the trees above my house at 1:30 in the morning.9-11 had only happened two days prior to this sighting.  I was intranced by what I saw and in my mind it could have only been a jet plane.  It was down so close to the trees that I could make out what I thought was bolts or rivets in the outer metal of the plane. Not until later did it occur to me that planes were all grounded and that as I stood watching it I heard no sound at all! Then I realized that I could not say for certain that what I saw was actually a plane.  It was very large but I saw no windows of any kind and no wings.  Just a lot of metal and bolts or rivets and it was moving slower than I would have thought a jet could move and it did not disturb the trees or have any kind of tail that I could see. It has taken me this long to report it because I didn't want to appear crazy or labeled a crank or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46067.html](http://www.nuforc.org/webreports/reports/046/S46067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
