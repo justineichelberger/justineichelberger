@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red/orange glowing object headed south over Long Island.Unknown object appeared to be flying at a very high altitude; too high to observe shape.  It was glowing red/orange. We thought that it may be a plane on fire.  Only one object observed. Flew by very quickly headed south.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113533.html](http://www.nuforc.org/webreports/reports/113/S113533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange sphere over El Cajon.At approximately 7:00PM, Saturday evening, September 13, I observed an orange sphere shaped object, motionless, about 35 degrees elevation from level ground with an estimated distance of 1/2 mile.  The sky was clear with clouds in the far distance.  At first I was convinced it was an amateur weather balloon, but it was very breezy out and the object did not move at all.  The wind was blowing out of the southwest at about 5 knots, gusting to 7-8. My viewing angle was north-northeast. After watching the object for about 90 seconds, seeing no movement, I ran inside to get my binoculars for a closer look.  When I returned roughly 20 seconds later the object was no longer visible. I had an unobstructed view of the sky within a 120 degree arc of the sighting. The approximate location would be near the intersection of Interstate 8 and Second Ave. Approximate diameter of the object is 4'. No lights or illumination noticed.  The color was a solid international orange.  Guestimate of altitude: 800'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113878.html](http://www.nuforc.org/webreports/reports/113/S113878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
