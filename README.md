@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Springer (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright aqua blue almost turqouis.About eleven i was on my way home from work and i see a flash of aqua blue lights (not plane or helicopter color) it was bright and circling in the field behind my house but would kimd of hover every now and then, actually had ALL the dogs in springer barking.  Springers out in the country so i was curious if i was the only one noticing this so i posted on facebook trying to see who else seen this and about three other people seen it from different parts of oklahoma and texas!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83944.html](http://www.nuforc.org/webreports/reports/083/S83944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>El objeto estaba inmovil  en el aire, era de un color plateado y en forma de huevo.Eran aproximadamente las 5:25 pm, cuando me encontraba de regreso a casa, cuando de pronto mire por la ventana derecha de mi auto y observe un objeto en forma de huevo e inmovil en el aire a un distancia de 2 kilometros y una altura de aproximadamente de 500 metros , se miraba pequeño y plateado y a veces brillaba, lo observe durante 7 u 8 minutos y despues empezo a dirijirese hacia el sur, la velocidad la desconosco pero era muy rapido.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31456.html](http://www.nuforc.org/webreports/reports/031/S31456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
