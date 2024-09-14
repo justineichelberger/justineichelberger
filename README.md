@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>im an amature astronomer and have seen many objects before (satellites, iridium flares, ect.), and these were unusual.From Tigard, Oregon, looking east towards Mt. Hood just after dusk, I myself notice what appeared to be 2 stars, bluish in color, about the same magnitude as one of the stars in orions belt moving in unison to eachother (one slightly higher in altitude than the other) from north to south. Also, as they moved south they also were climbing in altitude, so from my perspective they were traveling upward diagnally.. Keeping the same distance apart from eachother.  These lights were solid points of light.  I'm an avid amature astronomer and right away I knew it was unusual so I told my girlfriend and my other good friend to look at what I was seeing.  We watched these lights ascend diagnally to the south for another 10 seconds and then these lights simultaneously faded out gradually until no longer visible. Again, they were blue solid points of light climbing diagnally one just above the other. These started about 20 degrees off the horison and ended at about 40 degr! ees.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89873.html](http://www.nuforc.org/webreports/reports/089/S89873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a jellyfish type object hovering.  It was pale blue in color and translucent.  There was a bright light that looked like a small flame at the base.  It appeared to almost be "floating" above the houses.  It was fairly low and vivid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102166.html](http://www.nuforc.org/webreports/reports/102/S102166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
