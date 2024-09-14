@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:26 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brigantine (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Enlarging the digital images showed what appeared to be in shape of a saucer like object.I took a high resolution digital photo of an metallic object that did'nt seem to move. I was using a 400mm lens and a 6.3 meg camera. The sun wasn't up yet. It appeared during the pre- dawn sky. I was on the beach in Brigantine NJ.When I used photoshop to enlarge the image I could see a raised center portion and a black what seemed like Windows or a Winshield . After I got around 4 pictures the predawn sky was changing and it disappeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26584.html](http://www.nuforc.org/webreports/reports/026/S26584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bribie Island  (Australia) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>flashing object changes colour !     second obect-  orange sphere   does nothing except sit there!i live on an island called bribie island in the state of queensland in the country of australia. around 12:30 am my wife came racing in to tell me there was a strange light in the sky . i told her she was probably looking at a falling star or a natural phenomenon. any way she argueswith me that i should come look ,   so i followed her outside. upon looking up at the object of my wifes concern , i decided she was not so nutts after all ,     we saw an object some distance off sitting about 500 metres above ground level , over the ocean  , thisobject was changing colours as it flashed , it changed from green to red then to white then to orange then to blue then to white again   and repeated this cycle over and over and over  for the whole two and a half hours that it stayed in the sky . the obeject seemed to be moveing in small half circles and snake "S" type pattern  but it did not move far from its original position . my wife and i  woke up her parents who live in the apartment upstairs  and they too can varify exactly what i state here. we all discussed what this object might be  but none could explain it ,  we thought it might be a plane ...but not more than 20 mins after that idea was  thought of   a plane  passed across the sky near the object ,  the difference between the to objects /craft was vary noticeable ,   this flashing thing was not a plane i guarentee you this much . the plane we saw crossing the sky would have come out of brisbane airport  around 12:30 am and reached the island airspace by around 12:50,am  i am positive any number of people aboard the plane including the pilot must have seen this object floating and flashing . the second craft was seen the following night around 6:30pm and left around 7:20pm this object was orange  like a large sphere,  it just hovered  and did nothing    it was like a orange star    but it was to vivid to be a star  anyway this object has been seen by other people including myself on numerous occassions  ,  i dont want to seem crazy but  this thing likes to appeaar and disapear at will around the same time in the same or similar spot   most days of the week , not much else to say about it except  that i am willing to answer any questions and take any mental tests you like including lie detector tests to prove i am not nuts nor am i imagining things .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14128.html](http://www.nuforc.org/webreports/reports/014/S14128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
