@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 13 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White orbAfter hurricane Irma we lost power and had a generator running for the 2nd night in a row. The windows were wide open and the blinds all the way open.  I could easily see outside.  At 3:30 in the morning. I noticed a white glow then an orb ascend towards the sky.  It was about 100 feet from where i observed this.  My wife saw the same thing the following night but much closer.  No sound from the orb.  Similar to the sighting in Lee County.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136302.html](http://www.nuforc.org/webreports/reports/136/S136302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Star drops out of sky straight down.Star? in East dropped straight down and winked out. Started dropping and went away in about four seconds. Interesting.  Didn't come west, went straight down ansd went out.  Dropped out of sky like lost gravity.  Interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77828.html](http://www.nuforc.org/webreports/reports/077/S77828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
