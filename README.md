@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Springdale (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A bright white sphere, which we at first expected to be a planet, was seen in the night sky near Zion National Park.  The object slowly moved horizontally, stopped, then moved vertically, quickly, until it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159365.html](http://www.nuforc.org/webreports/reports/159/S159365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A V-shaped object in the night sky, no noise, could only be seen with binocularsI was visiting friends in Glendale, California just after the wildfires had begun to subside.  We thought we might be able to see them at night, I believe we heard there’d been another flare-up even though it’d been about a week or more since the really intense ones.So we were outside about 11p.m., standing on their quiet residential street when the 3 of us, me (57 years old), my friend (about 54), and his mother (about 86) saw a jewel-like thing shining in the northern sky, somewhere above Montrose.  It didn’t move, it was very small, didn’t glow or change colors (kind of clear, actually) but very noticeable.My friend went in to get binoculars to see if we could get a better look at it, and when he did, his mom and I looked away at stars and lost sight of it.  When he came out we could not find it, so they eventually went back in the house, but I decided to stay outside and just look at the beautiful California night sky.I’d occasionally put the binoculars up to my eyes, and since I wear glasses I had to keep adjusting them, not knowing whether to adjust them to my regular eyes without glasses or with my glasses on. I finally just left my glasses off and began looking up, straight up.Suddenly I saw a V-shaped object moving slowly southward. It did have smaller V shaped designs or window or something greenish colored, but not lighted, more of a glowing, I just followed it for a few seconds, maybe 5-10, then tried to look without binoculars.  But I saw nothing, even with my glasses on.When I put the binoculars back up to my eyes, I saw the same type of object except it wasn’t green, it was an ORANGE colored V-shaped object, also moving slowly southward.  I have no idea if it was the original object, or a second one, or what.  Again, no lights, more of a glowing of smaller V-shaped designs within the larger V-shaped object.  The point of the V led the object.  I could near nothing, nor see anything without the binoculars and have no idea how far up, or how big it was.I just guessed that it was some kind of military plane or something, I didn’t know UFO’s were ever reported to be V-shaped, until I saw something on TV last night (Oct 20, 2010) so I decided to report what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78509.html](http://www.nuforc.org/webreports/reports/078/S78509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
