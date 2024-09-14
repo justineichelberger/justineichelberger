@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:07 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Star drops out of sky straight down.Star? in East dropped straight down and winked out. Started dropping and went away in about four seconds. Interesting.  Didn't come west, went straight down ansd went out.  Dropped out of sky like lost gravity.  Interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77828.html](http://www.nuforc.org/webreports/reports/077/S77828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Meridian (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>More than a dozen red lights travelling slowly towards North and then slowly together up in the skyAs we were driving West from Boise towards our home in Meridian tonight around 9:00 PM, I saw what it looks like red lights going slowly towards the sky.First I thought they were attached to a very high post for some advertisement or something like that since today is Saturday.  As we were getting closer to them they look like small red circles going North.They were very close together but they did not touch each other. Almost like they were connected by a net  I took my phone and decided to take a video.  My husband stopped the car so we can have a better view without getting or causing an accident.I don't know when they showed up, or how many they were from the beginning, but when we saw them they were about 12-15 and as they travelled North, they started to disappear one by one in the same spot until they were not visible anymore.When we arrived home, my husband decided to go outside to see if they were still visible .  He called me outside and they were all together almost like a bunch of grapes and they went up slowly up in the sky.  We took more pictures with our cell phones and I did try to take a video again but is not visible to the naked eye.  The pictures we took at home we can make them bigger and it looks like a big light in motion.I don't know if an expert with the right technology will be able to see something on my video. I can't make it bigger as the pictures can.From the time we first saw them until they went up in the sky, I would say it was about an hour.  We decided to come inside and check the local news but I did not see anything.Outside that light was still visible and it seems like 1 big blinking light to me, but my husband said he saw more than a couple of blinking of different colors (red, silver, white) In the pictures we took it looks white with blue around it.Thank you,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102174.html](http://www.nuforc.org/webreports/reports/102/S102174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
