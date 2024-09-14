@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alberton (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>3 lights with aura no tail steaking torwards same locationI was driving west on I-90. First light I seen I was at the nine mile exit.  It streaked across the sky south to north. It started bright white then bright green lasting 2 seconds. No tail visible. Thought that was a cool shooting star. 15 miles west I seen another one that got me thinking. It was bright white, no tail, lasting 2 seconds.  This one however moved in a curved crescent shape what seemed to be low and around a mountain south to north. The third was 2 miles down the road around the corner.  It too was bright white, no tail, lasting 2 seconds. Straight line south to north and low as well.  All 3 lights seemed to be heading towards the same spot.  They didn't look like a normal shooting star. They had a aura around them like a headlight on a car at night does.  Im not sure what they were.  Just seemed really weird that one would curve.  Im a truck driver and drive mostly at night and have witnessed lots of other lights in this area, but not like this.Maybe note worthy?  A half hour later i noticed a weird cloud in the sky south of I-90. It was steaks and streaching.  Wider to the north going to a point in the south.  Other then those it was a clear night with almost a full moon that illuminated the streaching cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129919.html](http://www.nuforc.org/webreports/reports/129/S129919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw the light in Las Vegas before it turned green and yellowOn Wednesday evening September 14, 2011 at approximately 7:45 P.M. local time I was driving Southbound on Executive Airport Rd in Henderson, Nevada.  I was driving parallel to and about 1 mile West of the runway at Henderson Airport.Since I am a pilot I always tend to scan the sky for aircraft.  I observed what appeared to be a small aircraft landing light moving from West to East and descending at about a 10 degree angle.  This made perfect sense since it was consistent with a small aircraft on a left base to Runway 35.  At this time it was only a small bright white light.  I then noticed that it was traveling at a greater speed than a small aircraft normally would in the traffic pattern.  My thought was that it was a hotshot pilot in a high performance aircraft.Right after I had that thought the white light grew to about 5 times it’s original size and turned a beautiful shade of green and yellow with a long tail of light trailing behind it.It was still descending at a 10 degree angle.  It then disappeared behind some foothills that are located about 5 miles South of the airport.  It was then apparent to me that I was a much greater distance from the light than I had originally thought.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83957.html](http://www.nuforc.org/webreports/reports/083/S83957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
