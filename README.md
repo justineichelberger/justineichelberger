@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grosse Ile (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>Red/orange floating lights/fireball stopped in air than dissapeared.I doubt a UFO but three VERY bright red/orange lights flew slowly from what looked like south Windsor in Canada.  Two flew together in a definitive path, hung out in the sky for a couple minutes.  The third took off from the ground on the same path as the others in a very meticulous fashion.  The first two started to move away than suddenly disappeared as the third approached.  I ran in to tell someone looked out the window and it disappeared.   My guess is there are groups of people that play tricks on the UFO community and the gen pop.  I think a balloon with a propeller could have the same effect, but I  do not know.  And total respect for you guys I just don't believe we've been visited.Edit: after scrolling down and seeing the "animals responded to event" I will say that dogs in the neighborhood started barking and other strange noises I usually don't hear around here.  I assumed something happened and a dog started a chain of dogs barking.  In no way does this prove anything and I am still a huge skeptic. Also possibly two lights, one on top, one on the bottom. Aircraft in vicinity also but it was a passenger jet I bet and holds no merit. Edit: I posted this then checked out the site a little. These objects looked exactly like the fireballs described.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102189.html](http://www.nuforc.org/webreports/reports/102/S102189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alberton (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>3 lights with aura no tail steaking torwards same locationI was driving west on I-90. First light I seen I was at the nine mile exit.  It streaked across the sky south to north. It started bright white then bright green lasting 2 seconds. No tail visible. Thought that was a cool shooting star. 15 miles west I seen another one that got me thinking. It was bright white, no tail, lasting 2 seconds.  This one however moved in a curved crescent shape what seemed to be low and around a mountain south to north. The third was 2 miles down the road around the corner.  It too was bright white, no tail, lasting 2 seconds. Straight line south to north and low as well.  All 3 lights seemed to be heading towards the same spot.  They didn't look like a normal shooting star. They had a aura around them like a headlight on a car at night does.  Im not sure what they were.  Just seemed really weird that one would curve.  Im a truck driver and drive mostly at night and have witnessed lots of other lights in this area, but not like this.Maybe note worthy?  A half hour later i noticed a weird cloud in the sky south of I-90. It was steaks and streaching.  Wider to the north going to a point in the south.  Other then those it was a clear night with almost a full moon that illuminated the streaching cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129919.html](http://www.nuforc.org/webreports/reports/129/S129919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
