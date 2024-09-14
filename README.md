@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tirane (Albania) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Firstly i saw some lights that looked like  an airplane but with very fast blinking lights.  After 5-10 seconds another object shaped like a boomerang appeared in the sky moving very very fast and made a 90 degrees turn and then disappeared in the horizon.  It took it just 2-3 seconds .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148866.html](http://www.nuforc.org/webreports/reports/148/S148866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>watched a black object float across the sky level while appearing to rotate on 3 axis, seperate into 2 objects, reconnect and then slowly ascend straight up over the course of 25 minutes.At 19:07 hrs this evening, Tuesday, the 14th of September 1999 I witnessed what appeared to be a black spot moving slowly across the sky from north/northwest to south/southeast in a straight/level line. My daughter and I were watching this and originally thought it was a large bird. When it stopped and hovered in the same spot for several minutes I ran and got my glasses for a better look. What I saw appeared to be a black non reflective object shaped like 4 cubes connected to form a tri-pod rotating on an x/y and z axis. At approximately 19:15 hrs it seperated into two (2) smaller black objects of apparently equal size and or mass. Neither of the smaller objects appeared to have a definitive shape and moved fairly fluidly in what I can only describe as elliptical orbits around eachother and appearing to come into contact with eachother every few orbits. At approximately 19:20 hrs the objects rejoined in the original shape and started to ascend straight up very slowly. The sighting continued until 19:32 hrs when it passed out of my visibilty range. At approximately 19:21 hrs I tried to phone you via information in Seattle, and they repeatedly told me they had no listing for either the National UFO Reporting Center or anything under UFO at all. The operator was intrigued that I was witnessing it at the time and I tried to describe what was going on while she was looking for your number. Subsequently I am submitting this to you in this format. My daughter and I were watching aircraft and I was explaining the contrails from them to her when we sighted this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09744.html](http://www.nuforc.org/webreports/reports/009/S09744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
