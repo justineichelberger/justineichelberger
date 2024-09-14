@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orangish colored object hovering in sky, then flew south.We saw a large orange object hovering in sky.  The color was very bring and seemed to flutter a but. We took 3 pictures with a camera phone and it flew away southbound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92783.html](http://www.nuforc.org/webreports/reports/092/S92783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ocean City (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Over Ocean City New Jersey, 4 identified lights seen, first 3, no red airplane lights blinked, no sound, at least 4 to 5 miles away, black with lights aligned in perfect measurements first were 3 close to togeather with minimal blinks then a blink and the 4th light aligned i say on clock was about 1 oclock on a clock and at least from ground 3 miles away and from ground up i say was 15 telephone poles up so that about 60 ft times 12 up in air. they hung in the sky, blinked minimally, no red airplane lights attached only bright lights with no shape to a craft at all was black then a blink a 4th perfectly aligned up hanging up high in sky the bay at my back. as i watched then a blink zero lights then behind where they stood fire work burst.  Were they drones, ufos or military maneuver i dont know but was cool and not seen any posts recently for ufos in ocean city but was a family members wedding and that itself was cool. the wedding photographer took pics or v! ideo i dont happen to know their name nor did get pics.  The janitor at local motel i stayed at also was them at a bus stop watching with the local police so what was this? We heard no noise, no funking colored lights, no noise, no red lights for our airplanes it is required they have them it had none, only slightly blinked to call in the 4th light to line up then blinked for the departure or total darkness odd fireworks happened 3 minutes after so was this drone military or ufo? I have no idea not like usa milirtary plane did not chase them away or anything, no flashy light maneavers in the sky they just were there about 1:00 oclock on clock with the bay my back and not over the ocean even seemed be over part ocean city. no shape no sound no color just round bright lights so aligned perfect looked mathematical larger then orions belt but close in measurement to ping pong ball in sky and 4 them confirmed this is very different the fire work burst after was cool but odd. eve! n drones must have lights and colored this had only bright whi! te light s no colored at all no lights facing the ground no sound no shape oddest thing in world for Ocean City September 14, 2019 abotu 10:00 ish night 1 oclock in sky direction have no idea just that bay was to my back at wedding reception on dock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149148.html](http://www.nuforc.org/webreports/reports/149/S149148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
