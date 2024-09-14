@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a jellyfish type object hovering.  It was pale blue in color and translucent.  There was a bright light that looked like a small flame at the base.  It appeared to almost be "floating" above the houses.  It was fairly low and vivid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102166.html](http://www.nuforc.org/webreports/reports/102/S102166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 bright orange triangles slowly moved across the sky in a triangle formation, then the light emitting from each faded 1 by 1.As I arrived to my friend's house to drop her off, I stepped out of my car to let her out of the backseat.  After starting to say goodbye, I looked up to the sky and noticed what were certainly not stars, nor common aircraft.  I was amazed to see three, orangish-red, glowing triangles, flying in a triangular formation.  Their speed seemed to be comparable to that of typical jets, however, there was absolutely no sound to be heard from this spectacle.  They were in the northwestern sky, flying from west to east.  I observed this for about two minutes, when then the light emitted from each source seemed to flicker slightly, then fade out - the front one first, then another, then the last one, until I saw them no more.  I was incredibly excited and overwhelmed with curiosity after viewing this incredible and unexplainable sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102209.html](http://www.nuforc.org/webreports/reports/102/S102209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
