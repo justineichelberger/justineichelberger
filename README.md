@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:12 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 14 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Walters (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>bright white circle light from west to south east, completely silent no flashing lights at all, for around 7minutesat around 0640 this morning,i was waiting on sun up, in a very rural and isolated part of where i live, i saw a bright white light in the west sky, very bright, i noticed it was moving in my general direction, at about 10 to 15 thousand feet, i had binoculars and i glassed it, it looked round and quite bright,as though the whole circle of the bottom was illuminating, it traveled due east for approximately three minutes, then turned to the south east, i saw no flashing lights of any color in my binoculars or without, it was completely quiet outside i heard nothing, as it turned i was lookin up at around a 45 to 50 degree angle, no visible trail of anykind, i watched till i could not see due to trees</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65665.html](http://www.nuforc.org/webreports/reports/065/S65665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orangish colored object hovering in sky, then flew south.We saw a large orange object hovering in sky.  The color was very bring and seemed to flutter a but. We took 3 pictures with a camera phone and it flew away southbound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92783.html](http://www.nuforc.org/webreports/reports/092/S92783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
