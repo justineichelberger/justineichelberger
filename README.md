@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Larkspur (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Object seen in the eastern sky that was originally slightly smaller but with a planetary brightness which travelled up and away and diminshed in brightness than changed direction downward at a 45 degree angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31495.html](http://www.nuforc.org/webreports/reports/031/S31495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in PortTownsend (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White light, zig zagged across the sky, shot out, stopped then started to blink in colors.I was outside of the van we were camping in out side a friends house. My girlfriend and her friend were inside the van. I have seen on four seperate occations U.F.O's, but never had I had a wittness. I thoght I was going crazy. This was different. I looked up seen what looked likr it could have been a Plane. After a few seconds I could tell it was different, It was about 45 degrees above the horizon line. It moved from SW to NW. I told the girls to come and take a look. We all seen the light. It was not bliking and it was bright. It zig zaged, or quivered or something. Then it stopped for about a second. Then, at a very high rate of speed, it shot out into space. ust before it was out of sight it stopped again. It stayed there and started to blink red, blue, and I think white. It sat there for 20 mins. WE RAN DOWN THE STREET TO GET A BETTER VIEW. After a while we wondered what we shold do. Then we did noting and went to bed. It's funny when you see something so amazing your brain can't get around it. The next day we talked about it, but daylight somehow made our story seem foolish. I know we seen it.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51481.html](http://www.nuforc.org/webreports/reports/051/S51481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
