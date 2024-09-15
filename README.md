@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in PortTownsend (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White light, zig zagged across the sky, shot out, stopped then started to blink in colors.I was outside of the van we were camping in out side a friends house. My girlfriend and her friend were inside the van. I have seen on four seperate occations U.F.O's, but never had I had a wittness. I thoght I was going crazy. This was different. I looked up seen what looked likr it could have been a Plane. After a few seconds I could tell it was different, It was about 45 degrees above the horizon line. It moved from SW to NW. I told the girls to come and take a look. We all seen the light. It was not bliking and it was bright. It zig zaged, or quivered or something. Then it stopped for about a second. Then, at a very high rate of speed, it shot out into space. ust before it was out of sight it stopped again. It stayed there and started to blink red, blue, and I think white. It sat there for 20 mins. WE RAN DOWN THE STREET TO GET A BETTER VIEW. After a while we wondered what we shold do. Then we did noting and went to bed. It's funny when you see something so amazing your brain can't get around it. The next day we talked about it, but daylight somehow made our story seem foolish. I know we seen it.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51481.html](http://www.nuforc.org/webreports/reports/051/S51481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orb over Knoxville, TN.  9/16/2016.This morning, after arriving to work I stepped out to smoke.  I was watching a plane fly by pretty low in the sky just as the sun was coming up.  I noticed behind the plane what looked like a bright star.  Slowly rising straight up into the sky.  It was far to daylight to be a star.  I ran inside to grab a friend and upon arriving again to look the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129950.html](http://www.nuforc.org/webreports/reports/129/S129950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
