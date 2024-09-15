@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:26 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Mexicali B. C. Mexico; Sierra Cucapah; Cerro prieto., B. C. () reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Summary : I seen one objet upper the Sierra cucapah (Cucapah mountains)the form of this objet: ovoid and gold color, this objet disappears when i don't watch. Iré proximamente al sitio exacto.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03007.html](http://www.nuforc.org/webreports/reports/003/S03007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was looking thru a telescope at the moon in 1997 month is not exact.  However, my cousin and I were looking at the moon with a telescope.  We seen a bright object that was moving from left to right side of the sky.  It was the biggest object second to only the moon.  As we staried at it... it started coming closer to us. It got so close it was about 50 feet up.  It was amazing.  No sound .. and this is what we seen.  Round object .. made of entire light and liquid.  Liquid was in the center of this round object.  The liquid was spinning vertical.  We were trying to make scence of it.  My cousin is deaf.. but we were mind blown with this.  I wanted to contact someone to tell this story and hear if anyone else in the Kent wa area in the year 1997 has reported this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133148.html](http://www.nuforc.org/webreports/reports/133/S133148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
