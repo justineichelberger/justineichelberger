@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:43 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:51 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sunset Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mysterious Lights witnessed over Sunset Beach, NCThere were four of us (professional adults - ages 30-40) sitting on a deck atop a house on Sunset Beach, NC, looking in the direction of the ocean. We all witnessed three orange lights appear in the sky first in a triangle formation and then as the lights would disappear, the lights would then appear again in a horizontal formation but only one light appearing at a time and as one light would appear then disappear another light would appear to the right of the first light.  There were three lights that would appear in that type of formation. We witnessed these light appear in this manner 4 times and all in different elevations in the sky but in the same general area.  There is a group of stars that are in a formation resembling the number "7". We witnessed these lights appearing around the middle - bottom of this star formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72347.html](http://www.nuforc.org/webreports/reports/072/S72347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lafayette (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO on Hwy 52My father and I were half way into Lafayette, after turning from Lincoln Lodge coming from Frankfort, on Hwy 52. We both noticed an object with three corner lights and a center light flying low in the sky to our right over a corn field.  The corner lights were red and the center was white but we could not see a shape of the craft itself.  The outer lights were triangle in formation.  Most people on the hwy were breaking as well to check them out. The craft was traveling very slowly and low to the ground. It made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48297.html](http://www.nuforc.org/webreports/reports/048/S48297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
