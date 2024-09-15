@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2-3 football fields in length in the sky lights all over it. in the middle of Janesville.I have lived in Janesville for 37 years I know it very well in daylight and nighttime. I was walking home one night in the month of october or september. I lived near the downtown circuit at the time. I always admired the city lights on the east side of the river at night. one evening I noticed colorful lights in the sky it was not very cloudy as i looked I could not believe my eyes. The ship was as large as 1 or 2 city blocks or maybe 2-3 football fields in length. Lights were everywhere on this ship. I could make out a definite rectangular shape looking at the lights. It was moving from the north to the south. not very fast but not very slow either. The lights were not reflections, i saw red green yellow blue. It might have been about fifty feet in height and width. I came closer to my house and then it was gone. I told a few people but no one believed me. I would guess it to be about 1500 ft. in altitude. there is no way I was seeing reflections. There was no sound from the craft. I too wonder if there is a secret military base here in town as a previous U.F.O. report states. I have come to the conclusion that what I saw was of Holographic Design.((NUFORC Note:  Date is approximate.  We have assigned an arbitrary date in September 1982.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18232.html](http://www.nuforc.org/webreports/reports/018/S18232.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in White Owl (SD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5 hrs. - 5 hrs. minutes.</sub><blockquote><sub>UFO analyzes missile site.In autumn, 1968, I had been working Minuteman Missile Security, USAF, about 60 mi.E. of Rapid City, S. Dak.  I'd been chosen for TDY training.  Finishing early one day, my former crew of Security Police returned from 3 days afield.  They were buying all the binoculars & cameras they could afford.  It seems a ball of light was hovering up & down over a missile site in "India" Flt.(White Owl/Plainview area). The Strike Team was sent to check unusual alarms & reported it.  The dayshift crews(SP)and cook went up to the roof of the LCF & watched this action in the distance for several hours.  The "Capsule Crew" officers reported strange readings on their monitoring instrumentation.  The Missile Wing Hdqrs. back at Ellsworth called the LCF Security NCO, saying: "You DO have something out there, don't you?"  The object was never seen again.This event occurred about 2 months after Rapid City newspapers reprinted accounts from papers in Wyoming and Colo. about USAF Security Police Strike Teams (2-man, in a pickup truck)had been "chased" from missile sites all the way back to Base, not just the LCF, at full speed, in those states.Since I read the newspaper accounts and had worked with these peers, I'd have expected some report of this to be on-file.  Apparently, such is not the case.I was NOT a witness to the object, itself.  If my peers had been joking, they would not have purchased the items mentioned.  All of us had SECRET clearances at the time.To my knowledge, none of my peers were "warned" at all, about keeping this "quiet."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34582.html](http://www.nuforc.org/webreports/reports/034/S34582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
