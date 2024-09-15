@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>formation of 6 saucers moving from Wright Paterson east to Dayton OhioWhen I was 13 at school and standing at the back of school, I saw coming from the southeast a group of saucers(6) flying in a triangle, point first towards the city of Dayton. The saucers were a sky blue color but darker than the sky. They could have came from the direction of WRIGHT PATTERSON AFB. They circled once then climbed out of sight.That night on WHIO-TV they had a report from WRIGHT PATTERSON AFB. The repoter said 20,000 people had seen the saucers. The USAF sargent said: "What everyone saw was the sun reflecting off garbage can lids." Then he held up two lids.For the amount of people that saw them, I can't find anything on the WWW.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41756.html](http://www.nuforc.org/webreports/reports/041/S41756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watched a slow moving non-aerodynamic vehicle pass me at approx 200 feet in daylight which disappeared NW of Tehran, IRAN in 1975.While driving to work, a cylindrical object passed across the road in front of my car at an altitude of approx 200 feet and about 300 feet ahead.  The object was cylindrical with a height to length ratio resembling 3 steel barrels end to end but twice the size.  Object was totally quiet, moving too slow to actually be capable of flight, and had no aerodynamics to support flight at all such as wings or other control surfaces.  I even checked overhead for a helicopter or anything else that could be transporting the item.  Both ends of the item were blunt.  I believe some sparking was evident at the rear with a trace of smoke, but not like a jet or rocket as we know it.  Color was gray to metalic with a few blinking lights.I stopped my car so I could follow the item until it disappeared behind a hill on the Northwest side of Tehran's city limit.  The interesting thing is that the item passed 90 degrees over the Eastern end of Tehran's Mehrabad Airport main runway traveling due North.Arriving at work at the airport I checked with military and commercial personnel to see what was going on thinking someone else had to see it considering the location.  Apparently no one else had seen it and no reports were filed.  I never spent too much time thinking about it after that until 3 years ago when I saw the 1976 reports and thought someone had the dates wrong.  The smaller object in that report was similar to what I had seen a year earlier.For info, at that time I was a USAF Master Sergeant working at the MAC terminal located on the Eastern aircraft parking ramp at Mehrabad.  I was the ranking NCO and was a jet aircraft mechanic.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66086.html](http://www.nuforc.org/webreports/reports/066/S66086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
