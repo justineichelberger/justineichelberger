@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>San Antonio, Tx. September 2008 - 3 Witnesses - Triangular Formation in the sky.Im telling this exactly as it happened because I think alot of people don't come forward like they should so I'm telling what I saw.  Unfortunatley, I never thought of reporting it til now, but this is how it went.It happned around mid september 2008 in San antonio Tx, on the Southeast side.  Me and my friends ((male name #1 deleted)) and ((male name #2 deleted)) were walking we were about a little past ((female name deleted)) coming down Schley going the west when Nathan told us to look in the sky,I didnt see it at first until my friend nathan pointed it out, but when I did I was like "What the hell is that!!!"   The thing seemed to be about a mile away and it didnt seem to do much but move real slow.  But let me tell you, I watch the History channel and seen about stealth but damn this was like nothing I've ever seen.  The thing would kinda glow on and off to where when it would glow, there were about 20, what I guess could be called bulbs, floating in a triangular formation that would turn white, but then it turned transparent. It continued to do this at about a rate of 1 pulse every 2 seconds, fading white then gone, white then gone, non stop. The thing moved real slow and kinda, came towards our way as we were walking. The whole time I was freaking out to seeing something like that. At one point I tried to take a picture but my camera phone wasnt able to zoom that far or even make it out at all. So we continued looking at it until it went behind some trees and we couldnt see it anymore.Just for the refrence,  This thing was not a plane, It was not birds, or a meteroite or any natural occurance for that matter. It was something beyond my undertanding. I've never seen a plane fly that slow either, it just cant be done... I've seen planes all my childhood when my dad worked on them. This was not a plane! And I've never seen a bird change colors before. We know what we saw and I will put it on everything to stand by it.But what could this possibly mean?  Are they here to observe us?  Or is it the government?    -Thank you((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74424.html](http://www.nuforc.org/webreports/reports/074/S74424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>formation of 6 saucers moving from Wright Paterson east to Dayton OhioWhen I was 13 at school and standing at the back of school, I saw coming from the southeast a group of saucers(6) flying in a triangle, point first towards the city of Dayton. The saucers were a sky blue color but darker than the sky. They could have came from the direction of WRIGHT PATTERSON AFB. They circled once then climbed out of sight.That night on WHIO-TV they had a report from WRIGHT PATTERSON AFB. The repoter said 20,000 people had seen the saucers. The USAF sargent said: "What everyone saw was the sun reflecting off garbage can lids." Then he held up two lids.For the amount of people that saw them, I can't find anything on the WWW.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41756.html](http://www.nuforc.org/webreports/reports/041/S41756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
