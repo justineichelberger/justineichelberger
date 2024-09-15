@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cypress Hills - West Block (Canada) (SK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>Circle shaped objects composed of 4 lights - changed colours - moved erratically in the sky for long durationObject first viewed at approximately 9:30 PM in West Block of the Cypress Hills, Saskatchewan near Ranger Station.   A friend and I were stargazing, looking for satellites and meteors. Appeared as a ball of light that shifted between white, blue, red, yellow and green colours.  There was in no regular pattern between the colour changes; both in time between changes and the actual colour changed to. Object appeared close to the horizon but distance was impossible to tell – aside from it being very distant (5km or more). The ball of light was about the size / brightness of 4-5 of the brightest stars in the sky.  When viewed through binoculars the ball of light was 4 distinct spheres of light.  It was very hard to distinguish as it seemed to move in and out of binocular focus.  The surrounding stars did remain in binocular focus. Saw airplanes traveling at some distance behind the object.  There was no interaction with the object.  Also saw satellites in the sky. Object moved side to side, up and down, and in J shape patterns in a small portion of the sky.  Movment not like traditional aircraft movement in any way.  No noise was heard. Conservation Officer stopped to inquire what we were watching in the sky.  Pointed out the object and he viewed it for a minute or two in binoculars before stating – “there are sure some strange things in the sky” and then drove off. Watched object for 20 minutes before another one appeared in another part of the sky (also near the horizon) approximately 90 degrees counterclockwise from the first.  This object was identical to the first but seemed more active.  Similar motion but also saw it do a slow figure-8 pattern. Watched both objects for about 1 hour and 15 minutes.  Tried to take photos/video with digital camera but nothing appeared due to the quality of the photo sensor.  Went out the next evening to look for the objects but none appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59065.html](http://www.nuforc.org/webreports/reports/059/S59065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Laramie (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>2 oval lights in sky northeast of town.  flying around, hovering, steadily growing dimmer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25096.html](http://www.nuforc.org/webreports/reports/025/S25096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
