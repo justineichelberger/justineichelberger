@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Valliant (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At Valiant OK, on 09/15/2003, in the late morning I saw an oddly bright light, then it fade out.I just read the sighting at http://www.rense.com/general42/tan.htm. The bright shiny object is what I saw as I came into Valliant OK (Valiant is about 20-25 miles from Hugo.). It was almost, if not still. I spotted it just as I made the city limits. I tried to find a place to park where I could see the object and at the same time fumbled with my Mavica. I parked on the north side of Hwy 70, by the bank. As the camera booted up the object started to fade. It faded out of sight over about 30 seconds. I thought it might have been an airplane, but I could not see anything after it faded.As I try to figure the angle that I was looking at, the best way for me to tell you is that if 9:00 is straight forward and 12:00 it straight up then the object was at about 10:30. That would be about 50 or so degrees would it not? Then over about 12 or 15 degrees to the north, just over the top of the first building going down the business district. I have no way to judge the distance, or height, but it was about a .25 inch at arms length, and very, very bright.I know this is not much of a sighting, but after I read the story about the Hugo sighting the next day, I thought I should drop you a line. You be the judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31867.html](http://www.nuforc.org/webreports/reports/031/S31867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2-3 football fields in length in the sky lights all over it. in the middle of Janesville.I have lived in Janesville for 37 years I know it very well in daylight and nighttime. I was walking home one night in the month of october or september. I lived near the downtown circuit at the time. I always admired the city lights on the east side of the river at night. one evening I noticed colorful lights in the sky it was not very cloudy as i looked I could not believe my eyes. The ship was as large as 1 or 2 city blocks or maybe 2-3 football fields in length. Lights were everywhere on this ship. I could make out a definite rectangular shape looking at the lights. It was moving from the north to the south. not very fast but not very slow either. The lights were not reflections, i saw red green yellow blue. It might have been about fifty feet in height and width. I came closer to my house and then it was gone. I told a few people but no one believed me. I would guess it to be about 1500 ft. in altitude. there is no way I was seeing reflections. There was no sound from the craft. I too wonder if there is a secret military base here in town as a previous U.F.O. report states. I have come to the conclusion that what I saw was of Holographic Design.((NUFORC Note:  Date is approximate.  We have assigned an arbitrary date in September 1982.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18232.html](http://www.nuforc.org/webreports/reports/018/S18232.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
