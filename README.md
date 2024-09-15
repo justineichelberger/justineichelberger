@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>We saw the stealth bomber fly over our house at night near Ft. Lauderdale, FL in the late 1990'sOne evening in the late 1990's or maybe 2000, my wife Kathy and I were sitting out by our screened pool facing west. We felt a sort of rumbling and heard a low hum. We looked up and saw a very large black object in sky heading east. It flew over us and over the house at a slow rate of speed.  It was a triangle like shape and appeared to be black but it was hard to tell because it was night but with alot of light pollution. As it got directly above us we saw "lights" that were inverted V in shape and a greeish yellow color.  Both of us thought at the time and still do that we saw a stealth bomber flying at night in a heavily populated area at a low altitude and slow speed. We had both seen stealth bombers at air shows and were convinced that this is what the craft was.  We listened to the News to see if there was such a craft in the area but there was no mention.  We looked at the newspaper but no mention.  I asked people at work the next day if they had seen or heard anything but no one had.  I even mentioned the incident to my boss who lives in Phoenix.  We do not remember the date that this happened because we were completely convinced this was a stealth fly over.  We did think it odd that such a craft would be flying at night at such a low altitude and slow speed over a heavily populated area near a busy airport (FLL.) But for us it was not a life changing event because we thought we knew what had happened.  We were reminded of the incident last year when we were at a Jacksonville Jaguars football game during the day and there was a stealth bomber fly over. I became an avid CtoC streamlink listener this year and have heard Art's similar story and was suprised to see so many similar accounts on your website. My wife and I are both degreed and both work in the financial services industry.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45092.html](http://www.nuforc.org/webreports/reports/045/S45092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Buckner (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>This was a U F O!On the night I observed the object I was sitting on my front porch when with the naked eye I could tell something was different about this star so I went and got my spotting scope where I was amazed with colors of Red, Green, Blue, but what was really amazing was the disk shape I could clearly see moving across the sky with unbelievable speed then down then back across the sky,  the next night I convinced my wife to look through the spotting scope when she said I see it.  I watched the disk for a couple more night, have not seen it in several weeks now.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  We wonder whether the witness might have been looking at a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78172.html](http://www.nuforc.org/webreports/reports/078/S78172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
