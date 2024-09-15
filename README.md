@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anahola (HI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flashing Lights with different colors for 2 minutes like an air fight.Flasing Lights, loo ked like lighting but there was no thunder, and then it started flasing different colors in different areas. Blue, red, purple, green, orange and white. All flashing in different spots.  Thought it might be fireworks but there was no smoke or sound and it flashed to quickly and its elevation was too high.  Lasted about 1 minute and 30 seconds of continual flashing, it looked like anti-aircracft defence except for no sound or smoke.  All I know is that there is nothing on this earth that I know off that can preform such a task.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86362.html](http://www.nuforc.org/webreports/reports/086/S86362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>While photographing a strange-looking oblong cloud a slice appeared to be pushed ouWhile outdoors with a child I saw what appeared to be a long oblong-shaped cloud; because of its length, its nearness to the ground, its symettry and the lack of fuzzyness around its edges I went inside, grabbed my camera, and returned.  The cloud was already beginning to dissipate and change shape. As I pointed the camera a thin rectangular shape began to appear, slice across the cloud and emerge as if being shoved. As it exited, the cloud appeared to fill in the space left behind.At that point I had to take the child inside and when I was able to return several minutes later the u.f.o. was gone.((NUFORC Note:  Source indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65211.html](http://www.nuforc.org/webreports/reports/065/S65211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
