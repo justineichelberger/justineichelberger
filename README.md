@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:26 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>While photographing a strange-looking oblong cloud a slice appeared to be pushed ouWhile outdoors with a child I saw what appeared to be a long oblong-shaped cloud; because of its length, its nearness to the ground, its symettry and the lack of fuzzyness around its edges I went inside, grabbed my camera, and returned.  The cloud was already beginning to dissipate and change shape. As I pointed the camera a thin rectangular shape began to appear, slice across the cloud and emerge as if being shoved. As it exited, the cloud appeared to fill in the space left behind.At that point I had to take the child inside and when I was able to return several minutes later the u.f.o. was gone.((NUFORC Note:  Source indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65211.html](http://www.nuforc.org/webreports/reports/065/S65211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Mexicali B. C. Mexico; Sierra Cucapah; Cerro prieto., B. C. () reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Summary : I seen one objet upper the Sierra cucapah (Cucapah mountains)the form of this objet: ovoid and gold color, this objet disappears when i don't watch. Iré proximamente al sitio exacto.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03007.html](http://www.nuforc.org/webreports/reports/003/S03007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
