@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Buckner (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>This was a U F O!On the night I observed the object I was sitting on my front porch when with the naked eye I could tell something was different about this star so I went and got my spotting scope where I was amazed with colors of Red, Green, Blue, but what was really amazing was the disk shape I could clearly see moving across the sky with unbelievable speed then down then back across the sky,  the next night I convinced my wife to look through the spotting scope when she said I see it.  I watched the disk for a couple more night, have not seen it in several weeks now.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  We wonder whether the witness might have been looking at a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78172.html](http://www.nuforc.org/webreports/reports/078/S78172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Larkspur (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Object seen in the eastern sky that was originally slightly smaller but with a planetary brightness which travelled up and away and diminshed in brightness than changed direction downward at a 45 degree angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31495.html](http://www.nuforc.org/webreports/reports/031/S31495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
