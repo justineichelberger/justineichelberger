@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:51 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lafayette (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO on Hwy 52My father and I were half way into Lafayette, after turning from Lincoln Lodge coming from Frankfort, on Hwy 52. We both noticed an object with three corner lights and a center light flying low in the sky to our right over a corn field.  The corner lights were red and the center was white but we could not see a shape of the craft itself.  The outer lights were triangle in formation.  Most people on the hwy were breaking as well to check them out. The craft was traveling very slowly and low to the ground. It made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48297.html](http://www.nuforc.org/webreports/reports/048/S48297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glenarm (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately several hours - several hours minutes.</sub><blockquote><sub>For the past few weeks I have observed a star in the sky that appeared to be changing colors. I took pictures and got amazing results.  On this particular night as I was watching it, it literally exploded into color, creating a beautiful rainbow effect. Within a few seconds a fountain like falling star lit up the sky, which I was able to catch on my camera.  I have numerous photo's of this (what I thought was a star) changing shape, changing orbit and changing color.   would love to know what it is.  Meteor or Comet?((NUFORC Note:  Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84166.html](http://www.nuforc.org/webreports/reports/084/S84166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
