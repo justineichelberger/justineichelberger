@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was looking thru a telescope at the moon in 1997 month is not exact.  However, my cousin and I were looking at the moon with a telescope.  We seen a bright object that was moving from left to right side of the sky.  It was the biggest object second to only the moon.  As we staried at it... it started coming closer to us. It got so close it was about 50 feet up.  It was amazing.  No sound .. and this is what we seen.  Round object .. made of entire light and liquid.  Liquid was in the center of this round object.  The liquid was spinning vertical.  We were trying to make scence of it.  My cousin is deaf.. but we were mind blown with this.  I wanted to contact someone to tell this story and hear if anyone else in the Kent wa area in the year 1997 has reported this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133148.html](http://www.nuforc.org/webreports/reports/133/S133148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Valliant (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At Valiant OK, on 09/15/2003, in the late morning I saw an oddly bright light, then it fade out.I just read the sighting at http://www.rense.com/general42/tan.htm. The bright shiny object is what I saw as I came into Valliant OK (Valiant is about 20-25 miles from Hugo.). It was almost, if not still. I spotted it just as I made the city limits. I tried to find a place to park where I could see the object and at the same time fumbled with my Mavica. I parked on the north side of Hwy 70, by the bank. As the camera booted up the object started to fade. It faded out of sight over about 30 seconds. I thought it might have been an airplane, but I could not see anything after it faded.As I try to figure the angle that I was looking at, the best way for me to tell you is that if 9:00 is straight forward and 12:00 it straight up then the object was at about 10:30. That would be about 50 or so degrees would it not? Then over about 12 or 15 degrees to the north, just over the top of the first building going down the business district. I have no way to judge the distance, or height, but it was about a .25 inch at arms length, and very, very bright.I know this is not much of a sighting, but after I read the story about the Hugo sighting the next day, I thought I should drop you a line. You be the judge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31867.html](http://www.nuforc.org/webreports/reports/031/S31867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
