@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hudson Falls (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shiny / metallic orange - red colored oval flying over Hudson Falls witnessed by retired LEOMy son and I were walking our dog. We were walking in a Southerly direction. I looked into the sky and towards at Moon. I then saw a shiny orange colored craft that became metallic orange / red. The craft was oval in shape. There was no noise and there was not a jet steam. Trajectory was about 75 degrees and rapid. I said something to my son and he observed it too. He said the object / craft was moving so fast he believed it was perhaps a rocket. But again, there was no noise, no jet stream. Also, no observed wings or lights. I checked my FlightRadar24 app and no craft were in the area. I am a retired Cop and Criminal Investigator for a neighboring County. I am 50 years old. My son is 9. Object traveled South (what would be towards South Glens Falls / Moreau area. There is a National Guard base and a local private operated Airport north of us. Again, no activity on the FlightRadar app, no wings, no lights, no jet stream and no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164659.html](http://www.nuforc.org/webreports/reports/164/S164659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Webster (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>5 Bright Light Orbs in Webster, MA.When my iphone warned me for low battery, I had to get plug from the car.  I wish I bring iphone with me, but it is just happened (too late) I went outside and looked at the sky, I noticed lights, I thought it was a plane but the way it looks didn't make any sense to me.  It does not match any aircrafts I know.  I had to see/study those lights until it went down below the tree line.  It was 5 bright light orbs, not like plane light.  That is different.  The dots were in group flying toward East.  I was looking at East.  The color of lights are white-yellow.  It was short sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113646.html](http://www.nuforc.org/webreports/reports/113/S113646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
