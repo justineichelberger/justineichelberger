@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Falkirk (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>5.30 PM 16th Sept 2001, clear blue sky, Central Scotland (5 Miles East of Bonnybridge).I was in my back garden sorting some rubbish with my spectacles in my hand when my attention was drawn to what I thought at first was a black 'childs balloon' roughly 45 Deg up in the sky approx SE of where I was.I then realised by closer observation that it was at a much much greater altitude and therefor distance than I had at first thought.I watched as it floated balloon like for about ten seconds during which time I replaced my glasses,while still maintaining visual contact.The object was a perfect black circle with a metallic crescent shape to the 'front' (the direction it was traveling in), the object then left at a phenominal (sic) speed during which it appeared to 'elongate' as though it had left itself behind,it then, an instant later, 'caught up' with itself and disappeared.It disappeared too fast to really comprehend well.The object was aproximately the size of my little fingernail at full arm-reach.I have never witnessed anything like it before or since.I have since been unable to find anyone else who witnessed this event.10 seconds I'll never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23166.html](http://www.nuforc.org/webreports/reports/023/S23166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation of 3 starlike ufo's over petrochemical port and storage facility in Singapore on the evening of the 16th of Sept. 2011At 21:45pm Singapore time on the 16th of September 2011 I spotted 3 star like UFO's hovering over south eastern Singapore.  The UFO's were very very bright and sparkling with blue red and green flashes but the main color was bright white. The brightness was easily a multiple of Sirius on a clear night.  As I drove down, as passenger in a taxi, on Clementi road they were at my the 2 o'clock position and when turning west onto Pasir Panjang road they were exactly at my 6 o'clock position.  They were hovering no more than 20 degrees apart horizontally and 10 degrees vertically. Triangulation by means of google earth and their relative position to me while traveling put their position above the petrochemical harbor and storage facilities south of the pandan loop reservoir.  This was around 2 miles from my own position at both Clementi road and the location I stopped at pasir panjang road. The UFO's looked exactly like the one in this (t_QA36ehBM8) movie on youtube.  I did not stick around and from start to finish I observed them with a co passenger for no more than 5-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85301.html](http://www.nuforc.org/webreports/reports/085/S85301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
