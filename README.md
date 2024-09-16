@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Elba (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>light in sky changing course moving at rapid rate of speed, no sound. Four witnessesAt aprox. 20:15 hours I had stepped out onto my front porch to smoke and was looking at the stars and the milkyway when I noticed a light (what I thought was a star) start moving down through the big dipper. I watched the light for about 2 to 3 min. moving at a very fast speed then it appeared to disappear. I stepped back into the house and got my son whom is 15 to come outside. He watched with me and then we both saw the light again moving just above the big dipper area. Again the light seemed to fade away. We continued watching and it again appeared but this time moving across the sky in the same general area but from a right to left pattern. My wife had stepped out about this time and saw it just befor it faded away. We then spotted it moving through the clustered stars of the milkyway again in in a right to left pattern then aburptly making what appeared to be a sharp fast U turn then travel back to the right. The light was constantly moving rapid then dissipearing. My daughter whom is 14 came outside and asked what we were looking at and my wife was telling her when the light reappeared moving left to right then in a downward motion. We watched the light for about an hour constantly fading away then returning but always in the area of the big dipper and milky way. My house faces a easterly direction. I have seen many aircraft but none at this altitude at night that you could see any light on them at that distance nor any that could move as fast or change directions as this light did. There was no sound but at that distance you could not had heard it if there was. There may have only been one but it appeared that there could have been at least three with the appearing and disappearing in a totaly diffrent place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31514.html](http://www.nuforc.org/webreports/reports/031/S31514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue saucer above I-69 and DuPont Road exit.Craft was traveling north to south above I-69 from 469 to DuPont rd exit.  Craft changed colors from a bright two tone blue and dark blue then change to red and white lights.  As to us that were video taping craft, it would kill all the lights every 20-30 seconds and then turn them back on.  No motor sounds what so ever.  Craft was seen for 15 min then it turned off lights and disappeared in the night sky.  Elevation of the craft was roughly 200-300 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113628.html](http://www.nuforc.org/webreports/reports/113/S113628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
