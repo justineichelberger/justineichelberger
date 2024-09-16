@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:44 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:39 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Wilsonville (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights from miles away to within 150 yds and 300 ft in the air.Driving with wife on I-5 N bound at 1 AM.  Just leaving Woodburn area and noticed bright lights over NW and SW Portland coming my way.  Told the wife that was a strange pattern for an aircraft.  The lights on what looked like landing lights on a large aircraft continued toward us.  As I was approaching Wilsonville area it came staight at me then went out of sight within a 150 yds to the East of the freeway.  There was no explosion or anything.  if it was a helicopter or plane why would the lights go out while still 300 ft in the air.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23398.html](http://www.nuforc.org/webreports/reports/023/S23398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three rectangular brilliant orange non-blinking silent crafts flew over my house1 rectangular bright mandarin orange craft rapidly moving from NW to SW and blinked out suddenly in the south. 45 seconds later two seemingly identical in color and shpe crafts one above other flew same trajectory.  Top  flying craft blinked out, on then out for good..  Craft below traveled further south  for a couple of seconds then blinked out for good. Within 10-20  seconds 3 jets took off from ground Davis Monthan and flew in direction of origination of 3 orange craft. 10 or so minutes later 3 jets left Davis Monthan following path of original 3 jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159381.html](http://www.nuforc.org/webreports/reports/159/S159381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
