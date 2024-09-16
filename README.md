@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Webster (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>5 Bright Light Orbs in Webster, MA.When my iphone warned me for low battery, I had to get plug from the car.  I wish I bring iphone with me, but it is just happened (too late) I went outside and looked at the sky, I noticed lights, I thought it was a plane but the way it looks didn't make any sense to me.  It does not match any aircrafts I know.  I had to see/study those lights until it went down below the tree line.  It was 5 bright light orbs, not like plane light.  That is different.  The dots were in group flying toward East.  I was looking at East.  The color of lights are white-yellow.  It was short sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113646.html](http://www.nuforc.org/webreports/reports/113/S113646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>saucer overhead,hover 150 feet,no noise,within 100 yds,amber lights around edge one on top, viewed with 7-21 pwr binoculars,started rotation counter clockwise,canted 2-3 degrees,left at leisure.Approximately 60 feet across. About 12 feet or better from lower lights to the single upper light. Single light appeared to be about 3 to 4 times as large as the lower lights. The upper light was a white light where as the lower lights had a slight yellow or amber tint, not dark, however. The lower lights traveled from left to right. They cycled in a line or revolved and seemed to go faster as the craft increased in speed. When I observed it as it moved away it took about 8 - 10 seconds for the lights to make a revolution. It came from north to south traveling about 40 mph. It went south towards the south hill area towards the radio towers. Then I observed it going west when it became lost from view. I first observed it with the naked eye then with 7-21x35 power binoculars. I first saw it as it came into my line of sight above my head. It was about 100 yards away. This distance was easy to verify as I had an office building and telephone poles of known size to compare the craft to. The cycling lights were most impressive, giving me the errie feeling in that I have never seen anything like it before, this close, having seen unexplainable lights while living in Alaska many years ago. The next thing that was more impressive was how slow it was moving and still being able to remain airborne. But most impressiive was the total lack of noise usually associated with aircraft. Prior to the momennt I first noticed the aircraft, I was watching a fire truck on Freya St. They had about a dozen lights flashing. Red and white strobes. They were quite bright. There were no sirens or anything like that. They were just checking fire plugs. While watcing the truck the aforementioned craft appeared in my line of sight above me. It appeared to slow some as it to abserve the firetruck and its lights. At this time I noticed that the cycling of the lights was almost negligable, but seemed to increase as it moved away. Below is pattern of the lights along the edge of the saucer, o's represent the lights. o oooooooooooo ooooo oooo ooo o ----------rotation---------></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12867.html](http://www.nuforc.org/webreports/reports/012/S12867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
