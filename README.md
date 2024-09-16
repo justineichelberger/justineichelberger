@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:24 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange Lights in sky over Fort Mill, SC (just south of Charlotte NC)I was driving through a neighborhood called Knightsbridge in Fort Mill, SC around 9:30pm this evening.  My 16 year old brother and his best friend were with me.  I saw 3 lights in a diagonal line then a 4th appeared out of nowhere.  The lights were an orange/yellow color.  My brother and I dropped his friend off and then stopped and watch the lights some more.  They increased out of nowhere to 6 and then formed a V shape in the sky.  I took pictures on my phone but they did not come out.  These were not planes it was as if they were standing still.  They were not street lights or anything like that.  These things were HUGE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77865.html](http://www.nuforc.org/webreports/reports/077/S77865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 9:30 &continous - 9:30 &continous minutes.</sub><blockquote><sub>Flashing lights in the western sky; over Lansing, MI 9:30 PM  and continuning at 10:06 PMDark clear starry night.  Looking due west around 9:30 PM we saw something that looked like it was a flashing star.  We got our high powered binoculars it looked like the international space station.  It was flashing red, blue, green, and white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72338.html](http://www.nuforc.org/webreports/reports/072/S72338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
