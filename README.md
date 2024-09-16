@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 15 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright orb over Knoxville, TN.  9/16/2016.This morning, after arriving to work I stepped out to smoke.  I was watching a plane fly by pretty low in the sky just as the sun was coming up.  I noticed behind the plane what looked like a bright star.  Slowly rising straight up into the sky.  It was far to daylight to be a star.  I ran inside to grab a friend and upon arriving again to look the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129950.html](http://www.nuforc.org/webreports/reports/129/S129950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Falkirk (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>5.30 PM 16th Sept 2001, clear blue sky, Central Scotland (5 Miles East of Bonnybridge).I was in my back garden sorting some rubbish with my spectacles in my hand when my attention was drawn to what I thought at first was a black 'childs balloon' roughly 45 Deg up in the sky approx SE of where I was.I then realised by closer observation that it was at a much much greater altitude and therefor distance than I had at first thought.I watched as it floated balloon like for about ten seconds during which time I replaced my glasses,while still maintaining visual contact.The object was a perfect black circle with a metallic crescent shape to the 'front' (the direction it was traveling in), the object then left at a phenominal (sic) speed during which it appeared to 'elongate' as though it had left itself behind,it then, an instant later, 'caught up' with itself and disappeared.It disappeared too fast to really comprehend well.The object was aproximately the size of my little fingernail at full arm-reach.I have never witnessed anything like it before or since.I have since been unable to find anyone else who witnessed this event.10 seconds I'll never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23166.html](http://www.nuforc.org/webreports/reports/023/S23166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
