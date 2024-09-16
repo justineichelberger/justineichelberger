@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:20 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Richboro (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw ufo flying in the sky late at nightSo I was outside in my backyard walking my dog and I see moving objects in the sky I took a video and I went back in went back out 10 min later more moving objects took more videos and photos and some of the objects stopped and started up again some of them were in a triangle they were never separate always sorta following each other the objects were star like in shape and they made noise as they were moving</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159727.html](http://www.nuforc.org/webreports/reports/159/S159727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Granville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light traveling alongside the road.A couple nights ago on the way home at around 9 pm, I saw a bright light coming up along the road.  It was exactly like this picture, except much brighter.  At first it looked far off, but as I drove, it then looked real close and not to far up in the sky.  It was so unusual that I pulled over to get a better look.  Then I opened the window to get an even better look.  It looked just like in this picture with the rays going in all directions.  There were no flashing colored lights like a plane or jet.  It must have been pretty bright because the whole area was lit up.  What really hit me was the silence, it was dead quiet.  No sounds whatsoever.   Then I got a bit scared and reached for my phone to take a video or picture.  I looked over to pick up the phone off the passenger seat and when I looked back, the light was gone.  This area is huge pastures and hay fields.  It wasn't anywhere in the sky, like it disappeared. For the next ten miles home, I scoured the sky, nothi! ng. I keep seeing this light in my mind and can't stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148948.html](http://www.nuforc.org/webreports/reports/148/S148948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
