@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:44 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ingleside (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three UFOs hovering in the night skyI stepped outside to have a cigarette and I always stare into the sky. I noticed a very bright star to the left of where I was standing. Didn't think too much of it and just kept looking around. Then I noticed another star that was quite bright but had a tail coming from it. I adjusted my eyes, because it could just be my eyes, but no it had a tail. I looked around at other stars to really make sure it wasn't my eyes. As I looked around I say a star that was positioned in the triangle that shows up in the sky that normally is not there. It also had a tail. The tails would get long and then short. I watched these for a while to see if they would move or disappear but they were just hovering. I could be wrong but I really felt like they did not belong there and that they were observing something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65716.html](http://www.nuforc.org/webreports/reports/065/S65716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Wilsonville (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights from miles away to within 150 yds and 300 ft in the air.Driving with wife on I-5 N bound at 1 AM.  Just leaving Woodburn area and noticed bright lights over NW and SW Portland coming my way.  Told the wife that was a strange pattern for an aircraft.  The lights on what looked like landing lights on a large aircraft continued toward us.  As I was approaching Wilsonville area it came staight at me then went out of sight within a 150 yds to the East of the freeway.  There was no explosion or anything.  if it was a helicopter or plane why would the lights go out while still 300 ft in the air.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23398.html](http://www.nuforc.org/webreports/reports/023/S23398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
