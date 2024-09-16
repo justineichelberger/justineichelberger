@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At exactly 6:32 AM EDT stepped outside to take my daughter to school.  While facing North I noticed an unusually bright star. At exactly 6:32 AM EDT, stepped outside to take my daughter to school.  While facing North, I noticed an unusually bright star.  The "star" accelerated from a fixed position moving from West to East.  I noticed a number of fainter, smaller, star-like objects floating around it.  The area around the brighter object was distorted in a type of lensing effect. Very briefly a cone of light like a spot light emanated from the side of it.  I called my daughter over to witness the object as it sped away.  We agreed there were no strobing light, no colored lights, no sound, and therefore, it was not a conventional/commercial aircraft.  We live close to the airport and always recognize commercial aircraft readily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113601.html](http://www.nuforc.org/webreports/reports/113/S113601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Riding Metro-Link Tram from Manchester to Altrincham(UK). Glanced up, don't know why, and glimpsed large Metallic Diamond shape gliding through lower cloud base. The weather was good, blue sky and white clouds. This was near Old Trafford Cricket ground. I remember seeing the shadow of the clouds casting across the object. I did not view all of the object in one go as it appeared to be trying to stay in the clouds. It hAd a translucent appearence, a bit like holographic image found on some credit cards! I looked behind me to see if anybody else had seen, but no one was looking. I continued looking and 5 minutes later, near Stretford station, I glimpsed it again. I was absolutely stunned. The fact that it was travelling at a similar speed to the tram (light railway) made it even more unbelievable (40-50 mph max). It was also dangerously close to the flight path into Manchester Airport, a 737 flew past a couple of minutes after the second sighting which gave me an idea of the size .... slightly smaller than a 737. When I reached Altrincham, I stood at the station for 30 minutes hoping to see the object again, but no luck. The object was so stunning that I was sure there would be a 'flap' in the News or TV ... but nothing. I would be keen to hear of similar experiences as this has left a huge impression on me. The object looked ominous, and not something to mess around with. I have taken a photograph of a ceiling light taken at an angle which reminded me of the object, which I shall mail,Rgds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13078.html](http://www.nuforc.org/webreports/reports/013/S13078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
