@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation of 3 starlike ufo's over petrochemical port and storage facility in Singapore on the evening of the 16th of Sept. 2011At 21:45pm Singapore time on the 16th of September 2011 I spotted 3 star like UFO's hovering over south eastern Singapore.  The UFO's were very very bright and sparkling with blue red and green flashes but the main color was bright white. The brightness was easily a multiple of Sirius on a clear night.  As I drove down, as passenger in a taxi, on Clementi road they were at my the 2 o'clock position and when turning west onto Pasir Panjang road they were exactly at my 6 o'clock position.  They were hovering no more than 20 degrees apart horizontally and 10 degrees vertically. Triangulation by means of google earth and their relative position to me while traveling put their position above the petrochemical harbor and storage facilities south of the pandan loop reservoir.  This was around 2 miles from my own position at both Clementi road and the location I stopped at pasir panjang road. The UFO's looked exactly like the one in this (t_QA36ehBM8) movie on youtube.  I did not stick around and from start to finish I observed them with a co passenger for no more than 5-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85301.html](http://www.nuforc.org/webreports/reports/085/S85301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Woodmont (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>((Dog's name deleted)),my Siberian Husky , and I were walking along Anchor Beach in woodmont Connecticut , enjoying the view of the oysterboat working off shore. I had my digital camera handy, so I took a couple of scenic pictures. When I downloaded these electronic images , I was surprised to fingd that we had company out on the beach. I sitting in the sky above us and the oyster boat was a disk shaped object with what looked like a row of windows on it's underside. I saucer must have been using a cloaking device or something anfd my digital camera's image processing circuits must have been able to pick up the saucer's image. To get a good look, you can visit my website http://www.tiac.net/users/blizzrd1  ((NUFORC Note:  Website apparently now defunct, as of February 2003.  PD))I have an account of my experience posted here , with pictures. thanks ((Name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03114.html](http://www.nuforc.org/webreports/reports/003/S03114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
