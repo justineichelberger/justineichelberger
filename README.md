@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:24 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cromwell (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flickering blue light and other unknown colors. looks like its above rocky hill or in that direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102127.html](http://www.nuforc.org/webreports/reports/102/S102127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange Lights in sky over Fort Mill, SC (just south of Charlotte NC)I was driving through a neighborhood called Knightsbridge in Fort Mill, SC around 9:30pm this evening.  My 16 year old brother and his best friend were with me.  I saw 3 lights in a diagonal line then a 4th appeared out of nowhere.  The lights were an orange/yellow color.  My brother and I dropped his friend off and then stopped and watch the lights some more.  They increased out of nowhere to 6 and then formed a V shape in the sky.  I took pictures on my phone but they did not come out.  These were not planes it was as if they were standing still.  They were not street lights or anything like that.  These things were HUGE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77865.html](http://www.nuforc.org/webreports/reports/077/S77865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
