@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Littleville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>There was a big burst of light we seen threw the trees.  It was bright enough to light the sky up and it kept getting brighter.  I took off running to one side of the trees to get a better look and my son took off twords the opposite side of me to see what was happening.  It took me just a second or two to get where I had a really good look then I seen a bright green burst of kinda like a green haze of light came shooting out of the first bright light that appeared.  It came shooting down with a green haze around it and was leaving some kind of trail behind it.  My son seen the green burst of light and everything else I seen except for when it was traveling twords the ground he seen a white light where I seen green.  When it got to tree top hight the greenish haze disappeared and I seen a capsule object heading to the ground at a very fast rate of speed. It had to hit the ground or land.  This happened on 09/16/2015 8:20PM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122134.html](http://www.nuforc.org/webreports/reports/122/S122134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cromwell (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flickering blue light and other unknown colors. looks like its above rocky hill or in that direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102127.html](http://www.nuforc.org/webreports/reports/102/S102127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
