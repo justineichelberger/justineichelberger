@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue saucer above I-69 and DuPont Road exit.Craft was traveling north to south above I-69 from 469 to DuPont rd exit.  Craft changed colors from a bright two tone blue and dark blue then change to red and white lights.  As to us that were video taping craft, it would kill all the lights every 20-30 seconds and then turn them back on.  No motor sounds what so ever.  Craft was seen for 15 min then it turned off lights and disappeared in the night sky.  Elevation of the craft was roughly 200-300 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113628.html](http://www.nuforc.org/webreports/reports/113/S113628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hudson Falls (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Shiny / metallic orange - red colored oval flying over Hudson Falls witnessed by retired LEOMy son and I were walking our dog. We were walking in a Southerly direction. I looked into the sky and towards at Moon. I then saw a shiny orange colored craft that became metallic orange / red. The craft was oval in shape. There was no noise and there was not a jet steam. Trajectory was about 75 degrees and rapid. I said something to my son and he observed it too. He said the object / craft was moving so fast he believed it was perhaps a rocket. But again, there was no noise, no jet stream. Also, no observed wings or lights. I checked my FlightRadar24 app and no craft were in the area. I am a retired Cop and Criminal Investigator for a neighboring County. I am 50 years old. My son is 9. Object traveled South (what would be towards South Glens Falls / Moreau area. There is a National Guard base and a local private operated Airport north of us. Again, no activity on the FlightRadar app, no wings, no lights, no jet stream and no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164659.html](http://www.nuforc.org/webreports/reports/164/S164659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
