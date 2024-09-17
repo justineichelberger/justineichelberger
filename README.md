@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anthony (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>While watching night sky with my head in the east-west position, a smooth, rounded, triangular craft passed over heading due south towards El Paso, Tx.  The craft was less than a quarter mile high and completely silent.  It seemed as if it almost matched the color of the sky except for the light emitted by several lights equally spaced out across the object.  The lights were of a reddish/green color but very dull.  The only reason I saw it was because it flew directly across my line of view.  After it passed me and was at a 45 degree angle from my view, it became impossible to see.  The FAA was reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84001.html](http://www.nuforc.org/webreports/reports/084/S84001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blair (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately All night every night - All night every night minutes.</sub><blockquote><sub>I took pictures and now its stalking meMissouri River, There's strange floating low lights, they even change color.. They just hover all night and retreat by light of day higher then can be seen..I've got photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159400.html](http://www.nuforc.org/webreports/reports/159/S159400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
