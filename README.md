@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object if you can picture it was the color of one of those yellow or streetlights lights in the sky.  Also the flight pattern was extremely irregular; very slow and went from low on the horizon to very high. Never touched ground.  Also it either hovered very high or flew in a straight pattern for an extended period because it didn't look like it was moving.  Finally, after hoovering or flying straight at a high altitude for a few minutes the light shot off 5 to 6 smaller redlights in a slow succession like chaff from a plane. The light  began blinking aggressively less than ten times and completely disappeared from sight. Two people saw the light in the sky however this will be the only report. Weirdest object I have ever seen in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77884.html](http://www.nuforc.org/webreports/reports/077/S77884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO TWO GIRLS YUCCA VALLEY CA GREEN AND WHITE LIGHTS ON OBJECTSITTING OUT SIDE YUCCA VALLEY HOME 7;35 PM.  OBJECT APPEARED, WHAT MADE US NOTICE WAS THE LIGHT BEAM OBJECT STARTED TO PROCEEDE TOWARDS US , WE THOUGHT IT WAS A HELECOPTER ONCE NOTICED. HAD A BEAM LIKE LGHT MOVE FROM THE EAST AND SHINE FACING US AS IF THE OBJECT KNEW WE HAD NOTICED IT  , AS OBJECT GOT CLOSER I NOTICED 5 GREEN LIGHTS ON IT AND IT WAS DISC LIKE. RAN INSIDE AND WAITED APPROX. 4 MINUTES WAS TERRIFIED FOR OUR LIVES AND WENT BACK OUT SIDE AND OBJECT WAS HOVERING OVER HOUSE AND FLASHED A BRIGHT WHITE LIGHT AT US FROM DIRECTLY ABOVE THEN WE RAN INSIDE AND WENT TO THE CAR AND LEFT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122198.html](http://www.nuforc.org/webreports/reports/122/S122198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
