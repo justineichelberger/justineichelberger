@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>triangle with 3 white lights on the bottom and 1 red light on topi was delivering newspapers on a saturday morning and had looked up in the sky from an area that i had just passed, i then noticed two white lights in the sky that looked strange that were approx. 100 to 150 feet off the ground i then was able to come back towards that area and could see under the craft to be able to see a third light making a perfect triangle from the bottom, at the time it was still to dark to see what was between the lights. on the top of the craft was a pulsating red glowing light, when i was able to get a better view i stopped my vehicle and got out and signaled the craft with my flashlight, it then dropped below the tree line and headed towards a lake area that is in the area i was in. i was able to go there but saw nothing else for about 10 minutes, i then noticed the red pulsating light going up and away towards the north. i called the local airport and they said nothing had flown in or out at 5:00 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34580.html](http://www.nuforc.org/webreports/reports/034/S34580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swindon (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very bright white disk shaped object hovered then shot upwards in an arcLooking out of my window whilst watching a football match saw a bright white oject which I think was disk shaped, it happened so quickly. As it caught my eye it hovered for about 2 seconds and then shot upwards at tremendous speed in an arc towards the north. It left a slight trail as it did so. And was gone in a second.No sound was heard and the window was wide open.It was no shooting star it was way too big. Hope someone else saw this as my friends think I'm mad.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25113.html](http://www.nuforc.org/webreports/reports/025/S25113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
