@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockledge (PA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4  orange lights, 3 in the front in a sideways V formation and 1 in the back < - , the lights were steady orange not flashing.I was driving to the store, my husband was in the passenger seat.  All of a sudden he yelled stop, what is that in the sky!  I pulled over and we got out to look at it.  There were 4 orange lights. 3 in the front in a sideways V formation and 1 in the back. < -   The lights were steady orange not flashing or changing colors like other aircraft I have seen.  They hovered in the same place for about five minutes, then seemed to just dissipate.  I have never seen or reported anything like this, but we went online to see if the news had anything about it. Nothing yet.  Thought I would post here in case others who saw the same thing are also trying to convince themselves they are not crazy!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83984.html](http://www.nuforc.org/webreports/reports/083/S83984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Anthony (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>While watching night sky with my head in the east-west position, a smooth, rounded, triangular craft passed over heading due south towards El Paso, Tx.  The craft was less than a quarter mile high and completely silent.  It seemed as if it almost matched the color of the sky except for the light emitted by several lights equally spaced out across the object.  The lights were of a reddish/green color but very dull.  The only reason I saw it was because it flew directly across my line of view.  After it passed me and was at a 45 degree angle from my view, it became impossible to see.  The FAA was reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84001.html](http://www.nuforc.org/webreports/reports/084/S84001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
