@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking Object In the SkyThe date was 09/17/2003 it wouldn't let me enter it in the field. A coworker and I were in a seventh floor conference room facing east when we observed a object in the sky that seemd to be a blinking light. We couldn't tell if the blinking was due to it possibly rotating and reflecting from the sun. The object was not moving in the sky then it moved quickly from west to east in the sky. It quickly changed directions and moved west to east. Then the object changed altitude vertically and then continued back on a west to east pattern.....It suddenly stopped and then quickly ascended into the atmosphere out of sight.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31884.html](http://www.nuforc.org/webreports/reports/031/S31884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Griffin (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>looked like star with a haze aroud it, had a yellow light that moved very fast in different shapes watched for about 45 minutes. woke my wife up and showed her. It started to get smaller moving away slowly then it was gone.  Hzve no idea what it was?((NUFORC Note:  Source elects to remain totally anonymous; provides no contact data.  Provides no date of the sighting, although we assume he/she may imply the date that the report was submitted.  We have assigned an arbitrary date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46314.html](http://www.nuforc.org/webreports/reports/046/S46314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
