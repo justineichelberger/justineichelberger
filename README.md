@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Griffin (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>looked like star with a haze aroud it, had a yellow light that moved very fast in different shapes watched for about 45 minutes. woke my wife up and showed her. It started to get smaller moving away slowly then it was gone.  Hzve no idea what it was?((NUFORC Note:  Source elects to remain totally anonymous; provides no contact data.  Provides no date of the sighting, although we assume he/she may imply the date that the report was submitted.  We have assigned an arbitrary date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46314.html](http://www.nuforc.org/webreports/reports/046/S46314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Nottinghamshire (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Delta chevron of lights with no solid form behind that was visible.It was dusk the sky was clear but with slight patchy cloud. The stars were visible but the sky was not dark yet.I was sitting on a seat in the garden just looking at the sky.It was a quite a warm evening for September in the U.K.We are about 25 miles from our local airport which is (East Midlands)and I had noticed 2 or 3 commercial planes with vapour trails and their wing and tail lights flashing at high altitude. flying north and south.The garden faces in a south westerly direction. As I looked directly above me I noticed a vee or delta formation of lights.There were at least 10 to 15 lights on either side of the delta shaped. The delta shape was static with no engine noise at all. It kept this position for 4-5 seconds as if it were scanning the area or me.I didn't take my eyes of the shape, the lights appeared to be green/yellow in colour and they did not appear to round more oval in shape. The delta had no back or form as in a triangle just the delta wing as I could see the sky directly behind the lights. The delta shape then moved slowly across the sky for just a second or two then the movement was so rapid I could not track with the human eye. It did not disappear at the front of my eyes it was just as if it went faster than my eyes could react.The position of the delta was north to south. To me it looked like it was tracking or mapping the area and something made it stop so it could be monitored.I would say it would be traveling faster than light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14213.html](http://www.nuforc.org/webreports/reports/014/S14213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
