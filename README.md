@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle with flashing lights in PlacervilleIt was about 5:45am and I was driving west on Hwy.50. from Pollock Pines to Placerville.  As I was leaving to town of Camino I saw a flashing light in the sky. At first I thought it was a plane because there is an airport close by. As I got closer I could see it was triangle shape with flashing white and red lights that would turn green. As I drove into Placerville it went behind a hill.  Then I saw it on the south side of the Hwy. while I was in the middle of Placerville. Both times I saw it, it did not move. I am 51 years old and retired. I drive someone to work in Placerville most mornings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58817.html](http://www.nuforc.org/webreports/reports/058/S58817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object if you can picture it was the color of one of those yellow or streetlights lights in the sky.  Also the flight pattern was extremely irregular; very slow and went from low on the horizon to very high. Never touched ground.  Also it either hovered very high or flew in a straight pattern for an extended period because it didn't look like it was moving.  Finally, after hoovering or flying straight at a high altitude for a few minutes the light shot off 5 to 6 smaller redlights in a slow succession like chaff from a plane. The light  began blinking aggressively less than ten times and completely disappeared from sight. Two people saw the light in the sky however this will be the only report. Weirdest object I have ever seen in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77884.html](http://www.nuforc.org/webreports/reports/077/S77884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
