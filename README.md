@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:04 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Topsail Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a light in the sky moving at a high rate of speed.  It changed direction at tight angles and accelerated faster than any known aircraft could.  I would have written it off as a reflection but it appeared to have been followed by a military plane.  The object disappeared, at least from my view, quickly and was accelerating much faster than the military aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149074.html](http://www.nuforc.org/webreports/reports/149/S149074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>triangle with 3 white lights on the bottom and 1 red light on topi was delivering newspapers on a saturday morning and had looked up in the sky from an area that i had just passed, i then noticed two white lights in the sky that looked strange that were approx. 100 to 150 feet off the ground i then was able to come back towards that area and could see under the craft to be able to see a third light making a perfect triangle from the bottom, at the time it was still to dark to see what was between the lights. on the top of the craft was a pulsating red glowing light, when i was able to get a better view i stopped my vehicle and got out and signaled the craft with my flashlight, it then dropped below the tree line and headed towards a lake area that is in the area i was in. i was able to go there but saw nothing else for about 10 minutes, i then noticed the red pulsating light going up and away towards the north. i called the local airport and they said nothing had flown in or out at 5:00 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34580.html](http://www.nuforc.org/webreports/reports/034/S34580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
