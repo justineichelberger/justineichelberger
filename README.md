@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Edgewater (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fadeing star triangle craftI was going into work, I pulled into work around 5:55 AM eastern time. I walked up to the building where a few coworkers were standing having one last cig befor work. I didnt feel too social this mornning due to the topic of conversation! I set down my lunch box and water bottle leaned up aginst a pole pulled out a cig and fired it up. I noticed the sky was really clear probably due to a small cold front. I was looking south up at some stars when they started moving. I could not see the body of the craft due to the darkness but there were lights on the thing witch twinkled like stars in the shape of a V . I couldnt believe what i was seeing i took a few steps forward or tord the craft whitch was about 100yrds away the craft was moving south not too fast at first then the next thing i know the lights on the craft kinda fade out leaving behind it the blackness of the night sky!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19584.html](http://www.nuforc.org/webreports/reports/019/S19584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking Object In the SkyThe date was 09/17/2003 it wouldn't let me enter it in the field. A coworker and I were in a seventh floor conference room facing east when we observed a object in the sky that seemd to be a blinking light. We couldn't tell if the blinking was due to it possibly rotating and reflecting from the sun. The object was not moving in the sky then it moved quickly from west to east in the sky. It quickly changed directions and moved west to east. Then the object changed altitude vertically and then continued back on a west to east pattern.....It suddenly stopped and then quickly ascended into the atmosphere out of sight.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31884.html](http://www.nuforc.org/webreports/reports/031/S31884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
