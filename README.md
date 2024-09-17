@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blair (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately All night every night - All night every night minutes.</sub><blockquote><sub>I took pictures and now its stalking meMissouri River, There's strange floating low lights, they even change color.. They just hover all night and retreat by light of day higher then can be seen..I've got photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159400.html](http://www.nuforc.org/webreports/reports/159/S159400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jordan (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>We were using a Bushnell Equinox Z night vision monocular; the night was clear.  While we looked in the direction of North suddenly a sphere appeared in the viewfinder.  It went left to right, then behaved in an erratic manner, dropping down suddenly.  We shined a laser pointer in its general direction; it seemed to hesitate, then continued to head in an easterly direction.  We lost sight of it behind a tree.  We have a film.((NUFORC Note:  The witnesses apparently have a film, but do not appear to have sent it.  They remain totally anonymous, and provide no contact information, so we have no means of contacting them.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136546.html](http://www.nuforc.org/webreports/reports/136/S136546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
