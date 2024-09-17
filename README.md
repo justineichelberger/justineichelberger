@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jordan (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>We were using a Bushnell Equinox Z night vision monocular; the night was clear.  While we looked in the direction of North suddenly a sphere appeared in the viewfinder.  It went left to right, then behaved in an erratic manner, dropping down suddenly.  We shined a laser pointer in its general direction; it seemed to hesitate, then continued to head in an easterly direction.  We lost sight of it behind a tree.  We have a film.((NUFORC Note:  The witnesses apparently have a film, but do not appear to have sent it.  They remain totally anonymous, and provide no contact information, so we have no means of contacting them.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136546.html](http://www.nuforc.org/webreports/reports/136/S136546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hanahan (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Is saw a triangle shape aircraft about 1500 feet in the sky that made no noise and had odd blinking lightsAs I was taking out the trash, I saw a huge triangle flying very slow over the sky.  The triangle was flying low, about 1500 feet in the sky and made no noise.  It did have some odd blinking lights at each point of the triangle.  I find this very odd considering I always hear a aircraft when flying over, especially at 1500 feet in the sky!   I saw this UFO for about 30 seconds until it flew out of sight.((NUFORC Note:  We suspect that the sighting occurred at night, and we have changed the time above, in order to reflect that fact.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113639.html](http://www.nuforc.org/webreports/reports/113/S113639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
