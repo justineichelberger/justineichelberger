@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mehlville (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white lights in circlular position with two larger lights in center and five smaller lights to outside.I was leaving my apartment at 5:30 am. and noticed bright lights in the eastern sky.  They appeared very close and very bright.  It was very cloudy and you could not see a craft but the lights were so bright they shown through the clouds.  They were in a circle with two larger bright lights in the middle.  There were 5 smaller lights around the outside.  They were flashing.  At one point the  one light appeared to be moving in the eternity symbol position. I put my things in the car and grabed my cell phone.  By the time I aimed the cell phone it disappeared.  I have always been an extreme skeptic but this was real. I circled the neighborhood in about a mile radius to see if there were any advertisemnts that would use such high powered lights but found nothing.  It seemed to be about the size of half a football field, it is hard to judge. It was very large.  There was no sound at all.  The lights were white. I am still a skeptic but I cannot deny what my eyes s! aw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83991.html](http://www.nuforc.org/webreports/reports/083/S83991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Placerville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle with flashing lights in PlacervilleIt was about 5:45am and I was driving west on Hwy.50. from Pollock Pines to Placerville.  As I was leaving to town of Camino I saw a flashing light in the sky. At first I thought it was a plane because there is an airport close by. As I got closer I could see it was triangle shape with flashing white and red lights that would turn green. As I drove into Placerville it went behind a hill.  Then I saw it on the south side of the Hwy. while I was in the middle of Placerville. Both times I saw it, it did not move. I am 51 years old and retired. I drive someone to work in Placerville most mornings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58817.html](http://www.nuforc.org/webreports/reports/058/S58817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
