@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:40 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Evansville (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zig-zagging distant orangish-white object/light transversing sky to horizon at fast rate of speedAt 4:45am cst, two of my associates and I noticed an orangish-white satellite looking object in the southwest sky, at about 35 degrees to the ground, decending to the horizon at a fast rate of speed.  After a moment, against the backdrop of the surrouding stationary stars, the object could CLEARLY be seen abruptly maneuvering left to right in a zig-zag fashion as it moved towards the horizon, becoming smaller and more reddish in color than orange, until it dissapeared from view.We had only just concluded a lengthy paranormal investigation on a rural road off of Highway 14 near Evansville, WI, when the object was spotted by my partner, a former army veteran.  The sighting lastest several long minutes and the entire event was recorded on the audio of my camera (the camera was aimed at the craft but our equipment was not high quality enough to capture the light or any stars in the sky).My research organization is called Prove It Paranormal Research Associates and we would welcome anyone interested in listening to the recording of the event.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118548.html](http://www.nuforc.org/webreports/reports/118/S118548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>brightly colored flashing red green and yellow pentagon/ circular shaped object bouncing up and down in the night skyi saw a flashing colored circular light in the night sky. I proceeded to get my binoculars and then saw the object bouncing up and down and flashing with all sorts of yellow, green , and red flashing lights, and at times emitting a bright white light from the side of the circular object. It was only one object observed. It appeared to be circular or possible pentagon shaped. I called my husband in to see, and he wasnt able to detect what it was either, and both of us were mesmerized.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58790.html](http://www.nuforc.org/webreports/reports/058/S58790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
