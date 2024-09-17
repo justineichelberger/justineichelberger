@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO TWO GIRLS YUCCA VALLEY CA GREEN AND WHITE LIGHTS ON OBJECTSITTING OUT SIDE YUCCA VALLEY HOME 7;35 PM.  OBJECT APPEARED, WHAT MADE US NOTICE WAS THE LIGHT BEAM OBJECT STARTED TO PROCEEDE TOWARDS US , WE THOUGHT IT WAS A HELECOPTER ONCE NOTICED. HAD A BEAM LIKE LGHT MOVE FROM THE EAST AND SHINE FACING US AS IF THE OBJECT KNEW WE HAD NOTICED IT  , AS OBJECT GOT CLOSER I NOTICED 5 GREEN LIGHTS ON IT AND IT WAS DISC LIKE. RAN INSIDE AND WAITED APPROX. 4 MINUTES WAS TERRIFIED FOR OUR LIVES AND WENT BACK OUT SIDE AND OBJECT WAS HOVERING OVER HOUSE AND FLASHED A BRIGHT WHITE LIGHT AT US FROM DIRECTLY ABOVE THEN WE RAN INSIDE AND WENT TO THE CAR AND LEFT .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122198.html](http://www.nuforc.org/webreports/reports/122/S122198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>We were looking out my window, and there it was, just sitting there, making no sound and hovering at around 25 feet up, and it dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07054.html](http://www.nuforc.org/webreports/reports/007/S07054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
