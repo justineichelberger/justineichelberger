@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 16 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Woodmont (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>((Dog's name deleted)),my Siberian Husky , and I were walking along Anchor Beach in woodmont Connecticut , enjoying the view of the oysterboat working off shore. I had my digital camera handy, so I took a couple of scenic pictures. When I downloaded these electronic images , I was surprised to fingd that we had company out on the beach. I sitting in the sky above us and the oyster boat was a disk shaped object with what looked like a row of windows on it's underside. I saucer must have been using a cloaking device or something anfd my digital camera's image processing circuits must have been able to pick up the saucer's image. To get a good look, you can visit my website http://www.tiac.net/users/blizzrd1  ((NUFORC Note:  Website apparently now defunct, as of February 2003.  PD))I have an account of my experience posted here , with pictures. thanks ((Name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03114.html](http://www.nuforc.org/webreports/reports/003/S03114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Evansville (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zig-zagging distant orangish-white object/light transversing sky to horizon at fast rate of speedAt 4:45am cst, two of my associates and I noticed an orangish-white satellite looking object in the southwest sky, at about 35 degrees to the ground, decending to the horizon at a fast rate of speed.  After a moment, against the backdrop of the surrouding stationary stars, the object could CLEARLY be seen abruptly maneuvering left to right in a zig-zag fashion as it moved towards the horizon, becoming smaller and more reddish in color than orange, until it dissapeared from view.We had only just concluded a lengthy paranormal investigation on a rural road off of Highway 14 near Evansville, WI, when the object was spotted by my partner, a former army veteran.  The sighting lastest several long minutes and the entire event was recorded on the audio of my camera (the camera was aimed at the craft but our equipment was not high quality enough to capture the light or any stars in the sky).My research organization is called Prove It Paranormal Research Associates and we would welcome anyone interested in listening to the recording of the event.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118548.html](http://www.nuforc.org/webreports/reports/118/S118548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
