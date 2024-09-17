@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:40 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:04 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>brightly colored flashing red green and yellow pentagon/ circular shaped object bouncing up and down in the night skyi saw a flashing colored circular light in the night sky. I proceeded to get my binoculars and then saw the object bouncing up and down and flashing with all sorts of yellow, green , and red flashing lights, and at times emitting a bright white light from the side of the circular object. It was only one object observed. It appeared to be circular or possible pentagon shaped. I called my husband in to see, and he wasnt able to detect what it was either, and both of us were mesmerized.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58790.html](http://www.nuforc.org/webreports/reports/058/S58790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Topsail Beach (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a light in the sky moving at a high rate of speed.  It changed direction at tight angles and accelerated faster than any known aircraft could.  I would have written it off as a reflection but it appeared to have been followed by a military plane.  The object disappeared, at least from my view, quickly and was accelerating much faster than the military aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149074.html](http://www.nuforc.org/webreports/reports/149/S149074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
