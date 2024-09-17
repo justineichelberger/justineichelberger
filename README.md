@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 17 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Clayton (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Power out green light power out green light. loud noiseOk so were walking down the street from the store back to the house. all of asudden the power gos out all around us theres noise like a lightsaber (no pun) and the sky turned green blue.  The power came back then it happend again.  Then the power returned to full power.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83968.html](http://www.nuforc.org/webreports/reports/083/S83968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rockledge (PA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4  orange lights, 3 in the front in a sideways V formation and 1 in the back < - , the lights were steady orange not flashing.I was driving to the store, my husband was in the passenger seat.  All of a sudden he yelled stop, what is that in the sky!  I pulled over and we got out to look at it.  There were 4 orange lights. 3 in the front in a sideways V formation and 1 in the back. < -   The lights were steady orange not flashing or changing colors like other aircraft I have seen.  They hovered in the same place for about five minutes, then seemed to just dissipate.  I have never seen or reported anything like this, but we went online to see if the news had anything about it. Nothing yet.  Thought I would post here in case others who saw the same thing are also trying to convince themselves they are not crazy!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83984.html](http://www.nuforc.org/webreports/reports/083/S83984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
