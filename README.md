@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>a round object, with a loud noise and two green lights on the top, spinning, It was there and just like that it was goneMy 14 yr old daughter was getting up for school and heard a loud noise outside.  She looked out her window and there was a round object with two green lights out of the top of it and they, the lights were rotating.  On her way to school a girl on the bus said she had seen something this morning and my daugher waited until she described it.  It was the exact same thing she had seen.  I don't know how to explain any of this too her.  She is a bit frightened.  Do we call the news or not?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65756.html](http://www.nuforc.org/webreports/reports/065/S65756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>As I stared into the night from attic apartment.  I noticed a color changing from green to red to white which at first was bigger than a dot than slowly became smaller as the object flew fast across.  Than another identical object flew across jus like the first one. the two dots still color changing were far apart but aligned and slowly move closer.  Finally another one came kept flashing a bright ambient color for about 2 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122057.html](http://www.nuforc.org/webreports/reports/122/S122057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
