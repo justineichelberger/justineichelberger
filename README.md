@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting out, having coffee, watching a flock of birds.  I noticed a white cylinder object moving through the sky.  It made no sound and no exhaust trail.  It was moving south.  As it moved out of sight, I saw another object, same as last, but moving north.  I watched the sky and saw 2 more going south and 2 more going north.  They were timed at 5 minute apart .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113656.html](http://www.nuforc.org/webreports/reports/113/S113656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westbury (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three orange lights in the shape of the big dipper, then 2 more came into view.I was driving down Jericho Turnpike in Syosset, NY at 8:30 p.m. on Saturday night September 18, 2010.   I was heading east and right past Underhill Blvd I saw 3 orange lights in the sky in the shape of the big dipper.  I thought it was cool that I could see it and then realized that it isn’t the big dipper!  Then 2 more came into sight.   I pulled over to the left in a parking lot and got out of the car to look.  They were moving slowly in the same pattern – the 3 of them and the 2 trailing.  They were bright orange, not flashing.  Three men came out of a restaurant and I asked them what they saw and they said “I guess it’s a plane” I said are you sure, they said no, but they don’t know what it could be.  It had to be about 10 minutes since I first saw them and then they slowly went out of sight towards the North sky.  There might have been a glow around the edges.  I took out my phone to take a picture, but the parking center sign was too bright.  It was ve! ry cool!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77911.html](http://www.nuforc.org/webreports/reports/077/S77911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
