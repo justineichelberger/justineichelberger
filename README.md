@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>North side, light over city, moving very fast.It was getting dark, and I was outside talking with my neighbor; he had just waxed his truck, and wanted to get it back in his garage because it looked like it was going to rain.Then to the East, I saw a light. I asked my neighbor if he knew if it was a star. It appeared to get brighter, and I was getting ready to hear what I thought would be the sound of a helicopter, but heard nothing. I would hear no sound of any aircraft throughout the sighting.It went behind a tree, I took my phone out of my pocket, and my neighbor asked if it was raining. A few seconds later, I started recording at exactly 7:37 PM. I assume it is the same light, due to the brightness.As I was recording, it also looked like there was something black over the light.  However, I could not see what that was clearly.The light appeared to head in a North direction, and soon started to disappear. This to me appeared to be from going through the clouds.  I was watching it through the screen of my phone, and camera app, so, when I couldn’t see it on screen, I looked over my phone, and I saw the light for about a second, and then I couldn’t see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122710.html](http://www.nuforc.org/webreports/reports/122/S122710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spruce Pine (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>what in the hell was ita bunch of teens were hanging out on the front porch when a green beam of light came out of the sky and into my well and green sparks came out of the well app 20 feet high into the tree above it never burnt anything or caused any damage allthought the power went of during this period of time and there was a loud humming sound it scared the teens and my daughter was screaming for me to get out of bed that something freaky was going on in the yard by the time i got my pants on and outside it was over but the sky to the west still had a bright green hue over the far ridge as if what ever it was had moved in that direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25830.html](http://www.nuforc.org/webreports/reports/025/S25830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
