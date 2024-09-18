@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:06 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:03 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At first it looks like a very bright star in the sky, but then it started flickering white and red lights. It stayed stationary in the sky for 2 minutes and then slowly started to dim.  It began moving parallel heading Northeast until the light became so small and red that it diminished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148972.html](http://www.nuforc.org/webreports/reports/148/S148972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Norwood/Boston (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We saw this disk like object floating above the horizon of Norwood Massachusetts.  We drove up and parked our car on a hill and watched it for a good five minutes and it started drifting away. Our car was turned off completely and we were just watching it. When it drifts away we moved our car to see it and within less than a minute it moved again.  When it started moving more we went down route one and we saw it further in the distance. It seems to be headed toasted Boston.  Now when we had a clear view of it, it seemed to have a green glow and one large red light that kept flashing in the center.  There was air displacement that didn't seem to come from a gas engine.  Now I'm not sure if this is man made or not or where it is now but this is what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84003.html](http://www.nuforc.org/webreports/reports/084/S84003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
