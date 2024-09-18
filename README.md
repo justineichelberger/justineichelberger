@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eagle Rock (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Glowing Sphere over Eagle Rock, CAI woke up between 3:45am-4:00am on September 18, 2010 and saw a glowing object in the sky.It did not seem to be more than a half mile above the Eagle Rock Plaza mall, on Colorado Blvd, in Eagle Rock, CA.  I thought this was a significant location since the mall parking lot was empty, and illuminated by lights and painted lines on the concrete, almost like a landing runway.It was glowing yellow, and flying very fast from west to east.There was no sound, and the object moved faster than a plane, which generally appears to fly at a steady pace which can be tracked in the sky.This object moved as fast as a baseball thrown, and no noise was evident, as a plane or helicopter would, and was unlike anything I’ve seen.A striking characteristic was how it moved in the sky.  It moved in a very deliberate manner, slightly jaunty, as if surging and exploratory, not with a real sense of direction.Since it was so unusual and captivating, it was similar to seeing a rare, strange animal, with its color and movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81161.html](http://www.nuforc.org/webreports/reports/081/S81161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:30 - 00:30 minutes.</sub><blockquote><sub>On September 18th at exactly 8:20pm I witnessed a light moving across the sky from S.E. to N.W. It reflected so much light that I assumed it was the ISP.After about 10 seconds of observation, the light slightly increased in brightness as it snapped West for a 5 seconds followed  by requisition of original course, emitted a blueish beam of light tha angled down toward the West then the light immediately disappeared. Nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159431.html](http://www.nuforc.org/webreports/reports/159/S159431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
