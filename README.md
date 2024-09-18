@@ -214,7 +214,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Morral (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing lights and bright white light in bathroom with me.woke about 6:15 AM  was trying to go back to sleep, saw a flash of light, which I thought was lightning, then I saw another flash, but thought I have to go to bathroom, so got up open bedroom door, and this light was flashing in the window down the steps, thought I will go see what is flashing, but I have to go to bathroom first.  Went into bathroom and turned on light, sat on toilet, and I guess I have to say I felt a presense, so I looked up or tried to and there was the brightest light, like trying to look into the sun, blinding, but I wasnt scared and I was trying to pee, but I kept trying to look at this light and thinking what the hell, we dont have a light there, so I finished my business with my hand shielding my eyes i went to bathroom door, and turned around to see what this light was and it was gone.  Then I was scared because I thought I was dying or having a stroke or something, so I jumped back into my bed and layed there waiting to see if anyt! hing was going to happen, I was really scared but didnt know what to do, I kept thinking my grandkids will be getting up soon, but they dont get up till so 715.  I then got my cell phone and started looking up symptons of flashing lights, white orbs, and it said I could have a detached retina, or TIA, or start of a stroke, so I just layed there waiting, finally at 7:15 my daughter and grandkids got up.  I immediately told my daughter what happen, she asked if I was sure I was awake, I said yes, I always wakeup early, but then go to bathroom and back to bed. She and I are both nurses.  I am 60, so that is why I was afraid that something physical was wrong with me.  So at  8:00 I called my Dr. and went to see him, told him all that happen, but he found nothing wrong with me, and assured me, that he believed I saw something, but he did not know what.  I had no physical symptoms what so ever.  I am still shaken, but I can explain to myself why I wasn't afraid, during this event! , or why I didn't yell for my daughter, I do not know, but I k! now ther e was something in that bathroom with me, be it a ghost or UFO, I do not know, but it happened because I can't stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92937.html](http://www.nuforc.org/webreports/reports/092/S92937.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
