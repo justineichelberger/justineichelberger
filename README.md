@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alpine (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red, circular object floating above Alpine, Utah...STRANGE!Our children were playing outside in the front yard while the adults were talking inside the home (birthday party for one of the adults). Suddenly around 8:15pm (at dusk) all the children ran through the door yelling for us to come out. My brother-in-law and I went outside to see what all the commotion was about and all the kids were pointing toward the mountain and the sky. As I looked in the direction of where they were pointing, I clearly saw a tiny, reddish/orangish, circular object slowly floating away from the half way point of the mountain and into the sky (with NO noise whatsoever). The object continued up until it hit about 1,500 feet (no way to really tell how high) and then nearly stopped and moved horizontal to the left about 200 feet. Then it STOPPED! And for about 4 seconds in twinkled almost like a star, and then POOF it was gone! STRANGE TO SAY THE LEAST!!!  I then quizzed my son, 13 years old, about what he saw. He said that initially when he saw the light it was larger then when I saw it and it was ON the mountain's half way point, and in his words, "Dad, I thought it was a campfire." He said, that the "campfire" just lifted off the mountain and started to float up. Again, STRANGE!  After we talked about it for about 30 minutes, my brother-in-law decided to call the police. They came to the home in about 15 minutes and we gave a full report...and they mentioned that no one else had called it in. It was funny because one of the officers was on his first day on the job!  To be clear, there are NO homes, structures, or any man made things at the half way point of this mountain...just pure mountain, and no trees...just shrub oak. There is no way that it was a plane, helicopter, balloon, model rocket, laser beam, etc...at least not by my observation. I don't believe in the traditional "UFO" concept, nor do I believe that creatures from other planets visit this earth in a "UFO" sort of way...but I have to admit, this was really weird, thus the post. If anyone else saw this object, please post something here so I don't think the twelve of us are going crazy! :-)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84062.html](http://www.nuforc.org/webreports/reports/084/S84062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gross Ile (MI) reported seeing craft that fit the description of some 'Cross' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by source of report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136246.html](http://www.nuforc.org/webreports/reports/136/S136246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
