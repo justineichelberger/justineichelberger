@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Baker City (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 00:30 - 00:30 minutes.</sub><blockquote><sub>On September 18th at exactly 8:20pm I witnessed a light moving across the sky from S.E. to N.W. It reflected so much light that I assumed it was the ISP.After about 10 seconds of observation, the light slightly increased in brightness as it snapped West for a 5 seconds followed  by requisition of original course, emitted a blueish beam of light tha angled down toward the West then the light immediately disappeared. Nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159431.html](http://www.nuforc.org/webreports/reports/159/S159431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kanata (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>"chevron shaped object silently flys over house in Kanata, OntarioIn the hot tub looking up at the stars when this "huge" shadow, shaped like the brackets sign on your computer " } " flew right over our yard.  It seemed very high and was completely silent, moving from northeast to the southwest.  Compared to a comercial planes that regularly fly over our home, this thing was at least 10 times wider.  All you could see was a grey shape gliding over our house against the darker sky and stars.  There were no lights on this object but it had a glow like moonlight does on a cloud.  When I first saw it I pointed and started to say look, look, look and my wife looked up and saw the exact same thing. This was no flying saucer, it was chevron shaped, and it was no cloud!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39351.html](http://www.nuforc.org/webreports/reports/039/S39351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
