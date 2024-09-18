@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:10 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:06 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bradley (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two small football shaped objects locked in formation with no lightsI had just walked out my back door when I decided to look up at the sky for a few moments.  The sky was clear, and the moon was bright in the sky.  About one minute after gazing, I saw two craft locked in a straight flight path from the south to the north.  They made no sound, and had absolutely no lights at all.  They were within 500 feet off the ground, and they flew in formation with one in front of the other.  Before they left my line of sight, the formation changed so that the rear craft sped up next to the right side of the front craft.  The moonlight in the sky was enough light to see the objects movement in the sky, even though they emitted no light at all.  By the time they went across my field of vision, they had changed the shape of formation from one in the front and one in the back, to the rear craft on the right, and the front craft to the left.  Total duration of the sighting was 15 seconds or less.  I walked to my friends house immediately after, and on the way I was stopped by a police officer who I explained my sighting to not even 5 minutes afterword.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102323.html](http://www.nuforc.org/webreports/reports/102/S102323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At first it looks like a very bright star in the sky, but then it started flickering white and red lights. It stayed stationary in the sky for 2 minutes and then slowly started to dim.  It began moving parallel heading Northeast until the light became so small and red that it diminished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148972.html](http://www.nuforc.org/webreports/reports/148/S148972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
