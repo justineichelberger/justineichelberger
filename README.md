@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kanata (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>"chevron shaped object silently flys over house in Kanata, OntarioIn the hot tub looking up at the stars when this "huge" shadow, shaped like the brackets sign on your computer " } " flew right over our yard.  It seemed very high and was completely silent, moving from northeast to the southwest.  Compared to a comercial planes that regularly fly over our home, this thing was at least 10 times wider.  All you could see was a grey shape gliding over our house against the darker sky and stars.  There were no lights on this object but it had a glow like moonlight does on a cloud.  When I first saw it I pointed and started to say look, look, look and my wife looked up and saw the exact same thing. This was no flying saucer, it was chevron shaped, and it was no cloud!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39351.html](http://www.nuforc.org/webreports/reports/039/S39351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bullhead City (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>spotted from Bullhead city az craft  in north eastern sky hovering at around 30000 feet 30 min so farlooks to be over kingman, az. at about 30000 or more feet hovering for 30 min. and counting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102333.html](http://www.nuforc.org/webreports/reports/102/S102333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
