@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>As I stared into the night from attic apartment.  I noticed a color changing from green to red to white which at first was bigger than a dot than slowly became smaller as the object flew fast across.  Than another identical object flew across jus like the first one. the two dots still color changing were far apart but aligned and slowly move closer.  Finally another one came kept flashing a bright ambient color for about 2 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122057.html](http://www.nuforc.org/webreports/reports/122/S122057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>V/Triangular Object over Tacoma WashingtonOn 9/18 of 2005 my wife,mother in law and myself witnessed an object in the sky over Tacoma Washington, it was a v or triangular shape and appeard to be at an altitude well over 4000 feet.  For roughly 10 minutes it did not change position then it moved at a medium pace (under 400mph) what appeared to be several miles to the east never changing altitude.  The visual size of the object indicated it was much to high to be a helicopter and since it was hovering for several minutes it was not a plane, my mother in law thought it was a kite, but the distance it covered was much further than would have been possible with a kite even at high altitude.  It did not change elevation at any time that it was witnessed only physical position in a course from west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46345.html](http://www.nuforc.org/webreports/reports/046/S46345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
