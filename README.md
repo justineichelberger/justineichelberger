@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 18 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A ballon-like small derigible looking object moved in a straight path, unaffected by wind currents, at a constant speed of about 5 mphObserver #1 is female, 65 years old, white-caucasian, retired, married to Observer #2, male, 68 years old, white-caucasian, retired lawyer and law school professor, and amateur back-yard astronomer.  As the observers were eating dinner at their residence (elevation 650 ft. above sea level; at approximately 33 degree North latitude, 117 degrees West longitude) located at the mouth of a canyon,  observer #1 spotted a balloon-like object in the sky about one-half mile due east across a small valley and above a ridge at an elevation of approximately 750 feet above sea level. This is in an neighborhood of widely spaced large homes on large (1 acre+) lots in an uneven terrain. The object moved slowly toward the observers'  home until about 1/4 mile away, when it  made a right angle turn to the north, at which time observer #2 saw it. The object, which was gray colored,  did not behave as a typical balloon. It  seemed to have a controlled flight path and a constant speed (perhaps 5 miles per hour), and it maintained a level elevation of about 750 feet.  It did not drift in  the breeze, nor change elevation, but moved slowly in a straight path. The observers moved outdoors onto the patio behind their residence, and observer #2 observed it thereafter through 7 x 35 binoculars.  After making a 90 degree turn to the north, it travelled slowly (estimated at 5 mph) due north across Lake Hodges and toward the City of Escondido, CA, in a straight line until it disappeared in the distance.  At one point, over Lake Hodges, the left (western) side of the object glinted in the setting sunlight. The oject had a shape somewhat between that of a balloon and a football.  It had no wings, or anything exterior to its basic shape,  and no antennae were observed.  It was about as large as a standard sized suitcase, about 3 feet long and 1.5 feet wide, and an elyptical shape, somewhat like a small derigible. No sound or light  was emitted from the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14243.html](http://www.nuforc.org/webreports/reports/014/S14243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Osceola (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>5 blue/grey circles in triangle shape.Night time stormy sky.  I looked up and 5 complete circles appeared forming a triangle.  No lights but could tell each circle was a dark blue/grey.  Flew over me and 2 other witnesses and then disappeared.((NUFORC Note:  Anonyous report.  Date may be flawed.  The correct date may be September 19, but we have no means of confirming that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143191.html](http://www.nuforc.org/webreports/reports/143/S143191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
