@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Forked River (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast moving object caught on iPhone not hoaxI was looking up towards the cornea borialis at the ahpecca Star.  An was standing on Corner of Vaughn ave an Lacey rd in forked river nj facing north an I was looking towards nw w an my eye line Looking northwest west when I saw what was a light that looked liked it was coming into the atmosphere an stopped on a dime an then had a flash to it like it blinked an I then started recording on my iPhone an that’s where you really can see it when you slow it down there’s not a cloud in the sky an my phone picked up the light an the way it was moving. There were no aircrafts in the area during that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159466.html](http://www.nuforc.org/webreports/reports/159/S159466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lamar (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cone like light shining down from circular objectI was on a small boat at Bald Eagle State Park in PA with my wife, who is a PHD, her old boss, also a PHD, along with another person who is an MD.  We noticed a circular light in the sky to the east that had a cone like white light shining down.  It stayed visible for about 30 seconds, the circular light disappeared and the cone of light seemed to slowly fade.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72527.html](http://www.nuforc.org/webreports/reports/072/S72527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
