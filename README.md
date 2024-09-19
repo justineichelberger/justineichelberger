@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:21 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:22 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Somerville (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was on the patio with a friend in Somerville.  It was a crisp night and we were in a relatively quiet neighborhood.  A blue and green disc-like object floated down, there was no noise so we were confused as to what it was.  We assumed it was far away because of the lack of noise.  But when it stopped moving, we realized it was only about a mile away from us, and then hovered for around 3 minutes mid air.  The colors were emitted by a light that encompassed the entire craft, and it seemed like an aura and not light beams. It then lowered towards the ground out of our sight.  There was no noise coming from this object when it was lowering.  We were still on the patio 40 minutes later when a helicopter ascended from the same area.  However, the difference was that we could hear the helicopter as it was taking off and for the rest of the duration it was in the area.  The lights on the helicopter were colored red and yellow, and it was clear to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102449.html](http://www.nuforc.org/webreports/reports/102/S102449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nesbit (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Solid objects with vapor like circle around them flying fast.outside looking at sky and 2 round jellyfish like objects without tentacles appeared in north sky and flew to the south.  the.  5 min later the sky was full of them from the north again they flew fast and erractic at least 6 to 8 of the same objects.  solid center with a vapor like circle around them.  there were also at least 6 other people in the park across the lake looking up at the sky.  some of them appeared white and some were green.  been looking at the sky for a long time and NEVer saw anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122069.html](http://www.nuforc.org/webreports/reports/122/S122069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
