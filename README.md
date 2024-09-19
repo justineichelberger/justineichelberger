@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:55 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Patchogue (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Hovering circle them changed color and took offThe object was hovering for over 40 min making no noise.  It would move slow.  Then it starting spinning And moving faster and then would change colors and go back to white.  We do have video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149255.html](http://www.nuforc.org/webreports/reports/149/S149255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 22;30 - 22;30 minutes.</sub><blockquote><sub>iT looked like a big star twinkling.Thru binaculars it had red green, and white lites blinking like a disco lite.  In the distance where two smaller objects that blinked in color and did funny manuvers like a worm going verticle in the sky.  My husband and I watched till 11:30PM Talked to neighbors and nobody saw it.  Then on the next eveing the big disc was back almost in the same spot.  Every night we would see it close to the original site . We thought it was a planet but couldn't understand the flashing lights.  On Sept.23rd,98 we saw what appeared to be a star explode in to a red fireball and disapear.My husband is a retired chemical engineer and couldn't give any clue to what we were seeing.  We live on a small lake and alot of strange lites and noises usually in the evening around 10pm on.  We have seen 2 bright lights in the sky that  looked like headlites but did not shine on  the ground .  What ever these strange stars are come from the north and moves east.  This all started Sept. 19th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04540.html](http://www.nuforc.org/webreports/reports/004/S04540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
