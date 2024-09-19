@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Portsmouth (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A trail of smokeWe have 3 small windows at the top of our door right before the steps. I was going upstairs one night and I happened to look out of the door window. I was white smoke traveling down the street and I thought someone's house was on fire. I was scared to open the door my mother was sleeping so I just watched. It traveled about the height of a light pole and as I continued to observe it, there was an end to it. It was about 20 feet in lenght and traveled down the street over one of my friend's house. It stopped right over their roof and it did a circle and had gotten smaller. It stood over my friend's house for about 2 minutes and just disappeared. Out of the 2 other ufos' I've seen that was the weirdest.((NUFORC Note:  One of three reports submitted by witness.  Time and date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20828.html](http://www.nuforc.org/webreports/reports/020/S20828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nesbit (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Solid objects with vapor like circle around them flying fast.outside looking at sky and 2 round jellyfish like objects without tentacles appeared in north sky and flew to the south.  the.  5 min later the sky was full of them from the north again they flew fast and erractic at least 6 to 8 of the same objects.  solid center with a vapor like circle around them.  there were also at least 6 other people in the park across the lake looking up at the sky.  some of them appeared white and some were green.  been looking at the sky for a long time and NEVer saw anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122069.html](http://www.nuforc.org/webreports/reports/122/S122069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
