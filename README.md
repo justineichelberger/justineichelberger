@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 orange horizontal lights appeared, disappeared, the reappeared one by one before disappearing again5 oranges lights appeared in a horizontal line, disappeared then reappeared one by one before disappearing again.  Out over ocean along Myrtle Beach boardwalk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148988.html](http://www.nuforc.org/webreports/reports/148/S148988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Lone Mountain Las  VegasWere at a park located at lone mountain and 215.  My family and I was playing sports in the park as the sun was setting.  Between 7:15pm and 7:45pm we witnessed 8 objects on the actual mountain going across the ridges at high speed.  They were getting brighter and dimmer at certain points sometimes disappearing for a few seconds. There were 4 groups of 2 that kind of circled each other.  At some points they seemed to swirl if that makes sense.  They worked their way down the ridge from left to right disappearing completely out of view around 7:45pm.  About 30 to 45 minutes later there was yet another lone light starting at the highest peak and working its way down like the others. Again 15 minutes later there was one final light to the left towards the base of the mountain.  We went to see if anything was there but couldn't find anything on arrival.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113717.html](http://www.nuforc.org/webreports/reports/113/S113717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
