@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Humbolt (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>USNavy Ch. Petty Off. repts. seeing "red orb under Jupiter."  Obj. moved right, then left, then zipped off at very fast rate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00832.html](http://www.nuforc.org/webreports/reports/000/S00832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cherryville (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I WAS FISHING FROM A PIER IN A SMALL VALLEY BEHIND MY HOUSE WHEN THE OBJECT APPEARED.  IT LOOKED TO BE ABOUT 400 FEET IN THE AIR WHEN I FIRST SAW IT. IT WAS DARK IN COLOR WITH A SMOOTH SURFACE. IT WAS MOVING VERY SLOW OVER SOME TREES WEST TO EAST. I HEARD NO SOUND AT THIS POINT.IT STOPED AND HOVERED AND STARTED TO GET LOWER OVER A CANE PATCH AT THE END OF THE COVE. IT HOVERED AT ABOUT 50 FEET ABOVE THE CANES AND I STARTED TO HEAR A STATIC CRACKLING SOUND, IT STARTED TO HAVE A MISTY BLUE COLOR AT THIIS TIME.IT HOVERED THERE FOR SEVERAL MINUTES AND THEN IT STARTED TO MOVE CLOSER TO THE PIER WHERE I WAS STANDING. IT CAME WITH IN 75 FEET OF ME AND I STARTED TO FEEL THE HAIR ON MY ARMS STAND UP. IT STOPED AND HOVERED THERE FOR 2 OR 3 MINUTES AND THEN STARTED TO MOVE HIGHER AND THE STATIC SOUND STOPED. AS IT MOVED OFF I AN EASTERLY DIRECTION I SAW THE REFLECTION OF MY LANTERN IN THE BOTTOM OF IT.I LOST SIGHT OF IT OVER SOME TREES ACROSS THE COVE.  I HEARD NO OTHER SOUND.THE OBJECT LOOKED TO BE ABOUT 75 FEET LONG AND 30 OR 40 FEET WIDE AND 12 OR 14 FEET THICK.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31668.html](http://www.nuforc.org/webreports/reports/031/S31668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
