@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:55 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nesbit (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Solid objects with vapor like circle around them flying fast.outside looking at sky and 2 round jellyfish like objects without tentacles appeared in north sky and flew to the south.  the.  5 min later the sky was full of them from the north again they flew fast and erractic at least 6 to 8 of the same objects.  solid center with a vapor like circle around them.  there were also at least 6 other people in the park across the lake looking up at the sky.  some of them appeared white and some were green.  been looking at the sky for a long time and NEVer saw anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122069.html](http://www.nuforc.org/webreports/reports/122/S122069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Patchogue (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Hovering circle them changed color and took offThe object was hovering for over 40 min making no noise.  It would move slow.  Then it starting spinning And moving faster and then would change colors and go back to white.  We do have video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149255.html](http://www.nuforc.org/webreports/reports/149/S149255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
