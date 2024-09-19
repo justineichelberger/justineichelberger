@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Mexico (abov; In-flight) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two motionless star-like lights appear for at least a minute then disappearI was flying west on an Airbus 320, probably over New Mexico.  We were probably at least 25,000 feet up.  I had a window seat on the starboard side and was enjoying watching electrical storms dance across the northern sky.  The Big Dipper was hanging low in the northern sky and was visible most of the time with the lightning activity below.  Intermittent patches of clouds sometimes obscured my view of the stars, but most of the time I had a spectacular view of the sky above a long line of storms to the north which stretched approximately from the mid-western states to western New Mexico.It was after a short period of cloud obstruction when the strange lights appeared.If you were to mark a spot midway between a line joining the two stars at the end of the handle of the Big Dipper and draw a line perpendicular to and up from that line, the lights appeared on that line at a point about a third longer than the line joining the two stars.  They were slightly brighter than those two stars and appeared white.  At arm's length they were about a pinky finger's width apart.I'm familiar with that area of the sky and knew immediately that they couldn't have been stars, planets, or any other celestial body.  My first thought was that they were satellites, so I watched them for any movement.  They remained perfectly motionless like stars for about a full minute.  Then briefly for several seconds, my eyes were drawn to a few flashes of lighting below.  Then when I looked back up, the two lights had disappeared.  I continued watching that area of the sky for at least 15 minutes afterwards but they never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102460.html](http://www.nuforc.org/webreports/reports/102/S102460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Clear Blue sky no clouds Star-like silver object fading in and out visible for 1 minute or 2 then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159474.html](http://www.nuforc.org/webreports/reports/159/S159474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
