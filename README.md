@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Portage (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four orange lights in a row with a single orange light to the lower right of them.I looked out my wondow at about 9:30pm central time and saw what seemed to be a bright planet in the northern sky. My window looks over a large hay field with no obstructions to the view. I watched the light which was an orange color like a sodium vapor light. There are no other lights of houses that I can see from my farm. The light appeared to move slightly and went out and I thought it was probably just an airplane. I looked again and in the same location the light was there again about 10 mintes later. It went out again when I looked. Then I looked again about 10 minutes later and I saw a sight that freaked me out. It was four orange lights in a horizontal row to the left and slighly above where the single light was. The single light was there too. The lights were round and glowing very brightly. It was a totally clear night. The moon was to the east and visible. I saw the lights stay stationary for about 30 seconds and then they just winked off completely. I kept watching and did not see them reappear. I called the Sheriff's office as I was sort of afraid and told them that I thought maybe someone was driving in my field, (but really the lights were in the sky). But I didn't want the police to think I was a nut job. But an officer came out and looked and didn't see anything, but I felt better for the reassurance. I am a teetotaler and do not take drugs. I am sober as they come! I don't even believe in UFOs. But I maybe do now! I grew up around airplanes as my dad is a pilot and I know the running lights of aircraft very well. Red port, green starboard, white strobe. These lights I saw were not running lights of a conventional aircraft. I listened for an engine and it was silent. From the closeness of the lights the craft would have been on a course to land on my house or buzz over it very closely. It is totally dark out here with no other farms around me and it was excellent visibility that night. I checked all over my field the next day and saw nothing unusual. I have seen The Northern Lights many times and it was definitely NOT that. I'm an outdoors person and know the night sky very well. I have never seen anything like this before. Also after the sightings my lights flickered a bit in the house for about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46380.html](http://www.nuforc.org/webreports/reports/046/S46380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Forked River (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fast moving object caught on iPhone not hoaxI was looking up towards the cornea borialis at the ahpecca Star.  An was standing on Corner of Vaughn ave an Lacey rd in forked river nj facing north an I was looking towards nw w an my eye line Looking northwest west when I saw what was a light that looked liked it was coming into the atmosphere an stopped on a dime an then had a flash to it like it blinked an I then started recording on my iPhone an that’s where you really can see it when you slow it down there’s not a cloud in the sky an my phone picked up the light an the way it was moving. There were no aircrafts in the area during that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159466.html](http://www.nuforc.org/webreports/reports/159/S159466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
