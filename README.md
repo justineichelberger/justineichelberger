@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1:27 - 1:27 minutes.</sub><blockquote><sub>Silent moving strobing white lights September 9 2009I went outside to close the garage doors when a bright flashing white light caught my eye. To my right in the sky, was something very bright flashing. I keep my camcorder handy and ran to get it. 09/19/2009 @ 9:19pm Creepy, huh?  A strange object flew East to N.West silently over my neighborhood. I could not identify this object and was startled at how bright the flashing lights were. The object was heading right into the adjacent neighborhood treeline. As it did, the object changed light formation. I saw a small violet, red and green lights turn on/around the bright light. Uploading video's removes some quality. I can not say for sure the size or shape of the object.  To the best I could tell by the point of reference it was only a few thousand feet off the ground.  Seeing those lights was disturbing but exciting as well. The object went out of my view and I lost sight of it in the trees.  The trees in my neighborhood are approx. 50 feet or more in height.  I no! ticed as the object was approaching, the dog a few houses down began to bark. I do not know what this was, but I hope this video reassures others that we may not be alone after all.  I am receiving information from people living in various parts of PA that saw my video and confirmed it to be what they saw last night also.  Note: Point of reference was my neighbors garage with a security hallogen light attached above the garage door.  This is not the Black Brant xii rocket.  That rocket was launched from Virgina hours before and could only be seen as far as Boston. I live all the way in Ohio! It is impossible for this to be that rocket, that conclusion has already been debunked http://www.youtube.com/watch?v=F413VRjXCU8</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72490.html](http://www.nuforc.org/webreports/reports/072/S72490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hope (NJ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>We were at the UACNJ observatory in Hope, NJ looking due south. I say what at first appeared to me to be a searchlight shining straight up through a high, thin cloud. It was a bluish white light in a column that did not reach the ground. Within seconds, it broadened to a conical shape and reached its maximum brightness. It then faded away over the course of the next minute. It never moved laterally. There was a slight vertical movement as it developed, but then it was stationary as it faded away. My imprssion was that it was very far away. My guess was that it was vapor in the stratosphere lighted by the twilight. I have no idea what caused it.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72521.html](http://www.nuforc.org/webreports/reports/072/S72521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
