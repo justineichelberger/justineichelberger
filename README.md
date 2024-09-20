@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Romulus (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw a bright blue/white light in the South East sky.I was sitting on my front porch looking up into the sky to see if it was a clear night when I saw a bright blue/white circle shaped flash. It flashed onces, there was a tiny pause then flashed again one last time. I did not see any tail to indicate that it was a meteor and I did not see any aircraft, but there were no more flashes. The odd thing was that there were more planes out tonight that I've seen since I've been here heading in the same direction as the bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46642.html](http://www.nuforc.org/webreports/reports/046/S46642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>6 oval objects flying over Riverside CaliforniaLooking up in the sky and seen 6 oval shapes just flying over, it was a nice clear day.  This is the first time I ever seen something like this I started taking pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77924.html](http://www.nuforc.org/webreports/reports/077/S77924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
