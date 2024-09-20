@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Moses Lake (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light in night sky.  Had side to side, up and down and circular movement.Observed a bright light in the night sky.  Would move from side to side, up and down, and in circular direction while staying in the same general area.  Watched for about an hour.  Appeared to be fairly low altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84084.html](http://www.nuforc.org/webreports/reports/084/S84084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>changing lights in sky, from red/blue light to flare like light.We were walking our dog and saw 4 lights in sky, 3 were like flares, one was a bluish-redish light.  All four changed numerous times, from the blue/red light to a flare-like light that fell downward.  It lasted about 5 minutes until we couldn't see it anymore because of the trees.  We thought it was odd, that if they were flares, why did they change back to the blue/red light many times?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113752.html](http://www.nuforc.org/webreports/reports/113/S113752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
