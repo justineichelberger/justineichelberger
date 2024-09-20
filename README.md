@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:18 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:24 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Cowichan Station (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It is my belief that some type of craft was hovering above us, it was certainly not a heliocopter.At about two o'clock in the morning I was awakened by a strange sound that seemed to be coming from almost directly above and a little to the rear of our house. I got up and went into the kitchen/dining room and looked out of the window, the whole yard surrounding our house and the "in-laws" house about 50 feet away were bathed in a bright white light. I awoke my wife (now ex) and told her I was going out to see what was going on, all the while I was aware of a loud humming sound, similar to an electric turbine noise. I grabbed ny .303 rifle and some shells and a flashighlight and proceeded to open the door to the side yard, the moment I stepped outside the light disappeared and the noise suddenly stopped, I walked out into the yard and there was not a thing to be seen. During the time the light was on I had looked out of the rear bedroom window and noticed a large doe deer in the backyard under one of our apple trees, I shone my flashlight in that direction while outside but she had gone. I should point out that our houses were on a remote road gravel with the nearest neighbor some 300 yards away, there were no other neighbors within a mile in either direction.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42309.html](http://www.nuforc.org/webreports/reports/042/S42309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Woodland (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Saucer shaped craft at roof level just hovering, round windows along the side and dome in the middle.My roomate and I were riding on a greyhound bus on Interstate 5.  We were going home for a visit from college in Portland Oregon to Longview Washington.  Right before entering Woodland Washington we passed a huge freshly plowed field.  In the middle of this huge field was a two story farmhouse. I was just casually looking at the view when I saw a saucer shaped disc hovering at roof level of this home. It was brown, saucer shaped with a dome in the middle. It appeared to be as long as the roof of the house. Along the side of this craft there were windows, round ones and at one end of it a "fin"? or something slightly projecting upward like a tail or a shark fin.  It just hovered there at roof level and moved ever so slightly.  Underneath this craft there was some turbulence like the bushes appeared to be swaying bath and forth. I told my roomate about this and told her were to look and she took one long stare, turned to me and said....... "If you tell anybody about this I will deny it!" This scene lasted the entire time it took to pass from view. I never did tell anybody for years.  It still haunts me to this day so to tell someone who will listen is a cleansing moment for me.  I am truly not alone.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32318.html](http://www.nuforc.org/webreports/reports/032/S32318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
