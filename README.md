@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Franklin (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was driving on route 127 towards Franklin from the Sanborton area. I was with 2 friends. We had just passed the damn, on our right was an opening and we saw a circular or disk shaped object in the sky, it was still in the sky with a , we watched it for about 7 to 10 seconds.	We then lost it because there was a line of trees in our was. So we turned around to go look at it again, I saw it in the sky and it was moving in the same direction that we were. This was back towards Sanborton. We followed it for about 4 or 5 seconds then lost it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72491.html](http://www.nuforc.org/webreports/reports/072/S72491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Batesville (IN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights that formed straight lines in the skyI noticed a bright orange light in the clear night sky that looked like it was going in a streak or line.  At first I thought it was a plane on fire that was crashing but then it started disapearing just as another line started forming in the opposite direction.  I noticed that the 2nd line looked more like a bunch of orange circle lights that were connecting and as soon as it would get about 5 to 7 circles in length long it started disapearing 1 circle at a time.  Then a third line started forming in yet another direction all of which seemed to start from close to the same spot but going off in different directions.  The last circle or 2 was a little bit off kilter so it didn't form an exactly straight line towards the end then it also followed suit and systematically started disapearing.  They all appeared to be near yet higher than a close by radio tower with a red light.  By the time the second light had started I called my husband on my cell and when he! looked out the window they were all gone & didn't reappear.  I called my local police dept. about half an hour later to see if anyone else called in about it and he said no but there was a helicopter that had landed at the hospital (which is not near where I saw the lights).  There was no way this was a helicopter.  I've never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84044.html](http://www.nuforc.org/webreports/reports/084/S84044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
