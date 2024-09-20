@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Highland Park (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A trianular object observed hovering, but wobbling, and then going up at a high rate of speed.During recess time, my teaching assistant noticed this object hovering in the north east sky for about 5 minutes. He pointed it out to the other T.A. there and approximatly 19 first graders. Thy all said they saw the same thing, a hoghly reflective silvery object which wobbled in the sky for about 5 minutes and then went up at a high rate of speed. I'd like to remain anonomous, please.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09845.html](http://www.nuforc.org/webreports/reports/009/S09845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Hope (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Sitting on a pond bank on sunny afternoon when 9 saucers appeared at 12:00 o'clock at a very high altitude.  They were silver in color and were in formation, sitting perfectly still.  After a time they shot straight up and disappeared. Made no noise.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42176.html](http://www.nuforc.org/webreports/reports/042/S42176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
