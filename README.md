@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:12 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ajo (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I WAS SCANNING THE SKY WITH MY BINOCULARS WHEN I NOTICED AN ORANGE/YELLOW DISCK MOVING FROM NW TO SW.  IT WAS BRIGHTER THAN A SATELLITE, WITH NO SOUND AND NO NAVIGATIONAL LIGTS (I.E. GREEN, RED OR WHITE). I GRABBED MY PALM CAMCORDER AND GOT IT ON TAPE. THE OBJECT CHANGED ITS COURSE TO SOUTH NEAR THE END OF SIGHTING, AT WHICH TIME ITS GLOW FADED. ABOUT 15-20 MIN. LATER, I SPOTTED WITH MY BINOCULARS A MILITARY JET (IDed BY THE WHITE BLINKING LIGHT)-  FAR TO THE SOUTH FROM THE NEARBY AF RANGE AND AIR CORRIDOR USED BY THE A-10s GROUND ATTACK PLANES- FLYING ON INTERCEPTION COURSE FROM D-M AFB TOWARD THE AREA WERE THE DISC WAS LAST SEEN HEADING TO.I AM AN EXPERIENCED OBSERVER WITH 8 YEARS IN THE U.S. NAVAL AVIATION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46401.html](http://www.nuforc.org/webreports/reports/046/S46401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pleasant Ridge (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Dark object in the sky over Michigan, reflecting sunlight.An object of irregular shape moving slowly from west to east, slightly to the north of our position, moving more slowly than an aircraft, no lights on the object, but with irregular flashes of reflected sunlight. When the object was not reflecting light, the body of the object could be seen, but no details were vivible, no wings or any protrusions, just the dark object. While it was impossible to determine the actual height of the object, I estimate that it was more than one and less than five miles above the ground. No sounds were heard, no alterations in velocity were seen, and it moved slowly out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31722.html](http://www.nuforc.org/webreports/reports/031/S31722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
