@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 19 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hope (NJ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>We were at the UACNJ observatory in Hope, NJ looking due south. I say what at first appeared to me to be a searchlight shining straight up through a high, thin cloud. It was a bluish white light in a column that did not reach the ground. Within seconds, it broadened to a conical shape and reached its maximum brightness. It then faded away over the course of the next minute. It never moved laterally. There was a slight vertical movement as it developed, but then it was stationary as it faded away. My imprssion was that it was very far away. My guess was that it was vapor in the stratosphere lighted by the twilight. I have no idea what caused it.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72521.html](http://www.nuforc.org/webreports/reports/072/S72521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ajo (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I WAS SCANNING THE SKY WITH MY BINOCULARS WHEN I NOTICED AN ORANGE/YELLOW DISCK MOVING FROM NW TO SW.  IT WAS BRIGHTER THAN A SATELLITE, WITH NO SOUND AND NO NAVIGATIONAL LIGTS (I.E. GREEN, RED OR WHITE). I GRABBED MY PALM CAMCORDER AND GOT IT ON TAPE. THE OBJECT CHANGED ITS COURSE TO SOUTH NEAR THE END OF SIGHTING, AT WHICH TIME ITS GLOW FADED. ABOUT 15-20 MIN. LATER, I SPOTTED WITH MY BINOCULARS A MILITARY JET (IDed BY THE WHITE BLINKING LIGHT)-  FAR TO THE SOUTH FROM THE NEARBY AF RANGE AND AIR CORRIDOR USED BY THE A-10s GROUND ATTACK PLANES- FLYING ON INTERCEPTION COURSE FROM D-M AFB TOWARD THE AREA WERE THE DISC WAS LAST SEEN HEADING TO.I AM AN EXPERIENCED OBSERVER WITH 8 YEARS IN THE U.S. NAVAL AVIATION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46401.html](http://www.nuforc.org/webreports/reports/046/S46401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
