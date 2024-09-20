@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:18 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pleasant Ridge (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Dark object in the sky over Michigan, reflecting sunlight.An object of irregular shape moving slowly from west to east, slightly to the north of our position, moving more slowly than an aircraft, no lights on the object, but with irregular flashes of reflected sunlight. When the object was not reflecting light, the body of the object could be seen, but no details were vivible, no wings or any protrusions, just the dark object. While it was impossible to determine the actual height of the object, I estimate that it was more than one and less than five miles above the ground. No sounds were heard, no alterations in velocity were seen, and it moved slowly out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31722.html](http://www.nuforc.org/webreports/reports/031/S31722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Cowichan Station (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It is my belief that some type of craft was hovering above us, it was certainly not a heliocopter.At about two o'clock in the morning I was awakened by a strange sound that seemed to be coming from almost directly above and a little to the rear of our house. I got up and went into the kitchen/dining room and looked out of the window, the whole yard surrounding our house and the "in-laws" house about 50 feet away were bathed in a bright white light. I awoke my wife (now ex) and told her I was going out to see what was going on, all the while I was aware of a loud humming sound, similar to an electric turbine noise. I grabbed ny .303 rifle and some shells and a flashighlight and proceeded to open the door to the side yard, the moment I stepped outside the light disappeared and the noise suddenly stopped, I walked out into the yard and there was not a thing to be seen. During the time the light was on I had looked out of the rear bedroom window and noticed a large doe deer in the backyard under one of our apple trees, I shone my flashlight in that direction while outside but she had gone. I should point out that our houses were on a remote road gravel with the nearest neighbor some 300 yards away, there were no other neighbors within a mile in either direction.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42309.html](http://www.nuforc.org/webreports/reports/042/S42309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
