@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:28 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burke (north of) (SD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Air Force bombing runs mistaken for UFO'sMy wife and I were returning to our home in Mills, Nebraska. It was about 10 pm traveling north on HWY 137, north of Newport Ne. We observed two orange objects falling like flares  in an area over or north of Burke, S.D. We then came to an interchange to proceed on Rt. 12 to go west and then again in the sky to the north we observed 5 more orange objects, they were like round flares being droped from an aircraft, each one lighting up, one after the other in a horizonal line.  Then one final  large flare falling lower. Upon watching we noticed a plane was droping these flares.I am sending this because we read in the Norfolk paper, that someone reported seeing a flying saucer that same night. I believe that the Air Force Base in Rapid City was busy that night with practice bombing runs over the Missouri River. Might be related.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46517.html](http://www.nuforc.org/webreports/reports/046/S46517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Piqua (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Was outside late at night around 2AM walking my dog.  I looked up and seen this way dark object about 45 feet above me.  It had no light and no sound.  Moving without a sound.  The object flew over me moving slow.  I lived in an a apatrment complex.  i watched the UFO go to the end of the comes and then it went up higher to fly I er the other biking. It flew until,I,could not see it any longer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149076.html](http://www.nuforc.org/webreports/reports/149/S149076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
