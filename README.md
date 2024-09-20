@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 20 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>6 oval objects flying over Riverside CaliforniaLooking up in the sky and seen 6 oval shapes just flying over, it was a nice clear day.  This is the first time I ever seen something like this I started taking pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77924.html](http://www.nuforc.org/webreports/reports/077/S77924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Whitney (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One large set of red and white flashing lights followed by several smaller sets of red and whte flashing lights.Saw a group of red and white flashing lights moving from my north east to my south east followed by 4 to 5 smaller groups.  would have been moving north to south, paralell to I-35, aproxiamately from Dallas-Fort worth to Waco.  The first was largest and appeared to be at the same speed an altitude as a large jet.   It took about 3-5 minutes to traverse my whole field of view.  the other sets of lights followed at about the same speed and altitude at about 1 minute 3 minute intervals.  Through binoculars all that could be seen were red and white lights, approximately in an oval shape that were very bright and flashed off and on rapidly ("disco lights").  the other sets were smaller but had the same red and white "disco lights".  I would think it was a jet but I never saw any more jets take the path in the 3 nights I was there. This would mainly be to confirm someone elses sighting if there are any other reports from D_FW/ Waco/ San Antonio.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39548.html](http://www.nuforc.org/webreports/reports/039/S39548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
