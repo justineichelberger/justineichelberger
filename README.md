@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salvo (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Over Salvo, N.C. - Disc shaped objsct moving in circles, forward & backward on the drop of a dime, Very high in sky. No sound.While on the deck of my rental home (beach side)& looking south,  I was looking very far up into the sky & I was watching what I thought was a plane/jet very high up.  No clouds were near to where I was watching this craft move.  It was moving straight across the sky at about the pace a jet would move & was moving bay side towards the ocean.  I then saw it move in a circular motion & then forward again.  After moving forward for another 10-15 seconds it then backed up without turning & then moved forward again.  This happened very fast.  Normally a jet will make a sound, this was silent. I was amazed at the motion & at that point I realized this was not a plane or jet.  I watched for another 20 seconds & the object just vanished.  I kept looking waiting to see it again but it never returned.  There were no clouds for it to go behind. * that evening our neighbors, my friend & I saw more in the sky - I am filing another event report for that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92995.html](http://www.nuforc.org/webreports/reports/092/S92995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakville (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two orange globe like objectes  slow moving southwest over oakville/watertown then stopped and disintegratedtwo slow moving orange globe like lights traveling southwest slowly. first one stopped and seemed to travel up and disintegrated. second one slowed then moved foward and raised uo and also disintegrated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92959.html](http://www.nuforc.org/webreports/reports/092/S92959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
