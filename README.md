@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rancho Mirage (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange flashing bright lightsFive to eight bright orange circular objects .. floating, blinking. One by one disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164765.html](http://www.nuforc.org/webreports/reports/164/S164765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Spencerville (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Cigar shape with two lights at both ends.I am a 37 year old service technician and now a former sceptic.	 I stepped out on to my back porch to smoke a cigarette before going to bed.  After a minute I noticed a pair of lights appearing in the horizon just to my right above my detached garage on the east side of my house. It looked like a low flying plane with its landing lights on at first. I was expecting to hear the sound of a jet or prop engine of some sort but it never made a bit of noise. I was facing due east and it was moving west to slightly northwest overhead. A few seconds later I could tell the two lights were actually much further apart than an airplane and they were positioned at the front and back of whatever it was coming toward me. As it passed closer overhead I could faintly make out a dark shadow of a cigar shape behind the lights. The object then went out of view behind a large maple tree on the northeast corner of the house. I jumped down off the porch and ran to the north side of the house to try and catch sight of it again but it had disappeared. I stood outside for several more minutes hoping to see it again before going inside and looking at the clock. It was 2:10 am so I must have seen it somewhere around 1:50 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58882.html](http://www.nuforc.org/webreports/reports/058/S58882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
