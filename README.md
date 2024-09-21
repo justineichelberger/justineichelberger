@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Was grabbing items out of car it was between 21:00 22:00 last night was going back inside house when bright object in sky caught attention at first thought it was star but beams of light it was emitting were to intense multi colored called for wife she was able to get pictures taken which show structure and features</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143234.html](http://www.nuforc.org/webreports/reports/143/S143234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a round object moving across the sky after dark heading east from Glendale, Az towards Phoenix.  It was just getting dark and it seemed at first sight to be a balloon lifting in the air, but it seemed to level out and move steady at an even height and not gaining altitude as a balloon would have done.There was hardly a breeze that night. It had no noise. It seemed to travel at about 40 mph I would guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46582.html](http://www.nuforc.org/webreports/reports/046/S46582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
