@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longmont (north of; on I-25) (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO with visible cloaking device in Northern Longmont, Colorado.On our way back from a camping trip in outside of Estes Park.  We drove home through Loveland south on I-25 towards Broomfield..  After we were going down I-25 for about 15 minute south of Littleton.  To the west I seen a blob in the sky.  It was transforming but sort of a circular shape, it almost flowed like an amoeba,  it was probably 3 or 4 miles from i25 and at least 5000 feet up in the sky, the off thing is that it seemed to have a cloaking device.  We could all see the UFO once I spotted it, but it wasn't a defined color, it was not opaque but translucent, you could see the sky behind it but you knew it was there because it was an off color to the sky, a darker gray almost.  But there was definetly a cloaking device, it didn't seem to advanced of a cloaking device for we were able to see the ship, so I wonder if this wasn't a secret military craft rather than an alien, the UFO seemed to just hover in the same area but it was still slightly moving.  The cloaking device was seemingly flowing but the movement of the object was glitchy, almost laggy, but it didn't seem to move from the location it was over.  We eventually got excited talking about it and we quit looking but we'd look back and see it for about a minute or two, then we couldn't see it anymore.  I was with 3 other people + myself so 4 people total.  I am 21, the other 3 observers were 20, there was 3 males and 1 female in our group.  Excuse my grammar and structure of this report, I was excited and had to type this ASAP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113766.html](http://www.nuforc.org/webreports/reports/113/S113766.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Greenville (WI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Standing on back porch facing south toward airport.  I seen a bright pure white star looking object falling extremely fast straight vertically down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122078.html](http://www.nuforc.org/webreports/reports/122/S122078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
