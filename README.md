@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:54 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:32 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>large rectangular shape bright light over fishing vesselGentlemen,I will be as descriptive as possible.  Night fishing out of Sheepshead Bay, Brooklyn, and the boat goes out to the Breezy Point, Atlantic side of the beach.  2 hours out and I happen to look up and see a rectangular light facing north.  It caught my attention because this light was very long and bright.  Airliners have small round beams of light this was huge.  The strangest thing is that it was a clear night and the stars were visible behind, through and around the object.  Visible to the point that an object emitting this kind of light would have been seen, blocked out some of the stars, made some sort of noise but you could not see or hear anything.  All I saw was the light facing away from the boat towards shore or north and the stars shining through it, whatever it was.  I cannot state in detail the size of this object or compare it to anything I have ever seen.  A cloud of smoke started to cover the light completely and in seconds it was gone.  No noise, no sound, nothing obscuring the stars.  I will wait for your response and do not patronize what I saw.  This was not ours.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133849.html](http://www.nuforc.org/webreports/reports/133/S133849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Browns Point (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light over South Puget Sound.My wife and I were looking towards the Big Dipper when we noticed a very bright white light traveling through the constellation.  It was headed in an easterly direction over Puget Sound, about 20 degrees above the horizon. My first thought was that it was a plane, but there were no colored or strobe lights.I see airliners in flight patterns all the time because my house looks north towards Sea-Tac Airport, and there were a number of commercial aircraft in the air at the time. The lights flight path seemed to be crossing the flight paths of the air traffic.My guess on the altitude was about 10,000 - 15,000 feet, and there were no clouds to interrupt our sighting.  We used a pair of binoculars to try to determine what the light was, and all we could see was a very bright light traveling in front of a star filled sky.  As we determined that it wasn't a plane, and way too low to be a satellite, it started pulsing then dimmed for about 3-4 seconds turning a soft redish color; and then it just vanished in the area of the constellation of Cassiopeia.  I used the binoculars to try and see if it was still visible, but I couldn't see anything moving among the star filled background.The speed seemed to be about the same as a mid-altitude airliner, and the direction was steady. We watched it for 20 or 30 seconds.My wife is a UFO skeptic, but she was at a loss to determine what we had been watching.((NUFORC Note:  The object could not have been the International Space Station, if the time and date above are correct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39421.html](http://www.nuforc.org/webreports/reports/039/S39421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
