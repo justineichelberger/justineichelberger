@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:16 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lahti (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Something is out theresorry my english but try understand. I and my family member went early to see this ISS-satellite. It should were like a point in landscape. well were out and we were watching the sky to see satellite. Suddenly top of our heads flew, infact it flew quite low and it was huge and big, it was too big to be an airplane and planes don't fly so low and it can not be an satellite. I couldn't feel nothing during that time. It had very strange shape, there was many tinny lights and lights were some strange order, it remainds just like flock of birds in plow.it flew from north to south. in Finland i heard stories about UFOs in Lapland. They have said that there is something going on in Iso-Syöte, there have happen lots of things that you can not explain them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38852.html](http://www.nuforc.org/webreports/reports/038/S38852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Driving eastbound I-90 near ID/WA stateline. Observed fireball with other cars stopped by side of highway for approx. 20 minutes.I was driving eastbound on Interstate 90 going towards the ID\WA State line and I noticed 3 cars parked on the side of the highway. Then I glanced up at the east sky and I saw what appeared to be a fireball. My first thought was that it could have been an airplane on fire. It was approx. 200 feet above the ground. After driving closer to it I noticed it was spinning at a high rate of speed in a very tight circle. I am color blind so I could not observe what color it was.  It appeared to be hovering at this time. For the last 2 or 3 minutes it appeared to be in motion going away from us toward Spokane WA. Then entire event lasted approx. 20 minutes until it was completely out of sight. The light level was dusk almost dark. I am a student at North Idaho College.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09875.html](http://www.nuforc.org/webreports/reports/009/S09875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
