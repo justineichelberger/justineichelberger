@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three reddish lights in formation, two bobbing around in front of the the thirdSeptember 21st, 2016 Cicero, NY  21:07   Three reddish lights flying in close formation, heading NNE.  Estimated altitude 1,000-2,000 feet.  Two smaller lights in front, a larger one in the rear.  The two front lights moved side to side, "bobbing" back and forth, the rear light stayed on one linear course.  There was no flashing or blinking, but the rear light intensified for about 2 seconds.  All three continued NNE until no longer visible.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite responsible and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130111.html](http://www.nuforc.org/webreports/reports/130/S130111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbiana (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>The edge of the craft slid into view from space just showing it's grey through the blue sky!I was driving south on route 11 near Columbiana Ohio and looked up at the sky and was enjoying the richness of the blue sky when an object appeared to roll into view from the other side of the blue! It was grey metalic and straight across the top and a little tapered on the sides.Only the tip of the craft came through the blue and it pulled back to the side and the blue closed over it and it was gone!I stopped used my 10by 50's and saw nothing in the area not even our planes nothing!!((NUFORC Note:  Both of the reports from Columbiana, OH, are from the same source, although they indicate different times.  We will attempt to resolve the apparent discrepancy.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14504.html](http://www.nuforc.org/webreports/reports/014/S14504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
