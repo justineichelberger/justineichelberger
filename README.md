@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:11 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:54 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Templeton (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two round bright lights right next to each other, clear night so they stood out against the stars, they looks like headlights in the skyMe and my boyfriend were driving home and I looked in the sky there were 2 bright lights against the clear starry black sky, it literally looked like a cars headlights in the sky.  Two round bright lights right next to each other brighter than all the satrs around.  I asked my boyfriend if he saw them too and he did.  You have to think I live basically on a mountain and we were in the valley before my home about to drive up the mountain, these lights were up way higher than any of the trees on the top near my house.  Once we get to the top it's all fields and trees, we looked around the sky everywhere and by now the lights should have been right above us from where we first saw them a mere 4 minutes before, and they were gone, just disappeared without a trace .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136271.html](http://www.nuforc.org/webreports/reports/136/S136271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>large rectangular shape bright light over fishing vesselGentlemen,I will be as descriptive as possible.  Night fishing out of Sheepshead Bay, Brooklyn, and the boat goes out to the Breezy Point, Atlantic side of the beach.  2 hours out and I happen to look up and see a rectangular light facing north.  It caught my attention because this light was very long and bright.  Airliners have small round beams of light this was huge.  The strangest thing is that it was a clear night and the stars were visible behind, through and around the object.  Visible to the point that an object emitting this kind of light would have been seen, blocked out some of the stars, made some sort of noise but you could not see or hear anything.  All I saw was the light facing away from the boat towards shore or north and the stars shining through it, whatever it was.  I cannot state in detail the size of this object or compare it to anything I have ever seen.  A cloud of smoke started to cover the light completely and in seconds it was gone.  No noise, no sound, nothing obscuring the stars.  I will wait for your response and do not patronize what I saw.  This was not ours.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133849.html](http://www.nuforc.org/webreports/reports/133/S133849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
