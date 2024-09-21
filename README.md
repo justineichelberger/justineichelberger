@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbiana (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>The edge of the craft slid into view from space just showing it's grey through the blue sky!I was driving south on route 11 near Columbiana Ohio and looked up at the sky and was enjoying the richness of the blue sky when an object appeared to roll into view from the other side of the blue! It was grey metalic and straight across the top and a little tapered on the sides.Only the tip of the craft came through the blue and it pulled back to the side and the blue closed over it and it was gone!I stopped used my 10by 50's and saw nothing in the area not even our planes nothing!!((NUFORC Note:  Both of the reports from Columbiana, OH, are from the same source, although they indicate different times.  We will attempt to resolve the apparent discrepancy.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14504.html](http://www.nuforc.org/webreports/reports/014/S14504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longmont (north of; on I-25) (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO with visible cloaking device in Northern Longmont, Colorado.On our way back from a camping trip in outside of Estes Park.  We drove home through Loveland south on I-25 towards Broomfield..  After we were going down I-25 for about 15 minute south of Littleton.  To the west I seen a blob in the sky.  It was transforming but sort of a circular shape, it almost flowed like an amoeba,  it was probably 3 or 4 miles from i25 and at least 5000 feet up in the sky, the off thing is that it seemed to have a cloaking device.  We could all see the UFO once I spotted it, but it wasn't a defined color, it was not opaque but translucent, you could see the sky behind it but you knew it was there because it was an off color to the sky, a darker gray almost.  But there was definetly a cloaking device, it didn't seem to advanced of a cloaking device for we were able to see the ship, so I wonder if this wasn't a secret military craft rather than an alien, the UFO seemed to just hover in the same area but it was still slightly moving.  The cloaking device was seemingly flowing but the movement of the object was glitchy, almost laggy, but it didn't seem to move from the location it was over.  We eventually got excited talking about it and we quit looking but we'd look back and see it for about a minute or two, then we couldn't see it anymore.  I was with 3 other people + myself so 4 people total.  I am 21, the other 3 observers were 20, there was 3 males and 1 female in our group.  Excuse my grammar and structure of this report, I was excited and had to type this ASAP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113766.html](http://www.nuforc.org/webreports/reports/113/S113766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
