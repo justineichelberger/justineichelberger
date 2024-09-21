@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Greenville (WI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Standing on back porch facing south toward airport.  I seen a bright pure white star looking object falling extremely fast straight vertically down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122078.html](http://www.nuforc.org/webreports/reports/122/S122078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 sphere light Traveling toward Philly 3 in. A triangle and 1 leading with 1 trailingseen a single sphere like glowing object as I was driving I pulled over to take a video than 3 more in a triangle were trailing the 1st traveling about as fast as a plane.  After the 3 that were in a triangle another 5th light was following they were traveling over the Delaware River towards philadelphia have video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159493.html](http://www.nuforc.org/webreports/reports/159/S159493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
