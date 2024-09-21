@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oak Ridge (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Strange lights in Oak Ridge TennesseeI went outside and witnessed a star blinking in the north east direction from my front porch.  Once my eyes focused i noticed it was not just blinking, it was also changing colors.  I watched it and took pictures then a thirteen second video of it.  When i pulled my phone from my sight i noticed another object with the same lights moving away from the hovering object.  I moved to the back yard to follow the unknown object and when i looked around i saw two more at different dirsctional points in the sky hovering like the first.  The one moving left my sight all together but the one in front of my house still remains but has moved more east.  I later watched e video zoomed in and saw an object changing to several forms.  Like light caught in a crystal. I later took screen shots while the video played, showing the object in red solid circle.  The a blueish green triangular shape and then a white circle that look similar to a smoke ring.  At 01:35 I am still watching the object and the neighborhood dogs are going crazy.((NUFORC Note:  Sighting of the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130120.html](http://www.nuforc.org/webreports/reports/130/S130120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dunshaughlin (Navan/Kells) (Ireland) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange light cluster - picture takenI was out with my dogs when I saw what i first thought was a plane disintegrating.  But as it got closer i realised it wasnt that at all.  It was like a fiery cluster. It was in our atmosphere so wasnt a meteor shower.  Flying slowly across the sky it lasted no more than 2 - 3 mins. I posted it on my facebook page and it was seen in Dunshaughlin, Navan, Kells and went on to Oldcastle, County Meath, Ireland.  I have a picture of it that I was tagged in that was taken over the Wicklow Mountains! MORE REPORTS COMING IN THAT ITS BEEN SEEN NATIONWIDE OVER IRELAND!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92945.html](http://www.nuforc.org/webreports/reports/092/S92945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
