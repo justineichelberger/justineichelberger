@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:11 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>three starlights forming a triangular shape, slowly moving across night sky.whilst observing constallations in the clear night sky, i noticed what looked to be three stars moving slowly in formation from a south-west to north east direction.They looked like a right angled triangle, and only changed formation slightly as their light faded moving towards the north eastern sky. There were no flashing lights. They just looked like a constallation of three stars slowly traversing the sky.They did not wobble; there was no sound.I have seen many known phenomonon in the night sky,i have great knowledge of astromony, but have never experienced a sighting such as this.((NUFORC Note:  We suspect the witness may have observed what are thought to be three U. S. Navy "NOSS" surveillance satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31671.html](http://www.nuforc.org/webreports/reports/031/S31671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Templeton (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two round bright lights right next to each other, clear night so they stood out against the stars, they looks like headlights in the skyMe and my boyfriend were driving home and I looked in the sky there were 2 bright lights against the clear starry black sky, it literally looked like a cars headlights in the sky.  Two round bright lights right next to each other brighter than all the satrs around.  I asked my boyfriend if he saw them too and he did.  You have to think I live basically on a mountain and we were in the valley before my home about to drive up the mountain, these lights were up way higher than any of the trees on the top near my house.  Once we get to the top it's all fields and trees, we looked around the sky everywhere and by now the lights should have been right above us from where we first saw them a mere 4 minutes before, and they were gone, just disappeared without a trace .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136271.html](http://www.nuforc.org/webreports/reports/136/S136271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
