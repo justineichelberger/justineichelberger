@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:16 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:27 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Driving eastbound I-90 near ID/WA stateline. Observed fireball with other cars stopped by side of highway for approx. 20 minutes.I was driving eastbound on Interstate 90 going towards the ID\WA State line and I noticed 3 cars parked on the side of the highway. Then I glanced up at the east sky and I saw what appeared to be a fireball. My first thought was that it could have been an airplane on fire. It was approx. 200 feet above the ground. After driving closer to it I noticed it was spinning at a high rate of speed in a very tight circle. I am color blind so I could not observe what color it was.  It appeared to be hovering at this time. For the last 2 or 3 minutes it appeared to be in motion going away from us toward Spokane WA. Then entire event lasted approx. 20 minutes until it was completely out of sight. The light level was dusk almost dark. I am a student at North Idaho College.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09875.html](http://www.nuforc.org/webreports/reports/009/S09875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>I was walking down the street with my dog, and I noticed my small dog that never barks started to growl and spasm uncontrollabley. Then a white light and a warm feeling came over me, and I was knocked to the ground and when I woke up I had several sore spots on my body and my anus hurt. The most puzzling thing would be that it was no longer early morning hours but more early afternoon. My location had changed and my clothes where tattered. I at first figured this could of been an accident by a veichle or possible mugging but much to my dismay my arms and legs had several various unrecogonizable burnt marks. This is very difficult for me to discuss.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58899.html](http://www.nuforc.org/webreports/reports/058/S58899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
