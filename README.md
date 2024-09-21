@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 sphere light Traveling toward Philly 3 in. A triangle and 1 leading with 1 trailingseen a single sphere like glowing object as I was driving I pulled over to take a video than 3 more in a triangle were trailing the 1st traveling about as fast as a plane.  After the 3 that were in a triangle another 5th light was following they were traveling over the Delaware River towards philadelphia have video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159493.html](http://www.nuforc.org/webreports/reports/159/S159493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Epsom (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White, oblong-with-appendage, silent, high elevation, over 1000mph, no sonic boom, erratic trajectory.On Friday, Sept. 21st, 2012, at my home in Epsom, NH at about 5:00PM, I saw a craft I could not identify.The craft was at a much higher elevation than any commercial jet, was completely silent, and was going roughly 3 times as fast as a commercial jet (without making a sonic boom although well over 1000mph). It did not have a straight trajectory, it was bouncing around a bit but nonetheless was going extremely fast.It was white-looking, oblong shaped, with an appendage on the top of it.  It did not look like any aerodynamic craft I know of.  It was much too elevated and fast to be a plane or weather balloon, but was not high enough to be a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92949.html](http://www.nuforc.org/webreports/reports/092/S92949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
