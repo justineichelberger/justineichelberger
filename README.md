@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:27 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>I was walking down the street with my dog, and I noticed my small dog that never barks started to growl and spasm uncontrollabley. Then a white light and a warm feeling came over me, and I was knocked to the ground and when I woke up I had several sore spots on my body and my anus hurt. The most puzzling thing would be that it was no longer early morning hours but more early afternoon. My location had changed and my clothes where tattered. I at first figured this could of been an accident by a veichle or possible mugging but much to my dismay my arms and legs had several various unrecogonizable burnt marks. This is very difficult for me to discuss.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58899.html](http://www.nuforc.org/webreports/reports/058/S58899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three reddish lights in formation, two bobbing around in front of the the thirdSeptember 21st, 2016 Cicero, NY  21:07   Three reddish lights flying in close formation, heading NNE.  Estimated altitude 1,000-2,000 feet.  Two smaller lights in front, a larger one in the rear.  The two front lights moved side to side, "bobbing" back and forth, the rear light stayed on one linear course.  There was no flashing or blinking, but the rear light intensified for about 2 seconds.  All three continued NNE until no longer visible.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite responsible and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130111.html](http://www.nuforc.org/webreports/reports/130/S130111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
