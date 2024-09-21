@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakville (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two orange globe like objectes  slow moving southwest over oakville/watertown then stopped and disintegratedtwo slow moving orange globe like lights traveling southwest slowly. first one stopped and seemed to travel up and disintegrated. second one slowed then moved foward and raised uo and also disintegrated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92959.html](http://www.nuforc.org/webreports/reports/092/S92959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Celina (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Incredible light over Grand LakeOn Sept. 21 2013, I was going to Grand Lake St. Mary’s to go cat fishing with 5 other people (Myself, brother, brother-in-law, father, 2 colleagues of my father).  We headed out onto the lake at approx. 19:40. I then moved my boat from Safety Island towards the North shore close to the East end of Celina.  The other boat was still heading West towards us when we arrived at the North shore as they had left the dock sometime after us.  My father called my brother to find out where we were and proceeded to tell us that he saw something in the sky towards the South shore at approx. 21:00.  We looked and immediately saw it directly South of Celina over the South Shore.  This would have been roughly a mile from my position, but we had a clear view over the lake.  The object started out as a ball of orangish light.  It appeared to drop some type flares every 2 or 3 seconds, lasting about 30 seconds. The flares appeared as if the kind that comes out of a roman candle.  Then the object would speed up and it looked as if there were two afterburners on each side and a large flame coming out of the backside of each on.  The flames coming out were very long.  The flames would go away, and the object would go back into just one light, dropping the flares again. This happened several times. One time the object started to change colors. I had my IPod and was able to catch the object with the flames visible and also when it was changing colors. I also took multiple pictures, however being that it was an IPod, completely dark and the distance, it is not the greatest quality. But you can incredibly see the ball change colors and throw the jet trails. Also, the object stayed in maybe a quarter mile area, did not come any closer or farther, and flew very tight, spinning and turning patterns. Could this have been UAV?  Possibly. I have no way to know.  I do have video and photographic evidence.  I searched the internet, but not find any postings or information! about this happening.  The entire event lasted around twenty minutes and the light just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102502.html](http://www.nuforc.org/webreports/reports/102/S102502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
