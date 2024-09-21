@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a round object moving across the sky after dark heading east from Glendale, Az towards Phoenix.  It was just getting dark and it seemed at first sight to be a balloon lifting in the air, but it seemed to level out and move steady at an even height and not gaining altitude as a balloon would have done.There was hardly a breeze that night. It had no noise. It seemed to travel at about 40 mph I would guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46582.html](http://www.nuforc.org/webreports/reports/046/S46582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lahti (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Something is out theresorry my english but try understand. I and my family member went early to see this ISS-satellite. It should were like a point in landscape. well were out and we were watching the sky to see satellite. Suddenly top of our heads flew, infact it flew quite low and it was huge and big, it was too big to be an airplane and planes don't fly so low and it can not be an satellite. I couldn't feel nothing during that time. It had very strange shape, there was many tinny lights and lights were some strange order, it remainds just like flock of birds in plow.it flew from north to south. in Finland i heard stories about UFOs in Lapland. They have said that there is something going on in Iso-Syöte, there have happen lots of things that you can not explain them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38852.html](http://www.nuforc.org/webreports/reports/038/S38852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
