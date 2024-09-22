@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Man & son witness 3 bright, "neon red" objects flying overhead in tandem formation.  Objs. suddenly maneuver to form triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00842.html](http://www.nuforc.org/webreports/reports/000/S00842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in South Coffyvile (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>bright wite round object with a tail fast moving  moving south to north.watch it about 60 seconds bright white with a tail moving rapidly towerds the ground((NUFORC Note:  Student report??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58875.html](http://www.nuforc.org/webreports/reports/058/S58875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
