@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in South Coffyvile (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>bright wite round object with a tail fast moving  moving south to north.watch it about 60 seconds bright white with a tail moving rapidly towerds the ground((NUFORC Note:  Student report??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58875.html](http://www.nuforc.org/webreports/reports/058/S58875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pascagoula (MS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Flashing Strobe Light Object Seen Moving Really FastI was driving down a road and I thought one of the lights on a cell tower was going out because it was blinking erratically.  The closer I got to said “cell tower” the more the light looked like a strobe light. From that point I could see that this “strobe light object” was moving very fast to the right. Just looking at it was hurting my eyes because of all the flashing.  I lost visual for a second or two, and then the object proceeded to “fly upward” then disappear.  Once I arrived home and a couple hours had passed, I stepped outside for something and I noticed the object once again, but this time it was still.  It was obviously sitting over the cow pasture not far from my house. It seemed to sit there for a few minutes, and as the seconds passed I got increasingly nervous about being outside at night by myself. I proceeded to go inside until it eventually left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92986.html](http://www.nuforc.org/webreports/reports/092/S92986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
