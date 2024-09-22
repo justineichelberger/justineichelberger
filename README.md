@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:26 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Naco (Mexico) (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO over Naco AZ/MXWhile visiting the border city of Naco, AZ, a convex shape UFO flew over Naco AZ / MX.  I managed to snap a picture on digital and a second picture depicts the same object that moved a considerable distance, as only a speck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58998.html](http://www.nuforc.org/webreports/reports/058/S58998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Bedford (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Around 930 pm my son and I were outside cooking on the grill, it was a fairly clear evening . We noticed how bright the stars were.  We where looking also at all aircraft lights we noticed.  I was telling my son I I started looking up again, he laughed, we always see the unexplained in the sky and I took a break recently.  We were looking south and up verifying aircraft flashing lights.  Thats when an orange glowing light appeared flying north with an easterly direction.  The glow was not flashing it had a slow  consistant pulsation with a strong amber glow. . As it traveled it seem to get weaker as if it were passing through a cloud.About three more pulsations then it was gone.  I know this was no aircraft, no flashing lights just orange glow with pulsation ..thanks for reading this and keep looking up..((NUFORC Note:  We have corrected the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114131.html](http://www.nuforc.org/webreports/reports/114/S114131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
