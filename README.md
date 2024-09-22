@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Healdsburg (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This was a startling experience for both of us!Radiant lights in pairs, one after the other, following in a controlled line, west to east, continuing in the line.  They disappeared one after the other after traveling away.   The light didn't appear to be electrical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102515.html](http://www.nuforc.org/webreports/reports/102/S102515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red flashing object.Bright flashing red circle crossed over diamond hill road, over mcdonalds and finally disappeared over the trees near the old lowes.  It had no sound and was no more then 200 feet above the light post.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130236.html](http://www.nuforc.org/webreports/reports/130/S130236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
