@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coloma (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>3 linear yellow lights over Coloma, WisconsinAproximately 2100hrs as I was driving north on HWY 51 toward Coloma with a passenger. We saw 3 yellow gold lights at the cloud layer. (Thin light very broken cloud layer with stars visible through openings). The 3 linear lights were desending at an angle and then rotated quickly north.(?? 10-15 seconds)Appeared to be just north of Coloma just east of HWY 51. The lights re-appeared a couple minutes later and did some very tight rotations staying linear (again appeared near the bottom of the cloud layer)then disappeared. (?? 5 seconds) I quickly stopped on the off ramp to Coloma shut the car off got out and listened. There was no jet or engine noise but visually the lights were gone. This is a large MOA area. The flight pattern could only be described as very extreme.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40427.html](http://www.nuforc.org/webreports/reports/040/S40427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Natick (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A triangular shaped craft emitted a white ball above jets.While  watching a video I took of fighter jets preparing to do a flyover at Gillette Stadium.  I noticed a triangular shaped craft above the jets.  There was also a white ball that seemed to have flown out of the craft at a high rate of speed, flying right to left over the fighter jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149302.html](http://www.nuforc.org/webreports/reports/149/S149302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
