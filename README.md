@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:39 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Brantford (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was parked on the side of a highway surounding farm fields.  Looked up in the distance and noticed a large light.  It was at a standstill for a minute or so.  Then it start to move quickly back and forth and then suddenly disappered.Was parked on the side of highway 99 in Brantford, ON Canada.  It was about 23:00 hours on 09/22/98.  It was dark and there was little traffic.  In the distance I and the person I was with noticed this odd light.  It was too big to be a star and definitely not a plane.  It was at a standstill and suddenly began to move back and forth very quickly, then suddenly disappeared. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04367.html](http://www.nuforc.org/webreports/reports/004/S04367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boron (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was sitting around a campfire with a group of people about 5 miles off of Route 395 in the Mojave desert. It was around 330am and I had been looking up all night because the stars were amazing.  Directly east, I saw a light way off in the distance, which I first thought was a star but it began to move.  My second thought it was a shooting star because it was dropping but then it  made a sharp left, then straight back up. I had to rub my eyes to make sure it wasn't an illusion.  My next thought was it was a satellite, but then it dropped straight down again.  All of this was happening in the same location, and I knew this because I was using a star for reference.  Once my brain realized what I was seeing I woke people up and it made a left and took off faster than any aircraft would and covered a huge distance in a matter of 1 second.  My friend caught the last bit of it.  I have seen UFOs before in northern Michigan and Washington (which only hovered) but I've never witnessed any aerial gymnastics like this.  I kept thinking maybe it's government craft because I was in the middle of the desert, but who knows</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149037.html](http://www.nuforc.org/webreports/reports/149/S149037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
