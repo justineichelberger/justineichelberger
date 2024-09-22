@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wildwood Crest (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>BRIGHT LIGHT MOVES ACROSS THE SKY WITH OUT A SOUNDOn or around September 22, 2007 I was sitting at a table with my wife and our friends I was facing the street and they were looking toward the pool. I noticed a round bright white light coming across from the left side, and it was moving very slow. I thought to my self that plane is too low. But that is when the round light stopped moving and that is when I figured that the object was flying straight in my direction, at this time the light was right over the house across the street. This is when I noticed the object was not making a sound, and it started to move side ways again. It was about ten to fifteen feet above the house, and the house  was about forty-five feet across the street. As I started to point in the direction, the thing stopped agin, at this time it started to go up and out away from us. At the time of my hand being in the up Poisson, I could not cover the light with my hand, so I guess the circle was about eight to ten feet in diameter I don`t know. But with out a sound the circle started to move outward at fast pace it only took about three or four seconds for it to be the size of a pinhead and then gone.I can not tell you for sure that it was a UFO, but I do know this. 1-   the round bright light moved from one side of the sky to the other with out making a sound. 2-   it stopped in mid flight, and not once did the brightness ever change to dull or brighter. 3-   it was just above the telephone wires across the street and I could not see any sign of windows and the light did not hurt my eyes, not like a light bulb from a lamp, I could have looked at it all night with having to blink, like I said, I can`t tell you it was a UFO, but as far as what I think it was, yes I am a be leaver.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61691.html](http://www.nuforc.org/webreports/reports/061/S61691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Brantford (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Was parked on the side of a highway surounding farm fields.  Looked up in the distance and noticed a large light.  It was at a standstill for a minute or so.  Then it start to move quickly back and forth and then suddenly disappered.Was parked on the side of highway 99 in Brantford, ON Canada.  It was about 23:00 hours on 09/22/98.  It was dark and there was little traffic.  In the distance I and the person I was with noticed this odd light.  It was too big to be a star and definitely not a plane.  It was at a standstill and suddenly began to move back and forth very quickly, then suddenly disappeared. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04367.html](http://www.nuforc.org/webreports/reports/004/S04367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
