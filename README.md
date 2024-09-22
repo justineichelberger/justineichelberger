@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mackay (Australia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a bright light getting closer to us, then vanishedI was camping with a mate, looking at the view over a town, when my mate saw a bright looking light to the left of the town. He told me about it, and we couldnt tell if it was moving. Then it started getting closer and brighter, until it got within 1/2 a mile it started fading, then within a flash it was gone. When our mates got out there, they asked us if we saw that bright light. And they had the same discription as us.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39658.html](http://www.nuforc.org/webreports/reports/039/S39658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : We had just moved into our new home and could not sleep.  At approx. 3:00 a.m. I noticed a glowing object in the eastern sky at about horizon level.  It was far enough away that when it moved around, the telephone and electrical wires were hiding it.  My husband asked me if I saw it and I told him yes.  We did not have the camcorder or binoculars unpacked, but we did have the site from his telescope.  You could see that the thing was changing colors from white to blue to green.  We live very close to an airport (practically at the end of the runway) and noted that there was no airplane activity.  This is very unusual for Lambert Field.  The next night at about the same time my husband and a friend saw the same light, but this time there were approx 3 objects doing the same thing as the night before.  They were convinved thath what they saw that night was a UFO.  My husband said they were much more active thath night than the night before when we saw it together.  I do not be! lieve it was a star and we have discussed if it was possible to be some type of new aircraft that McDonnell/Boeing could be testing.  We heard no noise or saw any other activity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02846.html](http://www.nuforc.org/webreports/reports/002/S02846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
