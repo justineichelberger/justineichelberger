@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 21 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alfreton (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>main fireball with trail of flames behind dropping off large and slow Alfreton UKwatching tv  and  saw very bright flash of light out of window  thought helicopter but very bright and huge with  flames falling off it-  very large  went  right to left stayed in view  for fair time with flames  continuing to  fall off then went over  house  so lost sight- was quite high  but  never seen anything else like it  could be plane on fire?   but no noise and  going  not as fast as a plane -not sure what t was but big and  main fireball with  flames coming off in big  fireball sparks dropping downwards-  looked like a flaming comet ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92941.html](http://www.nuforc.org/webreports/reports/092/S92941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in manistee (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>4 red and yellow flashing lights, equally spaced around perimeter of circular stationary object, about 30 degrees above horizon North of Manistee.  Object remained stationary over 45 minutes((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136299.html](http://www.nuforc.org/webreports/reports/136/S136299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
