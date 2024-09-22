@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:48 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Atlantic Ocean (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>UFO?...bouncing light then the large object that seemed to be dropping things off of it see the videos I captured some of the sceneshusband sent this to me...the men on his ship all saw it...began with a bouncing around light...seemed to be coming closer...filmed it...then zoomed in on it and filmed that....no other comments with the other videos except he wished he could have filmed everything they saw...went on thru out the night...saw things pop in then vanish I put his videos on YOU TUBE search: ZEEDER1000 for viewing since he sent them to me on multiple emails...please look at these videos!  you can contact him for add'l information...tks((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77980.html](http://www.nuforc.org/webreports/reports/077/S77980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kingston (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>OBJECT BLUE LIGHT,SEROUDID BY BRIGHT LIGHT.I SAW AN OBJECT FLY ABAUT 150 FEET ABOVE TREES GOING WEST COLLOR BLUE AND GLOING BRIGHT IT DESAPERED WIT IN HALF A SECOND.  IT WAS VERY REAL TO ME.  IT WAS THERE GOING AT A HIGH SPEED A THEN IT DESAPERED.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102534.html](http://www.nuforc.org/webreports/reports/102/S102534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
