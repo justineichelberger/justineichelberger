@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:41 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in manistee (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>4 red and yellow flashing lights, equally spaced around perimeter of circular stationary object, about 30 degrees above horizon North of Manistee.  Object remained stationary over 45 minutes((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136299.html](http://www.nuforc.org/webreports/reports/136/S136299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Palo (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was sitting outside on the Phone with a friend when I looked up and saw a silent, cigar shaped craft flying west to east due north of me.My friend on the phone was also watching the craft from her house.I was outside talking to a friend on the phone and I looked up only to see a silent, quickly moving craft. The craft was travelling west to east due north of me. The craft was flying rather low also. Without saying anything to my friend she asked if I saw what she did. We were both watching the same craft. It quickly moved out of range and we haven't seen anything similar since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03473.html](http://www.nuforc.org/webreports/reports/003/S03473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
