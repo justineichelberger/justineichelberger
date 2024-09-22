@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 07:30 - 07:30 minutes.</sub><blockquote><sub>A brilliant, white, nonmoving light or orb seen in Eastern sky over Albuquerque for about 2 or more hours.September 22, 2013 UFO Over Albuquerque, NM   This morning at around 0600 my husband and I were walking in a park near our house.  On the way there we noticed a bright, white light in the eastern sky which appeared to be stationary over the mountains.  We thought the light would be gone quickly but it remained in the sky for about 2 hours or more.We called a local radio station to report it and the man who answered said he saw it too this morning but it looked red (most likely due to the sunrise).  He thought it was a planet but it was too large to be Venus or any other planet or star.  It was about one tenth the size of the moon seen in the Western sky.As we watched the object appeared to move higher in the sky but without much lateral motion. When we started our walk we talked to some balloonists who were getting ready to launch and they had been watching it for some time as well and said they didn’t know what it was but suspected it was a weather balloon.There were four balloons that launched in the park and they quickly moved north and out of sight, but the object over the mountains remained where it was without much movement up down or to either side.When we got home we looked at the object with binoculars of 30-50x and it appeared to be spherical, extremely brightly lit (since the sun was behind the mountains and hence behind the object).  It looked like the inside of a led flashlight with little brightly lit circles inside.Many at least three other people at the park saw the light but we did not get their names.  We took a photo with our camera phone which will be e-mailed to you but it was indistinct and showed no detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102504.html](http://www.nuforc.org/webreports/reports/102/S102504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Healdsburg (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This was a startling experience for both of us!Radiant lights in pairs, one after the other, following in a controlled line, west to east, continuing in the line.  They disappeared one after the other after traveling away.   The light didn't appear to be electrical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102515.html](http://www.nuforc.org/webreports/reports/102/S102515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
