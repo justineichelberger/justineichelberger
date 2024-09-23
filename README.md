@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:52 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle of dim star-like lights on object(s) travelling silently at high speed NNE to SSW in Vancouver,BC.Looking north from Fraser St. & 57th(49deg 13'06"N 123deg 05'28"W);I saw (against a clear sky) a patch of light approaching my position. It approached rapidly directly overhead and then continued by heading toward the east end of the Vancouver airport. It flew by so quickly that all I could see was a triangle composed of about 5 or more dim (average star brightness) bluish-white lights around its edge. I saw nothing other than lights. The apparent size was about like a 747 (judged by watching its apparent speed and angle receeding toward the airport). There was no sound at all. I estimated its altitude at 1000'. After it flew over the airport approach path it became too dim to see, then a plane (landing) flew a few hundred feet below it 10 seconds later. I think it's important to consider the source of info; so I should point out that I majored in sciences through college, and and not prone to fantasy (unless this is my first?).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46472.html](http://www.nuforc.org/webreports/reports/046/S46472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Snellville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Daylight Meteor / Space DebrisOn Sunday September 23, 2001 at approximately 10:30 AM EDT my wife and son saw what appeared to be a daylight meteor or space debris traveling from NNE to NNW. They were located between Stone Mountain and Snellville, GA at that time. The object had a forked white tail that resembled that of a comet. The head of the object was pencil point size and the forked tail about 2 inches long and the width of a pencil at arm's length. It appeared to traveling downward and took approximately 30 seconds to pass from overhead to below the horizon. They didn't hear any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19630.html](http://www.nuforc.org/webreports/reports/019/S19630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
