@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pikeville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Me and my kids were waiting on the school bus to from 0640-0645.  The sky was clear. No clouds.  We were looking at the stars and then we seen what appeared to be a large bright circle moving across the sky.  Faster than a plane, but not a shooting star.  We tracked it for approximately 10 seconds. Then it disappeared without a trace.  It was bright white.  Had no other colors on it.  And looked slightly larger than the North Star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149062.html](http://www.nuforc.org/webreports/reports/149/S149062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>There is much commercial and military air traffic in this area, however this object had a look of something I've never seen before.  It was a point of light traveling from north to south along the coastline.  The object gave off an aura such as you might see when an airliner is moving through low clouds or fog but the conditions were severe clear tonight.  It was about 60 degrees above the horizon and I thought it might be a jet heading to Brown field.  An airliner out of San Diego Lindbergh Field flew across its path, but I couldn't tell if the object was below or above the jet.The object cast a bullet shaped aura.  I thought it might be a meteorite crossing the sky, but this thing moved much slower across the sky than any meteor I've seen before.  As it moved across the sky to my left, the aura ceased and the point of light faded as if it had gone behind a cloud.  There wasn't a cloud in the sky.At this point the light reappeared without the aura and then was gone after about 5 seconds.  I don't know what this could have been.  I watch the airliners fly out bout to the east over my house all the time.  I have a commercial pilot license.  I'm a federal law enforcement agent.  I am in possession of all my faculties.  But ((what)) was this thing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136326.html](http://www.nuforc.org/webreports/reports/136/S136326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
