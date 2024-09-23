@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:23 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:18 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Princeton (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extremely bright objects flying at high speed.Driving home near N. Jefferson St, in Princeton, Ky., my daughter and I noticed 2 somewhat small, but extremely! bright, objects move into view from over us, and then ahead, at fast speed.  They were approximately 150-175 feet in elevation.  They were both bright white lights, with smaller red lights flashing at their rear (attached).At first I thought of gas powered RC helicopters; as I used to know and enthusiast.  But then I realized they were faster and higher than I remembered seeing his fly.  And as they continued on in front of us, one just disappeared into thin air.  The other continued for over 1/2 mile, and that too wasn't what I remember compatible to the range of a RC air vehicle being from the operator.  When the second one got several blocks ahead of us, it also vanished.  (The total distance traveled by the second object, from first sight to last, was well over 1 1/4 miles.Both objects stayed on a straight West to East course (my guess by the street we were headed toward being one that runs to the North).  Neither object was ever obscured by buildings or trees, and neither just fell from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113856.html](http://www.nuforc.org/webreports/reports/113/S113856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kapa'a (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Saucer hovering above Lihu'e at 5PM.Hello everyone.  Around 5 PM, I went out to a ranch that overlooked Lihu'e, I was just walking, looking at cows and I turned around, out of the blue, a round UFO looking-thing just came out of nowhere.It had red and yellow-ish lights and it looked like it was hovering over Lihu'e.After a few moments it started to descend into Lihu'e, and eventually, it landed and disappeared or the lights shut off.Did anyone else see this?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143249.html](http://www.nuforc.org/webreports/reports/143/S143249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
