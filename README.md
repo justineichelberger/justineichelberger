@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangular formation of dim lights spotted moving smoothly across San Francisco night sky.We were walking North on Baker St from our van which was parked on the west side of Baker St, between Fulton and McAllister Streets. The night was a clear night with a good view of the stars. The person I was with was standing near the corner of McAllister and Baker streets and observed what we at first thought was a plane.  She pointed it out to me - I was standing about 15 feet south of her - and I looked up and saw 3 dim points of light (about the brightness of a dim star) that formed an equilateral triangle, moving quickly in smooth, straight line north/northeast.  At first we thought this might be a plane but considering that the craft appeared to be silent, and that the lights were a decent distance from one another it does not match the description of any plane that either of us has ever seen.  the craft moved smoothly out of sight and we ran uphill to try and continue observing it but were unable to. For what it is worth, I grew up in a town that was home to a Navy Air Station and was within the flight path for a major international airport and did not recognize the lights we saw as being consistent with any plane or helicopter that I've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65852.html](http://www.nuforc.org/webreports/reports/065/S65852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Canton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While star gazing last night with my Son, we saw a white round light (constant, no AV lights or colors), that we saw moving East to West in short "stutter step" type distances that seemed to start, move then stop, then repeat.  It only progressed a relatively short distance before fading out of sight.My vision is 20/10.When this thing faded away it was clearly moving away from the Earth.  I've seen three in my time (one similar and one triangular), and this was the first I've seen pull straight up away from the Earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143253.html](http://www.nuforc.org/webreports/reports/143/S143253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
