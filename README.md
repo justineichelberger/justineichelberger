@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:09 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mansfield (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>It was around ten thirty or eleven pm on September 24, 2015, in Mansfield, Texas.  My wife and I were sitting outside in the back yard like we do any other night.  We were facing northeast when we saw a flame appear out of nowhere.  At first it looked as if there was a fire in the sky.  Both of us saw the object for about two and a half minutes.	The object formed into a circle like shape with a bright orange, reddish color around it with a black hole formed in the middle of it.  Then it flew north toward downtown Fort Worth, Texas.  My wife and I watched the object until the naked eye couldn’t see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122227.html](http://www.nuforc.org/webreports/reports/122/S122227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Quesnel (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>BRIGHT GREEN ENTITY SEEN IN SKY OVER QUESNEL AT 16:12 09/23/2008I WAS IN BED LAST NIGHT WATCHING A MOVIE SUDDENLY MY INTEREST WAS DRAWN TO THE VERY BACK WINDOW OF MY HOME AN ALMOST ROUND CIRCLE SHAPE THAT DID NOT FULLY CLOSE UP, MEANING IT WAS ALMOST A FULL CIRCLE WITH A SMALL PORTION AT THE TOP MISSING APPEARED, THE OBJECT WAS A VERY BRIGHT GREEN, THE COLOR OF A GREEN STREET LIGHT, IT HOVERED ALONG MOVING STRAIGHT AND THEN STARTED TO DESCEND FROM THE SKY, IT WAS LIKE I WAS FROZEN, I WAS NOT SCARED I WAS ACTUALLY VERY CALM BUT UNABLE TO SPEAK OR TAKE MY EYES OF THIS ENTITTY, THE SHAPE WAS NOT BLURRED, THERE WAS NO TAIL, IT WAS PERFECT. THE OBJECT APPEARED QUITE LARGE EVEN THOUGH IT SEEMED TO BE ABOUT 5 MILES AWAY, IT SEEMED AS IF IT DESCENDED FROM THE SKY ALONG THE TOP OF THE TREE LINES AND THEN POSSIBLY WENT DOWN OVER DRAGON LAKE, I WAS SO SURE I WOULD HEAR A CRASH BUT THERE WAS NOTHING, I COULD HEAR DOGS FROM A KENNEL 2 DOORS DOWN FROM OUR HOME BECOME AGITATED WHEN THE ENTITY WENT DOWN AND OUT OF SIGHT. THE OBJECT MOVED IN VERY STRAIGHT AND DEFINITE LINES, IT DID NOT WANDER AND KEPT MOVING ALONG AT A FAIRLY GOOD PACE. IN MY ALMOST 50 YRS ALIVE I HAVE NEVER WITNESSED ANY PHENOMENA LIKE THIS BEFORE IT LEFT ME WITH A FEELING OF SEEING BEAUTY AND ALSO KNOWING THIS WAS A VERY SPECIAL INTERACTION. I WAS NOT ABLE TO GO TO SLEEP FOR A FEW HOURS AFTER AND YET I FELT FULLY RESTED UPON WAKING THIS MORNING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65866.html](http://www.nuforc.org/webreports/reports/065/S65866.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
