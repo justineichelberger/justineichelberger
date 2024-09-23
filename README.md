@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Happy Valley (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two separate fireballs descending slowly, in different parts of sky,one touching ground very near us, the far one vanishing at horizonThought we should report this since news this morning about the satellite plunging into the Pacific and that "scientists may never know" if any debris from it landed in North America compels us,,,last evening (Friday) we spotted two descending balls of fire, one descending straight down and landing in a small field and not causing a fire, the other moving diagonally near earth and near our location. Both were firey and both were descending at a speed best described as leisurely, not meteoric. We are returning to the first site and will report back if we find any remains.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84118.html](http://www.nuforc.org/webreports/reports/084/S84118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mansfield (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>It was around ten thirty or eleven pm on September 24, 2015, in Mansfield, Texas.  My wife and I were sitting outside in the back yard like we do any other night.  We were facing northeast when we saw a flame appear out of nowhere.  At first it looked as if there was a fire in the sky.  Both of us saw the object for about two and a half minutes.	The object formed into a circle like shape with a bright orange, reddish color around it with a black hole formed in the middle of it.  Then it flew north toward downtown Fort Worth, Texas.  My wife and I watched the object until the naked eye couldn’t see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122227.html](http://www.nuforc.org/webreports/reports/122/S122227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
