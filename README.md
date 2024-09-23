@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 22 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woonsocket (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red flashing object.Bright flashing red circle crossed over diamond hill road, over mcdonalds and finally disappeared over the trees near the old lowes.  It had no sound and was no more then 200 feet above the light post.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130236.html](http://www.nuforc.org/webreports/reports/130/S130236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright Light appears in the sky at about the same time in the AM.09-23-07 Good morning!  the report pertains to  events i have witnessed for 3-4days.theres been a bright light that appears at a distance,then when i look out my window it is sitting high in the sky but i can see a bright light and it is very clear.it does not go away until the sun comes up around 7:10am.ive been watching it for a about 4 days and it moves to the same spot.i usually im up on computer all night,so i look out my window at different intervals.it does not move and i don't think it is a star.a took a photo with a camera phone and it does show a bright light that has a disc look.it's ironic about the time i don't see it anymore,when its daylight i look in the sky and ive seen a jet farther away leaving a jet stream in the sky accross the field.ive witnessed these events for 2 days now.the disc dissapears and then i see the jet leaving a jet stream.it's kinda spooky to see the light park in the same place these last few nights.are there any bright things(stars in the sky that move?,that i should know about?i hope this description of the sighting is clear to you.im retired so that allows me to stay up late.((NUFORC Note:  Sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58891.html](http://www.nuforc.org/webreports/reports/058/S58891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
