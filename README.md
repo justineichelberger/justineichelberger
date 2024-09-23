@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Snellville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Daylight Meteor / Space DebrisOn Sunday September 23, 2001 at approximately 10:30 AM EDT my wife and son saw what appeared to be a daylight meteor or space debris traveling from NNE to NNW. They were located between Stone Mountain and Snellville, GA at that time. The object had a forked white tail that resembled that of a comet. The head of the object was pencil point size and the forked tail about 2 inches long and the width of a pencil at arm's length. It appeared to traveling downward and took approximately 30 seconds to pass from overhead to below the horizon. They didn't hear any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19630.html](http://www.nuforc.org/webreports/reports/019/S19630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pikeville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Me and my kids were waiting on the school bus to from 0640-0645.  The sky was clear. No clouds.  We were looking at the stars and then we seen what appeared to be a large bright circle moving across the sky.  Faster than a plane, but not a shooting star.  We tracked it for approximately 10 seconds. Then it disappeared without a trace.  It was bright white.  Had no other colors on it.  And looked slightly larger than the North Star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149062.html](http://www.nuforc.org/webreports/reports/149/S149062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
