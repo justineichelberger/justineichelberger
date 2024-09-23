@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hubert (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I was mowing my backyard on a beautiful, blue sky morning here in north Carolina when I noticed just under the sun, there were a bunch of circular shaped objects shining like bright silver rings in the sky but they were spinning in a circle faster than I could ever imagine. So, I took out my cell phone and started recording.  What I found on the recording was mind blowing. I thought I was witnessing an intergalactic battle in our stratosphere and they were hiding in the son.  Then I noticed streaks shooting across the sky under and over the top of the sun. But they weren't traveling like any normal flying object I have ever seen. They were literally streaking in arcs and stopping to change speed and directions.  They were all over in the sky. I saw little black discs flying in tandum with what looked like a little white ball and the distance between the two never varied ever.  It looked as if the were chasing a couple of u.s. marine corps A4 Skyhawks that were up doing some training.  I have that on the video also.  I also saw bigger discs that seemed to glow in the sunlight as the zipped by.  I saw cigar shaped objects, objects that looked like the Saturn rocket re-entry vehicles with what appeared to by some sort of translucent parachute are some kind of slowing/braking? device stretched out above each one. I also saw what looked like teardrop shaped craft that kind of resembled a horseshoe crab with a fat bloated belly, discs that have symmetrical lines that looked like white beanie caps with, what look like engine exhaust ports on the bottoms of them and what I believe are antenna sticking out of the bottoms. I also documented disc shaped objects that glowed blue or greenish and they had a donut hole cut out of them. I was amazed at what I was witnessing. Even more so when I watched the video playback. That's when I discovered the white discs, black circle On the bottom in the center streaking across the sky at incredible speeds.!  I have video evidence of all of this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164715.html](http://www.nuforc.org/webreports/reports/164/S164715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Winston (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright, green fireballObject fell like a  typical meteor, but was bright and sharp like a welding arc.  Moved down and left looking north, just below Polaris.  Object blinked perfectly in and out at least 3 times.  Seemed almost like another color twards center, maybe whitish. Possible short train behind object.  Also, would like to add, just over one year ago, a friend and myself watched a diamond-shaped object in a valley near here for 2.5 hours, during intense thunderstorm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03981.html](http://www.nuforc.org/webreports/reports/003/S03981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
