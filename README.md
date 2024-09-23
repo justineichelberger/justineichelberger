@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Same night as green fireball seen from Eugene to Seattle, and a report of sivlery UFO seen in Vancouver (heard on Art Bell) an unusual number of high flying aircraft traveled from south to north towards seattle, leaving con trails.At approx. 18:35 when leaving work for dinner, I saw at least 6 contrails in formation very high directly above Portland headed generally towards Seattle.  The last was still being created as I watched.  I live in view of Portland Int. airport and a military air strip near by, and have not in the decades I'ved lived here seen that many con trails at once.  I also noted it because while they did appear to be very high, I could see the craft better than I thought I should be able to, as though they were unusally large, they seemed longer than they should be, but they were so high I could not hear any sound from them at all. I noted it in the back of my mind and went on about my business, until Art Bell came on and I heard about the large sighting in Seattle a couple of hours later.  Wondered then to myself if someone may have known what was about to happen, and was on their way to take a look.  Then later when the caller from vancouver said he'd seed that unusally moving 'craft' at about 14:00 that afternoon I really became convinced I should report this, just in case anyone else noted unusal military looking activity that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04000.html](http://www.nuforc.org/webreports/reports/004/S04000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Island Park (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One fireball floating slowly up and down in the sky  a circle with fire in it my husband and I both saw itOne fireball floating up and down slowly in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84125.html](http://www.nuforc.org/webreports/reports/084/S84125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
