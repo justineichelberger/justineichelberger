@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Canton (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>While star gazing last night with my Son, we saw a white round light (constant, no AV lights or colors), that we saw moving East to West in short "stutter step" type distances that seemed to start, move then stop, then repeat.  It only progressed a relatively short distance before fading out of sight.My vision is 20/10.When this thing faded away it was clearly moving away from the Earth.  I've seen three in my time (one similar and one triangular), and this was the first I've seen pull straight up away from the Earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143253.html](http://www.nuforc.org/webreports/reports/143/S143253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hubert (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I was mowing my backyard on a beautiful, blue sky morning here in north Carolina when I noticed just under the sun, there were a bunch of circular shaped objects shining like bright silver rings in the sky but they were spinning in a circle faster than I could ever imagine. So, I took out my cell phone and started recording.  What I found on the recording was mind blowing. I thought I was witnessing an intergalactic battle in our stratosphere and they were hiding in the son.  Then I noticed streaks shooting across the sky under and over the top of the sun. But they weren't traveling like any normal flying object I have ever seen. They were literally streaking in arcs and stopping to change speed and directions.  They were all over in the sky. I saw little black discs flying in tandum with what looked like a little white ball and the distance between the two never varied ever.  It looked as if the were chasing a couple of u.s. marine corps A4 Skyhawks that were up doing some training.  I have that on the video also.  I also saw bigger discs that seemed to glow in the sunlight as the zipped by.  I saw cigar shaped objects, objects that looked like the Saturn rocket re-entry vehicles with what appeared to by some sort of translucent parachute are some kind of slowing/braking? device stretched out above each one. I also saw what looked like teardrop shaped craft that kind of resembled a horseshoe crab with a fat bloated belly, discs that have symmetrical lines that looked like white beanie caps with, what look like engine exhaust ports on the bottoms of them and what I believe are antenna sticking out of the bottoms. I also documented disc shaped objects that glowed blue or greenish and they had a donut hole cut out of them. I was amazed at what I was witnessing. Even more so when I watched the video playback. That's when I discovered the white discs, black circle On the bottom in the center streaking across the sky at incredible speeds.!  I have video evidence of all of this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164715.html](http://www.nuforc.org/webreports/reports/164/S164715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
