@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:09 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Quesnel (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>BRIGHT GREEN ENTITY SEEN IN SKY OVER QUESNEL AT 16:12 09/23/2008I WAS IN BED LAST NIGHT WATCHING A MOVIE SUDDENLY MY INTEREST WAS DRAWN TO THE VERY BACK WINDOW OF MY HOME AN ALMOST ROUND CIRCLE SHAPE THAT DID NOT FULLY CLOSE UP, MEANING IT WAS ALMOST A FULL CIRCLE WITH A SMALL PORTION AT THE TOP MISSING APPEARED, THE OBJECT WAS A VERY BRIGHT GREEN, THE COLOR OF A GREEN STREET LIGHT, IT HOVERED ALONG MOVING STRAIGHT AND THEN STARTED TO DESCEND FROM THE SKY, IT WAS LIKE I WAS FROZEN, I WAS NOT SCARED I WAS ACTUALLY VERY CALM BUT UNABLE TO SPEAK OR TAKE MY EYES OF THIS ENTITTY, THE SHAPE WAS NOT BLURRED, THERE WAS NO TAIL, IT WAS PERFECT. THE OBJECT APPEARED QUITE LARGE EVEN THOUGH IT SEEMED TO BE ABOUT 5 MILES AWAY, IT SEEMED AS IF IT DESCENDED FROM THE SKY ALONG THE TOP OF THE TREE LINES AND THEN POSSIBLY WENT DOWN OVER DRAGON LAKE, I WAS SO SURE I WOULD HEAR A CRASH BUT THERE WAS NOTHING, I COULD HEAR DOGS FROM A KENNEL 2 DOORS DOWN FROM OUR HOME BECOME AGITATED WHEN THE ENTITY WENT DOWN AND OUT OF SIGHT. THE OBJECT MOVED IN VERY STRAIGHT AND DEFINITE LINES, IT DID NOT WANDER AND KEPT MOVING ALONG AT A FAIRLY GOOD PACE. IN MY ALMOST 50 YRS ALIVE I HAVE NEVER WITNESSED ANY PHENOMENA LIKE THIS BEFORE IT LEFT ME WITH A FEELING OF SEEING BEAUTY AND ALSO KNOWING THIS WAS A VERY SPECIAL INTERACTION. I WAS NOT ABLE TO GO TO SLEEP FOR A FEW HOURS AFTER AND YET I FELT FULLY RESTED UPON WAKING THIS MORNING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65866.html](http://www.nuforc.org/webreports/reports/065/S65866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bayview (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>movement from east to west, travelling appx. 45 degree angle towards the groundI thought it was  fireworks at first, then considered ita meteor because it flared out.  Object had a tail, was greenish in the center w/bluish around the green, and white around the outside.  I was on I-5 heading south...on the south side of the hills that separate Bellingham from the Skagit Valley.  I was going down hill.  At first thought it was fireworks because it was close...then it disappeared.  Observed against the night sky. It was moving fast.  My cell phone was plugged into car cigarette lighter. I had tried to use my cell earlier and it kept shorting out.  The cell phone plug light kept switching from red to green.  I had tried to make a call and my cell phone would not place the call.  I received a message "you have 1 voice mail" when I dialed the number and pressed the send button.  I gave up...then I saw this object appx. 30-45 minutes later.  I had another person in the car but she did not see the object.  She said "I wonder if it was a UFO." At 10:15PM I was listening to Art Bell and realized I was not the only person who saw an object in the night sky. I then decided to report this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03990.html](http://www.nuforc.org/webreports/reports/003/S03990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
