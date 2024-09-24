@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Blinking SaucerI noticed the object in the sky (over the Adams Center) moving very slowly.  The object would blink a bright white light every two seconds.  At first I thought it might be a balloon (Homecoming is this week) but the object would sometimes remain stationary for periods of time.  Obviously not a plane or helicopter.  I have video of it.  Looks like a saucer.  Perfectly round circle that lite up.  It stayed above the Adams Center/"M" Mountain for about 10 minutes and then slowly traveled west while increasing altitude and blinking the entire time.  The video is pretty dang cool!  I stopped watching after about 20 minutes due to people looking at me weird for videotaping the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122228.html](http://www.nuforc.org/webreports/reports/122/S122228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Box and kite like object in fixed positionNo wind, thought it was a kite.  Fixed position but moving in place.  Started before night time and stayed in same position even after dark.  It is black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130173.html](http://www.nuforc.org/webreports/reports/130/S130173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
