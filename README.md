@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Niagara Falls (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green light followed by what appeared to be hovering object with blinking lights above Power Authority in Niagara Falls, NYGreen light/smoke flashed across the sky followed by whirring noise and lights blinking as the craft came to a stand still.  Very dark so hard to see but there appeared to be 2 crafts with two sets of blinking lights hovering in the night sky above the power authority in Niagara Falls, NY.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130169.html](http://www.nuforc.org/webreports/reports/130/S130169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I witnessed a small orange light coming towards my location at the UDF on River Road and Anderson Ferry.  It was coming north from Kentucky near the CVG airport.  It was bright orange and circular in shape.  It came to a stop and appeared to get larger before it slowly closed down and disappeared.  It did not fly away just just got dimmer until it was gone. Not a plane and not a helicopter.  First UFO I have ever seen in person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130178.html](http://www.nuforc.org/webreports/reports/130/S130178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
