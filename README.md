@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:25 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:32 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jacksonville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>bright light blob when you see it throw a telescope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93143.html](http://www.nuforc.org/webreports/reports/093/S93143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bowling Green (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw a bright oval shaped flash of white light that traveled across the sky near the horizon.My friend and I are both students at Bowling Green State University.  Last night at about 1:30 am, we decided to take a study break and walk around outside.  After about 1 minute, we saw an object near the horizon.  It was a small circular white light that was traveling at a slow speed.  Since there is an airport nearby, we thought we were seeing the landing lights of an airplane.  However, the object slowed to a stop and then emitted a white flash and disappeared.  The flash was not very bright, but yet it seemed to cover the entire sky.  We estimated the object's distance to be about 2 or 3 miles.  We heard no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03941.html](http://www.nuforc.org/webreports/reports/003/S03941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
