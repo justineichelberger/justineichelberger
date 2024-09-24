@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A red, glowing object hovering above the East River. It then dropped into the river, and its glow could still be seen after the object was under the waterThe object was aprox. 4 mi distant horizontally. Vertical distance unknown, but below cloud level. From vantage point, about the size of a marble. Its speed while dropping was quite fast, but once under the water it seemed to move quite slowly, moving down toward NY Harbor before fading away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04004.html](http://www.nuforc.org/webreports/reports/004/S04004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Bright Green Fireball in night sky travelling west-east over Henderson NV  Food for Less parking lot 9-24-10I was exiting a food store at Warm Springs and Sunset Rd. on the south-west corner.  I looked up because something in the periphery of my vision appeared.  I saw an intense green fireball traveling west to east at a very high rate of speed.  I could not guess the altitude; it was about the size of my small fingernail.  It appeared like it came over some houses to the west and then into the vicinity of the parking lot, where it blinked out, just before it disappeared a bright orange spark came shooting off of it.  There appeared to be a hazy orange aura surrounding the fireball, which was in the shape of a square more than a ball. There was a small trail of the green material following it that disappeared when the object blinked out.There was no sound, no smoke given off, no evidence after it disappeared.  There were no aircraft in the area at all.  I could not guess at the speed, it travelled over the length of the parking lot in less than half a second.  It did not appear to change direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77978.html](http://www.nuforc.org/webreports/reports/077/S77978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
