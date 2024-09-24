@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:46 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164876.html](http://www.nuforc.org/webreports/reports/164/S164876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very bright (triangular?) object flashing red & green observed drifting after being stationary.Witnessess: military people garding chemical plant, want to remain anonymous at this time. Were located about 10 miles South of Tooele on Hwy 36.Object: Very bright flashing red & green. Direction: approx. 5-7 miles West. Possibly over Wasatch Cache Nat'l Forest or Indian Reservation or Dugway Proving Grounds. Appeared above and behind mountain range. Size: smaller than thumb at arm length. When observed with 50x binoculars from observation tower, shape difficult to resolve due to brightness, but looks generally triangular. Entire object is lit up and flashing. Motion: stationary for 10-15 minutes, then slow drift toward North for another 10 minutes. Disappeared behind mountain top.((NUFORC Note:  Due to the length of the sighting, we suspect that a "twinkling" star would have to be ruled out, before we could conclude that the witness may have been looking at a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31818.html](http://www.nuforc.org/webreports/reports/031/S31818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
