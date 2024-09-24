@@ -214,7 +214,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Alice (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright light in the sky!At about 4am, I was coming home and a friend and I saw this huge light in the sky right outside my apartment.  It was either really big or really close.  At first it sat stationary and looked like truck headlights in the sky.  Then as my friend started to record it started to move downward and to the right behind some trees out of view.  As if it new we were watching.  It stayed behind the trees for a good minute, but then changed course and started to head back into our view.  Its color changed to a red color and slowly faded into the distance before disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130298.html](http://www.nuforc.org/webreports/reports/130/S130298.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
