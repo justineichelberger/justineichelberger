@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:46 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very bright (triangular?) object flashing red & green observed drifting after being stationary.Witnessess: military people garding chemical plant, want to remain anonymous at this time. Were located about 10 miles South of Tooele on Hwy 36.Object: Very bright flashing red & green. Direction: approx. 5-7 miles West. Possibly over Wasatch Cache Nat'l Forest or Indian Reservation or Dugway Proving Grounds. Appeared above and behind mountain range. Size: smaller than thumb at arm length. When observed with 50x binoculars from observation tower, shape difficult to resolve due to brightness, but looks generally triangular. Entire object is lit up and flashing. Motion: stationary for 10-15 minutes, then slow drift toward North for another 10 minutes. Disappeared behind mountain top.((NUFORC Note:  Due to the length of the sighting, we suspect that a "twinkling" star would have to be ruled out, before we could conclude that the witness may have been looking at a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31818.html](http://www.nuforc.org/webreports/reports/031/S31818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shanghai (China) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>A small triangualr craft with bright red, blue and yellow lights, 4 to 5 per side, moving slowing at a few thousand feet altitudeLast night we saw something in the Shanghai sky that seemed very much like a UFO!  Certainly, as far as we know, it is unidentified!  And there is no doubt it was a flying object. We were in taxi bout 10:00 PM when X said, "Hey, Look at that!"  I looked out the window and saw flying through the air at cloud level -- I am no expert, but I would say 4000 to perhaps at about 5000 feet -- a triangular-shaped craft with bright blue, red and yellow lights on each side (pretty sure on this, but there could have been other colors too), four to five from point to point, including the lights on the ends.  The body of the craft was dark – or indistinct.  It was about the size of a small to medium-sized airplane, moving steadily (similar to the speed of a plane) but not fast.  About 5 to 10 seconds later, the taxi turned and our view was obstructed.  My heart!  The lights were spaced something like this:    * *   * *  *  * *</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58923.html](http://www.nuforc.org/webreports/reports/058/S58923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
