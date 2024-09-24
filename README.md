@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Belleville (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I observed a orange light flying from east to west across the sky at average speed like a low flying plane.the orange light was constant.not flashing.I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102599.html](http://www.nuforc.org/webreports/reports/102/S102599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Burlington (VT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO Hovers and Departs over Burlington International Airport (BTV).Extended UFO Sighting over Burlington International Airport.At Approximately 6:15 PM on Saturday, September 24, 2016, my wife, son and myself were in close proximity to the Burlington International Airport inspecting some commercial buildings in a wide open field.  I am a licensed commercial small UAV (drone) pilot.  And I was scouting the location in preparation for an upcoming drone shoot.We were about a quarter mile west of the airport and I witnessed an airliner making an approach and landing on runway 33—this will be important in a minute.My son is 5 and absolutely loves airplanes.  We routinely drive by the airport and hope to see aircraft take off and land as it’s a thrill for him.As we proceeded to drive over towards the airport my wife and I spotted a slow-moving unidentifiable aircraft coming in towards the airport from the north.  I estimated the aircraft to be at around 2,000 feet in altitude and moving incredibly slow.  This was alarming to me because I made a mental note just a couple of minutes earlier that airliners were utilizing runway 33, which meant that general aviation (small planes) would have been utilizing runway 1.This would have put the unidentifiable aircraft directly into the path of a departing airliner.  As the unidentifiable aircraft was in Class “C” airspace, it would not have been permitted to fly over the airport at an altitude of 2,000 feet, let alone on a heading that put it into the path of departing airliners.By this time, we are at the airport driving through the terminal and my son is enjoying the airliners.  My wife and I are trying to keep track of the unidentifiable craft as it is literally right above the airport STILL at an elevation of around 2,000 feet and moving ever so slowly towards the southeast.We lost the UFO in the clouds and thought that was the end of it. We proceeded to the cell phone waiting area on the north side of the airport where people wait for phone calls to pick up their party.  My wife found the UFO in the sky and it had changed directions completely.  It was NOW heading back the way it came from towards the North West.  I got out of my truck grabbing my cell phone in the process and tried capturing as much of it as I could.  I wish I had better footage to show you, but it’s regrettably not great.  It was already moving too far away.  BUT, the craft had no anti-collision lights.  NO strobe lights.  No noticeable engine sounds.  Far, Far too large to be a drone.  It had a fat oval mid-section, not a long cylindrical aircraft shape.Don’t know…  Thank you!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130180.html](http://www.nuforc.org/webreports/reports/130/S130180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
