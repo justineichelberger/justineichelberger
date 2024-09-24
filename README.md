@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wyandotte (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red fireball object saucer like flying objectWent outside saw orange red sphere which appeared to be hovering immediately yell for my sons to come outside.  Was attempting to capture on video but failed.  Went inside and could not believe what I saw.  was so excited I was yelling and told my fiancee what I had witnessed.  about 3 minutes later went outside and witnessed the reddish orb again this the whole family witness it the orb change colors and once appeared to hover video shows a saucer type object but poor quality cell phone video would need to be enhanced.((NUFORC Note:  We have spoken several times with the witness who submitted this report.  He added that the two sighting were, he estimates, 15 minutes, or so, apart.  His fiancee also witnessed the object.  We have looked at the video he had submitted by another party, and it shows a light, the approximate size of the planet Venus in the night-time sky, and the object appears to move slowly.  We do not know what the nature of the object was.  We express our gratitude to the two parties who submitted reports, and who sent the CD to our Center, for their indefatiguable pursuit for an answer to what it was the witnesses observed, that night.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84121.html](http://www.nuforc.org/webreports/reports/084/S84121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Blinking SaucerI noticed the object in the sky (over the Adams Center) moving very slowly.  The object would blink a bright white light every two seconds.  At first I thought it might be a balloon (Homecoming is this week) but the object would sometimes remain stationary for periods of time.  Obviously not a plane or helicopter.  I have video of it.  Looks like a saucer.  Perfectly round circle that lite up.  It stayed above the Adams Center/"M" Mountain for about 10 minutes and then slowly traveled west while increasing altitude and blinking the entire time.  The video is pretty dang cool!  I stopped watching after about 20 minutes due to people looking at me weird for videotaping the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122228.html](http://www.nuforc.org/webreports/reports/122/S122228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
