@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 23 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Island Park (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One fireball floating slowly up and down in the sky  a circle with fire in it my husband and I both saw itOne fireball floating up and down slowly in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84125.html](http://www.nuforc.org/webreports/reports/084/S84125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riva (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange fireball seen slowly rising up in the sky, moving away, then disappearing behind a cloud. Object seen by 4 individuals.While at soccer practice in Riva, MD, approx. 630pm, my son and three of his friends saw 1 Orange light rise up in the sky, fairly slowly.  He mentioned whitish sparks coming from the back of it and a smaller Orange ball coming from the larger first ball.  I did not see the object, although more than 3 individuals described it exactly as my son did, corroborating his sighting. The Orange ball rose than moved behind a cloud and was not seen after that.  My son also mentioned a horn being tripped as the object disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93841.html](http://www.nuforc.org/webreports/reports/093/S93841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
