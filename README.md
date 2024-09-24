@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riva (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange fireball seen slowly rising up in the sky, moving away, then disappearing behind a cloud. Object seen by 4 individuals.While at soccer practice in Riva, MD, approx. 630pm, my son and three of his friends saw 1 Orange light rise up in the sky, fairly slowly.  He mentioned whitish sparks coming from the back of it and a smaller Orange ball coming from the larger first ball.  I did not see the object, although more than 3 individuals described it exactly as my son did, corroborating his sighting. The Orange ball rose than moved behind a cloud and was not seen after that.  My son also mentioned a horn being tripped as the object disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93841.html](http://www.nuforc.org/webreports/reports/093/S93841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Holland (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large rectangular formation of lights visible over farm house that disappeared and then reappeared, moving slowly and silently.Me, my wife, my brother, and my sister-in-law were driving to visit my in-laws at 8:45 pm.  As we came around the corner, we all noticed what we thought were lights on one of the many grain bins in the area.  However, as we got closer I realized that they were too high in the air (roughly 200 ft) to be a grain bin, plus there was no bin in that area.  The lights were roughly in a rectangular shape, four or five white lights and a small red one.  They seemed to sit still and were clearly too low to be a plane (low enough that at first they were thought to be a grain bin)  As we pulled into the house the trees momentarily obscured the view of the lights.  I parked in the driveway and my brother and I got out to look for them and they were gone.This was startling and we began to question what was going on.  My mother and father in law were sitting in the heard star gazing (it was a pristinely clear night).  They said that they saw nothing and heard nothing (which ruled out a helicopter or low flying plane).  My brother and I ran back down the road in the direction we'd come from, thinking that a change in perspective might show us what the lights were, but they were gone.  This is where it got strange...we knew they had been there, and they were stationary enough and close enough so that all four of us in the car had assumed they were part of the surrounding farm equipment....in fact, we all assumed this was the case which is why none of us commented to each other upon first seeing them.As we searched, we say a low flying, VERY slow moving, and silent line of lights in the distance....as we watched it glided over the horizon and was gone.The following morning we told the neighbor (a farmer whose lived in the area a long time) what we had seen. His response was, "oh, you saw them too?  I've seen those four or five times before, always in the Fall."  He continued to explain that he's seen the lights often (4-5 times) before and that they will appear, hover, and then disappear, only to reappear again somewhere else.  He even said that, in the past, they've hovered for a time and then shot off quickly.  Always in the Fall he said, and usually October....this was an early sighting and he was surprised to hear it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130195.html](http://www.nuforc.org/webreports/reports/130/S130195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
