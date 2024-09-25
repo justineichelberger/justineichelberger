@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denali State Park (AK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was driving and it was 11pm at nite sorry I could not get the time to correct at top /  had just passed over clam gulch  bridge it was dark and nothing is out there nothing and I noticed around 8 or red lights and white ones it's like one red one white and so on it was flying very low I said mom what the heck * is that she said what I said look up there the lights she said omg I don't know I was so scared and weirded out I was like mom do u see that she said yes as I looked up thru the windshield  all I could see was this long object slowing going by was at least two football fields long  my mom was just looking saying what is that what is that  I said mom it looks like a big ship of some sort  she said I have never seen anything like that before and this object is slowing flying by going to the right of me  I could not believe my eyes  and I said mom the heck with  this I'm getting out of here I am not gonna be that dummy that pulls over and gets taken I ! done 90 for the rest of the way to fairbanks scared and I wasn't stopping for nothing. But the police and my gas was going quick I could not hardly get out of the car at can't well to pump gas my legs were shaken so bad  I kept looking in the sky as I drove mom kept saying slow down all I could say is I got to get out of here she said baby you been saying that for the last two hours  and that's it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113914.html](http://www.nuforc.org/webreports/reports/113/S113914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Perkinston (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>We were  driving back from my sisters home we are all night owls so our visits are at night. We came up on a hill and this huge bright as the sun orange with a haze around it was setting over trees.  It was as if someone was burning the trees tops.  My daughter said mom I don't mean to scare you but are you  seeing this, unfortunately, I was.  I was at first just hoping it was the moon but the moon was grey tonight.  And this huge orange haze of a ball the size of a trailer just disappeared.  I call sister in a panic.  I'm unsure what this was all I know is we drove home so terrified we are still up and it's daylight now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122254.html](http://www.nuforc.org/webreports/reports/122/S122254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
