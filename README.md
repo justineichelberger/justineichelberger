@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:16 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:20 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Naxcivan (Azerbaijan) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>that day our city was rainy.. but when i exit the cafe there was no rain.. and look up....my friends have internet cafe .we always exit there midnight .playing games..chat..one day my friend must go out of city to hospital.he is mum had accident.and give the key me for open the cafe. i opened and midnight i think i closed 03:15 and exit there(cafe) and that day here was raining .. i was get coat with me but i saw there was no raining and very dark... i looked up and saw a big X like a disc.. WAW... very big and it is dont let raining here . ithink it was diametr 500-600 m .it was not move...from the building one man shout it(pistol) i think 8 times... all shurjer.after i saw rain was started and disk was slowly go but to up not left right to up ... after that polices come and get that man.. it is 100 % UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25259.html](http://www.nuforc.org/webreports/reports/025/S25259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southampton (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangle with blinking lights that moved erratically with motions impossible by our aircrafts.Saw large bright light falling toward sky.  The light then stopped and hovered for a moment and then started ascending.  We followed the source of the light and saw it begin to make erratic movements in the sky.  We turned around onto another street going the opposite way, and the object turned around and came towards us and was closer to the ground at this point.  When I saw it pass over us it was a large triangle, with blinking lights on each point of the triangle.  It then shot off into the sky in an instant with no warning.  This is my third UFO sighting and all have been in Southampton.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113898.html](http://www.nuforc.org/webreports/reports/113/S113898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
