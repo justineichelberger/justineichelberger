@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>vertical lights 3 with one on each side columbia S.C# vertical lights with two outer lights touching in the middle. The craft was seen high in the sky and appeared to be stationary. I tried to use my video camera and a fully charged battery went dead. I watched it for five minutes as the lights appeared to dim and fade out. they then appeared bright and vanished.....Very scared!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72597.html](http://www.nuforc.org/webreports/reports/072/S72597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>round black object hovering over line of treesSitting in slow-moving traffic going north on Algonquin Rd. I looked towards the sky and off in the distance, above a line of trees, I can't guess how high, saw a round dark circle, not moving for at least a minute, then I lost sight of it for a moment going past a sign along the road, and when I saw it again, it had gained in altitude by several hundred feet at least, and not moving again, then about a minute later, just wasn't there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14267.html](http://www.nuforc.org/webreports/reports/014/S14267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
