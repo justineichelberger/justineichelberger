@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:40 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:16 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Bright Unusual Lights Shapeshifting and Pulsating in Escondido CAWe have wittnessed pulsating bright lights sense Aug.16 - Sept. 25 2012.  I imagine They will continue. It started off one evening when my neighbor knocked on my door to look at something in the skies within sight of my backyard.I was shocked and took pics of this bright starlike object.  When the pics were examined from my smartphone we realized it was not a star but a shape Shifting anomaly.My pics were scary.  These things pretend to be stars until you examine your pics and realize they are not stars!  Now I have 10-12 dotting the mountainside in my rural area.  I'm affected by the amount now of these things and plan on leaving This area.((NUFORC Note:  Possible sighting of stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93108.html](http://www.nuforc.org/webreports/reports/093/S93108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Naxcivan (Azerbaijan) () reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>that day our city was rainy.. but when i exit the cafe there was no rain.. and look up....my friends have internet cafe .we always exit there midnight .playing games..chat..one day my friend must go out of city to hospital.he is mum had accident.and give the key me for open the cafe. i opened and midnight i think i closed 03:15 and exit there(cafe) and that day here was raining .. i was get coat with me but i saw there was no raining and very dark... i looked up and saw a big X like a disc.. WAW... very big and it is dont let raining here . ithink it was diametr 500-600 m .it was not move...from the building one man shout it(pistol) i think 8 times... all shurjer.after i saw rain was started and disk was slowly go but to up not left right to up ... after that polices come and get that man.. it is 100 % UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25259.html](http://www.nuforc.org/webreports/reports/025/S25259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
