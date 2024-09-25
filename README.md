@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:56 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Scranton (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball crossed over the InterstateI was traveling northeast on North Main Avenue, when I glimpsed a greenish fireball streaking in the sky out in front of me.  It was travelling in an easterly direction, crossing over I-81.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84259.html](http://www.nuforc.org/webreports/reports/084/S84259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>STRANGE ORBS OVER LONG WHARF HARBOR?APROX.22:20 LEAVING WORK DRIVING ALONG LONG WHARF DRIVE THE POLICE HAD THE WHOLE STREET BLPCKED OFF. AMBPLEMCES WERE IN THE AREA ABOVE THE BAY HIGH IN SKY WAS A BRIGHT COLORED BALL.BUTFLYING HORIZONTALY JUST ABOVE THE BOATS DOCKED IN THE BAY WAS A SMALL WHITE BALL ZIPPING ALONG AS IF OSERVING EVERYTHING CLOSE UP. I GOT NERVOUS ROLLED UP MY WINDOW OF MY CAR AND TOOK OFF DOWN THE HIGHWAY HOME.((NUFORC Note:  Source of report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58946.html](http://www.nuforc.org/webreports/reports/058/S58946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
