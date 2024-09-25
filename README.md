@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange orb fly's over Cook county ILAround 5:40am I seen an bright orange orb that look like it took off from the ground and flew in a controlled manner heading eastward towards lake Michigan.  It flew up and headed east over the lake front and disappeared from view do to the fact that i live on the 8th floor of an apartment building.  This is my second time seeing this strange orb and it had no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93059.html](http://www.nuforc.org/webreports/reports/093/S93059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Somerville (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white light streaking across skyBright pure white light streaked across the sky above my house in a densely populated area.  No sound and moving very fast.  Was not a drone, helicopter or plane.  The light was very bright and moving at a high rate of speed in a north-northeast direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136372.html](http://www.nuforc.org/webreports/reports/136/S136372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
