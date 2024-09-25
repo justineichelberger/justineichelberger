@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was walking East on Kellogg Road at 7am when I viewed a BEAUTIFUL, HUGE, glowing orange, tri-level, extremely dimensional, lenticular cloud behind Mt Baker.  It was PERFECTLY shaped; absolutely incredible.  (I wished I had a camera or a cell phone to call someone!)  Suddenly I saw a white light "fall" into the top of the cloud.  It was just a white object; kind of "glowy" - a little bigger than a star.  I walked on and continued looking at the mountain.  As the sun continued to rise from up behind the mountain, the lenticular cloud changed into a MASSIVE glowing white domed UFO shape - it was truly STAGGERING! Then a second white object fell into the top of the mountain.I continued walking and watching.  In a few minutes a THIRD object 'fell' into the top of the mountain; but it was about 2 times bigger than the other two.  That's it.It was truly one of the most beautiful sights I've ever seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31825.html](http://www.nuforc.org/webreports/reports/031/S31825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>vertical lights 3 with one on each side columbia S.C# vertical lights with two outer lights touching in the middle. The craft was seen high in the sky and appeared to be stationary. I tried to use my video camera and a fully charged battery went dead. I watched it for five minutes as the lights appeared to dim and fade out. they then appeared bright and vanished.....Very scared!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72597.html](http://www.nuforc.org/webreports/reports/072/S72597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
