@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was walking East on Kellogg Road at 7am when I viewed a BEAUTIFUL, HUGE, glowing orange, tri-level, extremely dimensional, lenticular cloud behind Mt Baker.  It was PERFECTLY shaped; absolutely incredible.  (I wished I had a camera or a cell phone to call someone!)  Suddenly I saw a white light "fall" into the top of the cloud.  It was just a white object; kind of "glowy" - a little bigger than a star.  I walked on and continued looking at the mountain.  As the sun continued to rise from up behind the mountain, the lenticular cloud changed into a MASSIVE glowing white domed UFO shape - it was truly STAGGERING! Then a second white object fell into the top of the mountain.I continued walking and watching.  In a few minutes a THIRD object 'fell' into the top of the mountain; but it was about 2 times bigger than the other two.  That's it.It was truly one of the most beautiful sights I've ever seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31825.html](http://www.nuforc.org/webreports/reports/031/S31825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Round white light illuminated in cloud cover, hovering and lining up vertically and horizontally.There was a lot of cloud cover when we first saw them. Three of the five or six did different formations: sometimes lining up horizontally, and sometimes vertically. The other two or three skirted around the outside of them, drifting in and out of sight.One witness said it was probably floodlights from a stadium, but didn’t remain to watch their movement. Another two suggested it was God. But two of us remained on the veranda, looking west and watching an incredible light show.I had anticipated that when the clouds moved, that the orbs would become brighter, but as the clouds drifted, it was almost as if the orbs were shy, and followed the clouds in a southerly direction. We watched them for easily more than an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149312.html](http://www.nuforc.org/webreports/reports/149/S149312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
