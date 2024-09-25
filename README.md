@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Red Deer (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Uniform dots of lights, smooth, quick, unique, straight line vector dissappearing into the sky.I was sitting outside watching the stars and thought I seen 2 bright flashes of light almost directly above me. I guess it would have been about 10-15 degree south, south east of the zenith of the sky. The flashes were about 5 minutes apart.  This would have happened about 21:45 hours.  The moon was slightly obscured by scattered clouds, but there seemed to be a straight line of clouds just above the moon, and than above that open sky.  I just happened to look away and than look back at the moon.  5 or 6 lights, dots, red bluish, whites light in the form of a boomerang, or wing, with what appeared to be 3 or 4 dots/lights on one side (east) and 1, possibly 2 on the right hand side (west side).  What I thought odd was how fast, smooth and how they moved without loosing their altitude or grouping.   The dots did not disappear behind the cloud; rather they disappeared into the sky. My watch read 22:00hrs MST. I am not much of a stargazer, but this did catch my attention.  The dots seemed to come from the north or above me very quickly, but clearly, very clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19649.html](http://www.nuforc.org/webreports/reports/019/S19649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO Mothership shooting a beam of light.  1 Min Video.Recorded around 10:30 eastern time.  I'm sending a video please make sure this video is viewable to the public.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149311.html](http://www.nuforc.org/webreports/reports/149/S149311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
