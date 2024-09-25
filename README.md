@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:09 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Roselle (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2+ - 2+ minutes.</sub><blockquote><sub>Lights/spheres near Chicago cityWhile driving I witnessed four blinking lights hovering almost still in the air.  Some of the smaller ones would only move at a very slow speed to the sides one of them moved higher, but the bigger one would stand still.  A few of the small ones disappeared and reappeared at times.  Once I got on the highway I was able see them more clearly only this time they appeared to be bigger and in a sphere shape.  They were lined up with with some distance next to each other and 2 or three more higher on top. In total 7-8 of them.  Airplanes were flying near by and the difference was clear. I was able to get a video of the first time I spotted them but not as I was driving in the highway.  As there was a lot of traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149183.html](http://www.nuforc.org/webreports/reports/149/S149183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>can't access examplesWhile outside walking the dog, I noticed a black "ball" going very quiclky through the twilight sky ... This object was perfectly round unlike a ball, and was black .. it made no sound nor had any lights illuminating it ... At first i thought it was a hot air balloon, but realized a balloon could not possibly go as fast as this object did .. I called my Mom and she also witnessed it, we watched in awe, till it disappeared behind the neighbors trees .. We then went into the street to look for it, but it was gone ... Entire event was less than 2 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14256.html](http://www.nuforc.org/webreports/reports/014/S14256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
