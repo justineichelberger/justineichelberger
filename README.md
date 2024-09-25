@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:09 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:40 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fairfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>can't access examplesWhile outside walking the dog, I noticed a black "ball" going very quiclky through the twilight sky ... This object was perfectly round unlike a ball, and was black .. it made no sound nor had any lights illuminating it ... At first i thought it was a hot air balloon, but realized a balloon could not possibly go as fast as this object did .. I called my Mom and she also witnessed it, we watched in awe, till it disappeared behind the neighbors trees .. We then went into the street to look for it, but it was gone ... Entire event was less than 2 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14256.html](http://www.nuforc.org/webreports/reports/014/S14256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Bright Unusual Lights Shapeshifting and Pulsating in Escondido CAWe have wittnessed pulsating bright lights sense Aug.16 - Sept. 25 2012.  I imagine They will continue. It started off one evening when my neighbor knocked on my door to look at something in the skies within sight of my backyard.I was shocked and took pics of this bright starlike object.  When the pics were examined from my smartphone we realized it was not a star but a shape Shifting anomaly.My pics were scary.  These things pretend to be stars until you examine your pics and realize they are not stars!  Now I have 10-12 dotting the mountainside in my rural area.  I'm affected by the amount now of these things and plan on leaving This area.((NUFORC Note:  Possible sighting of stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93108.html](http://www.nuforc.org/webreports/reports/093/S93108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
