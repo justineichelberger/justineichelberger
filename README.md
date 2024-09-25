@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:56 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>STRANGE ORBS OVER LONG WHARF HARBOR?APROX.22:20 LEAVING WORK DRIVING ALONG LONG WHARF DRIVE THE POLICE HAD THE WHOLE STREET BLPCKED OFF. AMBPLEMCES WERE IN THE AREA ABOVE THE BAY HIGH IN SKY WAS A BRIGHT COLORED BALL.BUTFLYING HORIZONTALY JUST ABOVE THE BOATS DOCKED IN THE BAY WAS A SMALL WHITE BALL ZIPPING ALONG AS IF OSERVING EVERYTHING CLOSE UP. I GOT NERVOUS ROLLED UP MY WINDOW OF MY CAR AND TOOK OFF DOWN THE HIGHWAY HOME.((NUFORC Note:  Source of report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58946.html](http://www.nuforc.org/webreports/reports/058/S58946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Ronan (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman & fiance' witness strange light in E sky.  Was visible at 0610 hrs. same day.  (Not vis. in same area of sky next night.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00846.html](http://www.nuforc.org/webreports/reports/000/S00846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
