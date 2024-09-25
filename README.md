@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:20 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southampton (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangle with blinking lights that moved erratically with motions impossible by our aircrafts.Saw large bright light falling toward sky.  The light then stopped and hovered for a moment and then started ascending.  We followed the source of the light and saw it begin to make erratic movements in the sky.  We turned around onto another street going the opposite way, and the object turned around and came towards us and was closer to the ground at this point.  When I saw it pass over us it was a large triangle, with blinking lights on each point of the triangle.  It then shot off into the sky in an instant with no warning.  This is my third UFO sighting and all have been in Southampton.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113898.html](http://www.nuforc.org/webreports/reports/113/S113898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>5 lights in the sky seen from south central LA.I'm not sure if these lights are anything that can be easily explained, but after a quick web search I didn't find anything so here it goes.  As soon as it gets dark enough to see planes' lights in the night sky,  I see about 5 bright lights in the sky at plane level. They've been showing up for a couple of days now.  From my window, I see a lot of planes take off.  These lights are in their path.  They twinkle like stars and are white or yellowish, but sometimes not all of them are there and I have seen them very slowly move.  Their formation also changes.  I think they're too high up to be airport lights of some sort and stars don't move.  So what are they?  I live in South Central LA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136386.html](http://www.nuforc.org/webreports/reports/136/S136386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
