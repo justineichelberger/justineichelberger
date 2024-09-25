@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 24 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Box and kite like object in fixed positionNo wind, thought it was a kite.  Fixed position but moving in place.  Started before night time and stayed in same position even after dark.  It is black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130173.html](http://www.nuforc.org/webreports/reports/130/S130173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Roselle (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2+ - 2+ minutes.</sub><blockquote><sub>Lights/spheres near Chicago cityWhile driving I witnessed four blinking lights hovering almost still in the air.  Some of the smaller ones would only move at a very slow speed to the sides one of them moved higher, but the bigger one would stand still.  A few of the small ones disappeared and reappeared at times.  Once I got on the highway I was able see them more clearly only this time they appeared to be bigger and in a sphere shape.  They were lined up with with some distance next to each other and 2 or three more higher on top. In total 7-8 of them.  Airplanes were flying near by and the difference was clear. I was able to get a video of the first time I spotted them but not as I was driving in the highway.  As there was a lot of traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149183.html](http://www.nuforc.org/webreports/reports/149/S149183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
