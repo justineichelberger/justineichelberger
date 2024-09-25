@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Perkinston (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>We were  driving back from my sisters home we are all night owls so our visits are at night. We came up on a hill and this huge bright as the sun orange with a haze around it was setting over trees.  It was as if someone was burning the trees tops.  My daughter said mom I don't mean to scare you but are you  seeing this, unfortunately, I was.  I was at first just hoping it was the moon but the moon was grey tonight.  And this huge orange haze of a ball the size of a trailer just disappeared.  I call sister in a panic.  I'm unsure what this was all I know is we drove home so terrified we are still up and it's daylight now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122254.html](http://www.nuforc.org/webreports/reports/122/S122254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tabor City (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two orange lights sat stationary then maneuvered separately at different speeds, behind a tree-line.A month ago, I saw a glowing orange orb moving really quickly across the sky. It then maneuvered in a way that I’ve never seen, disappearing behind a tree-line. I’m able to quickly identify things in the sky. I didn’t know what this was. I also didn’t report this original event.&#8232;&#8232; My wife and one of my children have witnessed the same or similar object in the sky, on separate occasions.Last night, around 9pm, I noticed two orange lights in the distance. I originally thought they might be planets, because they weren’t moving and looked different than the stars. I kept watching. One of the objects moved very quickly from its stationary position and was quickly out of sight. There was a tree-line near me that obstructed my ability to continue tracking it. The second object began to move slowly, in a direction similar to the first and was quickly out of sight.I thought that the event was very strange.  I went into the house and sat down. 5-10 minutes after I sat down, the house was buzzed by a low flying, fast moving, jet.  It was followed by a second low flying jet.  Based on the sound, I could tell that the jets were moving towards where the orange lights had been.  This could have been a coincidence, but was also strange.I spent 9 years in the military, stationed on an airbase.  I’m very familiar with aircraft in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149211.html](http://www.nuforc.org/webreports/reports/149/S149211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
