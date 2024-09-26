@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:22 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dover (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>stationary object with flashing multicolored lightsObject seen in eastern sky starting at 10 pm.  Object is triangular shaped with flashing blue, red, and green lights rotating around a large white light.  Object has remained mostly stationary with slight up and down movements.  Object has been in view for over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113929.html](http://www.nuforc.org/webreports/reports/113/S113929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Robbinston (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Distant, horsefly shape with green &quot;wings&quot;, 90 degrees above the horizon, viewed from Robbinston, Maine, but object was over NAt first I saw blinking lights and believed object was aircraft. Then, realized it wasn't moving forward like a jet. It remained roughly in the same place for about an hour, with some movement, but only noticeable through binoculars.  Shape appeared , as I can best describe it, as a horsefly, the "wings" being bright green.  Other colors included red, orange and white.  It seemed to remain in the same place the whole time it was sighted.  When I went to recheck its status at 22:45, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113927.html](http://www.nuforc.org/webreports/reports/113/S113927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
