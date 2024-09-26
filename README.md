@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:51 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>FLASH OF LIGHT SPOTTED IN BACKYARD, CIRCULAR SHAPED OBJECT WITH ROTATING LIGHTS ON ITI MAY HAVE MISSED MOST OF IT; HENCE, THE MEASLY 5 MINUTE DURATION.I WAS  IN MY BEDROOM I WAS GETTING READY FOR BED AND SAW A LIGHT COMING DIAGNOLLY FROM THE SKY INTO MY BACKYARD.I WENT TO THE WINDOW AND ABOVE THE TREETOP NORTH OF ME WAS A SAUCER SHAPED OBJECT WITH A SERIES DIFFERENT COLORED  LIGHTS HOVERING. IN THE SKY I CALLED MY HUSBAND TO COME UP AND BY THE TIME HE GOT THERE IT HAD MOVED AND WAS BEHIND THE TREE SO HE COULDN’T SEE MUCH.THEN IT WAS GONE. HEADING NORTHWARD TOWARDS BERLIN, CT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102690.html](http://www.nuforc.org/webreports/reports/102/S102690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sayville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Looking to the sky on a very clear night we saw a glowing object that was reasonably close maybe 1-2 miles in the sky east of us.  The aircraft was flying at about a quarter mile high in altitude and was moving at a slow pace southward.  The shape of this object was very odd, it seemed to have a very slow moving vertical "helicopter blade" in the back that was glowing, and a sphere shaped body in the front but was large.   We could not hear any noise from this object but it just hovered right along its path until it was out of our sight. we considered following it but it was too late in the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78004.html](http://www.nuforc.org/webreports/reports/078/S78004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
