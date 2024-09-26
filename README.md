@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:20 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:59 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light moving across the night skyI was standing outside my neighbor’s garage when I saw a bright light heading from the west-northwest to the east-southeast at a high rate of speed. The object slowed and changed direction once; about 30 degrees shortly after it flew over my head. It then Sped up and headed more southeast dimming then disappearing into my horizon.I would estimate the object was at 10 to 15 thousand feet in the air. This light had no strobes and was clearly not a commercial or known military plane, nor do I feel it was a meteor. I know this because of my background in A & P and the fact that the object quickly surpassed a commercial aircraft that was over 30,000 feet in the air (with the usual strobes). This light was brighter than the planet visible at that time in the southeast Las Vegas sky, as I could see both at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72629.html](http://www.nuforc.org/webreports/reports/072/S72629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Occoquan () reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was leaving Belmont Bay when I saw a formation of 5-6 reddish lights in a loose formation.  They were low enough to be helicopters but made no sound at all.  They were directly over the Occoquan Rver between the city of Occoquan and Belmont Bay.  Not saying it was alien. Called it in to Prince William County PD at 9:17 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84173.html](http://www.nuforc.org/webreports/reports/084/S84173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
