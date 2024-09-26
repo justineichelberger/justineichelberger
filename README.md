@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>FLASH OF LIGHT SPOTTED IN BACKYARD, CIRCULAR SHAPED OBJECT WITH ROTATING LIGHTS ON ITI MAY HAVE MISSED MOST OF IT; HENCE, THE MEASLY 5 MINUTE DURATION.I WAS  IN MY BEDROOM I WAS GETTING READY FOR BED AND SAW A LIGHT COMING DIAGNOLLY FROM THE SKY INTO MY BACKYARD.I WENT TO THE WINDOW AND ABOVE THE TREETOP NORTH OF ME WAS A SAUCER SHAPED OBJECT WITH A SERIES DIFFERENT COLORED  LIGHTS HOVERING. IN THE SKY I CALLED MY HUSBAND TO COME UP AND BY THE TIME HE GOT THERE IT HAD MOVED AND WAS BEHIND THE TREE SO HE COULDN’T SEE MUCH.THEN IT WAS GONE. HEADING NORTHWARD TOWARDS BERLIN, CT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102690.html](http://www.nuforc.org/webreports/reports/102/S102690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Walkertown (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sitting at a traffic light on the way home from work.  Sky was dark due to pending storm.  There is an area of light break in the sky and there as a moving/dancing clear square in that lighter area of the sky.  Moving up and down but twisting.  Then it disappeared.  Lasted but a min. or two.  Just thought someone should know.  It was very unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130273.html](http://www.nuforc.org/webreports/reports/130/S130273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
