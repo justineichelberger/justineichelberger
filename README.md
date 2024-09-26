@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:09 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dover (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>stationary object with flashing multicolored lightsObject seen in eastern sky starting at 10 pm.  Object is triangular shaped with flashing blue, red, and green lights rotating around a large white light.  Object has remained mostly stationary with slight up and down movements.  Object has been in view for over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113929.html](http://www.nuforc.org/webreports/reports/113/S113929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ellicottville (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO stops by to see Fall FoliageAccidentally captured a picture of a UFO,  while focusing on amazing fall foliage. Disc shaped or might be cone as its slightly blurred, over the hills in Ellicottville, NY on 9/26/20 at 429 pm. Got two pictures at two different angles.  Didn’t notice it until later.  Black and/or Silver, must have been moving fast as it is the only thing in the picture that is slightly blurred. There were 3 of us at the time and people in the Ellicottville Dog Park, but I took the picture on the way in, and parked a distance away from everyone else.  Based on the dimensions probably about 30-50 feet wide.  Can't believe I didn't notice it at the time, but simply didn't look up and took a long range shot.  Buggers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159571.html](http://www.nuforc.org/webreports/reports/159/S159571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
