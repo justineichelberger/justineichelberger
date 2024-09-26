@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 25 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glenarm (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>corkscrew chemtrail in air from unknown objectI have started to notice right around sunset lots of jet activity southwest of my residence.  I have tracked these movements accross the sky and they make no noise, they are incredibly fast and they rise up into the sky and disappear.  They are all coming from the same area, sometimes I will see 3 or 4 lined up in a row on the same path.  I thought they were jets at first, but I realized that we don't fly our planes that way, nor do they line up one after another, I have gotten 2 onto a picture at a time. They leave a wavy chemtrail.  I have 2 pictures that clearly show a chemtrail that looks like a corkscrew, as if the craft was spinning in circles as well as moving forward, and in one picture you can clearly see a hard turn in the chemtrail, our jets cannot do that.  I will send the pictures, you decide?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84169.html](http://www.nuforc.org/webreports/reports/084/S84169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>A wobbling, slightly moving object with 1-3 visible flashing red lights.Last night I saw an unusual "thing" in the sky.  It was directly south at the 12:00 position.  It caught my eye because it was moving, but not far.  It was more like a wobble, changing short positions in the blink of an eye.  I got the binoculars out and saw there were several red lights flashing in different positions on the "thing".  My husband insisted it was the Planet Mars.  I've never seen Mars with flashing red lights.I checked on it again around midnight and it was gone.  I posted the info on social media and others claimed to see it, too.  I'm skeptical of their claims.  Thank you~((NUFORC Note:  We suspect a sighting of Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143285.html](http://www.nuforc.org/webreports/reports/143/S143285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
