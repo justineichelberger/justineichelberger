@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Arrow head. Front had 4 rod shaped flourescent lights,  2 back corners, transparent center. Hand size at arms lengthI was on my second story balcony smoking a cigarette while looking up at a clear sky with bright stars as I always do. There was a storm coming in quickly to my right. My area of view is blocked to my left from my roof and trees block my view to my right leaving me a large patch of viewing sky in the middle. From my left a massive object appeared into my view and moved at a rapid pace towards the storm on my right. I got a great look at this object. It was shaped like an Indian arrow head. The front part of the triagle had 4 rod shaped glowing flourescent lights in a wedge shape and 2 on the back corners. The lights did not project. The center of this object looked transparent as it passed. For 15 seconds it sped across the sky without a sound. I held my hand up at arm's length and the object was slightly larger than it. I thought because of the massive size that it was flying by at a low altittude but when it reached the storm to my right I saw it go above the storm out of my view, not through it. I have a video camea with night vision and I'll be ready. I should of known better being a UFO enthusiast and neck kinking sky watcher. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31855.html](http://www.nuforc.org/webreports/reports/031/S31855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Van Alstyne (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White glowing saucer like UFO moving in and out of wall cloud over Van Alstyne TXI was traveling down highway 75 in Van Alstyne, TX, during the beginning of a small thunderstorm. I noticed a white LED fairly bright light saucer style shape moving in vertical and horizontal, hovering type movements through a dark wall cloud.  It proceeded to move through and in and out of the clouds before disappearing.  It was a solid non-blinking light. It appeared to be larger than a plane.  It was not a weather balloon or a phone tower.  It was not a drone, too large to be, and as it moved it stayed in a very small area where it would hover and move.  Ok have never witnessed anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149233.html](http://www.nuforc.org/webreports/reports/149/S149233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
