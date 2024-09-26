@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:20 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>A wobbling, slightly moving object with 1-3 visible flashing red lights.Last night I saw an unusual "thing" in the sky.  It was directly south at the 12:00 position.  It caught my eye because it was moving, but not far.  It was more like a wobble, changing short positions in the blink of an eye.  I got the binoculars out and saw there were several red lights flashing in different positions on the "thing".  My husband insisted it was the Planet Mars.  I've never seen Mars with flashing red lights.I checked on it again around midnight and it was gone.  I posted the info on social media and others claimed to see it, too.  I'm skeptical of their claims.  Thank you~((NUFORC Note:  We suspect a sighting of Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143285.html](http://www.nuforc.org/webreports/reports/143/S143285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light moving across the night skyI was standing outside my neighbor’s garage when I saw a bright light heading from the west-northwest to the east-southeast at a high rate of speed. The object slowed and changed direction once; about 30 degrees shortly after it flew over my head. It then Sped up and headed more southeast dimming then disappearing into my horizon.I would estimate the object was at 10 to 15 thousand feet in the air. This light had no strobes and was clearly not a commercial or known military plane, nor do I feel it was a meteor. I know this because of my background in A & P and the fact that the object quickly surpassed a commercial aircraft that was over 30,000 feet in the air (with the usual strobes). This light was brighter than the planet visible at that time in the southeast Las Vegas sky, as I could see both at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72629.html](http://www.nuforc.org/webreports/reports/072/S72629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
