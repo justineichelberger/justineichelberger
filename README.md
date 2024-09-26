@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Saw 2 distinct VERY BRIGHT lights in the sky over Azusa, Ca.I saw a very bright light to the north on the freeway eastbound from Pasadena. Then I looked south and there was another one. Then the light in the north was gone and joined the one in the south. They were VERY BRIGHT. When I got to Azusa I could still see them in a southerly direction. Last night at approx: 12:30am I saw a very bright light from my window in the north, It was very bright. Tonight that light is gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72630.html](http://www.nuforc.org/webreports/reports/072/S72630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Centerville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO in early morning skySo I went outside to walk my dog this morning and I witnesses a genuine UFO traveling North to South in the western sky.  I hurried up and grabbed my high powered spotting scope to get a better view and saw a disk shaped bright craft traveling about the same speed as an aircraft except the entire craft was light up with only one red no blinking light.  It made no sound and normal airplanes at the same distance in the same spot make a noticeable sound.  That's when I ran and grabbed my stepson that enjoys UFOs as much as I do just to make sure I was seeing things correctly and he saw the same thing.  We have both witnessed multiple UFOs before and knew that it was the only explanation.  Truly a sight to see and it never gets old just like buck fever.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136379.html](http://www.nuforc.org/webreports/reports/136/S136379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
