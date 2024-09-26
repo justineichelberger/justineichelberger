@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Van Alstyne (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White glowing saucer like UFO moving in and out of wall cloud over Van Alstyne TXI was traveling down highway 75 in Van Alstyne, TX, during the beginning of a small thunderstorm. I noticed a white LED fairly bright light saucer style shape moving in vertical and horizontal, hovering type movements through a dark wall cloud.  It proceeded to move through and in and out of the clouds before disappearing.  It was a solid non-blinking light. It appeared to be larger than a plane.  It was not a weather balloon or a phone tower.  It was not a drone, too large to be, and as it moved it stayed in a very small area where it would hover and move.  Ok have never witnessed anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149233.html](http://www.nuforc.org/webreports/reports/149/S149233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Great Falls (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw a green glowing fireball.I was sitting out on our patio with my wife.  We live 6 miles south of town and night viewing is very good.  We were chatting and something caught the peripheral vision in the upper corner of my left eye.  I looked up just in time to see a green glowing ball descending very rapidly.  I saw it for perhaps 1-2 seconds and then it disappeared down into the valley behind our house.I then looked up into the sky and saw what appeared to be the remnants of a smoke trail high overhead.  The moon was a super moon so the trail was easy to see.  It appeared to line up with the path I think the object took.  However, there were a lot of jet contrails in the sky that night.  My wife and I had been talking about that, and thought maybe the bright moon was just showing them more easily than normal.  So I can’t be certain that what I saw was the trail.Perspective was tricky, and I found myself wondering if it was actually several miles away and larger than I initially thought.  It is impossible to say.  But I have never seen anything like this before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122387.html](http://www.nuforc.org/webreports/reports/122/S122387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
