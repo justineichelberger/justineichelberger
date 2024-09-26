@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Santa Clara (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A very bright multi colored light that shot across the sky and then vanished.We just returned from dinner and as we were walking up the driveway i looked down the street and in the sky myself and my girlfriend saw a light go from bright white to blue to red in a long streak which lasted for just over 1 second.  it is hard to say how long in distance the streak was but it may have been a half mile in length.  I know for a fact that this was no shooting star because i have seen many myself.  this was very fast and the way it changed colors and just dissapeared so quickly and the other thing was that it seemed to be close to me in distance.  being at night it may have been a few miles away.  it occured so fast that i couldnt see any shape but it had no sound to identify with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39495.html](http://www.nuforc.org/webreports/reports/039/S39495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>A wobbling, slightly moving object with 1-3 visible flashing red lights.Last night I saw an unusual "thing" in the sky.  It was directly south at the 12:00 position.  It caught my eye because it was moving, but not far.  It was more like a wobble, changing short positions in the blink of an eye.  I got the binoculars out and saw there were several red lights flashing in different positions on the "thing".  My husband insisted it was the Planet Mars.  I've never seen Mars with flashing red lights.I checked on it again around midnight and it was gone.  I posted the info on social media and others claimed to see it, too.  I'm skeptical of their claims.  Thank you~((NUFORC Note:  We suspect a sighting of Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143285.html](http://www.nuforc.org/webreports/reports/143/S143285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
