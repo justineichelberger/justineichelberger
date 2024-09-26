@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Altos (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 52</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164882.html](http://www.nuforc.org/webreports/reports/164/S164882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Saw 2 distinct VERY BRIGHT lights in the sky over Azusa, Ca.I saw a very bright light to the north on the freeway eastbound from Pasadena. Then I looked south and there was another one. Then the light in the north was gone and joined the one in the south. They were VERY BRIGHT. When I got to Azusa I could still see them in a southerly direction. Last night at approx: 12:30am I saw a very bright light from my window in the north, It was very bright. Tonight that light is gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72630.html](http://www.nuforc.org/webreports/reports/072/S72630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
