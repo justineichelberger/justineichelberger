@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 26 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ellicottville (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO stops by to see Fall FoliageAccidentally captured a picture of a UFO,  while focusing on amazing fall foliage. Disc shaped or might be cone as its slightly blurred, over the hills in Ellicottville, NY on 9/26/20 at 429 pm. Got two pictures at two different angles.  Didn’t notice it until later.  Black and/or Silver, must have been moving fast as it is the only thing in the picture that is slightly blurred. There were 3 of us at the time and people in the Ellicottville Dog Park, but I took the picture on the way in, and parked a distance away from everyone else.  Based on the dimensions probably about 30-50 feet wide.  Can't believe I didn't notice it at the time, but simply didn't look up and took a long range shot.  Buggers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159571.html](http://www.nuforc.org/webreports/reports/159/S159571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newton (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Pulsating red blue and green lights changing to bright white and covering huge distances in the sky in the blink of an eye leaving a light streak as it snapped across the sky.  It moved in huge circular patterns and at one point shot verticly down in the sky about 4 inches faster than i could process its movement.  The onject also discharged a greenish light ray which was seen by all witnesses.  It remained for about 15 minutes and would switch between being solitary and fast unnaturally quick movements</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113896.html](http://www.nuforc.org/webreports/reports/113/S113896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
