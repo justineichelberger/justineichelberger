@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright illuminating diamond and round shape objects.Around 8:30 pm pacific standard time a bright flashing light was spotted about the house.  The object hovered for several minutes before changing colors.  The  colors go faint as the object moves..  Minutes later several fast low flying airplanes appeared for at least 15 minutes.  At least three Unidentifiable aircrafts where spotted in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136416.html](http://www.nuforc.org/webreports/reports/136/S136416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Morden, Surrey (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange object over the skies of Morden, Surrey, UKI saw something at approx 7pm this evening when i was out having a cigarette. I called out 'what is that' ran in and grabbed my camera hoping it would still be visible when i went back out. its a Canon PowerShot A590 and the first clearer picture was taken on normal. The rest are on 16x zoom. Interesting the rest are all dark and you can just about make out the object.  Fading daylight but skies still blue at this time.My partner heard me shout out and came rushing down the stairs asking what was up, I told him and he took a while to locate the object and then ran in and got my binoculars that are in the kitchen drawer, he had trouble locating it through the binoculars but when he did he said that it was coloured green and red. He suspects they were heliem balloons.I thought i'd report it anyway as you never know. I think id go with helium balloons too as an alternative to a UFO.As an aside the aircraft in the vicinity was a plane on the landing path of Gatwick Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65919.html](http://www.nuforc.org/webreports/reports/065/S65919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
