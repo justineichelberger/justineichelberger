@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:29 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashes of LightAround 9pm Central time, I was outside looking up at the sky, when I saw a very quick flash of a greenish transparent circular in shape light, swipe across the clear night sky.  I continued to watch the sky and turn towards the North East and then saw a fireball tipped light followed by a trail of white, flash cross the sky in about a 7 second time frame.  Nothing else was seen for the next 15 minutes as I waited for anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130291.html](http://www.nuforc.org/webreports/reports/130/S130291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Clemente (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Mysterious formation over South Orange County Skies.Looking up at tonight's blood moon, a group of us neighbors noticed a strange constilation in the night sky,  as we were looking at it we all began to notice the objects were moving and changing formation patterns, not planes, these we see daily, and all hours of night.  They appeared as stars, but moved slowly and blended in perfectly with the stars above, we saw them from about 4' O'clock high until about 8-9 o'clock high moving in a Southwest to eastern route...I have always been a skeptic but after tonight I am a firm believer...never seen anything like it!  Ever!  Cool and scary to say the least, all because of the unknown… Being a military combat veteran, I put everything I have come to know and love about being a US MARINE, this wasn't like anything I have ever seen in my life before, unless we're talking SciFi, than of coarse I can say it looked like ((what)) you would see on Star Track  (sic.  Trek)...simply amazed at what I had witnessed..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122335.html](http://www.nuforc.org/webreports/reports/122/S122335.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
