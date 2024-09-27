@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madawaska (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four pinkish red lights moving across the sky in a south to north at a slow speed and silent.  On video appears as a white ball.  Then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149265.html](http://www.nuforc.org/webreports/reports/149/S149265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>moving light in the skyAt about around 5:30 am on 9/27/2016 i had notice a rather strange light in the sky,  as soon as i noticed it started moving towards the east from where i was looking as if it had notice me see it.  I have witness several other times strange lights moving in the sky as well in the early mornings and have failed to report them.  They seem to just fade out as if it started to move either east or going straight up or turning off a light.  I know this couldn’t be an airplane because it would have the standard blinking lights and it was not cloudy outside as i could see the stars around this particular light i seen when it vanished,  It wasn’t a meteor because this thing didn't fall towards the ground it just moved a bit and the light on what i have seen just faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130278.html](http://www.nuforc.org/webreports/reports/130/S130278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
