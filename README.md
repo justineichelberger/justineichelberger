@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright white steady light heading eastward at about 50 degrees elevation about northeast from my house.While looking to the northwest, I spotted a movement to the northeast.  I saw a bright light, larger than the planet Venus heading eastward.  It turned to its left and quickly faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122374.html](http://www.nuforc.org/webreports/reports/122/S122374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westminster (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>9 lights in shape of triangles each over the size of a home and very low to the groundThe date is 9/27/14 and the time is 9:05 pm et.  My best friend and her husband and kids stay on my property right now and they were waiting on dominos to deliver.  They were hanging out outside next to my mommas car.  I went out to speak with my niece and I looked up in the sky and coming over my across the street neighbors' home were these 3 lights.  they were huge, triangle shaped and yellowish in color, than 3 more come over the home and again 3 more.  We just stood there looking up at them as they passed by, I could see the clouds in between the 3 triangular "ships" but could not see the clouds through the "ships".  It took a total of 2 to 3 minutes for them to pass. Than they just disappeared. My husband was in the 82nd airborne so I know what planes etc. look like from beneath at night, I have watched the night sky my entire life because I love stars, and have seen flares and fireworks in the sky many times, but never have I seen anything like this! .  They were going north east (I think can show which way if followed up on).  All of us saw it and still cant figure out what it was. We are willing to speak to any professional who would like to follow up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114021.html](http://www.nuforc.org/webreports/reports/114/S114021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
