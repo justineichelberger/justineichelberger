@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Johnson Creek (Near; on I-94 east, heading toward Milwaukee) (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a bright, white, spherical object at cloud level.  It moved from north to south at a rapid pace, then disappeared.My wife and I were traveling east on I-94 towards Milwaukee, at around 4:15PM on Sunday, Sept. 27, 1998.  I saw a bright, white, spherical object moving across the clouds (it was bright enough to contrast the cloud) heading from north to south, bisecting the Interstate. It was moving fairly rapidly from my perspective, then it either vanished, or disappeared in to the cloud.  Seconds after it disappered, a darker object appeared at the same level, in the same cloud, but heading in the opposite direction at a slower rate of speed.  After watching the dark object for a while, it appeared to be an airplane, but I had not seen an airplane approaching before the white sphere disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04479.html](http://www.nuforc.org/webreports/reports/004/S04479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bel Marin Keys (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Slow-moving horizontal round white lightI was out jogging  at 5:30 a.m. This is my routine most every early morning.  It was still dark, some fog, and no wind.  As I was approaching an intersection of homes, across the very wide avenue running perpendicular to my approach are other homes and some trees.  From my vision's right side, a bright semi/incandescent blue/white round light floated in a straight line above the roof tops to the left and disappeared beyond and behind roofs and some small trees.  The altitude seemed to be about 200 feet off the ground.  The light, held out at arms length seemed to be about the size of a nickel.  The intensity was not blinding, and clearly the object was round. The travel-speed was not anything like a meteor, as this object was in no hurry.  There was absolutely no sound from this light. After reviewing your other reports, the similar (identical in description) one is the 7/11, Salem, Oregon report you have listed as "slow moving horizontal..."((NUFORC Note:  We think the witness means a date of "09/27/00."  We have changed the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14293.html](http://www.nuforc.org/webreports/reports/014/S14293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
