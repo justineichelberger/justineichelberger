@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:54 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Wilson (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Cylinder-shaped object hovering and darting, at a consistent 45-degree angle, observed for 20 minutes.  No wings, no running lights.My one and only UFO sighting happened nearly 30 years ago.  It was a mild fall Oklahoma night in 1981, somewhat cloudy.  I was outside in the yard of my boyhood home when I noticed what looked like a white shaft of light, angled at about 45 degrees, casually hovering up and down in the sky against the eastern horizon.  Methodically, it would rise and then, slowly, steadily, it would drop, and then rise again, repeating this pattern, while I strained to figure out what it was.After performing the up-and-down hovering motion for a few minutes, the object instantly and noiselessly darted from the eastern horizon to directly overhead, stopped in midflight, and then shot back near to its starting point—where it continued to hover briefly before starting a sequence of movements across the sky, zipping from one horizon to another, stopping, starting, hovering, darting—always maintaining a 45-degree tilt.After about 10 minutes of watching (or being watched; I wasn’t sure which), I grabbed a pair of binoculars that I knew to be in a vehicle parked in the driveway.After a few frustrating moments of trying to train the binoculars on the object before it moved, it finally settled into one spot in the sky, almost directly overhead.As it hovered silent and stationary overhead, I could clearly see a cylinder shaped object, the color of polished aluminum.  It glowed from the inside out, illuminating the sky evenly all around it.  There were no windows, no running lights or gear, no wings. It was smooth and polished, one piece, solid.As I held the binoculars steady, the object suddenly vanished.  But as I continued to focus the binoculars on the same spot, seconds later, the object reappeared as suddenly as it had disappeared.  Moments later, it began to dart around again.Finally, the object sped away toward the south, gone within a couple of seconds, without a sound.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120217.html](http://www.nuforc.org/webreports/reports/120/S120217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashes of LightAround 9pm Central time, I was outside looking up at the sky, when I saw a very quick flash of a greenish transparent circular in shape light, swipe across the clear night sky.  I continued to watch the sky and turn towards the North East and then saw a fireball tipped light followed by a trail of white, flash cross the sky in about a 7 second time frame.  Nothing else was seen for the next 15 minutes as I waited for anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130291.html](http://www.nuforc.org/webreports/reports/130/S130291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
