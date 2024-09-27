@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Red lights in eastern sky.We were out watching the eclipse and saw these red lights crossing the sky like nothing I've ever seen,  I've lived next to McCord AFB all my life and these were no planes it scared my daughter we eat he'd them go from South to north we first noticed them t  the left of the moon and watched them until they were outta view.  They were flying side by side in pairs of 2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123237.html](http://www.nuforc.org/webreports/reports/123/S123237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in 100 Mile House (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>white round object quickly moves in , stops and hovers overhead changing direction, then disappears.Clear day , no clouds visible . Bradley Creek area 100 Mile House B.C. Round white object was witnessed approaching quickly from the west to the east by my father.Brought to my brother's and my attention, we watched it slow , stop and basically do an eratic change of direction, resembling say a square, directly overhead. We watched that for about 30 seconds, when I went for my binoculars and came back it was gone.Brother and father said it just vanished.Total time viewed was  2 minutes , maybe slightly longer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39538.html](http://www.nuforc.org/webreports/reports/039/S39538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
