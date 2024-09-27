@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>email report. Hi Brian,  I was sitting outside facing west when a huge saucer, 4 times moon size, materialized out of nowhere right in front of me. I was not looking in any way just listening to music and relaxing after a 10 hour day of splitting firewood. This object of intensive white color did have a saucer shape and the outline was in light red.The object must have been only 35-40 meters, or even closer,  away AND it was not sitting still but moving up and down. I got very scared and my heart started pumping like crazy..I am still shaking.. The whole scenario lasted for only 15 seconds before the saucer became invisible.. There was some heat coming from it and it stank like rotten eggs...sulphur like smell but somehow different!! Everything took place just 10 minutes ago.. I am still shaking.. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Home - Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31893.html](http://www.nuforc.org/webreports/reports/031/S31893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow-moving diamond-shaped object slowly traverses Southern Buffalo NY sky and winks out.Live North of Buffalo, went outside for a cigarette, looking South. Saw object moving slowly East to West.  Lost it in the trees and it did not reappear in the proper amount of time had its speed been steady.  Continued at slower rate of speed once it reappeared and then stopped (hovering?) for 2+ minutes.  Lights dimmed and winked out in roughly 2-3 seconds.Object appeared as 5 lights; in orientation to me they were top/bottom/left/right/center making a diamond shape. Lights were white with an orange-ish tint.  Orientation did not change as it moved.No aura, no trail, no haze.Sky was completely clear, light pollution was typical but negligible. Took a picture with cellphone camera but it's garbage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114022.html](http://www.nuforc.org/webreports/reports/114/S114022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
