@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:23 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fireball glide across the sky, stop at a certain point and hover for several seconds then fade out and disappear.  This happened 3 separate times.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114011.html](http://www.nuforc.org/webreports/reports/114/S114011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sherman Oaks (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>silent, red lights flying in formation in the night sky.After hearing all the reports I finally saw it for myself, the much talked about group of red orbs flying across the night sky.At approximately 10:25 pm PST on Saturday, September 27, 2014, I was looking south out the window of my apartment, located in Sherman Oaks, CA, as I usually do listening to late night radio.  My window faces the Hollywood Hills.  I am on the second floor and I can look over the rooftops of the building next to me with an unobstructed view of the night sky.Looking out at the night lights and aerial comings and goings I noticed three red lights pop on in the night sky.  They didn’t enter in from one side of the window but rather popped on as if they either just showed up in that location or decided to turn on their lights.  If one was to try to pinpoint the location I would say the lights came on over the San Fernando Valley between Laurel Canyon and Van Nuys Blvd. The lights moved from east to west.The lights were a milky red color glowing color.  Red balls of light as I’ve heard many see through out the United States.  They stayed in a V formation and kept pace with each other with none of them pulling away from or falling behind the others and they all kept the same altitude.  They moved at a brisk pace and there was no sound as one would hear with a helicopter or plane.This lasted for about twenty seconds before it dawned on me what I was seeing.  I moved to a westerly facing window but the tree blocked my view and I did not see them again.Having spent hours looking out this window for many years I know that these were not helicopters as the lights were not those of the numerous helicopters that I have seen at night, nor were they the lights of a low flying place as I could see sky between the red lights.My best guess is that they were about half a mile away from my location and flying maybe 200 to 300 feet off the ground.I have worked in the film industry for over 20 years, mainly in the field of visual effects, and I know of no technological set up that would let one pull this off over a densely populated area and just below the flight paths of Bob Hope and Van Nuys airport.  And to that point, having heard and seen everything from Lear jets to military and commercial aircraft to news and police helicopters I can without a doubt say that what I saw was nothing like anything I’ve seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114045.html](http://www.nuforc.org/webreports/reports/114/S114045.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
