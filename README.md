@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:23 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow-moving diamond-shaped object slowly traverses Southern Buffalo NY sky and winks out.Live North of Buffalo, went outside for a cigarette, looking South. Saw object moving slowly East to West.  Lost it in the trees and it did not reappear in the proper amount of time had its speed been steady.  Continued at slower rate of speed once it reappeared and then stopped (hovering?) for 2+ minutes.  Lights dimmed and winked out in roughly 2-3 seconds.Object appeared as 5 lights; in orientation to me they were top/bottom/left/right/center making a diamond shape. Lights were white with an orange-ish tint.  Orientation did not change as it moved.No aura, no trail, no haze.Sky was completely clear, light pollution was typical but negligible. Took a picture with cellphone camera but it's garbage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114022.html](http://www.nuforc.org/webreports/reports/114/S114022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fireball glide across the sky, stop at a certain point and hover for several seconds then fade out and disappear.  This happened 3 separate times.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114011.html](http://www.nuforc.org/webreports/reports/114/S114011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
