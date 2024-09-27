@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 27 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect the witness may have been observing "twinkling" stars.  PD))There are 5 objects appearing in the sky. The objects do not have a visible shape.  From our perspective, they are all within about a few miles from each other in the SE sky.  The brightest object appears in the SE sky closest to the horizon and cannot be made out with a novice's telescope or binoculars.  It is bright and is blinking the whole spectrum of light, almost like the sun is reflecting light off of something.  They are moving very slowly.  They appear to stay in the same place looking at them with the naked eye, but viewing through a telecope, the position has to be changed like a slow orbiting planet.  We have been viewing them for about an hour now.  Even thought they look like they are hovering over Renton or Tacoma, (Maybe even farther South & East), you can deduce that they are along ways away. Is this some sort of a beacon or satellites that are reflecting light.  I see purple, red, blue, white, orange, etc.  The light is almost blinding looking at it from a telescope.  You cannot tell any kind of shape because the light is too bright.  It looks like a police car hovering in the sky at a great distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31872.html](http://www.nuforc.org/webreports/reports/031/S31872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mayland (TN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two Metal looking triangle objects in plain daylight.My sister in-law was here from Texas and we had walked out on to the back porch to get some fresh air when we both looked up in the sky and saw a these two triangles that were medal looking and no sound just hovering in the sky.  I said what is that and my sister in-law said I don’t know.  We watched them for about 30 minutes and I said I was going to get my husband to see this and when I walked in the house and walked back out they were both gone.  They made no noise and were just there and gone that fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145142.html](http://www.nuforc.org/webreports/reports/145/S145142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
