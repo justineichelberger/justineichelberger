@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bonney Lake (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Objects too large to be drones and too slow and left no trail like rockets.Many large lights seen going up into the sky slowly, different speeds and generally the same direction but not completely.  3 different waves.  Went up until we couldn’t see them any more.  Above the high clouds.  3 of us took videos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149711.html](http://www.nuforc.org/webreports/reports/149/S149711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dartmouth/NewBedford boarder (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My 2 other friends and I were in my driveway Orion's Belt was clear in the sky and we all looked as we were looking something was floatin or flying extremely slow the lights were not like a plane they were all around it it also appeared to look like either round or a saucer shape it was far but visible it was moving from where Orions belt was to across rockdale ave New Bedford ma in sky at a very very slow pace than a plane all 3 of us noticed and then it disappeared ... I always believed there was something out there but Never ever thought id see what I believe my friends and I saw..  I could be wrong it could be a plane but my friends and I even said we never saw a plane that shape and lights around it and to just disappear out of no where?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114080.html](http://www.nuforc.org/webreports/reports/114/S114080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
