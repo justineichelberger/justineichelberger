@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Georgetown (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Captured in photograph in sky between mountains on  Georgetown Loop Train Ride 3  circles in triangle formation with bright centersOn 9/28/2013 between 15:30  and 16:30 pm photographs taken while on the Devils Gate Georgetown Loop Train Ride showed 3 circular disk like objects with very bright round centers in a triangulated formation.This was evidenced in two frames of pictures that were taken High over the roadway between the mountains in day light, clear, bright blue sky with a few clouds.Not discovered until pictures were examined during  photo review on my computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103205.html](http://www.nuforc.org/webreports/reports/103/S103205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Agawam (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I WAS AT MY AUNTS AND LOOKED UP IN THE SKY AND SAW THIS CRAFT HOVER THERE BOUT 2-300FEET UP IN AIR,LIKE TWO PLATES ONE REVERSED WITH DIFFERENT COLLORED LIGHTS IT WAS BEUTIFULL.THEN IT MOVED SLOW AND VANISHED INTO MIDAIR.SOOOOOOOOOOOOOOO FAst,it was reported to chanell 22 news in northampton mass that night a unidentified object was seen in northhampton by a numerous amount of creddible people.((NUFORC Note:  We will request that the witness have other witnesses submit reports.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31549.html](http://www.nuforc.org/webreports/reports/031/S31549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
