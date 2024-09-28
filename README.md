@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Kabetogama (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My 2 friends and I were star gazing in the southern sky,almost straigt above, when we all witnessed that looked like 3 satelites moving together in a arrow shaped formation, they were of the same brightness and size of satelites.  None of us had ever witnessed 2 or more satelites moving together before, which made us all wonder if they were satelites. They seemed to be individual, and not a perfect formation.  The first one in front disappeared after about 12 seconds then the next 2 disappeared a couple seconds later.((NUFORC Note:  We suspect the witnesses observed the three satellites that move in formation, and which are reported to our Center frequently.  They are thought to be three U. S. Navy satellites, which are part of the "N.O.S.S." program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25327.html](http://www.nuforc.org/webreports/reports/025/S25327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eastvale (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing Red Fire ObjectMy boyfriend and I looked out my bedroom window that faced the mountains in Eastvale, CA.  The past two nights we have been seeing a fireball like light object flashing in the sky.  We are currently watching it right now.  We have watched it come and go tonight and last night.  As I am typing this it is still currently in the sky.  We ran out at earlier in the night to get a better view, but by the time we ran outside it disappeared again.  This object is bright red.  It fades in and fades out.  It starts out as a pin sized red dot in the sky and then it grows big.  We watched it flash so bright it grew 10 times the size from the tiny dot and it gets brighter and more red when it has big flashes.  This is the second night that it has appeared in the sky.  There is no sound and it appears to be hovering.  It comes and goes every so often, but remains in the same exact position in the sky.  We were curious of the location of the flashing fire like object, so we! used my iPhone compass.  From my viewpoint in my bedroom the bright red flashing light that changes color is exactly 0 degrees North on my Compass.  Exactly.  It is very strange.  I have witness multiple orange fireballs by my home in the same area, but they normally rise up in the sky one by one and disappear in the horizon after about a minute.  This object just sits in the horizon flashing bight red, but changes size as well.  It looks like a bright red star on earth.  It disappears for an hour or two then reappears for about 20-30 minutes at a time.  As strange as this may sound.  It seems to know we are looking at it.  I wonder if anyone else has reported this object.  I felt the need to write this post considering its the second night in a row it has been hovering near my home.  I see a lot of strange things in the sky here in Eastvale, but I never saw this type of hovering red fir ball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113988.html](http://www.nuforc.org/webreports/reports/113/S113988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
