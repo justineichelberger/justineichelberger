@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Syracuse (20-30 mins away from) (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A mass, grey oddly circular shaped, came twisting out of the clouds for about 5-10 seconds and then receded.My wife and I were driving to Syracuse, NY, and were approximately 9 miles from the Watertown exit on US 81.  Time was 6:09 pm on Sept. 28.  The sky was overcast, with a little sunlight still out.The event was about 5-10 seconds, but it is the most vividly amazing thing I have ever seen. I mass of grey, that seemed circular in shape with irregular edges, literally came out of the clouds.  It seemed unstable or experiencing “turbulence” and was making an almost twisting motion.  The surface texture seemed rough, not smooth, and the craft was obviously experiencing some sore of turbulence.  I took it at first to be some sort of meteor or rock type of thing.  It was almost unreal, honestly.  After taking notice, I alerted my wife and she too witnessed the perceivably large unidentified object twist through the air.  The craft then receded to the clouds, of which we could still see the shadow of faintly.  It then was gone.There were no lights, and the craft of whatever kind had to be huge to be literally inside the clouds. It almost seemed like something out of a movie…I have always been extremely skeptical of these sorts of things.  Yet, this thing was definitely SOMETHING and I have no idea how to explain it.  Not a weather balloon, much to large.  Definitely not a plane, there were no indications of shape or size of the sort.  It was not hurling to the ground, so it wasn’t a meteor or anything of the type and there was no tail.  The way it regained control of itself and receded back in to the clouds and the event of this object moving in the way it did were perhaps the most interesting and odd aspects.  I really don't know what to make of it and my wife doesn't either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122395.html](http://www.nuforc.org/webreports/reports/122/S122395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Winslow (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw a pulsating and hovering bright light in the sky near I-49 at exit 40 to the east and again at exit 45 to the west that had trails of broken light  shooting off to one side of it that disappeared quickly even though the pulsating light remained constantly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159671.html](http://www.nuforc.org/webreports/reports/159/S159671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
