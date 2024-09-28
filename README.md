@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Panama City (beach) (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At first It looked like a drone but it was moving way too fast and there was no sound so I knew it wasn't a drone but it didn't appear to be that high in the air so maybe a jet but again no sound that we could hear.  It went across the sky and vanished into thin air.  Very crazy and scary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149329.html](http://www.nuforc.org/webreports/reports/149/S149329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lincoln (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I observed two boomerang shaped objects in the sky, they both had a orange neon glow and dissapeared in the sky after about 15 sec.UFO Sighting 9/28/19 2130hrs  Last night as I was walking my dog I was looking to the sky and observed a strange object.  I was looking in a Northeast direction.  There appeared on the horizon a large boomerang shape ascending in the sky. It had a neon orange glow and slowly ascended.  Once it rose into the sky another identical object appeared on the horizon, it was several hundred feet behind the first and was traveling along the same path.  I followed both visually until the first one reached straight overhead when it disappeared.  I continued to follow the second object until it reached the point where the first disappeared.  At the same point in the sky this second object disappeared.  There was no sound at any time and they were traveling at about the same speed as an airliner would.  The image below is not of the object but looks very similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149309.html](http://www.nuforc.org/webreports/reports/149/S149309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
