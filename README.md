@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:23 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A disk-like shape hovered around the sky, surrounded by lights.Many lights surrounding disk, flew around for a while.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93264.html](http://www.nuforc.org/webreports/reports/093/S93264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0:5:00 - 0:5:00 minutes.</sub><blockquote><sub>Triangle shaped UFO in the sky over city park in Austin, Tx.We were sitting in city park after ACL. I was talking about the fact that satellites traveling across space can be viewed by the human eye..when. My friend mentioned a triangle passing over head. Within a minute we were all watching a triangle shaped object fly along into the distance and out of sight. I know it was something. It has no lights on it. The only reason we could see it was from the reflecting lights off the city. It looked like a fog..a triangle shaped fog. Silent. I mean we were in a park at night time. The city park has no lights. The place was empty. No noise. 4 friends all saw it.. word.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65958.html](http://www.nuforc.org/webreports/reports/065/S65958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
