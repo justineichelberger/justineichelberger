@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:51 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aloha (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light, orange, red, fast speed.My gf and I were looking at the blood moon, when we saw a Red-Orange light moving from North to South.  The exact altitude was unknown but if I were to guess it was around 5000 ft, travelling the speed of a small plane (not very fast).  The solid light continued a straight path for about 20 seconds.  The light then instantly moved turned 90 degrees to the left, the instantly continued straight, it flickered and shot off at an incredible rate of speed to the South and vanished into the darkness.  No sound what so ever.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122369.html](http://www.nuforc.org/webreports/reports/122/S122369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Intersection of Hwy. 395 and 85 (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>IT was triangle in shape,it was about one mile north of us,it wan about200ft.off the ground.It had 3lights, one on each corner,it made no noes,and moved slower than any thing I have ever seen.This was at 01:00 on 09/28/03 Ive lived out here all my life this is my frist siting. Iam 49 years old</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32075.html](http://www.nuforc.org/webreports/reports/032/S32075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
