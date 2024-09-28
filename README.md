@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:02 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Williams (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright motionless chevron shaped light and two orange orbs.I was driving to a job site during the early morning hours of September 28, 2007.  I was traveling west on California Highway 20 when my attention was drawn to a bright light approximately 45 degrees above the horizon.  The bright light was positioned to the south of my location.  My first thought was the light was the sunlight reflecting off a high flying jet as the sunrise had not yet occured.  However, it soon became apparent the light was not moving.  I then pulled off the road and noted two other cars parked with the occupants of these cars looking toward the light.  The light appeared bright and had the shape of a chevron or "V" shape.  Directly below and to the left of the light(southeast of my position)  were two small orange orbs.  The height of the light and the orbs could not be determined but it was above the broken cloud cover.  I observe the light to remain motionless for approximaely 5 minutes.  It then rotated slighly and exposed a diffused red light on what appeared to be the rear area of the craft.  I continued to observe the light for an additional 5 minutes before leaving.  The two other cars and their occupants had left prior to my departure. I continued to observe the light as I drove towards my job site only loosing site of it when I arrived at the job site.  The surrounding mountains prevented viewing the light from my job site location.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58990.html](http://www.nuforc.org/webreports/reports/058/S58990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Kabetogama (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My 2 friends and I were star gazing in the southern sky,almost straigt above, when we all witnessed that looked like 3 satelites moving together in a arrow shaped formation, they were of the same brightness and size of satelites.  None of us had ever witnessed 2 or more satelites moving together before, which made us all wonder if they were satelites. They seemed to be individual, and not a perfect formation.  The first one in front disappeared after about 12 seconds then the next 2 disappeared a couple seconds later.((NUFORC Note:  We suspect the witnesses observed the three satellites that move in formation, and which are reported to our Center frequently.  They are thought to be three U. S. Navy satellites, which are part of the "N.O.S.S." program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25327.html](http://www.nuforc.org/webreports/reports/025/S25327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
