@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eastvale (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing Red Fire ObjectMy boyfriend and I looked out my bedroom window that faced the mountains in Eastvale, CA.  The past two nights we have been seeing a fireball like light object flashing in the sky.  We are currently watching it right now.  We have watched it come and go tonight and last night.  As I am typing this it is still currently in the sky.  We ran out at earlier in the night to get a better view, but by the time we ran outside it disappeared again.  This object is bright red.  It fades in and fades out.  It starts out as a pin sized red dot in the sky and then it grows big.  We watched it flash so bright it grew 10 times the size from the tiny dot and it gets brighter and more red when it has big flashes.  This is the second night that it has appeared in the sky.  There is no sound and it appears to be hovering.  It comes and goes every so often, but remains in the same exact position in the sky.  We were curious of the location of the flashing fire like object, so we! used my iPhone compass.  From my viewpoint in my bedroom the bright red flashing light that changes color is exactly 0 degrees North on my Compass.  Exactly.  It is very strange.  I have witness multiple orange fireballs by my home in the same area, but they normally rise up in the sky one by one and disappear in the horizon after about a minute.  This object just sits in the horizon flashing bight red, but changes size as well.  It looks like a bright red star on earth.  It disappears for an hour or two then reappears for about 20-30 minutes at a time.  As strange as this may sound.  It seems to know we are looking at it.  I wonder if anyone else has reported this object.  I felt the need to write this post considering its the second night in a row it has been hovering near my home.  I see a lot of strange things in the sky here in Eastvale, but I never saw this type of hovering red fir ball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113988.html](http://www.nuforc.org/webreports/reports/113/S113988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Manchester (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White jet seen disappearing after passing through a trail left by a jet.A white jet plane flying from south to north had just crossed the path of a jet contrail left by a plane flying from the east to the west that continued the flight path from east to west leaving a jet trail from horizon to horizon. The white jet simply disappeared from my view in blue skies just to the north of the jet trail it had just passed through.I was video taping the activity of the jets leaving trails that day because I was so alarmed to see the numerous jet activity in our area and the trails being left by them flying in our area. I replayed the portion of video that the white jet was seen to disappear in blue skies during the taping. I could not determine that it was visible in the video, only a comment made by me on the portion of video it should have been visible. I made a comment about the fact that white jets seem to be involved in this activity that are oddly disappearing from sight in blue skies.I also have 35mm photos of the trails left that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14886.html](http://www.nuforc.org/webreports/reports/014/S14886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
