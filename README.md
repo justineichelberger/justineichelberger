@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Manchester (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White jet seen disappearing after passing through a trail left by a jet.A white jet plane flying from south to north had just crossed the path of a jet contrail left by a plane flying from the east to the west that continued the flight path from east to west leaving a jet trail from horizon to horizon. The white jet simply disappeared from my view in blue skies just to the north of the jet trail it had just passed through.I was video taping the activity of the jets leaving trails that day because I was so alarmed to see the numerous jet activity in our area and the trails being left by them flying in our area. I replayed the portion of video that the white jet was seen to disappear in blue skies during the taping. I could not determine that it was visible in the video, only a comment made by me on the portion of video it should have been visible. I made a comment about the fact that white jets seem to be involved in this activity that are oddly disappearing from sight in blue skies.I also have 35mm photos of the trails left that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14886.html](http://www.nuforc.org/webreports/reports/014/S14886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ocean City (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red and green flashing lights object moved in and out of clouds and stopped then just green lights flashed. object moved around and both red and green lights flashed. it stopped and then left. tried to capture it on camera and it did not appear in picture.  it was as high high up as a plane would be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114032.html](http://www.nuforc.org/webreports/reports/114/S114032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
