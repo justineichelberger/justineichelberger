@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:51 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Intersection of Hwy. 395 and 85 (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>IT was triangle in shape,it was about one mile north of us,it wan about200ft.off the ground.It had 3lights, one on each corner,it made no noes,and moved slower than any thing I have ever seen.This was at 01:00 on 09/28/03 Ive lived out here all my life this is my frist siting. Iam 49 years old</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32075.html](http://www.nuforc.org/webreports/reports/032/S32075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Georgetown (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Captured in photograph in sky between mountains on  Georgetown Loop Train Ride 3  circles in triangle formation with bright centersOn 9/28/2013 between 15:30  and 16:30 pm photographs taken while on the Devils Gate Georgetown Loop Train Ride showed 3 circular disk like objects with very bright round centers in a triangulated formation.This was evidenced in two frames of pictures that were taken High over the roadway between the mountains in day light, clear, bright blue sky with a few clouds.Not discovered until pictures were examined during  photo review on my computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103205.html](http://www.nuforc.org/webreports/reports/103/S103205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
