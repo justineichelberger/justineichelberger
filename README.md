@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 28 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lincoln (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I observed two boomerang shaped objects in the sky, they both had a orange neon glow and dissapeared in the sky after about 15 sec.UFO Sighting 9/28/19 2130hrs  Last night as I was walking my dog I was looking to the sky and observed a strange object.  I was looking in a Northeast direction.  There appeared on the horizon a large boomerang shape ascending in the sky. It had a neon orange glow and slowly ascended.  Once it rose into the sky another identical object appeared on the horizon, it was several hundred feet behind the first and was traveling along the same path.  I followed both visually until the first one reached straight overhead when it disappeared.  I continued to follow the second object until it reached the point where the first disappeared.  At the same point in the sky this second object disappeared.  There was no sound at any time and they were traveling at about the same speed as an airliner would.  The image below is not of the object but looks very similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149309.html](http://www.nuforc.org/webreports/reports/149/S149309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Syracuse (20-30 mins away from) (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A mass, grey oddly circular shaped, came twisting out of the clouds for about 5-10 seconds and then receded.My wife and I were driving to Syracuse, NY, and were approximately 9 miles from the Watertown exit on US 81.  Time was 6:09 pm on Sept. 28.  The sky was overcast, with a little sunlight still out.The event was about 5-10 seconds, but it is the most vividly amazing thing I have ever seen. I mass of grey, that seemed circular in shape with irregular edges, literally came out of the clouds.  It seemed unstable or experiencing “turbulence” and was making an almost twisting motion.  The surface texture seemed rough, not smooth, and the craft was obviously experiencing some sore of turbulence.  I took it at first to be some sort of meteor or rock type of thing.  It was almost unreal, honestly.  After taking notice, I alerted my wife and she too witnessed the perceivably large unidentified object twist through the air.  The craft then receded to the clouds, of which we could still see the shadow of faintly.  It then was gone.There were no lights, and the craft of whatever kind had to be huge to be literally inside the clouds. It almost seemed like something out of a movie…I have always been extremely skeptical of these sorts of things.  Yet, this thing was definitely SOMETHING and I have no idea how to explain it.  Not a weather balloon, much to large.  Definitely not a plane, there were no indications of shape or size of the sort.  It was not hurling to the ground, so it wasn’t a meteor or anything of the type and there was no tail.  The way it regained control of itself and receded back in to the clouds and the event of this object moving in the way it did were perhaps the most interesting and odd aspects.  I really don't know what to make of it and my wife doesn't either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122395.html](http://www.nuforc.org/webreports/reports/122/S122395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
