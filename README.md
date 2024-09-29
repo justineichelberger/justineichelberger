@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Smyrna (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle craft with 3 bright lightsTraveling on Rt 300 toward Kenton. Noticed in distance where the electrical conduit at the end of Bryn-Zion Rd, on Underwoods Rd there was bright light. Thought that was strange I never noticed the electrical tower had lights before. As I drove about 30 seconds, noticed lights coming closer. Thought that it was flying very low for airplane. It was traveling slower than plane, almost hovering it moved so slow for an airplane. Only the speed of a car. It was the size of a plane with two big very bright lights in front, one in back, so gave appearance of being triangle, but even as it intersected and flew over me on route 300, I could see no details of the actual craft. Even though it was so low, that had it been flying toward me, rather than cross ways, I think the passengers could have seen right in my car. I actually ducked in my car as it flew over, as a reflex. I had no radio on and my driver's side window was slightly down and still I heard no noise. The lights were very bright but not searching, they were straight like headlights on each end of the front of the craft. It flew right over top of me and continued on over field in direction of Air Base. There we 2 cars behind me in the distance, maybe 2 miles. So I know they would have seen this low flying aircraft. It would have caught their attention if for no other reason than it was flying extremely low.((NUFORC Note:  The witness holds a position of considerable responsibility, and we presume that the party is a quite credible source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25389.html](http://www.nuforc.org/webreports/reports/025/S25389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lombard (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation of lights hovering very low with no noise, one after another, for several minutes.Several objects flying East to west, about a block south of the Great Western Trail.  Perfect formation aprox. 30 seconds, to 1 minute apart.  Very low, several lights, all exactly the same.  No noise could be heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122451.html](http://www.nuforc.org/webreports/reports/122/S122451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
