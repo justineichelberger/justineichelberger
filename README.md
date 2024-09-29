@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 objects flying South at high speed over the Seattle areaOutside on Wednesday evening, September 29th at about 8:45pm. I was facing South, looking up at a clear sky when a object with 3 lights flew overhead at high velocity.The object was gone from sight north to south in about 5 seconds. Unable to determine size or height.The 3 light were angled high left or East to low right or West. A second object, bigger with 10 or so faint lights, followed the same route at a slow pace a few minutes later. The light pattern was front, left side and back of the object from my view, and the object moved the above me North to South in about 8 seconds. No sound was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78086.html](http://www.nuforc.org/webreports/reports/078/S78086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Carpinteria (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Circle of lights in the sky over Carpinteria CAWent to take out the dog. It was a series of white lights that formed a circle. It seemed that there were smaller red lights in between. The lights were twinkling. I don't know just how long it was hovering there, but we watched at least 10-15 minutes.  It was very high up and looked about the size of a nickel. We are both fifth generation natives of this area and have never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46641.html](http://www.nuforc.org/webreports/reports/046/S46641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
