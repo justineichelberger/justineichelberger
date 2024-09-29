@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 objects flying South at high speed over the Seattle areaOutside on Wednesday evening, September 29th at about 8:45pm. I was facing South, looking up at a clear sky when a object with 3 lights flew overhead at high velocity.The object was gone from sight north to south in about 5 seconds. Unable to determine size or height.The 3 light were angled high left or East to low right or West. A second object, bigger with 10 or so faint lights, followed the same route at a slow pace a few minutes later. The light pattern was front, left side and back of the object from my view, and the object moved the above me North to South in about 8 seconds. No sound was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78086.html](http://www.nuforc.org/webreports/reports/078/S78086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 1:45 - 1:45 minutes.</sub><blockquote><sub>The undidentified object materialized to the northeast of our position at approximately 22:14 PM Mountain Time.I began recording the object at 22:15 Pm.  The object moved rapidly from its Northern position, to a position to the south.  The craft hovered in place for about 3 to four seconds, before rapidly returning to its previous location to the north.Once again the craft stopped for roughly 2 seconds, it emitted green and blue lights.A purple flash was visible each time the craft rapidly changed position (Possibly Plasma)  Could not be ruled out as a light source since we only witnessed it when the craft would move.The object than rapidly shot to the south.In the video, you can see it disappear behind my chimney, and then reappear it rapidly moved to the south and stopped again.The craft than began lowering towards the ground.I lost visual from behind my home, so I ran through my home into the drive way to see if i could capture it again.The yellow lights are nothing but street and porch lights, but for a brief period, the craft is seen once again at a different altitude heading back to the North, once again emitting what looks to me like bursts of Plasma.It disappeared,  Failed to capture anymore footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136580.html](http://www.nuforc.org/webreports/reports/136/S136580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
