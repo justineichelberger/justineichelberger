@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:38 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:11 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Somers (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Bright, Red, Illuminated sky, at 3:30 amI've lived here 33 years, i now the landscape, i've reported odd military drills before, I've reported fireballs and shooting stars different astronomy groups before.  This i've never seen before.  I'm, used to second and third shift life style so i'm always up late in the night, but this, no, never seen it before.Beyond the trees, in the direction of Hampden, Mass., directly north of us, and emanating from the sky, not the ground, the sky is an reddish orange color, and emanating enough light, for me to see the silhouette of the trees, while the moon, is behind us high in the sky with a blueish tint.I will enclose 3 pictures from an iphone 5, 2 in the backyard, and one from the front of the house, with porch lights, and house lights on, and yet this red light is seen behind the house, causing a silhouette of the house.I live in the woods, we never have light pollution like this there is no city in that direction, it's nothing but small towns, and woods in that direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143311.html](http://www.nuforc.org/webreports/reports/143/S143311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harrogate (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Glowing disc on the 29th and then on gosh since the first I've experienced multiple sightings of glowing orbs of light that change colors to red and green and white I believe I have the videos this has been going on for the past few nights but it's still going on.((NUFORC Note:  Possibly stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136587.html](http://www.nuforc.org/webreports/reports/136/S136587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
