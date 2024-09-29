@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dimly lighted chevron object moving quickly over NW Reno.The object was seen over the NW horizon from North of Reno.  It was a delta or chevron shaped object. At first I thought it was a dimly lit flock of geese...then relaized it was moving extremely fast and actually had very dim lights. I am outside a lot between 0345-0410 PDT for my job and this was by the far the weirdest thing I've ever seen.  It wasn't bright, but appeared close, and made no sound.  I just happened to catch it because I was watching the weather balloon I had just launched.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46590.html](http://www.nuforc.org/webreports/reports/046/S46590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 118</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159958.html](http://www.nuforc.org/webreports/reports/159/S159958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
