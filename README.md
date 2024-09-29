@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>North of Ocean City Md on 9/29/05 white blinking light moved quickly north then returned and left againWe (3) thought we were looking at a planet but it took off in a northeast direction after 20 minutes of viewing through binoculars. After and hour it came back and stayed 5 minutes then left again very quickly. I am at 39.37 and 75.08 and it was east and north of me - over the ocean?? Very high (maybe like Polaris) and too far away to see clearly.  White blinking light in a round shape without binoculars and white blinking with red, some blue blinking light with binoculars.  If it had not left that spot it would not have been unusual. Then to return and leave again definitely got our interest.  Just before sunset, two Air Force fighter jets flew very low over our area following the coastline.  Not unusal because Dover AFB is an hour North of here but unusual that they were so low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46631.html](http://www.nuforc.org/webreports/reports/046/S46631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Smyrna (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle craft with 3 bright lightsTraveling on Rt 300 toward Kenton. Noticed in distance where the electrical conduit at the end of Bryn-Zion Rd, on Underwoods Rd there was bright light. Thought that was strange I never noticed the electrical tower had lights before. As I drove about 30 seconds, noticed lights coming closer. Thought that it was flying very low for airplane. It was traveling slower than plane, almost hovering it moved so slow for an airplane. Only the speed of a car. It was the size of a plane with two big very bright lights in front, one in back, so gave appearance of being triangle, but even as it intersected and flew over me on route 300, I could see no details of the actual craft. Even though it was so low, that had it been flying toward me, rather than cross ways, I think the passengers could have seen right in my car. I actually ducked in my car as it flew over, as a reflex. I had no radio on and my driver's side window was slightly down and still I heard no noise. The lights were very bright but not searching, they were straight like headlights on each end of the front of the craft. It flew right over top of me and continued on over field in direction of Air Base. There we 2 cars behind me in the distance, maybe 2 miles. So I know they would have seen this low flying aircraft. It would have caught their attention if for no other reason than it was flying extremely low.((NUFORC Note:  The witness holds a position of considerable responsibility, and we presume that the party is a quite credible source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25389.html](http://www.nuforc.org/webreports/reports/025/S25389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
