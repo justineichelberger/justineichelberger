@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Was looking towards the Orion belt night sky and saw flashing lights.  I thought no big deal an airplane but no the flashing light did no move in one direction it was in multiple places at each flash or blink impossible I thought.. northeast sky were the flashing lights.  The Orion belt was in southeast sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130326.html](http://www.nuforc.org/webreports/reports/130/S130326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw dancing metallic balls high in the sky over the Mall that moved unlike any plane I've EVER seen before.I was lying on my back on the Mall right across the street from the Washington Memorial (my feet were facing the Capitol Building).  I was staring up at the sky (there were no clouds today) and noticed what I first thought was an airplane (because it was metallic and reflecting light) that was flying so high it looked like a little ball.  It was moving in a straight line, much like an airplane would.  Then, I noticed another one, same size, same description, but flying towards the first object.  I thought maybe they were planes flying at different altitudes, because it looked as though they were going to have a head-on collision.  I became anxious as I thought I was going to watch a plane wreck mid-air, but just as they were going to hit, they VERY QUICKLY (much faster than an airplane ever could) spun off in opposite circular directions.  They danced around each other in circles, occasionally disappearing then reappearing.  The most I saw at one time were 4.  Then, and actual airplane passed through my area of vision (flying much lower than the objects) and as it did, the objects disappeared totally.  After the plane had been gone for about a minute, one reappeared and continued to dance around, and another appeared.  Sometimes there were two, and sometimes one.  During the course of this, I stood up to observe, and sat down, and laid back down, just to make sure I wasn't contorting my body in a way that was effecting my vision.  But, these objects were clearly in focus, not just light spots created by poor sight.  Finally, I decided I had seen enough and wanted to leave.  I'm not one to make up stories (as most people probably say), and though I believe there is something out there, I NEVER thought I'd ever see anything like this.  There was no other explanation for what I saw today.  About two minutes after I left, I developed a very bad inner ear ache that lasted about a half hour...may be unrelated, but just thought I'd mention it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14332.html](http://www.nuforc.org/webreports/reports/014/S14332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
