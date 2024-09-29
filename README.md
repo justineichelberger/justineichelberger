@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:42 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Kalama (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>It was pitch dark when I pulled into the fishing spot next to the Kalama River in Washington State.  I had showed up to early for fishing, so I sat in the car drinking coffee waiting for daylight.  A light coming throughout the trees caught my attention toward the road.  It was a bright disk shaped light, it made no sound.  The edges were sharp and clear. It was moving slowly down the road about 60 feet above the road and stopped.  Then a car came and when the car was directly under the light the dish shape followed the car at the same speed but drop down as it moved at about 45 degree angle.  Then it would stop and moved back to its original position.  When the next car came it did the same thing.  It moved quickly and in sharp moves and did not hover.  After the last move it stop and started moving toward me slowly.  The size was twice  bigger then a car  at this point I had my window down and I almost started the car and leave but as it got closer it stopped.  At that point it moved up and away at 60 degree movement and stop again. It moved in quick small circular movements and stop and moved higher again then would stop and do quick small circular movements at this time it was becoming smaller like a small dot in the sky.  Till this day no one believes me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118220.html](http://www.nuforc.org/webreports/reports/118/S118220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A series of 10 lights moving across the sky in a straight lineI was standing on my balcony.  It was still dark.  I saw a large, straight line of about 10 lights moving quickly and soundlessly across the northern sky.  The formation formed a perfect horizontal line, and as it continued to move, the line of lights changed formation into a horseshoe shape and I lost sight of it as it passed behind my building. I heard absolutely no sound as this happened and the lights were yellow-white like a light bulb. I was not able to see if the lights were part of one object or independent of each other</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04471.html](http://www.nuforc.org/webreports/reports/004/S04471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
