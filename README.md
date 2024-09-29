@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bellevue (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>saw perfectly sphered shaped white object tracking very visibly across slowly accross the skyWe were looking up at the sky and saw a sphere shaped form tracking a pattern such as an airplain would take.  Moved slowly.  Perfectly formed.  Not moving fast.  Very visible.  Unlike anything I ever saw.  We just watched it track across the sky.  It felt very weird watching this as it was something I couldn't explain.  It was white in color, not silver or what I would ever think a UFO would look like.  It definitely was not a cloud.  Too perfectly formed and against a blue sky and in too much of a perfect pattern.  Then it just disappeared from sight. It didn't go behind a cloud, it just disappeared.  I felt I had to say something as it still leaves me with a strange feeling.  Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84231.html](http://www.nuforc.org/webreports/reports/084/S84231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haverhill (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Frequent sightings in same area nightly!I live at one of the highest points in haverhill and every night since August 2013 myself and my husband as well as our kids have witnessed 2 fireballs.  Everynight there are 2-20 blinking round objects that are red, white and some have blue.  They hover in one place and then some will slowly move in a northern direction some disappear in the tree lines.  2 days ago I started seeing a boomerang shaped object that is bright white lit appear during daylight around 6pm yesterday 2 appeared.one above the other then one just disappeared.  I've captured this on video as well as tsome of the nightly sightings.  I tell my kids they are drones so they don't get scared.  It's so weird to know every evening to night you will see strange objects and fireballs.  I should also mention that we have an airport southwest of our house so u can totally tell when it's an aircraft.  These objects in no way shape or form are aviation of human kind,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102809.html](http://www.nuforc.org/webreports/reports/102/S102809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
