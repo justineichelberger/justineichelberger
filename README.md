@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dewey Beach (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very largeTriangle shaped silent craft moving off of the ocean over our heads with lights at each cornerMy husband and I had left a concert which our daughter had performed at a local Restaurant for the State Music Conference in Dewey Beach Delaware.  We were one block from the beach and although cold and damp and very dark we decided to walk to the beach to look at the ocean and stars before our two hour trip back to Wilmington.As we were enjoying the sounds of the waves and looking up to the stars on a very clear evening we were startled by an immense triangle shaped craft moving in our direction off of the ocean moving east to west at a moderate speed. The flat platform type craft moved directly over our heads and we stood in complete amazement.  There was absolutely no sound coming from above and a pin point light was at the tips of each corner. The size of the Dark craft blocked out the stars on a very large scale.  The craft seemed very large but as we were watching we couldn't determine how high off the ground it was.  We watched the mysterious craft continue on over the small city and disapear in the distance.  We discussed our experience and due to the fact that we were one hour south of Dover Air Force Base and in the middle of a war we reluctantly decided that it was some sort of very large experimental aircraft. We researched what we saw to some extent and have never been able to get the image out of our minds.  Then this evening while watching the special put forth by ABC news we realized that so many others have seen this same unexplainable craft across the country. My husband and I are family oriented people who live clean and healthy lives.We know what we saw and would like to find out if any one else in our area saw the same that evening??((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42233.html](http://www.nuforc.org/webreports/reports/042/S42233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cherry Spring (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>light crosses sky in 4-5 secondsWe were observing the night sky at Cherry Springs Park, an official dark skies astronomy state park.  We observed many satellites that night.  However, we saw a light, whose size and appearance resembled a satellite.  It was a tiny speck going across the sky, about 40 degrees up.  The strange part is that I have NEVER seen a satellite cross the sky as fast as this did.  It crossed the entire sky in a matter of 4 to 5 seconds from north to south.  I have seen meteors, satellites, the space station.  Again, I have never seen anything cross the sky so fast. Wondering what it could have been...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59022.html](http://www.nuforc.org/webreports/reports/059/S59022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
