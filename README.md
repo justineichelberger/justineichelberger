@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:49 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brookfield (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Star like object seen during daylight hours... Moving south.I was lying in the grass within my backyard, peering into the clear blue sky at 5:00pm CST.  I haven't done this recently, however I've decided to live through my twin toddlers eyes lately.  The Sun was obviously still up...  And I was mesmerized by a tiny jet leaving its line in the sky (40-50k ft most likely).   The jet happened to pass what appeared to be a star... Bright star at that... Directly above me in the sky.   I looked away, rubbed my eyes, and looked again.  It took only a moment to find it again.   Not moving at all too.  I know it wasn't moving because I raised my arm and pointed at it... Stationary on the ground.  It didn't move ... Then it drifted straight south... At about the speed of that airliner.  I've seen satellites at night... But never during this bright daylight hour.   Anybody experience anything like this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93171.html](http://www.nuforc.org/webreports/reports/093/S93171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>North of Ocean City Md on 9/29/05 white blinking light moved quickly north then returned and left againWe (3) thought we were looking at a planet but it took off in a northeast direction after 20 minutes of viewing through binoculars. After and hour it came back and stayed 5 minutes then left again very quickly. I am at 39.37 and 75.08 and it was east and north of me - over the ocean?? Very high (maybe like Polaris) and too far away to see clearly.  White blinking light in a round shape without binoculars and white blinking with red, some blue blinking light with binoculars.  If it had not left that spot it would not have been unusual. Then to return and leave again definitely got our interest.  Just before sunset, two Air Force fighter jets flew very low over our area following the coastline.  Not unusal because Dover AFB is an hour North of here but unusual that they were so low.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46631.html](http://www.nuforc.org/webreports/reports/046/S46631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
