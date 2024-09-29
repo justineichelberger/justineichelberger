@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:11 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 29 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harrogate (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Glowing disc on the 29th and then on gosh since the first I've experienced multiple sightings of glowing orbs of light that change colors to red and green and white I believe I have the videos this has been going on for the past few nights but it's still going on.((NUFORC Note:  Possibly stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136587.html](http://www.nuforc.org/webreports/reports/136/S136587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Logan (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>As we were walking from our RV to the house I noticed a bright light. I thought it was a shooting star at first, as it was a perfect fall night for watching the stars.  Then it registered there was no tail behind it, and not a cloud in sight.I then noticed that it was moving away from us and there was no beam off the light. The light then started moving in a zig zag motion.  We sat there watching it and it had stopped moving and just sat there.  Then it was gone.It didn't fade off into the distance as an air plane would.  It didn't move towards the ground as a helicopter.  It just simply was gone.  A light 5 times as bright as any star around it, just gone.We sat there and discussed it, as we waited for it to appear.  We then started pointing out 3 planes coming to us from the direction it disappeared.  We were baffled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130331.html](http://www.nuforc.org/webreports/reports/130/S130331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
