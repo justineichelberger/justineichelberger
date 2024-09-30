@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large white bright light moving left to right and looked like it was coming down as if it was going to land.  Then stood still in the sky.  No noise or motor sounds.  This is the 2nd time I have seen this but the first was in July but it was further away.  Was much closer this time.  So close that I thought it see me & I ran back in my apt.  Scared me, as I was leaving for work...no one around...went back out after 10-15minutes and it was gone.  Kept saying what the hell is that?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122441.html](http://www.nuforc.org/webreports/reports/122/S122441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circular round lights the color of a flame moving in the sky above Delray Beach, FL mid-night 12/29/12We were leaving the movie theater in Delray Beach, Florida along U.S. highway 1 around mid-night on Sat. Sept. 29, 2012 when we notice a number of people in the parking lot looking up at the night sky and some were apparently attempting to video what the saw on their phone cameras.  When I looked up with my son, I could see about 6 small (although apparently distant) light orange (color of a lighter flame maybe slightly darker) colored round or sperical objects at an attitude of about 10-11 o'clock looking West to East.  As there were Royal palm trees in the parking lot as well as light inh my vision was a time obstructed although I could hear other people saying the saw as many as eight or more lights.  Personally,  I only could see at most six lights at one point and at times as few as only two as the others were obstructed by palms, etc.  They did not move together in any sort of pattern but appeared rather to move in all different seemingly random directions! ...sometimes fast and at other times slow...sometimes closer together and at other times moving away from each other.  Saw a group of two at one point move off together but then split in radically different directions.  Considered maybe they could be jet afterburners at first (seen at a distance) but the irratic movement, time of night, and the more orange color just didn't seem to fit.  Objects appeared small but distant so I do not believe any accurate estimate of actual size can be given. As to speed...well that would depend on size and distance which I could not attempt to estimate but I would guess it was faster than a one engine plane at all times.  As our viewing locating was less than one mile from the Atlantic Ocean coast, the objects could have been traveling immediately above the coastline, in general. Due to the late hour, my son and I left the scene and when into Appleby's Restaurant so we did not spend more than five minutes viewing the event.  As far as I know! , the event continued as the objects were not moving in any on! e direct ion at any constant speed...other spectators continued to watch.  Did not see anything in the news or in response to internet search, so I decided to post and see if it would act as a catalyst for other people to report the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93197.html](http://www.nuforc.org/webreports/reports/093/S93197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
