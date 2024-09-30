@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:55 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Glowing oreo cookie shaped disc like object witnessed moving quickly and silently across the night sky.At approx. 9:45 PM on 09/30/2020 I witnessed a bright illuminated object with a greenish tint move rapidly and silently from the South to the North in a straight line across a portion of the night sky over Rutland, Vermont.  The object appeared to have a distinct shape and hard edges, appeared to be like two glowing hockey puck shaped discs stacked one on top of the other and moving in tandem.  I could not determine if the upper and lower structures of the object were connected but it moved as one solid object.The object did not have the running lights of an aircraft and moved much quicker than I am accustomed to seeing conventional aircraft move across the sky at low or high altitudes.  It did not leave any kind of glowing or fiery trail in it’s wake.  It did not appear to be falling from the sky.  It moved horizontally and in complete silence.  I cannot judge distance or altitude and only had the object in my field of view for a few seconds.  Comparatively speaking, from my vantage point, the object appeared to be about 25% the size of the full moon and much bigger than any of the visible planets or stars that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159685.html](http://www.nuforc.org/webreports/reports/159/S159685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tyre (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Cirgar shaped object seen from car.I was driving down the street, and saw this cigar shaped object, white with a black stripe in the middle. I thought it might just be an airplane, with the wings casting the shadow on the middle of it, but I watched it while I drove for a few more seconds and it didn't change.  I pulled off the side of the road, and took two pictures with my phone, I looked back after taking the second and it was gone.  I assumed I would report it here and you guys would know if it was a plane like I originally thought or not.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84283.html](http://www.nuforc.org/webreports/reports/084/S84283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
