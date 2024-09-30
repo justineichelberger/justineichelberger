@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:54 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two bright star like objects wink out over Los Angeles.Two white star like objects high in the night sky to the North-North-East. These two objects were stationary and about 1 arc degree apart from each other (about the width of your index finger if you hold your hand out as far as you can), the top one being as bright as Jupiter in magnitude and the bottom one being only slightly dimmer. I knew they were not stars as I am familiar with the night sky and thought maybe they were high flying stationary helicopters as they can sometimes look like a single white light until they move, however, instead of moving, they simply winked out. I knew they weren’t satellites because satellites move should they catch the sun’s rays in low earth orbit just after dark. As I was fishing for my phone to take a photo is when I watched them wink out. The bottom one winked out half a second before the top one. I checked the news and Google today for any sightings or explanations, maybe SpaceX? But nothing. Very odd indeed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164693.html](http://www.nuforc.org/webreports/reports/164/S164693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miami Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Boomerang shaped silent fast moving object in miami beach.As I was watching the night sky at the beach, I noticed a a silent boomerang shaped flying object flying from north to south.  If Im correct, I would say it had about 8 or 9 dim lights on the bottom.  I saw it for about 5 seconds and then disappeared.  I saw it 2 more times within a 20 minute range in the same manner.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84405.html](http://www.nuforc.org/webreports/reports/084/S84405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
