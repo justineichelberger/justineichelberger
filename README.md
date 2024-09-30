@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light inside Lake Mononamy girlfriend and i (we're now married) were walking by Lake Monona one evening when we saw a light in the lake, under the surface of the water but pretty close to shore. At first, i thought maybe it was scuba divers or something, but it was just sitting there, not like someone was swimming around. It seemed strange, and everything around us seemed still, no other people around. After watching it and wondering aloud to each other about what the light could be, it just blinked out or something and was gone. We looked around a bit but never saw anybody climb out of the water or anything, and eventually got back in our car and left. My wife says she has never seen anything weird like this before or since. It kind of spooked her... and later, her youngest sister (aorund 20 yrs. old) told us she'd had a dream about my wife and i walking by some water somewhere and there was a ufo involved somehow, which adds an extra wrinkle to the story i reckon.((NUFORC Note:  Date may be approximate.  One of three reports submitted by same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35070.html](http://www.nuforc.org/webreports/reports/035/S35070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large white bright light moving left to right and looked like it was coming down as if it was going to land.  Then stood still in the sky.  No noise or motor sounds.  This is the 2nd time I have seen this but the first was in July but it was further away.  Was much closer this time.  So close that I thought it see me & I ran back in my apt.  Scared me, as I was leaving for work...no one around...went back out after 10-15minutes and it was gone.  Kept saying what the hell is that?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122441.html](http://www.nuforc.org/webreports/reports/122/S122441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
