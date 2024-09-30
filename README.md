@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:18 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball seen in sky over SE Reno.Yesterday evening I was heading home. I'd say it was about 6:45 pm, just starting to get dark. I had my 5 year old son in the truck with me. Up in the southeast sky we saw a red fireball falling from the sky. It looked like it was going down right behind Rattlesnake Mountain (for those of you who are familiar with the Reno area.) It looked a lot like a shooting star, the way it moved, with sort of a trailing tail behind it. But it was red. If I were to hold a coin out at arm's length, it would take a silver dollar to completely block the view of the object.  Just to give an idea of the size. As for a little background on me, I am in my early thirties and I don't have much interest in UFOs at all. My wife told me I should report this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46668.html](http://www.nuforc.org/webreports/reports/046/S46668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Running Springs (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large Fireball seen in the sky moving from west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19701.html](http://www.nuforc.org/webreports/reports/019/S19701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
