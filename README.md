@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lakeland (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Straight light 60 foot long witness two police2 police officers witnesses a long steady light above the police department. No noise slowly went across sky in a straight line before shrinking and dimming behind a tree.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164700.html](http://www.nuforc.org/webreports/reports/164/S164700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Jose/Gilroy/Salinas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange glowing lights scattered by appx 6 miles apart  seemed to hover and then disappear and reappearwe were traveling south on 101 as I noticed a few scattered strange lights. The color and glow of the lights were odd.I watched them thinking they were just planes. but the longer I watched the stanger they seemed.  They didn't seem to move in a constant path and the light were red and orange but not like any plane light I have ever seen.  They seemed to disappear only to reappear in a different spot.  I was trying to figure out what the hell they were. as we traveled farther down about ten min I saw another light to the west and then I really started trippin, at the same time my friend mentioned that she to had seen the strange lights up the road but didn,t say anything as well.  We then saw another to the east and noticed the car next to us pointing to the sky as if they to were seeing the same thing. the first thing that came to mind because of the recent world events was that they were military crafts or that we were being invaded I know it sounds funny but they were that strange, and my friend and I are MAJOR skeptics I really got scared because it seemed 2 more were coming from the east. They had some strange red cross like lights on the bottom not all of them but at least 3. We were traveling and could no longer see them but as we reached salinas about 7 or 8 miles down or more I saw another to the east which then disappeared and then reappeared to the west of me and it had the strange red lights to. I don't know what they were but they were very strange and scared me to death I'm very curious to know if anyone else witnessed these strange lights?((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19811.html](http://www.nuforc.org/webreports/reports/019/S19811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
