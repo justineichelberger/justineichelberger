@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:13:29 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:28 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ladysmith (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>I was exiting Bruce, WI, when I noticed what looked like a meteorite falling to earth.  But, I had saw this same exact thing a little over a month ago also in same area.  It always looks like smoke from a jet, but it doesn't dissipate, it just moves along in a strange manner.  One second its in front of you, a few seconds later, it is behind you. I did gets pics of it on my phone, and this time, I told 2 other people at a convienance store to step out and look.  They saw 2 objects as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122464.html](http://www.nuforc.org/webreports/reports/122/S122464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Paragould (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>flickering blue, green, clear lights in sky with red strobe lightsI was sitting on front porch when I thought I spotted an airplane.  After periodically looking up into Easter sky I realized that the lights were sitting idle in sky and not moving.  I pointed it out to my wife and went and got my binoculars.  Through the binoculars it appears to have a green light, and blue light and some clear lights with a red strobe light.  I called my father in law that witnessed the same with his wife.  I text a co worker who said he went outside and witnessed.  After 20 minutes or so, a second light source appeared and another.  My in laws and I witnessed several airplanes fly in vicinity of lights.  Once planes got near the red strobe lights would stop until planes were past.  Over time the lights would rise in altitude and shift south.  Again I saw what I first thought was a plane coming from the south, but moving really fast.  It passed behind a tree and never flew from other side of tree.  When looking for it to come out from behind tree I noticed it was not a plane but another one of these lights sitting now at edge of tree.  We noticed a total of 8 of these lights in Easter sky.  Some higher altitude than planes flying through and some lower.  I witnessed this for 3 hours before going to bed.looking through binoculars, I saw a white flash across sky at about midnight.  My father in law witnessed similar flash between 10:30and 11 pm.  This was on 9/30.On Oct. 8, I stepped out on porch and noticed one light in Easter sky and alerted my wife to come witness it.On Oct. 9 I stepped out on porch after company left at 2am.  I spotted 8 of these lights in Easter sky, one in northern sky, one in northeastern sky, one directly over my house towards the west, and one in southern sky.  The southern most light on eastern sky was the lowest and closest of any we have seen.  It was much over the tree tops and very bright.  A called my in laws and they went out with binoculars to witness.  My father in law reported seeing a bright flash across sky in direction of the brightest light.  I witnessed for about an you before going to bed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122672.html](http://www.nuforc.org/webreports/reports/122/S122672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
