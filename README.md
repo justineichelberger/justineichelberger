@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:55 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Jose/Gilroy/Salinas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange glowing lights scattered by appx 6 miles apart  seemed to hover and then disappear and reappearwe were traveling south on 101 as I noticed a few scattered strange lights. The color and glow of the lights were odd.I watched them thinking they were just planes. but the longer I watched the stanger they seemed.  They didn't seem to move in a constant path and the light were red and orange but not like any plane light I have ever seen.  They seemed to disappear only to reappear in a different spot.  I was trying to figure out what the hell they were. as we traveled farther down about ten min I saw another light to the west and then I really started trippin, at the same time my friend mentioned that she to had seen the strange lights up the road but didn,t say anything as well.  We then saw another to the east and noticed the car next to us pointing to the sky as if they to were seeing the same thing. the first thing that came to mind because of the recent world events was that they were military crafts or that we were being invaded I know it sounds funny but they were that strange, and my friend and I are MAJOR skeptics I really got scared because it seemed 2 more were coming from the east. They had some strange red cross like lights on the bottom not all of them but at least 3. We were traveling and could no longer see them but as we reached salinas about 7 or 8 miles down or more I saw another to the east which then disappeared and then reappeared to the west of me and it had the strange red lights to. I don't know what they were but they were very strange and scared me to death I'm very curious to know if anyone else witnessed these strange lights?((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19811.html](http://www.nuforc.org/webreports/reports/019/S19811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Glowing oreo cookie shaped disc like object witnessed moving quickly and silently across the night sky.At approx. 9:45 PM on 09/30/2020 I witnessed a bright illuminated object with a greenish tint move rapidly and silently from the South to the North in a straight line across a portion of the night sky over Rutland, Vermont.  The object appeared to have a distinct shape and hard edges, appeared to be like two glowing hockey puck shaped discs stacked one on top of the other and moving in tandem.  I could not determine if the upper and lower structures of the object were connected but it moved as one solid object.The object did not have the running lights of an aircraft and moved much quicker than I am accustomed to seeing conventional aircraft move across the sky at low or high altitudes.  It did not leave any kind of glowing or fiery trail in it’s wake.  It did not appear to be falling from the sky.  It moved horizontally and in complete silence.  I cannot judge distance or altitude and only had the object in my field of view for a few seconds.  Comparatively speaking, from my vantage point, the object appeared to be about 25% the size of the full moon and much bigger than any of the visible planets or stars that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159685.html](http://www.nuforc.org/webreports/reports/159/S159685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
