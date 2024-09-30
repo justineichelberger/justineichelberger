@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Euclid (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Round, red, green, bright white objectI am telling this to you after a friend told my husband and I what he saw.  He is still in shock.  The most important factor is that he has this on video camera.  We have seen the event and it is real.  Our friend was sleeping and had a bright light in his living room wake him up.  His house was shaking.  He looked out and saw a round, mushroom shaped craft.  It was white, with green , red, blue and black in the center.  He felt the center had a hole in it.  The object was shaking his house and he held the camera and filmed it while it was in his neighborhood.  He filmed it as it flew up and away.  Amazing!  He is now in the process of making copies and doesn't know what to do next.  I looked on this list and saw that several other people in the same town our friend lives in have seen this exact, or a similar object.  We have it on tape and will proceed with showing it to someone soon.  Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25356.html](http://www.nuforc.org/webreports/reports/025/S25356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange light inside Lake Mononamy girlfriend and i (we're now married) were walking by Lake Monona one evening when we saw a light in the lake, under the surface of the water but pretty close to shore. At first, i thought maybe it was scuba divers or something, but it was just sitting there, not like someone was swimming around. It seemed strange, and everything around us seemed still, no other people around. After watching it and wondering aloud to each other about what the light could be, it just blinked out or something and was gone. We looked around a bit but never saw anybody climb out of the water or anything, and eventually got back in our car and left. My wife says she has never seen anything weird like this before or since. It kind of spooked her... and later, her youngest sister (aorund 20 yrs. old) told us she'd had a dream about my wife and i walking by some water somewhere and there was a ufo involved somehow, which adds an extra wrinkle to the story i reckon.((NUFORC Note:  Date may be approximate.  One of three reports submitted by same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35070.html](http://www.nuforc.org/webreports/reports/035/S35070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
