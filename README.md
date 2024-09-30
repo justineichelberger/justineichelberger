@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:38 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:13:29 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 circular object formation or triangle over Loveland, COScanning the sky as I often do, I was setting out my trash bin on Sunday Sept 30, 9:45 p.m.  I noticed a satellite and 2 or 3 commercial aircraft on approach to Denver International Airport while I watched the sky. As I was about to go in I spent another minute or 2 to look up, and noticed 3 dimly lit circular objects speeding from south to north almost directly overhead.  They were either a tight formation or a single object with 3 lights.  There was no noise. They may have been illuminated from city glow as they looked a faded brownish color. Each object or light had a hazy glow around the edge.  With my stuck out thumb as a guide the object(s) together were about as big as a quarter at arm's length. I had both a camera and camcorder 2 feet away from me in my car but the whole sighting lasted less than 10 seconds and by the time I could have gotten them out and turned on the objects would have been gone. I opted to watch.  After watching them cross the sky and disappear past the roof of my house I watched a few more minutes to see if anything else would show up, then I went inside and started typing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59028.html](http://www.nuforc.org/webreports/reports/059/S59028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ladysmith (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>I was exiting Bruce, WI, when I noticed what looked like a meteorite falling to earth.  But, I had saw this same exact thing a little over a month ago also in same area.  It always looks like smoke from a jet, but it doesn't dissipate, it just moves along in a strange manner.  One second its in front of you, a few seconds later, it is behind you. I did gets pics of it on my phone, and this time, I told 2 other people at a convienance store to step out and look.  They saw 2 objects as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122464.html](http://www.nuforc.org/webreports/reports/122/S122464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
