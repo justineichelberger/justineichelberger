@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Keyport (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My brother and I witnessed 3 lights in the sky lined up in a triangle and they would brighten and then diminish.  The lights would move quickly to different areas in the sky and when diminishing would leave a horizontal line in the sky.  Extremely creepy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114111.html](http://www.nuforc.org/webreports/reports/114/S114111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sabattus (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I saw an object,i had just left my house and was walking down the road with my dog cocoa. after about 3 minutes i noticed i didn't hearany of the usual noises, i.e. crickets and frogs and the such. my dog perked it's ears and looked to my left at the sky. when i couldn't amke him move i looked where he was. the craft was grayish and shaped like an oval.i could see lights the lights blinked in a sideways zigzag pattern. The next thing i know it is gone. and it is a lot darker than it was. when i walked back to my house i noticed that i had been gone for an hour when it seemed like only three minutes.((NUFORC Note:  Date is approximate.  We will inquire whether this student has made an attempt to find other possible witnesses in the area.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22223.html](http://www.nuforc.org/webreports/reports/022/S22223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
