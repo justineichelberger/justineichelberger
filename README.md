@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 30 September 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>4 spherical lights with one that tried to intercept another before ascending straight up at a rapid rateDriving back to KC from Wisconsin around 1900 hours, we noticed in the Western sky near Kansas City International Airport a spherical light that appeared to come off a plane that was exceptionally high in altitude.  At first we thought it was something from the aircraft, but the aircraft veered demonstratably to the northwest while object maintained alitutde and continued in a southwesterly direction.  As we were driving, we commented about stopping to photograph it...we didn't.  Thought it was something from the plane.  About 5 minutes later, we saw a second object more overhead coming into view...it too was a spherical light with no apparent vapor trail, but was moving to the southwest.  They were not losing nor gaining alititude at this point in time.  Then after about 4 minutes, a third object appeared and was beginging the same southwesterly heading.  Then, a fourth light appeared and the third object changed direction and headed directly for the fourth object.  The closure speed was tremendous and they passed each other closely.  Once passed, the third object ascended vertically at a tremendous rate given the altitude and distance from us.  We continued to observe these until we lost sight of them around 1725 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20385.html](http://www.nuforc.org/webreports/reports/020/S20385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5-6 bright lights hovering low in a synchronized fashion forming a big triangle/arrow shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49110.html](http://www.nuforc.org/webreports/reports/049/S49110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
