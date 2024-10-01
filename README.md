@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vanderbilt (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>white light bright 60 - 75 mph it was about 30 min longthe color of the craft is white. it moved across the sky it was about 8:30 the date is 10/1/05 it disipeared into the sky after about 20 mins to 30 min later.((NUFORC Note:  Unknown to us whether the alleged event occurred in the morning, or evening.  We assume the latter, and we have amended the date above.  PD))((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46680.html](http://www.nuforc.org/webreports/reports/046/S46680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Easley (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hockey-puck-shaped-thing.This was about ten years ago, I was a fifth grader.  My mom picked me up from school one day and as we were driving home, I noticed a black object hovering in the sky.  At first I thought it might be a balloon, but as we pulled into our driveway, it looked more like a hockey-puck turned on its side.  It was maybe 200 feet above the ground (without knowing its actual size, it's hard to know exactly how high it was) and was spinning counter-clockwise relatively to the ground at maybe 45 rpm.  I can't remember what day it was, but I can remember what it looked like exactly.  It was black, not entirely shiny, but not flat, either.  After about fifteen minutes, it finally began ascending.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21596.html](http://www.nuforc.org/webreports/reports/021/S21596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
