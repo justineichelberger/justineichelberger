@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:57 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:50 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cobb Mountain (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Bright round orange/red fireball.Driving to the other power plant we seen a bright round fireball in the north west.  At first it was very dim then it started to get brighter and brighter.  We watched it for 25 mins and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102864.html](http://www.nuforc.org/webreports/reports/102/S102864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Raton (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>7 bright lights over northeast new mexicoAt 11:20, I had stepped outside on my deck and caught something out of the corner of my eye.  I turned and saw 7 bright lights gliding silently in a northeastly direction.  There was no blinking lights, no tails like meteors. Just bright yellow lights that were bigger than stars and closer to earth.  I watched them for about 30 seconds and they faded away into the clouds.  They were travelling in a straight line.  I have seen some strange objects over the years, but none as spectular as this.  I felt that this was something I should report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52730.html](http://www.nuforc.org/webreports/reports/052/S52730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
