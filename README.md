@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in DeLand (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was laying on the couch unable to sleep, looking out the large panoramic window, when I noticed whay appeared to be one very bright star.  It was only one.  As I looked at it, it began to make sudden, sharp movements to the left and right, up and down.  The movements were severe enough that I did not question if my mind was playing tricks on me.  I played perfectly still for at least 10 to 15 minutes.  During this time it varied in movement from remaining still,or rapid side to side, up and down movements.  I watched it until it moved, somewhat quickly, out of view of the window.  I stood up and watched it for a few more minutes until it seemed to disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136514.html](http://www.nuforc.org/webreports/reports/136/S136514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Awoke unknown reason. Heard noise of unknown origin and observed two white lights in extremely fast succession flying up the street.  We debated on what it could have been...was not motorcycles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149370.html](http://www.nuforc.org/webreports/reports/149/S149370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
