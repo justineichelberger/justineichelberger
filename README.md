@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Kennebunkport (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While at the boathouse at St.Athonys one night we noticed what at first we thought was a bright star getting larger.It seemed to dart around the sky until it disappeared behind the tree line.We didnt hear it make any noise as we were very close to the beach and all you could here was the surf.l((NUFORC Note:  The date is approximate.  Also, the location is very close to the Bush Family home in Kennebunkport, ME.  PD))((FOLLOW-UP MESSAGE FROM WITNESS))I recentlly filed a report of something I  saw in Maine in 1968.I didn’t mention that it was near the Bush home as I  didnt think that was important.I commend you for researching that fact.In fact as the crowflies what we saw was about a mile from Walkers Point.Once again thank you for your diligence((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17704.html](http://www.nuforc.org/webreports/reports/017/S17704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Saint Cloud (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Seemed to look like it was floating by over our headsI was collecting the mail from the mailbox when I looked up over my house and saw a small light passing from SSW in the direction NNE direction as it was passing over us it was bigger after passing over us was getting smaller and then disappeared there was no noise coming from it either.  I have seen Asteroids and Meteors and even had a chance  to see a Soviet rocket booster reenter earth atmosphere and burn up.  This was nothing like that none other light glowing from the sides like airplane or helicopter just a yellow perfect circle no flames no dripping fire floating pass at a high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122476.html](http://www.nuforc.org/webreports/reports/122/S122476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
