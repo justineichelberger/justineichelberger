@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hillside (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Initially observed a white dot in the northwestern sky which prompted me to obtain my binoculars to obtain a closer look. I then observed what appeared to be a oval shaped ball of red fire movely very slowly (not an airplane either) northeast in the sky.  After looking for several minutes and not being able to make out what the flying object was, I alerted my neighbor, who looked through my binoculars, observed the object, but he to was not able to make it out.  He then went and retreived his binoculars, but was unable to make it out. Upon continuous observation, the flying object then changed its' shape from oval to oblong, still moving very slow.It appeared to flying at approximately 30-35 thousand feet up.  I watched it continue to move very slowly northeast until it disappeared.((NUFORC Note:  Witness does not indicate the time of the sighting, but we assume that he alludes to the sighting of peculiar red lights in the vicinity of Tinley Park, IL.  We have assigned an arbitrary time of 01:10 hrs. above.  PD))(NUFORC Note:  All reports of the two sightings (23:15 hrs., 30SE05, and 01:10 hrs., 01OC05) from Illinois will be passed along to Dr. Mark Rodighier, Director of the CENTER FOR UFO STUDIES, Chicago, as well as to Mr. Dave Marler, State Director of the MUTUAL UFO NETWORK for the State of Illinois, who will pass them along to his Field Investigators in the Chicago area.  We would be most grateful if witnesses to this event would please submit a detailed report of their sighting, using the ONLINE REPORT FORM on our website, and we will pass those reports along to those two investigators above.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46758.html](http://www.nuforc.org/webreports/reports/046/S46758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Columbia (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Hovering band of lightI was at truck stop just off I-80 in New Jersey. I woke up around 2:30 ish in the morning and went to use the bathroom in the truck stop.  As I work for my truck to the bathrooms I noticed a band of light in the sky appearing to hover. I could fully see the band.  If appear to hover for about 2 seconds and then move off in what exact direction I don't know at an incredible speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149412.html](http://www.nuforc.org/webreports/reports/149/S149412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
