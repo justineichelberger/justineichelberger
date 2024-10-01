@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Saint Cloud (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Seemed to look like it was floating by over our headsI was collecting the mail from the mailbox when I looked up over my house and saw a small light passing from SSW in the direction NNE direction as it was passing over us it was bigger after passing over us was getting smaller and then disappeared there was no noise coming from it either.  I have seen Asteroids and Meteors and even had a chance  to see a Soviet rocket booster reenter earth atmosphere and burn up.  This was nothing like that none other light glowing from the sides like airplane or helicopter just a yellow perfect circle no flames no dripping fire floating pass at a high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122476.html](http://www.nuforc.org/webreports/reports/122/S122476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Newport (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk with glass center section, and flames behind the glassFall of 1956 or 57, Newport, NH.  My mother related this UFO experience to me.  While I was there, too, I was too small to remember it (I was born in 1954).My mother, the woman who usually babysat us, my brother and I were all in our back yard.  It was just after dusk and getting dark.  My mom and the other lady were dipping apples that had fallen from the tree in the back yard into a sulphur solution to kill the hornets that were feeding inside of them (to this day, that part of the story sounds as bizarre as the UFO part of the story itself!).  My brother started crying because a hornet got in his boot and stung him.  But just then, a disk shaped object came out of the sky and hovered near us.  It had a section in the middle that was made of glass through which could be seen bright flames burning.  My mother felt like it was about the distance away as the top of a telephone pole, yet she felt the impulse to just reach up and touch it...it seemed so close.  And then the thing shot up straight into the sky at a supernatural speed and disappeared.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42545.html](http://www.nuforc.org/webreports/reports/042/S42545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
