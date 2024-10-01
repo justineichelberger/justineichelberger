@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Intensely bright light sphere high up in the sky over the Gulf of MexicoWhen leaving USF Tampa campus and heading West on Fowler road, I saw a extremely bright light sphere in the sky about ~30 degrees South when facing West.  I watch carefully. I got on to I-275 Southbound and it remained there in the sky all the way home.  IT WAS STILL DAYLIGHT!  No stars visible and planes do not fly this high up...planes were flying in the sky at the same time as for a good scale.  When I got home in south Tampa, it was just getting dark and it was still there, really bright like as if a flashlight was pointing at my face (it wasn't not a flashlight, just to be clear!) I waited outside until my girlfriend got home and I made her look at it.  She said "WOW!" She then pulled out her "Google stars and sky map"  (The one that shows you stars, planets, and constellations), she thought it was the planet Venus.  However, I doubt that. I thought maybe the International space station, but doubt that too because of how bright it was.  I then went inside for the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102888.html](http://www.nuforc.org/webreports/reports/102/S102888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Kennebunkport (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While at the boathouse at St.Athonys one night we noticed what at first we thought was a bright star getting larger.It seemed to dart around the sky until it disappeared behind the tree line.We didnt hear it make any noise as we were very close to the beach and all you could here was the surf.l((NUFORC Note:  The date is approximate.  Also, the location is very close to the Bush Family home in Kennebunkport, ME.  PD))((FOLLOW-UP MESSAGE FROM WITNESS))I recentlly filed a report of something I  saw in Maine in 1968.I didn’t mention that it was near the Bush home as I  didnt think that was important.I commend you for researching that fact.In fact as the crowflies what we saw was about a mile from Walkers Point.Once again thank you for your diligence((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17704.html](http://www.nuforc.org/webreports/reports/017/S17704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
