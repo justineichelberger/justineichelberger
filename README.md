@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1956, an anonymous witness in Newport (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk with glass center section, and flames behind the glassFall of 1956 or 57, Newport, NH.  My mother related this UFO experience to me.  While I was there, too, I was too small to remember it (I was born in 1954).My mother, the woman who usually babysat us, my brother and I were all in our back yard.  It was just after dusk and getting dark.  My mom and the other lady were dipping apples that had fallen from the tree in the back yard into a sulphur solution to kill the hornets that were feeding inside of them (to this day, that part of the story sounds as bizarre as the UFO part of the story itself!).  My brother started crying because a hornet got in his boot and stung him.  But just then, a disk shaped object came out of the sky and hovered near us.  It had a section in the middle that was made of glass through which could be seen bright flames burning.  My mother felt like it was about the distance away as the top of a telephone pole, yet she felt the impulse to just reach up and touch it...it seemed so close.  And then the thing shot up straight into the sky at a supernatural speed and disappeared.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42545.html](http://www.nuforc.org/webreports/reports/042/S42545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Dayton (Wright-Patterson AFB) (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Days - Days minutes.</sub><blockquote><sub>This is the recollection of my father, who is 92 years old and lives in an assisted living facility outside Washington DC. Dad is a WW2 and Korean War Veteran and served in the Army Air Corps and U.S. Air Force.Dad was assigned to Wright-Patterson AFB after WW2. He has stated to me on several occasions that the recovered material from at least one extraterrestrial craft that crashed near Roswell in July 1947 (there apparently were at least two) was "primarily an iron-aluminum alloy".Dad stated that "quite a lot" of the crash debris from Roswell was transported to Wright-Paterson.He was assigned to a technical laboratory where research was done on metals, and he was not know what occurred elsewhere at Wright Patterson.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128681.html](http://www.nuforc.org/webreports/reports/128/S128681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
