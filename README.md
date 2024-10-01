@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:17 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Tonawanda (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two circular objects.  Almost chasing each other in zigzag formation.  Moving fast.  We stopped and stared up in the night sky to see these two objects seemingly playing with each other.  What seemed like forever.  Were gone a 10-15 second flash.  My family and I never mentioned it again.  Beyond technology available to public at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120189.html](http://www.nuforc.org/webreports/reports/120/S120189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Group of 4 Orange Objects land near hills just west of small town of Maricopa Arizona... Oct, 1975Objects first appeared as bright orange lights like flares dropped from parachutes in formation.  We knew they weren't flares when two objects on opposite sides of the formation simultaneously rose several hundred feet above the other two center objects.  The strangeness continued when the intense orange light disappeared from each and was replaced by three white circular lights in a triangle. They seemed to emit smoke but it was likely from super heating of the air around the lights in the cool night. The objects drifted out into the flats and landed about 1/4 mile away right in the backyard of a local ranch house in the desert lighting up the whole place. My girlfriend started running into the desert at the objects but we caught her and all walked to a better vantage point(a few weeks or months after our sighting T.Walton ran up on one too - bad idea).  We watched the objects on the ground and one of them kept going up and down, six - ten feet into the air.  Reminded me of the dance of the bees... The objects were smaller than the house, perhaps 20 feet in diameter.  The lights went dark after a time and we never saw them leave.  About a week or two later one of the witnesses and myself walked up around the hill where the objects were first seen and found a mutilated steer that had not been touched by coyotes or buzzards which were very numerous in the area.  At the time we had never heard of cattle mutilations and did not seriously connect the two events. We were never able to approach the ranch house to ask what the hell went on that night as they had very big dog that chased us away whenever we ventured too near.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60648.html](http://www.nuforc.org/webreports/reports/060/S60648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
