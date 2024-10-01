@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ferndale (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking light in the sky with unusual movements.Let the dog out to the yard to go to the bathroom.  Was about to bring him inside when I see a light in the sky hovering south of me.  There were multiple lights but it was far enough away it looked like a point of light, couldn't quite make out a shape.  One white light was constantly on, the other (2 or more) lights were blinking colors.  I used a star light to base the movements.  It would hover for a few seconds then jerk in any direction and then hover again.  Reminded me of the seemingly random movements of an insect.  I took a 5 min video on my phone and stayed at least another 5 min holding my dog watching the event.  The object stayed in the same area of the sky (between two close trees) from my vantage, and moving away from me southbound slightly.  I am familiar with the movements of known aircraft including personal drones.  At first, I thought It was a drone, but the movements were inconsistent with a drone because there was no acceleration or deceleration, ! just movement and seemingly perfect hovering.  There is an airport in the area.  The clouds moved in during the sighting and the unknown light was below the cloud layer.  There was twice a smaller/distant light that blinked once near the object similar to a satellite.  I went inside because I got cold and the light was still doing it's thing in the sky, never saw it leave the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130353.html](http://www.nuforc.org/webreports/reports/130/S130353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Laurelville (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very slow moving object that made no sound.I was nearly home, approximately 3.5 miles south of Laurelville on St. Rte. 56. I noticed odd flashing lights moving very slowly north. I was able to pull over and get out and for roughly 5 mins. I observed absolutely no sound what so ever coming from the object. I was close enough to tell that it was not a balloon or anything like that. It was moving at about 20-30 mph. and about 500-600 ft. in the air. The lights were white and a reddish color that flashed intermittently almost in the shape of a delta or triangle. I couldn't tell the shape only that it was close and very creepy as it made no noise at all.((NUFORC Note:  Source indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67855.html](http://www.nuforc.org/webreports/reports/067/S67855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
