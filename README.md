@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:52 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:57 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Egg Shaped Object CirclingI saw an egg shaped UFO flying relatively low and alot larger than a plane moving around slowly in what seems liked circular motions. My father was driving at the time and I pointed it out to him, we watched it as we drove and when it went out of site behind tree cover we rushed home to get binoculars and head to Gateway Park to try an observe it, but we could not see it from there... Did anyone else see it on this date anywhere, or especially on staten island? Please e-mail me @ ((e-mail deleted)) There was also either 1 or 2 white lights on the object.((NUFORC Note:  NUFORC receives so many reports of blimps from the NYC area that we feel that is the first possible explanation for the sighting that shoulr be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25348.html](http://www.nuforc.org/webreports/reports/025/S25348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cobb Mountain (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Bright round orange/red fireball.Driving to the other power plant we seen a bright round fireball in the north west.  At first it was very dim then it started to get brighter and brighter.  We watched it for 25 mins and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102864.html](http://www.nuforc.org/webreports/reports/102/S102864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
