@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 1 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Awoke unknown reason. Heard noise of unknown origin and observed two white lights in extremely fast succession flying up the street.  We debated on what it could have been...was not motorcycles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149370.html](http://www.nuforc.org/webreports/reports/149/S149370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pell City (AL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very high, cigar shaped UFO moving at incredible speeds.Around the date of October 1st, 2008, I witnessed a very distant object very high up. It might have been an airplane, however, do to the altitude I'm not sure.  Another reason I'm skeptical it was a UFO is because it was moving at incredible speeds. If it was at normal airplane altitude it would be going as fast as a stealth bomber.  It seemed to be white without any wings.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72591.html](http://www.nuforc.org/webreports/reports/072/S72591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
