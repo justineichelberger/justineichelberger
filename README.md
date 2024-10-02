@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mena (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Large, hexagonal craft accompanied by a much smaller craft tailing it.On my deck in Mena, AR, at midnight, myself, my fiancee, and two of my friends saw a hexagonal shape with purple, green, and red flashing lights at about 3 second intervals.  There was what appeared to be a much smaller craft tailing the large one.The larger craft moved in diagonal and sideways directions for the better part of about 25 to 30 minutes, all four of us watching the entire time.  Finally, it appeared to shoot off in another direction, faster than any other craft I've ever seen in my life, and it was followed by the smaller craft, going just as fast as the larger one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130591.html](http://www.nuforc.org/webreports/reports/130/S130591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monroe (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular with red lights hovering and disappearsSomewhat large triangle with red lights on it's sides hovering in place. We were driving in my car and we looked up and didn't think much of it but that maybe it was a low plane. Until we continued to drive and came to a stop and realized it was hovering in the same exact place. We continued to drive and watched it for about 2 minutes until we looked back and we could no longer find it.(NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66916.html](http://www.nuforc.org/webreports/reports/066/S66916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
