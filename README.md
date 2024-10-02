@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:10 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:16 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>White light over San Francisco Bay observed from Downtown OaklandWhile driving in the south direction of the 880/980 freeway (MacArthur Maze area), I noticed one bright white light in the sky.  The light was southwest of my location, approximately 45 degrees from the horizon.  The light moved down quickly and disappeared in less than a second.  The light was lower than the fog cover.  It moved much much faster than any other air traffic that was in the area. Other aircraft observed were a helicopter and planes landing/taking off from the Oakland Airport..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66031.html](http://www.nuforc.org/webreports/reports/066/S66031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>5 spherical orbs seen floating in the skyI was outside with my wife when I looked up at a clear blue sky I noticed 3 white spheres in a 170 degree angle a few miles apart.  The altitude was above planes but it looked like they were in our atmosphere.  They gradually floated around the sky for several hours. When I went outside later to see if they're were there I saw two more.  The two were very spaced out and the other three were still together.  I noticed throughout the time they would get smaller and bigger probably changing altitutdes.  Only one remained the last 30 mins the rest vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114158.html](http://www.nuforc.org/webreports/reports/114/S114158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
