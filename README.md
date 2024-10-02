@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Joplin (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two bright lights turn into 20 to 30 planes!There was a really bright light in the sky that was like two stars real close to the ground they stayed station for the duration about 7 minutes.  Then the lights started moving apart and then ONE light turned around a big flame came out the back of one of the bright lights the light went out and then started flashing like a airplane ,but the first object that I think was the ufo[there were no flashing lights] left the jet behind.  About 10 to 15 minutes after sighting we had about 20 to 30 planes flying in the same direction that the ufo went.  The planes just keep coming over my house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52749.html](http://www.nuforc.org/webreports/reports/052/S52749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muncie (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark saucer shaped craft with lights seen hovering over Ball State UniversityI was walking down the street near Ball State University with some friends and I noticed a saucer shaped form in the night sky.  Although the sky was dark, the object was noticibly darker with 3-5 (I can't recall exactly) lights on the bottom half.  It appeared to be hovering in one spot on the sky a few hundred feet above the ground a mile or so away, but still looked pretty big.  Everyone with me saw it and believed it to be a UFO!((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114839.html](http://www.nuforc.org/webreports/reports/114/S114839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
