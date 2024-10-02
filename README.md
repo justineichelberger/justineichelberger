@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:21 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large strange light shapes in sky flying in loose formation in semi-circle, then off in a straight line.I just saw 5 or 6 UFOS in the sky under cloud cover above Rochester, NY.I thought it was a spotlight advertisement at first glance, but then immediately saw the objects were large and far up--under cloud cover--but highly visible.They moved in loose formation and seemed to circle around a bit and then they kept going straight and disappeared.  It’s 8pm in Rochester, New York.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122486.html](http://www.nuforc.org/webreports/reports/122/S122486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>1 Yellow/Orange Flying Fireball over Canton, OH, USA.At approx 9 pm, I witnessed a flying fireball (yellowish orange) like real fire flying trough the sky over the north east area of Canton.I watched the flying fireball for a good 3 minutes until it dissipated into nothing. It went through the clouds and lit up a circle of light around it and everything.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102915.html](http://www.nuforc.org/webreports/reports/102/S102915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
