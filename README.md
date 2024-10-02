@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in VA/Atlantic Coast (aboard USN ship) (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO out at seaDuring a routine weather observation, aboard a Naval vessel during flight ops, I witnessed an object to my east moving at an extreme speed and changing directions rapidly before disappearing. We were about 100 miles off the coast of southern Virginia. It was a white light about 4 times the size of a star. Imagine an airplane at night with it's lights not blinking, but flying a about 5,000 mph. Moving at a 45 degree angle frome east to west it abruptly changed course(it made a right angle) and disappeared.  I am a Meteorologist for the Navy and observe the sky on a nightly basis. I have never seen anything like this. It was not caught on our radar. It appeared to be about 5-7 miles away, but I suspect it was much farther away than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59141.html](http://www.nuforc.org/webreports/reports/059/S59141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mitchelstown (Republic of Ireland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw one object moving erracticly across the sky at vairous different speed's. There was no sound accompanying the object. it was also hard to define a distance. The object was not very bright but did have some light disapating from its central region. Size cannot be given as distance was not quatifable. The object's shape was almost plane like but still not. It was aero dynamic in nature.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14387.html](http://www.nuforc.org/webreports/reports/014/S14387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
