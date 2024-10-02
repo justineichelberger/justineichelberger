@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:27 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a red lite moving accross the sky very slowly and totally silent.I was walking my dog at early in the morning hours when I looked up at the sky which was very clear that morning.  I usually look up to look at the stars at some point when im walking my dog. I was standing at the North East corner of 5600 S. Normandy when I saw a red light in the sky which was moving slowly from Southwest to Northeast. I reside near Midway Airport in Chicago so I see airplanes all the time.  But this did not appear to be an airplane because it just appeared to be a RED light which didnt flicker on and off like on an airplane. Also, there are usually some white lights as well as flickering red lites on airplanes.  There was absolutely no engine noise which was odd because at 4am my neighborhood is so quiet you can hear a pin drop. After staring at this red lite for few minutes my neck got a little sore and i guess i convinced myself that perhaps it was an airplane.  I didnt think much of it so i continued home with my dog. Early this morning I was catching up on reading my Sunday Southtown Newspaper which featured a story about people who saw a simliar lite or lites in the sky. That's when I started to think about what i had saw early sat. morning. Im a Police Officer and i see lots of strange things in my line of work but they can usually be explained. Im not really sure what i was i saw but since others have obviously come forward I figured I would report what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46787.html](http://www.nuforc.org/webreports/reports/046/S46787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Luray (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Two large very bright unnatural looking lights flying very close together at extremely high speedI was out with my dogs in the yard, it was almost  dark. There are few people or lights in our area of the county.  When I turned around I saw  two very distinct bright lights in  the sky at any extremely high speed.  They disappeared in the horizon in a few seconds.  These lights were sort of diamond shaped, close together, and very bright, almost neon.  We see planes in the sky in this area all the time, both big and small.  This was not like anything I have ever seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114152.html](http://www.nuforc.org/webreports/reports/114/S114152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
