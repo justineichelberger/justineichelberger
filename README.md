@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:16 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>5 spherical orbs seen floating in the skyI was outside with my wife when I looked up at a clear blue sky I noticed 3 white spheres in a 170 degree angle a few miles apart.  The altitude was above planes but it looked like they were in our atmosphere.  They gradually floated around the sky for several hours. When I went outside later to see if they're were there I saw two more.  The two were very spaced out and the other three were still together.  I noticed throughout the time they would get smaller and bigger probably changing altitutdes.  Only one remained the last 30 mins the rest vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114158.html](http://www.nuforc.org/webreports/reports/114/S114158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed orb of light flashing through mutiple colors about the size of a large pea held at arms length.  Estimated 1.5 miles distance.  Light changed to strobbing orb at a rate of 140 beats per minute or so.  Ran inside to get my binoculars and observed the object moving slowly off to the North until it disappeared from view.  I have seen a similar object at fairly close range in the same area several years ago with an additional witness.((NUFORC Note:  Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59059.html](http://www.nuforc.org/webreports/reports/059/S59059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
