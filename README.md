@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Reaccuring semi-stationary, color alternation spheresThis is the second time I've seen these craft. They seem to be stationed all around and so easily visible. They around. I would imagine a gunmetal color with lights of some kind all around their middles...like a belt. The lights alternate colors, not quite blinking but moving in a rythm the way the signs at movie theaters and similar places do. They alternate colors, similar to the way a projector does, like at the movie theater. They are somewhat stationary, moving usually only in one direction (up) and very slowly. They are visible on clear nights. I have watched many airplanes fly around in the sky and also have watched many many stars. They are not either and that is what I am positive about. The difference between these and a twinkling star is drastic. I have not seen any other accounts of these things, so I'm guessing they are fairly new. They're so obvious that there should be others. I know that I am not the only one that has seen them. My significant other has seen them before too. Both times i have seen them there's one that is low and then two more adjacent to it higher up. The last time I watched them I could see more than three. They are odd and intriguing. What purpose do they serve.. they're not there for nothing. : (</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52756.html](http://www.nuforc.org/webreports/reports/052/S52756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Paducah (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At about 7pm I saw a light shaped like a sphere move across the soutghern sky briefly then disappear.From my backyard facing in a southern direction at approximately 7:pm I was admiring the early evening sky and noted the usual bright body in the lower part of the sky about twenty degrees from the horizon. As I observed this usual body there appeared a second bright body similiar in size and brightness but was moving in an "upward" direction just above the other body. It "passed" the other body and then disappeared. For several minutes I watched to see if a conventional blinking light or sound would occur, neither did.I watched for approximately twenty minutes but did not see any recurrence or any other similiar body.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66044.html](http://www.nuforc.org/webreports/reports/066/S66044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
