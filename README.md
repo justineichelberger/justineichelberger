@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:31 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in May (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Glowing UFO lights up the sky in May IdahoI was driving with my wife on our way to hunt some elk on the morning of October 3rd, 2021, just outside May Idaho in the Challis national forest.  At 5:10 pm (sic.  a.m.) I noticed a large flying object that was visible through the windshield of my truck.  I grabbed my wife's arm and told her to look up in the sky.  I stopped the truck so we could watch the flying object. It was an unbelievable sight.It had a greenish color an looked like it was made up of metal.  The Oval object was glowing in the sky.  There were trails of lights that trailed the object and these light trails appeared to have fire sparks in them.  The object was heading east and moving very fast.  It left our view after 8-10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164824.html](http://www.nuforc.org/webreports/reports/164/S164824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Noblsville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Star like object viewed and filmed for half an hour.On October, 3 2013, at approximately 8 PM, in Noblesville, IN, I viewed what I believe to have been a UFO.  The object was visible as a brilliant white light with a slight red tinge.  It was the brightest object in the sky and had a very star like appearance.The object was located at 11 degrees above the horizon and 240 degrees SW from my viewing position on the sidewalk.  After viewing it for approximately 15 minutes I drove to another location in Noblesville to meet someone and continued to film the object from there.The object remained stationary for over a half an hour and began to fluctuate in intensity and become non-visible.  An interesting play with light can be seen on film as the object begins to fade from view.Conventional aircraft were seen flying near the object.  Please see the video for more detail.((NUFORC Note:  Possible sighting of Venus or Arcturus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103120.html](http://www.nuforc.org/webreports/reports/103/S103120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
