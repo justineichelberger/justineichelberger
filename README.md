@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kodiak (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>didn't behave like a toy helicopter, hikers or hunters  Friday, Oct. 3 2008, I was driving from downtown Kodiak toward the Coast Guard base (northeast to southwest).  It was dusk, around 8pm.  Beyond Barometer mountain a very brightly glowing amber light, as bright as a sodium commercial fishing light, caught my eye.  I guess I thought it could be a plane at first but it struck me as odd so I kept an eye on it.  The light was motionless against (on? Hovering above?) the top of a mountain where I knew there were no houses.I blinked my headlights and pulled over at Speedee Kraft, closer to the foot of this mountain, to watch the light be joined on the same horizontal plane by two red lights and a very faint white one, then alternately blink off, then reappear seconds later at the TOP of the mountain as one light (it struck me as one light/source for some reason, not separate).I would estimate the light to have been maybe 200 feet in the air at its lowest point, and less than half a mile away from me.   I know there were no sounds associated with this sighting since I got out of the car and watched it for fewer than five entire minutes, then drove home where I was expected.  The lights blinked off whenever I framed the scene with my camera phone. The lights continued on when I got in my car.  I noticed oncoming drivers on the road going very slowly and some pulled over, possibly watching what I had witnessed.The lights traveled too fast to strike me as a light attached to people on foot.  It could have been someone plaing with a toy helicopter, but it was so quiet and I think I was close enough to hear it if so.There are no houses or structures on that mountain.  It is clifflike-steep and is carpeted in thick, 6 foot and taller bushes.  I went to the mountain the next day and did not see any trails or structures.((NUFORC Note:  Witness elects to remain totally anonymous;  provides just telephone number.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66090.html](http://www.nuforc.org/webreports/reports/066/S66090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buckhannon (WV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Current - Current minutes.</sub><blockquote><sub>Green Blue And Red sparkling light.Toward Buckhannon Upshur-High school a sparkling light, rather high in the sky.  Watched for around 10 minutes of gleaming.  Incredibly bright!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136527.html](http://www.nuforc.org/webreports/reports/136/S136527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
