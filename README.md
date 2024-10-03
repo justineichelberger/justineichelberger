@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>observed a circular shaped bright, almost floresent, light green, with some white colored light shoot across part of sky.Location: 7100 block of east "L" street, tacoma, wa. Looking south south west.   Observed a very small, light green (almost floresent)in color, with some white spots, circular shaped light, shoot across a small portion of sky, disappearing over the horizon. When first observed, it appeared to be about 15 degrees above the horizon, almost straight south (slightly west) of my location. Size:  Extending my arm straight out in front of me, fingers pointed upward, it appeared to be about half the size of my small fingernail. The light appeared to be an object only in that it appeared to have a clearly defined border (inotherwords, it was not hazy at the edges). It appeared to be moving from northeast to southeast in direction, traveling in a straight line, dissappearing from my sight due to rooftops at about 10 degrees above horizon. It also appeared to be loosing altitude.  But this appearence may be due to its speed and direction of travel, in relation to my stationary location. Extending my arm out in front of me, while holding a ruler, it traveled 4 to 5 inches while dropping about 2 and a half inches. The entire event lasted only about a half of a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10109.html](http://www.nuforc.org/webreports/reports/010/S10109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>POSSIBLE UFO STATEN ISLAND NYI was looking out my window approximately between 5:15am and 5:25am.  I spotted bright light that appeared to be a aircraft or a star stationary in the air although it was very bright.  A few minutes later we spotted a object flying low with green and red bright going around the object.  Flying over the expressway at low speed it looked like a shape of a blimp the body color may have been black or dark grey.  As it passed the bright light was going further away and disappeared.  A minute after we spotted a plane going in the direction of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78130.html](http://www.nuforc.org/webreports/reports/078/S78130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
