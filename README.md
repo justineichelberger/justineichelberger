@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>POSSIBLE UFO STATEN ISLAND NYI was looking out my window approximately between 5:15am and 5:25am.  I spotted bright light that appeared to be a aircraft or a star stationary in the air although it was very bright.  A few minutes later we spotted a object flying low with green and red bright going around the object.  Flying over the expressway at low speed it looked like a shape of a blimp the body color may have been black or dark grey.  As it passed the bright light was going further away and disappeared.  A minute after we spotted a plane going in the direction of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78130.html](http://www.nuforc.org/webreports/reports/078/S78130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Airville/Pequea (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>20+ gold/orange spheres very slow and quiet, very close to groundThe wife first spotted approximately ten numerous gold or orange colored small balls or spheres directly overhead down to the horizon (neighbors roof) moving  slowly from the south heading in a north direction. No pattern or formation just a random group. When I arrived on the porch there were at least ten in sight passing directly overhead with many more coming into view. Not a sound could be heard from these things.  Two or three turned to the east. Most stayed on course passing overhead and out of view.  At least two or three just vanished as they were coming towards us.  One stopped a few hundred yards  in front of me and ejected four tiny balls one at a time which fell in a spiral like motion but went out before reaching the ground. We have no idea how many passed over before she walked out, but we did see easily over twenty of them. I did get about 16 bad photos of the last two.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114203.html](http://www.nuforc.org/webreports/reports/114/S114203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
