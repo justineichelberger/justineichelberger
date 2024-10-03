@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fixed object passed overhead, silently and with no running lights, in clear night sky.At approxamitely 20:15 on 10/3/01, I stepped out onto my back deck to have a cigarette.  I left the porch light off to observe the night sky.  After a few moments I observed an object travelling at a high speed, by far faster than any aircraft I have ever seen (Military or Civilian) towards the SE.  This object had no running lights, left no contrail and was completely silent.  It looked for all the world like the detached wings of a glider aircraft.  It was silhouetted clearly in the night sky because the sky was clear and there was an almost full moon in the Eastern sky, low in the horizon.  I observed this for approx. 2 seconds as it passed through at about 20-25 degrees overhead, disapearing behind a line of trees.  I have observed many unusual sights in the night sky but this is the first that has left me completely stumped.  The object size exceeded, by far, the diameter of the moon by about 1 and 1/2 times.  There was one other aircraft visible in the night sky, identifiable by it's running lights, travelling in a similar direction but apparantly oblivious to the object.  I came inside and phoned in the report and will be mailing a drawing to the reporting center.((NUFORC Note:  We spoke with this witness at length, and found him to be an unusually good witness.  The object moved across a large swath of sky at a very high (angular) velocity, and it had no visible lights on it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19729.html](http://www.nuforc.org/webreports/reports/019/S19729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in May (ID) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Glowing UFO lights up the sky in May IdahoI was driving with my wife on our way to hunt some elk on the morning of October 3rd, 2021, just outside May Idaho in the Challis national forest.  At 5:10 pm (sic.  a.m.) I noticed a large flying object that was visible through the windshield of my truck.  I grabbed my wife's arm and told her to look up in the sky.  I stopped the truck so we could watch the flying object. It was an unbelievable sight.It had a greenish color an looked like it was made up of metal.  The Oval object was glowing in the sky.  There were trails of lights that trailed the object and these light trails appeared to have fire sparks in them.  The object was heading east and moving very fast.  It left our view after 8-10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164824.html](http://www.nuforc.org/webreports/reports/164/S164824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
