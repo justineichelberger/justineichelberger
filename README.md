@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 2 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Vincennes (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Event No. 3.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139574.html](http://www.nuforc.org/webreports/reports/139/S139574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tullahoma (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO sighted in the Tullahoma TN vicinity...Me and my mom saw an object in the Western sky. Even though you could see it with the naked eye, I watched it from my telescope. It was red,blue and white and kept changing shapes. It seemed to have an aura around it at times.It also appeared at one point to have some type of electric engery emitting from it.  We watched it move slowly left,right, up and  down. After almost an hour of watching it, it started to dim in color until it turned a gold color and then just disappeared from sight.We heard no noises of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39612.html](http://www.nuforc.org/webreports/reports/039/S39612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
