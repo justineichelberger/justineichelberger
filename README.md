@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boksburg (Gauteng) (South Africa) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Cylinder shaped opject in Gauteng South AfricaWe were watching the childern swimming when something cought my eye with a blinking light, going on and off, I ask me wife and parents to look and see, all saw it, I then fetched my binoculars and saw the cylinder shaped thing haning in the sky moving very slowly around in one place, then after about 30 minutes it speed up and dissapeared.  I was very high up in the sky.  The opject was to high for my camara to take a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149565.html](http://www.nuforc.org/webreports/reports/149/S149565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was looking at the stars,as I stopped on a rest area. At one point i seen these 2 stars moving, at first i thought it was a cloud passing by, but looking more closely i noticed that they were moving and as i was stering i coold see that between the two lights it was like a cigar shape with the light from the other stars. I will not make a clame that it was on actual UFO but i dont know if it was,the whole thing lasted for at list 10 min untill the trees were in my way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52783.html](http://www.nuforc.org/webreports/reports/052/S52783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
