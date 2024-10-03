@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:23 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:41 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Athens (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle-shaped object the size of a go-kart with blue/white lights.My wife and I were driving back from her dad's office along Gaines School just after midnight when she saw some slow-moving lights a few blocks away.  I figured it was an airplane or something, but as we got closer it stopped moving entirely.  So when we got alongside it, I pulled into the parking lot where K-Mart used to be.  As we got closer, it seemed no bigger than a go-kart, with 3 bright blue-white lights forming a triangle.  I pulled underneath it, and it was up, maybe 150 ft. in the air, but the instant we got under it, the object started to move north.  At this point, we assumed it must be some kind of remote-controlled aircraft (with lights?) and looked for someone operating it as we drove.  We saw no one.  It began to move faster and I continued through the long strip mall drive following behind it.  We lost sight of it when it went over the Jittery Joe's, but by the time I got on the other side, it was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102972.html](http://www.nuforc.org/webreports/reports/102/S102972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green object flew across the night sky with green trail behind itI am a student at the University of Montana and I was at the library late last night.  While walking out I was facing west and saw a green light shoot across the sky.   At first I thought it was a firework but it became obvious it was not due to the fact that it shot across the entire night sky.  The whole thing only last about 3 or 4 seconds but it had a green trail behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93312.html](http://www.nuforc.org/webreports/reports/093/S93312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
