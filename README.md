@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright object over mt umunhum, vertically rises, saucer shaped object over san jose.Its barely night and Mt umunhum has a height of about 3400 feet, and I saw a bright object flying from the south toward/over Mt umunhum at about 1/2 distance higher than the moutnain or about 5500ft.The reason I noticed this was odd is because it did not fly on the standard flight paths used by military or commercial planes following over and into San Jose International Airport.  The military craft fly over south-west San Jose at about 30-40000 feet, nightly every 15 minutes or so.I noticed this object-light was different so I ran in the house to get a camera.Within the 15 or 20 seconds of getting the camera and getting back outside, the object-light was gone...I could not believe it.  I know spaceships exist, and have no doubt, so I started looking for it directly above the earth.Behold, about 30 to 40,000 feet I saw a saucer shaped object flying over ahead continuing toward San Francisco. I was facinated on how fast this object was able to vertically rise from about 5500 feet to 30-40,000 feet in about 15 to 20 seconds.  Unfortunately I was not able to see the vertical rise while I was getting the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93586.html](http://www.nuforc.org/webreports/reports/093/S93586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fixed object passed overhead, silently and with no running lights, in clear night sky.At approxamitely 20:15 on 10/3/01, I stepped out onto my back deck to have a cigarette.  I left the porch light off to observe the night sky.  After a few moments I observed an object travelling at a high speed, by far faster than any aircraft I have ever seen (Military or Civilian) towards the SE.  This object had no running lights, left no contrail and was completely silent.  It looked for all the world like the detached wings of a glider aircraft.  It was silhouetted clearly in the night sky because the sky was clear and there was an almost full moon in the Eastern sky, low in the horizon.  I observed this for approx. 2 seconds as it passed through at about 20-25 degrees overhead, disapearing behind a line of trees.  I have observed many unusual sights in the night sky but this is the first that has left me completely stumped.  The object size exceeded, by far, the diameter of the moon by about 1 and 1/2 times.  There was one other aircraft visible in the night sky, identifiable by it's running lights, travelling in a similar direction but apparantly oblivious to the object.  I came inside and phoned in the report and will be mailing a drawing to the reporting center.((NUFORC Note:  We spoke with this witness at length, and found him to be an unusually good witness.  The object moved across a large swath of sky at a very high (angular) velocity, and it had no visible lights on it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19729.html](http://www.nuforc.org/webreports/reports/019/S19729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
