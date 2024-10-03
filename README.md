@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buckhannon (WV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Current - Current minutes.</sub><blockquote><sub>Green Blue And Red sparkling light.Toward Buckhannon Upshur-High school a sparkling light, rather high in the sky.  Watched for around 10 minutes of gleaming.  Incredibly bright!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136527.html](http://www.nuforc.org/webreports/reports/136/S136527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Coshocton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately Driving home - Driving home minutes.</sub><blockquote><sub>A weird object in the sky shaped like a T and flew perpendicular rather than parallel to the groundI was driving home from Walmart.  My moms on the passenger side eating BK and my sisters in the back doing the same.  We turn on 83 and go past the water treatment place and next thing Ik my moms pointing and not saying a word she's just stuttering and my sisters like "oh.my.god."  And I'm like "what?!"  And they both said look up so I take my eyes off the road to look up and I see in the sky this weird shaped thing like it was shaped like a T and it was slowly hovering behind the hill and it disappeared before it hit the tree line.  I look back down at the road and I'm in the wrong lane so I adjust and then turn on otsiego and go up cassingham hollow to head home and we are trying to make since of what we just saw and then we are coming up the hill and I pull in the drive way and there is again it's huge and it looked so weird it was all black but the tips were white and the sky was a solid blue and all we could do is stare at it with no word! s and I put the truck in park and jump out to take a video and it vanishes in thin air. My mom and I just stood there and looked at eachother. We run inside and my little sister draws what it looks like and we search the Internet to try to get an explanation but there's nothing. An hour later my sister that has no medical problems has a really bad nose bleed and a mini seizure and we took her to the hospital and they said she is fine and has no signs of a seizure. I never believed in this type of stuff till today</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130433.html](http://www.nuforc.org/webreports/reports/130/S130433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
