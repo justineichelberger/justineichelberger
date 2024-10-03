@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 3 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Coshocton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately Driving home - Driving home minutes.</sub><blockquote><sub>A weird object in the sky shaped like a T and flew perpendicular rather than parallel to the groundI was driving home from Walmart.  My moms on the passenger side eating BK and my sisters in the back doing the same.  We turn on 83 and go past the water treatment place and next thing Ik my moms pointing and not saying a word she's just stuttering and my sisters like "oh.my.god."  And I'm like "what?!"  And they both said look up so I take my eyes off the road to look up and I see in the sky this weird shaped thing like it was shaped like a T and it was slowly hovering behind the hill and it disappeared before it hit the tree line.  I look back down at the road and I'm in the wrong lane so I adjust and then turn on otsiego and go up cassingham hollow to head home and we are trying to make since of what we just saw and then we are coming up the hill and I pull in the drive way and there is again it's huge and it looked so weird it was all black but the tips were white and the sky was a solid blue and all we could do is stare at it with no word! s and I put the truck in park and jump out to take a video and it vanishes in thin air. My mom and I just stood there and looked at eachother. We run inside and my little sister draws what it looks like and we search the Internet to try to get an explanation but there's nothing. An hour later my sister that has no medical problems has a really bad nose bleed and a mini seizure and we took her to the hospital and they said she is fine and has no signs of a seizure. I never believed in this type of stuff till today</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130433.html](http://www.nuforc.org/webreports/reports/130/S130433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright object over mt umunhum, vertically rises, saucer shaped object over san jose.Its barely night and Mt umunhum has a height of about 3400 feet, and I saw a bright object flying from the south toward/over Mt umunhum at about 1/2 distance higher than the moutnain or about 5500ft.The reason I noticed this was odd is because it did not fly on the standard flight paths used by military or commercial planes following over and into San Jose International Airport.  The military craft fly over south-west San Jose at about 30-40000 feet, nightly every 15 minutes or so.I noticed this object-light was different so I ran in the house to get a camera.Within the 15 or 20 seconds of getting the camera and getting back outside, the object-light was gone...I could not believe it.  I know spaceships exist, and have no doubt, so I started looking for it directly above the earth.Behold, about 30 to 40,000 feet I saw a saucer shaped object flying over ahead continuing toward San Francisco. I was facinated on how fast this object was able to vertically rise from about 5500 feet to 30-40,000 feet in about 15 to 20 seconds.  Unfortunately I was not able to see the vertical rise while I was getting the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93586.html](http://www.nuforc.org/webreports/reports/093/S93586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
