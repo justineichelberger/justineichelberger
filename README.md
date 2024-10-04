@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in unknown (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>object  hovoring for 30 seconds over trees than flew away with out a trace no sound or lights, this happened in the afternoon.12 years ago on a camping trip at about 5:30 in the afternoon i witnessed the most incredable site of my life.  i witness an object sitting 30 feet in the air on top of a row of tree. at first i thought it as a water tower but after about 30 seconds i relized what i was see, this object had no base and was well a ufo. i grab two of my friend who were in the car with me to witness what i was seeing, we knew what the object was but couldnt believe it. after agree that it was a ufo we jump out of the car to tell the parents but by the time we got out of the car the object was gone without a trace, no sound no lights nothing. like i said this was in the after noon in daylight, we where some where up north  michigan. i should also say that i was no farther than 50 yards from this object, maybe closer, i'v never heard of any one seeing a ufo that close and in the daylight and with more than one person to verify the insident. also none of your characterisitic apply to this experence. no lights no haze no color change, no beams of light, no sound, just and circle shaped craft hovoring for at the least 1 minute and than disapering in a blink of an eye</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46804.html](http://www.nuforc.org/webreports/reports/046/S46804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange lights moving unnaturally across the sky.My 19 year old daughter called for me to come outside and see "something unbelievable".   I went downstairs and my 13 year old son, my husband and a family friend were already on the porch.  We witnessed three orange crafts hover and move sideways.  We thought they may have been lanterns, but moved unnaturally.  We live north of Fairbanks on a small hill and we saw the lights southwest of the city.  We knew that we were seeing something extraordinary; however, the whole event was surreal and when they vanished we were only left with the idea that we had to rationalize the event... But we just couldn't!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102966.html](http://www.nuforc.org/webreports/reports/102/S102966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
