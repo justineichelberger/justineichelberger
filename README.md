@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orange lights moving unnaturally across the sky.My 19 year old daughter called for me to come outside and see "something unbelievable".   I went downstairs and my 13 year old son, my husband and a family friend were already on the porch.  We witnessed three orange crafts hover and move sideways.  We thought they may have been lanterns, but moved unnaturally.  We live north of Fairbanks on a small hill and we saw the lights southwest of the city.  We knew that we were seeing something extraordinary; however, the whole event was surreal and when they vanished we were only left with the idea that we had to rationalize the event... But we just couldn't!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102966.html](http://www.nuforc.org/webreports/reports/102/S102966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Multiple UFOs captured on Camera over Aurora ColoradoAttention!: More than one witness, i have video and photographic proof!  I Seen one small orange Stationary object at 21:45. Shortly after, the object emitted a very large white orb. The object then multiplied. The two large white orbs eventually took off slowly, but erratically. They seemed to have been avoiding aircraft that was present (passenger jet, helicopters, and fighter jets). The orange one, also multiplied, but kept appearing, and reappearing. This event carried on countless times over the course of 3 hours. I have over 30 minutes of compelling video unlike anything i have ever seen or imagined. I also have hours of unprocessed footage on my Go pro that i set up after i slept.  My Room mate is the witness. We were in my bedroom looking out of my window of an apartment. This happened over Aurora Colorado.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164820.html](http://www.nuforc.org/webreports/reports/164/S164820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
