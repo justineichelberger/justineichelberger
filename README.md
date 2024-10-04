@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Shoreview (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I spot this flahing light up in the sky, though it was an airplane but as it got closer, it doesnt see like an airplane. ..so I video tape it and wonder what it was and maybe you can help me figure out what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122544.html](http://www.nuforc.org/webreports/reports/122/S122544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wilsonville (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two large, dark rectangular obects fly low overheadI stepped outside to view the full moon around 9:00pm tonight,the 4th of October.  I was standing alone looking up at the moon.  It was quiet except for the distant muffled sound of the freeway.  Suddenly, I heard an extremely loud, low pitched pulsing sound to my right.  As I turned towards it two very large, dark rectangular objects appeared abruptly over the nearby tree tops.They were identical.  Each one had a large red light and a few smaller white lights.Each was approximately the size of 2 RVS together.  There were no propellers.  I was standing in a wide open space and they flew right over it, lower than a helicopter would.  As soon as they passed over me, I ran into the shadows of the trees and waited for my heart to calm down. I was shaken enough I needed to talk to someone and went to speak to a man who lives next door in a tiny house he has converted from a former MRI truck.  It weighs 34,000 pounds!  Why am I emphasizing the weight?  Because this man was on the phone with his mother when he heard a loud pulsing sound and his entire tiny house truck began to shake.  Not just vibrate, it shook.  He came out and we discussed it at length.My ex-husband served in the Marine Corps for 21 years.  I have lived on bases all over the world.  I have never seen or heard anything like this, flying overhead before.((NUFORC Note:  We spoke via telephone with the witness, and she seemed to us to be both sincere, and serious-minded.  We suspect that she is an excellent witness.  PD))((ADDENDUM #1 FROM WITNESS))Hello Peter,Turns out we have a helicopter airport nearby that specializes in heavy lift operations. They have Chinooks in their fleet.  My partner believes that's what I saw last night.  Still. . . no propellers seen on a night with an intensely bright full moon. Hmmmm. ((END ADDENDUM))((ADDENDUM #2 FROM WITNESS))Peter the moon was extremely bright as they flew right over me, with the moon as backdrop and still  I saw no propellers. Also only one, unblinking, red light. A few scattered small white lights, also not blinking. ((END ADDENDUM #2))((BEGIN ADDENDUM #3))Yes I saw only one large red light on each and a scattering of small white lights on each. I did call the helicopter place and left a voicemail for a call back. ((END ADDENDUM #3))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136556.html](http://www.nuforc.org/webreports/reports/136/S136556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
