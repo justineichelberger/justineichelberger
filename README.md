@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:21 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:52 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Maineville (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple white objects (up to 5) randomly appearing/disappearing in the northwest sky....At a bonfire (church) around 7:00 pm we witnessed multiple white objects appearing and disappearing in the sky to the northwest....at first there were 3 then 1 seemed to disappear and then over the course of about 30 minutes the objects changed in number (never disappearing completely)...and no more than 5 that were visible...one of the parents told the children they were sundogs after the kids began calling them ufo’s....I wanted to video but parents wanted to distract their children...these objects were in the wrong location for a sundog..,they were not meteorites or shooting stars....don’t know what they were just thought I’d share ...surely someone else must have witnessed what we all saw...I am including pictures...you’ll have to zoom to see objects and one picture has a football in it to the right (kids playing catch)...((NUFORC Note:  Witness does not indicate a date of the sighting, so we have assigned an artificial date.  We have made two attempts to contact her, but have not been successful in reaching her at the number she provides.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149502.html](http://www.nuforc.org/webreports/reports/149/S149502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A red laser-like light came out of a cloud...I was walking home from a friend's house at about 9:30 that night.  While I was turning a corner, a very brief (like just a split second) red laser like light went through a small cloud, turning the cloud an erie red color.  The light stopped for about two seconds, then resumed again, but this time it flashed (kind of like morse code) for about five more seconds.  If any of you people out there know morse code, it would have looked somewhat like this on paper ( -....--...---..----. ).  I was down wind from the light, and a small breeze brought kind of a sulfer like smell with it, but I'm not quite sure if that was due to the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25532.html](http://www.nuforc.org/webreports/reports/025/S25532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
