@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Marengo (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my friend were out walking the hunting ground we herd something up in the sky their was to bright lights looked like a plane at first but it was standing still and then it just took off when we looked around and confused((NUFORC Note:  One of two probable hoaxes from same source.  Date is flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149485.html](http://www.nuforc.org/webreports/reports/149/S149485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White ufo looked like a humungous pcp pipe (747 size) no protrusions heading from Los Angeles, to the north.  Silent too.  No vapor.Good Morning Mr Davenport,  I always enjoy when you are a guest on Coast 2 Coast, but I have a question.  On October 4, 2012 at about 6:45 AM in Bakersfield where I live I happened to be outside in my backyard and I saw way up high a ufo coming from the LA area headed north.  It looked just like a huge 'white ' PCP pipe (no protrusions like wings or nothing and flat in front and back) and it was just gliding along in a straight line.  I did not hear a noise but I estimate it's size, if it was on the ground, to be as big as a 747.  Well, I just stared at it until it was out of sight and then I went back in my house for a few minutes and went back outside in the backyard and here comes another one headed in the same direction, and then here comes another one headed south and they pass each other.Well I have been outside in the mornings many time since and then about two months ago I happened to see another one coming from the west and zipping through the clouds sort of south easterly direction but it was moving many times faster than the three I saw that day.  I just saw the last one for just an instant but it was the same as the others.  Haven't seen any since.  I was just wondering Mr Davenport, have you ever heard from anyone that said they saw that kind? Well, thank you for you time.Sincerely,  Cheryl Allen  ps.  I sent you an e-mail Mr. Davenport a long time ago but neglected to give this report until today.  Have not seen anymore.  Wish I would.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101440.html](http://www.nuforc.org/webreports/reports/101/S101440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
