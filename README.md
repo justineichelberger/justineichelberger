@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Granger (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>six orange lights in formation over Granger, IAMy wife, son, and friend were traveling on Hwy 141 SE of Granger, IA, approximately 8:15pm when the noticed 4 orange lights in a square formation approximately 30 degrees in the evening sky over the town of Granger. Two more orange lights appeareed in formation to the right of the original four to form a rectangle.  The two lights which were the last to appear then disappeared first, followed immediately by the other four all at the same time. The duration of the observation was approximately 15-20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46812.html](http://www.nuforc.org/webreports/reports/046/S46812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boyne Falls (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Triangle; no lights or soundA perfectly shaped triangle craft glided horizontally over M-75 S, across US 131.  It was lower to the ground, maybe just a little higher in elevation than the local ski resort's highest point.  There was no sound, nor were there any lights on the craft.  The light pollution from the roads and stores reflected on the bottom of the craft, allowing it to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59150.html](http://www.nuforc.org/webreports/reports/059/S59150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
