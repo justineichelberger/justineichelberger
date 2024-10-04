@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Attleboro (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange object over North Attleboro.It started off as a white light which was stationary.... after approximately 30 seconds, it appeared to be cylinder shaped, with four white lights on the side and one red light in the middle...  it moved slowly to the left.  No noise, then it went behind the trees...  Other people MUST have seen this!  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114230.html](http://www.nuforc.org/webreports/reports/114/S114230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Monroe City (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Star like object with more than usual red and blue flashing in NorthEastern sky.Looking NorthEast, midway up the horizon there has been a star like object flashing red, blue, and white light. Makes you think it may be a sattelite or something like that but it has not moved for over an hour. It is all alone in it's part of the sky and can be easily seen with the naked eye.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84334.html](http://www.nuforc.org/webreports/reports/084/S84334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
