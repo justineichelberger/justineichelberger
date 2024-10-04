@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mississippi River (from aboard a cruise ship) (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Carnival Conquest  10/04/03 Mississippi river mouth (inbound) (port-side) 2 bluish-green glowing orb's heading up-riverMy wife and I were heading inbound on the Mississippi River, aboard Carnival's Conquest on Saturday night about 11:00pm.  We were in cabin #((deleted)), standing out on the deck when 2 bluish-green glowing orb's appeared from aft and were passing the ship slowly heading up-river also. They looked to be about 50 yards out one just a little larger than the other, they had a slight varing density glow and slight varing speeds and and course changes. I first asked my wife if she was seeing the same thing followed by a quick comparitive discription, see asked me to grab the camera sitting inside just behind us but decided I wasn't missing a second of this. I'm still happy with that decision, it was not of this earth and feel very lucky to have witnessed it. We were docking that night to end the cruise and never asked if anyone else was witness. They are out there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48892.html](http://www.nuforc.org/webreports/reports/048/S48892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangle of spheres above Luxor hotelAbout 200 yards above Luxor, we witnessed three white spheres floating, then coming together to form a perfect triangle.  The three lights then all moved counter clockwise in a perfect rotation.  The lights then dispersed, floated for a moment, then completely disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114223.html](http://www.nuforc.org/webreports/reports/114/S114223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
