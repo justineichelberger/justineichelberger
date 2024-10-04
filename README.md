@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:14 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Monroe City (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Star like object with more than usual red and blue flashing in NorthEastern sky.Looking NorthEast, midway up the horizon there has been a star like object flashing red, blue, and white light. Makes you think it may be a sattelite or something like that but it has not moved for over an hour. It is all alone in it's part of the sky and can be easily seen with the naked eye.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84334.html](http://www.nuforc.org/webreports/reports/084/S84334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 18:40 - 18:40 minutes.</sub><blockquote><sub>Shiny object hovering high in the sky for a couple minutesI am a chemical engineer and an executive at a major manufacturing company. I was outside laying on the trampoline looking at the sky with my kids. Straight above us, at about the same altitude as an airplane might be, or higher, I noticed a bright object. It was evening so there was still plenty of daylight, so the light we saw was a reflection from a metal object. At first I thought it was a plane, but it wasn't moving. It was just motionless, and we watched it for at least a minute. I got out my phone and started recording but by then it was gone. Also, you can usually see the shape of an airplane, and make out the fuselage and wings. This object seemed to be round.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164810.html](http://www.nuforc.org/webreports/reports/164/S164810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
