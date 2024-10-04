@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing, skipping lights from a disc shaped object moving extremely fast in Kansas City.My two friends and I were driving south on State Line Road about 85th Street and a friend pointed northeast and said to look at the lights. I saw lights far in the distance that were red, blue and white.  I couldn't tell the shape of the object, all you saw were the motion of the lights, but you could watch the way the lights moved. The movement of the lights made it appear as if it was disc shaped.It moved in a circle around the horizon at incredible speeds, around the circumfrence of the city.  It appeared to be skipping up, down, forwards and backwards. It did two counter-clockwise diamond shaped patterns in a row on an unseen path while the lights were flashing.  That is the way it seemed to move; by skipping to a new location, sometimes in short distances, and sometimes at extreme distances. It flashed and skipped to a new point in the sky, then in a flash it skipped back to the same spot. This was all happening below the cloud level. It seemed to have no set destination to its path. It would go backwards (farther away from us) and close again. We lost it in the trees for about 30 seconds because it was so low. We followed it to I-435 and it was south of the highway and then it seemed to cross back across the highway again. It was moving so fast that it seemed it could have gone across the state and back in a few seconds. There was no sound coming from it. It moved like no object I had ever seen before.  Maybe the lights only appearred to flash because of its skipping.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32045.html](http://www.nuforc.org/webreports/reports/032/S32045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Attleboro (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange object over North Attleboro.It started off as a white light which was stationary.... after approximately 30 seconds, it appeared to be cylinder shaped, with four white lights on the side and one red light in the middle...  it moved slowly to the left.  No noise, then it went behind the trees...  Other people MUST have seen this!  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114230.html](http://www.nuforc.org/webreports/reports/114/S114230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
