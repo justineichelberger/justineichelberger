@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:52 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A red laser-like light came out of a cloud...I was walking home from a friend's house at about 9:30 that night.  While I was turning a corner, a very brief (like just a split second) red laser like light went through a small cloud, turning the cloud an erie red color.  The light stopped for about two seconds, then resumed again, but this time it flashed (kind of like morse code) for about five more seconds.  If any of you people out there know morse code, it would have looked somewhat like this on paper ( -....--...---..----. ).  I was down wind from the light, and a small breeze brought kind of a sulfer like smell with it, but I'm not quite sure if that was due to the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25532.html](http://www.nuforc.org/webreports/reports/025/S25532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 witnesses observed a fiery orange light in the southern sky over Boise, Idaho at 2145 hours on 4 Oct 2015.On 4 Oct 2015 at 2145 hours we observed a bright fiery orange light in the southern sky above Boise, Idaho.  This object moved erratically as we observed it for 10 minutes.  It went north, then east, and then gained elevation until it appeared to vanish.  We also saw blinking lights from other aircraft that approached in the vicinity of the bright object.  The object looked much larger than the other aircraft passing over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122555.html](http://www.nuforc.org/webreports/reports/122/S122555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
