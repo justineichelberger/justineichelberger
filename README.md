@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was almost sundown.  I was doing yard work in the back yard when I looked up.  Noticed an odd flame looking orb gliding through the sky headed north.  I watched it & took a video of it for almost 2 minutes as it cruised through the sky @ an elevation higher than a drone would be but way less than an aircraft.  It was hard to distinguish the shape because it honestly looked like it was glowing bright orange & didn’t keep one specific shape.  Very odd. It stayed flying linear until I couldn’t see it anymore but it was definitely the strangest thing I’ve ever seen.  I know what I saw.  My 2 minute video deleted itself once I went back to look at what I had captured & all I was left with was this short clip of the object.  Note the trees to the left of the screen.  It will give you an idea of how fast it was moving. Pretty incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141600.html](http://www.nuforc.org/webreports/reports/141/S141600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sun City (west of Phoenix) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circles of light meet and separate in a distinct patternMy husband came in the house after being outdoors at 8:30 pm. He said "Hurry out". I came out and looked up at the sky. There were 4 balls of light/translucent kind of, coming together and separating. They all had their own specific circle and then they all met at the center, coming together, to separate and do the process again. Like a dance. On the right handed side of the sky, to this event, there were 2 other circles of light, not in this pattern, but just circling in their own pattern, near each other. THere were clouds in the sky, but these weren't clouds dancing!! Myhusband has seen this (but not this particular pattern) twice before within the last year, in late July/August and before that, maybe in the winter months. Very playful, not scary or frightening at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52812.html](http://www.nuforc.org/webreports/reports/052/S52812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
