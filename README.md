@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Havertown (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Neighbors and neighborhood kids were gathered saying they were seeing a UFO- went out to see,  It was round, almost oval and sort of white translucent, like looking through a jelly fish.  It stayed completely still in the sky.  Planes overhead (we're 9 miles from an airport) were seen flying a good distance above it (both ascending and descending planes)- it did not move at all.  After about 2 hours it was gone.  People were gathered around and after awhile were caught up discussing it- when we looked back it was just gone.It was a clear Autumn day.  The weather was pleasant and cool-not particularly windy- the sky was blue without clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152576.html](http://www.nuforc.org/webreports/reports/152/S152576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fogelsville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was looking up at sky at a airplane with a blinking light heading northbound from Philadelphia area my guess would be at crushing altitude.  Above that I noticed a solid light at a much higher altitude moving southbound extremely fast towards Kutztown.  Traveling across the whole sky in 30-40 seconds  And was no satellite</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149532.html](http://www.nuforc.org/webreports/reports/149/S149532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
