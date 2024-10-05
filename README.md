@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:47 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rolla (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Crafts flying over my house it seems like every night.I went to check on the dogs outside because they wouldn't quit barking.  I decided to sit outside and watch the stars. I looked up and noticed a bright flashing craft coming towards my house it was north heading south as it was doing this it flew right over me and I could see it had circles flashing different colors.  It had to be flying about as high as a traffic helicopter would, but I heard no noise.  It then changed it's course heading east.  I watched it until it disappeared out of view, and then I decided to see if I could see anything else for a while.  About 5 minutes passed and then I saw what I assume is the same craft going west.  It was probably a quarter of a mile away, but judging by the same flash pattern.  I am pretty sure it is the same kind of craft I saw in August, that I reported here.  I have seen alot of interesting sightings.  Almost one a week it seems like.  Even two military Helicopters were flying tree top level over my house about two weeks ago.  I heard them from very far away, but didn't see them until they flew almost directly above me.  I also saw an unidentified craft heading in a south to north direction while the helicopters were flying west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59113.html](http://www.nuforc.org/webreports/reports/059/S59113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pima (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Big, bright white object seen high in sky above Pima, AZ.My husband and myself have been watching an object hanging in the sky since 0550 today (10/05/00).  It is quite high in the sky, above the large clouds (cumulus and cumulocirrus) that we are experiencing this am.  The object is silent and bright white approximatelly 45 degrees above the horizon lying directly north.  (I checked with a compass.)  The top of the object appears to be round on the lower portion with a dark vee shape cut out on the top.  Both the easterly and westerly sides of the craft are brightly illuminated.  We thought this was strange because if it were a weather balloon or something of the sort we would expect the easterly pointed side to be brighter during the sunrise.  It is now 0730 and I just ran out with my bionaculars and took another look at this thing.  It must be massive to be so high in the sky and readily visible.  My husband is a pharmacist and I am a registered nurse.   I reported another sighting to your organization last winter, but is was nothing like this  sighting.  What makes me wonder if this is anything important is that it is remaining essentially stationary.  It is just something that I have not seen before and I spend a lot of time looking at the sky.   Also, before the sun came up we both thought we saw very tiny lights traveling away from the large object.  We do not know for certain, but we both saw the same thing.   It is now about 0750.  It's still up there.  I'll keep checking on it and let your service know if anything else happens.  Thanks for being there.((NUFORC Note:  The report may describe a high altitude helium balloon.  They are often seen in NM and AZ.  We will attempt to run this one to ground.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14414.html](http://www.nuforc.org/webreports/reports/014/S14414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
