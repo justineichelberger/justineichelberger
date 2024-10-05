@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:53 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Key West (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>U.F.O HOVERS OVER CRUISE SHIP KEY WEST FLORDIA 2001 ..WE WERE ON A CRUISE SHIP OUT IN THE KEY WEST AREA..  SUDDENLY , I SAW THIS STRANGE CRAFT RECTANGULAR SHAPE WITH LIGHTS ON TOP ALL AROUND, AND LIGHTS ON THE BOTTOM.ALL AROUND. IT SEEMED TO HOVER OVER THE CRUISE SHIP,  AS IF IT WERE WATCHING US . FIRST IT WOULD JET TO THE RIGHT AND QUICK MOVEMENTS TO THE LEFT.  FASTER THAN ANY MAN MADE OBJECT THAT WE KNOW OF.TODAY.  THEN IT WOULD FLY BACK TOWARD THE SHIP.OF COURSE I DECIDED LET S SEE IF IT HEARS ME ..SO I YELLED OUT IF YOU ARE A UFO I DARE YOU TO COME CLOSER...MY GOD   MY GOD .IT DID .. AS IF IT HEARD ME .SEVERAL HUNDRED PEOPLE WERE ON DECK AT THE TIME ALL STARRING AT THIS CRAFT. I ASKED ONE OF THE STEWARDS CREW MEMBERS..DONT U THINK WE SHOULD REPORT THIS . THEIR REPLY WAS AWWW WE SEE THIS ALL THE TIME ..AS LONG AS THEY DONT HURT US , WE DONT WANT TO ALARM THE PASSANGERS , WHO DIDNT SEE THIS OR CAUSE PANIC. I HAD ALWAYS SOMEWHAT BELIEVED IN UFO S BUT THIS WAS THE FIRST TIME , AND NOW I AM A BELEIVER. THAT SOMEONE OUT THERE IS WATCHING US..AND OBSERVING US. THE SHIP CONTINUED TO FLASH BACK AND FORTH UP AND DOWN SIDEWAYS AND THEN JUST FLOAT IN ONE SPOT LIKE IT WAS HOVERING .!!!!!!AGAIN THE OBJECT WAS RECTANGULAR AND SOMEWHAT ALSO OF A SPHERE SHAPE. WITH LIGHTS ALL AROUND IT , WITH DIFFERENT COLORED LIGHTS. AND TO ME IT SEEMED LIKE IT WAS MONITORING THE SHIPS ACTIVITIES. AND WATCHING THE PEOPLE INCLUDING ME ON THE SHIP.I WISH I KNEW ABOUT THIS SITE SOONER AND HOPE THIS HELPS . BUT NOW AT LEAST IT S ON RECORD TO HELP PROOVE , THAT YES, WE ARE BEING WATCHED ,AND OBSERVED FROM WHERE ONLY GOD KNOWS !!!!!!!!!!!!!!  PS .. WE WERE ON THE SHIP THE MAJEST OF THE SEAS RE ROYAL CARRIBEAN ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64338.html](http://www.nuforc.org/webreports/reports/064/S64338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was almost sundown.  I was doing yard work in the back yard when I looked up.  Noticed an odd flame looking orb gliding through the sky headed north.  I watched it & took a video of it for almost 2 minutes as it cruised through the sky @ an elevation higher than a drone would be but way less than an aircraft.  It was hard to distinguish the shape because it honestly looked like it was glowing bright orange & didn’t keep one specific shape.  Very odd. It stayed flying linear until I couldn’t see it anymore but it was definitely the strangest thing I’ve ever seen.  I know what I saw.  My 2 minute video deleted itself once I went back to look at what I had captured & all I was left with was this short clip of the object.  Note the trees to the left of the screen.  It will give you an idea of how fast it was moving. Pretty incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141600.html](http://www.nuforc.org/webreports/reports/141/S141600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
