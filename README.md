@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:47 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Castro Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Perfect circular bright light over S.F. East Bay evening of Sunday October  5thThought it was a star...got out the 300 mm camera shot 5 from the deck looking West from East Bay Castro Valley hills from our deck</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66070.html](http://www.nuforc.org/webreports/reports/066/S66070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rolla (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Crafts flying over my house it seems like every night.I went to check on the dogs outside because they wouldn't quit barking.  I decided to sit outside and watch the stars. I looked up and noticed a bright flashing craft coming towards my house it was north heading south as it was doing this it flew right over me and I could see it had circles flashing different colors.  It had to be flying about as high as a traffic helicopter would, but I heard no noise.  It then changed it's course heading east.  I watched it until it disappeared out of view, and then I decided to see if I could see anything else for a while.  About 5 minutes passed and then I saw what I assume is the same craft going west.  It was probably a quarter of a mile away, but judging by the same flash pattern.  I am pretty sure it is the same kind of craft I saw in August, that I reported here.  I have seen alot of interesting sightings.  Almost one a week it seems like.  Even two military Helicopters were flying tree top level over my house about two weeks ago.  I heard them from very far away, but didn't see them until they flew almost directly above me.  I also saw an unidentified craft heading in a south to north direction while the helicopters were flying west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59113.html](http://www.nuforc.org/webreports/reports/059/S59113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
