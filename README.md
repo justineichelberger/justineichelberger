@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>fast moving ovals at night with unison in the skyoutside on the property in which i live ,i was walking my two dogs,and i saw two oval white yellow objects evenly spaced above at about 11 oclock in the night sky moving at a rate of about 4 inches per second aproximate in my view observing it the objects were  traveling from a northeast to south eastern path of direction they were staying in perfect alignment with eachother then they appeared to spread apart in a v like formation moving faster than the original speed,and there was no noise at all they were slightly larger than stars and smaller than the moon in size about the size of a pencil lead i would compare them to.both objects were cutting a lateral line across the sky and went from horizion to horizion in less than 30 seconds i dont know of anything that could travel that fast,no beacon lights present,and the glow was dim but brighter than the stars it was odd. at the far extent of almost out of view i saw one cut to a sharp left turn very fast in a! very small area after changing direction. i have seen many times objects like thies,and they are not the only ones i've seen at night however they had to be very high up not in our atmosphere i would estimate the distance at maybe 200 or more miles up in the night sky. what is very strange is they were stationary and then moved and i just happened to see them ...........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78200.html](http://www.nuforc.org/webreports/reports/078/S78200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avon (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright cigar shaped objects with two tails curving toward each otherCostco parking lot: I was waiting in the car when I noticed a couple parked behind me looking at a small streak in the sky through binoculars and discussing what it might be. I got out my binoculars which we keep in the car for wildlife viewing during camping. This object looked like a small bright streak but up close it looked like a point of white light with two thin, curving tails bending toward each other. A few minutes later it was under the horizon (this was around dusk) and a second appeared higher up. It looked exactly the same through the binoculars. It dipped below the horizon after a few more minutes and a third appeared, higher up and seemingly out of nowhere. This time when I used the binoculars I could see blue and red swirls toward the front of this object and again, the same curving white tails. It disappeared within a few minutes, not going below the horizon like the first two but just disappeared where it had been a moment before. I took ph! otos and the objects look cigar shaped, but there was more to them as I described.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159765.html](http://www.nuforc.org/webreports/reports/159/S159765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
