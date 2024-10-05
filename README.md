@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 4 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Multiple UFOs captured on Camera over Aurora ColoradoAttention!: More than one witness, i have video and photographic proof!  I Seen one small orange Stationary object at 21:45. Shortly after, the object emitted a very large white orb. The object then multiplied. The two large white orbs eventually took off slowly, but erratically. They seemed to have been avoiding aircraft that was present (passenger jet, helicopters, and fighter jets). The orange one, also multiplied, but kept appearing, and reappearing. This event carried on countless times over the course of 3 hours. I have over 30 minutes of compelling video unlike anything i have ever seen or imagined. I also have hours of unprocessed footage on my Go pro that i set up after i slept.  My Room mate is the witness. We were in my bedroom looking out of my window of an apartment. This happened over Aurora Colorado.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164820.html](http://www.nuforc.org/webreports/reports/164/S164820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Koh Samui (Thailand () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 sightings of orange orbs off the coast of Koh Samui, an island in Southern Thailand.I have just submitted a report and would like to add some very important details.After doing some research, I have discovered that tourists on Koh Samui release a lot of lanterns into the sky at night.I would like to think that the ufos I just reported on are in fact lanterns.Sorry for any confusion.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93383.html](http://www.nuforc.org/webreports/reports/093/S93383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
