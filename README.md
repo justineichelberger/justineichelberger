@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edgerton (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 100.0 - 100.0 minutes.</sub><blockquote><sub>Unidentified Object with flashing lights near Edgerton KSAt 2000 hours on October 5th, 2010 I went out for a smoke on my deck.  I noticed a bright object due west hovering in the vicinity of Baldwin, Kansas.I called my wife and daughter out on the deck and ask them to bring out my binoculars so that I could look at this object.The object was like a bright star but had had flashing lights. These lights were visible to the naked eye.  The object was round or oval shaped with a domed top. There was a bright white flashing light on top. Below that at the base were multi-colored lights (Re, White, Blue, Green and Yellow) flashing in a counter clockwise rotational pattern.The lights were very visible from the bottom of the object with the aid of binoculars, which my wife, my daughter and I all saw. The Object remained motionless, just hovering and silent. I estimated it about 5-8 miles away between Edgerton, Kansas and Baldwin, Kansas directly due west of Edgerton along Old Hwy 56.By 2045 hrs, I realized that this was definitely no helicopter or known aircraft.  My home is surrounded by New Century Air Century, the Gardner and Ottawa municipal airports and I and 60 miles South West of Forbes Field. I call the FAA and received no response and by 2050 called the Johnson County Sheriff’s Dept and a Deputy was dispatched. He was nearby and arrived by 2055 hrs. He observed the object and looked at it with the binoculars. I report to him that the object has been static for over an hour.  He was dumbstruck, and though it my atmospheric interference, or a UFO as in Unidentified Aircraft.  He was polite and professional and left.My family and I continued to watch the object until 2140, when I retired for the evening.I am Retired from the Army with 30 year of Service and work as a Civil Service Employee for the Coast Guard.My Wife: Works for local School district 10 years  My Daughter; 20 year old college sophomore  Sheriff's Deputy 8 years patrol experience((NUFORC Note:  Possible sighting of the star, Vega, we suspect.  It was very prominent, and chromatic, at the time, and on the date, indicated.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78191.html](http://www.nuforc.org/webreports/reports/078/S78191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Unity (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Green and red orbs over unity pondSmall green and red orbs of light moving erratically atop Unity Pond.  They hovered in place then darted across the sky at a very high rate of speed several hundred feet off the ground.  This went on for about 15 minutes before they raced off into the sky out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157337.html](http://www.nuforc.org/webreports/reports/157/S157337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
