@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was almost sundown.  I was doing yard work in the back yard when I looked up.  Noticed an odd flame looking orb gliding through the sky headed north.  I watched it & took a video of it for almost 2 minutes as it cruised through the sky @ an elevation higher than a drone would be but way less than an aircraft.  It was hard to distinguish the shape because it honestly looked like it was glowing bright orange & didn’t keep one specific shape.  Very odd. It stayed flying linear until I couldn’t see it anymore but it was definitely the strangest thing I’ve ever seen.  I know what I saw.  My 2 minute video deleted itself once I went back to look at what I had captured & all I was left with was this short clip of the object.  Note the trees to the left of the screen.  It will give you an idea of how fast it was moving. Pretty incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141600.html](http://www.nuforc.org/webreports/reports/141/S141600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Royersford (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Had some people over for a cookout and I happened to look up and see a white orb like craft hovering at well over 20,000 ft .  I live along a flight path for Philadelphia airport and a small local airport in limerick so I was able to judge the altitude.  I seen about 4 high flying plains that leave vapor fly under this thing so it was pretty high up.  It moved very slow over my house for about 2 hours until it went out of sight.  We looked at it with a telescope and spotting scope and we could see white lights on it.  Threw the scope it looked like a saucer with lights evenly around the outside with a break in the middle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149582.html](http://www.nuforc.org/webreports/reports/149/S149582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
