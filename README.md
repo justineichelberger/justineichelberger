@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:28 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Royersford (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Had some people over for a cookout and I happened to look up and see a white orb like craft hovering at well over 20,000 ft .  I live along a flight path for Philadelphia airport and a small local airport in limerick so I was able to judge the altitude.  I seen about 4 high flying plains that leave vapor fly under this thing so it was pretty high up.  It moved very slow over my house for about 2 hours until it went out of sight.  We looked at it with a telescope and spotting scope and we could see white lights on it.  Threw the scope it looked like a saucer with lights evenly around the outside with a break in the middle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149582.html](http://www.nuforc.org/webreports/reports/149/S149582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 144</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160105.html](http://www.nuforc.org/webreports/reports/160/S160105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
