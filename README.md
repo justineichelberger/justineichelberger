@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ashville (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lights in the field.  Five craft, of all different size.  Lifted from the field, and took off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78258.html](http://www.nuforc.org/webreports/reports/078/S78258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shelbyville (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>fast moving ovals at night with unison in the skyoutside on the property in which i live ,i was walking my two dogs,and i saw two oval white yellow objects evenly spaced above at about 11 oclock in the night sky moving at a rate of about 4 inches per second aproximate in my view observing it the objects were  traveling from a northeast to south eastern path of direction they were staying in perfect alignment with eachother then they appeared to spread apart in a v like formation moving faster than the original speed,and there was no noise at all they were slightly larger than stars and smaller than the moon in size about the size of a pencil lead i would compare them to.both objects were cutting a lateral line across the sky and went from horizion to horizion in less than 30 seconds i dont know of anything that could travel that fast,no beacon lights present,and the glow was dim but brighter than the stars it was odd. at the far extent of almost out of view i saw one cut to a sharp left turn very fast in a! very small area after changing direction. i have seen many times objects like thies,and they are not the only ones i've seen at night however they had to be very high up not in our atmosphere i would estimate the distance at maybe 200 or more miles up in the night sky. what is very strange is they were stationary and then moved and i just happened to see them ...........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78200.html](http://www.nuforc.org/webreports/reports/078/S78200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
