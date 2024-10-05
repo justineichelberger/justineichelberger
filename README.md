@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sun City (west of Phoenix) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circles of light meet and separate in a distinct patternMy husband came in the house after being outdoors at 8:30 pm. He said "Hurry out". I came out and looked up at the sky. There were 4 balls of light/translucent kind of, coming together and separating. They all had their own specific circle and then they all met at the center, coming together, to separate and do the process again. Like a dance. On the right handed side of the sky, to this event, there were 2 other circles of light, not in this pattern, but just circling in their own pattern, near each other. THere were clouds in the sky, but these weren't clouds dancing!! Myhusband has seen this (but not this particular pattern) twice before within the last year, in late July/August and before that, maybe in the winter months. Very playful, not scary or frightening at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52812.html](http://www.nuforc.org/webreports/reports/052/S52812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ashville (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>lights in the field.  Five craft, of all different size.  Lifted from the field, and took off.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78258.html](http://www.nuforc.org/webreports/reports/078/S78258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
