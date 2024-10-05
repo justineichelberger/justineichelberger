@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mission Hills (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO and US military play follow me if you can.A red glowing sphere about 7 ft. in diameter(like the one in "Close Enconuters") flew overhead and paused.  I was being chased by a "Chanuk 34" Marine  helecopter. It appeared to be playing with the helecopter. It moved suddenly out of the path of the approaching chopper by about 100 ft. and the chopper made a hard right turn to follow the light. it then proceeded north almost out of view, then proceded to follow the I5 freway south out of view.  about 6 minuites later  the sphere and the helecopter proceded north bound up the I5 untill it was out of site. 3days later another event happened which I will relay in another report.  Involving different craft and "men in black"((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31613.html](http://www.nuforc.org/webreports/reports/031/S31613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was almost sundown.  I was doing yard work in the back yard when I looked up.  Noticed an odd flame looking orb gliding through the sky headed north.  I watched it & took a video of it for almost 2 minutes as it cruised through the sky @ an elevation higher than a drone would be but way less than an aircraft.  It was hard to distinguish the shape because it honestly looked like it was glowing bright orange & didn’t keep one specific shape.  Very odd. It stayed flying linear until I couldn’t see it anymore but it was definitely the strangest thing I’ve ever seen.  I know what I saw.  My 2 minute video deleted itself once I went back to look at what I had captured & all I was left with was this short clip of the object.  Note the trees to the left of the screen.  It will give you an idea of how fast it was moving. Pretty incredible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141600.html](http://www.nuforc.org/webreports/reports/141/S141600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
