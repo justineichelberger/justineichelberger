@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:15 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:53 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fogelsville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was looking up at sky at a airplane with a blinking light heading northbound from Philadelphia area my guess would be at crushing altitude.  Above that I noticed a solid light at a much higher altitude moving southbound extremely fast towards Kutztown.  Traveling across the whole sky in 30-40 seconds  And was no satellite</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149532.html](http://www.nuforc.org/webreports/reports/149/S149532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Key West (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>U.F.O HOVERS OVER CRUISE SHIP KEY WEST FLORDIA 2001 ..WE WERE ON A CRUISE SHIP OUT IN THE KEY WEST AREA..  SUDDENLY , I SAW THIS STRANGE CRAFT RECTANGULAR SHAPE WITH LIGHTS ON TOP ALL AROUND, AND LIGHTS ON THE BOTTOM.ALL AROUND. IT SEEMED TO HOVER OVER THE CRUISE SHIP,  AS IF IT WERE WATCHING US . FIRST IT WOULD JET TO THE RIGHT AND QUICK MOVEMENTS TO THE LEFT.  FASTER THAN ANY MAN MADE OBJECT THAT WE KNOW OF.TODAY.  THEN IT WOULD FLY BACK TOWARD THE SHIP.OF COURSE I DECIDED LET S SEE IF IT HEARS ME ..SO I YELLED OUT IF YOU ARE A UFO I DARE YOU TO COME CLOSER...MY GOD   MY GOD .IT DID .. AS IF IT HEARD ME .SEVERAL HUNDRED PEOPLE WERE ON DECK AT THE TIME ALL STARRING AT THIS CRAFT. I ASKED ONE OF THE STEWARDS CREW MEMBERS..DONT U THINK WE SHOULD REPORT THIS . THEIR REPLY WAS AWWW WE SEE THIS ALL THE TIME ..AS LONG AS THEY DONT HURT US , WE DONT WANT TO ALARM THE PASSANGERS , WHO DIDNT SEE THIS OR CAUSE PANIC. I HAD ALWAYS SOMEWHAT BELIEVED IN UFO S BUT THIS WAS THE FIRST TIME , AND NOW I AM A BELEIVER. THAT SOMEONE OUT THERE IS WATCHING US..AND OBSERVING US. THE SHIP CONTINUED TO FLASH BACK AND FORTH UP AND DOWN SIDEWAYS AND THEN JUST FLOAT IN ONE SPOT LIKE IT WAS HOVERING .!!!!!!AGAIN THE OBJECT WAS RECTANGULAR AND SOMEWHAT ALSO OF A SPHERE SHAPE. WITH LIGHTS ALL AROUND IT , WITH DIFFERENT COLORED LIGHTS. AND TO ME IT SEEMED LIKE IT WAS MONITORING THE SHIPS ACTIVITIES. AND WATCHING THE PEOPLE INCLUDING ME ON THE SHIP.I WISH I KNEW ABOUT THIS SITE SOONER AND HOPE THIS HELPS . BUT NOW AT LEAST IT S ON RECORD TO HELP PROOVE , THAT YES, WE ARE BEING WATCHED ,AND OBSERVED FROM WHERE ONLY GOD KNOWS !!!!!!!!!!!!!!  PS .. WE WERE ON THE SHIP THE MAJEST OF THE SEAS RE ROYAL CARRIBEAN ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64338.html](http://www.nuforc.org/webreports/reports/064/S64338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
