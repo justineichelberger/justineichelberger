@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Massapequa (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Six flying objects  flew over Long Island together in formation very fast almost like 6 shooting stars in formation 8 pm. Oct 6 2015I was looking at the sky there seemed to be lots of movement in the stars I saw want seemed to be the a few stars/ lights almost visiting each other one would fly to the next.  Then I heard a siren from the firehouse and that's when I saw 5 or six ships flying together appear to cross overhead and head west.  I noticed they did not make a sound I was shaken by what I saw.  I wanted to call someone to tell them but who would believe such a crazy thing. I alway look at the sky at night I have never seen anything like this it was as if they where in a military formation I would say it was like seeing 6 mini fighter jets shooting through the sky at lightening speed.  So high in the stratosphere to be a jet plane flew in a smooth motion disappeared so fast like 6 shooting stars in a flight pattern formation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122596.html](http://www.nuforc.org/webreports/reports/122/S122596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moscow (Russia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange object glowing like a blue star(but much bigger)Object glowing like a star(but much bigger) float in the night sky. Then he was moved closer to mi home(building with 4 floor) and I saw another two shining parts of this craft. Also I heard when he was floating over my house strange noise(very soft). I can't describe he shape because lights(which don't blind) cover him like a defense from recognizing. It can't be aircraft. It can't be military secret project(in my opinion). It much bigger than Earth aircrafts or spacecrafts and his lights, they very powerfull(color of lights - blue star).((NUFORC Note:  We cannot confirm that this report was submitted from outside the U. S..  However, if it was, we wonder whether this young student may have been looking at a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25414.html](http://www.nuforc.org/webreports/reports/025/S25414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
