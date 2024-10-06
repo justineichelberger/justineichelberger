@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>The early afternoon of october 6, 2010 which was 6:45pm i was sitting in my living room and sense i have a sliding door that anyone could look outside from it i looked up and saw a silver circle passing by slowly i kept looking at it but as i watched it, it started to dissapear into the light of the sun from then on i didnt see anything more it just dissapeared and hasn't been seen since.. but i need to report another one, this other was around 9:00pm on November 12, 2010 it was like a ball of fire or flare but coming down from the sky and it dissapeared also no other sighting has been seen..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79755.html](http://www.nuforc.org/webreports/reports/079/S79755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mt.Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149692.html](http://www.nuforc.org/webreports/reports/149/S149692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
