@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Prim (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed 6 round crafts with 3 symmetrical lights on the bottom of each hover just above the cabin.Watching tv inside we heard what was thought to be thunder in the distance. I stepped out on the porch to listen and noticed the noise was constant and knew it wasn’t thunder thinking now it might be a low flying jet which was very odd. There was a layer thin of clouds at this time so I couldn’t see anything. The noise resembling a jet engine continued, but began to fade so I went back inside. Just a couple of minutes later we noticed the noise again so I went back out to observe more and stepped off the porch and as I did 3 symmetrical lights appeared thru the clouds on what I could see then to be the bottom of a round shaped object. 2 to 3 seconds after the same appeared on another craft no more than 20 to 30 feet apart. In total there 6 of the objects all with lights that came on in succession from the first hovering no more than 100ft above the ground above the tree line. I yelled for my girlfriend to come quick and she observed 3 of the objects as they ! were heading skyward to the southeast which we watched until we couldn’t see them anymore. Very bizarre and nothing like I’d ever seen before in my life! The rumbling from whatever propulsion they were using was so strong it was actually vibrating the cabin we were in almost like a low earthquake.  I tried to take a video and my phone didn’t record but a second and stopped for some reason. Just a black picture basically with a time and date stamp is all I’ve got. Same thing happened to my girlfriends phone. Did not record.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164951.html](http://www.nuforc.org/webreports/reports/164/S164951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some '' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>Lights in the skyIt is 3:30 am and driving home from work I noticed alot of blinking lights way up in the sky which did not seem to move much.  I cannot imagine that many airplanes at that time of night.  The colors of the lights were red, green and white.  They were too far up to see a shape.((NUFORC Note:  Possible sighting of twinkling stars, we wonder??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78177.html](http://www.nuforc.org/webreports/reports/078/S78177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
