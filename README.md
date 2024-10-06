@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 144</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149926.html](http://www.nuforc.org/webreports/reports/149/S149926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange flickering lights over Newark, NJI went to the back porch of my apartment to grab a smoke and as i am sitting on a chair looking out the window i see a object flickering in the clear night sky. It is not the first time i see this object it would always appear every night, never fails and always between the hours of 12AM and 3AM. The object appears to be a sphere with flickering multi color lights from the distance that i am viewing it from. I knw its not a plane or a star for the simple fact that an actual airplane would pass by and you could clearly tell the diffrence from it and you could tell the diffrence from a star for the simple fact its the only object flickering multi color lights and the stars around it are as normal as they should be. I tried video taping it but my camera would simply not reach the distance. The object would move at a steady but slow pace, and judging from the distance of my view it would ruffly move 5 inches south every 5-10 minutes. I see this object every nigh! t and it does worry me. I am a strong beleiver that we are not the only ones in this world. It would be great if someone explains to me what is there to hide.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72744.html](http://www.nuforc.org/webreports/reports/072/S72744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
