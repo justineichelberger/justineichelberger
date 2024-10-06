@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:49 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in LaCrosse (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My son who was being watched at a young age from my siting previously kept hearing scurrying noises on the deck outside his bedroom door.  He kept hearing the shuffling and tapping on his glass door and became scared so we had to block his door with furniture because he said something was looking into his room.  In the mornings we always found a perfectly round shape burned into the ground outside his bedroom.  He was having regular episodes of this nature for several years, and the burn mark was continually burned into the grass/ground.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125569.html](http://www.nuforc.org/webreports/reports/125/S125569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ticknall (near Derby) (UK/England) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Cone shaped object with lights appearing to hover in the distanceNot sure if it is a craft, but I can't explain what it is. Video footage attached. I was trying to take pictures of bats flying around in our courtyard. My digital camera can record video too, so I was using that. On replaying the footage yesterday (6th November) on my computer screen, I noticed the strange object. I think I saw it at the time (hence zooming in) but didn't really think too much about it as I was short of time needing to leave to collect my children. It was stationary behind and above the property opposite in the courtyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40486.html](http://www.nuforc.org/webreports/reports/040/S40486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
