@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:54 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Durango (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two moving lights over north-central New Mexico 7:36 pm Tue Oct 6 2009My partner and I were seated outdoors observing the south sky almost an hour after sunset. We were waiting for moon rise. Jupiter was bright in the south sky, but other stars were still dim. I looked up and noticed two stars as bright and large as Jupiter about 15 to 20 degrees above the SSE horizon, and asked "where did those stars come from?"  They were about 1-2 degrees apart, somewhat more than the distance between the stars/nebula in Orion's belt. My partner asked if they were moving - and I could see they were moving in parallel in a southerly direction, when tracked against another nearby star. They remained bright for another minute or two, then gradually dimmed in unison, and disappeared. They appeared to be objects at high altitude, picking up the sun's reflection, and large enough to resemble Jupiter (not small like a satellite). There were no blinking lights and no indication the objects were lighted themselves, just brightly reflecting the sun's light. If sighted by anyone else, these objects may be reported as flying over north central New Mexico. I suppose they could have been two airplanes flying in tandem at very high altitude, both brightly reflecting the late sun rays, but it would have been unusual to see two commercial planes flying in the same direction so close to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72759.html](http://www.nuforc.org/webreports/reports/072/S72759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 144</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149926.html](http://www.nuforc.org/webreports/reports/149/S149926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
