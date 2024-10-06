@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:34 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:49 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Very Bright blue strobbing/pulsing light in center of some type of craft that flew over house illuminating ground...I awoke from a dream in which I met alien beings and government (?) collaborator to notice a very bright or flashing light outside my bedroom window. I went to the window and saw a craft of some type (shape indeterminate) against the night sky and it had a pusling/strobing very bright blue light on the underside in center as it silently moved from south to north and way from my house.  I may be an abductee, I don't know, but all my life I have had strange sightings, including many 1960's a daytime sight -ting of a "tumbling" or "rolling" vehicle or satellite absolutely silent and traveling north to south. I'd like to talk with anyone who has had any similar sightings. Please report your event and maybe NUFOR Center will put us in touch with each other. I am only trying to verify and understand what I saw. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03353.html](http://www.nuforc.org/webreports/reports/003/S03353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in LaCrosse (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My son who was being watched at a young age from my siting previously kept hearing scurrying noises on the deck outside his bedroom door.  He kept hearing the shuffling and tapping on his glass door and became scared so we had to block his door with furniture because he said something was looking into his room.  In the mornings we always found a perfectly round shape burned into the ground outside his bedroom.  He was having regular episodes of this nature for several years, and the burn mark was continually burned into the grass/ground.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125569.html](http://www.nuforc.org/webreports/reports/125/S125569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
