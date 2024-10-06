@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I noticed two lights traveling from West to east.  Leading light was constant green (no flashing), trailing light was an intermittently flashing red and white light which when flashing was a consistent distance behind leading green light.  Travelling at very high rate of speed.  Went from one side of skyline to over Laguna mountains in less than 35 seconds.  There was no audible sound emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130470.html](http://www.nuforc.org/webreports/reports/130/S130470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chalk Hill (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hovering lights above tree line in remote wooded area.While driving home along FM 1716, I noticed bright lights hovering above the tree line (approximately 40 feet above ground) on the left side of the highway.  At first glance, I thought it was a tower of some kind, but I’ve lived on the road for five years and have never noticed lights or a tower of any kind before.  By the time I processed that it was something unusual, I had turned onto county road I live on, which intersects the section of highway where the sighting occurred.  I turned my car around and went back, but whatever the lights were, they were gone.Six to eight bright white lights formed a rectangle, there were blue or red lights mixed in, as well.  I also thought it might have been an oil platform that had been put up just that day, which would explain why I’d never noticed any lights on that section of highway before.  However, I drove past the same spot the next day. No oil rigs, no tower, just un-cleared forest.I've never seen a sighting before.  I'm not a skeptic or a believer, as there is no indisputable evidence for either stance. I'm an educated Christian - stable and reasonable - and I have no explanation for what I saw.  It was too low and small to be a plane, and it was in a stationary hover when I saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78500.html](http://www.nuforc.org/webreports/reports/078/S78500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
