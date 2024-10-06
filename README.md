@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in St. Petersburg (50 SE of) (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting was reported by an aircraft who was southeastbound from St. Petersburg Fl to Ft. Lauderdale Fl along the west coast of FL.  Pilot commented that target had been with him for quite some distance.  No observed targets on radar in his vicininty.((NUFORC Note:  Report received from FAA operations.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10136.html](http://www.nuforc.org/webreports/reports/010/S10136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball object that looked like exploded above ground about power line height continued going down road.At approximately 8:30 tonight 10/6/11 I was in my truck heading southwest on HWY 49 (Houston Road) in South Bibb Co. of Macon Georgia.  I had just passed  a Subdivision on my left which was just past  the intersection of Houston road which was on my left and Sardis Church Road on my right.  Then a car was coming toward me on my left (at this area there is a large open field on my left).I noticed what at first I thought was a falling star then I realized it was much larger maybe 2’ to 3’ in diameter, about 150 yards away.  It had colors flowing from it like a falling star.  They were red, yellow, blue, and orange flowing from around it and from behind it.  It was coming down toward the ground at about a 45 degree angle.When it was just below tree tops and just above power lines it looked like it exploded as if it had hit the ground with all kinds of colors coming from it.  Then it looked like it continued going down the road in the  direction I was going staying below the tree line and just above power lines.  It had more of a yellowish/white light coming out from behind it at this time and was going about the speed you would think of a falling star.  It made a slight turn and went out of sight which was about direction road made at that point.  It was all over in seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84375.html](http://www.nuforc.org/webreports/reports/084/S84375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
