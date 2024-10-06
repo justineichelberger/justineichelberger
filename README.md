@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:28 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ticknall (near Derby) (UK/England) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Cone shaped object with lights appearing to hover in the distanceNot sure if it is a craft, but I can't explain what it is. Video footage attached. I was trying to take pictures of bats flying around in our courtyard. My digital camera can record video too, so I was using that. On replaying the footage yesterday (6th November) on my computer screen, I noticed the strange object. I think I saw it at the time (hence zooming in) but didn't really think too much about it as I was short of time needing to leave to collect my children. It was stationary behind and above the property opposite in the courtyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40486.html](http://www.nuforc.org/webreports/reports/040/S40486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Buttonwillow (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately still visible - still visible minutes.</sub><blockquote><sub>Bright, erratically maneuvering object, spotted over Buttonwillow, CA - October 6, 2005 - 2:25 AM.Working in the oil fields, just west of Bakersfield, I happened to glance up at the night skies on my way to the drilling rig.  What initially appeared to be a bright star, quickly turned out to be something quite different.  Although a considerable distance from my point of observation, I could still make out a bright, pulsating white light, accompanied by distinct red and blue. While, at first it seemed to hover in the same spot, it suddenly began moving in short, erratic bursts of speed in all directions. I first noticed around 2:25 A.M., and it's still there at 2:50. I'm not aware of any terrestrial aircraft capable of such maneuvering; and while I'm sure that it can be "explained" by some logical means, those of us who witnessed the object had never seen anything like it before.((NUFORC Note:  We suspect that a celestial body would have to be ruled out, before we could conclude that the witness was observing a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46837.html](http://www.nuforc.org/webreports/reports/046/S46837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
