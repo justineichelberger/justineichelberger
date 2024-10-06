@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Uckfield (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>HOVERING ORB LIKE LIGHTS YELLOW/ORANGE UCKFIELD EAST SUSSEXCLEAR STARRY NIGHT NOTICED SEVEN YELLOW/ORANGE ORB LIKE LIGHTS IN THE SKY THEY STARTED MOVING VERY SLOWLY THE FRONT FIVE WERE VERY CLOSE TOGETHER THERE WAS NO SOUND WHATSOEVER THE TWO BEHIND WERE MOVING EVEN SLOWER ALMOST HOVERING WENT TO GET MY DAUGHTER TO SEE WHAT SHE THOUGHT  SHE OBSERVED AND THOUGHT THEM STRANGE AS NEITHER OF US HAD SEEN ANYTHING LIKE IT BEFORE  SHE WAS GOING TO TAKE A PICTURE WITH HER PHONE  BUT AS  SHE WAS ABOUT TO CLICK THEY HAD VANISHED. I LOOKED AT MY MOBILE AND MY WALLPAPER WAS ON ITS SIDE AND MY BATTERY HAD BEEN CHARGED ALTHOUGH IT NEEDED CHARGING LATER TONIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59117.html](http://www.nuforc.org/webreports/reports/059/S59117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Colby (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering circular object with lightsWalking out of the grocery store heading back to go to my car.  Two ladies were standing there, pointing and I looked up at what they were looking at--a circular object with four lights.  It was hovering almost directly overhead, and we were facing south.  It made no sound, and had four lights--two were green, and the other two flashed from white to red and back.They said they had watched it for not quite five minutes, and we watched it for three or four more minutes before it turned a couple of times, descended, ascended, then shot off to the northwest.I ran, following the direction it went, and I went round the corner of the building, continuing to watch the object streak off before it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114352.html](http://www.nuforc.org/webreports/reports/114/S114352.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
