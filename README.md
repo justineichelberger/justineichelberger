@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 5 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Unity (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Green and red orbs over unity pondSmall green and red orbs of light moving erratically atop Unity Pond.  They hovered in place then darted across the sky at a very high rate of speed several hundred feet off the ground.  This went on for about 15 minutes before they raced off into the sky out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157337.html](http://www.nuforc.org/webreports/reports/157/S157337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I noticed two lights traveling from West to east.  Leading light was constant green (no flashing), trailing light was an intermittently flashing red and white light which when flashing was a consistent distance behind leading green light.  Travelling at very high rate of speed.  Went from one side of skyline to over Laguna mountains in less than 35 seconds.  There was no audible sound emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130470.html](http://www.nuforc.org/webreports/reports/130/S130470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
