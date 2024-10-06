@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moscow (Russia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange object glowing like a blue star(but much bigger)Object glowing like a star(but much bigger) float in the night sky. Then he was moved closer to mi home(building with 4 floor) and I saw another two shining parts of this craft. Also I heard when he was floating over my house strange noise(very soft). I can't describe he shape because lights(which don't blind) cover him like a defense from recognizing. It can't be aircraft. It can't be military secret project(in my opinion). It much bigger than Earth aircrafts or spacecrafts and his lights, they very powerfull(color of lights - blue star).((NUFORC Note:  We cannot confirm that this report was submitted from outside the U. S..  However, if it was, we wonder whether this young student may have been looking at a celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25414.html](http://www.nuforc.org/webreports/reports/025/S25414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in St. Petersburg (50 SE of) (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting was reported by an aircraft who was southeastbound from St. Petersburg Fl to Ft. Lauderdale Fl along the west coast of FL.  Pilot commented that target had been with him for quite some distance.  No observed targets on radar in his vicininty.((NUFORC Note:  Report received from FAA operations.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10136.html](http://www.nuforc.org/webreports/reports/010/S10136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
