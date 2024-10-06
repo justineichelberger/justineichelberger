@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ticknall (near Derby) (UK/England) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Cone shaped object with lights appearing to hover in the distanceNot sure if it is a craft, but I can't explain what it is. Video footage attached. I was trying to take pictures of bats flying around in our courtyard. My digital camera can record video too, so I was using that. On replaying the footage yesterday (6th November) on my computer screen, I noticed the strange object. I think I saw it at the time (hence zooming in) but didn't really think too much about it as I was short of time needing to leave to collect my children. It was stationary behind and above the property opposite in the courtyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40486.html](http://www.nuforc.org/webreports/reports/040/S40486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I went out to my car from from work for a quick break. I was walking back inside at around 0514. Looked up at the satrs as I do most nights that I'm outside. So I know generally where the stars are located at what times. It looked as if there were more stars than usual this morning. Very bright white. Seemed as if 2 bright white lights side by side but connected. But glowing round. Thinking dang thats a bright star. But seemed about the right size and distance. Then it started moving east or northeast I believe. About the speed of a 20-40 passenger craft. A bit slower maybe. Then sped up to much faster than a prop plane. Then seemingly changed from 2 bright white lights to one glowing firery rust orange ball of light that zoomed farther away and then straight up to where I could faintly see because of its altitude, and then seemed to evaporate almost. Then nothing. No sound throughout this ordeal. Ive seen plenty of planes and jets at night. Plenty of stars.! Plenty of sattelites growing up on a lake in the Forrest. This was none of those.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150074.html](http://www.nuforc.org/webreports/reports/150/S150074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
