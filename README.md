@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>ufo over north austin west to east no sound 300 mph 5000 ft and turned off light over east o pflugervilleaircraft with no running lights and no sound at no more than 7000 feet headed west to east. fuselage or underbody not apparent to one witness but barely describeable to the other through high powered binoculars. the single light went out before the horizon.emanating light was of seemingly solar in spectrum and lack of sound was inconsistent with apparent altitude.  aircraft speed estimated at between 250 and 650 mph.  without identifiable features altitude and speed are best guesses.this thing did not have running lights, no sound, and was relatively close to the ground.best guess is that it was a drone with a full spectrum light analysis unit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103044.html](http://www.nuforc.org/webreports/reports/103/S103044.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fulton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright white light, oval shape, moving quicklyNight time, after playing cards, me and a friend were watching the skies, saw a larger size bright white light. It began in the far north sky, and was moving north northwest quickly. Seconds later it was seen moving due south, then switched to south east very rapidly. Both of us saw the exact thing. too quick for a plane with no noise made.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52888.html](http://www.nuforc.org/webreports/reports/052/S52888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
