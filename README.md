@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:39 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:59 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pleasant Hill (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw 6 very bright lights perfectly spaced apart and they werent moving, when we cam back to were they were 5 min later they were goneAs we were comming home, we went across a hill and looked over in the distance. We saw 6 really bright lights. They were just sitting there. We went down that road towards the light and when we went as far as we could go, the trees were blocking it.So we went back up to the hill were we first saw the lights, and when we got back up there, the lights were gone. It was very mysterious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32105.html](http://www.nuforc.org/webreports/reports/032/S32105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Sliver  and Red Spheres Over Long Beach CaliforniaI was down at the beach in Long Beach, CA flying a kite. The wind was blowing out of the WSW so we were looking ENE when a spherical silver object flying at a high altitude (higher than the planes) from the North to the Southern sky and then stopped and hovered for a few minutes. After a minute or so we noticed another sphere that was hovering in the sky just north of the first object. This object was spherical as well but gave off a redish reflection. The silver one then moved north and the red one moved NW at which point they faded away. Over the next hour about 5 more objects appeared over the bluffs from the NNE and flew into the corona of the sun, SW, where we couldn't see them anymore. I called LBPD who refered me to Marina Police, who transfered me to Local Lifeguards, who then came out but by that time they were gone. That call was made at 17:11. I called the FSS that told me over LB at 17:00 the wind aloft was out of NW at 15 knots for 3000 ft and out of the NNE at 10 knots for 5000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59144.html](http://www.nuforc.org/webreports/reports/059/S59144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
