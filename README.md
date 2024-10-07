@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large dark triangle . small white lights at each corner.I went outsideat about 2:30 am to move my car.  After I had moved it, and was walking back into my yard, I glanced up just in time to see a huge dark triangle with a faint white light at each of its three corners. It was moving south east. It didn't seem to be making any noise. I couldnt Judge its altitude but it was about three times the size of a full moon. It looked very sinister, and very unatural. I watched for about half a minute. Then it streaked away at a very high rate of speed.((NUFORC Note:  We believe the witness means Palm Desert, CA, not CO, as it was listed in the original report.  We have changed it here.   We spoke with this witness at some length, and we found his report to be quite compelling.  He sounded quite serious minded, and seemed quite certain as to what he had witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14474.html](http://www.nuforc.org/webreports/reports/014/S14474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Troy (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5  invisible craftsOn October 7, 2013, at 11:30 am, I viewed at strange phenomena. I think a short explanation would be good first. As you know when there is a bright light like a flash from a camera, your eyes react by seeing a black dot as you blink.  On that Monday as I looking into the western sky in Troy, Michigan.  I did not see anything unusual in the sky, but all of a sudden as I blinked I saw 5 black images that were left on my retina.  As I blinked repeatedly the image gradually faded after perhaps 30 to 45 seconds.  The 5 images were saucer shaped with a dome in the middle.  There were 3 on the left one above the other and 2 on the right higher and appeared a little larger then the others.  I could not determine speed or direction because they were imprinted on my retina.  As I turned my head the images would follow.As I said before I did not see anything but the black retinal images.  Almost as if they were so bright that I could not see them, or they were emitting a frequency just out of the visible light spectrum.It was very strange and has not occurred again, but I will keep watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103509.html](http://www.nuforc.org/webreports/reports/103/S103509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
