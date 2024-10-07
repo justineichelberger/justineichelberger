@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They had flashy lightsTheir was a big one in the middle and the other six were around it. Their were many green lights.They had these things that look like blaster canons. The big one had a red light.((NUFORC Note:  Witness elects to remain totally anonymous.  We are uncertain as to whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32116.html](http://www.nuforc.org/webreports/reports/032/S32116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gardner (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red lights in sky flying northeast direction flying same flight path one behind the other.Friday night, driving west on route 2 near the Gardner mass exits, I saw 3 red lights in the sky flying in a northeast direction probably about the same hight of a single engine sesna.  was 3 red lights in the sky flying in the same direction one behind the other at the same altitude   The lights were not blinking like u would see on a plane or jet.  There was no other aircraft in the area at that time.  It was unnatural.  This happened between 9:30-10:00 pm. Planes and jets dont fly in the same flight pattern as these lights were doing.  Sorry could not get a picture or video of the lights do to driving on the highway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130518.html](http://www.nuforc.org/webreports/reports/130/S130518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
