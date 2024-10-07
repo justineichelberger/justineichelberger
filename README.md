@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 6 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fireball object that looked like exploded above ground about power line height continued going down road.At approximately 8:30 tonight 10/6/11 I was in my truck heading southwest on HWY 49 (Houston Road) in South Bibb Co. of Macon Georgia.  I had just passed  a Subdivision on my left which was just past  the intersection of Houston road which was on my left and Sardis Church Road on my right.  Then a car was coming toward me on my left (at this area there is a large open field on my left).I noticed what at first I thought was a falling star then I realized it was much larger maybe 2’ to 3’ in diameter, about 150 yards away.  It had colors flowing from it like a falling star.  They were red, yellow, blue, and orange flowing from around it and from behind it.  It was coming down toward the ground at about a 45 degree angle.When it was just below tree tops and just above power lines it looked like it exploded as if it had hit the ground with all kinds of colors coming from it.  Then it looked like it continued going down the road in the  direction I was going staying below the tree line and just above power lines.  It had more of a yellowish/white light coming out from behind it at this time and was going about the speed you would think of a falling star.  It made a slight turn and went out of sight which was about direction road made at that point.  It was all over in seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84375.html](http://www.nuforc.org/webreports/reports/084/S84375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some '' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Lites reported over Hwy 880 at 5am in California.on my way to work this morning heard on the radio station (KKIQ) that people reported seeing lites in the sky over Hwy 880 at about 5am. There was no other mention or info on the lites reported from the station later in the morning.Also last nite 11pm-11:30pm military helos were flying low enough to rattle the windows in our home.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25441.html](http://www.nuforc.org/webreports/reports/025/S25441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
