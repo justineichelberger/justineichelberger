@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Topsail Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>glowing orange ball about 5' diameter observed at Topsail beach at roof top level..changed shape .elevated, then leftobject about 50 yards away appeared at roof level of ocean front home..approximately 5' diameter..dropped down only to reappear three houses down at roof level again...about 1 minute orangeso far..called for witness who then also observed the object slowing moving down Highway 50 toward the town of Topsail Beach..object then took on a diamond shape as observed from behind..elevated..accelerated  and was visible for 30 more seconds then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84458.html](http://www.nuforc.org/webreports/reports/084/S84458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Libya () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright red circle shaped object that was moving straight and zigzaging.I used to work abroad in libyan desert on oil rigs, and i was very familiar with the area, cause i been going there for many years. Every evening after work me and a friend of mine, he is also Maltese guy, we go for a long walk and chatting together just to pass the time, because in the desert there's nothing else to do besides working all day. It was a clear night with all the shining stars, and we were very far away from our camp site and nothing else was visible around our camp area, we were alone in this location. The area was really flat with no sand dunes around. While we were walking my friend was looking at the sky when he stopped suddenly, and i told him what's wrong and he said look up there and i saw a round shape very bright red colour the size of a football moving staight slowly then stopped, then start moving again but in zigzag pattern like, then stopped again, then went backwards straight and increased it's speed that in 2 sec it vanished. We were amazed by this sight and to be  honest i was a little scared after the sighting. When we got back to camp none of our friends believed us and told us you were imagining so i didn't take it seriously, so i didn't bother much in mentioning about this for a long time.Who knows maybe it was really a U.F.O.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33012.html](http://www.nuforc.org/webreports/reports/033/S33012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
