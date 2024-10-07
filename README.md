@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gardner (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red lights in sky flying northeast direction flying same flight path one behind the other.Friday night, driving west on route 2 near the Gardner mass exits, I saw 3 red lights in the sky flying in a northeast direction probably about the same hight of a single engine sesna.  was 3 red lights in the sky flying in the same direction one behind the other at the same altitude   The lights were not blinking like u would see on a plane or jet.  There was no other aircraft in the area at that time.  It was unnatural.  This happened between 9:30-10:00 pm. Planes and jets dont fly in the same flight pattern as these lights were doing.  Sorry could not get a picture or video of the lights do to driving on the highway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130518.html](http://www.nuforc.org/webreports/reports/130/S130518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>brief sighting of object with faint amber lights traveling over SeattleLooking due south from my house sometime shortly after 8 p.m., saw a very faint shape heading south about 60 deg up from the horizon.  At first I thought it might be a reflection from a ground-based spotlight, (i.e. the kind you'd see at a movie premiere, or in the 20th century fox logo, etc.) but looking closer it appeared to be a shape moving in a linear southbound path.  It was faint enough that I can't be sure of a coherent outline, but my best guess is that it was bow-shaped, i.e. an archery bow without the string.  Faint amber lights were spread across it, perhaps 10 or 20 in total.  The object was perhaps twice the diameter of the moon in width.  There was fog to the south, and it moved behind that and disappeared.  I kept looking around for another 20 minutes or so, but saw nothing further. First time I've seen anything like this, I'm a skeptic about UFO sightings, and it was brief enough that I'm still questioning what exactly I saw, or if it was some kind of optical artifact.  I'm willing to accept that I might be mistaken about all this, but it was still affecting enough that I'm here posting this account.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72761.html](http://www.nuforc.org/webreports/reports/072/S72761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
