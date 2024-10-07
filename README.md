@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:42 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>object in sky sped up and slowed down and was very brighti was sitting on my friends trampoline and we were looking at the stars through a telescope and my friend noticed a bright circle object going around in a circle numerous times i thought nothing of it because my friends dad whos is very smart said it was probably a satelite. so we went on doing our business when we saw it again it was brighter than before so i loooked at it through the telescope and it looked like a giant star except bright white and it kept on getting brighter and then it slowed down and sped up very quickly and then vanished. i have seen this many times since then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14617.html](http://www.nuforc.org/webreports/reports/014/S14617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in West Valley City (UT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Young woman & boyfriend witness "a black obj,...a round black disc w/ a dome," move slowly overhead.  Suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00884.html](http://www.nuforc.org/webreports/reports/000/S00884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
