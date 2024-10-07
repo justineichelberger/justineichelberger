@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:17 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 38.0 - 38.0 minutes.</sub><blockquote><sub>I couldn't sleep so I went outside to smoke. Noticing that the clouds appeared to be much brighter than usual,I walked into the yard to look at the Harvest moon.  Unfortunately, that is not the only thing I observed. Above my house, there were several (over 100), star-like objects extrememly high in the atmosphere. The objects were moving much slower than conventional aircraft. This information is based on observations of comercial crafts in the PHX flight path. The objects were of varying sizes or at different altitudes making their size appear to be ether larger of smaller. The objects did not appear to change their formation. There were several clusters or groups with the balance seameing to be at predetermined distances. The objects moved from the North heading South over Luke airforce then turned sligtly South/East. If their flight path remained consistant they eventually would have overflown Tucson. Not wanting to be the only one who saw these objects, I ran into the house and woke my roommate.  Together, we observed these objects for over a half hour. I got disheartened when after calling 911 they acted like I was some sort of retardo or drunk... I instructed them to go outside and to take a look for themselves. The  objects movement with relationship to the stars was impossible to miss!  Shortly, therefore, I called "Channel 12 Breaking News."  The only question they asked me was did I get any film of them.  No, I said: "I don't usually go out for a smoke or at any other time with a video camera in my hand!"  Almost immediately after my call to 911 at least two military aircraft were scrambled.  Where as the military always denies these scrambles or flying that late at night . . . you can take it from there. My roommate and myself are college graduates and our ages are 58 and 60 respectively.  We are both professionals living and working in the Phoenix area. Neither of us drink or use drugs.  We don't need attention . . . we seek answers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52836.html](http://www.nuforc.org/webreports/reports/052/S52836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large dark triangle . small white lights at each corner.I went outsideat about 2:30 am to move my car.  After I had moved it, and was walking back into my yard, I glanced up just in time to see a huge dark triangle with a faint white light at each of its three corners. It was moving south east. It didn't seem to be making any noise. I couldnt Judge its altitude but it was about three times the size of a full moon. It looked very sinister, and very unatural. I watched for about half a minute. Then it streaked away at a very high rate of speed.((NUFORC Note:  We believe the witness means Palm Desert, CA, not CO, as it was listed in the original report.  We have changed it here.   We spoke with this witness at some length, and we found his report to be quite compelling.  He sounded quite serious minded, and seemed quite certain as to what he had witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14474.html](http://www.nuforc.org/webreports/reports/014/S14474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
