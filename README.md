@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Abilene (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 red lights appear and disappear in the southeast skys over Abilene.I am a manager at a restaurant in Abilene, Texas. One of the other managers said for the past 2 nights he had been seeing strange lights in the sky above his house in Potosi, about 5 miles southeast of Abilene.  He called me at work on the night of October 7th, 2010 around 8:30 or so and told me to look outside. I went outside and looked southeast. I saw 2 red lights appear in the sky, hover stationary for 2 or 3 seconds and disappear. About 5 minutes later, my grill cook came outside to smoke a cigarette, he came over to stand next to me and saw the same exact thing happen again, in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78222.html](http://www.nuforc.org/webreports/reports/078/S78222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I, and another individual, observed a triangular-shaped, multi-colored, silent object slowly traverse the night sky of New Haven, Conn.I was a graduate student attending Yale University. I was lounging on the roof of one of the University buildings (located in the heart of downtown New Haven) in the company of 2 other students. One student was about 30 feet away and was standing near the edge of the roof and was looking down at the street. I was lying on my back looking at the beautiful clear summer night sky. The other student, a friend named ((name deleted)), was crouched next to me and was talking to me. As I looked at the stars I suddenly noticed, coming into view, a triangular-shaped object moving rather slowly, and very smoothly, across my field of vision. It had rounded edges, made no noise I could hear, and had solid, regularly spaced bands of various colors which slowly passed across it's glowing, illuminated surface. I was stunned, and remember thinking "What the hell is that?" After a few minutes it faded from view, and I realized that I had just seen a UFO. At this point I had said nothing, and ((name deleted)) was still jabbering away to me about whatever. A minute or two later the same object, or a second, identical object, traversed the night sky above me, but in a different direction (I do not recall N/S/E/W details). This time I said to ((name deleted)) "Hey! Look up there and tell me if you see that?"   He looked up and exclaimed (and I remember thinking this was funny) "What the hell is that?"   I can't judge the size of the object because there was nothing available to apply scale, but I had the "feeling" it was something quite large and several hundred yards above.  I think I got this sensation because of how stately it moved across the sky; absolutely smooth, straight, and rather slowly. To this day I am grateful the damned thing gave me a second chance to get ((name deleted)) attention. If no one else had seen it I might think it was just my imagination. I don't know what it was, but it absolutely was not a planet or a star, nor a prop-aircraft, a jet, a copter, a kite, a satellite, nor do I think it was a blimp (although I suppose this is a remote possibility, but it would it have to have been one helluva weird blimp).((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42244.html](http://www.nuforc.org/webreports/reports/042/S42244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
