@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:37 on 7 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some '' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Lites reported over Hwy 880 at 5am in California.on my way to work this morning heard on the radio station (KKIQ) that people reported seeing lites in the sky over Hwy 880 at about 5am. There was no other mention or info on the lites reported from the station later in the morning.Also last nite 11pm-11:30pm military helos were flying low enough to rattle the windows in our home.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25441.html](http://www.nuforc.org/webreports/reports/025/S25441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Scandia (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw an object in the sky that didn't appear to be moving.  It shot out lights in all directions from it's center. The lights would switch from green to red.  I thought it was an advertising gimmick of some sort.  I wanted to drive over to where the light was comming from to see what was causing it.  The others who saw it, (my wife & 2 kids, and 2 of their cousins, decided to go inside instead.  I stood outside watching it and the lights were red and they slowly faded away twards the objects center.  Then the object slowly flew off to the South.  It blinked red and green as it flew.   At that time I noticed another object further East and North that seemed to be the same kind of craft.  It was blinking red and green also, but did not shoot lights out from it's  center. I got my wife to come out and see the 2nd similar object.  I wouldn't have thought anything of them had the first one not shot out those lights.   Here's the strange part.  We were having a weenie roast outside, and to impress the kids I shot off 4 fireworks. We were heading inside right after the last firework when we first noticed the first object.  I called the Washington County Sheriffs office an hour later to see if anyone else had reprted seeing these objects and was told no.  When I described the shooting lights The lady on the phone asked me if I was sure they were not fireworks.  The sighting ended about 10 minutes after I first noticed them as they flew out of sight to the South.((NUFORC Note:  Possible twinkling stars, we suspect.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46864.html](http://www.nuforc.org/webreports/reports/046/S46864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
