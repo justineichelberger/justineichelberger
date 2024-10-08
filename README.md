@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Avoca (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sphere seen twice in close proximity and less than 6 months between the 2 sightings .Extremely large Sphere, silver or chrome in finish/color, appeared to be hovering in the sky , not moving then suddenly seemed to disappear in to the stratosphere. I was driving my car on NYS highway 415 northbound and the sphere was hovering above the hills that run parallel to state highway 415 in Avoca, NY by the gas station and corn field. It is hard to discern exact size, since I observed the sphere while in a moving vehicle. The same experience took place approximately 4 months ago, at approximately the same time, and the skies were also approximately the same conditions. Blue sky, little wind, partly cloudy and sunny. The first time I saw the sphere it was hovering and disappeared like a flash in to 'space'. At first I thought they might be satellite or Google devices but they move too quickly. The first sighting was located in almost the exact same spot in the sky and the sphere looked the same. Thus my urgency to report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164908.html](http://www.nuforc.org/webreports/reports/164/S164908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Was gazing at the huge golden half moon low on the horizon with my fiance this evening, when all of a sudden we saw a glowing, pulsating bright red & golden light moving towards us from west to east where we were standing.  It looked like a flickering glow, getting larger and moving fast, then slower.  We made sure to keep our eyes on it the whole time so as not to see it disappear when it went behind the trees.  Then it slowed way down and hovered high above us still flickering & sparkling till it came to a complete stop.  Then within 30 seconds, it started to slowly fade until we could no longer see it anymore.  Like it was dimming down a little at a time until it was gone.  Didn't see any shapes, was a extraordinary and we could hardly believe what we were seeing.  It was spectacular to witness.((NUFORC Note:  We have changed the time of the sighting, to reflect a nighttime event.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130524.html](http://www.nuforc.org/webreports/reports/130/S130524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
