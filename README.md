@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:07 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hammond (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Sighting during the blood moon.My friend/ boss and I were standing outside watching the eclipse and looking at the stars starting around 4:30 am on highway 190 going toward Albany.  Around 4:43 am we saw a shooting star or two which isn't uncommon, but a few minutes later we both looked up when we saw a light that had appeared out of nowhere and was just hovering there for about a second, then lit up brightly and took off north much like something out of Star Wars.   We have seen a lot of shooting stars in our day, but this actually startled us because it certainly was not even close to a comet coming into orbit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115002.html](http://www.nuforc.org/webreports/reports/115/S115002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bedford (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Constant white/red light at high altitude seen in TexasAt approximately 20:42 on a clear night (10/08/2019), a bright white light was seen by 2 individuals in Bedford, Texas.  It was obvious this light was not coming from an airplane, as it was constant (not flashing) and white.  Airplanes were seen in the vicinity, but were at a much lower altitude than the white light.  The white light seemed to be moving slowly across the sky, but appeared to be getting progressively smaller as if the light was increasing altitude.  The light then stops moving across the sky and changes from white to red before fading out completely.  We have never seen anything like this before and I felt compelled to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149646.html](http://www.nuforc.org/webreports/reports/149/S149646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
