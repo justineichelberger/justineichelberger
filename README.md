@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paul’s Valley (near) (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving north on I-35, past Paul’s Valley, Okla, but not close to Purcell.It was white and round.  Didn’t move as far as we could tell.  Was not moon or stars!  Bright daylight.  Have no idea what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136635.html](http://www.nuforc.org/webreports/reports/136/S136635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I woke up and saw a bright orange light hovering outside my window.I woke up at approximately 2 am after hearing my uncle cry out because he had pain related to a recent surgery.  Upon waking I saw these lights hovering outside my window a few feet away. I grabbed my cell phone and snapped a picture before attending to my uncle, when I went back to my room, the lights were gone.  We have a barn right outside the house; the UFO was near the barn. We have a light attached to the outside of the barn.  A few days later my father went to change the light bulb in that light, and it was shattered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79220.html](http://www.nuforc.org/webreports/reports/079/S79220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
