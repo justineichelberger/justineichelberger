@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:39 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:48 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spencerville () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Chrome Tic-Tac Craft in clear sky in Dekalb County, IndianaUFO sighting 7:08PM Spencerville, IN USA Dekalb County Craft seen at 40 degrees angle about 1-2 mile away.  Saw in SW sky.5-10,000 feet high. Was a lot lower than typical commercial air pattern.Appx 20-40 feet long Chrome color, tic-tac shape, no wings No sound, no exhaust. The sun reflected off of object.Perfectly clear sky. Gentleman witnessed with his 7 year old son. The son spotted the craft and pointed out to his father. The father looked down at son and back up and the craft was gone. 30 second sighting.Madar node #81 is 1-2 miles from this location of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159843.html](http://www.nuforc.org/webreports/reports/159/S159843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were star/moonlight gazing when we noticed a bright light traveling west to east at a slow speed over old town La Quinta.  Disappeared in front of the moonlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149718.html](http://www.nuforc.org/webreports/reports/149/S149718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
