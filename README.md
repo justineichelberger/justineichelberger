@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clarksville (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was heading to work when I noticed a red spark in the sky.  Then this star that was stationary moved away from the red explosion and two other white lights showed up.  Red spark happened instantly and disappears the lights appeared for a few seconds then disappeared where the red spark happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149622.html](http://www.nuforc.org/webreports/reports/149/S149622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Colts Neck (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green glowing craft seen over colts neck high schoolI was driving westbound on rt 537 when I noticed a green circle or sphere in the sky at approximately 45 degrees up from my location, at 11:00 (just to the left of the direction of the road).  I was approaching colts neck high school at the corner of 5 points road.  It was specifically noticeable because there were other traditional aircraft in the background moving and this light was absolutely still.  Moments after I focused my eyes on it and started to slow down the car, it darted extremely quickly in a green blur toward the north/northwest.  I know it sounds cliche but it looked like the the enterprise going warp.   Dead still and then a blur for a distance and then gone.  Green.  Bright green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149639.html](http://www.nuforc.org/webreports/reports/149/S149639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
