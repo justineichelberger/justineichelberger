@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:39 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Was gazing at the huge golden half moon low on the horizon with my fiance this evening, when all of a sudden we saw a glowing, pulsating bright red & golden light moving towards us from west to east where we were standing.  It looked like a flickering glow, getting larger and moving fast, then slower.  We made sure to keep our eyes on it the whole time so as not to see it disappear when it went behind the trees.  Then it slowed way down and hovered high above us still flickering & sparkling till it came to a complete stop.  Then within 30 seconds, it started to slowly fade until we could no longer see it anymore.  Like it was dimming down a little at a time until it was gone.  Didn't see any shapes, was a extraordinary and we could hardly believe what we were seeing.  It was spectacular to witness.((NUFORC Note:  We have changed the time of the sighting, to reflect a nighttime event.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130524.html](http://www.nuforc.org/webreports/reports/130/S130524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spencerville () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Chrome Tic-Tac Craft in clear sky in Dekalb County, IndianaUFO sighting 7:08PM Spencerville, IN USA Dekalb County Craft seen at 40 degrees angle about 1-2 mile away.  Saw in SW sky.5-10,000 feet high. Was a lot lower than typical commercial air pattern.Appx 20-40 feet long Chrome color, tic-tac shape, no wings No sound, no exhaust. The sun reflected off of object.Perfectly clear sky. Gentleman witnessed with his 7 year old son. The son spotted the craft and pointed out to his father. The father looked down at son and back up and the craft was gone. 30 second sighting.Madar node #81 is 1-2 miles from this location of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159843.html](http://www.nuforc.org/webreports/reports/159/S159843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
