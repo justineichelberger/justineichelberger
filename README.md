@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Snowmass VIllage (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Reddish, round object in Southeast sky in Snowmass Village, COAt about 22:00 hours on 10/08/11, I saw a reddish, round object in the sky to the Southeast of Snowmass Village, CO. It was about 45 degrees above the horizon.  It was larger than any stars in the sky, and it appeared as though it was moving from South to North.  I watched it for about 3 minutes. In that time, the object moved slightly left and right.  After about three minutes, the object appeared to move toward the East, Southeast, and it faded from view.There were high, thin clouds in the area.  The clouds were not thick enough to obscure brighter stars of the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84426.html](http://www.nuforc.org/webreports/reports/084/S84426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in River Falls/Prescott (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large light/objects seen in sky during daytime.I was sitting on my deck and leaned my head back to stretch and noticed a bright light in the sky.  I couldn't figure out what it was so I kept watching it.  It was a clear, blue-sky day with no clouds.  The object was very bright and the lights were sort of on the sides.  It was like reflective lights that were flashing very quickly.  The object had a triangular shape and was gray in the center in between the lights.  The object was stationary and then quickly shot off to the side and disappeared.  A few seconds later the object appeared again in a different spot along with more similar objects.  At one point several of the lights/objects went into a circle shape and then zoomed off and disappeared.  The objects kept appearing, veering off VERY fast and then reappearing smaller, which just seemed farther away.  I took a video the last minute, or so.  Another person saw the lights toward the end, when they were smaller and farther away.  My dog started barking! ferociously when the original object veered away rapidly.   These objects were also moving around the sky erratically, quickly changing direction or disappearing and reappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136638.html](http://www.nuforc.org/webreports/reports/136/S136638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
