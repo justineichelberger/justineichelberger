@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Albertville (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The object was round and it looked like an orb or fireball, it had green color to it like a weld spark.  I saw it for about 5 seconds when it disappeared into the woods.  At the moment of the event there was no sound of anything that hit the ground.  It just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164933.html](http://www.nuforc.org/webreports/reports/164/S164933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was one craft with white lights going very slow, then stopped, then the craft went back the way it came 3x it's original speed.The location of this sighting was at Ben Davis High School in Indianapolis, IN.  But i live in Brownsburg, IN. I was there for a marching band competition, and I was facing east, and the object was heading to my left. My friend which was standing next to me also saw the object.  I saw the object for maybe 2-4 minutes, and the time was between 8pm-8:30pm.  The craft seemed large, and it was maybe a mile or so from where i was. I only saw the lights of the craft, I never saw any body to it.  The lights on the craft, which were white and there was two lights which did not change color.  The lights were close to each other, and appeared to be just a straight line. It was about maybe at a 40-45 degree angle from where I was standing. The reason I was watching this was because it was moving pretty slow, slower than a man made aircraft, and the lights were not blinking like planes, helicopters, etc usually have.  The lights also seemed like they were flickering a little ! at times but neither light was ever turned off.  It traveled east and it stopped after slowing down slightly, then stayed in the same spot maybe 3-5 seconds, then the lights became a little brighter.  After that without turning around it went the way from which it came, and now i could see a third white non-blinking light which was the same size and color as the other two. These three lights made a triangular shape.After starting back from the way it came, the craft was going maybe two to three times it's original speed. My view was blocked by a tree in the distance, about a minute after it starting going back from the way it came. Then after that my view was blocked because of buildings and trees etc in the distance. I do not know if there were any noises or anything because there were bands practicing around us, and lots of people talking. I did not see it again after that for the rest of the night.P.S. Please, if an investigator calls me, I cannot accept calls during school hours, which is 7:50 am-2:50pm.  Any other time on a weekday after 3pm, except Tuesdays and Thursdays between 6:30-9pm which I have marching band practice.  Or after noon on Sundays would be fine to call. I am busy with marching band on saturdays until the season is over in a couple weeks. I also could communicate through e-mail. ((NUFORC Note:  We spoke via telephone with this young witness, and he sounded to us to be a quite sober-minded young man.  We hope that the other witness to the event will submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84437.html](http://www.nuforc.org/webreports/reports/084/S84437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
