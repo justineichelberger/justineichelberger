@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Harrison (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I went outside on my front porch and I looked toward the southeast and saw 8 orange lights in the sky.  I first thought it was helicopters then one disappeared and reappeared.  I was like mind blown.  I told my wife to come look.  She came outside to look and then we got in our car and started driving toward the lights which are now over the small airport and spread abroad but still close together.  At one point one just moved real fast across all of the others then they just started fading away.  My mind is totally blown.  Didn't believe much in this kind of stuff but tonight has me thinking different.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130509.html](http://www.nuforc.org/webreports/reports/130/S130509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Snowmass VIllage (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Reddish, round object in Southeast sky in Snowmass Village, COAt about 22:00 hours on 10/08/11, I saw a reddish, round object in the sky to the Southeast of Snowmass Village, CO. It was about 45 degrees above the horizon.  It was larger than any stars in the sky, and it appeared as though it was moving from South to North.  I watched it for about 3 minutes. In that time, the object moved slightly left and right.  After about three minutes, the object appeared to move toward the East, Southeast, and it faded from view.There were high, thin clouds in the area.  The clouds were not thick enough to obscure brighter stars of the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84426.html](http://www.nuforc.org/webreports/reports/084/S84426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
