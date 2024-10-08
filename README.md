@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Colts Neck (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Green glowing craft seen over colts neck high schoolI was driving westbound on rt 537 when I noticed a green circle or sphere in the sky at approximately 45 degrees up from my location, at 11:00 (just to the left of the direction of the road).  I was approaching colts neck high school at the corner of 5 points road.  It was specifically noticeable because there were other traditional aircraft in the background moving and this light was absolutely still.  Moments after I focused my eyes on it and started to slow down the car, it darted extremely quickly in a green blur toward the north/northwest.  I know it sounds cliche but it looked like the the enterprise going warp.   Dead still and then a blur for a distance and then gone.  Green.  Bright green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149639.html](http://www.nuforc.org/webreports/reports/149/S149639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Midway City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 36.0 - 36.0 minutes.</sub><blockquote><sub>crazy lights moving in a triangluar pattern acrost the sky, one of them split into 2 and streaked acrost the sky.me and my mother were driving northbound to go to the store when i looked up and saw 3 unusually bright lights that were in a triangular shape. they were moving around, but keeping this triangular patern. then all of a sudden a fourth appeared in the center and lingered around for a few seconds, before dissapearing. then 1 of the lights that made the triangular shape grew brighter then dissapeared the other 2 remained lined up and kept a path acrost the sky in a westward direction. all of a sudden one of the lights grew brighter then started to fade quickly, and the other split into 2 smaller lights which streaked parallel to each other in an eastern path, before 1 dissapeared and the other streaked at an incredible speed in a westward direction, where we lost sight of it.the entire sighting happened from 9:52 PM to 10:28 PM pacific time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66131.html](http://www.nuforc.org/webreports/reports/066/S66131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
