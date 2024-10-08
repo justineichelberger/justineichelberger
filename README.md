@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:48 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in La Quinta (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My son and I were star/moonlight gazing when we noticed a bright light traveling west to east at a slow speed over old town La Quinta.  Disappeared in front of the moonlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149718.html](http://www.nuforc.org/webreports/reports/149/S149718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harpers Ferry (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Red and white flashing light over Harpers Ferry, WV.The object was almost directly overhead, slightly north/northwest.  Far up in the sky.  It was a bright light that I first thought was a plane, because the light flashed bright white and then a dull red. However, it never moved across the sky.  It just flashed white, red, off, white, red, off, for roughly 4 or 5 minutes.  Then it seemed to shrink in size and abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122822.html](http://www.nuforc.org/webreports/reports/122/S122822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
