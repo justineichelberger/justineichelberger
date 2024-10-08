@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Ellisville (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red blue and green revolving lights moving in a straight line down and a quick 90 degree turn then vanished.My mom and daughter were taking me home and when we got out of the car my daughter said" what's that".  We looked up and there was a red, blue, and green diamond shape moving straight down.  Not gradually declining like a plane or chopper would but a 90 degree straight down.  We stared at it for a couple minutes then it made a perfect 90 degree left turn and shot out of sight.  It moved unlike any man made craft can move. It was probably at 10000 ft then dropped straight down hovered for a little then poof, it was gone.  The light was a constant revolving red, blue, and green.  It was the most mind blowing thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165006.html](http://www.nuforc.org/webreports/reports/165/S165006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Midway (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright, reddish-orange sphere or fireball was traveling west in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84442.html](http://www.nuforc.org/webreports/reports/084/S84442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
