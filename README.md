@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>formation of lights 4 white 1 red with amazing sign-wave pattern over entire craft.I viewed a formation of lights that came in from the north east and traveled south, four white lights and one red, they hovered in the sky briefly then flew directly over head, there was no sound and no contrail, these craft had no visible navigation or anti-colision lights. I was amazed as they passed over head the craft were brightly lit, and the light seemed to move around them in a sign-wave pattern like you might see on a oscilloscope or frequency generator, and they were all at the same frequency. I am a pilot and licensed mechanic with a strong background in engineering and design, I have been viewing aircraft for thirty years  I have never seen anything quite like this I had my camera and was able to get a couple of photos, these craft were faster than normal aircraft I only had time to point and shoot, I think it is very notable that this sighting had taken place on a day with heavy (chem-trail) spraying? Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53145.html](http://www.nuforc.org/webreports/reports/053/S53145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Colts neck (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White orb floating in sky turns green and shoots awayDriving in my car on rt18 north in New Jersey, near mile marker 17, at approx 8:08pm, on October 8th, 2019, I witnessed a white orb moving in the sky outside the driver's side window, it paused briefly, then transformed to an odd emerald green color, then shot across the sky instantly.  The movement of it was very odd, very jerky and sudden as it took off and was gone in an instant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149651.html](http://www.nuforc.org/webreports/reports/149/S149651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
