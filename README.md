@@ -224,7 +224,11 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-
+- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
+- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
+- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
+- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
+- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
