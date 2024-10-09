@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:18 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woodbourne (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>A basket -shaped object, intense orange at the base white "flames" at the top standing still in an empty fieldA basket shaped object close to the ground, standing still.  Very brillant day glo orange at the base of the object, in the center a light yellow, and at the top white colored "flames", flame shaped white spikes coming from the top of the "basket".I observed this for about 5 seconds or more and as I began to comprehend what I might possibly be observing, bang!   All the lights went out.I was inside a building located on a hill looking outside a window looking down into what I know to be a large field in a rural area.I've seen a UFO before; the famous sightings over St. Louis, MO in the late 1950's so I have some reference regarding the intense brillant orange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93457.html](http://www.nuforc.org/webreports/reports/093/S93457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Allentown (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Multicolored fiberoptic looking sphere.The object first caught my attention, because the sky was so clear, you could see everything.The object seen first looked like an extroardnarily bright star, just larger. After paying closer attention to it, we realized these beautiful colors all over the object. I then retrieved my binoculars for a closer look and what we saw was just amazing, and so vivid. There was no haze, no aura, and it just remained in the same spot for about a half hour until it slowly(at least slow to the naked eye) began moving south. Also to clarify the location, it was east of where we were and we were looking to about a 45 degree angle. The sphere then paused again and seemed to remain in its new location, for the remainder of the sighting. I had viewed it through the telescope also which made it that much more clear, only to reveal a spherical shape just completely covered in this constant changing, almost electrical light. It was blue,purple,red,yellow, green, and it just kept cycling through these colors over and over again. To be more precise on the shape, it looked exactly like the big Epcot center ball(with the same outer texture or paneling,whatever) in Disney World, just bigger and luminescent. I also found it pretty peculiar that at no time during this sighting was there even a trace of any other aircraft in the sky, and the air traffic is usually constant.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Possible twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52857.html](http://www.nuforc.org/webreports/reports/052/S52857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
