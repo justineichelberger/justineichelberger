@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kimberly (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>EGG SHAPED WITH A T IN FRONT  AND UNUSAL LIGHTSI WENT OUT SIDE TO THE CAR TO GET MY PURSE OUT OF IT .  AND LOOKED UP TO THE SKY AND SAW ODD SHAPED OBJECT ABOVE IT WAS DARK I COULDN'T TELL WHAT COLOR IT WAS BUT THE WAY THE LIGHT PATTERN LOOKED IT WAS SHAPED LIKE AN EGG WITH A T ON THE FRONT. IT HAD SOME INTERESTING LIGHTS ON IT BLUE RED GREEN AND YELLOWISH ORANGE FLASHING ONE AT A TIME((NUFORC Note:  The witness does not indicate whether the sighting occurred in the moring, or at night, but we presume it occurred in the morning, given the time of submission of the report.  We have entered that time here.  As a result of the time indicated, the object obviously was not a twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14463.html](http://www.nuforc.org/webreports/reports/014/S14463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Being clear sunny early morning that made it so unbelevaible  that i just can't deny what i saw. for the second time.Early morning about 0730am while taking my kids too school,I notice out of my front window,a shining ball of light but not relly light.You know when something is reflecting off sunlight it looks differnt then a regular light.So what ever it was i new right thier and then it was something differnt then just a air plane light or anything related to that.So I slowed down and observed this light and notice it was just hovering,but rotating or moving in some slow motion,because the shining reflection off the sun was going in and out,like shifting side too side.And when this happen you could see at times,the dark metallic color and shape of this object.And from where this ufo was hovering,it must have been over a gruop of houses,which made it so strange becasue it wasnt relly high for people not to see it. P.S. SAC,CA((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22518.html](http://www.nuforc.org/webreports/reports/022/S22518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
