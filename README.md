@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:50 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Several hazy images, seemingly attached solidly in space, in a "V"/Chevron shape.I was taking a quick jog around the block, and investigating the sound of a helocopter and a police pulled over car.... But as the helocopter flew west, out of sight and sound to the mountains above Denver, I looked up at the sky....A vague set of contrasted shapes, in the shape of a "V", seemingly flowing the path of the helocopter's.Basically, they seemed to be the reflection of city lights shining on the bottom of some very distant bird formation. But, as I focused the shapes interacted uniformly, as if they were fixed on the front of a Stealth Bomber ("flying wing")... making a slight turn and straightening manuvre; but with no complete form... just the fixed, hazy dots.I thought maybe some geese were flying over silently, and as they passed I would see birds; but it flew way too fast and silent. The tipping of the form, uniformly, alarmed me that birds don't usually make such manuvres.Also, just after the slight manuvre, they passed over an active/lit-up baseball field, and I stared, to see if I would see a "V" of birds fly through the lights. But they were much higher than they seemed. Because they went out of view in the light, this showed great velocity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25495.html](http://www.nuforc.org/webreports/reports/025/S25495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Iowa City (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man repts. witnessing "flash, followed by a classic UFO, w/ a tailfin at back." Red color on top half of tailfin. Became triangular.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00888.html](http://www.nuforc.org/webreports/reports/000/S00888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
