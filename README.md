@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Deer Park (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>lighted rectangular object seen over Deer Park AvenueWe were driving on Deer Park Avenue when my son exclaimed in a very panicked voice "please tell me you saw that... What the hell was that" He described a large rectangular UFO outlined in yellow and then red lights that flashed suddenly as if someone flipped a light switch on and off.  He said it appeared to lift over the buildings along the street toward and in front of the nearly full moon and was gone very suddenly in a flash again as if a light switch was turned on and off.  We circled around and looked for any other evidence or any other explanation for what he saw and found nothing.  My other son and I did hear a sort of whoosh sound almost like when a fuse blows right before he saw the object but our attention was on the road in front of us and we did not see the object. We arrived home shortly after that and I noticed aircraft in the area.  Also, my dogs were behaving somewhat unusually and were more on edge than normal.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52871.html](http://www.nuforc.org/webreports/reports/052/S52871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 triangular flashing lights, one doesn't move at all and the other does3 triangle lights flashing at different rates.  One triangle is not moving but flashing , the other triangle is moving away from the other.  Appears far away, seen better with binoculars.  Lights are red white and green and would flash quickly then slowly and blink.  Soon the one not moving went in the direction of the other and faded into the darkness and couldn't be seen anymore.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122690.html](http://www.nuforc.org/webreports/reports/122/S122690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
