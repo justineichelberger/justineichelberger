@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Deming (near) (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent, jet-shaped, beige hovering object viewed. Magnetic interference with watches.While driving SW on I-25 between Albuquerque and Deming, off the highway (west side) a large jet-type vehicle (bigger than a 747) was observed to hover SILENTLY off the ground for about 30 seconds.  It was identifiable by shape only.  The color was completely beige.  No windows, doors, or lights were seen.  It lifted straight up, off the ground, like it was on a trampoline, but then hovered for those few seconds, then again completely silent, dropped back down.  It disappeared from view.  The observers were myself and my husband:  1) computer specialist and 2) Registered Nurse.  There was one other vehicle behind us.  A white Chevy pick up truck, which did not stop. Our photos of the object were mysteriously blank.  Our watches stopped at some point during the viewing (around 1530).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22033.html](http://www.nuforc.org/webreports/reports/022/S22033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Wind Lake (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Disk hovering over fieldWhile eating breakfast I looked out the kitchen window and saw the object hovering over an open field. I watched the object off and on for apporximately 20 minutes before gettting on a bus to go to school.  My bus passed by the object twice and the object remained stationary hovering.  On return from school, I looked for the object but it was gone. Although my entire family was in the kitchen during the my initial observation, for some reason I did not mention it to anyone. Also, while on the bus I watched the object while it was in view for about 10 minutes and didn't tell anyone on the bus.  I find this really unusual that I didn't say anything. Description: The disk was about 100ft. diameter and approximately 30ft. in height.  I base this on comparison to the 150ft. High tension power lines which it was hovering a couple hundred feet away from. It was approximately 100ft. off of the ground. It was highly reflective matallic with a very slight gold tint to it. There were no windows, lights or protrusions. It was absolutely stationary with no movement hovering over an already harvested corn field. At the closest distance, I was approximately 300 yards away. Nothing else out of the ordinary was observable in the area.  I approximate the location as Lat-42.84 Long-88.12 from checking terraserver.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39818.html](http://www.nuforc.org/webreports/reports/039/S39818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
