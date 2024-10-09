@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 8 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bridgton (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My boyfriend and I take a nightly walk almost every night, and for the 2nd night tonight I saw a light in the sky that flashed and maneuvered in the sky while flashing.  This light flashes and zig zagged in the sky to the right of me and then disappeared behind the trees and I can no longer see, and then while walking in the direction I was seeing the light flash.  The light came back and flashed one more time in front of me, but way closer then before and looked like a fire in the air and then disappeared and I could not find the light again once it flashed in front of me that last time.  The past week and this week I have been seeing these things for the first time ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149649.html](http://www.nuforc.org/webreports/reports/149/S149649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kimberly (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>EGG SHAPED WITH A T IN FRONT  AND UNUSAL LIGHTSI WENT OUT SIDE TO THE CAR TO GET MY PURSE OUT OF IT .  AND LOOKED UP TO THE SKY AND SAW ODD SHAPED OBJECT ABOVE IT WAS DARK I COULDN'T TELL WHAT COLOR IT WAS BUT THE WAY THE LIGHT PATTERN LOOKED IT WAS SHAPED LIKE AN EGG WITH A T ON THE FRONT. IT HAD SOME INTERESTING LIGHTS ON IT BLUE RED GREEN AND YELLOWISH ORANGE FLASHING ONE AT A TIME((NUFORC Note:  The witness does not indicate whether the sighting occurred in the moring, or at night, but we presume it occurred in the morning, given the time of submission of the report.  We have entered that time here.  As a result of the time indicated, the object obviously was not a twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14463.html](http://www.nuforc.org/webreports/reports/014/S14463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
