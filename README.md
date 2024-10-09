@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>cigar shaped bright fluorescent light over nashvilleI was at work by the nashville airport and I saw a bright fluorescent light that was round and then it shrunk to a cigar shape and started moving.  It was far off and really bright. No stream or sound and way faster than the planes flying over.  It disappeared and then reappeared within minutes.  It went over a plane but was way above itand then I saw a bright flash from it again and then it went away from where I was then disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103343.html](http://www.nuforc.org/webreports/reports/103/S103343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Deming (near) (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent, jet-shaped, beige hovering object viewed. Magnetic interference with watches.While driving SW on I-25 between Albuquerque and Deming, off the highway (west side) a large jet-type vehicle (bigger than a 747) was observed to hover SILENTLY off the ground for about 30 seconds.  It was identifiable by shape only.  The color was completely beige.  No windows, doors, or lights were seen.  It lifted straight up, off the ground, like it was on a trampoline, but then hovered for those few seconds, then again completely silent, dropped back down.  It disappeared from view.  The observers were myself and my husband:  1) computer specialist and 2) Registered Nurse.  There was one other vehicle behind us.  A white Chevy pick up truck, which did not stop. Our photos of the object were mysteriously blank.  Our watches stopped at some point during the viewing (around 1530).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22033.html](http://www.nuforc.org/webreports/reports/022/S22033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
