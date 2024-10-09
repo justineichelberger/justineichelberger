@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object is visible in sky in burst of flashing light disappearing and appearing intermittentlyIn the video there is a flashing light in the sky that appears and disappears repeatedly.  By eye the objects appears to have an aura or haze around it.  I have seen these frequently by naked eye and cannot seem to identify what it could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143446.html](http://www.nuforc.org/webreports/reports/143/S143446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pella (IA) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>Light colored red flashing lights appeared in the sky in Pella, IA  on 2 different days and times.10/08/07  Time 04:45 On his way to work in the early morning hours my husband saw what appeared to be several light red colored flashing lights in the sky as he was backing out of our driveway.The very next day on 10/09/07 at approx 2310 several light colored red flashing lights appeared through my front east window as I was looking outside to the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59174.html](http://www.nuforc.org/webreports/reports/059/S59174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
