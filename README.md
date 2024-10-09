@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Wind Lake (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Disk hovering over fieldWhile eating breakfast I looked out the kitchen window and saw the object hovering over an open field. I watched the object off and on for apporximately 20 minutes before gettting on a bus to go to school.  My bus passed by the object twice and the object remained stationary hovering.  On return from school, I looked for the object but it was gone. Although my entire family was in the kitchen during the my initial observation, for some reason I did not mention it to anyone. Also, while on the bus I watched the object while it was in view for about 10 minutes and didn't tell anyone on the bus.  I find this really unusual that I didn't say anything. Description: The disk was about 100ft. diameter and approximately 30ft. in height.  I base this on comparison to the 150ft. High tension power lines which it was hovering a couple hundred feet away from. It was approximately 100ft. off of the ground. It was highly reflective matallic with a very slight gold tint to it. There were no windows, lights or protrusions. It was absolutely stationary with no movement hovering over an already harvested corn field. At the closest distance, I was approximately 300 yards away. Nothing else out of the ordinary was observable in the area.  I approximate the location as Lat-42.84 Long-88.12 from checking terraserver.((NUFORC Note:  Date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39818.html](http://www.nuforc.org/webreports/reports/039/S39818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Loudon (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Unknown Craft Seen Over LakeI have tried to brush off what I saw a little over a week ago. But I really can't rationalize what I saw and feel like I should report it. I was at my house and I wasn't getting good sleep. I happened to wake up around 4:15 am and moved because the spot I was in was uncomfortable. I moved to a spot next to a big bay window over looking a lake. While laying there before closing my eyes, I noticed a really bright light. I cannot tell how far away it was, it seemed to be a couple of miles, but it was so bright that there was a reflection of its light on the lake. The bright light alone drew my attension to it. The object was not moving which seemed odd. The color was white and red with the white being much brighter than the red. Then, the white light began to dim but the white light was still brighter than the red. This oject then made a slow move to my left and then to the right before stopping. The movement was strange, it moved like a a puck on an air hockey table (and was very agile), I have never seen any type of maned craft move in that way. The object then stopped for about 4 seconds and then made a progressive move in one direction (the speed was not alarmingly fast)moving behind a mountain ridge and I didn't see it again. It wasn't a hellicopter, I would have been able to hear it if were a hellicopter and it wasn't a plane or star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66336.html](http://www.nuforc.org/webreports/reports/066/S66336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
