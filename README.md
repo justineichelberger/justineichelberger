@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:21 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:02 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Being clear sunny early morning that made it so unbelevaible  that i just can't deny what i saw. for the second time.Early morning about 0730am while taking my kids too school,I notice out of my front window,a shining ball of light but not relly light.You know when something is reflecting off sunlight it looks differnt then a regular light.So what ever it was i new right thier and then it was something differnt then just a air plane light or anything related to that.So I slowed down and observed this light and notice it was just hovering,but rotating or moving in some slow motion,because the shining reflection off the sun was going in and out,like shifting side too side.And when this happen you could see at times,the dark metallic color and shape of this object.And from where this ufo was hovering,it must have been over a gruop of houses,which made it so strange becasue it wasnt relly high for people not to see it. P.S. SAC,CA((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22518.html](http://www.nuforc.org/webreports/reports/022/S22518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>White orbe seen floting in the sky. Standing in my back yard I saw a object in the sky that looked like a star.  It was to early for stars and that got my attention.  It slowly moved in from the north.  As it got closer it appeared to be sphirical.  It didnt appear to change altitudes as it moved.  It hovered above for around five minutes and then moved of to the south west. At times the light appeared to pulsate. It gave me goosebumps. Two other people witnessed this with me.  They were weirded out as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93446.html](http://www.nuforc.org/webreports/reports/093/S93446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
