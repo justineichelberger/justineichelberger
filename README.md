@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My buddy saw lights in the sky and said it was round like in his words "like you see on t.v.".  I then saw a orange light in the sky.  After beside it, two more.  Then, each faded out first, second, last.  Then same spot or close to it the light reappeared.  Then, did the same two more times in samt.  Each time the lite would be lit a couple seconds before the other lights lit up.  We were fishing on garden city pier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114450.html](http://www.nuforc.org/webreports/reports/114/S114450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>cigar shaped bright fluorescent light over nashvilleI was at work by the nashville airport and I saw a bright fluorescent light that was round and then it shrunk to a cigar shape and started moving.  It was far off and really bright. No stream or sound and way faster than the planes flying over.  It disappeared and then reappeared within minutes.  It went over a plane but was way above itand then I saw a bright flash from it again and then it went away from where I was then disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103343.html](http://www.nuforc.org/webreports/reports/103/S103343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
