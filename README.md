@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:49 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>i can show anyone who wants ufo's on any clear night and i would even pay for your time if you dont see one. serious replys onlywell for starters, i have the type of personality of an easygoing, funny ,well liked, and hard working, gorgeous, god like dude. (obviously trying to break the ice, but make no mistake, my life has been changed forever with what i have to share. anybody who has seriously seen anything like i have, know's exactly how unbelievably life changing it can be, although only for some. I am shocked beond anger, that i can show anyone who wants to see what i am seeing, (like my christian wife, who refuses to think of the possibilities of extra terrestrial life). I have tried to explain to her that in my opinnion this helps me believe that maybe there really is a god. Enough about all this, hoevver i just want you to understand i have a very good job and an amazing family and i am a need to see it for my self type scientific mind. on the evening of october ninth it was a clear cool night and i was on my back deck facing the south when i noticed the brightest star i thi! nk i had ever seen, while watching this  star or what i thought was a star i noticed two more orange smaller stars around it, and they were moving at incredible speeds and in every which way.  Diagonal, up down, in a circle unlike any known technology today. now that is just the beginning i have stories over the next week and today even as i write this. I am at an absolute loss for words with what i have seen. nobody would believe me if i told them.  I would never waste this much time on a computer for some wack job story like this. please someone who knows about this or cares contact me. i will show you what i am talking about and i have more really freaky stories, if you don't see anything than i would even pay for your time i just need someone to help, i feel like life and everything in it right now is.....has changed. imagine the possibilities of other beings, eternal life, happiness, or the opposite. how can so many people be so ignorantly scared. please contact me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78542.html](http://www.nuforc.org/webreports/reports/078/S78542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Porter Ranch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving on the 118 this morning by porter ranch objected looked red like a star shape.  Objects moved.  Disappeared apeared in same spot.  Object moved.  Looked like fired dust (like firework) coming out of it stayed bright for 3 mins then moved.  Husband called me he works outside construction he.  Saw it too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136661.html](http://www.nuforc.org/webreports/reports/136/S136661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
