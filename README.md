@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Burleson (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was about 3:30 at night me and my g.f. went to her car to smoke... we open the sun roof she looks up and says, "What the ((deleted)) is that?"It was about 3:30 at night me and my g.f. went to her car to smoke... we open the sun roof she looks up and says, "What ((deleted)) is that!  I look up, I seen it too.  It looked like it was so far up but it was still big for being how far it was.  The shape was triangular with rounded off corners, almost like a boomerang.  It glided through the night on a strait line only seeing the shadow of it cause it was so dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122702.html](http://www.nuforc.org/webreports/reports/122/S122702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Augusta (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I stepped outside on my front porch to have a cigarette while Hurricane Michael was coming in land and looked to my left and noticed what I first thought was an airplane, but it had three lights across the front very bright could not make out a body mass of the object just the lights.  Then it stopped over the tree line about three to four blocks away did a flip type turn upside down and hover I ran inside to grab my cell phone ran back out and it was down the street three blocks away in front of my house doing the same thing. Hovered for a little while flew to the left and vanished behind a tree line nothing came out on the other side</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143461.html](http://www.nuforc.org/webreports/reports/143/S143461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
