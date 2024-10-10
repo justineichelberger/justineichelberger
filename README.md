@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Farmington (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single reddish circle  in the sky that wasn't jet nor satelitteIt's been nearly 2 years since I saw it, but after hearing your show on coast to coast I thought I would share my story.  What surprised me was the mention of circle shaped objects that looked red or even like fire balls. I had no idea it was a common description of UFOs.  What I saw that night was a circle shape that was reddish orange with a dull glow in the sky towards the east.  It almost looked like a large planet glowing low and far in the sky, but then I noticed it was moving slowly.  It could not have been an airliner because they have more than one light and usually have one blinking, and it clearly looked like a single large circle of light.  I wondered if it might be a satellite, but it was too large to qualify as one.  I was stumped.  I've never witnessed anything quite like it.  I watched it for about five minutes as it slowly drifted away eastwards.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101504.html](http://www.nuforc.org/webreports/reports/101/S101504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three glowing reddish-orange spheres changing to white lightsWhile observing the International Space Station fly-over, my sister and I observed three opaque glowing reddish-orange spheres emerging from the southwest, approximately 35 degrees above the western horizon, gliding silently due north.  The orbs did not flicker, nor did we observe internal structure.They appeared one by one, following the same path with an approximate five second delay between each sphere.  They were about the size of a dime held out at arm’s length.   We saw the objects for about forty-five seconds.As the spheres continued on their path, our view was partially obscured by a tree.  However, looking through the clearings between the branches, we were able to see that they changed to a white light in the center surrounded by a colorless semi-transparent shell.  They disappeared in the west-northwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103240.html](http://www.nuforc.org/webreports/reports/103/S103240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
