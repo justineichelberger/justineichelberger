@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Van Alstyne (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>large mass of tiny lights all clustered together in the shape of a large boomerang over eastern sky in north Texas.Last night my husband and I sat out on our driveway again and around 10:00pm. we witnessed a large, almost transparent, boomerang object.  It was ~75 degrees above the eastern horizon.  It was close to the same path of the UFO we saw Friday, Oct 5th, but it had a totally different shape.  It almost looked pixelized<sp?>, like a large mass of tiny lights all clustered together in the shape of a large boomerang.  We saw it for about 4 seconds and it disappeared.  The place where we started to see it, to where it disappeared was almost exactly the same place where we saw the one last Friday, but it was higher off the horizon.  I do not think I will be sitting out on the driveway again for a LONG time!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59198.html](http://www.nuforc.org/webreports/reports/059/S59198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port Franks (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing orangey red sphere, not flickering, floating at a constant speed and altitudeGlowing orangey red sphere, not flickering floating at a constant speed and altitude.  object moving steadily southwest to northeast in a straight line from Port Franks, Ontario, moving out over Lake Huron at about 10:10 pm October 10, 2015.  Disappeared over lake, perhaps into clouds but very clear night.  No sound. Sighting lasted approx one to one and a half minutes and was witnessed by two people who caught sight of it moving past a window, who then ran outside to follow its flight out over Lake Huron.  Both are retired teachers and keen environmentalists.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122774.html](http://www.nuforc.org/webreports/reports/122/S122774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
