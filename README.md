@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:27 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Austin (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i was traveling northbound on state highway 105 approximately 8 miles south of Austin MN when an object came down directly above my car it scared the living daylights out of me. I drove off the road cause i couldnt see in front of me whe i came to a stop the object was still there.i cant say what it looked like because it was so bright i couldnt look directly at it it was dead silent didnt make a sound nor did it move i would say it stayed there for a good half ho ur or so then it shot straight up  anyways im sure it did because if it took off at an angle i would have gotten a good look at it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02715.html](http://www.nuforc.org/webreports/reports/002/S02715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO craft over corona CaliforniaIt was around 10:30pm and as I went to look outside my window, I live in the hills and noticed  a large round shape ufo craft that was  flashing several different colors moving quickly from one side of the dark sky to another. It appears there where more than one flying object in the sky much smaller and where not as bright as the main craft I took video as proof</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164966.html](http://www.nuforc.org/webreports/reports/164/S164966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
