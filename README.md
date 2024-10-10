@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Three glowing reddish-orange spheres changing to white lightsWhile observing the International Space Station fly-over, my sister and I observed three opaque glowing reddish-orange spheres emerging from the southwest, approximately 35 degrees above the western horizon, gliding silently due north.  The orbs did not flicker, nor did we observe internal structure.They appeared one by one, following the same path with an approximate five second delay between each sphere.  They were about the size of a dime held out at arm’s length.   We saw the objects for about forty-five seconds.As the spheres continued on their path, our view was partially obscured by a tree.  However, looking through the clearings between the branches, we were able to see that they changed to a white light in the center surrounded by a colorless semi-transparent shell.  They disappeared in the west-northwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103240.html](http://www.nuforc.org/webreports/reports/103/S103240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My father is now 89 my brother 52 the girl with us now 51 myself 49 and the other fellow which worked with my father if he's still living would be ~79.  They managed and ran a radio station in Bristol Tennessee.  I vividly remember and just to make sure asked my father and brother to describe if they remember and they without coaching remember exactly what I do. We were driving in an old Buick roadmaster convertable in the country as my father was taking us all for an ice cream then a drive in the country.As I and both my brother and father to this day recall it there was a spike that went over our auto it was bright white pulsating with what looked like cylinders protruding out of it. My father stopped the car on the country road and parked we watched it and it appeared to come down just over a hill by the roadside which we had parked. My father and the guy that worked with him at the staion got out left us 3 kids in the car and they hopped a fence and went over to have a look. After about 2 or 3 minutes they came back and as they were approaching the car the sphere shot up over head very quickly very brightly and quietly as it left. To this day we all recall it like it was yesterday. My father and the fellow working with him went back saw where the craft had been and stated that it "laid down the grass" where it had been. Again this is a child hood memory which I will always remember as my UFO experience. They did NOT report this as they didn't want to be portrayed as Kooks.However we know what we saw, no there were no creatures or beings seen but we will never forget this experience.((NUFORC Note:  Witness does not indicate that the date of the incident is approximate, although we assume that the date indicated may be an estimate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55782.html](http://www.nuforc.org/webreports/reports/055/S55782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
