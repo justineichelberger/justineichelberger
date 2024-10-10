@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Australia (out back) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>I got PROOF of an ENCOUNTER.I think this page has 3 types of people, 1 want to see but didn't.  2 actualy see and report, and 3 see and do nothing.  I was in the #3 bracket.This maybe proof of contact.briefly, I saw a light on the ground, I went/was taken to it.  they asked questions, and I asked questions.  I asked how can I use less fuel.  I was given answers, that made no sense to me then. till lately.  Well he drew me an engine.  It made no sence, because some parts were not even made then.  Or I had not seen them. now I have seen the parts and it all falls in place, to me it apears to be a radical new engine,  I have seen many types since, piston, turbine, rotary (wankel), and many more. but nothing remotly like this.I wonder if anyone else has asked questions and got answers .((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47220.html](http://www.nuforc.org/webreports/reports/047/S47220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Farmington (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single reddish circle  in the sky that wasn't jet nor satelitteIt's been nearly 2 years since I saw it, but after hearing your show on coast to coast I thought I would share my story.  What surprised me was the mention of circle shaped objects that looked red or even like fire balls. I had no idea it was a common description of UFOs.  What I saw that night was a circle shape that was reddish orange with a dull glow in the sky towards the east.  It almost looked like a large planet glowing low and far in the sky, but then I noticed it was moving slowly.  It could not have been an airliner because they have more than one light and usually have one blinking, and it clearly looked like a single large circle of light.  I wondered if it might be a satellite, but it was too large to qualify as one.  I was stumped.  I've never witnessed anything quite like it.  I watched it for about five minutes as it slowly drifted away eastwards.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101504.html](http://www.nuforc.org/webreports/reports/101/S101504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
