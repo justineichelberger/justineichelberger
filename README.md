@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port Franks (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing orangey red sphere, not flickering, floating at a constant speed and altitudeGlowing orangey red sphere, not flickering floating at a constant speed and altitude.  object moving steadily southwest to northeast in a straight line from Port Franks, Ontario, moving out over Lake Huron at about 10:10 pm October 10, 2015.  Disappeared over lake, perhaps into clouds but very clear night.  No sound. Sighting lasted approx one to one and a half minutes and was witnessed by two people who caught sight of it moving past a window, who then ran outside to follow its flight out over Lake Huron.  Both are retired teachers and keen environmentalists.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122774.html](http://www.nuforc.org/webreports/reports/122/S122774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Austin (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i was traveling northbound on state highway 105 approximately 8 miles south of Austin MN when an object came down directly above my car it scared the living daylights out of me. I drove off the road cause i couldnt see in front of me whe i came to a stop the object was still there.i cant say what it looked like because it was so bright i couldnt look directly at it it was dead silent didnt make a sound nor did it move i would say it stayed there for a good half ho ur or so then it shot straight up  anyways im sure it did because if it took off at an angle i would have gotten a good look at it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02715.html](http://www.nuforc.org/webreports/reports/002/S02715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
