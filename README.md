@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Plymouth (Devonshire) (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>they were right above me very small almost like minni stars and they were circling round sommothing and came closer and further away and repeted bout 3-4 times before diaapering</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52879.html](http://www.nuforc.org/webreports/reports/052/S52879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 00:08:00 - 00:08:00 minutes.</sub><blockquote><sub>Circular shape with purple hued, triangular blinking lightA huge circle was present in the sky with a triangular blinking light.  The light was smooth in fading and reappearing with about two seconds in between blinking on and blinking off.  The light was close to a purple hue.  I walked about a mile and the UFO was present the entire time.  The shape was a bit hard to make out because it was a break in the clouds, but the ship was low enough in the sky to make out the circular shape.  The blinking light was perfectly visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143762.html](http://www.nuforc.org/webreports/reports/143/S143762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
