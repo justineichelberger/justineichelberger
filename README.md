@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was coming back from the grocery store around 8:30 pm when I noticed a large orange glowing object in the sky above my neighbors house.  I parked my car and got out to see what this could be. It began moving and came right over my house, the distance was like a low flying airplane, but this was NOT an airplane.  It was bright orange and pulsating and made no noise at all.  It was moving south to north.  As it was going over my house it was picking up speed.  I called my son on his phone to come out and see this, but within a few seconds this object was gone.  I watched it as it kept going in a straight south to north direction and it just disappeared.  I have never seen anything like this before in my life. I would love to know if anyone else saw this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78293.html](http://www.nuforc.org/webreports/reports/078/S78293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Worthington St. Forest (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>witnessed a large object and an intense red light that illumiated the object.While camping in the Worthington St. Forest, myself and my friend witnessed a large object and an intense red light that appeared behind this object that illumiated the object. The condictions were somewhat foggy so when my friend woke up and stated that she thought she saw a shooting star I was skeptical, but then we both saw 3 small white lights just above the horizon. We were camping on a rise above the Delaware River with the tent fly open and were looking almost directly across at the light. Then a bright red glow started to shine that was almost like a sun rise and we saw the Black solid body with a flat top, concave sides and a srtight botton that was longer than the top. The red glow clearly outlined this large sturture. The glow plused and dimmed so that the object was lost in the haze. Then the light returned and we were able to again see the object. This happened three times over the next approx. 45 mins. There was no sound or noise that we could hear. The object was stationary and did not move. After the third time that the red light shown and dimmed we did not see it again. In the morning we est. that this object was drictly over the River about 1000 ft from our tent and no more than 50-100 ft up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39736.html](http://www.nuforc.org/webreports/reports/039/S39736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
