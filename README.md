@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My father is now 89 my brother 52 the girl with us now 51 myself 49 and the other fellow which worked with my father if he's still living would be ~79.  They managed and ran a radio station in Bristol Tennessee.  I vividly remember and just to make sure asked my father and brother to describe if they remember and they without coaching remember exactly what I do. We were driving in an old Buick roadmaster convertable in the country as my father was taking us all for an ice cream then a drive in the country.As I and both my brother and father to this day recall it there was a spike that went over our auto it was bright white pulsating with what looked like cylinders protruding out of it. My father stopped the car on the country road and parked we watched it and it appeared to come down just over a hill by the roadside which we had parked. My father and the guy that worked with him at the staion got out left us 3 kids in the car and they hopped a fence and went over to have a look. After about 2 or 3 minutes they came back and as they were approaching the car the sphere shot up over head very quickly very brightly and quietly as it left. To this day we all recall it like it was yesterday. My father and the fellow working with him went back saw where the craft had been and stated that it "laid down the grass" where it had been. Again this is a child hood memory which I will always remember as my UFO experience. They did NOT report this as they didn't want to be portrayed as Kooks.However we know what we saw, no there were no creatures or beings seen but we will never forget this experience.((NUFORC Note:  Witness does not indicate that the date of the incident is approximate, although we assume that the date indicated may be an estimate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55782.html](http://www.nuforc.org/webreports/reports/055/S55782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Angelo (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was coming back from the grocery store around 8:30 pm when I noticed a large orange glowing object in the sky above my neighbors house.  I parked my car and got out to see what this could be. It began moving and came right over my house, the distance was like a low flying airplane, but this was NOT an airplane.  It was bright orange and pulsating and made no noise at all.  It was moving south to north.  As it was going over my house it was picking up speed.  I called my son on his phone to come out and see this, but within a few seconds this object was gone.  I watched it as it kept going in a straight south to north direction and it just disappeared.  I have never seen anything like this before in my life. I would love to know if anyone else saw this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78293.html](http://www.nuforc.org/webreports/reports/078/S78293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
