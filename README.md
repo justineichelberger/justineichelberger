@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 9 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three white lights in a triangle formation moving west over OmahaIt was around 10:00 PM and i went outside onto my friends back patio to cool off.  As I was laying there I looked up at the sky and saw 3 white lights in a perfect triangle formation.  I stared at it to see if i could see any flashing colored lights to indicate an airplane, but it was just 3 white lights moving at the same speed and not changing formation.  As it went out of my site of view I still laid there thinking about what it could have been, and then about 5-10 minutes later I saw an airplane go over and it looked nothing like what i just saw.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39708.html](http://www.nuforc.org/webreports/reports/039/S39708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shirley (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20:50  10/10/14  Shirley NY  2 lights going south to north, visible for 5 minutesAt approximately 2050 hours tonight, October 10, 2014, I saw two odd lights, almost the color of flames, appears in the southern sky and move north above me.  I assume they were satellites, but I'd like to confirm as I’ve never seen anything like this before.This was in Shirley, N.Y.  I’d just stepped out front of my house for a smoke when they appeared.  It’s an overcast, rainy evening with no stars visible.  They appeared at about 45* and traveled to about 120* before disappearing, one then the other.  They seemed to be very high and I think they went out of view due to the height they reached rather than going behind clouds as their light burned through the cloud cover, or having burned up in the atmosphere.I brought my wife out to see them, and I recorded them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114421.html](http://www.nuforc.org/webreports/reports/114/S114421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
