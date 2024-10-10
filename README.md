@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shirley (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20:50  10/10/14  Shirley NY  2 lights going south to north, visible for 5 minutesAt approximately 2050 hours tonight, October 10, 2014, I saw two odd lights, almost the color of flames, appears in the southern sky and move north above me.  I assume they were satellites, but I'd like to confirm as I’ve never seen anything like this before.This was in Shirley, N.Y.  I’d just stepped out front of my house for a smoke when they appeared.  It’s an overcast, rainy evening with no stars visible.  They appeared at about 45* and traveled to about 120* before disappearing, one then the other.  They seemed to be very high and I think they went out of view due to the height they reached rather than going behind clouds as their light burned through the cloud cover, or having burned up in the atmosphere.I brought my wife out to see them, and I recorded them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114421.html](http://www.nuforc.org/webreports/reports/114/S114421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Harvey Station (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>slow moving bright orange lightBright orange light like aircraft landing light moving quite slowly from West to East, low in sky at first, then dipping down before rising again and proceeding at higher level till it disappeared.  No sound, clear sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103266.html](http://www.nuforc.org/webreports/reports/103/S103266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
