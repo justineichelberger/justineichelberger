@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A small dark purple quad-thruster craft hovering 200-300 feet in the sky.I just recently have remembered an event that happened in my early childhood years. I was about 8-9 years old playing football in my street with my brother and a friend that lived 2 houses over. I looked up into the northeast sky and noticed a small/medium craft hovering.  It looked to have 4 thruster looking devices on the underside of it.  If I could compare the underside of it to something, it looked like an one of those simon says electronic games.  Each of the 4 thrusters had a flap dangling from the outside rim of the undercarriage. As the craft would ascend, the flaps would uncover the thruster simultaneously.  If it would descend, the flaps would cover them up. The top side of the craft (not very visible to me) looked to be a half sphere. The craft's body was a black/dark purple shade.This took place in East Mesa, very close to the Apache Junction/Mesa boarder. Just south of the US60. Major crossroads: Baseline and Guadalupe((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61313.html](http://www.nuforc.org/webreports/reports/061/S61313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Van Alstyne (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>large mass of tiny lights all clustered together in the shape of a large boomerang over eastern sky in north Texas.Last night my husband and I sat out on our driveway again and around 10:00pm. we witnessed a large, almost transparent, boomerang object.  It was ~75 degrees above the eastern horizon.  It was close to the same path of the UFO we saw Friday, Oct 5th, but it had a totally different shape.  It almost looked pixelized<sp?>, like a large mass of tiny lights all clustered together in the shape of a large boomerang.  We saw it for about 4 seconds and it disappeared.  The place where we started to see it, to where it disappeared was almost exactly the same place where we saw the one last Friday, but it was higher off the horizon.  I do not think I will be sitting out on the driveway again for a LONG time!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59198.html](http://www.nuforc.org/webreports/reports/059/S59198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
