@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 10 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Worthington St. Forest (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>witnessed a large object and an intense red light that illumiated the object.While camping in the Worthington St. Forest, myself and my friend witnessed a large object and an intense red light that appeared behind this object that illumiated the object. The condictions were somewhat foggy so when my friend woke up and stated that she thought she saw a shooting star I was skeptical, but then we both saw 3 small white lights just above the horizon. We were camping on a rise above the Delaware River with the tent fly open and were looking almost directly across at the light. Then a bright red glow started to shine that was almost like a sun rise and we saw the Black solid body with a flat top, concave sides and a srtight botton that was longer than the top. The red glow clearly outlined this large sturture. The glow plused and dimmed so that the object was lost in the haze. Then the light returned and we were able to again see the object. This happened three times over the next approx. 45 mins. There was no sound or noise that we could hear. The object was stationary and did not move. After the third time that the red light shown and dimmed we did not see it again. In the morning we est. that this object was drictly over the River about 1000 ft from our tent and no more than 50-100 ft up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39736.html](http://www.nuforc.org/webreports/reports/039/S39736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Burleson (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was about 3:30 at night me and my g.f. went to her car to smoke... we open the sun roof she looks up and says, "What the ((deleted)) is that?"It was about 3:30 at night me and my g.f. went to her car to smoke... we open the sun roof she looks up and says, "What ((deleted)) is that!  I look up, I seen it too.  It looked like it was so far up but it was still big for being how far it was.  The shape was triangular with rounded off corners, almost like a boomerang.  It glided through the night on a strait line only seeing the shadow of it cause it was so dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122702.html](http://www.nuforc.org/webreports/reports/122/S122702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
