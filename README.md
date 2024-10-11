@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An orange light moved into the glow of the moon and came back out, brighter, shooting diagonally down and in a slightly reversed motion.While looking at stars with my dad, we saw what we thought was a satellite crossing the sky, from west to east.  It appeared slightly orange, about the same brightness and color as Mars.  It was travelling at a speed similar to a satellite--but a little faster.  It moved east, getting closer toward the moon, until it was lost in its glow.  It was just above the moon when it disappeared in the glow.  We expected it to emerge from the glow on the other side but, when it came out of the glow, it suddenly got brighter and at about the speed of a meteor, dropped down diagonally, angled backwards to the west (like a backwards "7")  and then suddenly disappeared.  The distance it dropped was about the length of a finger held at arm's length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130592.html](http://www.nuforc.org/webreports/reports/130/S130592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large Triangle sighted over L.AAt approx 8:30 pm on Sat, Oct 11 2008, Noticed what I assumed to be an airliner with landing lights on and travelling east to west. (from direction of South Pasadena and toward Hollywood/Los Feliz area of Los Angeles).As it passed just south of my position, I realized it was not a plane but an equilateral triangle with a bright white light at each of the three points. Each light was facing downward rather than forward along the line of flight. Each light was very bright but easily seen to be circular in shape with no glare.Most notable was that the lights were just as visible as the craft was moving away from my position. This is when I realized fully that this was not a plane as there was no tail- no navigation lights and the three lights were obviously not illuminating the way ahead! There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66190.html](http://www.nuforc.org/webreports/reports/066/S66190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
