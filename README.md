@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vehicle out of southern sky thought to be shooting star hovers over city.Returning home from a friends house I spotted what I thought was a shooting star coming out of the southern sky at the 11 o'clock position. I yelled at my sister "Look a shooting star!" We both watched for it burn off and skip out of the atmosphere however; instead, it came in at a very fast rate of speed then slowed down dramatically as it approached the city and then tree top level. Onch it slowed down it made a sharp right then sharp left turn and then hovered above the city and the tree tops. The object appeared round with an orange color. It made an arch as it entered the atmosphere. There was only one vehicle noted. Neither my sister or myself had ever witnessed an event like this before and gave us a very uneasy feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66282.html](http://www.nuforc.org/webreports/reports/066/S66282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Odd Lights in Colorado SkyAt about 5:15am I awoke suddenly and was immediately compelled to look outside in the southeastern sky. The sky was clear and many stars were evident. I first saw what appeared to be a military aircraft flying from south to north - a white light with a red light and a blue light on it, and was flying rather fast. Not an odd occurrence given that there are several military bases in the front range area here in Colorado. However, I knew it was not a military craft when it stopped in mid-air and the red and blue lights disappeared. The single white light, which was now a little brighter (like a very bright star), started to bob up and down and around in the air, almost like a flying insect or a moth. I knew that since I was seeing this against the fixed backdrop of the stars that this one object was indeed moving, and it wasn't just my eyes. It became stationary, and while I was watching for additional movements I fell asleep. The total time I watched this event was about 15 minutes. I heard the rumble of two other military jets crossing the airspace during this time but did not see them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19821.html](http://www.nuforc.org/webreports/reports/019/S19821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
