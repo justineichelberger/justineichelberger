@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lorain (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red flickering objects.3 slow floating lights glowed orange and flickered.  Saw night of the 10th and 11th.  Over the marina.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114455.html](http://www.nuforc.org/webreports/reports/114/S114455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An orange light moved into the glow of the moon and came back out, brighter, shooting diagonally down and in a slightly reversed motion.While looking at stars with my dad, we saw what we thought was a satellite crossing the sky, from west to east.  It appeared slightly orange, about the same brightness and color as Mars.  It was travelling at a speed similar to a satellite--but a little faster.  It moved east, getting closer toward the moon, until it was lost in its glow.  It was just above the moon when it disappeared in the glow.  We expected it to emerge from the glow on the other side but, when it came out of the glow, it suddenly got brighter and at about the speed of a meteor, dropped down diagonally, angled backwards to the west (like a backwards "7")  and then suddenly disappeared.  The distance it dropped was about the length of a finger held at arm's length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130592.html](http://www.nuforc.org/webreports/reports/130/S130592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
