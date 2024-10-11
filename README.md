@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:53 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Brightly lighted Object appeared total of 6-8 times in different locations in night sky over ocean for few seconds and disappeared6 of us were sitting on a balcony at a condo facing south at 8:30 p.m. and saw a bright lighted object appear in the sky. It would stay lit only a few seconds and go out. It reappeared in a different location and would only stay lit a few seconds and disappear. The last time I saw it it appeared to be saucer shaped and had a light at both ends - one of the others said they saw 3 lights that seemed to be moving around the center. Each time the object appeared it would disappear within a few seconds. I tried to take a picture but didn't get it.At first we thought it was an airplane and when it disappeared we didn't know what to think. It reappeared again in a different location and went out and we all said it was really freaky. It appeared 6-8 times total.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59207.html](http://www.nuforc.org/webreports/reports/059/S59207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Angola (IN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 objects metalic reflecting from rising sun in the east, then witnessed what looked to be 7 more objects in a straight line.  Then heard and observed what looked to be military aircraft heading in direction of the sighting.  Objects were not seen after aircraft came to area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93474.html](http://www.nuforc.org/webreports/reports/093/S93474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
