@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>strange object photographed over Louisville, Kentucky October 11, 2009between 5:45 and 6:00 pm sunday october 11 I and three others witnessed an object that appeared to change shapes from a sphere to a disc shape.the object was dark in color and at one time flashed the color red.It was first seen moving from the east/south east,to the northwest before it disappeared.It then appeared again in a the southern sky and seemed to move to the west then back to the east before moving south and disappeared completely.At one time it seemed to appeared and disappeared over and over again,but one of the people with me had a very good camera and snapped several shots of the object,and after looking over the picture it was noticed that the object wasn't disappearing at all, it was moving away at super high rates of speed and then moving back towards us.would like to know who to contact with these pictures because there are some really good ones that show the actual structure of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72878.html](http://www.nuforc.org/webreports/reports/072/S72878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Bright white round object with a more dim object moving across blue sky East to West.I was enjoying the clear blue sky facing North standing in the shade of my house when I noticed what I first thought was a high flying white bird I had to tilt my head up to maybe 45 degrees to see it better.Within a couple of seconds I realized it wasn’t moving like a bird and was more a white round object moving at a consistent speed pretty fast East to West.At that point I noticed a second object moving with it but not as bright. My speculation is the second object might have been at a higher altitude. The first object if compared to a star at night stood out like Jupiter would. The second object was much more dim.I have the sense that these objects were in earths atmosphere about 10,000 feet moving fast subsonic (I heard no sound).After about five to seven seconds I was no longer able to see them as they traveled West.Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164942.html](http://www.nuforc.org/webreports/reports/164/S164942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
