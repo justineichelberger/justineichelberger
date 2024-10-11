@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orange lights appeared  in the SSW.  They did not move or change their formation.  After about 2 minutes observation  the bottom left light faded out then the bottom right light faded out, and finally the top light extinguished.  We were stunned at this sighting.  I hope other observers will report this sighting.  There was a 3/4 moon rising at the time and a few scattered clouds in the sky but not in the area of the sighting.((NUFORC Note:  Judging from the witness's background, we suspect that he is a very experienced and qualified observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114470.html](http://www.nuforc.org/webreports/reports/114/S114470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>strange object photographed over Louisville, Kentucky October 11, 2009between 5:45 and 6:00 pm sunday october 11 I and three others witnessed an object that appeared to change shapes from a sphere to a disc shape.the object was dark in color and at one time flashed the color red.It was first seen moving from the east/south east,to the northwest before it disappeared.It then appeared again in a the southern sky and seemed to move to the west then back to the east before moving south and disappeared completely.At one time it seemed to appeared and disappeared over and over again,but one of the people with me had a very good camera and snapped several shots of the object,and after looking over the picture it was noticed that the object wasn't disappearing at all, it was moving away at super high rates of speed and then moving back towards us.would like to know who to contact with these pictures because there are some really good ones that show the actual structure of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72878.html](http://www.nuforc.org/webreports/reports/072/S72878.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
