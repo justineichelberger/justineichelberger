@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Nuevo Laredo (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>While I was driving I stopped at a traffic light and when I turned to wait for the green light, I saw 11 bright lights in the skyIt was a clear day in the morning, temp. about 78 or 80F...elevation from horizon about 30 to 40 degrees...completely clear sky...no clouds...they appeared towards the west of the city W/SW ...appearance of light dots surrounded by halos...three clusters of 3 at the top, 4 in the middle and four at the bottom level...one or two of the dots changed positions between the clusters by moving up or down...observed for about 10min...when I went to get my camera they were gone (witnesed by my wife and our maid)....about ten minutes later Iwent to my office, and climbed to the roof top with one of my employees and could see one of the light spots moving form NNE to SSW at a speed probably ten times faster than a jet that was flying at that time at what I estimate was the cruise altitude...some other people claim they were seen since 8:30 thaat morning</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50918.html](http://www.nuforc.org/webreports/reports/050/S50918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lorain (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red flickering objects.3 slow floating lights glowed orange and flickered.  Saw night of the 10th and 11th.  Over the marina.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114455.html](http://www.nuforc.org/webreports/reports/114/S114455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
