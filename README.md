@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:22 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:58 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Arroyo Grande (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>observed Angel Hair type UFOOn or about October 11, 2004 at 2 pm I noticed a UFO flying over head about 30,000 feet AGL above my avocado orchard. It was flying north at around 200 to 300 mph in a northerly direction which stayed in view for less than a minute. A 747 was flying near by, leaving a long contrail and heading south parallel to the UFO. The UFO didn’t make any sound as it passed over. The UFO was round and bright and gleamed like the suns rays were bouncing off of it. As it flew over I could see that some type of white mass was protruding from all around the UFO in a clockwise position at a very slow spin compared to its speed. The UFO was too high to determine if it was shedding the white material or not. It was hard to believe what I saw until I got my October issue of UFO magazine a few days after the sighting. On page 63 Ann Druffel tells about Angel Hair and Fluorescence.This I believe is what I saw in the sky that day.((NUFORC Note:  We spoke with this witness at length, and we found him to be exceptionally credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41082.html](http://www.nuforc.org/webreports/reports/041/S41082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Frederick (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large flash outside the house rattling the windows with a low hum.Myself and two friends were outside in the back yard smoking a cigerratte. We went inside becuase it got dark and chilly. As soon as we walked in one of my friends said he felt something weird by the door. I stood by the door and felt the breeze but nothing else. He stood by the door again but he said he felt a painless, pulsating throb in his head with a sort of hum. I stood by the door but felt nothing. We forgot about the incident and sat down to watch TV. About a half hour later we saw a large flash outside the window it was either blue or green. It was so bright it felt like several cars were in the backyard with their brights on. This light was also accompanied by a loud and low hum that rattled the kitchen window and a painless electric feeling on the couches we were sitting on. This lasted for a solid 5 to 10 seconds. We ran outside thinking lightning struck the house, nothing was burnt not their was any clouds in the sky. We noticed about half a mile away from the house was a white suv that was motionless in the middle of the road and then proceeded slowly on its way as if it had seen something. We went to the front yard for about 15 minutes duting this time a neighbor that said he lived about a quarter mile away asked if we had seen "it." We told him what we saw and he said he thought it was in his backyard as well. Shortly after we saw a young kid with a flashlight looking around telepone poles stating he also saw a blue light out side his window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32189.html](http://www.nuforc.org/webreports/reports/032/S32189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
