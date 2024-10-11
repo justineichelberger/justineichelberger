@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Holden Beach (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>6orange balls of light over the Atlantic ocean.1 orange ball of light brightened then disappeared over the ocean, no boats around  it was above roof level of an ocean front home.  Then moved right and appeared again only to be duplicated on the right.  Then the original one showed up again and Bo orange spears had three more spheres to the right for a total of 6 orange spheres in the sky over the ocean.  Then they disappeared.  No sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84477.html](http://www.nuforc.org/webreports/reports/084/S84477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Arroyo Grande (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>observed Angel Hair type UFOOn or about October 11, 2004 at 2 pm I noticed a UFO flying over head about 30,000 feet AGL above my avocado orchard. It was flying north at around 200 to 300 mph in a northerly direction which stayed in view for less than a minute. A 747 was flying near by, leaving a long contrail and heading south parallel to the UFO. The UFO didn’t make any sound as it passed over. The UFO was round and bright and gleamed like the suns rays were bouncing off of it. As it flew over I could see that some type of white mass was protruding from all around the UFO in a clockwise position at a very slow spin compared to its speed. The UFO was too high to determine if it was shedding the white material or not. It was hard to believe what I saw until I got my October issue of UFO magazine a few days after the sighting. On page 63 Ann Druffel tells about Angel Hair and Fluorescence.This I believe is what I saw in the sky that day.((NUFORC Note:  We spoke with this witness at length, and we found him to be exceptionally credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41082.html](http://www.nuforc.org/webreports/reports/041/S41082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
