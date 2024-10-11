@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:53 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large Triangle sighted over L.AAt approx 8:30 pm on Sat, Oct 11 2008, Noticed what I assumed to be an airliner with landing lights on and travelling east to west. (from direction of South Pasadena and toward Hollywood/Los Feliz area of Los Angeles).As it passed just south of my position, I realized it was not a plane but an equilateral triangle with a bright white light at each of the three points. Each light was facing downward rather than forward along the line of flight. Each light was very bright but easily seen to be circular in shape with no glare.Most notable was that the lights were just as visible as the craft was moving away from my position. This is when I realized fully that this was not a plane as there was no tail- no navigation lights and the three lights were obviously not illuminating the way ahead! There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66190.html](http://www.nuforc.org/webreports/reports/066/S66190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Brightly lighted Object appeared total of 6-8 times in different locations in night sky over ocean for few seconds and disappeared6 of us were sitting on a balcony at a condo facing south at 8:30 p.m. and saw a bright lighted object appear in the sky. It would stay lit only a few seconds and go out. It reappeared in a different location and would only stay lit a few seconds and disappear. The last time I saw it it appeared to be saucer shaped and had a light at both ends - one of the others said they saw 3 lights that seemed to be moving around the center. Each time the object appeared it would disappear within a few seconds. I tried to take a picture but didn't get it.At first we thought it was an airplane and when it disappeared we didn't know what to think. It reappeared again in a different location and went out and we all said it was really freaky. It appeared 6-8 times total.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59207.html](http://www.nuforc.org/webreports/reports/059/S59207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
