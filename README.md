@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:02:49 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Millerton (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Witnesses responded to a MADAR alert at 5:58 AM on 10-11-20 7 & saw a bright white light above the overcastThe witnesses responded to a MADAR alert at 5:58 AM on 10-11-20. They went outside and saw a bright white light above the overcast cloud layer. At the time they thought it was the moon, but now believes it was not. Computer program Stellarium confirms this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161613.html](http://www.nuforc.org/webreports/reports/161/S161613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Canyonlands NP (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My husband and I were camping at Needles Outpost and as I was admiring the stars I saw 3 objects moving  at the same speed, all in a row.  The leading object had lights and the two behind it didn't.  The only reason I could see two that didn't have lights was because the moon was so bright.((NUFORC Note:  We have received many similar reports, of three star-like objects seen moving across the sky.  We suspect they are satellites of terrestrial origin, but we do not know which satellites they are.  Possibly the U. S. Navy "NOSS" satellites, but we are not certain of that.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46976.html](http://www.nuforc.org/webreports/reports/046/S46976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
