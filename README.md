@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lumberton (MS) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Extremely bright brilliant white oval hoovering in the eastern sky outside of Lumberton, MS near Carnes area.Our dogs were extremely restless and barking a lot.  Our inside dog was also very agitated and started whining to go outside (the first time in the 5 months we have had him).  I went out to walk him and I noticed a very bright light in the sky moving quickly around a small area to the east of our home.  We live in the country and so it was particularly noticeable.  I yelled at my husband to come outside, NOW.  He did and said I was crazy that was the North star.  I assured him it was not.  It was MUCH brighter and in the East.  He said to go get my phone and record it but it was dead so I plugged it in to charge.  I went back and looked at it a couple of times and it remained in that area.  He said I crazy and to come to bed.  Not long after that the dogs seemed to quieten down. Tonight, my husband went back outside and called me out there.  No object was in the sky tonight and he started freaking out asking me why I didn't record it…((NUFORC Note:  Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122746.html](http://www.nuforc.org/webreports/reports/122/S122746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>started out looking like cop lights, then it slowly flew upwards as it flashed super bright, I've heard about ten jets take off since!so my wife and I were having a late night smoke in our back yard and I commented on how it was a beautiful clear night and you could see the stars perfect! she asks me, "what's that flashing bright star one there?"  I turned to see a bright flickering light that was extremely low compared to all the other stars in the sky.  I grabbed some binauculars to see it closer and it started out flashing red and blue just like a cop car then it moved and we captured video!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143459.html](http://www.nuforc.org/webreports/reports/143/S143459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
