@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:05 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tega Cay (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white light and then 2 blinking red lights in Western SkyAt approximate 8:15 p.m. I went outside to see if I could see Mars, Venus and Saturn as I had seen early in the morning.  The night was especially clear…you could see thousands of stars and even what I believed were probably galaxies.I did not see the planets I was looking for, but I watched one particularly bright star (I thought) in the western sky.  It appeared far away.  The light continuously kind of jerked a bit (unlike the other stars).  As I watched it, I noticed that it moved down and to the right, then left, and then back into its original position (making a triangle).  It took apx. 5 minutes to complete the path of the triangle.  I watched for about 20 minutes and it continued to repeat the path during the entire time.I then saw a shooting star fairly close to the bright object.  I did not see it burn out but it dropped below the horizon still very bright.  I went inside, found my cell phone to call my sister who lives approx. 20 minutes to the northeast of me to see if she could see the object and then returned outside.Before I called my sister, I looked to the where the bright object had been, but it was now gone.  To the right of where that light had been I noticed 2 blinking red lights (much closer).  One was below and farther to the right of the other.  I assumed they were airplanes … but while watching those, the lower light immediately moved straight up to be on the same level as the other one (still to the right of it), taking only about 1 second.  It remained there for probably 5 seconds and then dropped back immediately into its original place.  This happened probably 4 times in the span of 3-4 minutes.  They both seemed to be moving slightly to the right during this time but not very far.  Then both lights suddenly disappeared.Unfortunately, by the time I got my sister on the phone the red lights had already disappeared so I could not have her confirm it.  She lives in the city and the sky wasn’t nearly as clear where she lives.  We couldn’t find any other unusual occurrences.  I cannot explain what the bright light and blinking red lights were, but their movements were very unusual.  It’s suppose to remain very clear for the next several days here so I’m looking forward to viewing the sky tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59216.html](http://www.nuforc.org/webreports/reports/059/S59216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orange lights appeared  in the SSW.  They did not move or change their formation.  After about 2 minutes observation  the bottom left light faded out then the bottom right light faded out, and finally the top light extinguished.  We were stunned at this sighting.  I hope other observers will report this sighting.  There was a 3/4 moon rising at the time and a few scattered clouds in the sky but not in the area of the sighting.((NUFORC Note:  Judging from the witness's background, we suspect that he is a very experienced and qualified observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114470.html](http://www.nuforc.org/webreports/reports/114/S114470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
