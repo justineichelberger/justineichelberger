@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Odd Lights in Colorado SkyAt about 5:15am I awoke suddenly and was immediately compelled to look outside in the southeastern sky. The sky was clear and many stars were evident. I first saw what appeared to be a military aircraft flying from south to north - a white light with a red light and a blue light on it, and was flying rather fast. Not an odd occurrence given that there are several military bases in the front range area here in Colorado. However, I knew it was not a military craft when it stopped in mid-air and the red and blue lights disappeared. The single white light, which was now a little brighter (like a very bright star), started to bob up and down and around in the air, almost like a flying insect or a moth. I knew that since I was seeing this against the fixed backdrop of the stars that this one object was indeed moving, and it wasn't just my eyes. It became stationary, and while I was watching for additional movements I fell asleep. The total time I watched this event was about 15 minutes. I heard the rumble of two other military jets crossing the airspace during this time but did not see them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19821.html](http://www.nuforc.org/webreports/reports/019/S19821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lumberton (MS) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Extremely bright brilliant white oval hoovering in the eastern sky outside of Lumberton, MS near Carnes area.Our dogs were extremely restless and barking a lot.  Our inside dog was also very agitated and started whining to go outside (the first time in the 5 months we have had him).  I went out to walk him and I noticed a very bright light in the sky moving quickly around a small area to the east of our home.  We live in the country and so it was particularly noticeable.  I yelled at my husband to come outside, NOW.  He did and said I was crazy that was the North star.  I assured him it was not.  It was MUCH brighter and in the East.  He said to go get my phone and record it but it was dead so I plugged it in to charge.  I went back and looked at it a couple of times and it remained in that area.  He said I crazy and to come to bed.  Not long after that the dogs seemed to quieten down. Tonight, my husband went back outside and called me out there.  No object was in the sky tonight and he started freaking out asking me why I didn't record it…((NUFORC Note:  Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122746.html](http://www.nuforc.org/webreports/reports/122/S122746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
