@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Bright white round object with a more dim object moving across blue sky East to West.I was enjoying the clear blue sky facing North standing in the shade of my house when I noticed what I first thought was a high flying white bird I had to tilt my head up to maybe 45 degrees to see it better.Within a couple of seconds I realized it wasn’t moving like a bird and was more a white round object moving at a consistent speed pretty fast East to West.At that point I noticed a second object moving with it but not as bright. My speculation is the second object might have been at a higher altitude. The first object if compared to a star at night stood out like Jupiter would. The second object was much more dim.I have the sense that these objects were in earths atmosphere about 10,000 feet moving fast subsonic (I heard no sound).After about five to seven seconds I was no longer able to see them as they traveled West.Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164942.html](http://www.nuforc.org/webreports/reports/164/S164942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Villa Park/Lombard (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several Orange Lights Over Vila Park Lomabrd Areas 10-11-2008I was waiting for my wife to get off work with my mother, sitting in our car facing West, when all of a sudden i seen an orange light with an aura around it shot up out of the horizin like a flare, it was followed by several others exactly like the first one, i asked my mom if she was seeinmg what i was seeing and she said yes, as they reached the sky the aura disappeared and became an amber glowing color, they all seeed to come up one by one, and comming into some sort formation in the sky above with the other "lights", the lights then went into formation like a rectangle, they all floated north east, towards nearby ohare airport in chicago illinois, at that time i placed a call to the villa park police department from my cell phone, i reported what i seen, my wife then came out of work and joined me in looking at display of lights and confirmed that what my mother and i were seeing was real, the light continued to float in the sky like a zepplin, very slowly until they disappeard, i did see police officers heading in the direction of the lights, i also noticed air traffic, which is normally heavy, was non existant for a bit. Later my wife, heard from others that they too seen lights in the sky, i also hear that two fast moving planes flew in the same direction not too long afterwards, i did not witness the two planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68362.html](http://www.nuforc.org/webreports/reports/068/S68362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
