@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 11 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>2 flying diamonds; red and gold lights; creaking sounds.2 Diamond shaped flying objects were flying back and forth shining red and gold lights making creaking sounds sometimes. There were LED lights on them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150378.html](http://www.nuforc.org/webreports/reports/150/S150378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was staying in Las Vegas, Nevada. Down town Las Vegas was where I stayed . The hotel at which I stayed at was Union Plaza. I was on the north tower room 2001. It was October 12,2008. I went up too my room. About 23:00 I opened the drapes and I looked towards the sky. There I saw 3 flashing lights in the sky.  While watching the flashing light I noticed that they would move very slowly. But within one second all 3 lights came together and then went straight up. I have never seen anythong like this in my whole life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66267.html](http://www.nuforc.org/webreports/reports/066/S66267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
