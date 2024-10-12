@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Springdale (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white thing I saw.  It was ther then it came back. Tried to call the reporting number and the guy thought o was a fake.  It pissed me off cuz I wouldnt have reported it if it wasnt something that was credible.  Anyways the damn thing came back as I was on the phone with the guy.  The gentleman asked if n.v I got a picture of it and I actually tried to get a video of it. Ut wasnt successfully able to. Anyways I know what I saw. And this ins t joke. I would involve myself for no damn reason. I am too busy with work to even care about anything. But this. Is something you just dont ignore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149786.html](http://www.nuforc.org/webreports/reports/149/S149786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in La Serena (Viña del Mar) (Chile) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 127 m - 127 m minutes.</sub><blockquote><sub>I dont Write English But I Have a 3 Videos Bery high resolution My email ((e-address deleted)) Chile Suth America((NUFORC Note:  We will request copies of the tapes, or still frames from it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22538.html](http://www.nuforc.org/webreports/reports/022/S22538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
