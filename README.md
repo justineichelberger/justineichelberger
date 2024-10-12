@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tinton Falls (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was looking at what was, only an hour earlier, CLEAR BLUE SKIES, being filled up by what might be referred to as chemtrails. As I was watching them form in the sky, I was watching one particular plane go by when something caught my eye. There was a blinking dot, that was not blinking in any sequence I have ever seen on a plane. It was behind the jet that flew by and was in now way a satelite or another plane. The direction I was facing was South-Southeast, the sun was at about 60 degrees off the horizon to the West. This object was not reflecting light from the Sun however. The blinking pattern was like this: Flaaash,pause,pause,pause,Flaaash,pause,pause,pause,Flaaash - The flashing was longer than a standard strobe flash and the movement of the object was kind of hover like, slow movement towards the West/SouthWest. I ran inside to get my video camera and when I returned, the object was still there. The size of this thing and relative distance would be about the size of normal star in the night sky. It was very small for certain, but at such a far off distance, could easily have been 30 feet in diameter or more? I tried zooming in object as I could see with naked eye, it was behind chemtrail, but against clear blue sky part, each strobe was noticeable only if you were looking right at it. Otherwise, no chance in hell you could spot it.This was a TOTAL luck shot, like one other occasion where I was looking up, and equally as exciting. Had to report it as it happened...Thanks, ((name deleted))((NUFORC Note:  We suspect that "chemtrails" are, in fact, normal contrails behind high-flying aircraft.  We do not know what the witness, who elects to remain anonymous, observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25833.html](http://www.nuforc.org/webreports/reports/025/S25833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Springdale (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white thing I saw.  It was ther then it came back. Tried to call the reporting number and the guy thought o was a fake.  It pissed me off cuz I wouldnt have reported it if it wasnt something that was credible.  Anyways the damn thing came back as I was on the phone with the guy.  The gentleman asked if n.v I got a picture of it and I actually tried to get a video of it. Ut wasnt successfully able to. Anyways I know what I saw. And this ins t joke. I would involve myself for no damn reason. I am too busy with work to even care about anything. But this. Is something you just dont ignore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149786.html](http://www.nuforc.org/webreports/reports/149/S149786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
