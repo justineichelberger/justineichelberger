@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:02 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:46 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>V shaped craft on south side of Indy by power plant.Large V shaped craft over the South Side of Indianapolis, Indiana over the power plant on South Harding just sitting.Absolutely beautiful gray V shape. I was sitting with my wife and friend outside by our fire pit when I saw it and showed my wife and friend. I could not turn from it.((NUFORC Note:  Date may be flawed.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122787.html](http://www.nuforc.org/webreports/reports/122/S122787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Biddeford Pool (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Red flare type object flying across Saco Bay.The first witness saw a yellow egg shape with red flares going back and forth across the sky.  Witness thought it was an airplane, and then second witness saw a red shape that looked like a butterfly type of wing flying forward.  Witnesses went outside on the porch and watched craft fly above Saco Bay towards Scarborough.  One witness describes it as a red flame.  The red color faded as into the distance and then disappeared.  Witnesses thought it could be a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114483.html](http://www.nuforc.org/webreports/reports/114/S114483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
