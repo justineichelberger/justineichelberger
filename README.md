@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Centralia (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2160.0 - 2160.0 minutes.</sub><blockquote><sub>Missing time coinciding with eyewitness reports.I was home alone and completely sober on a Friday night in Oct. 1990.  I went to bed.  I woke up around noon, and my mom was doing laundry, something she usually did on Sundays.  I asked my mom why she was doing laundry on Saturday.  That's when she told me it was Sunday.  I couldn't understand how I could have slept 36 hours without once getting up to use the bathroom.I asked my mom if anybody saw me the day before.  She said that she thought that I was in my bedroom and wanted to be left alone and that my car was parked outside the whole time.I can't explain how, but my life took on a completely different path after that day.  I know things that, but i can't explain how I know these things.  Something happened, but I don't know what.  Our home was behind the hill next to the airport that Kenneth Arnold took off from on the day he encountered his flying saucers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136918.html](http://www.nuforc.org/webreports/reports/136/S136918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Stange Craft seen in  the night sky over Tucson Az.Wile looking up at the night sky I saw a V shaped object flying over head.  The Craft was headed eastward. It was a ghostly gray in color with four points of lighter shade of gray{two on each wing} evenly spaced along the wings of the craft at the third and two third points.  At first I thought it was a high flying B-52 but there was no fuselage and no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93526.html](http://www.nuforc.org/webreports/reports/093/S93526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
