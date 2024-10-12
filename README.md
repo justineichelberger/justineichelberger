@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Stange Craft seen in  the night sky over Tucson Az.Wile looking up at the night sky I saw a V shaped object flying over head.  The Craft was headed eastward. It was a ghostly gray in color with four points of lighter shade of gray{two on each wing} evenly spaced along the wings of the craft at the third and two third points.  At first I thought it was a high flying B-52 but there was no fuselage and no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93526.html](http://www.nuforc.org/webreports/reports/093/S93526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sightings Over Reading Pa AreaDuring the week of the full moon I observed at least 4 different sightings of strange objects in the sky at night in different formations The first night from the top of mount penn I observed what appeared to be a diamond formation in the sky the second night a triangle and then the next night a rectangle but the most interesting of all was on sunday night 10/19/08 I was what appeared to be a star moving very slowly towards the west my wife was with me and saw what I had seen she got kind of scared but I was fasinated by what i saw I really can tell you what they were or what they were doing in this area on thing is sure UFOs do exist these were not stars or constelations</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66368.html](http://www.nuforc.org/webreports/reports/066/S66368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
