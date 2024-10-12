@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cushing (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>i was laying outside just gazing i swear this happend please believe me my parents dont. i was sitting outside and i saw a flash then i ran inside. came back out and i heard something. i was scared so i just went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72852.html](http://www.nuforc.org/webreports/reports/072/S72852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A bright orange light split into four, did a strange but precise set of movements, then joined back together and faded.I was at a farm festival event standing on a small hill for children to climb.  I looked over to the south i think and I saw a bright orange light in the sky.  I thought it was just a firework so i watched it.  It soon broke into 4 individual hovering lights. They were lined up in a vertical position and they did not move for a second.  Then, one by one, they started to move horizontally back and fourth, fading in and out.   They seemed to stay at the same altitude through this phenomenon.  I kept watching and they soon stopped moving back and fourth and they rejoined the vertical line.  They then went back into one and the bright orange light dimmed until I couldn't see it anymore.  I wasn't the only one that saw it and since the lights stayed at the same altitude for almost the entire duration of this event, I don't believe it could be a hoax of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103188.html](http://www.nuforc.org/webreports/reports/103/S103188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
