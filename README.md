@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:16 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:02 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in El Mirage (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>1 to 3 orange lights, over a short period of time.  West sky from West Valley area of Phoenix.According to iphone compass 250 degrees "west" saw 1 orange light roughly 3-4x the size of a typical star in the sky.  Starting moving up, called my son out.  He saw. It flickered while moving up then disappeared.  Went out 5 mins later, another one in the same spot showed up didn't move up but flickered and disappeared.  We both witnessed this and couldn't get a good picture.  Went out again 10 mins later my son and daughter both had their phones trying to get good pictures.  Couldn't.  Two orange lights showed up.  The top one fizzled out and a third one showed up below it.  Tried videos but an iPhone isnt very good in the dark.  Both the remaining lights fizzled out.  I didn't see any blue or red flashing lights to be an aircraft.  And "although close to Luke AFB" I've seen aircraft flares from my time in the service.  They weren't that.  I honestly just don't know.  All I know is they were orange.  Larger than a star.  Moved.  And they were in the same spot when the "new" one came back.  It's been 25 minutes and I keep checking back but haven't seen them since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114464.html](http://www.nuforc.org/webreports/reports/114/S114464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>V shaped craft on south side of Indy by power plant.Large V shaped craft over the South Side of Indianapolis, Indiana over the power plant on South Harding just sitting.Absolutely beautiful gray V shape. I was sitting with my wife and friend outside by our fire pit when I saw it and showed my wife and friend. I could not turn from it.((NUFORC Note:  Date may be flawed.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122787.html](http://www.nuforc.org/webreports/reports/122/S122787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
