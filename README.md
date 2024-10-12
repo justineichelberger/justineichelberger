@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in La Serena (Viña del Mar) (Chile) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 127 m - 127 m minutes.</sub><blockquote><sub>I dont Write English But I Have a 3 Videos Bery high resolution My email ((e-address deleted)) Chile Suth America((NUFORC Note:  We will request copies of the tapes, or still frames from it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22538.html](http://www.nuforc.org/webreports/reports/022/S22538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greenville (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Red/green stationary light NW of Greenville, ME.As I was admiring the night sky outside our camp I looked North towards Greenville and saw a red/green flashing light, thinking it was a plane but it did not move, it stayed stationary.  I watched it for awhile from the deck, then saw another smaller white light moving from the east to west that seemed to go beneath it.  I assumed this to be a plane.  I called to my husband and we went upstairs w/ binoculars for a better view.  It was still too far in the distance to make out anything clearly other than the red/green light.  We watched for about 20 mins and it did not move at all.  I looked again just befor bed at about 10 and did not see it at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114544.html](http://www.nuforc.org/webreports/reports/114/S114544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
