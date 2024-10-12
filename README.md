@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge fireball in Phoenix turns into two orbs that float and tumble to the groundOn October 12, my family and I were hiking North Mountain in Phoenix, AZ at 6:55pm. On our descent, I saw out of the corner of my eye a bight flash, and I dismissed it as lightning. Ten to 20 seconds later, I looked left, and due West, I saw a fireball in the sky.  Not a small meteor with a smoke trail (I've seen those too) -  This was fully on fire, and huge, much like a movie set. Once it hit the clouds, it blinked out.  Three seconds later, two very bright and disticnt orbs started free falling to earth from the spot that the metoer dissapeared, only not straight down.  It took 4 mins for them to reach the surface, after going this way and that, pausing, and circling down to the ground.  It was like the two orbs were dancing with each other on the way down. I've seen some pretty weird things in my life, but this was the most life-changing event of them all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93509.html](http://www.nuforc.org/webreports/reports/093/S93509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Right the sun was going down i stepped onto roof as i did every evening not at same times but this day was at this time and i laid back looking up at sky when two light lights looked like doves at first came up on my left side of condo slowly and up directly above me and that's when i noticed the shape of air craft ad within a half of a second the soundless craft pointed up to the sky n was gone flew so fast it was gone in a second. the craft was blended in with the sky...invisible.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118099.html](http://www.nuforc.org/webreports/reports/118/S118099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
