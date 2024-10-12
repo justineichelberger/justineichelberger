@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A MOVING RED BALL OF LIGHT.A SLOW MOVING RED BALL OF LIGHT. IT WENT AROUND IN CIRCLES.  THEN UP AND DOWN. SIDE TO SIDE.  WE LIVE IN A MOUNTAIN REGION, BUT UFO WAS ABOVE THE MOUNTAINS. IT ALMOST LOOKED AS IF IT WAS A STAR BUT IT WAS MOVING.  WE CALLED THE LOCAL TELEVISION STATION WLOS NEWS 13 AND ASKED IF ANYONE CALLED IN REPORTING THE UFO.  THEY SAID YES, THERE SWITCH BOARD WAS LIT UP. THEY SAID THEY CALLED THE ASHEVILLE AIRPORT BUT THEY DID NOT HAVE ANYTHING ON RADAR. UFO WAS IN THE SOUTHWEST SKY. I AM A PILOT AND HAVE SEEN MANY AIRCRAFT BUT NOTHING LIKE WHAT WE SAW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05982.html](http://www.nuforc.org/webreports/reports/005/S05982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Airliner and UFOsI videotaped several UFOs "shadowing" a large jet aircraft, probably a commercial airliner.   I have observed and videotaped this occurrence more than once.  In fact every time I follow a jet aircraft at high altitude with my video camera I record UFO activity near the jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97079.html](http://www.nuforc.org/webreports/reports/097/S97079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
