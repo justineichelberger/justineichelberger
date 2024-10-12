@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hiawassee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We just witnessed an amazing event.  About ten different hovering light facing 20' north east of Hiawassee.  They were orange like and very bright lthat seemed to move in all concentric motions.  They were right over the National forest where no one lives, it's a wooded area.  We have never seen anything like this!  They seemed to be forming triangles.  The lights were amazing!  We did not hear any noise coming from that area.  We would say they were 5000 ft high.  It was really cool!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103181.html](http://www.nuforc.org/webreports/reports/103/S103181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A MOVING RED BALL OF LIGHT.A SLOW MOVING RED BALL OF LIGHT. IT WENT AROUND IN CIRCLES.  THEN UP AND DOWN. SIDE TO SIDE.  WE LIVE IN A MOUNTAIN REGION, BUT UFO WAS ABOVE THE MOUNTAINS. IT ALMOST LOOKED AS IF IT WAS A STAR BUT IT WAS MOVING.  WE CALLED THE LOCAL TELEVISION STATION WLOS NEWS 13 AND ASKED IF ANYONE CALLED IN REPORTING THE UFO.  THEY SAID YES, THERE SWITCH BOARD WAS LIT UP. THEY SAID THEY CALLED THE ASHEVILLE AIRPORT BUT THEY DID NOT HAVE ANYTHING ON RADAR. UFO WAS IN THE SOUTHWEST SKY. I AM A PILOT AND HAVE SEEN MANY AIRCRAFT BUT NOTHING LIKE WHAT WE SAW.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05982.html](http://www.nuforc.org/webreports/reports/005/S05982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
