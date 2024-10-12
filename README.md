@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:20 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>An  orange/yellow star-like cylinder with a hazy, glow transited Florida from SSE to NNW at 30 elevation on 10/12/04 @2327 EDTAt Approximately 8:27 PM EDT, Tuesday, October 12, 2004, I stepped out of my house to check the sky for clouds, anticipating a satellite pass, when I observed a -3/-4 magnitude star-type cylindrical object moving from south-east to north-west, 20 to 30 degrees above the horizon.  At first, I thought it was the ISS (International Space Station). It appeared to have the same orangish/white color as the ISS. I then noticed it had a haze or glow around it, and was LARGER in relative size than the ISS. The object tracked on a path similar to a satellite, but did not "Feel" the same. It dissappeared over the horizon to the north. The conditions were CAVU: Ceiling And Visibility Unlimited, with a sodium vapor street light 300 feet to my relative west. After checking the Marshall Space Flight Center's J-Pass Web Site (http://science.nasa.gov/RealTime/JTrack/3D/JTrack3D.html) for satellite overflights and found none near Florida, I called MacDill AFB in Tampa. The Duty Officer said they had no information on any missile tests or other activities, and would log my call.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39751.html](http://www.nuforc.org/webreports/reports/039/S39751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cushing (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately  -  minutes.</sub><blockquote><sub>i was laying outside just gazing i swear this happend please believe me my parents dont. i was sitting outside and i saw a flash then i ran inside. came back out and i heard something. i was scared so i just went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72852.html](http://www.nuforc.org/webreports/reports/072/S72852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
