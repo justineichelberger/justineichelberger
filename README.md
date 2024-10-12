@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sightings Over Reading Pa AreaDuring the week of the full moon I observed at least 4 different sightings of strange objects in the sky at night in different formations The first night from the top of mount penn I observed what appeared to be a diamond formation in the sky the second night a triangle and then the next night a rectangle but the most interesting of all was on sunday night 10/19/08 I was what appeared to be a star moving very slowly towards the west my wife was with me and saw what I had seen she got kind of scared but I was fasinated by what i saw I really can tell you what they were or what they were doing in this area on thing is sure UFOs do exist these were not stars or constelations</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66368.html](http://www.nuforc.org/webreports/reports/066/S66368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hiawassee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We just witnessed an amazing event.  About ten different hovering light facing 20' north east of Hiawassee.  They were orange like and very bright lthat seemed to move in all concentric motions.  They were right over the National forest where no one lives, it's a wooded area.  We have never seen anything like this!  They seemed to be forming triangles.  The lights were amazing!  We did not hear any noise coming from that area.  We would say they were 5000 ft high.  It was really cool!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103181.html](http://www.nuforc.org/webreports/reports/103/S103181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
