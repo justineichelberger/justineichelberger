@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:54 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bridgeton (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>dark rectangular object ascended into the sky near St. Louis International airportOn 10/12/2010, I saw a large dark colored rectangular object while in the parking lot of Quick Trip in Bridgeton, MO.  This is near the St. Louis International Airport.I was just about to leave when I noticed a man entering QT, who seemed fixed on the sky as he walked toward the entrance.  Out of curiosity, I looked up and saw this dark rectangular object moving west very slowly.  The object appeared to be moving at the distance one would expect a helicopter to fly. I got in my car then rolled down the window in order to hear if it made any noise which it did not.  As I watched the object, it appeared to stop then it got smaller and smaller as if it were a helium balloon disappearing into the atmosphere.I watched it for a minute or more, until I could no longer see it.  As I was about to leave, the man I saw earlier exited the store.  I asked him if he saw that and he said, "Did you see that?"  I said, "Yes, did you see that?" again, and he then asked, "Did it fly over the store while I was inside?"I told him how it ascended into the sky until I could no longer see it.  I was still in awe of what I witnessed and just drove away.  I felt relief that someone else confirmed seeing it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82387.html](http://www.nuforc.org/webreports/reports/082/S82387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bessemer (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange circlesI was standing outside at my car.  I saw a row of bright fire like circles just slowly moving through the sky.  They were in groups of 3, 4, and 6.  They slowly went across the sky and went up in the air and disappeared.  I called my aunt to verify, she saw them as well.  For the next 5 minutes after the bright balls you can see a stray 1 or 2 flicker across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93501.html](http://www.nuforc.org/webreports/reports/093/S93501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
