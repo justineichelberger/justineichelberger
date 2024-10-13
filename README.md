@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>soccer ball sized light moving throughout the trees and then headed at us before turning and disappearingMy father and i were standing in the road and he shouted woah i think i saw a shooting star, so i turned around and looked into the trees and the light he saw was now heading straight at us and then made a left turn and moved at a gaining pace throughout the trees. The light came from our left through the trees very fast and then it slowed to a steady pace. It was approximately the size of a soccer ball and it was very bright white in the middle and dimmed around the edges. It made no sound as it moved throughout the trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72826.html](http://www.nuforc.org/webreports/reports/072/S72826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sarver (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several strange objects of all colors this evening, most I'm sure could be explained away. I'm hoping someone can tell me about this one:  standing outside with a friend originally facing north watching all these strange objects, i turned around (facing South/southwest) to walk back inside.  I didn't even have to glance up to see 4 bright orange lights spaced evenly apart in a horizontal line traveling slowly and steadily in a south/sw direction.  I should have seen them prior to my turning around, according to the direction in which they were flying.  If it was one object, it was bigger than any plane I've ever seen, and didn't seem to be as high as planes normally fly at night, or as fast.  I ran in to get a camera and when I came back out my friend who was with me said he saw a bright red light shoot out the "back" at a much higher speed in a north/nw direction.  This red object was blinking and traveling much faster than a  plane (which I was trying ! to convince him it was).  It either got too far away to see, lost in clouds, or disappeared.  We lost visuals on the original 4 lights over a tree line.  There were no sounds from either the blinking red or orange lights.  I just want a logical explanation! Thank you!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114505.html](http://www.nuforc.org/webreports/reports/114/S114505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
