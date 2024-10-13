@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 12 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Airliner and UFOsI videotaped several UFOs "shadowing" a large jet aircraft, probably a commercial airliner.   I have observed and videotaped this occurrence more than once.  In fact every time I follow a jet aircraft at high altitude with my video camera I record UFO activity near the jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97079.html](http://www.nuforc.org/webreports/reports/097/S97079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>strange light in the AM sky New Haven, CTi first saw this aobject while driving into work, it was in the form of a light and seemed to be square in apearance, and the like was more like a constant shimmer than a flashing, this was not blinking like an aircraft. when i parked my car i was facing the object directly. after about three minutes i noticed that the object started moving, it was hard to tell if it was moving up or toward my direction. and at 6:29 the light was gone and was unable to see any object that may have been emitting the light. well thats it maybe someone else saw the same thing and may have more info on this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39768.html](http://www.nuforc.org/webreports/reports/039/S39768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
