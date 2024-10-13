@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>the object gave off a light that illuminated the entire sky then disapated completely.On the above listed approx. date and time i was on patrol in the northern end of the city parked running radar in the 2600 blk of dudley ave. At the approx time listed i observed a bright blue light that illuminated  the entire sky that lasted for approx. 5 seconds.  the blue light immediately turned to a bright green color that lasted approx 5 more seconds.  the light then suddenly stopped at which time it was as if nothing had happened.  another officer who was approx 16 city blocks away (approx 3 miles) then asked the other units working if they had witnessed the incident.  myself along with 2-3 other officers advised him he had. our dispatcher then advised they were recieving a heavy amount of calls from civilians reporting the strange lights that illuminated the sky. the shift superviser then contacted the state police detachment in charleston, which is an hour away from parkersburg, and was advised the had also recieved multiple reports of the same lights.  the officer that had spoken on the radio asking if others had witnessed the light advised me he saw a ball of light that was blue,changed to green, then dissipated completely.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42247.html](http://www.nuforc.org/webreports/reports/042/S42247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Riverton (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a streak of light vertical in the sky.  At first I thought it was a plane crashing into the mountains. Saw a streak of light vertical in the sky.  At first I thought it was a plane crashing into the mountains.  But, the "streak" wasn't as long as what usually follows a plane and it was much brighter.  It was not moving fast, at first I thought it wasn't moving it all.  As I continued to watch, I noted that it was slowly descending until it finally went behind the mountain.  Then I saw 2 more, both right above the mountains in the east like the first.  They were not moving fast enough to be a plane and the streaks of light were very bright.  I watched them for about 15 minutes until all but one had disappeared behind the mountain and then I came to report it.  I called a friend who could see it also and had never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130598.html](http://www.nuforc.org/webreports/reports/130/S130598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
