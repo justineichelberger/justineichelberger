@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:24 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright light spotted over the Great Salt Lake.I was up near the Wasatch mountains looking across the valley near the Great Salt Lake. I then saw this bright light in the sky. I thought it was a plane, but I continued to stare at it. I started to zone out and was only watching this bright like as it travled slowly across the sky. Then it vanished and reformed right from the point at which I had first seen it in the sky. It travled the exsact same distance and then disappeared again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16936.html](http://www.nuforc.org/webreports/reports/016/S16936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in De Soto (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Iridescent/transparant /triangle shaped UFO witnesses by 8 people on Thursday, 10/13/06 at 22:00 hours.(Note, I personally did not see the craft because I was inside the moment, but there were at least 8 witnesses on the trampoline outside who all saw the same thing) On the night of October 13, 2006, at around 10:00 PM, around 8 people (not including myself) saw an almost transparant triangle shaped UFO in the sky. They said it was around 15 to 20,000 feet up in the sky and it sort of glided through the sky. It was slightly iridescent in color and just bright enough to visibly see it, although the witnesses claimed to be able to see through it. They all said that it was really big, but hard to tell how so because it was so high in the sky.It was definitely triangle shaped.One of the witnesses also claimed to have seen the same unidentified object a few hours prior. I was extremely dissapointed not to have seen it, but my brother, best friends, and a few of their friends all seriously swear that they saw this UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52995.html](http://www.nuforc.org/webreports/reports/052/S52995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
