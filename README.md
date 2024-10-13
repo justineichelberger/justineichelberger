@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Broomfield () reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>multiple lights 12-15 in a v shape flying very fast at a high altitude at 00:55 Mtn std time. 100% sure I witness something.I saw 12-15 star looking objects, that were traveling at a high rate of speed. the formation was shaped as a "v" with the point facing north, and traveling from the south to the north. they looked like they were in the upper atmosphere.  I was looking east and the location in the sky was approx. 10 degrees west of the Little Dipper from Broomfield Co.  I could see the objects come into view about 30 deg. above the horizon and made a straight path north as far as I could see.  The brightness would change.  They started out very dim, and got as bright as Jupiter, then almost disappeared or changed to an translucent white, above my head, then got brighter again as it traveled north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122776.html](http://www.nuforc.org/webreports/reports/122/S122776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright light spotted over the Great Salt Lake.I was up near the Wasatch mountains looking across the valley near the Great Salt Lake. I then saw this bright light in the sky. I thought it was a plane, but I continued to stare at it. I started to zone out and was only watching this bright like as it travled slowly across the sky. Then it vanished and reformed right from the point at which I had first seen it in the sky. It travled the exsact same distance and then disappeared again.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16936.html](http://www.nuforc.org/webreports/reports/016/S16936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
