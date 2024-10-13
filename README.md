@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A fire disk was seen moving slowly as the light dimmed and object disappeared.Disk/Ball shaped, similiar to lighting a match with only orange and red light.   Object moved very slowly from the southeast due west.  One object was observed.  Object was viewed by my husband and I as we sat on our second floor balcony facing west.  After observing this object for nearly two minutes, the light dimmed and the object appeared to be moving upward, then disappeared immediately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78410.html](http://www.nuforc.org/webreports/reports/078/S78410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Molalla (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I was walking early this morning at 6:37 am and stargazing cuz it's almost time for the sun to come up and then you can't stargaze and while doing so I thought it was a normal brightish star but then it took off and left like a blue tail as it took off and disappeared it was the weirdest thing to see cuz to me it was like a blue fountain firework appeared in the sky and was silent .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114490.html](http://www.nuforc.org/webreports/reports/114/S114490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
