@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Duck Hill (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately Daylight - Daylight minutes.</sub><blockquote><sub>It was to high for an airplane or helicopter.On 10/13/17 around 16:20  I, my uncle and Dad were out side talking. I t was a very clear day blue sky’s.  I look up and saw a strange craft just hovering.  It was way beyond any plane or helicopter reach.  It hovered about 5 minutes.  My uncle and Dad both saw it and we where trying to see if it had a rotor blade or wings.  The craft had know wings or blades and didn’t put out any emission.  It finally started to move at a very slow pace and it finally got out of our eyesight. From what I could see the craft was a shining metallic color and had a shape  Like a kernel of corn with a point.  When it left from hovering the point on the craft was moving forward.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137352.html](http://www.nuforc.org/webreports/reports/137/S137352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Isle of Palms (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>12 Redish flying objects over Isle of PalmsRed globes flying from North to South over Mt. Pleasant, SC towards N. Charleston.  Appeared to be flying in formations at approx 15,000ft.  No strobes or markings or noise from objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93535.html](http://www.nuforc.org/webreports/reports/093/S93535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
