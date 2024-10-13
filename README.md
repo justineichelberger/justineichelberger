@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Molalla (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I was walking early this morning at 6:37 am and stargazing cuz it's almost time for the sun to come up and then you can't stargaze and while doing so I thought it was a normal brightish star but then it took off and left like a blue tail as it took off and disappeared it was the weirdest thing to see cuz to me it was like a blue fountain firework appeared in the sky and was silent .((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114490.html](http://www.nuforc.org/webreports/reports/114/S114490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Galveston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Starting on October 10, 2004, I have seen an object in the sky twice previously in the past week and a third time last night, I saw two. Usually I noticed it around 2 or 2:15 am (while I was working at my home computer, I am a writer and so is my husband) and it would be noticable for about 30 to 45 minutes but since it was early in the morning I have usually gone to bed before it disappeared. However, on Monday night 10/12 it disappeared before I went to bed.  I might add the weather was good and no other stars were visible in the sky when we have seen these lights. After the first sighting, my husband up out of bed to see it/them. The object(s) appears on the Gulf water side due East and Southeast over the Bolivar Peninsul/ Texas City area.  You see a belt of lights parallel to the horizon seeming to rotate around whatever it is, changing colors from white to yellow to green occasionally with a red flash.  Normally it hovers in one spot moving ever so slightly but last night 2 of them appeared at the same time. At first they were a good distance from each other then one moved to be in tandem with the most easterly one and they were close to each other high over the roof top of my neighbors home but I have no idea how high they were, I would say extremely high.  On Monday night the one that was there was kind od darting around slightly before it disappeared. I am concerned and I do not know what to do; because as you may know there are many petroleum refineries here in this area and the salt dome oil storage is underground at High Island not far from here. I guess I am worried these might be some sort of spy vehicles but they just seem so unusual that I cannot believe others have not seen them and I have to think the US military and the Coast Guard would be strengently guarding these refineries, so why have they not seen them? We tried to get some photos but our camera is not good enough for this type photograpy.  We do have a telescope and we are going to adjust it today so we can possibly see something in the next few days.((NUFORC Note:  We suspect Venus may be the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39759.html](http://www.nuforc.org/webreports/reports/039/S39759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
