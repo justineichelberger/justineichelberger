@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:25 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clairemont (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A portion of the night sky lit up a beautiful glowing blue, followed by a blue sphere with aura heading west.I was sitting in my den watching TV, the window of the room to the west and my left.  A portion of the sky lit up a soft yet bright beautiful light blue colour, catching my eye.  As it is a very hot night with no rain, it could not be lightning.  Also, the colour blue was vivid, not white, like lightening.  I jumped up to look out the window to see what it could be. As I did, directly overhead, heading west at a fast rate of speed, was a sphere the size of what appeared to be like a basketball or larger, the entire center solid looking with a perfect sphere of an aura surrounding it.  The entire object was a very beautiful shade of vivid yet soft light blue, the center slightly darker/denser.  It quickly shot west out of sight.  Whatever it was did not make any noise.  The colour of the blue, spherical object with the glowing lighter blue aura surrounding it was beautiful against the black sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122792.html](http://www.nuforc.org/webreports/reports/122/S122792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Central Valley (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>UFO Glowing Orb Sighting over Central Valley, NYDriving south on the New York Thruway we spotted a glowing orb UFO over Central Valley New York.  It was much brighter than the video represents.  Video uploaded here - https://www.youtube.com/watch?v=J5xIbL7jIZY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156499.html](http://www.nuforc.org/webreports/reports/156/S156499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
