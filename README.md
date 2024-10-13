@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:53 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:25 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Noida (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>FOOTBALL SHAPED AND SIZED BRIGHT OBJECT IN THE NIGHT SKYTHESE DAYS NAVRATRA FASTING ,PRAYER AND OTHER RITUALS ARE BEING OBSERVED BY DEVOT HINDUS IN NORTHERN PART OF INDIA.MY WIFE IS OBSERVING THESE RITUALS TOO AND FOR THE SAME SHE GETS UP AT 4AM FOR THE LAST TWO DAYS.AS SHE CAME OUT OF THE BATHROOM THE SOUND OF THE DOOR CLOSING BEHIND HER DISTURBED MY SLEEP.  AS I OPENED MY EYES I COULD CLEARLY SEE A VERY BRIGHT FOOTBALL SHAPED AND SIZED OBJECT IN THE SKY.  AS THE WEATHER IS PLEASANT WE ARE NOT USING THE AIR CONDITIONER  THE GLASS PANE IS LEFT OPEN, WIREMESH WINDOW IS KEPT CLOSED AND THE CURTAIN IS NOT DRAWN. I IMMEDIATELY STEPPED OUT OF OUR BEDROOM INTO AN COURTYARD OPEN TO THE SKY.  IT WAS WITHOUT A MISTAKE AN OBJECT I HAD NEVER SEEN IN THE SKY. I CALLED AND WIFE JOINED ME IN THE COURTYARD ALMOST IMMEDIATELY.SHE TOO WAS AMAZED ON SEEING THE OBJECT. IT APPEARED IN THE EAST SKY THE LINE OF SIGHT MAKING AN ANGLE OF APPROX SIXTY DEGREE.IT REMAINED THERE FOR A SHORT TIME FROM THE TIME I FIRST CAUGHT A GLIMPSE FROM OUR BED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59231.html](http://www.nuforc.org/webreports/reports/059/S59231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clairemont (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A portion of the night sky lit up a beautiful glowing blue, followed by a blue sphere with aura heading west.I was sitting in my den watching TV, the window of the room to the west and my left.  A portion of the sky lit up a soft yet bright beautiful light blue colour, catching my eye.  As it is a very hot night with no rain, it could not be lightning.  Also, the colour blue was vivid, not white, like lightening.  I jumped up to look out the window to see what it could be. As I did, directly overhead, heading west at a fast rate of speed, was a sphere the size of what appeared to be like a basketball or larger, the entire center solid looking with a perfect sphere of an aura surrounding it.  The entire object was a very beautiful shade of vivid yet soft light blue, the center slightly darker/denser.  It quickly shot west out of sight.  Whatever it was did not make any noise.  The colour of the blue, spherical object with the glowing lighter blue aura surrounding it was beautiful against the black sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122792.html](http://www.nuforc.org/webreports/reports/122/S122792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
