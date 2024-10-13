@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Encinitas (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fast-moving Light Cruising the Pacific CoastWhile walking to my car at approximately 11:00 PM this last Tuesday (10/13), my girlfriend and I witnessed a very high-speed, reddish light going North to South along the Pacific coast. The light was rather dim, almost like seeing a fainter satellite traveling across the sky, but with a red tinge to it and traveling much faster than any satellite I have ever witnessed. I could not tell if it was something in the atmosphere like an aircraft or something in orbit like a satellite, but it had no discernible beacons or navigation lights like an aircraft and moved in a straight line for the 10 seconds or so that we witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160025.html](http://www.nuforc.org/webreports/reports/160/S160025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Noida (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>FOOTBALL SHAPED AND SIZED BRIGHT OBJECT IN THE NIGHT SKYTHESE DAYS NAVRATRA FASTING ,PRAYER AND OTHER RITUALS ARE BEING OBSERVED BY DEVOT HINDUS IN NORTHERN PART OF INDIA.MY WIFE IS OBSERVING THESE RITUALS TOO AND FOR THE SAME SHE GETS UP AT 4AM FOR THE LAST TWO DAYS.AS SHE CAME OUT OF THE BATHROOM THE SOUND OF THE DOOR CLOSING BEHIND HER DISTURBED MY SLEEP.  AS I OPENED MY EYES I COULD CLEARLY SEE A VERY BRIGHT FOOTBALL SHAPED AND SIZED OBJECT IN THE SKY.  AS THE WEATHER IS PLEASANT WE ARE NOT USING THE AIR CONDITIONER  THE GLASS PANE IS LEFT OPEN, WIREMESH WINDOW IS KEPT CLOSED AND THE CURTAIN IS NOT DRAWN. I IMMEDIATELY STEPPED OUT OF OUR BEDROOM INTO AN COURTYARD OPEN TO THE SKY.  IT WAS WITHOUT A MISTAKE AN OBJECT I HAD NEVER SEEN IN THE SKY. I CALLED AND WIFE JOINED ME IN THE COURTYARD ALMOST IMMEDIATELY.SHE TOO WAS AMAZED ON SEEING THE OBJECT. IT APPEARED IN THE EAST SKY THE LINE OF SIGHT MAKING AN ANGLE OF APPROX SIXTY DEGREE.IT REMAINED THERE FOR A SHORT TIME FROM THE TIME I FIRST CAUGHT A GLIMPSE FROM OUR BED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59231.html](http://www.nuforc.org/webreports/reports/059/S59231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
