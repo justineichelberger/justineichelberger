@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:42 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:53 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orwigsburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>while at a Blue Mt. footbal game i witnessed 2 yellowish orange lights moving upward very quickly, one that zigzagged upwards/high speeAs i was getting out of my car to go to a local football game between Blue Mt. & Selingsgrove on fri. me and my freind witnessed to yellow/orange fireballs suddenly appear in the sky the moment the croud erupted after a home touchdown. 5 seconds after appearing they both took off directly straight up into the air and dissapeared. The one on the left was moving in a straight line while the one on the left was making zigzag motions as it went up. I am a retired school teacher and have never seen nothing like this before and decided to let you guys know. I,m now and forever a true believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14583.html](http://www.nuforc.org/webreports/reports/014/S14583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Noida (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>FOOTBALL SHAPED AND SIZED BRIGHT OBJECT IN THE NIGHT SKYTHESE DAYS NAVRATRA FASTING ,PRAYER AND OTHER RITUALS ARE BEING OBSERVED BY DEVOT HINDUS IN NORTHERN PART OF INDIA.MY WIFE IS OBSERVING THESE RITUALS TOO AND FOR THE SAME SHE GETS UP AT 4AM FOR THE LAST TWO DAYS.AS SHE CAME OUT OF THE BATHROOM THE SOUND OF THE DOOR CLOSING BEHIND HER DISTURBED MY SLEEP.  AS I OPENED MY EYES I COULD CLEARLY SEE A VERY BRIGHT FOOTBALL SHAPED AND SIZED OBJECT IN THE SKY.  AS THE WEATHER IS PLEASANT WE ARE NOT USING THE AIR CONDITIONER  THE GLASS PANE IS LEFT OPEN, WIREMESH WINDOW IS KEPT CLOSED AND THE CURTAIN IS NOT DRAWN. I IMMEDIATELY STEPPED OUT OF OUR BEDROOM INTO AN COURTYARD OPEN TO THE SKY.  IT WAS WITHOUT A MISTAKE AN OBJECT I HAD NEVER SEEN IN THE SKY. I CALLED AND WIFE JOINED ME IN THE COURTYARD ALMOST IMMEDIATELY.SHE TOO WAS AMAZED ON SEEING THE OBJECT. IT APPEARED IN THE EAST SKY THE LINE OF SIGHT MAKING AN ANGLE OF APPROX SIXTY DEGREE.IT REMAINED THERE FOR A SHORT TIME FROM THE TIME I FIRST CAUGHT A GLIMPSE FROM OUR BED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59231.html](http://www.nuforc.org/webreports/reports/059/S59231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
