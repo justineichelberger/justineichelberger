@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately HOUR - HOUR minutes.</sub><blockquote><sub>ALIEN CONTACT THROUGH DREAMSHELLO MY NAME IS ((deleted)) AND MY SISTER NAME IS ((deleted)) AND WE ARE BOTH 18 YEARS OLD.  ONE NIGHT DURING THE MONTH OF OCTOBER OF 1996 I HAD A DREAM THAT I WAS TAKING ABROAD A UFO AND THEY TOLD ME THAT THEY WERE COMING TO GANIESVILLE FLORIDA.  THE INSIDE OF THE SHIP WAS ROUND, GOLD LIGHTS, AND TWO MEDICAL BEDS ON THE RIGHT HAND SIDE OF ME. THE OUTSIDE OF THE SHIP WAS ROUND AND BLACK WIHT GOLD AND BLUE LIGHTS. THEN ANOTHER DAY CAME AND ((deleted)) HAD THE SAME DREAM.  THEN MONDAY THE 13 OF OCTOBER CAME AND WE WERE LISTSENING TO 98.5 KTK.F.M THAT MORNING AND A LADY HAD CALLED IN SAYING THAT THERE WAS UFO SPOTTED IN GAINESVILLE.  SHE SAID THE SHIP WAS ROUND AND BLACK WITH GOLD AND BLUE LIGHTS.  LAUREN AND I FELT LIKE WE HAD BEEN CHOOSESN FOR CONTACT ALSO COULD HAVE BEEN AD ABDUCTION.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03545.html](http://www.nuforc.org/webreports/reports/003/S03545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>the object gave off a light that illuminated the entire sky then disapated completely.On the above listed approx. date and time i was on patrol in the northern end of the city parked running radar in the 2600 blk of dudley ave. At the approx time listed i observed a bright blue light that illuminated  the entire sky that lasted for approx. 5 seconds.  the blue light immediately turned to a bright green color that lasted approx 5 more seconds.  the light then suddenly stopped at which time it was as if nothing had happened.  another officer who was approx 16 city blocks away (approx 3 miles) then asked the other units working if they had witnessed the incident.  myself along with 2-3 other officers advised him he had. our dispatcher then advised they were recieving a heavy amount of calls from civilians reporting the strange lights that illuminated the sky. the shift superviser then contacted the state police detachment in charleston, which is an hour away from parkersburg, and was advised the had also recieved multiple reports of the same lights.  the officer that had spoken on the radio asking if others had witnessed the light advised me he saw a ball of light that was blue,changed to green, then dissipated completely.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42247.html](http://www.nuforc.org/webreports/reports/042/S42247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
