@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:42 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>strange light in the AM sky New Haven, CTi first saw this aobject while driving into work, it was in the form of a light and seemed to be square in apearance, and the like was more like a constant shimmer than a flashing, this was not blinking like an aircraft. when i parked my car i was facing the object directly. after about three minutes i noticed that the object started moving, it was hard to tell if it was moving up or toward my direction. and at 6:29 the light was gone and was unable to see any object that may have been emitting the light. well thats it maybe someone else saw the same thing and may have more info on this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39768.html](http://www.nuforc.org/webreports/reports/039/S39768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orwigsburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>while at a Blue Mt. footbal game i witnessed 2 yellowish orange lights moving upward very quickly, one that zigzagged upwards/high speeAs i was getting out of my car to go to a local football game between Blue Mt. & Selingsgrove on fri. me and my freind witnessed to yellow/orange fireballs suddenly appear in the sky the moment the croud erupted after a home touchdown. 5 seconds after appearing they both took off directly straight up into the air and dissapeared. The one on the left was moving in a straight line while the one on the left was making zigzag motions as it went up. I am a retired school teacher and have never seen nothing like this before and decided to let you guys know. I,m now and forever a true believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14583.html](http://www.nuforc.org/webreports/reports/014/S14583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
