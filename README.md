@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:27 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Triangel in the skyIt was last sat night.10/13/01. My wife, myself and two friends where driving back from a haunted hay ride in poughkeepsie,NY. We where driving south on the NY state thruway back to NJ. It was a nice night and very clear. I opened the sun roof and was looking at the stars. As I was looking at the stars and saying how nice they where tonight, the others started looking at them too. Then I think it was my wife sitting in the backseat with her friend sayed look at that really bright star, she asked me if it was the north. I said no because we where looking east and low on the horizon. As I really looked at it, it appeared to move . I asked my friend to pull over. We stoped and really took a good look at this thing. Thier is no dout in my mind what we where looking at was no a star! It was moving in odd formations. So we thought it was a pland moving across the sky. But after a minute or two it was still in the same spot,but moving up then to the left , right ,down, it would even dim then become very bright again. Then move in ciculare motions, then dim out completely . Then BAM brighten up again.The shape of this THING was a triangel and very bright, I don't know what it was but.. It was something and I hope I have the oppertunity to see it again.((NUFORC Note:  If the sighting occurred "Saturday night" at "12:45 p.m.," we suspect the witness means Sunday morning at 0045 hrs..  We have changed the report accordingly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19873.html](http://www.nuforc.org/webreports/reports/019/S19873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Simco (20-40 km west of) (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Hovering 300m in the air 500m off road side one bright middle light and a dimmer light circling the object no red and blue lights like airplanes have</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52925.html](http://www.nuforc.org/webreports/reports/052/S52925.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
