@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Yonkers) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Radiant White object viewed in sky from Bronx River Parkway in YonkersDriving Nothbound on Bronx River Parkway - clear night. Object observed by both driver and passenger at approximately 2:25 am. Object appeared to be dropping at rapid pace then seemed to correct itself and level off shooting off towards visible horizon. Object was radiant white light - originally thought to be shooting star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52931.html](http://www.nuforc.org/webreports/reports/052/S52931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas (rural) (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Several bright lights low in the sky over a field in Kansas. Lit up for a while and disapeared.My wife, son and I were driving north on Highway 75. At about mile marker 9 my wife spotted something out my driver's side window. About 500 feet in the air and just about half a mile away from the road was a super bright white light. I slowed my truck down to a stop as 6 more lights lit up!. The formation was about 75 to 100 yards long. They were equal distance from one another. They were all lit up for about 3 seconds and then they were gone. The lights gave off no visible beams and didn't light up the ground. The sky was clear. There were no clouds. I got the biggest goose bumps of my life!. So I decided to called sheriff's department and see if anyone else had reported seeing it. The Dispatcher said no reports tonight but, they had a report that matched mine last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39787.html](http://www.nuforc.org/webreports/reports/039/S39787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
