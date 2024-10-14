@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:29 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ely (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>A bright white light trailing a luminous con-trail coming from the south, changing color before blinking out, lasting 25 min.A bright white light trailing a luminous con trail to the horizon, appearing to be approaching from the south. The bright light changed and seemed to be emitting a bright veiled cone of light, before blinking out. the luminous con trail, and pail blue light hang in the sky for at least 25 minutes, after the event, as the con-trail turned into a snake across the sky, driven by the upper winds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25626.html](http://www.nuforc.org/webreports/reports/025/S25626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vernon (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Red flashing orbs traveling very fast/low to ground.  cluster of 4 or 5 color changing lights moving slowly, seemed to be getting closer. crazy sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114545.html](http://www.nuforc.org/webreports/reports/114/S114545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
