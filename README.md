@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Started as one ball of light.  Quickly moved and then the one ball turned into 3.  The 3 seemed to turn into 15 or 18.  They  darted around then seemingly began outlining what looked to be a bigger object.  At this time there were gaps between the bright lights and the trails of light created what looked to be a much larger object.  Suddenly, the darting "stars" or lights, became observable lines outlining the object.  I swear it looked like a ship.  From the movies.  Simultaneously as the lights became a solid outline (in between the light there were stars set exeactly how they were supposed to be, in essence it was projecting what was behind it on it or in front of it) it suddenly melded forward, then flat out blasted off from north to south following the mountain ridge line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114523.html](http://www.nuforc.org/webreports/reports/114/S114523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New York City (Yonkers) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Radiant White object viewed in sky from Bronx River Parkway in YonkersDriving Nothbound on Bronx River Parkway - clear night. Object observed by both driver and passenger at approximately 2:25 am. Object appeared to be dropping at rapid pace then seemed to correct itself and level off shooting off towards visible horizon. Object was radiant white light - originally thought to be shooting star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52931.html](http://www.nuforc.org/webreports/reports/052/S52931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
