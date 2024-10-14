@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Argostoli (Greece) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>our first ufo sighting. KEFALONIA GREECEdriving home at 07:25am with my wife we saw a flying object in the dawn of the sky about 150meters high that was very fast. it changed colors from neon blue to neon green leaving a trail of light beams & sparks,it also seemed invisible at some point when we first saw it up in the sky .it was obal or a sphere as my wife said she saw it.as soon as we saw it,it seemed to move faster & disappeared in 5 sec.its was amazing & we have never seen anything like it before in our lives. s.k. & a.f. argostoli,kefalonia,GREECE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52927.html](http://www.nuforc.org/webreports/reports/052/S52927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Llanelli (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangle object flew over my house early morning blocking out all starsA triangler shape flew over my house early this morning while i was out side.  It blocked out all of the stars as it flew over, i all i could see is a black triangle shaped object flying over marked out be the stars. It made no noise and or did not alter it course in any way.  I could not tell the size of the object but i guess it must have been quite large.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46987.html](http://www.nuforc.org/webreports/reports/046/S46987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
