@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mead  (near Spokane) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I just let my dog out and look up and saw a blue light. I assume it was a shooting star however: It seemed to low and slow. I was looking east, the blue light lasted about 3 seconds. I thought it was a quiet helicopter (no sound) it only appeared to be about 1000 ft up. The night is clear and the stars appear higher. It traveled about 1000 feet and then disappeared. I step outside and could not see anything in the sky. Like I said, I thought at first it was a helicopter and then a shooting star and then it vanished. It was low, slow, blue and didn't go very far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10220.html](http://www.nuforc.org/webreports/reports/010/S10220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small black object following airliner within its contrailWhile seated at an outdoor restaurant on the Gulf of Mexico, myself and two dinner companions observed what appeared to be a widebody commercial airliner, silver in color, heading north at cruising speed, at an altitude of perhaps 10,000-15,000 feet.  Behind the aircraft a very clearly defined contrail extended for perhaps 1/4 to 1/2 mile.  Towards the tail end of the contrail, there appeared a black object about the size of an automobile.  This object followed the aircraft at a fixed distance, always remaining perfectly centered within the contrail.  No wings or control surfaces were visible on the object, but it appeared metallic in composition because it seemed to reflect the light from the sun, which was low on the horizon. It was difficult to determine the exact shape of the object because it was engulfed in the vapor trail, but it was consistently visible and did not disappear at any point during the time the aircraft was in sight.  Other patrons nearby immediately noticed the object, despite that I had only pointed at the aircraft and did not mention the UFO.  One person commented that it was as if the aircraft was towing the black object, although no towing cable was visible.  During the course of the sighting, the contrail rapidly dispersed about 100 feet behind the black object, leaving no evidence of the aircraft's passage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14555.html](http://www.nuforc.org/webreports/reports/014/S14555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
