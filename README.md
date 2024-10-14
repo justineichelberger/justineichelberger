@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Llanelli (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>triangle object flew over my house early morning blocking out all starsA triangler shape flew over my house early this morning while i was out side.  It blocked out all of the stars as it flew over, i all i could see is a black triangle shaped object flying over marked out be the stars. It made no noise and or did not alter it course in any way.  I could not tell the size of the object but i guess it must have been quite large.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46987.html](http://www.nuforc.org/webreports/reports/046/S46987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mead  (near Spokane) (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I just let my dog out and look up and saw a blue light. I assume it was a shooting star however: It seemed to low and slow. I was looking east, the blue light lasted about 3 seconds. I thought it was a quiet helicopter (no sound) it only appeared to be about 1000 ft up. The night is clear and the stars appear higher. It traveled about 1000 feet and then disappeared. I step outside and could not see anything in the sky. Like I said, I thought at first it was a helicopter and then a shooting star and then it vanished. It was low, slow, blue and didn't go very far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10220.html](http://www.nuforc.org/webreports/reports/010/S10220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
