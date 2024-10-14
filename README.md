@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:48 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Park Rapids (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>floating, moving  object in Park Rapids,MNMy wife and I were taking our two dogs out to do their duty,when we had seen a strange light I mistook as a bright version of Mars. As we kept looking at it,the color was more golden than anything else.  As we continued looking at it, it was moving in a erratic behavior, similiar to the pattern the lady you reported in Canada saw.  It had been showing itself at night every night this week. Being a stargazer myself, I don't believe it to be a plane, a star,planet or any other mundane, ordinary object I know of.)((NUFORC Note:  Probable sighting of Mars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47000.html](http://www.nuforc.org/webreports/reports/047/S47000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Concord (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>amorphous black object stationary in the sky...  9 witnesses. Daytime sighting...Location: 9 story building with glass windows with 180 degree view... Coworker alerted the rest of the workers about a black object in the sky.. Looked like black balloons tied together.. Object stayed suspended in the sky about 800 feet up. Even though it was a windy day the object stayed in one spot. At the time it seem to be morphing. It was an overcast day with high clouds moving at a good pace. The object was not effected by the wind.. I got ahold of building maintenance to gain access to the roof.. By the time we got there the object was gone.. Note: I've seen many balloons floating past this building.. If it was a bunch of balloons tied together the whole stack would have ascended, not be stationary...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72861.html](http://www.nuforc.org/webreports/reports/072/S72861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
