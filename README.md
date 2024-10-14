@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 13 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Ogden/Clinton (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>My husband woke me up to see this. It is hard to describe because it was inside a cloud. It had an outer ring of triangular lights that were bluish white. They fashed one at a time around in a circle, sometimes faster sometimes slower. It had an inner ring of lights that moved as if it were opening and closing sort of like jellyfish do when propelling themselves forward. It did not move it just hovered there for hours, Gradually getting higher in they sky as the sun rose. I stood under it and so did my kids and neighbor. It didn't make any sound. It was reported in our local paper and policemen had seen it ect.  Hundreds have seenit but we do live by a Air Force Base and so most of us just figure that it is a new plane or something. Many witnessed it moving from Ogden area to the Layton area , to my area.  I would like to know if anyone else saw this and could explain what it was.((NUFORC Note:  We do not know what the witnesses observed.  However, it has been reported to NUFORC that there is a laboratory, run by either a university or a company, that frequently uses a high-energy blue-green laser in the night sky.  We do not know its location.  This may have been the cause of the 3-hour sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18638.html](http://www.nuforc.org/webreports/reports/018/S18638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elmo (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large very bright circular light spanding much of the countryside.Bright light hoovering over flat lands elevation unknown.  Light similar to that of the Luxor casino in Las Vegas shining on the ground originating from a very destinct circular object, but beem graudually fading, but beem being visible from miles--very fast moving.  Number of witness on the frequented highway where witnessed...HWY 10 between Huntington and Price, Utah.  Light moved in a southeast direction until disappearing behind mountains, or fading until unseen.((Vandenberg rocket launch.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25580.html](http://www.nuforc.org/webreports/reports/025/S25580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
