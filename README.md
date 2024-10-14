@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:20 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:48 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Elizabethton (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Appeared to be fireballs with a dissipating trail falling toward earth at dusk.  Two in number. October 14, 2020, 6:47 PM, Elizabethton, TN, looking toward Johnson City, TN. Witnessed also by neighbor. A couple weeks later, three similar falling fireballs with a fourth going across the western evening sky.  A couple weeks later, one moving across sky in early afternoon sky around 1:00 PM. A few days before Christmas, two going across the early evening sky (dusk), one going south/north, the other traveling northeast to west. Both had long tails which dissipated behind object. Witnessed by adult male. Have a picture on cellphone of first one but picture isn't good.  Wonder if they could be meteorites?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161363.html](http://www.nuforc.org/webreports/reports/161/S161363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Park Rapids (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>floating, moving  object in Park Rapids,MNMy wife and I were taking our two dogs out to do their duty,when we had seen a strange light I mistook as a bright version of Mars. As we kept looking at it,the color was more golden than anything else.  As we continued looking at it, it was moving in a erratic behavior, similiar to the pattern the lady you reported in Canada saw.  It had been showing itself at night every night this week. Being a stargazer myself, I don't believe it to be a plane, a star,planet or any other mundane, ordinary object I know of.)((NUFORC Note:  Probable sighting of Mars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47000.html](http://www.nuforc.org/webreports/reports/047/S47000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
