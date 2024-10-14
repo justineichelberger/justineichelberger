@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I know what I saw is exactly what the report from Sept 24th from Vero Beach saw.Identical to a Report that was filed here from Vero Beach on 09-24-19 Went out this morning before Sunrise and Witnessed this Object.Heard a low "hush" type sound first and looked up to see this maybe 1000 feet up.Almost Silent glide flight. V shaped, semi-transparent. Ground reflections or lights on it looked like it was a small cluster white birds at first then realized as it passed directly over me it obscured the view of the stars as it was a very clear morning. It was moving no more than 100 knots and we live very close to the Airport in Sarasota. This was moving from Northeast to Southwest.I know what I saw and to find the report from Vero Beach that is almost exact to mine makes me know what I saw was something real and from another World.  starts in a v shape. We had Clear star sky. Heading west to east towards Atlantic Ocean. Only saw the shape/outline of the craft because it was reflecting off the ground lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149841.html](http://www.nuforc.org/webreports/reports/149/S149841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in EL Centro (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange lights over El Centro, CA that do not moveI was on my deck and could see these lights that I assumed were a Border Patrol helicopter, but after 15 minutes it did not move at all. I went inside and got my binoculars, and viewed the object. It seemed circular and the lights seemed to change color and were around it.After 20 minutes I went inside to see if anyone else had made a post about it on the internet. I went back outside and continued to watch it when it got very bright and shot sideways and just vanished. Normally we can hear the helicopters this was silent.I am very used to seeing night crop dusting planes and helicopters this was neither. It just stayed in one place until it moved and disappeared. It was between El Centro and Ocotillo over the mountain range. I almost thought it was a star for awhile but seemed way too low. Just when I had convinced myself it was a star because it was just hovering in one spot it got bright and sped to the right towards the airport. I would have seen it as if it were coming into the airport it would have gotten closer to me. Instead it just went straight in a line and vanished. I sure would like to know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93574.html](http://www.nuforc.org/webreports/reports/093/S93574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
