@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:27 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elmo (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large very bright circular light spanding much of the countryside.Bright light hoovering over flat lands elevation unknown.  Light similar to that of the Luxor casino in Las Vegas shining on the ground originating from a very destinct circular object, but beem graudually fading, but beem being visible from miles--very fast moving.  Number of witness on the frequented highway where witnessed...HWY 10 between Huntington and Price, Utah.  Light moved in a southeast direction until disappearing behind mountains, or fading until unseen.((Vandenberg rocket launch.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25580.html](http://www.nuforc.org/webreports/reports/025/S25580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large, silent V-shaped object traveling North to SouthLarge V-shaped object.Traveling (pointing) North to South at high rate of speed.Four lights per side; very dim.No sound.Estimated altitude: 2000'</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114629.html](http://www.nuforc.org/webreports/reports/114/S114629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
