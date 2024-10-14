@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 14 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ringgold (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orangish bulb lights in southeastern skyDriving down I-75s looked to my left over east ridge area and saw to orangish bulb lights in the sky 30-40' across and one of the lights would go dim while the other stayed lit and one of the lights would get closer, higher or lower than the other light.  Could not confirm shape but seemed to be round or dish shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122797.html](http://www.nuforc.org/webreports/reports/122/S122797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lake Elmo (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Six lights as bright as  staium lights on chevron shaped object hovering over grove of trees.6Objct seen at night as I drove East on 10th street.  Appeared as a very bright round light. Also appeared to be accompanied by  smaller aircraft like a heliocopter. I rolled down my truck window (drivers side) to listen for any heliocoptersound but did not hea any. This took less than a minute. I than noticed some extrememly bright lights over a grove of trees to my right . The lights were as bright as in a sports stadium. There were six very bright distinct round lighs. Three on either side as if in a v or perhaps chevron shape. I slowd down to about 30 miles per hour and rolled down the passenger window but sa no movement and heard no sound. The tops of the trees were extremely lit up. I stopped at the corner of 10th and manning(there were two guys and a Quest truck down in the ditch working on some cable I think. They appeared ot to notice the lights. I than turned left to go home To Stillwater and could still  see the bright lights in my rear view mirrior.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21448.html](http://www.nuforc.org/webreports/reports/021/S21448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
