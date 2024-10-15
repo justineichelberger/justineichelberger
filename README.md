@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:23 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:00 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:38 - 2:38 minutes.</sub><blockquote><sub>We were viewing my videos because I couldnt understand what kind of motion was making all 4 cameras record and turn on minutes apart.  So we replayed stopped & screen shot as video continued to play when we viewed the video screen shots we were blown away at that time  We didnt see anything as we were looking over the balcony.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136957.html](http://www.nuforc.org/webreports/reports/136/S136957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>approximately 40 + satellite objects but probably twice the size and half again brighter moving at least 2 1/2 times as fast in pairs with a few single objects.  all moving in a straight line from west to east at about 20 to 30 degrees above the ground level. i could almost say they seemed to be flying in formation all with the same exact trajectory.  the objects appeared across the 2/3 of the night sky.  As a comparison i also saw a typical satellite going a southerly direction and these objects were much brighter and faster. also i saw your typical commercial airplane in the sky and these things weren't even close. I tried to video them with my phone but it wouldn't pick them up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159964.html](http://www.nuforc.org/webreports/reports/159/S159964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
