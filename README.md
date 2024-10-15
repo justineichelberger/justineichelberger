@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strage lights over the river in NHI believe this is my 2nd UFO sighting. When I was in highschool we lived in thi shousing development in Portsmouth, NH. Our house had a view of the Pisctaqua river which seperates Maine from New Hampshire. This river was known in the 50's or 60's to have numerous UFO sighting spanning over a weeks time with many coming to view the lights. This particular incident that I had witnessed was zat night and it was dark. I was in the living room talking to my friend on the phone. As I was talking on the phone I was looking out the big picture window. I saw this light in the sky. It didn't look any different than a bright star. The thing that made it stand out was the fact it bobbing up and down and sometimes left to right. I watched it for about a minute and then it went straight up and out of my sight. I tried to take a picture of it but it came out dark probaly beacause I had taken it from through the window. I really belive that it was a UFO. I have always believed in UFO's having always been told as a child the story of Betty and Barney HIll (we lived down the street from them). Both times that I believe I have seen UFO's I was not looking for them.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34695.html](http://www.nuforc.org/webreports/reports/034/S34695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>observed tarnished, oval shaped object with black symbols on side travelling south at a steady speed towards Lake OntarioThis sighting happened in Toronto, Ont. in the early 1970's. I was a teenager walking to school and for some unknown reason looked up into the sky infront of me towards the east. I saw an oval shaped UFO above the tree line, travelling at a steady speed going from north to south towards Lake Ontario. It was following the street ahead of me that was in the direction of north to south.The UFO was the color of tarnished silver and dented like a golf ball (but not as many dents).There was no lights or sound to it.The odd thing about this object was that there was a strip of black symbols on the mid front half portion on the facing side of it. I tried to read them but couldn't because they were not actual letter.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75074.html](http://www.nuforc.org/webreports/reports/075/S75074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
