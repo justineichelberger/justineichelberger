@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:58 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Montreal (Canada) (PQ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO's sighted over Montreal, Quebec, November, 1999.In the year 1999, in Montreal, Que. Canada, there  was an unusual occurence.I, at this time, worked for a prominent radio station in Montreal as a secreatary.The evening in question, I was at home watching television at about 8:00 P.M.All of a sudden all television transmission went to "snow". This dead air with "snow" lasted about 12 to 15 minutes roughly.The next morning I go into work, and on my desk is the trouble report given to me daily by our night D.J. who was most upset because of transmission capability dying at  8:00 until 8:17.  No explanation could he give.Word of ufo activity had also come to our attention in the newsroom.  Callers who had seen this activity the night before.  Our news chief then called many sources; one of them being the airforce  base near by.   They confirmed and had apparently had sent up fighter jet after the ufos.  It was also stated under no circumstances were we to report this "on air".Or chief copywriter's brother was in airforce at this base: this is the data he then  gave us on the '"QT".  The airforce had sent fighters up after the objects.They were unable to keep up with them.  It was stated that objects from Montreal arrived in Quebec City in under 3 minutes.(hundreds of miles away)..This is my report from Montreal.((name deleted))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22673.html](http://www.nuforc.org/webreports/reports/022/S22673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A jet black colored cigar-shaped object, with 2 tapered sharply shaped points at its ends, seen moving forward in a specific direction.At around 1:10 PM, looking out the eastward facing window in the dining room, a single jet black colored cigar-shaped object appeared from the southeast of the residence and apparently continued moving forward without any detectable changes in direction in an northwesterly upward direction, moving at an observable speed.  The object appeared as being tapered to 2 sharply shaped points at the ends of the craft, with it being the widest at its center.  The object was observed for between 3-5 minutes before disappearing into the cloud cover.  The observer was almost 11 years old of age at the of the event.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85823.html](http://www.nuforc.org/webreports/reports/085/S85823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
