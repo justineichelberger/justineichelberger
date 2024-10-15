@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Greers Ferry (Greers Ferry Lake) (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three moon sized objects appeared in the form of lights and lite the intire lake up and I could see a mountain about 10 miles from me,just like day. No sound and left as 3 small dots,diff.direction amber in color after the light went out. went straight toward the Heavens and disappeared with no sound .lights went on and off as of a haligen light.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11852.html](http://www.nuforc.org/webreports/reports/011/S11852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brookline (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangle shaped craft sighting over Brookline MA.On October 15th 2004 at about 4:30 am i woke up and looked out my bedroom window my house is on a hill in brookline in the suberbs of boston MA facing east. As i was looking out i looked up and from above my house i saw a medium shaped perfect triangle slowly flying in the north east direction, the triangle had 3 white lights at each point and one blinking red light in the center of the craft and if i had put my hand up to the craft it would be 2 thumbs thick and the left and right tips would just barely stick out at the ends. At that early hour of the morning there was just enough light so that i could see a perfect triangle outline in the dark blue morning sky. My bedroom window was open at the time and the thing that got my attention was that the street was completely silent and this craft was not gliding, not at the slow pace it was moving at and it was completely dead silent no noise whatsoever. I kept watching as it moved north east for about 30 seconds or so and the triangle shaped craft eventually disappeared over the horizon. Theres one more thing i would like to mention that i feel is very important, im not at all a morning person, i never get up early, not since my school days and the thing about that morning is that i woke up and it's almost as if someone or something told me to get up open the blind and look out the window and when i did 5 secends later this triangle shows up. It's as if for some reason unknown i was meant to see that triangle that morning.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49677.html](http://www.nuforc.org/webreports/reports/049/S49677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
