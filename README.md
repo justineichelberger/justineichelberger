@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Lago Vista (near Austin) (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>went outside & in night sky looking east{est.} saw 15 to 25 objects looked like stars appeared same distance as stars, but brighter than other stars. they moved in a very nice fluid formation side to side up & down for approximately 30 min.I was 16 or 17, am now 43. I was visiting a friend, {I could probably now locate} in Lago Vista, Tx. His father sold land at this resort community on lake Travis near Austin, Tx. We had gone to visit a couple of permanent residents They were brothers about our age. We stepped outside, & I forget who first noticed. But maybe looking toward the East at approx. 75 to 85 degrees from horizon, we saw 15 to 25 objects at first star like in appearance, also seemed to be at the same distance to us as the stars. Upon closer examination these objects were moving, side to side{appox, 40 degrees either way} & up and down. Their movement seemed nice & fluid sometimes in a flying wing then changing direction & slowly fitting back into a flying wing. They did not seem to be flying very fast but if our perceptions of distance were anywhere near accurate they had to be going astronomically fast. Their changing directions often, yet staying in a certain grid seemed to make no sense either. One of the brothers went in to get their parents, they came out & watched with us, and to the best of my recollection we all described seeing the same thing. I think one of the parents went in to call some sort of authority. We watched for quite a while 30 minutes maybe more, honestly do not remember if they stopped or we went on to something else as this was very strange, but not threatening in anyway. I did not keep track of the Brothers or their parents, but their parent were solid middle class or better judging by their house and area of residence. I have told very few people about this maybe a few ex-wives, but I did run into that old friend about 10 years ago. Seems like his car had broke down or maybe mine but we spent some time together. & we did after a bit of time sort of go over this incident we shared, He also said he had not told to many people. I am just now reporting this as before a day or 2 ago had no idea who to report to. Hope this helps in your research, also hope someday I find out what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05186.html](http://www.nuforc.org/webreports/reports/005/S05186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Fostoria (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>it was amazing the way they stood perfectly still and took off .When my wife and I was going east on us route 613 we saw 3 diamond shaped objects in the sky. We stopped moving and then the objects stopped moving. We sat there watching them for at least twenty minutes. In the rear of the diamond objects were three lights on each of the three damond objects. The moon was full so you can check the date of the siting by astronautical charting for moon positioning. They stayed perfectly still. Then all of the sudden they took off all in the same direction. We didnt have a camera at the time. But oddly a week later someone in tiffin ohio stated that they had seen the same thing .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59798.html](http://www.nuforc.org/webreports/reports/059/S59798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
