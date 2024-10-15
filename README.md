@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:46 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>i was under my car port at the front of my house . a clear night,8:00pm. i looked up due west i saw four very bright green lights the shape and size of a dime .all four light evenly distanced if you held your index and pink finger apart thats the space the lights took up, horizanal to the ground about 60feet from the ground and a 1/2 mile to a mile away. couldn't see object just lights .light just stayed in one spot till i looked up and taveled due west stiaght away from where i was standing a very fast speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78422.html](http://www.nuforc.org/webreports/reports/078/S78422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Loris (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>the fighters rattled my windows.high orbit light orange in color.  followed by 2 low flying fighter jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114559.html](http://www.nuforc.org/webreports/reports/114/S114559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
