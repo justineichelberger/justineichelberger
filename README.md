@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6:00 - 6:00 minutes.</sub><blockquote><sub>Large craft maintaining a 45 degree angle up with sudden escape from view within minutes.Viewed object over the west hills of Portland, OR as a group of us played volleyball.  Craft moved at about a 45 degree angle up at a slow speed.  Now being a pilot, I suspect the object in reference to the back ground and cloud formations would suggest a craft about 3X the size of a 747 and moving about the speed no more than 100 knots.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137892.html](http://www.nuforc.org/webreports/reports/137/S137892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Nhlangano (Swaziland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light emmitting shpere in Africa with bright flashes.First of all, I was one of 4 mormon missionaries that witnessed this.  We had hiked out to a village.  The trail was about a 2 hour hike down into a valley and across a stream and back up the otherside to a ridge where many villages tend to be built because of flooding issues.  We got to the village approxiamety 5:30ish that evening, dark sets in at that lattitude around 6:30, and honestly, we were a bit nervous about the hike back in the dark, with absolutely no lights of any electric kind visible anywhere, and being in Africa, with animals.  However, at about 9:30 p.m. we left the village and at approxiatemley 10:30 p.m. we reached the river.   To the south of the crossing the valley really broadens out into grassland and 10 to 15 miles away there is another mountain range.  That is when one of the missionaries said, hey look at the moon, it looks strange, and I already had noticed the moon earlier, and noted to him that the moon was in the opposite direction.  We stopped and stared at this large spherical glowing mass, that seemed to be translucent with mostly oranges and a hint of blue coming from it.  There was absolutely no sound.  Then suddenly, it emitted like lightning bright white, and the whole valley was alluminated, for a split second like we were part of a huge camera flash.  At this point, we were getting very nervous, we could feel static electricity in the air, litterally.  The sphere was still there, and again, about a minute later, another flash.  And then it was gone.  And the night was again to us and the half moon and clear skys.  I don't have any explanation for this, except that we all saw it and wonder to this day what it was.  I have never seen weather do this.  And it dissapeared so quickly I doubt that it could have been any aircraft, such as a helicopter hovering.  The size which would be difficult do to distance had to be large.  We could see the glow of it on that ridge that was 10 to 15 miles away, the flash seemed to come from the center of the object.  A! t this point due to my career, and being in contact with large amounts of people, I prefer to remain anonymous, with no contact, just felt this might be interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34020.html](http://www.nuforc.org/webreports/reports/034/S34020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
