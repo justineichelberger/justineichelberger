@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Fostoria (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>it was amazing the way they stood perfectly still and took off .When my wife and I was going east on us route 613 we saw 3 diamond shaped objects in the sky. We stopped moving and then the objects stopped moving. We sat there watching them for at least twenty minutes. In the rear of the diamond objects were three lights on each of the three damond objects. The moon was full so you can check the date of the siting by astronautical charting for moon positioning. They stayed perfectly still. Then all of the sudden they took off all in the same direction. We didnt have a camera at the time. But oddly a week later someone in tiffin ohio stated that they had seen the same thing .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59798.html](http://www.nuforc.org/webreports/reports/059/S59798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hustonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ball of light hovers for 2min them shoots straight up.It was spotted about 2mls away scanning treetops.  It looked like a star light or helicopter hovering the treeline.  After 2 minutes of hovering it shot straight up at a speed not known to exist in aircrafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157199.html](http://www.nuforc.org/webreports/reports/157/S157199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
