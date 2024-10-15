@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:05:02 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:38 - 2:38 minutes.</sub><blockquote><sub>We were viewing my videos because I couldnt understand what kind of motion was making all 4 cameras record and turn on minutes apart.  So we replayed stopped & screen shot as video continued to play when we viewed the video screen shots we were blown away at that time  We didnt see anything as we were looking over the balcony.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136957.html](http://www.nuforc.org/webreports/reports/136/S136957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waynesboro (PA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three sons and friends saw multiple flying objects just before Dusk in Waynesboro, PAWhile there was a difference in the number of UFOs spotted, my sons and one of the friends, ages 4, 6, and two 8 year olds, saw several flying objects in the south west to south east skie of South Central PA. One of my sons claims to have seen three small ships and one larger ship, while my other son (6) claims to have seen one large and one small one. All four kids came running home out of fear because they hadn't see anything like this before. The smaller ships were described as more "pod like" by my oldest son and his friend. The larger ship was described as a "battle ship" and was much larger than the other ships by all accounts.The objects were described as "50 oak trees" high by my son -- so from his account I'm estimating these were close to 500-1000 feet from the ground.  The smaller ships has three lights and the larger one had six lights. The lights were described as triangular on ships.The small ships were were headed towards the larger ship, but had circled around the area "looking for people" according to my sons.The larger ship was described like a "spear" by my oldest son, while the other, smaller ships were more tear dropped shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66246.html](http://www.nuforc.org/webreports/reports/066/S66246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
