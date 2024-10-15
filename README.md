@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A ball of light comming twords me in a haze of fog.My friends and i were at what they call the "rock quarry" in Gainesville around midnight a couple of years ago. we had climbed up this big hill and were sitting on top of it talking. After about an hour it started to get very cold so we decided to leave. Off in the distance, out of nowhere, there was this creeping fog with a bright circular light shining in the middle of it. We stopped to see what it was, if we could. The fog was comming right twords us, and so was the light. Eventhough it was covered in a haze of fog you could tell this was no plane, it was getting closer and brighter. It was very big and almost right on top of us when we all got scared and ran. To this day i can't tell the exact shape of it, at first it seemed circular but as it got closer it was just a very bright light.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59017.html](http://www.nuforc.org/webreports/reports/059/S59017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:38 - 2:38 minutes.</sub><blockquote><sub>We were viewing my videos because I couldnt understand what kind of motion was making all 4 cameras record and turn on minutes apart.  So we replayed stopped & screen shot as video continued to play when we viewed the video screen shots we were blown away at that time  We didnt see anything as we were looking over the balcony.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136957.html](http://www.nuforc.org/webreports/reports/136/S136957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
