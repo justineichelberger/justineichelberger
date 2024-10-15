@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>observed tarnished, oval shaped object with black symbols on side travelling south at a steady speed towards Lake OntarioThis sighting happened in Toronto, Ont. in the early 1970's. I was a teenager walking to school and for some unknown reason looked up into the sky infront of me towards the east. I saw an oval shaped UFO above the tree line, travelling at a steady speed going from north to south towards Lake Ontario. It was following the street ahead of me that was in the direction of north to south.The UFO was the color of tarnished silver and dented like a golf ball (but not as many dents).There was no lights or sound to it.The odd thing about this object was that there was a strip of black symbols on the mid front half portion on the facing side of it. I tried to read them but couldn't because they were not actual letter.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75074.html](http://www.nuforc.org/webreports/reports/075/S75074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Greers Ferry (Greers Ferry Lake) (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three moon sized objects appeared in the form of lights and lite the intire lake up and I could see a mountain about 10 miles from me,just like day. No sound and left as 3 small dots,diff.direction amber in color after the light went out. went straight toward the Heavens and disappeared with no sound .lights went on and off as of a haligen light.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11852.html](http://www.nuforc.org/webreports/reports/011/S11852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
