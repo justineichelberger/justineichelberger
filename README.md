@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:23 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Thrall (LA) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I shirt-boxed shaped object flew over my house slowly and silently on afternoon in Thrall, Texas.I was renting a house in the town of Thrall, Texas with several friends in Oct. 2005. We were evacuees from Hurricane Rita. It was a  very rural area, our nearest neighbor was the Lutheran Church in Noack, which I do not believe is an official "town," but more of the name of the area. All there is in Noack is a church and a bar, and nothing else. The nearest decent-sized town was Taylor, Texas.One afternoon, shortly after taking up residence, I was taking clothes off the clothesline, as we had no appliances yet. I was facing south, and when I turned around, there was something hovering over the house. It looked like a shirt box, like the kind you use to wrap a present. It looked EXACTLY like a  plain-jane, no-name shirt box. Nothing else. Just a shirt box. It looked proportionate to a shirtbox, and seemed to be hovering about 40 feet over the roof. It could have been larger or higher, but it is hard to tell with no reference whatsoever. It just didn't seem to be very high up.I looked at it for a minute or two, not believing my own eyes. There was no sound. As I stared at it, I realized it was not hovering, but very slowly moving from a Northeasterly direction towards the Southwest. The day was clear and crisp, and the sky was cloudless and very blue.I hollered at the other 6 other evacuees, who all came outside and confirmed the sight I was seeing. We stared at it a while, and the others  got bored, it moved so slow, and they went back in the house.I watched it glide at a snail's pace over the house, across the side yard, and off over the pastures to the West of the house. It took a long time. It was very boring, I admit, but it just made no sense whatsoever, and I was fascinated. It never sped up, turned, or moved up or down elevation. It just kept gliding silently over the house and yard, and over the pastures.It happened nearly 5 years ago, and I still remember it like it was yesterday.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70119.html](http://www.nuforc.org/webreports/reports/070/S70119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2:38 - 2:38 minutes.</sub><blockquote><sub>We were viewing my videos because I couldnt understand what kind of motion was making all 4 cameras record and turn on minutes apart.  So we replayed stopped & screen shot as video continued to play when we viewed the video screen shots we were blown away at that time  We didnt see anything as we were looking over the balcony.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136957.html](http://www.nuforc.org/webreports/reports/136/S136957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
