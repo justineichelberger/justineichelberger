@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:00 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:58 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>approximately 40 + satellite objects but probably twice the size and half again brighter moving at least 2 1/2 times as fast in pairs with a few single objects.  all moving in a straight line from west to east at about 20 to 30 degrees above the ground level. i could almost say they seemed to be flying in formation all with the same exact trajectory.  the objects appeared across the 2/3 of the night sky.  As a comparison i also saw a typical satellite going a southerly direction and these objects were much brighter and faster. also i saw your typical commercial airplane in the sky and these things weren't even close. I tried to video them with my phone but it wouldn't pick them up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159964.html](http://www.nuforc.org/webreports/reports/159/S159964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Montreal (Canada) (PQ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO's sighted over Montreal, Quebec, November, 1999.In the year 1999, in Montreal, Que. Canada, there  was an unusual occurence.I, at this time, worked for a prominent radio station in Montreal as a secreatary.The evening in question, I was at home watching television at about 8:00 P.M.All of a sudden all television transmission went to "snow". This dead air with "snow" lasted about 12 to 15 minutes roughly.The next morning I go into work, and on my desk is the trouble report given to me daily by our night D.J. who was most upset because of transmission capability dying at  8:00 until 8:17.  No explanation could he give.Word of ufo activity had also come to our attention in the newsroom.  Callers who had seen this activity the night before.  Our news chief then called many sources; one of them being the airforce  base near by.   They confirmed and had apparently had sent up fighter jet after the ufos.  It was also stated under no circumstances were we to report this "on air".Or chief copywriter's brother was in airforce at this base: this is the data he then  gave us on the '"QT".  The airforce had sent fighters up after the objects.They were unable to keep up with them.  It was stated that objects from Montreal arrived in Quebec City in under 3 minutes.(hundreds of miles away)..This is my report from Montreal.((name deleted))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22673.html](http://www.nuforc.org/webreports/reports/022/S22673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
