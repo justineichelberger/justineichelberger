@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brookline (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangle shaped craft sighting over Brookline MA.On October 15th 2004 at about 4:30 am i woke up and looked out my bedroom window my house is on a hill in brookline in the suberbs of boston MA facing east. As i was looking out i looked up and from above my house i saw a medium shaped perfect triangle slowly flying in the north east direction, the triangle had 3 white lights at each point and one blinking red light in the center of the craft and if i had put my hand up to the craft it would be 2 thumbs thick and the left and right tips would just barely stick out at the ends. At that early hour of the morning there was just enough light so that i could see a perfect triangle outline in the dark blue morning sky. My bedroom window was open at the time and the thing that got my attention was that the street was completely silent and this craft was not gliding, not at the slow pace it was moving at and it was completely dead silent no noise whatsoever. I kept watching as it moved north east for about 30 seconds or so and the triangle shaped craft eventually disappeared over the horizon. Theres one more thing i would like to mention that i feel is very important, im not at all a morning person, i never get up early, not since my school days and the thing about that morning is that i woke up and it's almost as if someone or something told me to get up open the blind and look out the window and when i did 5 secends later this triangle shows up. It's as if for some reason unknown i was meant to see that triangle that morning.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49677.html](http://www.nuforc.org/webreports/reports/049/S49677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A ball of light comming twords me in a haze of fog.My friends and i were at what they call the "rock quarry" in Gainesville around midnight a couple of years ago. we had climbed up this big hill and were sitting on top of it talking. After about an hour it started to get very cold so we decided to leave. Off in the distance, out of nowhere, there was this creeping fog with a bright circular light shining in the middle of it. We stopped to see what it was, if we could. The fog was comming right twords us, and so was the light. Eventhough it was covered in a haze of fog you could tell this was no plane, it was getting closer and brighter. It was very big and almost right on top of us when we all got scared and ran. To this day i can't tell the exact shape of it, at first it seemed circular but as it got closer it was just a very bright light.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59017.html](http://www.nuforc.org/webreports/reports/059/S59017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
