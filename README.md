@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:46 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Loris (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>the fighters rattled my windows.high orbit light orange in color.  followed by 2 low flying fighter jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114559.html](http://www.nuforc.org/webreports/reports/114/S114559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strage lights over the river in NHI believe this is my 2nd UFO sighting. When I was in highschool we lived in thi shousing development in Portsmouth, NH. Our house had a view of the Pisctaqua river which seperates Maine from New Hampshire. This river was known in the 50's or 60's to have numerous UFO sighting spanning over a weeks time with many coming to view the lights. This particular incident that I had witnessed was zat night and it was dark. I was in the living room talking to my friend on the phone. As I was talking on the phone I was looking out the big picture window. I saw this light in the sky. It didn't look any different than a bright star. The thing that made it stand out was the fact it bobbing up and down and sometimes left to right. I watched it for about a minute and then it went straight up and out of my sight. I tried to take a picture of it but it came out dark probaly beacause I had taken it from through the window. I really belive that it was a UFO. I have always believed in UFO's having always been told as a child the story of Betty and Barney HIll (we lived down the street from them). Both times that I believe I have seen UFO's I was not looking for them.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34695.html](http://www.nuforc.org/webreports/reports/034/S34695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
