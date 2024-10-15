@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 15 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hustonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Ball of light hovers for 2min them shoots straight up.It was spotted about 2mls away scanning treetops.  It looked like a star light or helicopter hovering the treeline.  After 2 minutes of hovering it shot straight up at a speed not known to exist in aircrafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157199.html](http://www.nuforc.org/webreports/reports/157/S157199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Lake Champlain (N end of) (Canada) (QC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange, circular object with a halo or glowing ring around it which moved at unbelieveable speed, almost straight up.The date above is approximate as this happened to me some 40 years ago.A friend & myself were duckhunting on the extreme North end of Lake Champlain. We were standing waistdeep in the water in front of our duckblind setting out decoys in preparation for the morning hunt. My friend said "look at the funny ring around the moon tonight". I looked up. It was a perfectly clear, calm night and you could see all the stars. Off to our left, close to the town of Philipsburg, Quebec was a strange object with a glowing ring around it which in some ways did resemble a full moon. However, the actual moon was plainly visible directly in front of us over Vermont State. I said that's not the moon, the moon is over here in front of us.The object seemed to stay stationary for some minutes then it approached very rapidly and positioned itself directly above us. It also appeared to be much lower as it appeared to increase in both size, an intensity of the glowing ring around it. I said lets load up our shotguns because we may be shooting something other than ducks this morning. We grabbed our shotguns from the boat and both loaded up with SSG... equivalent to Double O Buckshot. My intentions were to rattle some buckshot off from it if it got too close! The object remained stationary, directly over us for 5-10 minutes. Then, it seemed to rapidly...and I mean rapidly... evaporate going almost directly straight up into a perfectly clear, star-filled sky. The actual moon was still plainly visible in it's original location. I then realized that the hair on the back of my neck was standing straight up. I have never experienced this feeling either before or since. My friend turned to me in astonishment and said how are we going to tell anyone about this? I said forget it, if we tried to tell this to anyone they would think we were both either idiots or worse...totally crazy. Whatever it was, I am definitely convinced by the speed it left going practically straight up that it was not from this planet! It made me a firm believer in UFO's. This is the first time I have ever reported this incident. I do not know if my friend has ever reported it or not. I have not been in contact with him for some years.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42930.html](http://www.nuforc.org/webreports/reports/042/S42930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
