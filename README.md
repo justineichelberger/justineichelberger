@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (LA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights of large object over Franklin, Louisiana.Two lights perpendicular to each other in the shape of a colon move from the horizon in a 45 degree angle towards the sky followed by another set and another completely synchronized with each other.  I'm not an irrational person I immediately took into consideration possible explanationshowever what I couldn't explain was that the top row of lights never moved out of alignment with the bottom it remained in the shape of a colon signifying a solid object the lights came in sets distanced a few seconds apart until there were roughly twenty to thirty pairs of lights moving perfectly in sync with one another like the world's largest plane taking off from too sharp of an angle not one light dimmed or strayed from the shape it kept structure until it moved into the zenith and was no longer visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114609.html](http://www.nuforc.org/webreports/reports/114/S114609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White oval disc shaped light following my car.Driving down the road and I noticed this oval disc shaped light flying around in the sky.  I assumed it was some sort of spotlight or airplane but the craft kept changing directions and getting closer then backing away, hovering over the woods in the distance.  I then stopped at a red light and it was still moving.  When I turned it kept following me, but eventually disappeared behind the woods after a minute or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122873.html](http://www.nuforc.org/webreports/reports/122/S122873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
