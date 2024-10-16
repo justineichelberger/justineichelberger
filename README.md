@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:43 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellbrook (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights over Bellbrook and Dayton, Ohio.While stepping out to have a cigarette I look due east and saw bright orange lights that flashed like the front of the car from Knight Rider from left to right as soon as it flashed one time like that all the sudden it started immediately to the left of its original spot flashed like the front of the car from night rider from left to right as soon as it flashed one time like that all the sudden it started and immediately to the left of its original spot.  This was a left to right sequence of lights all Orange.  Then it disappeared and never flashed again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136786.html](http://www.nuforc.org/webreports/reports/136/S136786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Panama City (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball moving from west to east near Panama City.  Seen by 3 people.From my balcony on beach we became aware of a moving object in sky--like a moving fireball.  It moved from west to east, diminishing in size while moving over the gulf.  We also heard a bang coinciding at the time when the object was totally disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114600.html](http://www.nuforc.org/webreports/reports/114/S114600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
