@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:32 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Doaktown (Canada) (NB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hours - hours minutes.</sub><blockquote><sub>bright object bobbeb & weaved in the air and moved unconventionally for 2 nights in a row.i seen an odd looking star(or i thought it was) in the horizon in front of my cottage in new brunswick. i noticed it because it seemed to be moving a lot, relative to the other stars. it was bobbing and weaving a lot. this occurred over a river, so its possible that convection currents rising off the river were distorting the object, however other stars didn't appear to be moving so. it was too far to tell what shape it was or what it was but it moved unlike any plane or helicopter could. my family and i jsut assumed the air currents were causing the distortion. however, the next night i seen the exact same lights in another location at the same time. so therefore, it wasn't a star or it would be in the same location. 1 was a dull brown color and didn't bob too much and the other was star colored and danced crazily in air. we went for a drive into town the next night and i could see it from the road too, so the air current theory doesn't work. i wonder if anyone else seen these lights shortly after the cdn. thxgiving weekend?((NUFORC Note:  Date is approximate.  We believe that the first possibility that would have to be ruled out would be some kind of celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21760.html](http://www.nuforc.org/webreports/reports/021/S21760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellbrook (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights over Bellbrook and Dayton, Ohio.While stepping out to have a cigarette I look due east and saw bright orange lights that flashed like the front of the car from Knight Rider from left to right as soon as it flashed one time like that all the sudden it started immediately to the left of its original spot flashed like the front of the car from night rider from left to right as soon as it flashed one time like that all the sudden it started and immediately to the left of its original spot.  This was a left to right sequence of lights all Orange.  Then it disappeared and never flashed again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136786.html](http://www.nuforc.org/webreports/reports/136/S136786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
