@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 orb-like craft witnessed over Carmichael area of Sacramento10.16.13  At approximately 10:23 observed two orbs of light above the Foothill Farms/Carmichael area of Sacramento (near Madison and Hackberry).  Initially, they were close together and hovering completely silent.  One was orange-red and the other yellow-white.  These lights did not pulse like aircraft anti-collision lights.  After my initial shock, I was able to take some poor quality video with my phone starting 10:25:59 and running 45 seconds.  The orbs separated and flew away – south for the orange-red orb and southwest for the yellow-white orb – at a moderate speed.  After a few seconds, the lights “winked” out.  I cannot tell if there are clouds to the south of Carmichael, so I do not know if that was a factor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103309.html](http://www.nuforc.org/webreports/reports/103/S103309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Cigar shaped object seen over Madison WI 10/16/18 at 3:50PMI was leaving work at 3:50 PM on 10/16/2018 just passing the Costco store in Middleton heading east on Eagle Drive.  I looked up and observed what I first thought was a passenger jet coming over the city from the Dane County airport.  Something seemed a bit off, so I looked again and was unable to distinguish the presence of either wings or a tail section.  I pulled over on Eagle Drive next to Costco and observed what looked like a large cylindrical object, about the size of an A320 if not a bit longer.  It was white in color and aerodynamically tapered at both ends and had what appeared to be a red vertical stripe that separated the forward going half from the trailing half.  There appeared to be no windows or other openings.  It was moving in a North Westerly direction and was traveling very slowly.  The duration of the sighting was approximately one to one and a half minutes or so.  As it was heading off in the distance I saw a smaller aircraft the details of which I could not determine that looked as though it was flying at a higher altitude and moving in an East Southeasterly direction.  My background is an Electronics Technician.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143506.html](http://www.nuforc.org/webreports/reports/143/S143506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
