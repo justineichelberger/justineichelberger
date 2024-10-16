@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chaco Canyon National Historic Park (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two large, unblinking, silent, extremely bright objects travel in tandem, then disappear over Chaco Canyon.My friend and I were camping in Chaco Canyon, NM in the park campground, which is nestled against a rock mesa.  It was about 8:30pm and we were sitting around our campfire when I noticed two extremely bright lights coming over the mesa above us; I believe they were headed in a SW direction. The night was clear, moon and stars were visible. The two lights were extremely large, very white, not blinking, twice as big as any large planet I've ever seen, and obviously following each other -- they maintained their distance from each other and traveled the same course. We were struck first by the size and brightness, but then by the fact that there was no sound --- we waited for any jet/commercial airline sounds to catch up to the visual, but it never came [several commercial airlines had crossed the skies earlier]. After a couple of minutes the first one started dimming, then completely disappeared.  The second light did the same a few seconds later.  There were no clouds in the sky, and all stars around these lights were visible the entire time.((NUFORC Note:  The ISS passed over New Mexico at 19:31-19:35 hrs. on this date, to the north of Albuquerque.  However, it was coursing to the east, not to the southwest, and the "Atlantis" Space Shuttle had not yet undocked from the ISS.  Please see details at the following URL:  http://www.heavens-above.com/passsummary.asp?lat=35.084&lng=-106.651&alt=1510&loc=Albuquerque&TZ=MST&satid=25544&Date=37544.75&Mag=  The undocking occurred a day or two later, prior to the Shuttle's return on Friday, October 18.  We wonder if the time, date, and direction(s) provided by the witnesses are correct.  If they are, they did not witness an overflight of the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25865.html](http://www.nuforc.org/webreports/reports/025/S25865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Bedford (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple orange lights traveling in formation quietly at low speed & seemed to all disappear at the same spot.Multiple lights traveling in formation quietly at low speed in a southerly direction-orange in color.  Seem to all disappear at the same spot...not sure if was due to cloud coverage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103303.html](http://www.nuforc.org/webreports/reports/103/S103303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
