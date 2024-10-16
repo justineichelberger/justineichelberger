@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very clear view of something that was NOT an airplane gliding in the night sky ;  a "v" like shape with lightsIt was more like a huge boomerang with lights along the leading edge. it could have been a disk with lights on a the leading edge, but it had somewhat of a chevron shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19901.html](http://www.nuforc.org/webreports/reports/019/S19901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A line of 5-6 red lights moving slowly, not making any noise passed over us. Could not tell if the lights were connected to anything.  The string of lights were bright red and looked like fire was burning in the center.  They passed over our condo, we went around the back to look and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78443.html](http://www.nuforc.org/webreports/reports/078/S78443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
