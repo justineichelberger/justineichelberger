@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A line of 5-6 red lights moving slowly, not making any noise passed over us. Could not tell if the lights were connected to anything.  The string of lights were bright red and looked like fire was burning in the center.  They passed over our condo, we went around the back to look and they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78443.html](http://www.nuforc.org/webreports/reports/078/S78443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 orb-like craft witnessed over Carmichael area of Sacramento10.16.13  At approximately 10:23 observed two orbs of light above the Foothill Farms/Carmichael area of Sacramento (near Madison and Hackberry).  Initially, they were close together and hovering completely silent.  One was orange-red and the other yellow-white.  These lights did not pulse like aircraft anti-collision lights.  After my initial shock, I was able to take some poor quality video with my phone starting 10:25:59 and running 45 seconds.  The orbs separated and flew away – south for the orange-red orb and southwest for the yellow-white orb – at a moderate speed.  After a few seconds, the lights “winked” out.  I cannot tell if there are clouds to the south of Carmichael, so I do not know if that was a factor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103309.html](http://www.nuforc.org/webreports/reports/103/S103309.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
