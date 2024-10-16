@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:15 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:43 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange craft with large coronas fly silently over my neighborhood.I was driving home and had just pulled into our neighborhood.  I was about 100 yards from my house when I saw the first craft. It was very unusual so I stop the car and rolled down the window to make sure I was seeing it clearly.  When I realized that this was a very unusual object and possibly a UFO, I grabbed my cell phone and got out of the car.  It flew in towards my position from the west.  When it got at its closest distance to me, almost right over my head, approximately 80 degrees forward from me as I was facing southwest, it was somewhere around 1000-1500 feet in altitude.  It was completely over cast with a low ceiling and it rained about and hour later.  The two objects were below the cloud cover.  It was at this point that I could see that this was a UFO.  It mostly consisted of a well defined orange coloured corona with what looked like a moving electrical discharging orange light in the center.There were no flashing lights and no sound at all.  The corona had a very defined edge and was not a glow or flaring.  The corona it self was giving off light and gave the appearance that the craft was flying/floating in an orange coloured self illuminating bubble.  As the craft flew off towards the east, the second one appeared following the same path and was identical to the first one.I fumbled with my cell phone, but by the time I got it to record, both craft were to far away to make out details.  My video only shows a black screen with two points of light.The coronas where quite large in comparison to the center object and there seemed to be a darkened area or ring between the center and the corona.These craft were not moving very fast.  Possibly 200-400 MPH.An incident occurred about 1-2 weeks prior.  There were fighter jets flying over our neighborhood at low altitude and were going towards the direction that these two craft came from.  They were extremely loud.  I was under the impression that aircraft were not allowed to fly that close to populated areas.  I don't know if these two incidents are related.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122878.html](http://www.nuforc.org/webreports/reports/122/S122878.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bellbrook (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights over Bellbrook and Dayton, Ohio.While stepping out to have a cigarette I look due east and saw bright orange lights that flashed like the front of the car from Knight Rider from left to right as soon as it flashed one time like that all the sudden it started immediately to the left of its original spot flashed like the front of the car from night rider from left to right as soon as it flashed one time like that all the sudden it started and immediately to the left of its original spot.  This was a left to right sequence of lights all Orange.  Then it disappeared and never flashed again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136786.html](http://www.nuforc.org/webreports/reports/136/S136786.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
