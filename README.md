@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unsual Flashes During Space Shuttle International Space Station Passing.Wittnesses: 2, with 10x30 and 16x32 Binoculars Duration: 1-3 seconds, two flashes or explosions 65 degrees off North. Horizon. Direct North Horizon being 12 o clock, flashes occured at 1 o clock position and remained stationary.Sky Condition: Slight High Clouds.While waiting to observe the passing of International Space Station and the Shuttle pass over Indianapolis at 7:04pm EST traveling NW to SE. My Wittness and I observed a single bright white flash in the NE sky at 7:00pm. The flash being brighter then any brightest star in sky (approx size 1/4th a inch in size if holding a ruler at arms length), strong enough to cast shadow as we stood scanning the sky for the Shuttle/Station. We immediately trained binoculars on the area of the sky believing it to be the shuttle/station. Then at 7:03pm observed a second flash in same location, scanning the area again with binoculars unable to see an origin of the flash. We were convinced that the flashes were the reflection of shuttle/station an were about to return indoors disapointed. Juat then at 7:05pm The Shuttle and Station appeared in the NW sky between the 9 o clock 10 o clock positon NW sky and proceeded across the sky to the SE. (Which by the way was a fantastic sight to behold). Being that both of us are star gazers and pretty familar with the skys, we are unable to explain these two flashs or their possible origin. They were both 1-3 seconds in duration, and faded out instead of winking out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25646.html](http://www.nuforc.org/webreports/reports/025/S25646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very clear view of something that was NOT an airplane gliding in the night sky ;  a "v" like shape with lightsIt was more like a huge boomerang with lights along the leading edge. it could have been a disk with lights on a the leading edge, but it had somewhat of a chevron shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19901.html](http://www.nuforc.org/webreports/reports/019/S19901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
