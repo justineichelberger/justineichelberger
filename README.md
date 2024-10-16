@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 16 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White oval disc shaped light following my car.Driving down the road and I noticed this oval disc shaped light flying around in the sky.  I assumed it was some sort of spotlight or airplane but the craft kept changing directions and getting closer then backing away, hovering over the woods in the distance.  I then stopped at a red light and it was still moving.  When I turned it kept following me, but eventually disappeared behind the woods after a minute or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122873.html](http://www.nuforc.org/webreports/reports/122/S122873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>orb's in yakima do not dissapointI went to yakima to see if I could see what thay were talking about in the you tube video's. I stopped at the rest stop at the top of the hill got out of my truck looked up and 30 second's later i saw it jump and light up orange and travel about 3 click's in half a second stop and turn off just as fast.then i went a mile down the road and stopped and got ready to get out of the truck and I heard a loud boom with concussion that shook my truck then another,I burned rubber and then figured out i was close.the military had war games with ordinance going on.A little further down the road I got out and saw another one.then i went and got some gas at shell and saw another one,but this one ended up taking a left turn at 90 degree's away from the hot zone without slowing at all, it was impressive.I drove around for about a hour and saw nothing and decided to head home.I noticed there was a rest stop across from where i saw the first one and thought i would try to see one more so i pulled over and got out and flickerd my flashlight at the sky for 2 minutes and then waited a minute and nothing happend.I got in my truck and left the rest area and started to gain speed and then one buzzed my truck from behind with no lite this time but just as fast and alot closer.this is my fourth encounter with ufo's in washington state .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78406.html](http://www.nuforc.org/webreports/reports/078/S78406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
