@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:32 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bridgewater (SD) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Broad daylight , clear sky, very strangely moving object-like a child skipping ropeI was working with a student of mine outside.  It was approximately late morning.  The student who was about 9 years-old noticed it first.  She asked me what that thing was in the sky and I had no clue!  Here it was broad daylight and this object was hurtling through the clear blue sky.  It looked like some sort of cylinder with a sort of handle projecting out from it.  The handle appeared to be rotating.  We both thought it looked like it was jump roping.  That was how the movement would be described.  I don't remember it having any lights but it was going extremely fast.  It was too high up to get a better idea of the exact shape.  I was just struck by how odd the movement was.  By the time we found somebody else to see it it was gone.  I just assumed that it was a falling satelite or maybe even some type of spy surveilance that had fallen out of orbit but I have always wondered what it was for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53485.html](http://www.nuforc.org/webreports/reports/053/S53485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nadia (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Sophisticated aircraft like objects among clouds in Nadia, WB, IndiaOn 17th October 2021, in the afternoon I was watching the sky for approaching clouds. If it rains in the afternoon, we can’t play football in the evening. Clouds were gathering in the west sky. I took a snap of the clouds in my mobile phone and posted the picture in our sports group. One of my friends in the group first noticed that there were two flying objects in the picture. The flying objects looked like fighter jets. However, I didn’t hear any sound of fighter jet. I checked the sky again, there was nothing by then. My friend suggested that they might be spots on my camera lens. I took another snap from the same position. Nothing appeared this time.The flying objects looked like very small fighter jets, but of the shape I have not seen before. They are sophisticated designs, both identical.I asked my colleagues (all of them scientists) to help me understand what those flying things were. One of them, a physicist, confirmed that those were UFOs and suggested me that I report them in this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164995.html](http://www.nuforc.org/webreports/reports/164/S164995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
