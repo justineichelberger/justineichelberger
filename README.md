@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Eglin AFB (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My father and I witnessed a  UFO at Eglin AFB.My father worked on Eglin at the time. I had noticed quite a bit of air activity that day. It was more than the usual touch and go'S that occured everday. I attended Niceville High School , located not far from the base. My father picked me up from my sisters house and as we were driving off the base heading to our home in Fort Walton Beach we saw a saucer shaped object that was traveling at a high rate of speed just over the tree tops. It was being followed by two F-4s ..also traveling at a high rate of speed and also very low. As the saucer went across the road it seemed to dissappear as it went over the tree tops on the other side of the highway. At this point the F-4s then climbed back up to a higher altitude. This is my first public mentioning of this..because of the attitude towards people who observe such phenomena.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59551.html](http://www.nuforc.org/webreports/reports/059/S59551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lighted object, shaped like a plane, in a nosedive.Was driving from Kernersville, NC to Winston-Salem, NC.Observed object south of Business 40 that from a distance appeared to shaped like a plane - but the plane would have been in a nosedive.Object appeared to be lit up.Object appeared to travel in front of us heading West on Business 40 to the west side of Winston-Salem, and disappeared in the West-Northwest horizon after approx. 30 minutes that we were driving.Object did not appear to be moving, but distance wise it would have had to have been moving.((ADDENDUM FROM SOURCE))Yes.  We were driving from Kernersville thru Winston-Salem (west side), stopped at my house (5-10 minutes) and then drove to my father-in-laws house.We therefore did not see it continuously - but are confident that it was the same object.It appeared to be some distance from the vehicle, up in the air (maybe 2 to 5 miles away) and, therefore, moving rather slow (too slow for an airplane at night)((END ADDENDUM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130669.html](http://www.nuforc.org/webreports/reports/130/S130669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
