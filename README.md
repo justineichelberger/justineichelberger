@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>It was right after a football game when I was on my way home on my bike, when I saw it,  I don't nornally go, but my it was my ex's first cheerleading game, but I'm glad I did.I was nearly home when I noticed the light over the trailer park.  I didn't think much about it, until I seen it start to move in an almost zig-zag motion.  It hovered about 60-100 meters above the houses for sometime, until it stopped.  After it stopped, there was a flash that lit the sky, then it vanished.  There were no noises, from birds, dogs, anything up until there was no more light in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115862.html](http://www.nuforc.org/webreports/reports/115/S115862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Whiteriver (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Catfishing - Catfishing minutes.</sub><blockquote><sub>Me and my family were catfishing at a pond called Navajo Pit.  It took us 20 minutes from home to get there.  Then 30 minutes into our fishing my boyfriend was talking to me and my daughter about Catfishing, when all of a sudden he shouted out loud LOOK, LOOK, LOOK, pointing to something behind me.  I was a bit scared but me and my daughter both looked back.  Thats when we all saw 2 red lights slanted side by side on top of a mountain that was probably 5 miles away.  But these red lights look like a couple of Jellyfishs.  It stayed lite for 5 seconds then it just disappeared. We we're all shock because that is something we never saw before.  Two hours past and within that time we kept talking about the sighting.  But we also looked at all the stars in the sky that night hoping we would see more.  But didn't.  It was getting cold after those two hours so we decided to head on home. We we're headed towards the main dirt road but had to stop and open the gate to it.  That's when my boyfriend opened it and had my daughter drive up a bit to close it after.  My daughter parked it and looked back to the pond which is now towards the left side.  The second she turn, she shouted out loud LOOK MOM LOOK.  Thats when we both saw a orange football shape light right on top of  the pond we were   fishing.  The pond was only 2 minutes away and this light was 30 ft. in the air from the pond.  I was completely scared at this point me and my daughter were shouting to my boyfriend to hurry.  This was light was very close and big.  Like the size of my mom's dodge caravan.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73855.html](http://www.nuforc.org/webreports/reports/073/S73855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
