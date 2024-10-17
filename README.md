@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:24 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:02 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hayesville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On HWY 175 near the Georgia state line, bright lights about as high as the power line, hovered for 1-2 minutes then zoomed towards south towards Hiawassee, GA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157438.html](http://www.nuforc.org/webreports/reports/157/S157438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Scanning striped light passes over my car accompanied by three flashes and two beams across the sky.I was sitting in my car with it running listening to the radio as I had just pulled up infront of my house when a sweeping striped light goes across the car and the radio reception disappeared the radio made a screeching noise  then two flashes right after the two flashes  two laser like beams shot acros the sky away from me then a final flash brighter and more orange in color than the first two. V ery startling, I tried to fallow whatever it was but the sky seamed untouched and by all means normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93652.html](http://www.nuforc.org/webreports/reports/093/S93652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
