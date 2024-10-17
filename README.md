@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Whiteriver (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Catfishing - Catfishing minutes.</sub><blockquote><sub>Me and my family were catfishing at a pond called Navajo Pit.  It took us 20 minutes from home to get there.  Then 30 minutes into our fishing my boyfriend was talking to me and my daughter about Catfishing, when all of a sudden he shouted out loud LOOK, LOOK, LOOK, pointing to something behind me.  I was a bit scared but me and my daughter both looked back.  Thats when we all saw 2 red lights slanted side by side on top of a mountain that was probably 5 miles away.  But these red lights look like a couple of Jellyfishs.  It stayed lite for 5 seconds then it just disappeared. We we're all shock because that is something we never saw before.  Two hours past and within that time we kept talking about the sighting.  But we also looked at all the stars in the sky that night hoping we would see more.  But didn't.  It was getting cold after those two hours so we decided to head on home. We we're headed towards the main dirt road but had to stop and open the gate to it.  That's when my boyfriend opened it and had my daughter drive up a bit to close it after.  My daughter parked it and looked back to the pond which is now towards the left side.  The second she turn, she shouted out loud LOOK MOM LOOK.  Thats when we both saw a orange football shape light right on top of  the pond we were   fishing.  The pond was only 2 minutes away and this light was 30 ft. in the air from the pond.  I was completely scared at this point me and my daughter were shouting to my boyfriend to hurry.  This was light was very close and big.  Like the size of my mom's dodge caravan.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73855.html](http://www.nuforc.org/webreports/reports/073/S73855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Key Biscayne (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a white, silvery sphere that held stationary, then moved east into the morning skyI observed a silvery white object that appeared high in the blue, but partly cloudy morning sky.  Its position remained fixed, by the rail of my balcony, for several minutes until it began to move steadily east southeast at constant velocity.  The clouds were a mix of TCU, from ~ 5000-10000' at low level and high SCT Cirrus ~ 25000' (my estimates).  The TCUs moved east to west in front of the object, which did not appear to reflect the morning sun, but softly, glowed organically.  Through the binoculars it appeared textured and matted, and too far/ small to appear on the camera.  If this object were at 10000' I would estimate the diameter to be about 5'.  After watching it pass behind a few TCUs, it finally failed to emerge.I considered this may have been a balloon at a level between the lower westerly flow and the higher easterly flow, moving easterly as it rose.  If it was at 10000', I could hazard a guess of ~ 100kts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130692.html](http://www.nuforc.org/webreports/reports/130/S130692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
