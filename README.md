@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:21 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:24 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Deltaville (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:01 - 00:01 minutes.</sub><blockquote><sub>A bright red spaceship like onkect that disappeared after after seeing ignite in flight for about 30 seconds.My daughter and I were breaking up a pumpkin for our chickens by throwing it up in the air.  She paused for a second, pointed to the sky and said, daddy look at that rocket ship.  This is something she says often and it’s usually a plane with the vapor trails behind it.  I hesitated to look, she said it again so I changed my position to see it through the trees.  I saw the “craft” and it didn’t look like the usual plane with trails.  It had a look of red to it and I started to think maybe meteor.  But it was to controlled and the trails behind it weren’t like a plane but also not like a meteor.  I have seen rockets take off from Wallops Island and this was a different coarse, across the sky, south to north about.  I then thought with the sunset that maybe it was a reflection on a plane creating the effect.  I looked over at the sunset and the two didn’t really line up.  I changed my point of view as it was flying with a tree in my yard blocking the view.  I ! saw very clearly where it would re appear from the branches but it never did.  There was a very clear sky and no other obstructions near by.  We could not find it.  Definitely odd.   I wish I took a picture but it was gone by the time I got to this realization.   There must have been others that saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136799.html](http://www.nuforc.org/webreports/reports/136/S136799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hayesville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On HWY 175 near the Georgia state line, bright lights about as high as the power line, hovered for 1-2 minutes then zoomed towards south towards Hiawassee, GA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157438.html](http://www.nuforc.org/webreports/reports/157/S157438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
