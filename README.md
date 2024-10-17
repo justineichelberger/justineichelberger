@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A vertical chevron shaped object with lights on the top and bottom floating from West to East.The object was moving from West to East, it was a large chevron shaped object (the chevron shape was vertical), with a red light on the top and a white light on the bottom. It was flying at the height of a small plane. Moving very slowly like it wasn't flying, it was more like floating. Then all of a sudden it dissapeared.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52981.html](http://www.nuforc.org/webreports/reports/052/S52981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>at around 1:55 pm me ad my friend were standing at the front door of our other friends house when we notice a red light in the air which looked really close about the size of a baseball(light) and my friends came out and the object moved really slowly and when we all stared at the same time, it paused in mid-air the light was the size of a small lighter, the craft must've been about the size of a car, it had 3 spheres of light floating around it, the balls were red. it was about 10-15 minutes when the light dimmed low and then it shot 3 red spheres to the ground, there was red sparks when the spheres shot down. it then just floated away into the clouds. we live right of the highway 8 on mollison, which is south of the freeway and the craft was seen on lexington/mollison, want info on anything, it was trippy!!!!!!!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25654.html](http://www.nuforc.org/webreports/reports/025/S25654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
