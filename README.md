@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was comming out of the hospital after an emergency visit for my son. Upon leaving the hospital I noticed a ball of light in the sky. You can see by the time I entered that it was about 7:35 pm or so just before day turns to night. I observed the object fixed in the sky. There was no sound or movement which is what struck me the most. It was a blue color that did shine very bright the starts had not yet appeared in the sky so I could dismiss that very quickly. I stared at the object for many moments till I finally had to leave to go fill a rx for my son. I ended up at the pharmacy with the object in sight the whole time while at the pharmacy I allowed my wife to go fill it for me so I could watch this object. Moments later the light seemed to have released a 2nd light from the initial craft that was much smaller than the first. It seemed to be lowering it down from the primary craft. It was also glowing but more so a clear light. Then off in the distance I noticed a plane moving toward the object. Then glanced back to the ufo and both lights began to dim until they were no longer visible to the eye. Local news would have us beleive this to be a weather baloon but it did not move at all or change its position and this does not explain the 2nd object I viewed either. there were many photos taken and many eye witnesses to this event including the ones I named along with my supervisor and co-workers. I have a photo I can text message to you if you like. THANK YOU FOR YOUR TIME</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72956.html](http://www.nuforc.org/webreports/reports/072/S72956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marlborough (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Square craft.  well lighted. traveled 60 seconds in dark sky.  Two people observed.  Looked too large to be a drone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136822.html](http://www.nuforc.org/webreports/reports/136/S136822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
