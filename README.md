@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Opp (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangle Shaped craft between Opp and AndalusiaMe and my girlfriend were driving home from the Movie Theatre in Andalusia and we saw this triangle shaped craft with a blue light on the left and a red light on the right both lights were flashing. There were a few lights underneath the craft. It hovered for a few minutes above the trees and follwed the car until about the Opp city Limits, where it moved off and then disappeared. Most people I have told this too say it is a helicopter or airplane. There was no sound, and there aren't any airplanes around this area that can hover for a few minutes. If it were a helicopter you could have heard the sound of the blades but there was nothing but silence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32384.html](http://www.nuforc.org/webreports/reports/032/S32384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spring Valley (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low-flying silver craft, reflecting sunlight,  completely silent, suddenly disappearedMy 10 year old son and I were driving north on City Rd CC between Hwy 72 and Cty Rd G, which is a sparsely populated area of farmland.  The craft appeared directly in front of us flying westward.  It was low flying, silver, and reflecting a lot of sunlight.At first I thought it must be a helicopter, since it was flying so low, but it was more of a cigar-shape.  I pointed it out to my son, and I said, “What is that?”  It then shifted to a north-west direction, then it looked more like a disc.  We both got very excited, because it was obviously not a plane or a helicopter.  As we continued driving, a line of trees blocked our vision for about 5 seconds, and the craft was gone.It was a very clear sky with only a few wispy clouds, and the craft was flying way below where the clouds were.  There was nowhere it could have hid behind.  It was just suddenly gone.  We then saw it again about 30 seconds later several miles away.  It suddenly disappeared again.  It was silent and left no contrails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136820.html](http://www.nuforc.org/webreports/reports/136/S136820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
