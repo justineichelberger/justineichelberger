@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>at around 1:55 pm me ad my friend were standing at the front door of our other friends house when we notice a red light in the air which looked really close about the size of a baseball(light) and my friends came out and the object moved really slowly and when we all stared at the same time, it paused in mid-air the light was the size of a small lighter, the craft must've been about the size of a car, it had 3 spheres of light floating around it, the balls were red. it was about 10-15 minutes when the light dimmed low and then it shot 3 red spheres to the ground, there was red sparks when the spheres shot down. it then just floated away into the clouds. we live right of the highway 8 on mollison, which is south of the freeway and the craft was seen on lexington/mollison, want info on anything, it was trippy!!!!!!!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25654.html](http://www.nuforc.org/webreports/reports/025/S25654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wellfleet (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The craft(?) was very high in the pre-dawn sky.  It was heading southerly, then stopped.  Started moving again south but kind of wiggly with large sweeping movement and stopped again.  Started  heading southwest, stopped again.  Headed east, then stopped and stayed there.  I am accustomed to seeing satellites, they move consistently.  This was not that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136784.html](http://www.nuforc.org/webreports/reports/136/S136784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
