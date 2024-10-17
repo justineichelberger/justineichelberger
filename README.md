@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 17 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Key Biscayne (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a white, silvery sphere that held stationary, then moved east into the morning skyI observed a silvery white object that appeared high in the blue, but partly cloudy morning sky.  Its position remained fixed, by the rail of my balcony, for several minutes until it began to move steadily east southeast at constant velocity.  The clouds were a mix of TCU, from ~ 5000-10000' at low level and high SCT Cirrus ~ 25000' (my estimates).  The TCUs moved east to west in front of the object, which did not appear to reflect the morning sun, but softly, glowed organically.  Through the binoculars it appeared textured and matted, and too far/ small to appear on the camera.  If this object were at 10000' I would estimate the diameter to be about 5'.  After watching it pass behind a few TCUs, it finally failed to emerge.I considered this may have been a balloon at a level between the lower westerly flow and the higher easterly flow, moving easterly as it rose.  If it was at 10000', I could hazard a guess of ~ 100kts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130692.html](http://www.nuforc.org/webreports/reports/130/S130692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was comming out of the hospital after an emergency visit for my son. Upon leaving the hospital I noticed a ball of light in the sky. You can see by the time I entered that it was about 7:35 pm or so just before day turns to night. I observed the object fixed in the sky. There was no sound or movement which is what struck me the most. It was a blue color that did shine very bright the starts had not yet appeared in the sky so I could dismiss that very quickly. I stared at the object for many moments till I finally had to leave to go fill a rx for my son. I ended up at the pharmacy with the object in sight the whole time while at the pharmacy I allowed my wife to go fill it for me so I could watch this object. Moments later the light seemed to have released a 2nd light from the initial craft that was much smaller than the first. It seemed to be lowering it down from the primary craft. It was also glowing but more so a clear light. Then off in the distance I noticed a plane moving toward the object. Then glanced back to the ufo and both lights began to dim until they were no longer visible to the eye. Local news would have us beleive this to be a weather baloon but it did not move at all or change its position and this does not explain the 2nd object I viewed either. there were many photos taken and many eye witnesses to this event including the ones I named along with my supervisor and co-workers. I have a photo I can text message to you if you like. THANK YOU FOR YOUR TIME</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72956.html](http://www.nuforc.org/webreports/reports/072/S72956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
