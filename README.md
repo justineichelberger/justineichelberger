@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Carlos () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Triangle UFO in San Carlos Mexico Oct 18,06Originally Posted by Dr Bob 10/18/2006 7PM approx. San Carlos Sonora, Mexico We were driving to a restaurant near San Carlos, Mexico and I was a front seat passenger in the van. We were headed West in a dark section of the road with the closest habitation about two miles away. We were in a canyon between two extinct volcanos (Tetas de Cabra ) and the Sea of Cortez was about 3 miles away. Suddenly I looked up in the dark sky through the windshield and saw a triangular object leisurely proceeding in the opposite direction (East).  It had multiple small yellow lights on its underside that gave it the triangular shape.  There was no noise and the driver of the van did not see it as he was looking to the left. The altitude is hard to describe but I would estimate 500 ft. I doubt it was a private plane as VFR flight is illegal after dark in Mexico.  I plan to go to that same area and hang out tonight.Nothing seen last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53029.html](http://www.nuforc.org/webreports/reports/053/S53029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three silent white balls in a triangle formation floating through the sky.Went outside the house for a cigarette.Looked up and noticed 3 round white balls in a triangle formation spinning through the air approx half a mile away coming in my direction.They passed me above and carried on going until they disappeared out of eyes sight.There was no noise like the usual plane or helicopters that usual fly over.I saw these clear as day but finding it hard how to explain in more detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59312.html](http://www.nuforc.org/webreports/reports/059/S59312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
