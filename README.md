@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow/gold lights, almost fireball in appearance, in cluster, then one at a time, appear in same spot in sky, flying at same speedSeveral unknown items shaped somewhat like a fireball in formation form at times in sky, some one at a time, other times a whole cluster of them, appearing in the distant horizon and moving at same speed and disappearing in the same location farther towards opposite horizon.  Very small, yellow/gold color, somewhat like the sun the way it moves when it burns, but was a solid light, not a blinking light like an airplane light. The tail of it came out the bottom, kind of spiked in appearance. They would come as a cluster at one moment and then the next time would be one at a time, but closely following each other. At one point, they looked to make some sort of formation before the next bout would appear. Then they all stopped appearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115004.html](http://www.nuforc.org/webreports/reports/115/S115004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Purlear (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>for 2 hours observed object moving slightly colored lights blinking randomlyWe saw bright flashing lights of different colors. It seemed to be shaped like a boomerang or triangle but couldn't really see it clearly. The lights flashed in random paterns and the object stayed almost in the same place for the entire 2 hours we watched. It would move slightly from left to right or up and down and sometimes in circular patern. At on point what appeared to be a shooting star flew across the sky at a high rate of speed and stopped at or went directly into the object.((NUFORC Note:  We observe that the sighting is not inconsistent with the sighting of a "twinkling" star.  However, that is just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32549.html](http://www.nuforc.org/webreports/reports/032/S32549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
