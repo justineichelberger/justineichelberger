@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright light moving erratically in all directions. I told myself my eyes were playing games and it wasn’t moving like I thought, so I shut one eye and didn’t move my head and positioned my head so I could barely see it on the edge of the window and it keeps moving in and out of sight. Bright light would occasionally change color and brightness. Clouds could account for brightness change but I simply can’t explain the odd flying patterns in all directions. Have very grainy cell video. Difficult to make out but odd movement still noticeable. Doubtful someone would be flying a drone around 1:30 am in rural southern MN so high in the air..? Object appeared NW of Rochester, MN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149919.html](http://www.nuforc.org/webreports/reports/149/S149919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cylinder flashing object stationary for 15 minutes.  Red and Blue lights close to object flashing.  Video TapedAt about 3:00 am, 18 October 2011 I witnessed a blinking object above me.  I thought it was a high flying plane but then noticed it was stationary.  It stayed in the same place for about 12 minutes before I decided to video the object with my cell phone.  It would flash periodically, in a random sequeance.  There were other lights around the object one flashing red the other a deep blue light. After filming I froze the video and extracted each frame where the object had flashed.   UFO is all I can think of. I have some VERY interesting pictures and video and would like it analyzed with better equipment.  The object has mass and is not a star or planet.  It is communicating with lights around it. The video is to big to send by email therefore I will send the extracted frames for you to anaylize.  Thank you. CWO2 ((name deleted)) (Retired).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84613.html](http://www.nuforc.org/webreports/reports/084/S84613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
