@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow/gold lights, almost fireball in appearance, in cluster, then one at a time, appear in same spot in sky, flying at same speedSeveral unknown items shaped somewhat like a fireball in formation form at times in sky, some one at a time, other times a whole cluster of them, appearing in the distant horizon and moving at same speed and disappearing in the same location farther towards opposite horizon.  Very small, yellow/gold color, somewhat like the sun the way it moves when it burns, but was a solid light, not a blinking light like an airplane light. The tail of it came out the bottom, kind of spiked in appearance. They would come as a cluster at one moment and then the next time would be one at a time, but closely following each other. At one point, they looked to make some sort of formation before the next bout would appear. Then they all stopped appearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115004.html](http://www.nuforc.org/webreports/reports/115/S115004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Leuven (Belgium) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>very fast yellow dot.I went outside for a walk because I was bored and couldn't sleep. So I was just standing around in my street with a cigarette for a while. Then some dogs started barking at me to my left. But then as I turned my head to my left I saw a very bright yellow dot departing from the horizon. I'm not sure if it was departing from the ground. It flew my direction untill it was above me (not perfectly right above me or something) and then seemed to fade away into space. This all happened very quick, about 4 seconds. It looked a little bigger than a star. it's speed, color and brightness reminded me a lot of a so called falling star but it lasted too long for being one and didn't leave a trail , wich makes it something worthy to report for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66283.html](http://www.nuforc.org/webreports/reports/066/S66283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
