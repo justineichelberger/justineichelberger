@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alsip (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Elongated rectangular object flying slower than an airplane, but faster than a blimp.As I was driving south bound on Cicero Avenue near 103rd Street in Oak Lawn, Illinois,  I saw a gray elongated retangular gray object about 5 miles further south in the sky moving from the east towards the west.  It was about 22.50 degrees above the horizon.  It was moving much slower then an airplane, and I thought it could be a blimp, but it moved faster than a blimp, and the ends were not rounded like a blimp.   A helicopter could move at that speed, but its shape in no way resembled a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93671.html](http://www.nuforc.org/webreports/reports/093/S93671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright light moving erratically in all directions. I told myself my eyes were playing games and it wasn’t moving like I thought, so I shut one eye and didn’t move my head and positioned my head so I could barely see it on the edge of the window and it keeps moving in and out of sight. Bright light would occasionally change color and brightness. Clouds could account for brightness change but I simply can’t explain the odd flying patterns in all directions. Have very grainy cell video. Difficult to make out but odd movement still noticeable. Doubtful someone would be flying a drone around 1:30 am in rural southern MN so high in the air..? Object appeared NW of Rochester, MN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149919.html](http://www.nuforc.org/webreports/reports/149/S149919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
