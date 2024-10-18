@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ackworth (UK/England) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>silver shiny cube, stationary in sky, suns light reflecting off it. (near garden center above tree line Ackworth, England Winter 2010)Me and my boyfriend were visiting the local garden centre last year for christmas decorations. I cant remember the exact date nor the month, but it was very cold and they had given out a warning of snow. I must state that up until this point i had never really believed in UFO'S only because the idea of them absolutley terrify me and i try not to think about it. Anyway we were travelling down the road and as we got to the top of the hill above the trees there was a shiny silver cube turned on its side like a diamond. The sun was hitting the object and reflecting of it. Both me and my boyfriend said what's that?. We continued down the hill and when we reached the otherside the object had disappeared. For the last year i have searched the web to see if anyone well saw this, but i have found nothing. The object did not appear to be moving, but stationary. The viewing was only short and nothing was coming out of the object and there were no lights. i just hope th! at someone is able to explain to me what it was that i saw.  Non of my family believe me in UFO'S and when i told them they thought i was just seeing things.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83620.html](http://www.nuforc.org/webreports/reports/083/S83620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Barcelona (Spain) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed bright red object over the Barcelonetta area in Barcelona, SpainClear unusually starry night for Barcelona, Spain.  The object was observed from the terrassa of a four story building.  The object was bright red and circular light.  Bigger than what  airplane lights look like at night.  The object was first observed above and near the Barcelonetta from my vantage point.  A guesstimated distance of + - 7 km. the object was moving too slow to be an airplane at that altitude.  There was no discernible sound from the object. El Prat Llobregat airport is just outside of Barcelona.  Planes can be seen and heard arriving and departing, plane can also be heard going overhead.  From my vantage point, the bright red object was too big to be a helicopter.  While going along the coast and slowly rising, the object almost came to a complete stop.  The object then proceede to go away from the Barcelonetta over the Medeterrainian Sea still slowly rising, the red light changed intensity a little bit and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114667.html](http://www.nuforc.org/webreports/reports/114/S114667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
