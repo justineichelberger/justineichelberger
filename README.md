@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eagle point (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was driving my friend home when as clear as day I see something shoot across the sky over the hills, Weirdly enough it didn’t have a light trail. My friend was there to hear my reaction but wasn’t able to see it himself because he was on his phone. I wouldn’t consider my self crazy and I believe in logical explanations but I’m failing to see the logic in this. The visual reminded me of a video I once saw of a tracer fire light but appearing to have come from the sky. I suppose there was a little bit of a light trail but not like one you would see from a shooting star. Was definitely not a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160079.html](http://www.nuforc.org/webreports/reports/160/S160079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 10/18/17, at about 6 p.m., I observed 4 unidentified air crafts in the sky that were flying over, under, and around each other, and also flying at alternating speeds.  One craft flew straight up and stayed still in that position for about 3 minutes, before resuming to fly.  After a few minutes of crafts flying around, what appeared to be a military aircraft flew between the other 4 crafts.  My attention was taken away for about a minute, and when I looked back up they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136853.html](http://www.nuforc.org/webreports/reports/136/S136853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
