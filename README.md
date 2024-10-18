@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On 10/18/17, at about 6 p.m., I observed 4 unidentified air crafts in the sky that were flying over, under, and around each other, and also flying at alternating speeds.  One craft flew straight up and stayed still in that position for about 3 minutes, before resuming to fly.  After a few minutes of crafts flying around, what appeared to be a military aircraft flew between the other 4 crafts.  My attention was taken away for about a minute, and when I looked back up they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136853.html](http://www.nuforc.org/webreports/reports/136/S136853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow/gold lights, almost fireball in appearance, in cluster, then one at a time, appear in same spot in sky, flying at same speedSeveral unknown items shaped somewhat like a fireball in formation form at times in sky, some one at a time, other times a whole cluster of them, appearing in the distant horizon and moving at same speed and disappearing in the same location farther towards opposite horizon.  Very small, yellow/gold color, somewhat like the sun the way it moves when it burns, but was a solid light, not a blinking light like an airplane light. The tail of it came out the bottom, kind of spiked in appearance. They would come as a cluster at one moment and then the next time would be one at a time, but closely following each other. At one point, they looked to make some sort of formation before the next bout would appear. Then they all stopped appearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115004.html](http://www.nuforc.org/webreports/reports/115/S115004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
