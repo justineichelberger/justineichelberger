@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Static orange "garland" silently gliding over VancouverI was looking at the stars from my deck, and suddenly it looked like a curly orangy garland was floating above my head. Then I realized that if it was a garland, I wouldn't see it (since it was dark already) and even if I did, it would be moving in the wind, whereas the shape of what I saw was completely static. So I suddenly realized that I was seeing some flying object, as it was advancing in the air very steadily (not high speed at all), and it looked like I was seeing the back of the object (nothing else showed). I could follow it for maybe 20 or 30 seconds, and then the orangy glow slowly disappeared as it moved further away towards the East. It was absolutely silent and didn't seem very high in the sky (unless it is a gigantic object). Had I not looked up at that very moment (when the "garland" was vertically above me and the most visible) , I probably wouldn't have noticed the object at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14707.html](http://www.nuforc.org/webreports/reports/014/S14707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow/gold lights, almost fireball in appearance, in cluster, then one at a time, appear in same spot in sky, flying at same speedSeveral unknown items shaped somewhat like a fireball in formation form at times in sky, some one at a time, other times a whole cluster of them, appearing in the distant horizon and moving at same speed and disappearing in the same location farther towards opposite horizon.  Very small, yellow/gold color, somewhat like the sun the way it moves when it burns, but was a solid light, not a blinking light like an airplane light. The tail of it came out the bottom, kind of spiked in appearance. They would come as a cluster at one moment and then the next time would be one at a time, but closely following each other. At one point, they looked to make some sort of formation before the next bout would appear. Then they all stopped appearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115004.html](http://www.nuforc.org/webreports/reports/115/S115004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
