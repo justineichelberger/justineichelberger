@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:20 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mountain Top (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a bright star move from a stationary position to a full 90 degree downward to the right, lit up to 3x the size and took off in a northern straight shot.  Looked like a very bright star until it moved and became super bright ad disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130699.html](http://www.nuforc.org/webreports/reports/130/S130699.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in North Dartmouth (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 12.216666666666667 - 12.216666666666667 minutes.</sub><blockquote><sub>Very bright, spherical flying object spotted and photographed at UMass Dartmouth, passing over the woods behind the wind turbine.I am a photography enthusiast and often photograph landscapes, airplanes, and night scenes.  On this night I went to the University of Massachusetts Dartmouth to capture the library.  I was standing on the hill of the amphitheater when I turned to photograph cars passing on Ring Road in front of the wind turbine.  I saw a very strong, twinkling spherical light over the woods behind the turbine.  I initially dismissed the object for a star, but quickly realized that it was too bright and moving too quickly at much too low an altitude to be a star.  Having photographed Chinese lanterns before, I knew that this object could NOT be one, because it lacked the proper light diffusion pattern within the object.  The light was also too bright, almost white, and looked solid.  There was also a small airplane flying in the vicinity, at a much higher altitude.  I walked all the way to the turbine, while attempting to get better photos of the object.  I took as short exposures as! possible while also using a tripod. I set the camera on a timed shutter release to prevent motion blur.  It made no noise, and had a flight pattern that was almost completely against the wind at the time (very strong winds on the ground that night,  I had to hold my tripod). I took several photos and am very unsettled by the lack of an explanation.  Zooming in only furthers the mystery and I would like assistance in finding out what this object was.  I am emailing the photos for review immediately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130731.html](http://www.nuforc.org/webreports/reports/130/S130731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
