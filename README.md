@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pennington (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At 6:30 I’m the morning before sunrise myself and two others saw at first a bright white flash in the sky and at first didn’t know what to think. Then about 15 minutes later we saw two other circular lights (yellow) rise up into the the sky approximately 1000 ft, they sat there and hovered for a maybe 30 seconds then started to fade then shot across the sky at a very high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150229.html](http://www.nuforc.org/webreports/reports/150/S150229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>fireball figure in the sky.moved from one end to another.has been seen in korea and china before.the 'ufo' was like a small fireball with a tail of fire.it was moving accross the sky and within a few min. was not visible to us. http://www.qtm.net/~geibdan/a1998/korea/korea.html  exactly the same as the first picture on the web sight above.((NUFORC Note:  We spoke with the witnesses to this event, and they insisted that the object they witnesses was not a contrail behind a high-altitude jet.  One of the witnesses had worked for an overseas airline, and insisted that had the object been a contrail, she would have been able to identify it easily.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39851.html](http://www.nuforc.org/webreports/reports/039/S39851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
