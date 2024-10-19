@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 18 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Queen Creek (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cylinder flashing object stationary for 15 minutes.  Red and Blue lights close to object flashing.  Video TapedAt about 3:00 am, 18 October 2011 I witnessed a blinking object above me.  I thought it was a high flying plane but then noticed it was stationary.  It stayed in the same place for about 12 minutes before I decided to video the object with my cell phone.  It would flash periodically, in a random sequeance.  There were other lights around the object one flashing red the other a deep blue light. After filming I froze the video and extracted each frame where the object had flashed.   UFO is all I can think of. I have some VERY interesting pictures and video and would like it analyzed with better equipment.  The object has mass and is not a star or planet.  It is communicating with lights around it. The video is to big to send by email therefore I will send the extracted frames for you to anaylize.  Thank you. CWO2 ((name deleted)) (Retired).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84613.html](http://www.nuforc.org/webreports/reports/084/S84613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small dark shadowy figure with no lights, moving quickly in the light of the moon and shaped like a fat cigar with 2 small fins.UFO occurrence  Tonight, around 10:55 pm, I saw a strange dark object gliding in the sky.  It had no lights what so ever.I live in the suburbs of a large city several miles away.  There is some light distraction causing the inability to see all the stars, typical.  There were thin and high altitude clouds moving across about a 3 quarter moon.  I could still see the moon brightly through the thin layer of clouds creating a silhouette of sorts.  I often look up to Southern sky in an opening space of 70 feet or so, between some tall pines.As I looked up to see the moon, I also noticed how fast the clouds were moving, mostly from West to East.  I was only gazing up for about 15 to 20 seconds, when very quickly, small shadow type object, moved East to West just below the moon.  I only saw it for about 4 to 5 seconds.  It was the oddest thing.  It no lights on it at all.  And probably, I would’ve notice it at all if it did not fly across the lower and bright silhouette of the moon.  It actually took about 20 seconds for me register in my mind what I actually saw or didn’t see.There is a busy airport several miles away and often I see high airplane traffic.  I also use to practically live under a landing line of an airport for years.  I know the difference between an airplane at night or something else.  This was definitely something else.To summarize, I saw a small dark or shadow type object, moving east to west.  It appeared to be high in the sky as a solid object.  I could not differentiate whether the object was above or below the thin fast moving clouds.  Perhaps, the only reason I saw it, was by the light of the moon.  The object was probably only 1/32 the size of the moon.  Considering the short period of time, I viewed the object, I can recall it being the shape of a laid-down fat-in-middle cigar with a small fin on top and bottom of the back-end and not a long object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143538.html](http://www.nuforc.org/webreports/reports/143/S143538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
