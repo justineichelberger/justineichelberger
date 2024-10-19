@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ortonville (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle in sky white lights.Three white lights in triangle formation.  Started in the west and flew over me heading east.  Back two lights blinked.  No other colors besides white.  Craft blacked out stars but seemed very low.  Did make a noise but much more quiet than a plane.  Moved slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130695.html](http://www.nuforc.org/webreports/reports/130/S130695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Brilliantly Bright green orb seen in the northern sky travelling east to west in a slightly downward trajectoryGreen ball of light seen in the northern sky travelling East to west - no trail  Viewed through my Livingroom window.  Brilliant bright green orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150251.html](http://www.nuforc.org/webreports/reports/150/S150251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
