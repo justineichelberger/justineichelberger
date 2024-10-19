@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object observed moving slowly over central Phoenix and alternating red and whiteAt Aprroximately 16:35 on report date, I Observed a steady  light just east of directly above me.  I watched this light and observed it moving slowly in a generally southerly direction, counter to the prevailing winds. it left no contrail as did the airliners I observed crossing the sky at this same time.  Intrigued, I continued to watch this point of light and noticed it was now alternating red and white. this continued for Approximately 20 minutes before the object (if such), receded, and faded from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59323.html](http://www.nuforc.org/webreports/reports/059/S59323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ortonville (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Triangle in sky white lights.Three white lights in triangle formation.  Started in the west and flew over me heading east.  Back two lights blinked.  No other colors besides white.  Craft blacked out stars but seemed very low.  Did make a noise but much more quiet than a plane.  Moved slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130695.html](http://www.nuforc.org/webreports/reports/130/S130695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
