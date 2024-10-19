@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:15 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:27 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yonkers (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>silvery circular object suspended high in the skyI noticed a shiny silvery object very high in the sky at about a north/east position.  At first I thought it was an air craft but then a plane flew by and the object was sitting still at a high altitude.  Motionless. I thought maybe a weather baloon or possably the suns reflection of a planet.  But then it just shot up in a flash?  thats it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78498.html](http://www.nuforc.org/webreports/reports/078/S78498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Burnsville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 sets of 3 lights hovering silently in night skyI regret not finding your site and filing this as soon as this happened, but better late than not.At about 9:30 on a mid-October night in 2010 while walking my dog, I noticed lights in the southeast sky from our front yard.  I regularly observe the night skies and am familiar with the usual constellations at different times of the year, and follow the movements of planets as well.  I live outside of Burnsville, NC, in a very rural area with little light pollution, and the night sky was clear.What I saw were three sets of lights, each set arranged as three points of an equilateral triangle, and those arranged as a triangle.  The lights were not blinking, two, maybe three of them had a greenish color.  They were low on the horizon, I detected no solid shape associated with them.  Most unusual was the three sets of lights moved, slightly up and down, with respect to each other.  I tested this by positioning myself in a place in the yard where I could align the top of a hemlock tree (stationary in a breeze-less night) to a set of lights, which definitely moved with respect to the treetop.  I detected no sound, nor was able to perceive how far away they were.After watching this for one minute, maybe more, I rushed inside the house to get my wife and daughter to see it, and by the time they were alerted and out, the lights were gone, not visible anywhere else in the sky.  I regret not waiting to see how they disappeared.Having watched the night sky where I live for many years, seen the ISS several times, seen comets, a bolide, assorted aircraft, I’d never witnessed lights like these and the fact that they moved was compelling.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87207.html](http://www.nuforc.org/webreports/reports/087/S87207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
