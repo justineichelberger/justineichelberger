@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Traverse City (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Entire sky in the east flashed a bright white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122951.html](http://www.nuforc.org/webreports/reports/122/S122951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright white, circular orb flew out from behind a contrail (chemtrail), then flew back behind it.We were driving southbound on I-17, just south of Flagstaff.  I was seated in the passenger seat looking out of the window up at a contrail (chemtrail) made by a plane that was flying from east to west. This contrail was almost directly overhead of us.As I stared at the contrail, a bright white, round orb/ball flew out from behind the contrail going slowly south.  It didn’t fly south very far at all, maybe for 4 seconds, and then turned at a 45 degree angle and flew back up behind the contrail.  I stared at the spot until the contrail dissipated but there wasn’t anything there.This happened very fast and would’ve been easy to miss if I hadn’t been looking directly at the spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66701.html](http://www.nuforc.org/webreports/reports/066/S66701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
