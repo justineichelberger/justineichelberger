@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Non-blinking white spherical-shaped object traveled northwest to southeast - appeared to be a very large meteor falling thru atmosphereWaiting on the bus, I looked up in the sky, which was partly cloudy with semi-transparent to thicker clouds.  I saw traveling in the sky from the northwest a small white ball.  It did not blink, like an aircraft, and there was no red or green blinking lights.  Just a small circle of light-- large enough to cast a shadow had it been lower in the sky.  It was moving quite fast, but not like a meteor that shoots across the sky.  Faster than a plane – like a meteor in slow motion.  I am fairly certain it was not an airplane.  I am a legal assistant and commute to Seattle every week day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93707.html](http://www.nuforc.org/webreports/reports/093/S93707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately pm2040 - pm2040 minutes.</sub><blockquote><sub>Two stars blinking at nite with same colorsIts the afternoon and little hot. you can start to see the stars, I looked up and noties a shinging star? whitch I kept on looking and noties that it was changing colors and i qestion my self ,stars do not bink or change colors,so i ask my wife and kids to bring my binoculars to get a better look at it.when I did it seems like it was standing still but every 5/10 minutes it wood move little by little to the naked eye. the colors that we all saw  where Red,Green,white .I even ask some of my apartment nieborrs? to look at the binking star, witch they said the same about the colors.then I looked to the other said of the building and saw another seemiler star,but this one binked out and re-apear about 4 inches from where it was .the frist one kept getting smaller. but the second  one is still thier .untill it started doing the same, getting smaller.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32456.html](http://www.nuforc.org/webreports/reports/032/S32456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
