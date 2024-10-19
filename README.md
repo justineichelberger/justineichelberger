@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Brilliantly Bright green orb seen in the northern sky travelling east to west in a slightly downward trajectoryGreen ball of light seen in the northern sky travelling East to west - no trail  Viewed through my Livingroom window.  Brilliant bright green orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150251.html](http://www.nuforc.org/webreports/reports/150/S150251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hazen/Fallon (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>At night  a flicker of light, then steady Red/Oranges Orbs in a Triangle Pattern consisting of 5-6 located on the bottom of UFO.Driving East just passed Hazen, which is Desert and clear skies. I joked to my step-father as I see a UFO. I saw dark and then a flicker of large RED/ORANGE ORBS in a TRIANGLE PATTERN, CONSISTING OF 5-6. lights became steady and appeared for 4-5 seconds. It was apparent this craft was turning in a different direction(the lights must be on the bottom)and it was leveling out, then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78470.html](http://www.nuforc.org/webreports/reports/078/S78470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
