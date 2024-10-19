@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>THREE SMALL FLYING OBJECTS CAME TOGETHER FROM DIFFERNT AREAS TO FORM A STACKED FORMATION, THEN ROTATED  CLOCK WISE TO ABOUT 2 OCLOCK FOR THE TOP ONE AND 7 OCLOCK FOR THE BOTTOM ONE THE CENTER ONE DIDN'T MOVE THEY STAYED THIS WAY FOR ABOUT 4MINUTES , THE TOP ONE THEN SPED OFF TO THE EAST AND THE LOWER ONE TO THE NORTH   ,THE CENTER ONE STAYED WHERE IT WAS FOR A FEW MOMENTS ,THEN TOOK OFF FROM SIGHT. THE FIRST ONE MUST OF COVERED 6-8 MILES IN A FEW SECONDS THEN STOPPED AND HOVERED I THEN LOOKED TO MY LEFT AND SAW ANOTHER ONE  FLYING PAST TO ABOUT WHERE THE FIRST ONE WAS LOCATED, THEY WERE A COUPLE OF MILES APART THAT IS WHEN I NOTICED TWO MORE  . WE ARIVED HOME AND THEY WERE STILL THERE WHEN WE WENT INSIDE..AS FAR AS DESCRIPTION GOES THEY ALL HAD A BRIGHT LIGHT WITH WITH SOMETHING BLINKING .WE COULDN'T MAKE OUT ANY SHAPE , AND THERE WAS NO NOISE COMING FROM THEM .MY WIFE KEEP ASKING IF THEY WERE HELOCOPTERS , BUT I'VE NEVER SEEN ANYTHING MOVE THAT FAST OR CHANGE DIRECTION SO QUICK THIS HAPPENED IN TOTAL DARKNESS   .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10281.html](http://www.nuforc.org/webreports/reports/010/S10281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 152</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150096.html](http://www.nuforc.org/webreports/reports/150/S150096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
