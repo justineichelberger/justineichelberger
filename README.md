@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hinesburg (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, almost reflective looking large light floating in the sky.  Then light went out and object turned transparent and slowly faded away.  Soon after, what appeared to be a jet flew out toward it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122968.html](http://www.nuforc.org/webreports/reports/122/S122968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>light in the sky of elizabethThe Object was in the skies, it did not move for about 30 sec,, it was shining , i believe because of the reflection of the sun that was behind me,the object did not move,but thelight was getting smaller , until i couldn't see anything. I dont know what it was, but it was really strange, I work near the airport, at the begining i though that it was an airplane , but the fact it didn't move for about 30 seconds and desapeared,i know it cannot be an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47092.html](http://www.nuforc.org/webreports/reports/047/S47092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
