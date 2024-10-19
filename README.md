@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange bright lights - to low for a plane - faster then a moving plane - No engine sound or any kind of sound - disappeared as quickly as a blink of an eye.  Flying at a pretty good speed in a straight line.  Nothing I have ever seen before.  I believe it is a sign!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114666.html](http://www.nuforc.org/webreports/reports/114/S114666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Non-blinking white spherical-shaped object traveled northwest to southeast - appeared to be a very large meteor falling thru atmosphereWaiting on the bus, I looked up in the sky, which was partly cloudy with semi-transparent to thicker clouds.  I saw traveling in the sky from the northwest a small white ball.  It did not blink, like an aircraft, and there was no red or green blinking lights.  Just a small circle of light-- large enough to cast a shadow had it been lower in the sky.  It was moving quite fast, but not like a meteor that shoots across the sky.  Faster than a plane – like a meteor in slow motion.  I am fairly certain it was not an airplane.  I am a legal assistant and commute to Seattle every week day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93707.html](http://www.nuforc.org/webreports/reports/093/S93707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
