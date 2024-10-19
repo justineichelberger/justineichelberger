@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:18 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:15 on 19 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Timonium (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pulsing between transparent and dark metallicDriving north on 83 past Timonium this afternoon, clear skies.  Something "pulsing" in my peripheral vision got my attention.  When I looked directly at it there was something in the sky pulsing between complete transparency and a dark metallic color.  By the time I got my phone out I could no longer see it (and nearly crashed).Due to the odd nature of it, I couldn't tell size or height but it was unlike anything I have seen or know to exist.  It was definitely not the white blimps over APG that other people seem to report.  My mind is kinda blown over this.  If anyone has seen similar,  I'd like to talk about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122969.html](http://www.nuforc.org/webreports/reports/122/S122969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Yonkers (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>silvery circular object suspended high in the skyI noticed a shiny silvery object very high in the sky at about a north/east position.  At first I thought it was an air craft but then a plane flew by and the object was sitting still at a high altitude.  Motionless. I thought maybe a weather baloon or possably the suns reflection of a planet.  But then it just shot up in a flash?  thats it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78498.html](http://www.nuforc.org/webreports/reports/078/S78498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
