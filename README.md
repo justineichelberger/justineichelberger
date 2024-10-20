@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:12 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:45 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Revelstoke area (Canada) (BC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large bright light came down and contacted the mountain side late at night and went out but produced no fire.Cloudy night. Very bright and large object seen from about 2 miles away across the north east arm of the Upper Arrow Lakes. Object contacted the mountain and that was it. No explosion or fire. Looked like a bright landing light you normally associate with big jet planes landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19935.html](http://www.nuforc.org/webreports/reports/019/S19935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montville (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Six coned like objects, with bright white lights floating in the Montville sky.Bright Floating object hanging in the sky from the northeast.  Bobbing in the air up and down and then it took off towards the west.  It was followed by five others, doing the same thing. They traveled about a half a mile from one another. They all appeared the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47126.html](http://www.nuforc.org/webreports/reports/047/S47126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
