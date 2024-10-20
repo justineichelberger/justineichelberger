@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (maybe New York) (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I am passing this on from my friend, as I did not see the news report.  He said that on the local news, a CBS station here in Jacksonville Fla, that he saw a news report about an unidentified object captured on film, video, by a news camera.  I have been looking to see if anyone else had any info on this sighting.  He said the news reporter said the object may have been an optical illusion, but when  still frame was looked at, it was seen to be a cigar shaped object with possibly fins or stabilizers on it.  The amazing thing was that it crossed the entire horizon in such an instant, no one was sure what they had seen! Has anyone else heard this news report?((NUFORC Note:  Albany, NY, on Sunday, October 20, 2002.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25805.html](http://www.nuforc.org/webreports/reports/025/S25805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 reddish/white spheres following in the exact same direction in a clear night sky secs and minutes apart.Was cleaning the gutters and notice several unidentified flying spears with mostly reddish and white like whole bodies in the night sky coming and leaving at a steady slow pace.  My mother also was outside on the ground and saw the same 6 mysterious spears following behind one another. 2 or 3 spears came 2 mins after the first siting.  Note that they did not blink red, white or blue lights for the entire sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123000.html](http://www.nuforc.org/webreports/reports/123/S123000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
