@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:50 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:12 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Scunthorpe (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A silent triangular object around 60 feet corner to cornerOpen countryside at night, so colour was not evident. It was only around 50 yards away and only 50 yards high. I thought it might have been some new kind of millitary machine, but it was completly silent other than a whoosh of air as it changed from a stationary mode to a low level flight path. It shot accross a field after hovering for about 10 seconds and then out of sight. At first I thought it was "human" because it had a red light in each corner of the triangle, but the 60 or so foot span and the silence of the object was very strange [I had my car windows down] No other reports were made in the area to the best of my knowledge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14797.html](http://www.nuforc.org/webreports/reports/014/S14797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Revelstoke area (Canada) (BC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large bright light came down and contacted the mountain side late at night and went out but produced no fire.Cloudy night. Very bright and large object seen from about 2 miles away across the north east arm of the Upper Arrow Lakes. Object contacted the mountain and that was it. No explosion or fire. Looked like a bright landing light you normally associate with big jet planes landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19935.html](http://www.nuforc.org/webreports/reports/019/S19935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
