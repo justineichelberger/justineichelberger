@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>One star-shaped object. I thought it was Venus, being the brightest of the night stars.  But then it glowed bright, and moved upward, relative to planes and "debris/falling stars" I've seen before in my life.  It moved higher, slowly (one mississippi....), directly upward, and by the slow count of three it faded, as a light, into dissapearance.I'm a sinic so I called my mom, who is not.  As I was leaving a message to tell her I saw this I saw what looked like a shooting star.I saw the news about the potential meteor shower in the AM, but this was different, to say the least.Thanks.SG</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72945.html](http://www.nuforc.org/webreports/reports/072/S72945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2 Hovering stationary drones with green/red anticollision @2000ft lasted over an hourObject seem to be some type of hovering drone with green red strob anti-collison lights one due west @ 1500ft and one sw @ 2000ft they were completely stationary,for over an hour.  Just prior to the sightings two military helicopters flew near same altitude in formation they sounded like AH-60s((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84663.html](http://www.nuforc.org/webreports/reports/084/S84663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
