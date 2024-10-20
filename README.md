@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>After reading the 1966 acount of Jack Brown in cal, talked about a butane shaped craft.  I thought I would tell you about the one I saw with my son. My son and I had just left our home to go get gas in the car for a trip that we were going on the next day. as we were driving something caught my eye in the sky.  I looked up and saw a silver glow in the sky.  It was  shaped like a butane tank but maybe the size of three traincars.  It was just over the tree line. I slowed down and pulled over. and then like a shot it went stright up and turn to the west and was gone. I looked over at my son and asked if he had seen that. He said woo mom what was that thing.  He was 18 at the time.  I am a nurse and my husband at the time worked for nasa. so when we got back home I asked him if there were any test or flights that he new of for that night. He said no but after telling him what we had seen, he made a call to nasa to see. Thay also said no none at all.We nevrer knew what it was but I sill keep looking at the sky.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62303.html](http://www.nuforc.org/webreports/reports/062/S62303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>One star-shaped object. I thought it was Venus, being the brightest of the night stars.  But then it glowed bright, and moved upward, relative to planes and "debris/falling stars" I've seen before in my life.  It moved higher, slowly (one mississippi....), directly upward, and by the slow count of three it faded, as a light, into dissapearance.I'm a sinic so I called my mom, who is not.  As I was leaving a message to tell her I saw this I saw what looked like a shooting star.I saw the news about the potential meteor shower in the AM, but this was different, to say the least.Thanks.SG</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72945.html](http://www.nuforc.org/webreports/reports/072/S72945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
