@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 reddish/white spheres following in the exact same direction in a clear night sky secs and minutes apart.Was cleaning the gutters and notice several unidentified flying spears with mostly reddish and white like whole bodies in the night sky coming and leaving at a steady slow pace.  My mother also was outside on the ground and saw the same 6 mysterious spears following behind one another. 2 or 3 spears came 2 mins after the first siting.  Note that they did not blink red, white or blue lights for the entire sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123000.html](http://www.nuforc.org/webreports/reports/123/S123000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North charleston (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While starting a shift at 6am at a water front facility a equipment operator was starting machine and noticed up to 9 bright lights in close formation and not moving , he says it stood out as really strange and he observed them for a few minuates before taking a picture on his phone, he mentioned it to myself and showed picture.  He and I are concerned due to recent sighting off the coast of North Carolina of similar light formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150207.html](http://www.nuforc.org/webreports/reports/150/S150207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
