@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Amity (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Appear to be an orange fireball moving west and quite low in the sky. Could not est. size.An orange fireball moving west and slow when compared with a meteor. Did seem to have a slight vapor trail. I watched this object for about 5 seconds. It was lateral to me and probably no more than 3 city blocks away. Looked to be no higher than 2-3 telephone poles high. I reported to the State police in Mcminnville oregon. It is my first sighting and I have always been a skeptic. I am not now. Thank you. ((personal data deleted)) Mcminnville , Ore. 97128. Ph: 503-((# deleted)). E - mail. ((e-mail address deleted)).com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10286.html](http://www.nuforc.org/webreports/reports/010/S10286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kimball Junction (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Green Hovering light that moved slowly as if in surveillance. NO FLASHING LIGHTS and no sound coming from it.Hovering over the Junction there was a green light shining bright and constant.  It hovered slowly from North to South as if surveying the area.  I even took a video which I no longer have.  I asked my friend to come out and see if she could see it as well and she defiantly did.  We went for a drive to get closer but I got scared and we turned back.  No other lights but this one green constant glow.  It was late at night and could not see the shape.  I first saw it form Pinebrook area.  It was there for a while as we went out to check on it from time to time.  But then it was gone.  Made no sound and had no flashing lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137009.html](http://www.nuforc.org/webreports/reports/137/S137009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
