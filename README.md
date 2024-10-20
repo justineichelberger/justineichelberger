@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:59 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The chasing red lights over Boston.it was around 0:30 and two of us looked up over the eastern part of the city and noticed these two red lights very very high up in the sky, two high to be any type of aircraft.  from what we saw was the red lights were chasing each other, back and fourth and around and around.  This happened for about a good twenty minutes and the two red lights stop for a about one minute and all a sudden just disappeared.  The red lights very a very bright color and they were just a steady red, no flashing our strobe effects at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84689.html](http://www.nuforc.org/webreports/reports/084/S84689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Diamond Bar (on the 57) (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very intense light moving and changing course rapidly causing cars to pull off highway and stop. All lights shot into sky getting smaller and smaller until so far away you could not see.On my way to Mount SAC college from Costa Mesa in the early evening, my ex-wife and I where on the 57 highway going about 60 MPH. I was distracted by a very intense light by the horizon on the hills where ther are no houses or roads. This very intense disc of light made is way over the side of the 57 highway and was causing cars to start pulling over to side of the road on both roads. It would come closer and lower and then go back up and farther away. It took me about a minute to stop the car and get out. By that time it was gone. The way it disapeared was very strange. It shot up into differnt spots in the sky that were not to distant, however; Every time it would move it would go from a complete stop to an increadable speed in an instant. It would also go from an increadible speed to a complete stop in an instant. At the end it seemed to break up into about 8 distinct balls of light that were many miles up in the air. I am very good with estimating speed and acceleration of jets and rockets. I would estimate that this object must have accelerated to a speed of 10,000 MPH in a fraction of a second only to come to a complete stop and accelerate again on a vector that was in the opposite direction. I know that this was not any aircraft or lightning. I know many others had seen it. I have recently stopped mentioned it to people, because most people either dont care or think that I am not correct.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04974.html](http://www.nuforc.org/webreports/reports/004/S04974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
