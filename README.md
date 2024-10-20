@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Three Sisters (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately over night at log caben - over night at log caben minutes.</sub><blockquote><sub>night , wooded,  ufo, big, three aliens seen, the stuf the goverment don't want you to know about but i seen some!first we see a small silver ball going wp and down. we were in a hevly wooded area. (river valy) later my friend wakes me up, he was in a nerves stage. we whent to look out the door to see a ufo, it was about 100 feet long 50 feet wide, it was just above the trees. it made a humming noise. the only lite coming out was from the windo. it had to be at lest 10 feet long and 5 feet tall. we when bake inside. when we when back out there, we saw in the windo two beings looking back at us. as creeped out as we were, we wached with excitment. the being had a normal alien dipeked head, but the eyes were redis coler! then a nother one shot out of the from the left side of the windo. the wered thing was, we only saw the heads and when the other one came out, it was probly siting on some chair or sumthing. the skary part abot it was that the snip was so close only about 200 or so feet away, that the eyes stud out the most in the windoes were was like the sechers cat smile, in the windoes the bak drop was bright wight. later i shined a flash light at it, it was a matalika coler and it had some black blockey  righting on the side of it, once the sun came up we did not hereit or see it. since then i've seen many ufo,s all over the plac. it doesent even fase me if i see them any more. but it still kerps me out a bit.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49812.html](http://www.nuforc.org/webreports/reports/049/S49812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lethbridge (Canada) (AB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Triangular shadow flying three dim lights, some with thousands as other whitnesses say.When i was sitting in our hot tub with my parents and my dad calls out "there it is"! I look and there is an aircraft about 3000ft off the ground and was kinda big it went across the sky in about 10 seconds my father tells me he has seen way more and much much more bigger then the one i have seen, and much more higher off the ground about 50 000ft((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60596.html](http://www.nuforc.org/webreports/reports/060/S60596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
