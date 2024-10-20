@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:45 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montville (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Six coned like objects, with bright white lights floating in the Montville sky.Bright Floating object hanging in the sky from the northeast.  Bobbing in the air up and down and then it took off towards the west.  It was followed by five others, doing the same thing. They traveled about a half a mile from one another. They all appeared the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47126.html](http://www.nuforc.org/webreports/reports/047/S47126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mercersburg (PA) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object hovering at top of mountain rising slowly but steady up and to the right. The object has a bright white light that stays on all the time. There are also red and blue lights which are flashing with varying intensities. The object is moving ever so slowly but is moving. This is not a planet or star. It is definitely some type of craft. By our compass the object is southeast of us. It is fairly distant and still appears quite large. The array of lights seem to be ever changing except the white light. We have viewed it with the naked eye and binoculars and neither appears like a normal object. My best description would be that this appears to be a cluster of flashing lights. It is now 2:48 and we have been observing this object since 1:30. It is still rising and appears to be moving south. We will be watching your web site to see if any one else has observed this object. It is following relatively the same path that Mars followed this summer but it ain't Mars! We withhold our names only because we live in a very rural area where we would definitely be hauled off to the funny farm. We would however discuss this with any other viewers or intelligent beings.((NUFORC Note:  We suspect a "twinkling" star may have been the cause of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32462.html](http://www.nuforc.org/webreports/reports/032/S32462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
