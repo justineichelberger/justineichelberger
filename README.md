@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Neguac (Canada) (NB) reported seeing craft that fit the description of some 'Cigar' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I noticed something odd in the picture when I used it as a sceensaver...there were no planes when I took itI didn't notice until I used the photo as screensaver.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59421.html](http://www.nuforc.org/webreports/reports/059/S59421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Amity (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Appear to be an orange fireball moving west and quite low in the sky. Could not est. size.An orange fireball moving west and slow when compared with a meteor. Did seem to have a slight vapor trail. I watched this object for about 5 seconds. It was lateral to me and probably no more than 3 city blocks away. Looked to be no higher than 2-3 telephone poles high. I reported to the State police in Mcminnville oregon. It is my first sighting and I have always been a skeptic. I am not now. Thank you. ((personal data deleted)) Mcminnville , Ore. 97128. Ph: 503-((# deleted)). E - mail. ((e-mail address deleted)).com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10286.html](http://www.nuforc.org/webreports/reports/010/S10286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
