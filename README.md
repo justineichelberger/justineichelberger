@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kimball Junction (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Green Hovering light that moved slowly as if in surveillance. NO FLASHING LIGHTS and no sound coming from it.Hovering over the Junction there was a green light shining bright and constant.  It hovered slowly from North to South as if surveying the area.  I even took a video which I no longer have.  I asked my friend to come out and see if she could see it as well and she defiantly did.  We went for a drive to get closer but I got scared and we turned back.  No other lights but this one green constant glow.  It was late at night and could not see the shape.  I first saw it form Pinebrook area.  It was there for a while as we went out to check on it from time to time.  But then it was gone.  Made no sound and had no flashing lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137009.html](http://www.nuforc.org/webreports/reports/137/S137009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The chasing red lights over Boston.it was around 0:30 and two of us looked up over the eastern part of the city and noticed these two red lights very very high up in the sky, two high to be any type of aircraft.  from what we saw was the red lights were chasing each other, back and fourth and around and around.  This happened for about a good twenty minutes and the two red lights stop for a about one minute and all a sudden just disappeared.  The red lights very a very bright color and they were just a steady red, no flashing our strobe effects at all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84689.html](http://www.nuforc.org/webreports/reports/084/S84689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
