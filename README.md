@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:59 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Diamond Bar (on the 57) (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very intense light moving and changing course rapidly causing cars to pull off highway and stop. All lights shot into sky getting smaller and smaller until so far away you could not see.On my way to Mount SAC college from Costa Mesa in the early evening, my ex-wife and I where on the 57 highway going about 60 MPH. I was distracted by a very intense light by the horizon on the hills where ther are no houses or roads. This very intense disc of light made is way over the side of the 57 highway and was causing cars to start pulling over to side of the road on both roads. It would come closer and lower and then go back up and farther away. It took me about a minute to stop the car and get out. By that time it was gone. The way it disapeared was very strange. It shot up into differnt spots in the sky that were not to distant, however; Every time it would move it would go from a complete stop to an increadable speed in an instant. It would also go from an increadible speed to a complete stop in an instant. At the end it seemed to break up into about 8 distinct balls of light that were many miles up in the air. I am very good with estimating speed and acceleration of jets and rockets. I would estimate that this object must have accelerated to a speed of 10,000 MPH in a fraction of a second only to come to a complete stop and accelerate again on a vector that was in the opposite direction. I know that this was not any aircraft or lightning. I know many others had seen it. I have recently stopped mentioned it to people, because most people either dont care or think that I am not correct.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04974.html](http://www.nuforc.org/webreports/reports/004/S04974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>After reading the 1966 acount of Jack Brown in cal, talked about a butane shaped craft.  I thought I would tell you about the one I saw with my son. My son and I had just left our home to go get gas in the car for a trip that we were going on the next day. as we were driving something caught my eye in the sky.  I looked up and saw a silver glow in the sky.  It was  shaped like a butane tank but maybe the size of three traincars.  It was just over the tree line. I slowed down and pulled over. and then like a shot it went stright up and turn to the west and was gone. I looked over at my son and asked if he had seen that. He said woo mom what was that thing.  He was 18 at the time.  I am a nurse and my husband at the time worked for nasa. so when we got back home I asked him if there were any test or flights that he new of for that night. He said no but after telling him what we had seen, he made a call to nasa to see. Thay also said no none at all.We nevrer knew what it was but I sill keep looking at the sky.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62303.html](http://www.nuforc.org/webreports/reports/062/S62303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
