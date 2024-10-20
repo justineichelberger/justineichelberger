@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 20 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sudbury (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Multiple triangles flying over northern Ontario cityOn the 20th of October, 2019 I observed a triangle shaped object flying across the night sky with green/yellow lights you could make out the object and just saw the lights with the tip flying south across the night sky in Sudbury Ontario.  I was sitting in the hottub and kept watching it fly south zero sound then the lights disappeared.  I thought I was seeing things but I kept watching the sky and then about 2 minutes later another triangle flew over zero sound very high speed but this one appeared to be two triangle attached same exact light pattern.  It flew south then the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150227.html](http://www.nuforc.org/webreports/reports/150/S150227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rock Creek Lake (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Ball of Light flies around high Sierra narrow canyon for 40 minutes on severely windy dawn6:00am at 9,700 ft. elevation in narrow, sierra canyon.  Bright ball of light (unidentified flying object) flew around canyon, appearing to be never more than 15 miles away from observation location, seemingly unaffected by 50-70 MPH storm winds rolling through the region. Ball of light, UFO, flew around and through small clouds.  Light from the UFO sometimes reflected on the passing clouds.  Was observed for a full 40 minutes until witness had to break observation. No recording device was available.No sound was noticed from the UFO, nor was there any sign of propellers or exhaust.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59535.html](http://www.nuforc.org/webreports/reports/059/S59535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
