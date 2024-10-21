@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving my kids to school out in Ypsilanti this am (7 am to be exact), it was still dark outside.  As I was driving my daughter said "look" over on the right side, it's a triangle shaped object with 3 bright lights flying low.  At first I ignored her, shrugging it off believing it was an airplane.  But as I tried to stare at it while driving, I noticed it was getting lower and it didn't resemble an airplane.  The flying object was shaped like an triangle with 3 bright lights that formed to a triangle.  My daughter grabbed her phone and snapped a picture.  As her flasher went off, the triangle object quickly shifted towards our car, flying low, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130741.html](http://www.nuforc.org/webreports/reports/130/S130741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Equinunk (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 Streaks of light  in the southwest sky at sunset travelling left to right.Streaks of light appeared that resembled vapor trails only shorter.  They appeared to be following each other and appeared one at a time from out of nowhere.  We thought they could be part of the meteor shower that was supposed to occur the previous night.  However, one of the streaks changed direction.  It was travelling from right to left, but then followed the others left to right.  This occured in the southwest sky.  Our house is on a high cliff and we are able to see quite a distance over the mountain tops.  We are on the Delaware River and this occurred over New York State noy PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47155.html](http://www.nuforc.org/webreports/reports/047/S47155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
