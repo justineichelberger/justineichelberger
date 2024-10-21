@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:30 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Princeton Jct (NJ) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165019.html](http://www.nuforc.org/webreports/reports/165/S165019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Castile (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>sighting of aerial object @ letchworth state park NYOn the 21st of October, 2007, My fiance' and I visited Letchworth State park to photograph the changing season along the gorges and waterfalls. As we stood at the "Archery range Observation point" My attention was drawn to the color effects on a cloud bank by the setting sun. In the sky at that time were several identifiable objects, two airliners with visible contrails and an ultralight aircraft. What caught my attention however was a very bright almost teardrop shaped "light" that seemed to remain stationary below the cloud bank. At first i thought it was the setting sun reflection of a third airliner, however the other two did not display such a bright reflection, nor did their contrails. The ultra light craft was on the opposite side of the sky and much much lower in altitude. I did manage to capture the light on my digital camera, though the photograph is rather inconclusive. I also had the opportunity to view it through my binoculars.It appeared to be somewhat spherical with what looked like an upward "trident" glow or aura. I have sketches in my field notes. the entire "sighting" took roughly 3 or 4 minutes before the object disappeared behind the distant tree line. If this was in fact an airplane reflecting the sun, I've never seen the effect before, and having grown up along the flight path of the Rochester International Airport I am pretty familiar with the profiles and various weather effects on flying aircraft viewed from the ground. Anyone wishing to see the photograph, and a more detailed description, feel free to email me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70663.html](http://www.nuforc.org/webreports/reports/070/S70663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
