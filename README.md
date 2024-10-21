@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bucksport (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Moving sphere in the skyI saw one sphere overhead to the left of the moon.I thought it was venus at first but it started to move south.It continued down until it disappeared in the shadow of the earth.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59362.html](http://www.nuforc.org/webreports/reports/059/S59362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Three yellow lights in a row parallel to the horizon moving slowly in an up and down motion and a side to side.I woke up to use the restroom around 2:30 AM and upon my return to bed my wife said she saw a three lighted object in the sky.  I looked at where she was pointing and noticed three lights moving up and down then side to side in a lazy slower way.  The lights were yellow in color and a little bigger than a big star in the sky.  They would grow brighter then fade almost to nothing. They were parallel to the horizon, in a line with each other, and close together.I grabbed my binoculars and steadied them to the side if the window pane to get a closer look. Upon seeing them I also noticed four fainter light "beams" emitting from the UFO in a direction of NE. SE. EW. SW.We were both excited to see our first UFO and thought it wouldn't happen again but to both of our surprises  it happened again last night, (10/24/14) which is why I am writing this report.  I got smarter and while it was happening last night I download a night sky app to see where in the sky I was seeing it.  The lights were in between Jupiter and the star Algeiba. It has happened around the same time for two nights as far as we noticed.  Hope someone else sees them one night too!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114836.html](http://www.nuforc.org/webreports/reports/114/S114836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
