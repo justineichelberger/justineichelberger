@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:29 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Equinunk (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 Streaks of light  in the southwest sky at sunset travelling left to right.Streaks of light appeared that resembled vapor trails only shorter.  They appeared to be following each other and appeared one at a time from out of nowhere.  We thought they could be part of the meteor shower that was supposed to occur the previous night.  However, one of the streaks changed direction.  It was travelling from right to left, but then followed the others left to right.  This occured in the southwest sky.  Our house is on a high cliff and we are able to see quite a distance over the mountain tops.  We are on the Delaware River and this occurred over New York State noy PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47155.html](http://www.nuforc.org/webreports/reports/047/S47155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bluff (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>following a green fireball, a red light appeared on Comb Ridge.Just after an extremely bright meteor, which I guess was a fireball (it lit the entire sky, and was greenish in color,) I saw a UFO on Comb Ridge. It was a red color. It was in the area where the meteor dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16151.html](http://www.nuforc.org/webreports/reports/016/S16151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
