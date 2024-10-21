@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Webb City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright ball of light in Webb CityThis was at night about 30 minutes past sunset in a residential neighborhood. The UFO was spotted already moving in the sky from West to East. At first, I thought it was a small plane like a crop duster since there’s a local airport about 1/2 mile northwest of my location. However, a plane had just taken off and could be seen and heard headed South and was much larger in appearance. This UFO looked like a light orange ball of light and seemed to maintain a constant speed. As it passed directly overheard I listened for sounds of whirring if it were a drone, but heard none. A jet took off from the airport shortly after it passed directly overhead and appeared to be headed in the direction of the UFO. By the time it reached the UFO, you could tell the UFO was much higher in the sky. The jet turned north a bit and the UFO fell beyond my line of sight. Due to the difference in heights, it was hard to compare sizes, but it looked like it would still be smaller tha! n the jet had they been at the same height. The light was much brighter coming from the UFO than the jet’s lights despite the jet having been closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160125.html](http://www.nuforc.org/webreports/reports/160/S160125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Equinunk (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 Streaks of light  in the southwest sky at sunset travelling left to right.Streaks of light appeared that resembled vapor trails only shorter.  They appeared to be following each other and appeared one at a time from out of nowhere.  We thought they could be part of the meteor shower that was supposed to occur the previous night.  However, one of the streaks changed direction.  It was travelling from right to left, but then followed the others left to right.  This occured in the southwest sky.  Our house is on a high cliff and we are able to see quite a distance over the mountain tops.  We are on the Delaware River and this occurred over New York State noy PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47155.html](http://www.nuforc.org/webreports/reports/047/S47155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
