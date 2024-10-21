@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>changing colored object seen by  manyhovering over suburban neighborhoodmy son and nephew were playing catch with a football when they came running in to myself and my wife that there was something flying in the sky changing colors.  We went outside to see and looked up to the south and seen these weird lights that were moving in circular motion in the sky.  The lights were changing colors from blue and red to all green and then purple, to nothing, but you could still see that it was like a black dot moving, it looked like it was moving far away like miles and coming back close.  It then moved behind the tree line so that we couldnt see it,  At that point we had realized some neighbors from across the street had been standing there watching it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93754.html](http://www.nuforc.org/webreports/reports/093/S93754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>Red/Orange Lights Near Myrtle Beach 10/21/2014Around 21:30 hours (9:30 p.m.) on Tuesday, October 21, 2014, two reddish-orange colored "fireballs" appeared off the coast of southern Myrtle Beach, SC, around 1.6 miles from the Myrtle Beach International Airport.  The objects were different sizes, one larger and the second somewhat smaller.  From the shore line, the objects were in an easterly direction over the ocean.  At the time of the sighting, the lights did not move at all and no audible noise came from the direction of the objects.  There was also no reflection of the objects on the surface of the ocean.  Within a minute of the initial sighting, the objects disappeared from view; the larger one disappeared first and then the smaller one.  No further lights were seen that night.  The next day, several customers of the same hotel reported seeing the same lights around the same time, but none of them were together when the sightings were made.  It appears these are the same lights that have been repo! rted in the area of Myrtle Beach and vicinity over the last several years, including numerous sightings in early October of this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114724.html](http://www.nuforc.org/webreports/reports/114/S114724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
