@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Disc Like ObjectRelflective object that we thought was a plane but realized planes don't have their lights on during the day time right after we said that it vanished into the clear blue</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66375.html](http://www.nuforc.org/webreports/reports/066/S66375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waterloo (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Crescent shaped object zig-zagging WNW above Waterloo, Ontario, CanadaIt was about 1:30 in the morning, and I was walking back to my friend's apartment.  I looked up at the stars, and saw what I believed to be a satellite going over.  The problem was, however, that there was a shape to the object, and that it deviated from its straight course of flight.  The object appeared to be quite high, and crescent-like in shape.  Its general direction was roughly WNW, and changed its course several times, almost zig-zagging.  After a few seconds, it moved behind some trees, so I moved a few feet over, and couldn't re-locate it.  I realize that this is pretty vague, and probably isn't of much use to you.  Sorry!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14652.html](http://www.nuforc.org/webreports/reports/014/S14652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
