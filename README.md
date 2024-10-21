@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waterloo (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Crescent shaped object zig-zagging WNW above Waterloo, Ontario, CanadaIt was about 1:30 in the morning, and I was walking back to my friend's apartment.  I looked up at the stars, and saw what I believed to be a satellite going over.  The problem was, however, that there was a shape to the object, and that it deviated from its straight course of flight.  The object appeared to be quite high, and crescent-like in shape.  Its general direction was roughly WNW, and changed its course several times, almost zig-zagging.  After a few seconds, it moved behind some trees, so I moved a few feet over, and couldn't re-locate it.  I realize that this is pretty vague, and probably isn't of much use to you.  Sorry!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14652.html](http://www.nuforc.org/webreports/reports/014/S14652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Webb City (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright ball of light in Webb CityThis was at night about 30 minutes past sunset in a residential neighborhood. The UFO was spotted already moving in the sky from West to East. At first, I thought it was a small plane like a crop duster since there’s a local airport about 1/2 mile northwest of my location. However, a plane had just taken off and could be seen and heard headed South and was much larger in appearance. This UFO looked like a light orange ball of light and seemed to maintain a constant speed. As it passed directly overheard I listened for sounds of whirring if it were a drone, but heard none. A jet took off from the airport shortly after it passed directly overhead and appeared to be headed in the direction of the UFO. By the time it reached the UFO, you could tell the UFO was much higher in the sky. The jet turned north a bit and the UFO fell beyond my line of sight. Due to the difference in heights, it was hard to compare sizes, but it looked like it would still be smaller tha! n the jet had they been at the same height. The light was much brighter coming from the UFO than the jet’s lights despite the jet having been closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160125.html](http://www.nuforc.org/webreports/reports/160/S160125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
