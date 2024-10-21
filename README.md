@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:42 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Daly City (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I had just arrived home from a nlcs game loss.  We got off the car to go inside and I looked up and noticed the oddity of the moon and clouds.  My husband was halfway up the stairs when I demanded he come back down to accompany me while I took the camera from its case & captured it on film.  I snapped two pictures consecutively which took only a second.  (Time stamp says pics were taken 1 minute apart but it was really only seconds.)  I did not see the blue orb while taking the picture and only noticed weeks later after reviewing the film</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120126.html](http://www.nuforc.org/webreports/reports/120/S120126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bowmanville (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Bright blue lights, about 8, some in formation.Bright blue light objects southeast direction toward Lake Ontario, about 8 objects some stationary, some moving quickly.  What stood out were 3 lined up one above the other, close proximity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143543.html](http://www.nuforc.org/webreports/reports/143/S143543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
