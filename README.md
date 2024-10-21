@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:58 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>well i was just outside looking at regular aircraft (live near airport) then i see 5-7 shiny flying spheres about 4000 ft in the air , it was at sunset so you could really see them shinning</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84684.html](http://www.nuforc.org/webreports/reports/084/S84684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was sitting in the family room of my home with windows facing North toward backyard when my attention was suddenly drawn to a very bright blue-white light flying horizontally  across the sky. The light traveled at a very high rate of speed visible for only a second or two and was followed by a tail like a meteor as it streaked by. I calculate that the light was very large, measuring the size of my small finger nail at arms length. The light which appeared to be in our atmosphere was heading west in a horizontal position at about 40 degrees off the horizon. I went outside immediately to check the sky for conditions or meteor shower activity and found it to be a clear sky no cloud cover and saw no meteor activity in a twenty minute time period. The light had to have been very bright to have shown so distinct and bright against several backyard lights that I had on at the time. I am a UFO investigator for MUFON.See summary description above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10385.html](http://www.nuforc.org/webreports/reports/010/S10385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
