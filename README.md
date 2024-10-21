@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6 orange orbs appearing in quick succession in a horizontal line above the ocean.Orange orbs that are frequently seen in the area. Event started when 2 orbs appeared and faded out in quick succession over the Atlantic Ocean at roughly 8:50 pm.  At 8:58 6 orbs appeared and faded, evenly spaced apart moving horizontally across the night sky. Each orb appeared about a second after the last and "burned" for roughly a second before fading away.  Visually they were each about 2 "orb widths" apart.  Definitely appears to be more of a flame than a filament or LED light.  A helicopter with a searchlight flew over the area roughly 10 minutes after the incident. Decent black and white (better contrast) video on my instagram, user name: rxnbeats.  Will send unfiltered video in email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114905.html](http://www.nuforc.org/webreports/reports/114/S114905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While looking for shooting stars southward at Orion, I caught a orange orb - NO FLASHING LIGHTS - traveling east to west at about the speed of a jet liner.  It disappeared for a brief second before reappearing for a few more seconds and then disappeared for good.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123165.html](http://www.nuforc.org/webreports/reports/123/S123165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
