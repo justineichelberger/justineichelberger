@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in mile marker 41 garden state parkway (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange fireball objects in sky in new jerseyDriving on garden state parkway we noticed 3 orange fireball like objects in sky. There were approximately 20 vehicles pulled over taking video and pictures.  The objects picked up speed and sporadic movement.  They climbed elevation quickly.  No sounds or other aircraft visible.  The sky is clear and about 50 degrees farenheit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84718.html](http://www.nuforc.org/webreports/reports/084/S84718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dover (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>To whom this may concern and please take seriously, We could not contact or find a no. to call.While looking at the northen star on 10/22/03 noticed movement below it.Also shaped like a star from the long distance we looked upon it we knew it wasn't.I'm sure you hear this all but this thing hovered,slowly then zipped back and forth and stopped momentarily and continued to do this for hours.Also it seemed to have something like a halo around it.My partner said the light sometime changed to red and green.3 hours later i went out curious and it was still there but still slowly moving west like before.Then i noticed the other,directly to the east,doing exactly the same as the one i just described.There were 2 of them.The second one not moving as rapidly as the first but still darting back and forth.It wasn't a plane and to my knowledge satellites don't hover and then zig zag all over and then hover again,this movement was far to rapid.Was truly amazing to watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32661.html](http://www.nuforc.org/webreports/reports/032/S32661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
