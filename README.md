@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Picayune (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>Two disk shaped objects at first thought to be mylar balloons or kites in the distanceI was sitting by my front door when I heard the dogs in the neighborhood barking and I noticed a disk shaped object approximately 75-100 feet off the ground traveling from the Southwest to Northeasterly direction. When I first noticed it in the distance, I thought at first someone was burning something and it was ash floating in the air, but quickly realized it was too solid to be ash.  I noticed a man in a car that I did not recognize stopped in front of my driveway to stick his head out of the window and looked up. He pulled into my driveway and turned around and I wondered if he had followed the object from another area in my subdivision.  It appeared to be "drifting" with the wind. I looked back in the direction from where it came because I heard children yelling to one another, "What is that!?"  It was then I saw a second identical object.  At first I thought they were kites or mylar balloons.  They appeared to tilt and roll, which I attributed to the very slight wind, and I do mean slight.  When they turned a certain way they were almost invisible.  They certainly were close enough to the ground as they passed over my head that I could see a kind of silvery outer edge with a bronze color center, although they did not "bend" and appeared to be a hard surface.  It made no sound at all and I saw no strings or wires coming from them. They were relatively small - appearing to be 4-5 feet in diameter. While I am not labeling this as anything significant, I cannot say I've ever seen that kind of material before. It also occurs to me that a neighbor and I talk occasionally about how there are unexplained power outages in my neighborhood for no apparent reason fairly frequently.  In fact, there have been two in the last couple of weeks when the weather was perfectly fine. In fact, the last one I heard a strange sound in the distance just before it went out. While I have heard a transformer blow before, this sound was not like that, although I can't describe it.  I am a 44 year old professional woman who works for a government agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39899.html](http://www.nuforc.org/webreports/reports/039/S39899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large colorful rapidly flashing ball of light in eastern Cincinnati, OH.I was outside with my dog, and as i was going back inside i noticed a very large circular ball of light in the sky of to my south east.  It was coming out of the south west moving north east very slowly, at a very low altitude.  The object was flashing bright colors very fast, about as fast a a strobe light, I called to my father but he only saw it for a brief moment before it pasted behind the tree line, where we could still see it through the trees right before we sight of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93770.html](http://www.nuforc.org/webreports/reports/093/S93770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
