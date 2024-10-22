@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:47 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Clairsville (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This object had what seemed to be headlights flashing different colors at the center ofwhat appeared to be a disk-shaped object.  On either side of the panel of colored ligghts, we saw a series of white lights.  It seemed that orange-gold beams shone from the left and right edges of the craft.  The craft hovered over the malls at exit 2180 on I-70.  The craft appeared to remain stationary for about 8-10 minutes, then began to rise and move in a south-west direction.  In a brief time, it had climbed so high and move so far to the southwest, we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25754.html](http://www.nuforc.org/webreports/reports/025/S25754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fox Lake (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>About 15 fireballs in the sky, likely chinese lanterns.My girlfriend and I were traveling east on Rollins road in Fox Lake and saw about 15 lights on the horizon.  As we got closer, we noticed them slowly moving to the south or southwest.  As we passed the Fox Lake Metra station, I noticed someone had pulled over to watch.  There is a bar just past that on the left and that is where I believe Chinese lanterns were launched from because that is about where we passed under several of them.  They were probably around 50 to 75 feet in the air and looked like lanterns in the sky.   As we approached Wilson road, I noticed another car pulled over with 3 or 4 people watching.  It was pretty cool until we were underneath them and I was convinced they were nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84720.html](http://www.nuforc.org/webreports/reports/084/S84720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
