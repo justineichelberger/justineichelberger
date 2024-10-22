@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fox Lake (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>About 15 fireballs in the sky, likely chinese lanterns.My girlfriend and I were traveling east on Rollins road in Fox Lake and saw about 15 lights on the horizon.  As we got closer, we noticed them slowly moving to the south or southwest.  As we passed the Fox Lake Metra station, I noticed someone had pulled over to watch.  There is a bar just past that on the left and that is where I believe Chinese lanterns were launched from because that is about where we passed under several of them.  They were probably around 50 to 75 feet in the air and looked like lanterns in the sky.   As we approached Wilson road, I noticed another car pulled over with 3 or 4 people watching.  It was pretty cool until we were underneath them and I was convinced they were nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84720.html](http://www.nuforc.org/webreports/reports/084/S84720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brattleboro (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright lights hovering low in west brattleboro/marlboroI was observing the sky from my backyard in my usual manner when I saw a very bright light which I knew to be out of place.  I looked at to see if it may be an errant airplane.  The object seemed to remain stationary, changing position only slightly but with no regularity.  The light was low and to the west from my position in West Brattleboro, seemingly over Marlboro or the Sunset Lake Area.  I showed my child's nurse with a binocular and she confirmed my observation and stated she had seen a similar object a few days previous.  This object is still present as I write this report and I can see it out my window in the sky it is a white light with maybe some coloring on the outside edges orange.  And I think I just saw a smaller object circle it and disappear near it.((NUFORC Note:  Possible sighting of Venus, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103475.html](http://www.nuforc.org/webreports/reports/103/S103475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
