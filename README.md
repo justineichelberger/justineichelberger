@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salisbury (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>up to 3 objects spotted now for 2 years. would love to have answers!!My husband and I have been noticing these objects for 2 years. Just the other nigh 10/22/12... I finally was able to get a few up close photos. I t has never been within distance for my camera to pick up. I cannot get the camcorder to pick it up, buy as I said, we finally got some shots. It's usually between 10-1am we spot them.  We have seen as many as 3 at a time. What caught our eyes to eyes to begin with,  it's extremely bright so you can't miss it.  You then will notice either a green air blue light along with red & orange only when it's bobbling then goeIs to the left then to the right then it will make a cone type shape with a bright white light then shoot strait up.It ill repeat the process . I</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93833.html](http://www.nuforc.org/webreports/reports/093/S93833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Franklin (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Circular object with vivid red and white lights.Last night I stepped out into my backyard about 8:30 pm and out a distance from me through a tree clearing I saw a round object with red and white vivid bright lights hovering with no noise what so ever.  It seemed to be spinning but not so fast that I could not make out the light colors.  I was in shock and walked closer to my door in fear but continued to watch.  And then it just disappeared. It was definitely not an airplane.  My dog was outside with me and began barking as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123105.html](http://www.nuforc.org/webreports/reports/123/S123105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
