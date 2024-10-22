@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:47 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plymouth (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Cigar-shaped object with a white light on the front and a blinking red light on the back.  Moving at an extremely fast pace.My dad and I were coming out of my high school to the parking lot.  In the sky, we saw a very slow moving object with a white light in the front and a flashing red light in the back.  It made a sort of faint humming sound.  We started to follow the object and we got pretty close.  Then all of a sudden, is disappeared, after around 15 minutes, we located it again and it was parallel to the road we were on.  It was probably about a quarter mile to right of us no more than 500 feet in the sky.  It started to move very fast and we were going 40 mph and this object was going faster than us from a quarter mile away.  It had to at least been going 300mph+.  Then it just disappeared.  We searched for around 10 more minutes, but we did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123040.html](http://www.nuforc.org/webreports/reports/123/S123040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Clairsville (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This object had what seemed to be headlights flashing different colors at the center ofwhat appeared to be a disk-shaped object.  On either side of the panel of colored ligghts, we saw a series of white lights.  It seemed that orange-gold beams shone from the left and right edges of the craft.  The craft hovered over the malls at exit 2180 on I-70.  The craft appeared to remain stationary for about 8-10 minutes, then began to rise and move in a south-west direction.  In a brief time, it had climbed so high and move so far to the southwest, we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25754.html](http://www.nuforc.org/webreports/reports/025/S25754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
