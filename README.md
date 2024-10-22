@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orb UAPs with a misty object hovering close byUAPs 10/22/20 1:54:54 PM  It was early afternoon and I was driving on an outer service road heading to the grocery store. It was a mostly clear day and I noticed some chem-trail activity in the sky when an airplane came into my view. It seemed a bit odd-shaped and I wasn’t quite sure if I was seeing an airplane or something else. My phone was close by so I took a quick picture. When I got home, I looked at the picture and was surprised to see some orb-like UAPs with a misty object hovering close by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160255.html](http://www.nuforc.org/webreports/reports/160/S160255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red light moving over Chicago's South Suburbs during White Sox World Series.We were attending a Boy Scout campout and bonfire at Camp Falcon in the Cook County Forest Preserves in Tinley Park, a very densely populated area. (Most people in Chicago were at home watching the first game of the World Series that the White Sox were playing.) The night sky was very clear and starry. At about 8:35 p.m.,  in the east/southeast sky, about 35 degrees above the horizon, several of us parents noticed a bright light that we assumed was a airplane moving toward our location many miles off.  The light did not fly in a straight line and we all took notice of this. The motion of the light was very fluid back and forth as it flew toward our location from the east.  As the light approached closer, still miles away, the light became larger and red in color and the light from it appeared to have  rays or spikes  radiating from the center (like a stereotypical depiction of a bright star/star of Bethlehem).  The light began to dramatically fall some distance.  It grew much brighter and glowed orange-red, and we all assumed this must be a giant meteor coming down. It did not fall too far though, and again gained some altitude, started flying again and proceeded extremely fast mainly south-southwest.  It was never flying in a straight line and always wandering from side-to-side or up-and-down. It then appeared to explode, but the light did not disappear, it again looked more white and flew very fast far to the south.  We lost sight of it as it went over the tree line. The light never got very close to our campsite and at the highest was about 50-55 degrees up from the horizon.  There were about 200 people present, most of whom were paying attention to scout activities around a very large campfire.  I would estimate that about 20 to 30 people were actively watching this strange light with amazement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47211.html](http://www.nuforc.org/webreports/reports/047/S47211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
