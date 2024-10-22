@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brattleboro (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright lights hovering low in west brattleboro/marlboroI was observing the sky from my backyard in my usual manner when I saw a very bright light which I knew to be out of place.  I looked at to see if it may be an errant airplane.  The object seemed to remain stationary, changing position only slightly but with no regularity.  The light was low and to the west from my position in West Brattleboro, seemingly over Marlboro or the Sunset Lake Area.  I showed my child's nurse with a binocular and she confirmed my observation and stated she had seen a similar object a few days previous.  This object is still present as I write this report and I can see it out my window in the sky it is a white light with maybe some coloring on the outside edges orange.  And I think I just saw a smaller object circle it and disappear near it.((NUFORC Note:  Possible sighting of Venus, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103475.html](http://www.nuforc.org/webreports/reports/103/S103475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orb UAPs with a misty object hovering close byUAPs 10/22/20 1:54:54 PM  It was early afternoon and I was driving on an outer service road heading to the grocery store. It was a mostly clear day and I noticed some chem-trail activity in the sky when an airplane came into my view. It seemed a bit odd-shaped and I wasn’t quite sure if I was seeing an airplane or something else. My phone was close by so I took a quick picture. When I got home, I looked at the picture and was surprised to see some orb-like UAPs with a misty object hovering close by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160255.html](http://www.nuforc.org/webreports/reports/160/S160255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
