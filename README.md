@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Prescott (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Standing on my balcony, me and my fiancé noticed a bunch of faint lights flickering in a group, they moved slowly shining 5 lights then 7-9 then back and forth.  These lights were not real bright but moved across the sky until they went passed the mountain and we couldn't see them anymore.  There was no sound, it was silent and creepy!  Only thing heard at this time were a couple dogs making noise, howling.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103513.html](http://www.nuforc.org/webreports/reports/103/S103513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Nearly stationary teardrop shaped with short contrail over Richland CountyAt approximately 3:00 in the afternoon, my adult daughter and her husband phoned me at work from another part of town to tell me they were watching an unidentified tear-drop shaped object in the south-western sky and they wanted to know if I had heard about anything that it could be. I went into a co-worker's office with a south-facing window and we both observed the object which appeared to be at least a couple of miles into the sky, over in the direction of the southern-most part of Richland County. The object didn't look tear-shaped from our angle, however, it was more like a very short contrail, the way you would think a meteor would look, however, it wasn't moving enough to be an airplane. It just stayed there, adn eventually got smaller and disappeared. I went back to my office and phoned my daughter and she said they watched the object until it disappeared as well. They tried to video tape it but it wasn't showing up on their phone camera.  Our local t! elevision station said no one has called anything in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78519.html](http://www.nuforc.org/webreports/reports/078/S78519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
