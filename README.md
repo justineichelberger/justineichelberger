@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aston (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was taking my trash out and see a very blue shaped ball,   This ball came from the sky and came down next to me it changed.  Colors from blue to yellow then mixed colors,  it moved around  me and  would change shape.  I was in fear but I could not move.  Then it took off I was able to get pictures it is really crazy to see it change color and shape,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123137.html](http://www.nuforc.org/webreports/reports/123/S123137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Not sure it was UFO related, however I saw three bright lights in a straight line, and what was odd about one was that it was far TOO large and bell-shaped and was surrounded by what I can only describe as lines of light much like arrows or spider-legs surrounding it.  I also saw the object quicky merge with what I believe was a star and for a split second I saw that thet had conjoined before changing back to its odd shape.  What stood out were the lines of light surrounding the main object.  I think the other two objects were stars however the third star was red and may have been a planet so I am not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123028.html](http://www.nuforc.org/webreports/reports/123/S123028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
