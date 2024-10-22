@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 21 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>Red/Orange Lights Near Myrtle Beach 10/21/2014Around 21:30 hours (9:30 p.m.) on Tuesday, October 21, 2014, two reddish-orange colored "fireballs" appeared off the coast of southern Myrtle Beach, SC, around 1.6 miles from the Myrtle Beach International Airport.  The objects were different sizes, one larger and the second somewhat smaller.  From the shore line, the objects were in an easterly direction over the ocean.  At the time of the sighting, the lights did not move at all and no audible noise came from the direction of the objects.  There was also no reflection of the objects on the surface of the ocean.  Within a minute of the initial sighting, the objects disappeared from view; the larger one disappeared first and then the smaller one.  No further lights were seen that night.  The next day, several customers of the same hotel reported seeing the same lights around the same time, but none of them were together when the sightings were made.  It appears these are the same lights that have been repo! rted in the area of Myrtle Beach and vicinity over the last several years, including numerous sightings in early October of this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114724.html](http://www.nuforc.org/webreports/reports/114/S114724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Noiseless, extremely fast pair of lights.Every evening I step outside, if it's clear, and stare at the sky for 5 minutes or so.  This particular evening I was looking at a couple of jetliners crossing the sky when, immediately over my head I observed two dim lights, next to each other, moving quite rapidly from North to South.  It was probably only five seconds or so until this thing was out of sight as it was moving extremely fast, unlike the planes that seemed to crawl across the sky.  This object made no sound whatsoever.  I went out an hour later and was lucky enough to observe the ISS flying over, but did not see the object again.Whatever it was was VERY fast and was definitely a structured flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103693.html](http://www.nuforc.org/webreports/reports/103/S103693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
