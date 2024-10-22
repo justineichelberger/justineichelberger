@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Franklin (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Circular object with vivid red and white lights.Last night I stepped out into my backyard about 8:30 pm and out a distance from me through a tree clearing I saw a round object with red and white vivid bright lights hovering with no noise what so ever.  It seemed to be spinning but not so fast that I could not make out the light colors.  I was in shock and walked closer to my door in fear but continued to watch.  And then it just disappeared. It was definitely not an airplane.  My dog was outside with me and began barking as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123105.html](http://www.nuforc.org/webreports/reports/123/S123105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aston (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was taking my trash out and see a very blue shaped ball,   This ball came from the sky and came down next to me it changed.  Colors from blue to yellow then mixed colors,  it moved around  me and  would change shape.  I was in fear but I could not move.  Then it took off I was able to get pictures it is really crazy to see it change color and shape,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123137.html](http://www.nuforc.org/webreports/reports/123/S123137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
