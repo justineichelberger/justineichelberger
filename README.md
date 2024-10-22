@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Noiseless, extremely fast pair of lights.Every evening I step outside, if it's clear, and stare at the sky for 5 minutes or so.  This particular evening I was looking at a couple of jetliners crossing the sky when, immediately over my head I observed two dim lights, next to each other, moving quite rapidly from North to South.  It was probably only five seconds or so until this thing was out of sight as it was moving extremely fast, unlike the planes that seemed to crawl across the sky.  This object made no sound whatsoever.  I went out an hour later and was lucky enough to observe the ISS flying over, but did not see the object again.Whatever it was was VERY fast and was definitely a structured flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103693.html](http://www.nuforc.org/webreports/reports/103/S103693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plymouth (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Cigar-shaped object with a white light on the front and a blinking red light on the back.  Moving at an extremely fast pace.My dad and I were coming out of my high school to the parking lot.  In the sky, we saw a very slow moving object with a white light in the front and a flashing red light in the back.  It made a sort of faint humming sound.  We started to follow the object and we got pretty close.  Then all of a sudden, is disappeared, after around 15 minutes, we located it again and it was parallel to the road we were on.  It was probably about a quarter mile to right of us no more than 500 feet in the sky.  It started to move very fast and we were going 40 mph and this object was going faster than us from a quarter mile away.  It had to at least been going 300mph+.  Then it just disappeared.  We searched for around 10 more minutes, but we did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123040.html](http://www.nuforc.org/webreports/reports/123/S123040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
