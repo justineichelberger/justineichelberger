@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 22 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was low to the ground, stationary and had three bright white lights in a triangular formation, with no sound.I was driving home on an October evening (mid to late October). I was on Fanshaw Park Road, heading west. I saw to the left of me, off the main road and in a sub-division known in London as Richmond Hill, a strange object. I saw a series of 3 lights in a triangular formation. I thought at the time, it was the lights from a radio tower but I never remembered seeing one there before. (I drove by this area for many years.)   What struck me as rather odd was how low this formation was and the absence of sound.  It seemed to be about 40 feet above the road (over double the height of a hydro pole).  Then I thought maybe it was a helicopter hovering over this area...but again, no sound.  Plus it was very steady, whereas a helicopter tends to hover and shift.  I remember nearly getting into a car accident because I slowed down and was trying to get a better look. Unfortunately the traffic was too heavy for me to turn around to check it out more thoroughly. The next day, I drove by the area and there was no radio tower...so I realized that this must have been an ufo sighting. The fact that it was low to the ground, the light was white and rather bright at the bottom of the ship caught my attention.  Also, it was dark above so I couldn't see the top of it, but I believe there were 3 lights coming from the bottom.  I think there may have been a fourth light but it was red, which is why I must have assumed it was a radio tower.  Unfortunately, I was traveling a good speed at the time so that detail was a bit hazy.  Plus it happened 2 1/2 years ago. I'm sure I wrote this down in my journal.  But I'm currently not living in Canada so I can't verify the details or the exact date.  I do remember the month because it was still warm enough to drive with the window down, which is why I found it so odd that there wasn't any sound.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43197.html](http://www.nuforc.org/webreports/reports/043/S43197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Prescott (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Standing on my balcony, me and my fiancé noticed a bunch of faint lights flickering in a group, they moved slowly shining 5 lights then 7-9 then back and forth.  These lights were not real bright but moved across the sky until they went passed the mountain and we couldn't see them anymore.  There was no sound, it was silent and creepy!  Only thing heard at this time were a couple dogs making noise, howling.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103513.html](http://www.nuforc.org/webreports/reports/103/S103513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
