@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:27 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>On the morning of 10/23/16, my husband called me out to our back yard to look into the sky to show me he saw a white orange star making erratic movements in the sky which coincided with a shooting star.  I can say that I definitely saw exactly what he described.  I noticed that just before this light in the sky zig zagged it got much brighter.  This star moved side to side and up and down continually for several hours before dawn.  This occurred on the dark side of the moon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130779.html](http://www.nuforc.org/webreports/reports/130/S130779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Choctaw (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.041666666666666664 - 0.041666666666666664 minutes.</sub><blockquote><sub>Bluish white disk with trail behind itBluish white half saucer.  Electric blue and white on it.  Saw it for 2 and a half seconds.  Faster than any jet I have ever seen and I live by an Air Force base. It had a long trail behind it.  It went from left to right we were facing North.  It was really far away and it disappeared.  I saw it with my Dad when we were out walking our dog, ((dog's name deleted)).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103518.html](http://www.nuforc.org/webreports/reports/103/S103518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
