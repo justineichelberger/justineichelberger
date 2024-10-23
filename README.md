@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:18 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:04 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big Brown Bird in night sky like a huge V no wing movement.So i step outside for a cigarette and start watching the sky facing east.  Suddenly something blurry drifts past my vision.  I turn my head to watch where its going.  It looked almost brown compared to the sky.  It was in the shape of a V.  It flew really low compared to an airplane.  It wasnt as big as a 747 it think theyre called.  But way bigger than a bird. I ran to the other side of the building to confirm but it faded form my sight.  Like it got to far away to see. It was flying south. It had no lights, and no sound.  It seemed to just glide.  It seemed to slow to stay in the air.  For a moment I thought it was my eyes playing a trick on me but it blocked star light as it passed. Im certain I saw something but I still wanna know if anyone else saw it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103548.html](http://www.nuforc.org/webreports/reports/103/S103548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Our group at approximately 7:30 PM witnessed approximately 60 to 70 bright gold spheres.  Most were in triangle formations one large formation had about 12 of these spheres placed at a great distance apart to appear to be a very large triangle.  Some of the other spheres were in smaller triangle formation others were in random spots.  There was no sound other then the sound of several helicopters that seemed to be moving away from the lights.  They all just faded away into the night sky as they appeared to be climbing higher and higher.  Approximately 5-7 minutes after the first large group of lights one more very intense gold light appeared and slowly moved skyward no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84741.html](http://www.nuforc.org/webreports/reports/084/S84741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
