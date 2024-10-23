@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boyertown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red orange ball of fireI was attending the Boyertown Halloween parade with my 3 kids and I had gotten distracted by 3 reddish orange objects in the sky.  They kind of looked like a fireball.  Just kind of slowly hovering/flying.  I really dont know how to explain it.  I know I'm not the only one that saw these things someone else posted via internet about seeing these things too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78601.html](http://www.nuforc.org/webreports/reports/078/S78601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangle with Orange Lights Swooped Down Quickly then Disappeared.At 19:40 on 10/23/11, I looked out of my window.  I saw a Triangle Craft Swoop Down Quickly in a downward curve.  Then it Completely Disappeared Fluidly.  I've got no Idea what it was I haven't seen anything since. I was weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84753.html](http://www.nuforc.org/webreports/reports/084/S84753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
