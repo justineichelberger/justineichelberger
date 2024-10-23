@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Car lights in the sky passing over the highway from Wellington, Ks.Two lights passing over the car on a highway between Wellington and Haysville.  The lights were large and appeared to have a grid pattern and were spaced like car headlights.  It moved slowly from west to east.  One person thought they had seen  a red tail light.  I did not see the red light.  We drove on after a brief stop.  I could only see the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59391.html](http://www.nuforc.org/webreports/reports/059/S59391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Queretaro City (Mexico) () reported seeing craft that fit the description of some '' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>published in a local diary "diario de queretaro", it says many people have seen UFO's in my city,  The date of the newspaper is 10/25/2010, queretaro city, mexico. http://www.oem.com.mx/diariodequeretaro/portada_impresa.aspx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78555.html](http://www.nuforc.org/webreports/reports/078/S78555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
