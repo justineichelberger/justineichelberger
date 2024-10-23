@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orleans (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Erratic Object in the Sky Cape Cod, Mass.First of all I wasn't going to report this, but figured it may be of value if anyone else may have seen it. I was looking up at the sky around 8pm (20:00) in an open area with little light pollution. Due to this the sky was clear and the stars were very visible. I noticed the object moving across the sky from east to west at a very high speed. It was a small white bright light. I initially thought it was a shooting star until the object made a sharp 90 degree turn and began heading south. It continued on this track for a short period of time before it did a full somewhat drawn out circle and then continued off west until it disappeared/I lost sight. There was a near by plane for scale that was much larger than the object and moving at a much much slower speed. The object was smaller than the stars around it and appeared to be a little smaller then the plane in the distance, but was much higher in the sky than the plane. It was too far away to make out a shap! e, but looked like a bright glowing sphere. Once again this object was moving very fast and was very erratic. Wanted to submit this incase anyone else may have seen it. Not sure what I saw, but it was certainly a very strange/interesting experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150152.html](http://www.nuforc.org/webreports/reports/150/S150152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boyertown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red orange ball of fireI was attending the Boyertown Halloween parade with my 3 kids and I had gotten distracted by 3 reddish orange objects in the sky.  They kind of looked like a fireball.  Just kind of slowly hovering/flying.  I really dont know how to explain it.  I know I'm not the only one that saw these things someone else posted via internet about seeing these things too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78601.html](http://www.nuforc.org/webreports/reports/078/S78601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
