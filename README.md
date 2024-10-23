@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:27 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Choctaw (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.041666666666666664 - 0.041666666666666664 minutes.</sub><blockquote><sub>Bluish white disk with trail behind itBluish white half saucer.  Electric blue and white on it.  Saw it for 2 and a half seconds.  Faster than any jet I have ever seen and I live by an Air Force base. It had a long trail behind it.  It went from left to right we were facing North.  It was really far away and it disappeared.  I saw it with my Dad when we were out walking our dog, ((dog's name deleted)).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103518.html](http://www.nuforc.org/webreports/reports/103/S103518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellicott City (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>Two white rectangular objects hovering in sky just before sunset.  Two white rectangular objects about 20 - 25 degrees above the eastern horizon.  Noticed three consecutive days between 6:15 and 6:30 pm.  Same distance apart each day.  Objects were stagnant and hovered (no movement in either horizontal or vertical direction).They were not emitting light because they were getting dimmer as it was getting darker indicating they reflecting off light from Sun.  As they were higher up in the sky than trees objects and homes on ground, they were brighter as long as sun set completely in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123124.html](http://www.nuforc.org/webreports/reports/123/S123124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
