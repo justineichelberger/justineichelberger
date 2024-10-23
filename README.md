@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pembroke Pines (FL) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Orange and yellow spheres sighted on Pembroke Pines sky traveling from east to west direction.It was 7:53pm driving home east to west Pines Boulevard saw 2orange and yellow spheres static close to 911memorial monument iclser to the shopping plaza.  They got separated from each other snd one contine to west direction and dimmed , then the second followed the same path and dimmed towards west.  Then another sphere appeared in the sky abd did the same thing, then 3 exact spheres start lined up and continue together and then 1 minute later the last obe followed the same west direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130790.html](http://www.nuforc.org/webreports/reports/130/S130790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Norwood (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three dots forming a triangle, Bright gold and glowing white. Moved up and down and sideways,slowly.Stopped and hovered then disappeared.there were 2 triangle shaped pods and one big dot.one triangle shaped and the dot flew to the side,went back,and went down and dissapered.the other triangle just sat there and went forward and then moved back.We all went back about 15 minutes later and the dot one came back really slow and just hovered.then it went down and dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10321.html](http://www.nuforc.org/webreports/reports/010/S10321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
