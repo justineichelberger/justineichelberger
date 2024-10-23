@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jenner (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed what I thought was a planet with a reflection, that ended up moving and then disappearing.My friend and I walked to this bench at Stillwater cove at 0100.  I commented on how bright the stars were and pointed to what I thought was a planet.  I said that planet is so bright.  I have never seen a planet have a reflection on the ocean.  My friend said it looks like a beam of light. It stood completely still for maybe a total of ten minutes.  We both kind've chuckled and joked it was a space craft.  Suddenly it moved to the left and then to the right and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66496.html](http://www.nuforc.org/webreports/reports/066/S66496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Big Cedar (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>What appears to be a star moves across the sky above Ouachita National Forest.I was in the Ouachita National Forest in a scenic overlook off the Talimena Scenic Drive.  I was in the overlook at about 34.6801 north and 94.6325 west (visible at http://terraserver-usa.com/image.aspx?T=1&S=10&Z=15&X=1752&Y=19193&W=1 ).  I was lying on a wooden bench very early in the morning admiring all the features visible in the sky far away from the city.  I was looking in a direction approximately parallel to the direction of the scenic overlook drive, south-southeast.  I was alone, and I know of no one else who saw this. While I was looking at the stars, I saw one, fairly high in the sky, start to move.  From my perspective, it appeared to move downward, toward the south-southeastern horizon.  It looked like all the other stars.  I saw no other movement, other than airplanes, in the sky.  I watched it for about 15 seconds, during which it moved from being fairly high in the sky to being fairly low, when it was hidden behind some clouds.  I had seen several meteors before I saw this star move.  The star moved too slowly to be a meteor and there was no trail behind it.  The only oddity about the star, other than the movement, was that it appeared to flicker or twinkle less than the others.  After it caught my attention, it appeared to be more solid than the other stars.  I could not see how far away it was or how quickly it was moving, except that it was on the other side of the clouds.  The sky around the star was clear until it moved behind clouds that were low in the sky.  While I was watching the star move, the sky was clear in its vicinity and I saw many other stars near it.  The apparent movement was not caused by movement of clouds.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42263.html](http://www.nuforc.org/webreports/reports/042/S42263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
