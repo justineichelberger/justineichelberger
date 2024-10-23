@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>was in hot tub facing East South East toward pisces, when suddenly appeared 3 bright lights in a iso triangle shape, the stars were not visible yet and air traffic to LAX very obvious with nav lights.  The light last for about 10 secs., then the bottom right light faded to invisible, followed by the bottom left light fading away followed by the top light fading.  I grabbed my iPhone and opened Sky Guide app.  The screen shot revealed on Sky watch said that there 2 rockets named C. 2228 and C. 1328  I guess the third was not there on sky watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136945.html](http://www.nuforc.org/webreports/reports/136/S136945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fake Star above Wasilla 10-23-11 Only visible light in the sky Period.Was Driving from Big Lake, AK towards Wasilla on Parks Hwy. Sky was completely black No visible moon and not a star to be seen in sky save for 1 very bright white light that remained staionary directly above the city of wasilla.  Would say it was located above town by  The hospital by Wal-Mart. It was unusual because it was the only star looking object in the entire sky. As i drove into town the "star" slowly dimend every ten mins about. I pulled over by Mug Shot Saloon to get out my Bi-noculars for a better look at the object. At that time the "star" was going very dim to the point of almost disapearing. There was NO Twinkle or alternating colors like a star demonstrates. It would go dim then get very solidly bright! I have never seen such an unusual stationary light in the dark sky. I already considered that it may be cloud cover that would be causing This star to be visable but it would also leave room for a few more stars to show through wich they did not.! Also this light seemed to be very low in the sky which is what first caught my attention.. Alot more to say but in the end it just disappeared by going dim to a small speck of light. I sat and watched for ten more minutes but it did not re-appear. I continued driving and still did not see any other stars visible or other lights 30 mins later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84758.html](http://www.nuforc.org/webreports/reports/084/S84758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
