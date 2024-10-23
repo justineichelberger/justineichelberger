@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:19 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:18 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Seattle Sighting of Comet or Meteor like formation.During the 7:00 am break at Tect Aerospace factory we spotted a strange comet like light in the sky much brighter than any we have witnessed before.  It was very brilliant with a long tail like projection and disappeared over the horizon after a period of 20 to 30 min. We may have missed the begining of the event, but at least 25 of us witness the event.  We all have many years experience in observing contrails and such other common occurence and most of us that have military experience agree it was no contrail did anyone else see this event?  We'd like to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59398.html](http://www.nuforc.org/webreports/reports/059/S59398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big Brown Bird in night sky like a huge V no wing movement.So i step outside for a cigarette and start watching the sky facing east.  Suddenly something blurry drifts past my vision.  I turn my head to watch where its going.  It looked almost brown compared to the sky.  It was in the shape of a V.  It flew really low compared to an airplane.  It wasnt as big as a 747 it think theyre called.  But way bigger than a bird. I ran to the other side of the building to confirm but it faded form my sight.  Like it got to far away to see. It was flying south. It had no lights, and no sound.  It seemed to just glide.  It seemed to slow to stay in the air.  For a moment I thought it was my eyes playing a trick on me but it blocked star light as it passed. Im certain I saw something but I still wanna know if anyone else saw it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103548.html](http://www.nuforc.org/webreports/reports/103/S103548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
