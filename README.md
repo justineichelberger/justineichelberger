@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:04 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Jackson (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Our group at approximately 7:30 PM witnessed approximately 60 to 70 bright gold spheres.  Most were in triangle formations one large formation had about 12 of these spheres placed at a great distance apart to appear to be a very large triangle.  Some of the other spheres were in smaller triangle formation others were in random spots.  There was no sound other then the sound of several helicopters that seemed to be moving away from the lights.  They all just faded away into the night sky as they appeared to be climbing higher and higher.  Approximately 5-7 minutes after the first large group of lights one more very intense gold light appeared and slowly moved skyward no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84741.html](http://www.nuforc.org/webreports/reports/084/S84741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>At first it was a huge ball of light so bright after looking at it I saw spots.  It faded to darkness and came back three times.  After than it took the shape of a cigar and there were many red lights on the bottom of it but it illuminated a white light from the front.  Again it did this 2 times switching from bright white ball to cigar shaped red then as it started to move south another  cigar shaped object with red lights conjoined with the white light from the first object, it went super huge bright white light and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150151.html](http://www.nuforc.org/webreports/reports/150/S150151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
