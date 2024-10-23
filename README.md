@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Queretaro City (Mexico) () reported seeing craft that fit the description of some '' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>published in a local diary "diario de queretaro", it says many people have seen UFO's in my city,  The date of the newspaper is 10/25/2010, queretaro city, mexico. http://www.oem.com.mx/diariodequeretaro/portada_impresa.aspx</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78555.html](http://www.nuforc.org/webreports/reports/078/S78555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green Orb seen in SW sky from Mukilteo ferry/beach. Appears to travel great distance in two seconds. Possible vapor cone in second picThis green orb wasn't seen until after I took the pictures and noticed it. I was just taking pictures of the sunset and didn't even notice the orb.  The pictures were taken from the Mukilteo to Whidbey Island ferry as it was loading cars. You can see the Mukilteo Beach Lighthouse to the left of the photos and Whidbey Island in the background, and the orb appears in the area of roughly the SW sky from Everett/Mukilteo. Two seconds maximum is the time between taking the pictures.  You can see how fast/far the orb moved in that small time frame, and there is also two birds flying together to the left of the orb that appear to have traveled ten-twenty or so feet to backup the two seconds. There is also absolutely no cloud movement at all. Also, something I found to be very interesting is what appears to be similar in appearance to a vapor cone in the second picture.  A vapor cone is what is created when a jet breaks the sound barrier at around Mach 1 speed. (I'm ! sure you already knew this). I can zoom in and see some vague details, but I'm sure you can zoom and see much more than my simple Dell. I would love to see anything you can find/see and hear your opinion.  Please let me know what you think. Background of the photographer is a middle aged woman that is in the medical field. Not a drug user and not too big into UFO's in general. I just thought I had to share and hope you can get some use from the pictures. That is all the details I can think of for now. Thank you for the time and effort with this site and what you do.  Take care.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Hence, we are unable to contact the source, in order to request that he forward the photos to our Center.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114812.html](http://www.nuforc.org/webreports/reports/114/S114812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
