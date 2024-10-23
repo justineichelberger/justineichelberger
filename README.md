@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Aircraft made no noise, it was black with, 2 red, 1 blue, and 1 white light, it flew a speed faster then anything  have seen before.Aircraft seen 10/23/02.The aircraft hovering over a house. The aircraft was gliding at a very slow pace  sometimes hovering app. 100 feet from ground. The object had 4 lights, all of them separated to each corner of the trianglangular shape. The aircraft was black and had 2 red, 1 blue and 1 white light, in the center of the craft. Then the craft flew of so fast we couldn't tell where it was it appeared as it diasppeared. then we saw it appear floating again above another house quite a distance a way. The aircraft no noise what so ever.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27721.html](http://www.nuforc.org/webreports/reports/027/S27721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>was in hot tub facing East South East toward pisces, when suddenly appeared 3 bright lights in a iso triangle shape, the stars were not visible yet and air traffic to LAX very obvious with nav lights.  The light last for about 10 secs., then the bottom right light faded to invisible, followed by the bottom left light fading away followed by the top light fading.  I grabbed my iPhone and opened Sky Guide app.  The screen shot revealed on Sky watch said that there 2 rockets named C. 2228 and C. 1328  I guess the third was not there on sky watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136945.html](http://www.nuforc.org/webreports/reports/136/S136945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
