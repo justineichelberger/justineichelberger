@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>At first it was a huge ball of light so bright after looking at it I saw spots.  It faded to darkness and came back three times.  After than it took the shape of a cigar and there were many red lights on the bottom of it but it illuminated a white light from the front.  Again it did this 2 times switching from bright white ball to cigar shaped red then as it started to move south another  cigar shaped object with red lights conjoined with the white light from the first object, it went super huge bright white light and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150151.html](http://www.nuforc.org/webreports/reports/150/S150151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Aircraft made no noise, it was black with, 2 red, 1 blue, and 1 white light, it flew a speed faster then anything  have seen before.Aircraft seen 10/23/02.The aircraft hovering over a house. The aircraft was gliding at a very slow pace  sometimes hovering app. 100 feet from ground. The object had 4 lights, all of them separated to each corner of the trianglangular shape. The aircraft was black and had 2 red, 1 blue and 1 white light, in the center of the craft. Then the craft flew of so fast we couldn't tell where it was it appeared as it diasppeared. then we saw it appear floating again above another house quite a distance a way. The aircraft no noise what so ever.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27721.html](http://www.nuforc.org/webreports/reports/027/S27721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
