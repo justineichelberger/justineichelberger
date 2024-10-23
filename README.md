@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangle with Orange Lights Swooped Down Quickly then Disappeared.At 19:40 on 10/23/11, I looked out of my window.  I saw a Triangle Craft Swoop Down Quickly in a downward curve.  Then it Completely Disappeared Fluidly.  I've got no Idea what it was I haven't seen anything since. I was weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84753.html](http://www.nuforc.org/webreports/reports/084/S84753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cave Creek ( N. Scottsdale border) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At least four bright objects hovered for several minutes, then randomly moved slowly up and down while becoming very intense when descending.  One object shot off at extreme speed.I am filing this report in behalf of my family as follows; Four white completely silent objects were seen northeast of 64th. St and Peak View Rd. Cave Creek, Az. at 6:40 P.M.  The entire sighting lasted approximately 20 minutes and was witnessed by 4 people ages 20,  (daughter)48(wife), 71(mother in law), and 72(father in law). The objects appeared approximately 30 degrees above the horizon and were initially spaced approximately 1 foot apart at arms length as they   moved about randomly in the same general area. The objects were at different altitudes initially then one object began to descend slowly. During descent the object became very bright (appeared to become larger).  The objects seemed to take turns descending and rising. While observing one object, another instantly appeared appeared next to it (seemed to come from knowhere). There were no other lights associated with each object (only one light source). One observer stated that when the objects lowered the light changed it shape to become somewhat pointed on the top and bottom and thicker in the middle. The same observer indicated that the size of the objects were about the same size as a standard household lightbulb at about 150 ft. distance. Another characteristic of the objects is that they would become dimmer when moving but becomming noticeably brighter when hovering or descending. Two of the observers reported that one of the objects shot off at an extreme speed almost too fast to follow at an approximate 30 degree angle upward and disappeared. No aircraft were in the area at the time of the sighting. All observers are of sound mind and have stated that they have never seen anything as bizzare as this.  We all frequently see aircraft landing lights for all types of aircraft since we are north of Scottsdale airport, Deer Valley Airport, and Phoenix Sky Harbor airport but these objects were distinctly different not only in appearance but movement. This writer is a company Vice President, Aerospace Engineer, and licensed pilot and very experienced with many different types of military and commercial aircraft and aviation technology in general. I interviewed each observer to obtain as accurate an account as possible.  I personally missed the sighting by approximately 10 minutes when returning from work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05351.html](http://www.nuforc.org/webreports/reports/005/S05351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
