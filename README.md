@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bloomignton (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>7 flashing lights and about 2 car alarms going off.When I looked in the sky one night, i saw a circle for about 5 seconds then a beam of light for about 10 more seconds.  I knew it wasn't an airplane because it didn't have red and green blinking lights. I saw a circle with white light on the sides of it. I tried to point it out to my brother but, the beam was already gone.  So, the next morning I looked up if any type of planes are circular, from what I found.  No.  Today, I still don't know what it is but, from UFO sightings I heard before, they all about match up.  And I think, it was a UFO.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91025.html](http://www.nuforc.org/webreports/reports/091/S91025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Jenner (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed what I thought was a planet with a reflection, that ended up moving and then disappearing.My friend and I walked to this bench at Stillwater cove at 0100.  I commented on how bright the stars were and pointed to what I thought was a planet.  I said that planet is so bright.  I have never seen a planet have a reflection on the ocean.  My friend said it looks like a beam of light. It stood completely still for maybe a total of ten minutes.  We both kind've chuckled and joked it was a space craft.  Suddenly it moved to the left and then to the right and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66496.html](http://www.nuforc.org/webreports/reports/066/S66496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
