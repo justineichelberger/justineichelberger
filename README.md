@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 23 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Norwood (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three dots forming a triangle, Bright gold and glowing white. Moved up and down and sideways,slowly.Stopped and hovered then disappeared.there were 2 triangle shaped pods and one big dot.one triangle shaped and the dot flew to the side,went back,and went down and dissapered.the other triangle just sat there and went forward and then moved back.We all went back about 15 minutes later and the dot one came back really slow and just hovered.then it went down and dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10321.html](http://www.nuforc.org/webreports/reports/010/S10321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wellington (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Car lights in the sky passing over the highway from Wellington, Ks.Two lights passing over the car on a highway between Wellington and Haysville.  The lights were large and appeared to have a grid pattern and were spaced like car headlights.  It moved slowly from west to east.  One person thought they had seen  a red tail light.  I did not see the red light.  We drove on after a brief stop.  I could only see the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59391.html](http://www.nuforc.org/webreports/reports/059/S59391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
