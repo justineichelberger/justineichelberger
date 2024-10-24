@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I WAS SITTING IN MY TV ROOM AT 12:00AM WHEN I SAW TWO NEON GREEN CIRCLESDROPPING AT A RAPID SPEED TO THE LAKE (LAKE ONTARIO)IT WAS AS CLEAR AS DAY I SAW THEM NO COLOUR CHANGE STRAIGHT NEON GREEN THEY MUST HAVE  HIT THHE WATER.I AM 1 MILE  FROM THE LAKE AND THEY DID NOT PULL UP.THEY DROPPED IN THE SOUTH EAST DIRECTION .((NUFROC Note:  Caller emphasized that the objects were perfectly spherical, and they did not flare up or fade as they moved through the atmosphere, as meteors frequently do.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10297.html](http://www.nuforc.org/webreports/reports/010/S10297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving in the car with friends when one of them pointed out what they thought was a shooting star. We all looked up at the 'star' and it turned out to be this big, long string of lights that was moving very rapidly.  We watched it as I drove for about 3 minutes and then all 5 of us suddenly lost sight of it. The craft was very long and looked like a string of Christmas lights, moving perfectly straight through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160185.html](http://www.nuforc.org/webreports/reports/160/S160185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
