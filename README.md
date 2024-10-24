@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rolling Meadows (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>cigar form ship , 3 light on board 2 on corners on in center. speed was so fast . was fog around ship . also size of ship close to empire state building. visually was moving from rock ford city to Lake of Michigan way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160196.html](http://www.nuforc.org/webreports/reports/160/S160196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Brisbane (Australia) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>There was a group of 5 objects in the sky heading over the seaI was on a walk with my dog when I saw fast moving objects heading over the sea.  They were only there for about 30 seconds but there were 5 of them moving in a chevron-like shape.  My dog barked at them while they were in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165062.html](http://www.nuforc.org/webreports/reports/165/S165062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
