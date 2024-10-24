@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>White ball of light traveling across the night sky.At about 1:00 AM Pacific standard time I looked South out my patio door and saw what appeared to be a white light approaching in the distance. Appeared at first to be the light from a helicopter coming towards me however it appeared to turn west and began to accelerate towards the Pacific Ocean at a 45 degree angle and continued at a decent speed until no longer visible, like if it continued at that angle it would go into orbit. I thought it must have been a rocket launch but it was just a ball of white light.  There were no flashing lights like a jet or some other type of aircraft and no sound. It did not have exhaust like I’ve seen before on a rocket launch but when it turned and accelerated the light seemed to trail slightly behind it like a teardrop till it was too small to see anymore. I wish I grabbed my phone but I knew I wouldn’t get it in time. It really bothered me because I couldn’t explain it. Couldn’t find any reports of a rocket launch either f! or that evening. Never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150072.html](http://www.nuforc.org/webreports/reports/150/S150072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast moving red lights over fort collins, co.Extremely fast-moving object with cluster of red lights moving in circular pattern, disappeared suddenly.  Moved west to east direction.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136954.html](http://www.nuforc.org/webreports/reports/136/S136954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
