@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lauderhill (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stonebridge Gardens, Lauderhill, FL spacecraft sighting in wake of Hurricane Wilma 10/24/2005Following in the wake of Hurricane Wilma, residents of Stonebride Gardens Condo complex, now vacant, saw a grey/silver oval vehicle hover above a building in Section One in the SW quadrant of the complex. The craft then began to make forward progress in an easterly direction toward the city of Fort Lauderdale. The entire sighting took less than one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57280.html](http://www.nuforc.org/webreports/reports/057/S57280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long UFO seen from sterling heightsA long cigar shaped ship moving East following a small star.  The ship had 15-20 lights, and looked as if it was in our atmosphere, or that close.  I would say at that distance it much of been 3/4 mile long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160226.html](http://www.nuforc.org/webreports/reports/160/S160226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
