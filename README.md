@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving in the car with friends when one of them pointed out what they thought was a shooting star. We all looked up at the 'star' and it turned out to be this big, long string of lights that was moving very rapidly.  We watched it as I drove for about 3 minutes and then all 5 of us suddenly lost sight of it. The craft was very long and looked like a string of Christmas lights, moving perfectly straight through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160185.html](http://www.nuforc.org/webreports/reports/160/S160185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>soft-white glowballMy stepsister and I were looking out my bedroom window on the second story.  I saw a soft white glowball gliding at about a foot above the ground moving through our yard.  I said, "Oh my God, do you see that?"  She said yes.  It raised up about 6 feet above ground. I said, "Oh my God, it can see us, it can hear us....it is coming over here".  My stepsister screamed and fell to the bedroom floor.  I looked back at her and then back at the window.  I saw nothing in the yard, but then this soft whitish glowball crept up from the window below to show itself right in front of me in the window.  I looked into it trying to fixate on something concrete but could not..it was like looking into an endless thing.  Next, I felt this temendous feeling of joy, euphoria of love...nothing I have ever experience in this life.  Then, a butterfly fluttering in my chest.  I became uncertain and then I felt three thumps in my chest.  Each stronger than the one before.  I decided then to say "hi" and wave to it.  It ripped out of my body making me feel like it took something from me. The glowball flew across the street over a house.  My senses for the next few weeks were heightened.  I have not slept well since this happened.  I have had a glowball light enter my dreams only a few times during the course of the last 31 years.  On 10/3/04 it happened and I was slightly asleep, more awake than not.  3:00 am, and it came in a small dream.  My body levitated up to it, I stopped breathing for 10 seconds and returned to my body.  I saw a light when my eyes were closed in the dark, like I had been looking at a light for awhile.  There is more, but I have to go now.  Please have a UFO expert contact me.  Thank you,  ((name deleted))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40720.html](http://www.nuforc.org/webreports/reports/040/S40720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
