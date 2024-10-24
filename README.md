@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Downers Grove (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bizzare shaped object that looked like the planet Saturn appeared out of nowhere, and dissapearedAt the time of this sighting, I was a junior in High school, Im now about to graduate college.  Im a normal, level headed person, and what i saw that night absolutely freaked me out beyond belief. Me and two friends were just hagning outside my house, when all of a sudden i looked up and saw the most bizzare thing I have ever seen.  This blueish/purple ball with spinning rotating neon rings was just hovering just over the trees in a manner i have never seen. It didnt look like a convential ufo, or a blimp, or plane, and it was eerily silent.  It looked like something from another world!  The thought that it was some type of conventional aircraft never even crossed my mind. I instantly just knew I was looking at something completely out of place. The three of us just freaked out. My friends went to chase it, and I ran inside to get my dad. By the time I came out, they lost it. We were about to go inside, when we saw a a blimp that said 'sanyo'. Traveling in normal blimp fasion, headed westward over I-88.  We then brushed this off as what we saw all along, feeling stupid for waking up my dad, and thinking we saw a ufo.  The wierd thing is we never mentioned it again. 5 years have passed since then, and Im not convinced that what we originally saw was a blimp. Common sense and logic say that it was a blimp that we first saw, but  I know what I saw, and still believe we saw two different objects that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42046.html](http://www.nuforc.org/webreports/reports/042/S42046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Brookfield (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long shaped craft. multiple lights horizontalyLeaving my house to go to the store, we pass by an old farm field.  While talking with my son, I'm looking west out drivers side window.  I see lots of planes flying high in the sky. Another object catches my eye. A flat long rectangular shaped craft with multiple lights side by side flying in a level plane at about 1-1.5K. The objects seems to be less than 2 miles from where we are. Moving slowly from west to east.  I ask my son what he sees?  I stopped the car and both of us got out to see what type of craft.  I turned off the car to listen, no noise.  We watched as the object started to take a more south east trajectory and it seemed as thou the object started to climb in elevation. What ever it was, as the elevation rose, the lights on it seemed to be getting dimmer the higher it got.  The lights seems to go out as if passing through clouds, but no clouds in the sky. Clear night.  From my stand point, the 1/2 moon was in the southern sky and as planes had flown through the moon light, you could see the siloghett of the plane.  This object as it flew through the mooon light could not be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160244.html](http://www.nuforc.org/webreports/reports/160/S160244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
