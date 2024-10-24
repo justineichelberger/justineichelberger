@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Strange Happenings in Houston 2003For about the past two weeks, my partner and I have been seeing a strange occurence in the sky at night when we go out to smoke a cigarette. At approx 1:30 every few nights we have been seeing an object flying without lights in the sky flying out of the south at a very high velocity. The only lights on the object are the ones from the city below. There is no noise, almost like as if you were to be watching a bunch of balloons fly by at a fast rate of speed. Usually when we aren't looking for it is when we see it. It is the shape of a rectangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32647.html](http://www.nuforc.org/webreports/reports/032/S32647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Duncan (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Long maybe 16 lights on side the same on the other side very uniform in the middle of the lights were longer lights that were spaced. I only wished that I would have had my camera phone, in my 67 years of living have ever seen any like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160208.html](http://www.nuforc.org/webreports/reports/160/S160208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
