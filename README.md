@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Crestline (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver disk seen above San Bernardino Valley (5 minutes).Saw silver disk in air above San Bernardino Valley while driving.  Object was stationary for 5 minutes before disappearing suddenly.  Couldn't explain it, but called UFO hotline to make a report (later declined).  Was visited by large man from out of town (6'5'', 250lbs) in local bar (never saw him before) same week.  Actually, no one ever saw him before.  At the time, I was living in the mountains and didn't visit town very often.  He bought me a drink and started asking me questions, referring to things that I'd only know about in my life.  It was creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104443.html](http://www.nuforc.org/webreports/reports/104/S104443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colonial Beach (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange lights were hovering in the sky.Bright pins of light were just hanging in the sky.  They sort of looked like stars.  I think there were helicopters circling it.  They appeared stationary and then they would suddenly zip to the side and fade.  (I feel insane describing it this way but I'm not the only one who saw this.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130804.html](http://www.nuforc.org/webreports/reports/130/S130804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
