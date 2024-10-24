@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:02 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Brookfield (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long shaped craft. multiple lights horizontalyLeaving my house to go to the store, we pass by an old farm field.  While talking with my son, I'm looking west out drivers side window.  I see lots of planes flying high in the sky. Another object catches my eye. A flat long rectangular shaped craft with multiple lights side by side flying in a level plane at about 1-1.5K. The objects seems to be less than 2 miles from where we are. Moving slowly from west to east.  I ask my son what he sees?  I stopped the car and both of us got out to see what type of craft.  I turned off the car to listen, no noise.  We watched as the object started to take a more south east trajectory and it seemed as thou the object started to climb in elevation. What ever it was, as the elevation rose, the lights on it seemed to be getting dimmer the higher it got.  The lights seems to go out as if passing through clouds, but no clouds in the sky. Clear night.  From my stand point, the 1/2 moon was in the southern sky and as planes had flown through the moon light, you could see the siloghett of the plane.  This object as it flew through the mooon light could not be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160244.html](http://www.nuforc.org/webreports/reports/160/S160244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange-Red light over Buckeye, fades away.My fiance had texted me as he got off the 10, heading towards home because he likes me to meet him outside so we can have a cigarette before going in for the evening.  Our house faces South and when he parked his car, he was leaning against it, facing West.  I was standing about a foot away from him and noticed a strange orange-red light that was circular in shape, with a section from the center missing. It was almost as if the light were two seperate pieces and were not stuck all the way together.  I said "What the hell is that?" and he turned to look.There were clouds in the sky, so at first we thought it was possibly a plane and the light was reflecting through the clouds but it slowly faded from view as if on a dimmer switch.  Right after it had faded all the way out, two more lights popped up, right next to where the other had just been.  They shimmered in and then faded out as well, almost as quickly as they had come.Neither of us were sure what we had seen, but with the Luke Boys flying overhead all the time, among with all the other planes we see flying in, we are pretty familiar with our skies.  This was like nothing else.We have witnessed other phenomenon like this, but never as close as this felt.  I am hoping we weren't the only two people to see this, which is one of the reasons why I am reporting this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84910.html](http://www.nuforc.org/webreports/reports/084/S84910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
