@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:02 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange-Red light over Buckeye, fades away.My fiance had texted me as he got off the 10, heading towards home because he likes me to meet him outside so we can have a cigarette before going in for the evening.  Our house faces South and when he parked his car, he was leaning against it, facing West.  I was standing about a foot away from him and noticed a strange orange-red light that was circular in shape, with a section from the center missing. It was almost as if the light were two seperate pieces and were not stuck all the way together.  I said "What the hell is that?" and he turned to look.There were clouds in the sky, so at first we thought it was possibly a plane and the light was reflecting through the clouds but it slowly faded from view as if on a dimmer switch.  Right after it had faded all the way out, two more lights popped up, right next to where the other had just been.  They shimmered in and then faded out as well, almost as quickly as they had come.Neither of us were sure what we had seen, but with the Luke Boys flying overhead all the time, among with all the other planes we see flying in, we are pretty familiar with our skies.  This was like nothing else.We have witnessed other phenomenon like this, but never as close as this felt.  I am hoping we weren't the only two people to see this, which is one of the reasons why I am reporting this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84910.html](http://www.nuforc.org/webreports/reports/084/S84910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>White ball of light traveling across the night sky.At about 1:00 AM Pacific standard time I looked South out my patio door and saw what appeared to be a white light approaching in the distance. Appeared at first to be the light from a helicopter coming towards me however it appeared to turn west and began to accelerate towards the Pacific Ocean at a 45 degree angle and continued at a decent speed until no longer visible, like if it continued at that angle it would go into orbit. I thought it must have been a rocket launch but it was just a ball of white light.  There were no flashing lights like a jet or some other type of aircraft and no sound. It did not have exhaust like I’ve seen before on a rocket launch but when it turned and accelerated the light seemed to trail slightly behind it like a teardrop till it was too small to see anymore. I wish I grabbed my phone but I knew I wouldn’t get it in time. It really bothered me because I couldn’t explain it. Couldn’t find any reports of a rocket launch either f! or that evening. Never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150072.html](http://www.nuforc.org/webreports/reports/150/S150072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
