@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Man calls to relay sighting of "very large white light in sky."  Obj. developed "tail like comet."  Other observers.  Called police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00920.html](http://www.nuforc.org/webreports/reports/000/S00920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>i seen two ufos,one last sep,2002  near crum wv,one  oct 24,2003  on 64 going to huntington wv,they both was triangle shpedtonight my husband,our son,and myself was driving to huntington   wv,from crum wv.ok we had just gotton on 64,and we saw a huge triangle shaped object  , with red lights and white lights flashing,it was  just at the tree tops,only it was hovering,not moving at all,my son and me both are like , look at that! ,my husband said ,oh thats a plane,we was close to the airport, but this wasnt a plane ,the shape,the way it just stayed in one place, of course my husband was driving,and could not not keep his eye on it,  to get a real good look at it  because if he had he would have realized it wasn't a plane ,if he had not ben with us i would have stopped the car to  watch it, i  also seen a ufo last year,in september,my other son was with me,and his friend,it was in a rural place, 3 miles from crum wv ,at trip side, it was near midnight,there was no lights around ,no houses,in the area where we saw this ufo,it was triangle shaped,it had blue lights ,and it had a glowing  hue around it,and a humming  sound,like when you are around a power house,this thing was hovering  right on top of the trees,we all  said what in the world is that? i pulled over and got out of the car the boys was  yelling get back in here, there was the rail road tracks and the tug fork river,and it was on my side of the river,the river borders on kentucky,i was close to this thing,about  200 foot i could see it good,it was like  watching a  movie,i could not belive my eyes i was scared but more  dazed and almost entraced as i walked closer to it,then it zipped away i dont know how long i watched it but it seemed like a long time ,an then like a second ,  its so strange it was like  time  meant nothing ,i know that sounds stranger but i could have ben watching it for a hour i dont know,its like a dream  you lay down and dream and get up the next day and  you dont know how long you dreamed you just  know you did  and was it real or not ,but this was no dream,but a dream like state where time dosent mean nothing time dosent matter,any way i went back to the  car  the boys was near tears,you are crazy,they told me,  i sit   there unable to belive  what i had just seen,  i felt like i hit the  lotterty, i was  in  shock,like in a trance it still seems so unreal i cant belive it , it seems too good to be true,that  close to a ufo,i thought about getting  hypontized to relive that night ,but any way  i asked a few folks around had they ever seen any thing weird around and i never told them about  what i had seen and three people seen the same thing at the same location ,now  they are here,im glad i had the chance too see them two times</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32649.html](http://www.nuforc.org/webreports/reports/032/S32649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
