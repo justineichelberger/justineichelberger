@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pittsburgh/New Castle (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Traveling East bound on I-76 (Penn. Turnpike) at mile marker 12/13. I witnessed an extremely bright blue almost welding torch like, flash across the sky at an incredible rate of speed. The entire highway and valley area was illuminated like day. This flash was a perfect straight line and then made almost a 45 degree turn banking to the southwest. The flash came directly from the North. At the end of this event the trail was still present and seemed to start to disapate from the south looking almost like a sparkler as it vaporized moving from the South to the North.((NUFORC Note:  Possible meteor.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40284.html](http://www.nuforc.org/webreports/reports/040/S40284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Have seen what I thought was 2 stars lined up for the past week so when I looked up just alittle bit ago I thought it was the same thing. I sat back in my chair in the back yard and just kept my eyes on sky when the 2 (what I thought were starts) went racing towards each other and raced off.  The one that was higher went below the orb on bottom and stopped and, not super fast but went to the east.  It was coming straight down then stop, then left.   The one on bottom just kept going up and has stopped way up in the sky and remains there still. I have no camera and my cell only shows black.  This was very cool.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123104.html](http://www.nuforc.org/webreports/reports/123/S123104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
