@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 24 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long UFO seen from sterling heightsA long cigar shaped ship moving East following a small star.  The ship had 15-20 lights, and looked as if it was in our atmosphere, or that close.  I would say at that distance it much of been 3/4 mile long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160226.html](http://www.nuforc.org/webreports/reports/160/S160226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Forestville (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Flashing Formation - Sonoma County, CaliforniaMy mother came into my room and said she saw a whole bunch of blinking lights in the sky. I went outside and checked... there was a formation of about 10 flashing lights, they did no move, just flashed, repeatedly at a steady pace. they were in the eastern sky and far enough away that i could not record them on film. UFO drawing did not show correctly on first submission, i will email a image drawing of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53091.html](http://www.nuforc.org/webreports/reports/053/S53091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
