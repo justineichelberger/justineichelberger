@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lights in the early am6:15 am got up to let the dogs out right before sunrise.  Noticed to the east clouds in the distance starting to turn pink…slightly higher up  in the sky closer to me there was one large light and one smaller light in a straight line that were close enough to suggest a craft not two independent objects, and oddly the lights were somewhat fuzzy like in a bit of fog yet no fog at all.  I had the FEELING OF O THAT IS NOT GOOD…why I don’t know.  It was silent, not moving and oddly out of focus.  It SEEMED that it was something there, not two stars.  I watched it, took the dogs in fed them, and went back out it was still there…5 minutes….came back in and returned to watch the sun rise as it was brightly colored and in another 5 minutes or so I kept checking and it was gone.  I just somehow knew it was an UFO but how I don’t know and clearly it left.  Took a photo looks like nothing exciting.((NUFORC Note:  Planets in the eastern sky??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123123.html](http://www.nuforc.org/webreports/reports/123/S123123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apex (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two white cylindrical objects sighted above Apex NCTwo white cigar-shaped or cylindrical objects sighted moving at a constant speed, bearing almost due north.  One object was further ahead of the second one, in other words it was further north, and the second object was south west of the first object.  They both appeared to be moving at the same speed.  The size and altitude was not clear, but I would estimate probably 6000 ft or so, because they moved behind or through the low cumulus clouds. They appeared to be the size of a small propeller plane, possibly larger due to perspective. No sound was audible from the objects, and there were no visible contrails or exhaust coming from the objects. The objects appeared to be white, perfect cylinders with a "pinch" in the middle, somewhat similar to the appearance of a single chromatid in a chromosome pair. I did see a glint sunlight reflected so they seem to be reflective. I did not see any lights blinking, flashing or anything other lights on the objects ! or emanating from the objects. Both objects moved north at a constant speed and did not have any erratic movements. The objects were visible for maybe 30-60 seconds as they glided silently before moving out of sight behind the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150111.html](http://www.nuforc.org/webreports/reports/150/S150111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
