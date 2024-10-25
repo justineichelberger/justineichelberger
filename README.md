@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A ball of light, almost hovering at times, in the skyAt approximately 0430 hours, I witnessed a bright ball ago light that moved in elevation and did radial maneuvers beyond any known U.S. technology.It lasted for about an hour but did not disappear, but simply left my viewing range. Perhaps others would have seen it longer.I am not one to take someone's word for anything.  I was in the U.S. Army.  My m.o.s. was 14 echo (patriot missile launching) so I am familiar with aerial identification.I can safely say this was not of man.  The size was hard to judge however because of the nature of the craft.  I would estimate it at about ten meters in diameter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114800.html](http://www.nuforc.org/webreports/reports/114/S114800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : A small V of lights moving very quickly from west to eastThe lights were small and round, like Christmas lights. The V was moving East to West, leading with the point. The lights were white, close to each other, and there were about 12-15 lights on each side of the V. It looked very far away, the shape was very small and the lights were quite dim. It was moving extremly fast, in less than a minute it was out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02788.html](http://www.nuforc.org/webreports/reports/002/S02788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
