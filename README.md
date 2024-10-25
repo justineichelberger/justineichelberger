@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Large low-flying craft with orb like lights in a cross shape.My 16 year old neice and 3 year old son were in the car.  He was sleeping  in his carseat. I exited I-235 westbound exit 5 -56th street and turned northbound on 56th street.  Immediately my niece and I simultaneously saw a large triangular ufo with many orb/sphere  like lights on the bottom.  There was a light at the point of each of the three angles in the triangle.  And a cross of lights from the top tip down.  It did have a sound it was very low to the tree line right over the hospice house there I shut the radio off and we were the only car right there.  The craft was large and was flying quickly in a nw motion swopped behind the trees and we turned to follow it and it literally disappeared behind the trees.  We didn't "see" it take off and we looked for it but couldn't find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103666.html](http://www.nuforc.org/webreports/reports/103/S103666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>bright circular object along Lake ErieA round brightly lighted object moved parallel to our car on interstate 90 eastbound.  The object moved faster than our car at about 60 MPH, came from behind and passed us and moved off to the east, remaining paralell in direction to the interstate.  Many observers noted this occurrence across the county from west to east and it was reported in local newspaper the next day.  Police officers were listed in the paper as some of the observers.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48689.html](http://www.nuforc.org/webreports/reports/048/S48689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
