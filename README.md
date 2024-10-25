@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milford (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 orange lights moving at high rate of speedover the course of 10 minn 6 objects came form a a southwestern direction moving northeast at a fairly high rate of speed passing over the tree line  objects were orange in color made no sound and had no trail to them((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103676.html](http://www.nuforc.org/webreports/reports/103/S103676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Cigar-shaped craft in front of moon.I initially spotted the craft when walking outside my apartment.  There were several people gathered and looking at it.  It was a bright light situated in front of the dark part of a crescent moon.  It seemed to be getting closer, so I decided to run to the store and purchase binoculars.  Viewing it through binoculars clearly showed two white lights and a dim cigar-shaped outline, which was corroborated by several bystanders both at the apartment and the parking lot of the store. After about 35-40 minutes, the object moved quickly out of the shadowed part of the moon and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111826.html](http://www.nuforc.org/webreports/reports/111/S111826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
