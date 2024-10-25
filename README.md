@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:44 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis (west) (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two black circular objects flying through storm clouds in rotating flight pattern.The sighting occurred within the hour. It was just before a rain storm. I was standing at the top of my street since it has a pretty good view over Manchester Road and out West towards Weidman and Mason Road. Black clouds were gathering and so I was watching. Something caught my eye to the right and I focused on what it was. It appeared to be two black objects flying in a circular pattern, almost parallel to each other. It wasn’t birds, it wasn’t clouds and it wasn’t just something caught in the wind. At least one of them I could tell had a definitive disk shape. It was hard to keep a steady view of the objects because they were flying through the low lying storm clouds. Just before they disappeared completely from view, one of them peaked directly through the clouds and it was then I could see the disc shape. I did not notice any lights, I did not notice any type of rotation of the objects, only that they were flying in a circular pattern. Their movement wa! s fast, about the speed of a helicopter circling an area. It definitely was not something natural. Right after they disappeared from view the wind picked up and the rain started to fall. I tried to look further, but could not see anything any more. It was a very shocking experience. It only lasted 30 seconds to 1 minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93872.html](http://www.nuforc.org/webreports/reports/093/S93872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white sphere with geometrical points surrounding and within circle, generating energy between points, seen in NW sky at night.White sphere in NW sky, seen several times at various hours of the night during past month.  First appeared as the brightest and biggest star or planet in that direction.  Caused us to view through a spotting scope when the object slowly moved up and down and left and right.  When magnified, the object appeared outlined in white with geometric bright points throughout the body of the sphere.  Energy waves pass between these points and also around the sphere.  Colors within the body appear blue and pinkish-orange.  Have depicted the sphere on clear star-filled nights and watched it hover around for 30 minutes and more.  It appears far away, but always sighted in the same direction.  After watching for some period of time, the object disappears and sometimes will reappear later on in the late evening or early morning.  Have seen it as early as 7:30 pm as well as after midnight and 2 and 3 am.  It seems to generate a strong energy within its circle.  It appears larger when sinking closer to the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123148.html](http://www.nuforc.org/webreports/reports/123/S123148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
