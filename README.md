@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:53 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:44 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bar Nunn (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were driving on I-25 getting off exit 194 when we both saw a huge circular shaped aircraft.  It had two bright lights as if they resembled car lights and it also had multiple colors like red, green, white. It seemed like it was “searching” for something and was hovering about 40 ft above a light pole.  The closer we got to the huge object we realized it wasn’t a helicopter it was much much bigger and oddly shaped.  It started distancing itself as we drove closer it went out to the open fields.  It became very bright then it was gone.  We didn’t see it anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151217.html](http://www.nuforc.org/webreports/reports/151/S151217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis (west) (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two black circular objects flying through storm clouds in rotating flight pattern.The sighting occurred within the hour. It was just before a rain storm. I was standing at the top of my street since it has a pretty good view over Manchester Road and out West towards Weidman and Mason Road. Black clouds were gathering and so I was watching. Something caught my eye to the right and I focused on what it was. It appeared to be two black objects flying in a circular pattern, almost parallel to each other. It wasn’t birds, it wasn’t clouds and it wasn’t just something caught in the wind. At least one of them I could tell had a definitive disk shape. It was hard to keep a steady view of the objects because they were flying through the low lying storm clouds. Just before they disappeared completely from view, one of them peaked directly through the clouds and it was then I could see the disc shape. I did not notice any lights, I did not notice any type of rotation of the objects, only that they were flying in a circular pattern. Their movement wa! s fast, about the speed of a helicopter circling an area. It definitely was not something natural. Right after they disappeared from view the wind picked up and the rain started to fall. I tried to look further, but could not see anything any more. It was a very shocking experience. It only lasted 30 seconds to 1 minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93872.html](http://www.nuforc.org/webreports/reports/093/S93872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
