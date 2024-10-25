@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:21 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fire orbs orbit eachother in the skyIt looked as though there were two bright circular orange orbs with long tapered spark/fire trails following them that were orbiting eachother untill they met in the middle and then were gone, seemed to be high in the sky but decent in size</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150077.html](http://www.nuforc.org/webreports/reports/150/S150077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in M. Fokani/Hims (Syria) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cold blue lightrealy i'm too late but it is more than illusions....I was told by a lady she can hardly read and write ...that in 25/10/2004 at 4:21 in the morning her two little childs told her that she must go and say what is going on ....through the window she could see a spherical body about the size of 17'' computer monitor with many lights turning on its surface landing in shadow of the near hous in a small dark yard... but as soon as she opened the window ....a low and cold (she felt it ..cold) blue light scan her face and the sphere disappear immediately...…and i wanna tell you that a star-like objects cross our sky every two or three days ..and it can't be planes cause I know that very well????((NUFORC Note:  We do not know what the blue object was.  However, the objects that are seen to pass across the sky may be satellites, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47263.html](http://www.nuforc.org/webreports/reports/047/S47263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
