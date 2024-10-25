@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large object bright red w/white lights and three smaller individual objects in SE sky in northwest Washington State across from BC CAI was driving when at 20:24 PST  I noticed a large bright object in the Southeast sky with a lot of red and also some white light. It was shaped like an upside down right trapezoid or a tweaked sideways parallelogram and as I was wondering satellite or maybe a planet that was really close. I then noticed three smaller lights (2 white/yellow and 1 green) just to the left (east) of the large light. They were too far apart to be a single aircraft and too big to be stars. The smaller ones were kind of blinking when suddenly they each moved separately crazy fast towards the west and then they all completely disappeared???? Poof no sign of them. I only saw it for a minute or two as I was driving towards it so, no idea how long it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150071.html](http://www.nuforc.org/webreports/reports/150/S150071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lights in the early am6:15 am got up to let the dogs out right before sunrise.  Noticed to the east clouds in the distance starting to turn pink…slightly higher up  in the sky closer to me there was one large light and one smaller light in a straight line that were close enough to suggest a craft not two independent objects, and oddly the lights were somewhat fuzzy like in a bit of fog yet no fog at all.  I had the FEELING OF O THAT IS NOT GOOD…why I don’t know.  It was silent, not moving and oddly out of focus.  It SEEMED that it was something there, not two stars.  I watched it, took the dogs in fed them, and went back out it was still there…5 minutes….came back in and returned to watch the sun rise as it was brightly colored and in another 5 minutes or so I kept checking and it was gone.  I just somehow knew it was an UFO but how I don’t know and clearly it left.  Took a photo looks like nothing exciting.((NUFORC Note:  Planets in the eastern sky??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123123.html](http://www.nuforc.org/webreports/reports/123/S123123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
