@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fleetwood (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>An oval shaped craft flew directly behind and to the left of a low flying 747 passenger jet. The craft rflected sunlight and it was obviously metallic. Also for three previous days I witnessed four lights in the sky making incredible 90 degree turns and shooting from one part of the sky to another in the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38578.html](http://www.nuforc.org/webreports/reports/038/S38578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Terrebonne (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Piercing, shrill tone.#1.   I was in the fifth grade, age 10, was learning to play the  Trombone and thought it to be “neat” to play TAPS, outside, at night.  I had been doing it for weeks (maybe months) when in the middle of my playing I heard a shrill, high pitched sound with a slight warble, (a fast warble) that scared the s*#! out of me!  I was absolutely PETRIFIED, and couldn't even move!  After what seemed like minutes, which was probably only a few seconds, I forced my body to move, first with one foot, then the other, to open the house door and once inside, made a streak to the living room where my sister and mother were located.  They knew from the “white complexion” and big eyes that I WAS NOT JOKING!   At the time, they did not truly believe that what I was telling them was a fact, or just a little boy hearing “noises”.  They suggested that one of our three dogs was “howling” at my Trombone escapades. Even at the age of 10 years I'd heard many a dog howl.....THAT NOISE WASN'T EVEN CLOSE IN SOUND to a dog's howl.  The sheer intensity, evenness and consistency of that sound WAS NOT A DOG!  After a short time, my mother and sister persuaded me to go back outside with them.  Even to this day, I know they think they “know better” than the kid.  However, they do realize and admit that I was scared to the point of “looking like a ghost”! That “little incident” was enough to curtail my evening “TAPS” playing. P.S. We were living about 5 miles north of Terrebonne, Oregon, a rural farming community in central Oregon.  The time was about 8:00 P.M.  It was sometime in October and Dad was gone from home, elk hunting.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  One of five reports from the same source, with whom we have spoken on the telephone, on several occasions.  The witness strikes us as being quite sober-minded, and we suspect he is an excellent witness, and quite reliable.  Once his reports are posted to our website, we will provide links to all of his sighting reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91176.html](http://www.nuforc.org/webreports/reports/091/S91176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
