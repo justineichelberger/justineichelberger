@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large object bright red w/white lights and three smaller individual objects in SE sky in northwest Washington State across from BC CAI was driving when at 20:24 PST  I noticed a large bright object in the Southeast sky with a lot of red and also some white light. It was shaped like an upside down right trapezoid or a tweaked sideways parallelogram and as I was wondering satellite or maybe a planet that was really close. I then noticed three smaller lights (2 white/yellow and 1 green) just to the left (east) of the large light. They were too far apart to be a single aircraft and too big to be stars. The smaller ones were kind of blinking when suddenly they each moved separately crazy fast towards the west and then they all completely disappeared???? Poof no sign of them. I only saw it for a minute or two as I was driving towards it so, no idea how long it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150071.html](http://www.nuforc.org/webreports/reports/150/S150071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fleetwood (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>An oval shaped craft flew directly behind and to the left of a low flying 747 passenger jet. The craft rflected sunlight and it was obviously metallic. Also for three previous days I witnessed four lights in the sky making incredible 90 degree turns and shooting from one part of the sky to another in the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38578.html](http://www.nuforc.org/webreports/reports/038/S38578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
