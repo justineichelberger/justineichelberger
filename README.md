@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 25 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white sphere with geometrical points surrounding and within circle, generating energy between points, seen in NW sky at night.White sphere in NW sky, seen several times at various hours of the night during past month.  First appeared as the brightest and biggest star or planet in that direction.  Caused us to view through a spotting scope when the object slowly moved up and down and left and right.  When magnified, the object appeared outlined in white with geometric bright points throughout the body of the sphere.  Energy waves pass between these points and also around the sphere.  Colors within the body appear blue and pinkish-orange.  Have depicted the sphere on clear star-filled nights and watched it hover around for 30 minutes and more.  It appears far away, but always sighted in the same direction.  After watching for some period of time, the object disappears and sometimes will reappear later on in the late evening or early morning.  Have seen it as early as 7:30 pm as well as after midnight and 2 and 3 am.  It seems to generate a strong energy within its circle.  It appears larger when sinking closer to the ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123148.html](http://www.nuforc.org/webreports/reports/123/S123148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hemet (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two triangular UFO's seen over Hemet, CA in the night sky with distortion fieldOn the night of October 25th, 2009 at about 8:45 pm I was outside looking at the stars and to have a cigarette. I noticed what I thought was a big bird in the sky traveling from south to north. I thought to myself that was a really large bird. I stood up and noticed that there were two of them. Then I realized that each object had six lights, 3 on each side and the objects were triangular in shape and had rounded tips. They were very slow moving and made absolutely no sound at all. One of the objects was positioned slightly in front of the other. Then I notice that these objects where completely blocking my view of the stars in that particular area. The sky and stars in that area were distorted and then they suddenly disappeared. The whole event lasted about a minute long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73013.html](http://www.nuforc.org/webreports/reports/073/S73013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
