@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:22 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Goodlettsville (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>As many as forty bright red and yellow lights hover in the sky moving slowly and independently before fading away.The first observer, a fifty-year-old male, noticed on his way up the driveway that about forty bright, reddish lights were hovering in the sky.  They resembled the lights of planes except their motions were entirely different and they were spread about in a way that was contrary to the structure of a plane.  The lights moved incredibly slowly and were hovering more than flying or moving.The first observer remained parked at the bottom of the driveway and called the second observer, a seventeen-year-old female, who was inside the house.  She turned off the porch lights and looked outside to see several of the red dots still hovering in the sky. By the time she saw them there were only three left.  As she looked, they grew dimmer and dimmer.  They looked like they were simply fading away instead of moving somewhere else.After the event the second witness discovered that a friend who lives several miles away saw the same thing; the friend alleges that he, his cousin, and his father saw 26 "bright yellow" lights in the sky.The flashes of light in question did not appear to be connected in any way.  They seemed entirely independent of each other, not like lights attached to something larger.  The first witness notes that they covered a large amount of area in the sky and that he initially mistook them for a mass of jets but realized they moved far too slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103651.html](http://www.nuforc.org/webreports/reports/103/S103651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chapin (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange ball in skyMy husband and son witnesses silent an orange ball move very slowly above the tree line.  This was not long after several helicopters husband described as chinook or military looking went by.  He said they stayed in the area for a while, then left.  The orange ball remained after they left, leaving no trail, or sound.  He said there were no flashing light like normal jets.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103646.html](http://www.nuforc.org/webreports/reports/103/S103646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
