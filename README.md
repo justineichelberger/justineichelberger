@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Babylon (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The object that I witnessed reminded me of when I saw Halley's Comet, but at a very low point of the night sky.I witnessed a sphere shaped object while looking west traveling from southeast to northwest in a straight path. The object was 3/4 the size of a full moon estimated at 20 thousand miles up. The object was extremely bright and glowed with a light blue hue at the center and surrounded by bright yellow which left a trail of bright white. The object seemed big and very low to the surface of the earth. It seemed to travel slow for something that appeared to be pretty low. This was very similar to Halley's Comet. Which I remember viewing it for 3 to 5 minutes across the sky. This was very similar but only lasted 3 to 5 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73025.html](http://www.nuforc.org/webreports/reports/073/S73025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright silvery object that appeared to change back and forth from a tube to a saucer high above Austin, TXI was looking up at the clear blue sky with a neighbor when we saw a silver object shooting across the sky at a very high altitude.  She called it a high flying jet, but I noted that it was was not leaving a con trail.  It first appeared to have two sections or wings and was traveling length wise like a tube.  But as it passed overhead in a straight line it appeared to bank and looked somewhat saucer shaped at two different times and flames shot out one time for a short distance sideways to its direction of travel across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136999.html](http://www.nuforc.org/webreports/reports/136/S136999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
