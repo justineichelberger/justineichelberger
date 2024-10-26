@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>something with lights giving off sparks and then disappeared into the nightAt 8:45 PM, while driving west on the 10 freeway, approching the Lincon exit in Santa Monica, I saw a trail of bright white sparks coming from something with 3 or four lights on it.It was moving across the freeway, moving north, at maybe 5 or 10 thousand feet. The was a passenger high jet above it.At first I thought it might be a meteorite until I saw the jet about it.It gave of sparks for maybe 20 sec. and then the lights in the front part, or the nose of the direction part, went out.The sparks where like the once from a fireworks rocket, but this had head lights. So it was not firewoks.It was dark so I could not see any detail of a craft. Just 3 lights and sparks trails. I was also driving 65mph, and watching the road and sky.Later I called the Santa Monica police and asked if a plane had crashed in the area. They said no.I tried to get the number to the Santa Monica Airport tower but could not.I don't have a clue what this was. Maybe it was just a plane on fire and it lost power and landed ok.((NUFORC Note:  Similar report from Los Angeles of object moving to southeast near LAX at approximately 0130 hrs. on Saturday morning, 27OC01.  We are awaiting written report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19982.html](http://www.nuforc.org/webreports/reports/019/S19982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Telkwa (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>A gentleman called to report that his wife woke up at 2:30 a.m. on October 26, 2003 as she was heading to the washroom. As she passed through their home, and glancing out the large picture window she spotted a ball of off white light with a ring of bright white light running around it. The description was that it looked like the planet Saturn. The object was low in the Bulkley Valley. It was flying close to Highway #16. The fellow told me his wife watched it for a brief minute before continuing her journey to the washroom. When she came back out the object had disappeared. While his wife was observing the object, she reports that it was making all kinds of strange maneuvers. HBCC UFO Note: I am taking a quick run out to see the folks and taking some more information on this sighting. Updates will follow. Thank you to the witnesses for their report.  Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Home - Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32679.html](http://www.nuforc.org/webreports/reports/032/S32679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
