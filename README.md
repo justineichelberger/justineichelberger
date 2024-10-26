@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in South Pasadena (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1:45-ish - 1:45-ish minutes.</sub><blockquote><sub>It was blue, crescent-shaped, and wobbling from side to side.It was blue, and very large.  At first it looked like an escape balloon, but it was too far away and too large.  It was shaped like one of those dolphin balloons, which gave me my first clue.  It was wobbling from side to side, and heading East.  After a little bit, it dissapeared behind some trees.  Even after we repositioned ourselves, it was out of sight.  It just dissappeared.((NUFORC Note:  We spoke briefly with this witness, and he seemed to be quite credible to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25801.html](http://www.nuforc.org/webreports/reports/025/S25801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bluff City (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangular craft with bright white lights silently flew over Blutf City near Holston Lake.At around 8PM at night I was driving home from Bluff City towards Johnson City.  As I was driving I noticed bright lights in the sky and the shadow of what looked to be a giant triangular airplane. It was moving over the tree tops, much lower than  any airplane I've seen in the area.  I rolled down my window to get a better look expecting to hear the roar of a usual air craft but it was completely silent.  Triangular in shape, it was formed by three bright white balls of light with a red light in the center of the triangle and much smaller orange lights around that.  I turned my car around to follow it. Realizing I had my camera on me, I pulled over into a nearby parking lot.  As I went to get out of my car, I looked up and watched it fly over me.  I reached into my car and grabbed my camera but when I looked back up every light on the craft went out and the shadow of it disappeared.  Thinking it was still there and I was unable to see it without it's lights, I set up my camera and took pictures of the vicinity it would have been in had it continued it's flight pattern but when I reviewed the images nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114709.html](http://www.nuforc.org/webreports/reports/114/S114709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
