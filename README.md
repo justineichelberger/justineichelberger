@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Conyers (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still out there - still out there minutes.</sub><blockquote><sub>Star-like object with blue light twinkling around it and moves up and down and side to side in Conyers, GAMy dog is outside and keeps barking so I looked outside to see what he is barking at.  I didn't see anything but looked up at the sky and noticed how clear the sky was and how pretty the stars looked.  But I looked over and noticed a brighter star that twinkled a lot more than the others and almost looked like a bluish color.  It was at the top of a tree so at first it was partially hidden.  Then all of a sudden, it moved up in the sky, then over to the side.  It did not move in a straight line and did not stay in one spot.  I kept watching it and it looked as if it were swaying side to side.  It moved like someone had a star on the end of a string and was moving it up then sideways then back over then way up.  I noticed a bluish light twinkling around it.  I tried to get my camera out and use the lens to zoom in but I couldnt see it any better.  I have never seen anything like this before.  An aircraft went by and it had a red light blinking on it and the object did not move at that moment but looked like a star. Once the aircraft was gone, the object moved to the side quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66430.html](http://www.nuforc.org/webreports/reports/066/S66430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Babylon (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The object that I witnessed reminded me of when I saw Halley's Comet, but at a very low point of the night sky.I witnessed a sphere shaped object while looking west traveling from southeast to northwest in a straight path. The object was 3/4 the size of a full moon estimated at 20 thousand miles up. The object was extremely bright and glowed with a light blue hue at the center and surrounded by bright yellow which left a trail of bright white. The object seemed big and very low to the surface of the earth. It seemed to travel slow for something that appeared to be pretty low. This was very similar to Halley's Comet. Which I remember viewing it for 3 to 5 minutes across the sky. This was very similar but only lasted 3 to 5 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73025.html](http://www.nuforc.org/webreports/reports/073/S73025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
