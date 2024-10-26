@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chapin (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange ball in skyMy husband and son witnesses silent an orange ball move very slowly above the tree line.  This was not long after several helicopters husband described as chinook or military looking went by.  He said they stayed in the area for a while, then left.  The orange ball remained after they left, leaving no trail, or sound.  He said there were no flashing light like normal jets.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103646.html](http://www.nuforc.org/webreports/reports/103/S103646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eagle River (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright, orange stationary object flickering in night sky; pieces came off object and fell towards ground.We were outside on our deck looking at the stars.  The sky was completely clear. Many stars were visible to the naked eye.  We noticed what appeared to be a bright, orange star in the northern sky. It was stationary and flickering.  Suddenly a large piece came off the object and fell straight down, towards earth and seemed to burn out. A few seconds later, several more pieces fell off the object.  They were much smaller and they fell in the same direction (toward earth).  Then about 15-20 seconds after that, the object just disappeared/burned out.  The observers were a 49 year old retired Air Force Master Sergeant and his 12 year old son.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93899.html](http://www.nuforc.org/webreports/reports/093/S93899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
