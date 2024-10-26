@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metallic formation above SE PortlandWhile driving on 99 northbound from Sellwood to Portland I witnessed a grouping of fifteen- twenty metallic objects flying in various patterns above SE metro Portland.  At first I thought it was a flock of white birds or geese, but the changes in direction and the size did not seem birdlike.  Also wondered if it was a grouping of balloons that " got away" from a car lot or something similar, but then I witnessed several groups break away from the main cluster, accelerate rapidly and fly against the cloud/wind direction, and then rejoin primary group and this occurred several times with different groups forming and then breaking away in different directions at different speeds before rejoining the main group. At various points the group would shift and almost disappear, but during shifts they would also deflect light giving off a  metallic sheen.  I cant't explain what I saw, but I pulled my car over and watched this for about 10 minutes before the objects disappeared into the clouds. Did anyone else see this as well and if so any idea was it could have been ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114744.html](http://www.nuforc.org/webreports/reports/114/S114744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bangkok (Thailand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 4:00~6:00 - 4:00~6:00 minutes.</sub><blockquote><sub>Life UFO Movement over Bangkok 4:00~6:00 on East Side 1 months already  Almost Flash White Light, bigger than starlight.  The UFO had movement, no shape because I can see it had 3-5 Blue arms. It's look like a octopus which blue squid. I'm wonder why it float over Bangkok already 1 months since I was see it. Tonight, it floating very short from ground, I can see it float under building which is has 40 floors. And I think it float around middle of Bangkok. My friends from another province can not see but friends in Bkk, if they wake up they can see it.((NUFORC Note:  Sighting of Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59435.html](http://www.nuforc.org/webreports/reports/059/S59435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
