@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:47 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Petal (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object was seen heading north just east of Petal, Ms at appox 1500ft It was the size of a DC-10...It hovered , and moved slowly to the north over the horizon...At 23:12 on 10/26/99  I went outside for some nite air..To the South, I notice a very bright series of lights that was approaching from the south, northbound.....I first thought it was a large jet coming in to Hattiesburg..Then I realized this was something very different...I called my two sons outside..Ages 25, and 19..We all were stund as the craft stop for a brief hover, then continued to move north toward Laurel (20miles North) As it passed over our house, there was NO sound at all! It made very small quick action heading changes a few times, no more than a few deg's though as it continued north. Object had a series of white lights in diamond formation pointing down, with one VERY strong strobe type light to the rear...All lights were white. The whole craft look as if trianglar the size of a DC 10....No noise was detectable, and moved to slowly to keep a conventinal aircraft airborne Although I've been inactive for a longtime, I do hold a Com. Pilots ticket and can tell you this object was very very strange.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10344.html](http://www.nuforc.org/webreports/reports/010/S10344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Marina del Rey (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I hung up the phone with a friend and went to bed. I had pulled the covers around my shoulders and my eyes were closed. With closed eyes I noticed a bright light enter my room. I opened my eyes and the room was light (not with an exceptionally bright light, just like a lite room). The light dissapated and then through partially cosed vertical blinds, a light entered my room and circled the room. Through the verticle blinds a shadow appeared in the light in the room. The shadow had an elongated head (not long as in high, but as in a sort of football shape) a long thin neck and a thick body. I shadow didn't move with the light, but through it.  So in otherwords the light behind it was not moving, the shadow was. I thought of more rational possibilities than an extra terrestrial or alien or other life form, whatever your preference in title, but because of the angle of the blinds, I couldn't justify the way the light moved around the room instead of on one wall. Perhaps this is something to report, or perhaps I need a lesson in light movement?  I'm not ruling either possibility out. when I got the nerve up to look outside, the light had vanished and car alarms were going off. I got back into bed and heard a low level ???hum or ??? - an easier sound to make then to describe - type sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04640.html](http://www.nuforc.org/webreports/reports/004/S04640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
