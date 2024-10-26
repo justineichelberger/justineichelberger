@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:13 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:23 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Baxter Springs (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 22:15 - 22:15 minutes.</sub><blockquote><sub>We were driving west towards Miami Oklahoma and all 3 of us in the car saw a bright flash of light up high in the sky and the skies are clear tonight no bad weather it was like lightning but different</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150052.html](http://www.nuforc.org/webreports/reports/150/S150052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bolingbrook (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright lightWe sew it and we thought it was a star took pictures and when I zoom in it looks like a craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103616.html](http://www.nuforc.org/webreports/reports/103/S103616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
