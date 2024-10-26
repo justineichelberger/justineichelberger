@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bluff City (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large triangular craft with bright white lights silently flew over Blutf City near Holston Lake.At around 8PM at night I was driving home from Bluff City towards Johnson City.  As I was driving I noticed bright lights in the sky and the shadow of what looked to be a giant triangular airplane. It was moving over the tree tops, much lower than  any airplane I've seen in the area.  I rolled down my window to get a better look expecting to hear the roar of a usual air craft but it was completely silent.  Triangular in shape, it was formed by three bright white balls of light with a red light in the center of the triangle and much smaller orange lights around that.  I turned my car around to follow it. Realizing I had my camera on me, I pulled over into a nearby parking lot.  As I went to get out of my car, I looked up and watched it fly over me.  I reached into my car and grabbed my camera but when I looked back up every light on the craft went out and the shadow of it disappeared.  Thinking it was still there and I was unable to see it without it's lights, I set up my camera and took pictures of the vicinity it would have been in had it continued it's flight pattern but when I reviewed the images nothing was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114709.html](http://www.nuforc.org/webreports/reports/114/S114709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Agency (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Reflective object see on ground by pilot.While teaching a fellow friend to drive, we were heading North bound on FF highway toward Saint Joseph.  About 3 miles outside of Saint Joseph city limits, above the trees there was a 3 dimensional reflective rectangle in the air, not moving, approximately 5 miles away. The reason we were able to see the object is that the sun was setting in the west, and the object was in the north.  Thus, the sun was reflecting off the object. A few seconds later, the object turned clockwise, and was very difficult to see, because of the loss of reflection.  A few seconds later the object disappeared. I am a pilot, and the object I saw was not a commercial aircraft.  The object was too large an not moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14781.html](http://www.nuforc.org/webreports/reports/014/S14781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
