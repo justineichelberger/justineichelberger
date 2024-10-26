@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bangkok (Thailand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 4:00~6:00 - 4:00~6:00 minutes.</sub><blockquote><sub>Life UFO Movement over Bangkok 4:00~6:00 on East Side 1 months already  Almost Flash White Light, bigger than starlight.  The UFO had movement, no shape because I can see it had 3-5 Blue arms. It's look like a octopus which blue squid. I'm wonder why it float over Bangkok already 1 months since I was see it. Tonight, it floating very short from ground, I can see it float under building which is has 40 floors. And I think it float around middle of Bangkok. My friends from another province can not see but friends in Bkk, if they wake up they can see it.((NUFORC Note:  Sighting of Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59435.html](http://www.nuforc.org/webreports/reports/059/S59435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange light  in Methuen Ma gone like it was fake and it was a vision. This mess peoples head. postreros tiempos end times people.Coming out of a drive thru with my coffee, stop my car for a second and there it was right in front of my windshield a bright orange light, I'm on Jackson St  Methuen Ma facing towards Lawrence Ma.  2nd light similar in a week. first time reporting it, I was searching to see if someone reported it.  God bless!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103647.html](http://www.nuforc.org/webreports/reports/103/S103647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
