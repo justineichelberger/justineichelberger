@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 26 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eagle River (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright, orange stationary object flickering in night sky; pieces came off object and fell towards ground.We were outside on our deck looking at the stars.  The sky was completely clear. Many stars were visible to the naked eye.  We noticed what appeared to be a bright, orange star in the northern sky. It was stationary and flickering.  Suddenly a large piece came off the object and fell straight down, towards earth and seemed to burn out. A few seconds later, several more pieces fell off the object.  They were much smaller and they fell in the same direction (toward earth).  Then about 15-20 seconds after that, the object just disappeared/burned out.  The observers were a 49 year old retired Air Force Master Sergeant and his 12 year old son.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93899.html](http://www.nuforc.org/webreports/reports/093/S93899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 31.0 - 31.0 minutes.</sub><blockquote><sub>something with lights giving off sparks and then disappeared into the nightAt 8:45 PM, while driving west on the 10 freeway, approching the Lincon exit in Santa Monica, I saw a trail of bright white sparks coming from something with 3 or four lights on it.It was moving across the freeway, moving north, at maybe 5 or 10 thousand feet. The was a passenger high jet above it.At first I thought it might be a meteorite until I saw the jet about it.It gave of sparks for maybe 20 sec. and then the lights in the front part, or the nose of the direction part, went out.The sparks where like the once from a fireworks rocket, but this had head lights. So it was not firewoks.It was dark so I could not see any detail of a craft. Just 3 lights and sparks trails. I was also driving 65mph, and watching the road and sky.Later I called the Santa Monica police and asked if a plane had crashed in the area. They said no.I tried to get the number to the Santa Monica Airport tower but could not.I don't have a clue what this was. Maybe it was just a plane on fire and it lost power and landed ok.((NUFORC Note:  Similar report from Los Angeles of object moving to southeast near LAX at approximately 0130 hrs. on Saturday morning, 27OC01.  We are awaiting written report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19982.html](http://www.nuforc.org/webreports/reports/019/S19982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
