@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Abbotsford (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large meteor or other object enters sky west of Mission BC at approx 1930 hrs 01/10/27May have possibly been a large meteor.  Object lit up the sky as it came accros heading north.  After the tail went out, could still be seen for at least 1-2 seconds.was distintly 3 hot spots on the obect as it entered.  This has been the largest obect I have seen reenter, as the event was at least 5 to 8 seconds in duration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19990.html](http://www.nuforc.org/webreports/reports/019/S19990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Puna (HI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I definatley could not idetify this flying object.The craft that was seen is very large with multiple shining lights.  It was a square shape and it seemed that we were looking at the bottom of it.  The lights that shinned down looked tentacle like.  It seemed to be traveling in small circles around the summit of the mountain when it was not hovering.  We took a seven minute video of the lights changing.  As we watched the craft, it appeared to descend toward the ground.  As we were watching it, it appeared to have other flashing lights in the distance.  I would have to describe them as small explosions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103604.html](http://www.nuforc.org/webreports/reports/103/S103604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
