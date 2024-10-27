@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:14 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marbella (Spain) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>4 distant bright circles4 bright circles in a North/South/East/West configuration. The North and South circles moved towards each other until they appeared to collide but there was no explosion. Then there were 3 bright circles in a row and the 4th one shot off at great speed. After a while the lights could not be seen any longer. The event was witnessed by my wife and our children (I was out at the time sadly!!)((NUFORC Note:  We believe that an advertising light would be the first possible explanation for the sighting that would have to be ruled out.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25933.html](http://www.nuforc.org/webreports/reports/025/S25933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marshfield (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wisconsin, Triangular, 3 red lights, no soundWe were unloading our trunk after getting home from shopping.  I saw the craft out of the corner of my eye and pointed it out to my boyfriend.  It was shaped like a triangle and had three red lights.  It was flying at about the height a single engine plane would fly and made no sound what so ever.  It was pretty fast, but we had enough time to talk about what was going on while the craft glided by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84951.html](http://www.nuforc.org/webreports/reports/084/S84951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
