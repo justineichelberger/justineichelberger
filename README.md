@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:54 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:14 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Single bright white light moving at very high rate of speed at relatively low altitude.October 28, 2008  Last night at approximately 8:40 pm I was driving North on Dunhill Drive in Orlando preparing to make a Westerly left turn on to Jepson drive.  The sky was dark when suddenly I noticed what looked to me like a single bright round white light in the sky moving at a very high rate of speed, faster than anything I have ever seen, in a North West direction.  It was difficult to tell the altitude because it happened so quickly, but because I was able to tell it was a high rate of speed, I had the sense that it was between one thousand and two thousand feet.  My first thought was that it was the afterburner of a jet aircraft but I could not see any trail and the light was traveling parallel to the ground, not moving either up or down. Also seemed strange to see something like this in an area of relatively high commercial aircraft traffic to both OIA and Orlando Executive Airport. My location at the time was approximately eighteen miles NE of OIA, and approximately nine miles due East of OEA.((initials deleted))  Orlando, FL</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66493.html](http://www.nuforc.org/webreports/reports/066/S66493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marbella (Spain) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>4 distant bright circles4 bright circles in a North/South/East/West configuration. The North and South circles moved towards each other until they appeared to collide but there was no explosion. Then there were 3 bright circles in a row and the 4th one shot off at great speed. After a while the lights could not be seen any longer. The event was witnessed by my wife and our children (I was out at the time sadly!!)((NUFORC Note:  We believe that an advertising light would be the first possible explanation for the sighting that would have to be ruled out.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25933.html](http://www.nuforc.org/webreports/reports/025/S25933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
