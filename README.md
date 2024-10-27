@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Atlantic City (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light off  of Atlantic City ocean.I came to Atlantic City to watch a rocket launch from Virginia so we had to look out over the ocean.  We thought we were seeing the rocket because it was around the time for liftoff. However the liftoff was canceled due to a boat in restricted waters.  It was a bright white light that seemed to move upwards then grew dim and something split off from it and became bright again.  After that it grew dimmer then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114712.html](http://www.nuforc.org/webreports/reports/114/S114712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marshfield (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wisconsin, Triangular, 3 red lights, no soundWe were unloading our trunk after getting home from shopping.  I saw the craft out of the corner of my eye and pointed it out to my boyfriend.  It was shaped like a triangle and had three red lights.  It was flying at about the height a single engine plane would fly and made no sound what so ever.  It was pretty fast, but we had enough time to talk about what was going on while the craft glided by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84951.html](http://www.nuforc.org/webreports/reports/084/S84951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
