@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marshfield (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wisconsin, Triangular, 3 red lights, no soundWe were unloading our trunk after getting home from shopping.  I saw the craft out of the corner of my eye and pointed it out to my boyfriend.  It was shaped like a triangle and had three red lights.  It was flying at about the height a single engine plane would fly and made no sound what so ever.  It was pretty fast, but we had enough time to talk about what was going on while the craft glided by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84951.html](http://www.nuforc.org/webreports/reports/084/S84951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8:15 - 8:15 minutes.</sub><blockquote><sub>Strange light, was inspected by 3 helicopters.. Please read.. I need to know if others experienced something like this..So my boyfriend and I walked outside to smoke, and we saw this strange object in the sky, moving in slow motions, back and forth, up and down... It was so bright, and it seemed as if it flashes red at some points.. So we continued to watch, and then we saw a helicopter approach it,a and it shined it's lights directly down onto it..  So my boyfriend and I were really intrigued now..  That helicopter left, and about 5 minutes later, we see this other one coming, and my boyfriend said " be ready to see something strange happen.."  And it passed it at first, then turned right back around, and shined it's lights down straight on it, and circle it.. It circled it for about 10 minutes... And I was just, in shock..  The helicopter left, and a third one came along, and did the same thing.. So we assume that people have been calling and reporting this strange object. My boyfriend and I went inside for about, 20 minutes, and went back outside, it had vanished. I ! just want to see if others had witnessed this, or something similar. I want to know what this was, and what's going on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114727.html](http://www.nuforc.org/webreports/reports/114/S114727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
