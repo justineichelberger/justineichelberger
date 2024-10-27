@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>STRANGE RED BALLS IN THE SKY OVER PHOENIXIN THE NORTHEAST SKY THERE WAS A RED LIGHT AND IT WAS JUST SITTING THERE WHEN 3 RED BALLS FELL FROM THE CRAFT ONE FLEW TO THE NORTH AND THERE WAS A BIG RED FLASH,  THEN THERE WAS A BIG BOOM AND THE OTHER 2 WERE GON.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15390.html](http://www.nuforc.org/webreports/reports/015/S15390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Abbotsford (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large meteor or other object enters sky west of Mission BC at approx 1930 hrs 01/10/27May have possibly been a large meteor.  Object lit up the sky as it came accros heading north.  After the tail went out, could still be seen for at least 1-2 seconds.was distintly 3 hot spots on the obect as it entered.  This has been the largest obect I have seen reenter, as the event was at least 5 to 8 seconds in duration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19990.html](http://www.nuforc.org/webreports/reports/019/S19990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
