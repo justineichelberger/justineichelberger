@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>While observing the lunar eclipse from the Courtyard Marriott parking lot (off of Coliseum Dr.) moments ago, I had my first UFO sighting.  After lowering the binoculars I was using on the moon, I glanced directly overhead and saw two quasi-pinpoint objects moving in not quite parallel directions from north to south.  The twin objects were about half-a-fist-at-arms-length apart.  They covered the angular distance from zenith to about 30-degrees above the horizon in about five to six seconds.  The objects disappeared behind a layer of high cirrus to the south. The objects were not exactly spheres of light.  They had a bright-white central pinpoint of light surrounded by a thin faint white halo that seemed to scintillate just slightly.  The halos were probably less than half a pinky fingernail in diameter.  Couldn't get the 12X binocs on the objects quick enough to get a bead on them. While I was watching the two objects pass overhead, they moved closer to one another and one changed course about ten degrees and veered away from the other after closest approach.  The objects were not travelling at the same speed.  The one that made the quick and abrupt course change seemed like it was playing catch up with the other.  It was just abeam its twin when it made the sudden course change and then accelerated slightly ahead of the one that maintained a more or less steady course and speed. At first I thought these might be jets from Langley AFB which is less than three miles away, but the objects were entirely silent with no obvious conventional nav lights.  They behaved like no polar-orbiting satellites I've ever seen. I watched the area of the sky into which the objects disappeared for quite some time hoping to see them return.  No luck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40276.html](http://www.nuforc.org/webreports/reports/040/S40276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object came from the north.  It looked like a bright light high in the sky.  Then it stoped hovered breifly, then to our amazment more lights came off of it and circled it.  It being the larger brighter light.  The smaller lights circling the larger one then came back to it and became one light again.which grew dim then bright then shot across the sky like nothing any of us had seen.then it came to a complete stop again.  And the smaller lights then came out again and circled the bright light.  This shooting across and stopping happend atleast four times.  And every stop was followed with the circling lights.  My neighbor who also witnessed and who is a retired army vet who served for twenty five years, was baffled and speachless.  I should have reported the incident sooner.  But I remember it like yesterday . Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101681.html](http://www.nuforc.org/webreports/reports/101/S101681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
