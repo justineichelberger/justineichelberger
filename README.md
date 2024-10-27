@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ward (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>was siting ouside on deck when noticed a bright objest. thought it was a star,but it moved a little bit at a time. got out binacolers and it looked as if were turnig and part of it would go black. it was very bright on one side. went in for a couple of minutes and back out it had moved more it was moving from the south to the southwest. i was looking at it and it just went out no lights whatsoever just vanished.never came back on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14713.html](http://www.nuforc.org/webreports/reports/014/S14713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Campbell (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Soundless cigar shaped object, dim lighting.My husband first saw the cigar shaped object in the sky.  He ran in and got me.  When I made it outside all I could catch was the back end of it going over the tree tops.  Through the trees I could see a dim flickering, almost like the paper lanterns, there was no sound, and the object was huge, at least the size of a greyhound bus.  This has been about the 3rd time since the beginning of summer since we have seen these objects.  Was not able to get clear video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137015.html](http://www.nuforc.org/webreports/reports/137/S137015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
