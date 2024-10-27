@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sebastopol (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Corroborating my friend's UFO siting - it really happened.It was raining hard that night.  We were driving from Petaluma to Sebastopol and the car was running so bad we didn't think it would make it home.  It was running rough and kept stalling out.  We were driving west on Hiway 116, and we noticed a bright, bright light above the car.  The light was pointing straight down at the car blinding us.  We thought it was a helicopter at first.  When we turned left onto my street, it turned with us.  We slowed down to a stop, jumped out to look up, and it was so bright we couldn't see anything.  We got back in the car and drove to my house, and it stayed above the car all the way home. When we pulled into my driveway, it was right above us.  Then it was hovering above my house, and it was as big as my four-bedroom house.  It gave off a friendly aura.  I wasn't even scared.  I had a warm feeling inside.  It didn't seem like a threat in any way, but like it wanted to make friends.  It had little bright, bright lights all over it.  The whole thing tilted and the lights started blinking alternately. They were giving us a light show.  The lights would go fast, then slow, as if he was showing off.  He tilted on his side, made all the lights blink really fast, then the lights all stopped and it was gone in a blink of an eye.  Then it appeared again instantly, no sound, and sat above the house again.  It tilted one way, then the other, and it was gone again.  I felt honored that it chose me to show itself to.  Reading this over when I finished writing it, I realize it sounds crazy.  But it really happened.  If someone else told me this story, I never would have believed it.  I've never believed in UFO's until this day.  Now I'm a believer.  I got the feeling that they'll be back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43003.html](http://www.nuforc.org/webreports/reports/043/S43003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Viroqua (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Perfectly straight line left behind by a light traveling through the sky.We were driving home at approximately 2:40am when we saw a light traveling from north to south. It crossed the entire sky in a matter of minutes.  After the light was gone a single thin laser like trail remained in the sky for another minute or so.  This line was perfectly straight and stable.  You could actually see it curve away with the radius of the atmosphere.  There was no burning or anything, not like anything any of us have seen before.There were four of us in the car, we also called two of our friends and they confirmed that they saw the same phenomenon.  Also keep in mind that all of us have seen a satellite before, and this object was traveling several times faster than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150037.html](http://www.nuforc.org/webreports/reports/150/S150037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
