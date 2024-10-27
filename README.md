@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Marshfield (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wisconsin, Triangular, 3 red lights, no soundWe were unloading our trunk after getting home from shopping.  I saw the craft out of the corner of my eye and pointed it out to my boyfriend.  It was shaped like a triangle and had three red lights.  It was flying at about the height a single engine plane would fly and made no sound what so ever.  It was pretty fast, but we had enough time to talk about what was going on while the craft glided by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84951.html](http://www.nuforc.org/webreports/reports/084/S84951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two bright, orange glowing orbs flying in formation at a steady speed to the Northeast, followed by a third glowing orb.I was walking down Metropolitan Ave in the Bronx (Parkchester area)by the Macy's Department store.  I happened to look up at the sky and through a clearing in the clouds witnessed what appeared as two bright, orange glowing orbs flying in formation at a steady speed to the North-East. They did not make any sounds as attributed to regular aircraft.  There were no blinking lights as you would most likely see on regular aircraft.  I observed them for approximately 30 seconds moving through the clouds (the clouds would obscure them at times) until they started to move behind the buildings in the area and I lost sight of them.  As I tried to move to the other side of the street, I witnessed the third glowing orb flying the in the same direction, but far behind the other two bright glowing orbs.  At that point I called my brother in the Westchester Square area of the Bronx, and asked him to access the rooftop of his building to see see if he could observe what I was looking at.  He saw all three glowing orbs in the direction of Parchester as they flew in the same northeasterly direction, and continued to observe them until he lost visibility due to the cloud cover.  He also did not notice any blinking lights or sounds. I was a practicing amateur astronomer for several years, and I would not report this if I knew they were ordinary astronomical phenomena.  This was actually very unusual and I have never witnessed anything like this before.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93911.html](http://www.nuforc.org/webreports/reports/093/S93911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
