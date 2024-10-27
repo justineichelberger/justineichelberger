@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>werid blue light in the sky, for 45 mins disappearing, reappearing, werid moves,very fast,only could be seen at corner of eyeit was late evening almost compeletly dark out with a few clouds here and there when i let my dogs in to the backyard as i walked out with them at the corner of my eye caught a light is the south sky, the light had to be 10 to 15 miles away on the other side of the esrtalla mountain range where there is nothing but desert. when i turned to look at it almost comepletly disappered, so I turned away but i caught this light again at the corner of my eye so i looked for the second time, but once again it almost disappered so as i started to look away i could see it again. that is when i realized that i could only see it from the corner of my eye only. when i started to watch this light it was doing crazy things in the sky figure 8's and very sharpe turns at first, then it would stop and almost float in the sky. then it would up in to one of the scrattered clouds in the sky and light the cloud up in a dark blue color ( by the way all i saw was a light during this ! whole sighting was a light no object and it was a none twinkling blue light.)then it would shoot a cross the sky very fast in a matter of 3 seconds if even that. then it would shoot up to a high alittiude then shoot down to a low one. then it got very weird it would start to shoot across the sky then disappear and reappear in a compeletly diffrenet spot and that when on for a good 20 mins everything this object was doing i have never see do by a man made craft before. during the last 5 mins of the craft flying around i realized that the airplane pattern change from the normal which almost flys over my house to head to phoenix sky harbour airport. i could not find a plane in the sky normally there would be one every 2 mins. as the sighting came to a close do to cloud cover coming in at that time it looked like there was one to made two fighter jets in the area of light. they more then likely came from luke air force base. the very last thing i saw , was the light stopped and! was just floating almost like kinda watching the fighter jets! or at l east i think there were fighter jets the cloud cover took over the sky and lost the sighting at 1910.i would like to note that i have only seen one other signing in my life which i reported on this web site it took place on 9/10/93 at 2030 hrs. there was one thing in common with both sightings that very weird color of blue light, it gave a chill down my back when i saw it again. i have never seen a that type of blue light on any aircraft ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75610.html](http://www.nuforc.org/webreports/reports/075/S75610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ward (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>was siting ouside on deck when noticed a bright objest. thought it was a star,but it moved a little bit at a time. got out binacolers and it looked as if were turnig and part of it would go black. it was very bright on one side. went in for a couple of minutes and back out it had moved more it was moving from the south to the southwest. i was looking at it and it just went out no lights whatsoever just vanished.never came back on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14713.html](http://www.nuforc.org/webreports/reports/014/S14713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
