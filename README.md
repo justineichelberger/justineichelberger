@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object came from the north.  It looked like a bright light high in the sky.  Then it stoped hovered breifly, then to our amazment more lights came off of it and circled it.  It being the larger brighter light.  The smaller lights circling the larger one then came back to it and became one light again.which grew dim then bright then shot across the sky like nothing any of us had seen.then it came to a complete stop again.  And the smaller lights then came out again and circled the bright light.  This shooting across and stopping happend atleast four times.  And every stop was followed with the circling lights.  My neighbor who also witnessed and who is a retired army vet who served for twenty five years, was baffled and speachless.  I should have reported the incident sooner.  But I remember it like yesterday . Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101681.html](http://www.nuforc.org/webreports/reports/101/S101681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>World Series Game 6 in St Louis on 10/27 @10:18pm CST Light 'Flying' rear of blimp - unknown10/27/2011 At 10:18pm during World Series Game 6, the FOX Cameras were on the blimp.Right after one of the announcers made a comment about the weather being cool or brisk, I saw a light, or something lighted by the stadium lights, enter the camera shot from the top right of the frame and 'fly' on an angle down and to the left.From the camera vantage point it appeared at one point that the object passed very close to the rear of the blimp, but I couldn't determine if the object was in front, or behind the blimp. I had not see any birds or bugs all night and could not identify what it was, or if it had structure on my poor quality hd television.Just thought maybe someone with the game on their DVR and better equipment that I could take a look at it. Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84942.html](http://www.nuforc.org/webreports/reports/084/S84942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
