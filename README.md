@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Campbell (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Soundless cigar shaped object, dim lighting.My husband first saw the cigar shaped object in the sky.  He ran in and got me.  When I made it outside all I could catch was the back end of it going over the tree tops.  Through the trees I could see a dim flickering, almost like the paper lanterns, there was no sound, and the object was huge, at least the size of a greyhound bus.  This has been about the 3rd time since the beginning of summer since we have seen these objects.  Was not able to get clear video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137015.html](http://www.nuforc.org/webreports/reports/137/S137015.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two differnet objects, one orb, one V shape, night of lunar eclipse.3 college students, standing on a hillside watching the lunar eclipse. scanning the sky for shooting stars/meteors. the first 'ufo' looked to be almost as a pair of whitish green shimmering wings, like a massive falcon streaking acrosss the sky-- not flapping jsut a very fast gliding. point of origin was not seen, visual contact ended when the thing was obscured by a light source from a near by building. it traveled NE to SW across the sky. second object was spotted about 5 min later, a small mutely glowing orb, would have mistaken it for a shooting star, but its path was erratic and jumpy, traved on an identical path to first object, but parallel about 500ft apart to the west. point of origin not seen, visual contact obscured by a nearby building((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39988.html](http://www.nuforc.org/webreports/reports/039/S39988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
