@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 27 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two differnet objects, one orb, one V shape, night of lunar eclipse.3 college students, standing on a hillside watching the lunar eclipse. scanning the sky for shooting stars/meteors. the first 'ufo' looked to be almost as a pair of whitish green shimmering wings, like a massive falcon streaking acrosss the sky-- not flapping jsut a very fast gliding. point of origin was not seen, visual contact ended when the thing was obscured by a light source from a near by building. it traveled NE to SW across the sky. second object was spotted about 5 min later, a small mutely glowing orb, would have mistaken it for a shooting star, but its path was erratic and jumpy, traved on an identical path to first object, but parallel about 500ft apart to the west. point of origin not seen, visual contact obscured by a nearby building((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39988.html](http://www.nuforc.org/webreports/reports/039/S39988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ridgecrest/China Lake (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>an object of size,color, and speed of likes I've never seen10/28/04 03:35 traveling north noticed an object (orange) 3 times brighter than venus to the northwest just above the mountains. Continuing northbound a 1/4 mile the object moved behind a cirrus cloud where a large brilliant flash took place. Continuing another 200 feet the object was in front of me approx 1000' up/away.It remained stationary for 20-30 seconds,at this time a black dot top left was visible,then disappeared. No sounds, no lights, no change in color,no trails.((NUFORC Note:  We spoke at length via telephone with this witness, and he seemed to us to be exceptionally serious minded.  Given his experience in the U. S. Navy, we suspect he is an exceptionally good observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40270.html](http://www.nuforc.org/webreports/reports/040/S40270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
