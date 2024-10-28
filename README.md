@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ridgecrest/China Lake (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>an object of size,color, and speed of likes I've never seen10/28/04 03:35 traveling north noticed an object (orange) 3 times brighter than venus to the northwest just above the mountains. Continuing northbound a 1/4 mile the object moved behind a cirrus cloud where a large brilliant flash took place. Continuing another 200 feet the object was in front of me approx 1000' up/away.It remained stationary for 20-30 seconds,at this time a black dot top left was visible,then disappeared. No sounds, no lights, no change in color,no trails.((NUFORC Note:  We spoke at length via telephone with this witness, and he seemed to us to be exceptionally serious minded.  Given his experience in the U. S. Navy, we suspect he is an exceptionally good observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40270.html](http://www.nuforc.org/webreports/reports/040/S40270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Heber (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>10/28/2020 Heber, AZ.  Cigar. 15 seconds.  Craft moving 3 times faster than fighter jet with 2 amber lights.I was truck driving 20 miles north of Heber, AZ. I noticed what looked like a plane in the night sky. I quickly realized that a plane does not travel as fast as what I saw. It was approximately 20 miles away moving from east to west, at about 15 thousand feet. It had an amber light at the front and rear of the craft, no other lights. It moved at what looked like 3 times faster than an F-15 fighter jet. I observed this object for approximately 15 seconds before it dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160291.html](http://www.nuforc.org/webreports/reports/160/S160291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
