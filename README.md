@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large, bright yellow object that appeared and reappeared in a different part of the sky and disappeared.I live in western Lake Worth. Housing development of Smith Farm at Fla. Turnpike and Hypolulo Rd. Was walking my dog and saw very large, bright, yellow object off in the western sky (it was about 5 times as big as Jupiter is in the sky now). At first I thought it was an aircraft because of the bright light. But, it did not move. I kept walking my dog around the development and it didn't move. Then it just disappeared. I continued to walk my dog for about another 5 minutes and when I got home, it was in the north-western sky behind my neighbor's house across the street from my house. My neighbor's house is a one-level house and this object was just above the roof off in the distance. I ran into my house and got my telescope. While I was trying to get this object into focus it just disappeared. I ran in my neighbor's back yard and it was nowhere to me seen. There were no clouds in the sky. Did anyone else see this?((NUFORC Note:  We do not know what time "2930 hrs." is on the 12-hour clock.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14724.html](http://www.nuforc.org/webreports/reports/014/S14724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Canfield (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>White light east southeast of here seems to be flashing red and blueI see one white light that is flashing red and blue, I thought it might be an airplane but it hasn't moved in over 20 minutes not up not down no movement.  There are no towers over that way that I've ever seen before.  And I often look as I usually look at the sky while walking my dog.  I was looking at Orion this evening when I noticed this thing it was almost straight down from the first star in Orions belt.  I'm still observing it does seem to be getting somewhat higher but still a white light flashing red and blue.  Maybe its a star I don't know I've never vseen a star flash like that before((NUFORC Note:  The report is not inconsistent with a bright star that appears in the southeastern sky during the early morning hours.  We have received many reports about it.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10353.html](http://www.nuforc.org/webreports/reports/010/S10353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
