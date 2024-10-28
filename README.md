@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three to Five comet-like objects seen descending in the sky east of Scottsdale, AZ, directional changes and reigniting flames.Three to Five flaming, descending objects seen two consecutive nights with consistent, peculiar behavior. They appeared on 10/28/2011 and 10/29/2011 between 8:00 and 9:00 both nights, in the sky east of Scottsdale, Arizona.  On 10/28/2011 they were further north than on 10/29/2011. Specific times of sight were 8:39pm on 10/28, and 8:15pm on 10/29.Flight behavior shows descent, but with sudden, curving and complete shifts in directional movement. There is no organized formation. They initially appear with long streaks of flame, already in a steep descent.The relation between the ‘flames’ and objects are like that of a comet- so judging from the flames, which seem to only come from one side of these objects, I could determine a curved silhouette. Full shapes, however, were not seen. The flame will go out on one at a time, leaving a small white light, then spontaneously reignite with an equal amount of fervor. Each flame and object seem uniform in size. The colors of the flame range from white, yellow, and orange. No other lights on the objects were seen, other than the single light when the flame temporarily extinguishes.Both nights these objects descend into darkness, or have fallen from view, just before they drop below the horizon line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84995.html](http://www.nuforc.org/webreports/reports/084/S84995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baytown (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red Orange that glowed moving and stopping with my movements.I was talking on the phone to my cousin and I saw an orange?red light off to my right up in the night sky. It was about the size of a pea to the naked eye and it was traveling in a semi straight pattern.  The colour change was going back and forth between Orangered to Red to Orange to just red. It glowed. There was not a distinction in colour like with lights changing, it just was.  As i watched it fly across the sky at speed that varied, I started to walk out into the yard to get a better look,  When i started walking to it, it stopped and hung in the air.  I stopped, then it started to move at a different speed. I moved, it stopped. As i was describing it to my cousin on the phone i watched the light decrease in size, the speed was not changing, from a Pea size down to pin point, then a bit of a white halo around the orb, all of a sudden it was just gone.  No speed increase no movement, just not there. I decided to google what i saw tonight and found this site,! Thought i would put what i saw into words. It was neat!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84973.html](http://www.nuforc.org/webreports/reports/084/S84973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
