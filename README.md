@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At midnight, my friend and I were on the American River, crawdad hunting in the river, when I looked into the sky and noticed an orange glowing orb.  I asked my friend if he thought it was a planet but it we both thought it to be too big for than.  We then thought possibly an aircraft but no blinking lights.  It just appeared to hover in the same location in the sky with no movement or change in size so it didn't appear to be moving the way an aircraft would.   As we stared at it we were deliberating about what it could be.  It was too big to be a planet but didn't appear to be aircraft.  We were perplexed.  After about 1 minute we looked down into the water as we moved toward the shoreline.   We looked away for about 30 seconds and then my friend said to me that the orb was gone.  I looked up into the clear sky and sure enough it wasn't there.  We spent 30 minutes discussing it and particularly its size (like a planet but bigger too big for that), color (orange glow like ! an ember) and how it disappeared or vanished (disappeared without trace).  It didn't seem logical.  The size and color of the object makes it hard to believe it just vanished.  It was in the high point of the sky and there's no way it sped off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123881.html](http://www.nuforc.org/webreports/reports/123/S123881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was a clear, sunny day.  My friend and I went for a neighborhood walk.  It was early afternoon.  My friend first noticed 3 round white balls in the sky.  They remained for about 5 minutes when another 3 round white balls appeared.   Within minutes, 2 oblong dark cigar shaped objects appeared.  The round objects moved sparatically but maintained a triangular shape.  They disappeared within about 15 minutes.    I reported it to MUFON that same day.((NUFORC Note:  Date may be approximate, althought the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42733.html](http://www.nuforc.org/webreports/reports/042/S42733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
