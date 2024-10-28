@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Orange flash in lancaster sky.Bright flash went from dim to bright then gone.  Happened in the same location twice, about 3 minutes apart.  The object did not move.  The sky was still and clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114704.html](http://www.nuforc.org/webreports/reports/114/S114704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Marfa (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Photo shot - Photo shot minutes.</sub><blockquote><sub>Digital photo of possible flying triangle over Marfa, Tx 10-28-2003In 2003 I was in Marfa TX and took several digital photographs of the amazing sunset.  Yesterday, while reviewing these photos on a much larger computer screen, I noted what I had missed initially, i.e., among the clouds the appearance of a triangle of evenly spaced, round circles which, because of their regularity in spacing and shape could be judged to be non-clouds.  This"formation" of circles is adjacent to two very bright cloud formations which seem much brighter than the surrounding clouds.I note that there are no other reports of sightings from this area during this period, so I am reluctant to conclude that they are actually a "flying triangle," but it is hard to dismiss this possibility when looking at the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77077.html](http://www.nuforc.org/webreports/reports/077/S77077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
