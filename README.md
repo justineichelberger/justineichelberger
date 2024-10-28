@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Solavang (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Hi, I wrote on 10/28/08 or 10/29 We did see a fireball, BUT THE THING, THE NEXT DAY IT WAS REPORTED THAT VANDENBERG airforce base shot up an italian satelite. So what we saw , I reckon, may have been a booster falling back to earth but not sure.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  We have no idea who submitted this report, so we cannot amend an earlier report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66698.html](http://www.nuforc.org/webreports/reports/066/S66698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Commerce City (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large rectangular aircraft hovering west of Commerce City, COSaw large aircraft hovering in sky between Commerce City, CO, and the Rocky Mountains.  Craft shaped rectangular like a bus, but much, much larger.  Had strange shadowing/aura around it.  Clearly was not an airplane.  Could have been a huge helicopter or blimp, but heard no sound nor saw chopper blades.  Aircraft traveled northeast away from me and was gone out of sight within one minute.  Seemed too fast to be a blimp.  Presidential debate in Boulder today.  Possible military craft, but did not look anything like the military blimp, recently in the news, flown over PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123200.html](http://www.nuforc.org/webreports/reports/123/S123200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
