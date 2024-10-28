@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baytown (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red Orange that glowed moving and stopping with my movements.I was talking on the phone to my cousin and I saw an orange?red light off to my right up in the night sky. It was about the size of a pea to the naked eye and it was traveling in a semi straight pattern.  The colour change was going back and forth between Orangered to Red to Orange to just red. It glowed. There was not a distinction in colour like with lights changing, it just was.  As i watched it fly across the sky at speed that varied, I started to walk out into the yard to get a better look,  When i started walking to it, it stopped and hung in the air.  I stopped, then it started to move at a different speed. I moved, it stopped. As i was describing it to my cousin on the phone i watched the light decrease in size, the speed was not changing, from a Pea size down to pin point, then a bit of a white halo around the orb, all of a sudden it was just gone.  No speed increase no movement, just not there. I decided to google what i saw tonight and found this site,! Thought i would put what i saw into words. It was neat!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84973.html](http://www.nuforc.org/webreports/reports/084/S84973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pygra (Cyprus) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Triangle shape with amber, green and white flashing lights hovering over Pygra in Southern CyprusI was alerted to the dogs barking into the North Eastern sky which is the back of my house in a village Pygra which is south west of the capital Nicosia.  As is was 1.30 am,I decided to get up and investigate when a bright light caught my eye as it looked like an aircraft going in the wrong direction.  We are on flight path into Larnaca airport and this object was going in the complete opposit direction.  Then the object appeared to stop and hover.  It had green, amber and white flashing lights around it.  It moved in irregular directions, back and forth and side to side.  Difficult to tell how far up it was but the lights were large as the size of an aircraft on on its final approaches to land.  I observed it through binoculars for approx 45 mins and could see it was a triangle shape, and woke another family member to witness it.  I wanted to video it as the video has a very strong zoom.  When I tried to video it, it was like someone put a hand over the lens as I was unable to see anything.  I checked the camera at other places into the sky and room and was able to see perfectly but again, when pointing the camera at the object, it went black and I was unable to record.  When my younger daughter came into see the object, it moved behind the tree and stayed there.  We could see the lights through the tree but it wouldnt come back out for a proper view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47953.html](http://www.nuforc.org/webreports/reports/047/S47953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
