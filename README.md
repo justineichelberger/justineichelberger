@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Commerce City (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large rectangular aircraft hovering west of Commerce City, COSaw large aircraft hovering in sky between Commerce City, CO, and the Rocky Mountains.  Craft shaped rectangular like a bus, but much, much larger.  Had strange shadowing/aura around it.  Clearly was not an airplane.  Could have been a huge helicopter or blimp, but heard no sound nor saw chopper blades.  Aircraft traveled northeast away from me and was gone out of sight within one minute.  Seemed too fast to be a blimp.  Presidential debate in Boulder today.  Possible military craft, but did not look anything like the military blimp, recently in the news, flown over PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123200.html](http://www.nuforc.org/webreports/reports/123/S123200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Fireballs in St. LouisSmall black dots were followed by short trails of fire.  There were about twenty going in all different directions.  They looked like meteors except that they weren't going towards the ground.  One larger one was black in the center and had white on both sides.  They were seen for miles and miles off in the distance over 1-44 in St. Louis.  The closest ones seemed to be followed by short trails of fire, but they didn't go anywhere.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47266.html](http://www.nuforc.org/webreports/reports/047/S47266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
