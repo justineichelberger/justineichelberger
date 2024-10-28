@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:09 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large object with sevsral satilites flying around it.saw circular/shape changing, black object stationary in the sky and then moving very slowly. Object had several smaller objects flying around it that apeared black also. I am a comercial pilot with several thousand hours of flying experience and have never seen anything like this before. This was witnessed not just by myself but my Wife and daughter also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14719.html](http://www.nuforc.org/webreports/reports/014/S14719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Syracuse (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>something wierd happenedThey were blue white kinda gray blue, Danced around each other some times they followed each other, other times they just danced around, like they were playing, they would come together and go apart. Some times there were 2  and 3 and then there would be 6 at a time. Then at one time a really big one and the little ones kinda danced around the big one we only seen the big one 1 time in about 2 hours time.  They were fast.  When we tried to use a camera the batteries acted like they were dead, so we went and called someone to bring a video camera and it went dead also very strange we checked the bateries and they were working in a game boy after this happened becauase we thought they were dead but they were not.  The sky was cloudy and the lights just dance like they were playing with each other. it was wierd.  We have seen this not onle once but a few times. And on Sat 20 it was about 4:oo or 5:oo p.m my nephew and son was standing out side and playing on the porch they were looking up at the sky they started to yell so my mom went out side to look it was light out side there was this thing in the sky it looked like lightining was coming out of the bottom of it it was round in shape it was there for about 5 min. and the lightining disapeared and then the thing disapeard real fast she has never seen any thing like it before.  She said it wasn't a plane or any thing like that because it moved really fast.((NUFORC Note:  One of two reports from two witnesses in Syracuse.  We believe that advertising light would be the first possibility that should be ruled out in this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25831.html](http://www.nuforc.org/webreports/reports/025/S25831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
