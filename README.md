@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:28 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laura (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Blue Craft Over Laura, Ohio's Night SkyI am reporting this about 25 minutes after the sighting.I saw a very bright blue light (looked a bit like a fireball) speed across my street and it looked as if it "crashed" in the woods across the road. The sky is and was completely dark. If I had to take a guess, I would say that the object was the size of a small car. It was traveling at a very fast speed. It was fast and close enough that I was expecting to see some sort of explosion or hear some sort of explosion come from the woods, but nothing. Almost immediately I drove my car through a path in the woods, but I saw nothing. I got a bit creeped out so I didn't give a big investigation! Haha. The bad thing is that I am the only one that saw this object (as far as I know) and it is just another sighting that doesnt provide much hard evidence! - I plan to go out tomorrow morning to see if any evidence can be found.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66544.html](http://www.nuforc.org/webreports/reports/066/S66544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Plymouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white light or orb moving dramatically.Strange bright white light hovering which seems to be just above the tree tops on a mountain side, object was moving like a swinging back and forth motion, then it would go up the mountain side and then back down. I saw this light about a month ago, and then yesterday morning to the left of the mountain, same light and same moving characteristics. And saw the same object tonight on 10-29-21 on the right hand side of the mountain same place where I saw it the first time.  Witnessed by my girlfriend as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165126.html](http://www.nuforc.org/webreports/reports/165/S165126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
