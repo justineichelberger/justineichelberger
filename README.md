@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:01:58 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bowling Green (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There were three objects in the sky, quiet close together- all silent, two moving and one that stayed still until it disappeared.I have never really believe in UFOs before, and I’m not even sure what I saw. This is what I can tell you:  At about 7:50 PM, my friend and I went outside to smoke a cigarette. We were looking at an unusually bright star, concluding that it was probably a planet. We were discussing what planet it might be when I looked above it and saw a flashing light. I thought it must have been an airplane, but when I looked a bit higher, I saw two more. What was very strange is that none of the blinking lights were moving. They were very far away, so I couldn’t tell for sure if they were just moving very slowly. Then, the highest one started to rise upwards, and we realize that it was coming towards us. We watched, and the weirdest part is that it was completely silent. There is a small-craft airport in town, and we are used to hearing planes. This object made no noise at all.It kept moving towards us until it was finally above us and then past us. We looked up and noticed that it was shaped like a triangle with a light blinking on each end, one light red. I thought they might be government planes since Palin was in Bowling Green today. But they were so close together that it just seemed off. The one traveling above us kept going, silently. We looked back to the other two- one was gone, the other (the lowest one, the first I saw) was still in the same spot.We kept watching the moving one and then the third reappeared (or a fourth appeared, I can’t be sure) coming from a completely new direction. They were less than an inch away (from where I stood, it looked this way), slowed down a bit, and then kept traveling on.We watched for 4-5 minutes.I went inside to turn on the news and fire up my computer, but of course nothing was mentioned. I have never looked up anything online about UFOs before, and this was the first site I came across.I went back outside about 3 minutes after I stopped watching- the first object that I saw was gone, the one that moved over us was very far into the distance, and the third was also gone.((ADDENDUM FROM WITNESS))I am correcting the date on my previously submitted form- I wrote that it was the 30th when it is, in fact, the 29th.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66538.html](http://www.nuforc.org/webreports/reports/066/S66538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 151</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160504.html](http://www.nuforc.org/webreports/reports/160/S160504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
