@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mississauga (Canada) (ON) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two building-sized shapes floating slowly west to east along Lake Ontario waterfront south of Hurontario. Oct 29, 1:30pm, 2015I was travelling to an interview at Burnhamthorpe Rd./Hurontario Rd..  I had this in my calendar and can confirm time and date. I was travelling from Mississauga/401 area south-east for an interview at Burnhamthorpe and Hurontario rds.  For some of the trip I had a high vantage point and saw clear down to Lake Ontario.  I saw two rectangular shapes moving slowly from west to east.  They seemed to follow the lake front. They were higher than buildings, so perhaps 40-100 stories or higher in the air.  They were the size of 6 story buildings.. very large rectangles in comparison to nearby buildings.  I watched carefully but I could not see any airplanes or helicopters that would be pulling them.  They flew in formation, very slowly.  I watched as they flew from directly south in line with Hurontario, to perhaps Long Branch.  They were dark, perhaps black.  There was a slight cutout on the right (West) edge, starting at mid-height, going down to the bottom-right corner of the rectangle.  Both shapes had the same thin cutout.  I can provide drawing if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138529.html](http://www.nuforc.org/webreports/reports/138/S138529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Surgoinsville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 11:00 pm - 11:00 pm minutes.</sub><blockquote><sub>Mufon has confirmed sightings here before.It has rotated with the stars for the past 2 nights in the north-eastern sky.It displays yellow,red,blue,and white colors.Blinking brightly. At first I thought it might be a helicopter; but as time progressed it seems to move with the stars. I have a Jason Rotary Power 540 telescope and spent at least 30 mins trying to see what the object is but as yet; still no clue. Whatever it may be it doesnt look normal. Check it out and see what you can figure out.Its not hard to find.It sticks out like a sore thumb.((NUFORC Note:  Given that the object of interest was viewed for 3.5 hours, we suspect that it may be a celestial body, either a star or planet.  Only inspection of the object, and its location in the night sky, could resolve whether the object is anything unusual.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20009.html](http://www.nuforc.org/webreports/reports/020/S20009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
