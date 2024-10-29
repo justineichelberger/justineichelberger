@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Canton (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>We saw a long, slow formation of about 17 different lights, in smaller groups.  Some were red, some green, some white.  The red lights were in a Little Dipper formation.  The seemed to be 1200 or so feet up.  They were all flying at the same speed and disappeared out of sight.((NUFORC Note:  We have corrected the date, assuming that the sighting occurred in October, not November.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130904.html](http://www.nuforc.org/webreports/reports/130/S130904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Manistee (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large, low flying object spotted in Onekama, Manistee and Ludington by many residents on Tuesday 10-29-2013 at 8pm.Watching tv, home alone with my dog.  Dog sits up and is listening to something.  I turn down the tv and immediately hear a low steady hum.  I then am seeing 2 red lights right in front of my house in the air, yet low to the ground and moving slowing west.  We spring to the front door and stand on the steps and watch as this large object moves slowly right in front of me and starts turning south just yards, yards from my house.  The dog is barking like nuts, we run through the house to the back deck and watch as it continues south.  Moving slow and steadily with just a low hum.  One red light on the front and one blinking red light at the rear.  It passed over a tree line on the edge of our property and then I cannot see it anymore.  Heading I thought toward our small airport...following M-22 toward US 31.  Low enough that after it had gotten past the trees, I lost sight of it.  I live in the country, no street lights, there was just a sliver of a moon, no stars--extremely dark of course.  I couldn't make out an exact shape, yet I had this feeling it was huge, possibly the size of a football field.  I couldn't really see the entire object straight on, making me think it was HUGE.  After talking about this all day on Facebook, many people have come forward and had seen the exact same thing.  From Onekama to Manistee to Ludington.  I was so transfixed and in shock and awe, I couldn't even believe what I was seeing with my own eyes.  What the hell was this???  So what is it???  I was unable to get a photo...too dark, too surprised!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103730.html](http://www.nuforc.org/webreports/reports/103/S103730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
