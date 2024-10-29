@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two tiny lights become one, then fade away slowly.So me and my wife usually smoke cigarettes on our back patio before going to bed. Being such a chilly night, we wrapped our arms around each other. We were having a normal conversation when I looked up to see if I could see the stars. Due to wear we live, some nights you can, some nights you can't. My wife is looking the opposite direction I am when she say's, "Look a shooting star". I turned, looked where she was pointing, when I said; "That's no star!" It was moving really fast, then stopped. It stayed in one spot for a good two seconds, when I second object merged with the first, and they began to glow super bright, white light. It dimmed slowly for about a second, then evaporated as if it was getting smaller. It's then we realized it was moving away from us, not dimming. Almost as if it was heading into space. I pulled my phone out, and got a good couple seconds of it. Wish I had it out the whole time, because two objects became one, ! but the video only show's just the one bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149990.html](http://www.nuforc.org/webreports/reports/149/S149990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Canton (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>We saw a long, slow formation of about 17 different lights, in smaller groups.  Some were red, some green, some white.  The red lights were in a Little Dipper formation.  The seemed to be 1200 or so feet up.  They were all flying at the same speed and disappeared out of sight.((NUFORC Note:  We have corrected the date, assuming that the sighting occurred in October, not November.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130904.html](http://www.nuforc.org/webreports/reports/130/S130904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
