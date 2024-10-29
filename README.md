@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:28 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:14 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Plymouth (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white light or orb moving dramatically.Strange bright white light hovering which seems to be just above the tree tops on a mountain side, object was moving like a swinging back and forth motion, then it would go up the mountain side and then back down. I saw this light about a month ago, and then yesterday morning to the left of the mountain, same light and same moving characteristics. And saw the same object tonight on 10-29-21 on the right hand side of the mountain same place where I saw it the first time.  Witnessed by my girlfriend as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165126.html](http://www.nuforc.org/webreports/reports/165/S165126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>fireballi was having a smoke outside on the patio i live about 1 mile away from the airport i just was looking up into the sky and i saw a sphere like a fire ball moving in sig sag stopped and then took off super fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84998.html](http://www.nuforc.org/webreports/reports/084/S84998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
