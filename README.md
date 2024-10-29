@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:05:04 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 151</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160504.html](http://www.nuforc.org/webreports/reports/160/S160504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mayfield Heights (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SOLID ORANGE PYRAMID SHAPED OBJECTS FLYING OVER MAYFIELD HTS., OH.3 TOTAL - SOLID ORANGE – PYRAMID SHAPED OBJECTS - FLYING OVER MAYFIELD HEIGHTS, OHIO.  EACH OBJECT WAS FLYING WEST TO EAST AROUND 10PM EST.  THERE WAS 45 TO 60 SECOND S BETWEEN EACH OBJECT.  THERE WAS NO NOISE COMING FROM THESE ORANGE PYRAMID SHAPED OBJECTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130900.html](http://www.nuforc.org/webreports/reports/130/S130900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
