@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:05:04 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mayfield Heights (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SOLID ORANGE PYRAMID SHAPED OBJECTS FLYING OVER MAYFIELD HTS., OH.3 TOTAL - SOLID ORANGE – PYRAMID SHAPED OBJECTS - FLYING OVER MAYFIELD HEIGHTS, OHIO.  EACH OBJECT WAS FLYING WEST TO EAST AROUND 10PM EST.  THERE WAS 45 TO 60 SECOND S BETWEEN EACH OBJECT.  THERE WAS NO NOISE COMING FROM THESE ORANGE PYRAMID SHAPED OBJECTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130900.html](http://www.nuforc.org/webreports/reports/130/S130900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Moncton (Canada) (NB) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red flashing lightsIt was the morning of Wednesday, October 29th, at 6:55am.  In the city of Moncton, New Brunswick.  While we were driving down our street we seen something in the sky coming towards us that was about  300-400 up in the air.  Once it got beside us it hovered over us for about a minute and started flashing a red light while we waited at the stop sign to turn left.  It appeared to have a lot of lights on it and looked kind of square/rectangle shape.  Once we turned left to go down the street it started flashing its red light faster then kind of looked a bit oval as it flew off in the same direction as us in the distance.  Then it disappeared.  Not sure what to make out of it but it certainly didn't look or act like an airplane or a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115012.html](http://www.nuforc.org/webreports/reports/115/S115012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
