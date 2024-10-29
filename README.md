@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:14 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:25 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>fireballi was having a smoke outside on the patio i live about 1 mile away from the airport i just was looking up into the sky and i saw a sphere like a fire ball moving in sig sag stopped and then took off super fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84998.html](http://www.nuforc.org/webreports/reports/084/S84998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Silver Lake (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>unknown plane/craft in OregonI recently observed this plane near Silver Lake, OR on Oct 29, 2012 about 11:30 am.http://www.youtube.com/watch?v=_uIXOl61qRI  I didn't have any video equipment at the time, so only my memory of the event remains.  What I first heard sounded similar to this  http://www.youtube.com/watch?v=081FuoN8K40  but after half a minute or so it came to sound more like an airplane engine, and then the craft flew overhead.  The speed seemed similar to jets I've seen in the sky, and the altitude I would say was around 15-20,000 feet. It was much lower than a commercial craft, but still fairly high to my eye, and the elevation of the ground where I was lay around 4,000 feet above sea level.  I'd never seen anything like it, and I was alone at the time in a remote area, with the nearest person many miles away. Naturally I was perplexed and a little frightened, but the day went on, and then today I found these two videos.I have checked "contacted by investigator" only if you think it is useful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94178.html](http://www.nuforc.org/webreports/reports/094/S94178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
