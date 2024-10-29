@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 28 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Canfield (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>White light east southeast of here seems to be flashing red and blueI see one white light that is flashing red and blue, I thought it might be an airplane but it hasn't moved in over 20 minutes not up not down no movement.  There are no towers over that way that I've ever seen before.  And I often look as I usually look at the sky while walking my dog.  I was looking at Orion this evening when I noticed this thing it was almost straight down from the first star in Orions belt.  I'm still observing it does seem to be getting somewhat higher but still a white light flashing red and blue.  Maybe its a star I don't know I've never vseen a star flash like that before((NUFORC Note:  The report is not inconsistent with a bright star that appears in the southeastern sky during the early morning hours.  We have received many reports about it.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10353.html](http://www.nuforc.org/webreports/reports/010/S10353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laura (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Blue Craft Over Laura, Ohio's Night SkyI am reporting this about 25 minutes after the sighting.I saw a very bright blue light (looked a bit like a fireball) speed across my street and it looked as if it "crashed" in the woods across the road. The sky is and was completely dark. If I had to take a guess, I would say that the object was the size of a small car. It was traveling at a very fast speed. It was fast and close enough that I was expecting to see some sort of explosion or hear some sort of explosion come from the woods, but nothing. Almost immediately I drove my car through a path in the woods, but I saw nothing. I got a bit creeped out so I didn't give a big investigation! Haha. The bad thing is that I am the only one that saw this object (as far as I know) and it is just another sighting that doesnt provide much hard evidence! - I plan to go out tomorrow morning to see if any evidence can be found.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66544.html](http://www.nuforc.org/webreports/reports/066/S66544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
