@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:19 on 29 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Katlenburg_Lindau (Germany) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object was observed on two days from my Apartment in a rural German town.  When looking out of my windows at approx. 1800h I saw a very very bright object which looked very unusual.  It was to big and to bright for a star.  It was standing approx 20 dgrees above the horizon over a ridgeline.  It moved very very slowly over the ridgeline without changing the its hight.  It maintained the approx. 20 degrees above the horizon.  The ridgeline is a wooded area.  For approx. twenty minutes the object flew very slowly over the ridgline with a steady slow speed.  At some point it started, what looked like a descend towards the ground.  I was now watching it with my binoculars.  It was shining very bright.  Through my binoculars it looked like as if it was now on the ground between the trees and was radiating a clearly visible and strong Halo.  After a couple of minutes it just went out and was gone.I tried to photgraph it with my Samsung phone. The three photos are attached.  The moment the photos were shot is the moment where the object started its descend.I also attached a daylight Picture from my Apartment to the ridgeline to put the pictures into perspective. The daylight picture is not related to the incident.The same event happend the next day.After that I never saw it again.Although it is a rural town I am living in it was home to a famous Space Institute which supplied knowledge and devices for a lot of famous Nasa Missions.  This Institute moved into its new Headquarters 20 miles away at the beginning of 2013.  The sighting was at the end of the 2013.  At this time the Institute was gone and only the empty buildings remained in November of 2013.  When I first saw the light, it was hovering in the direction of these empty buildings.  I am not sure if this is important.Wikipedia Page of the facility (Old location of the facility in my town is also seen): https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Solar_System_Research</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147058.html](http://www.nuforc.org/webreports/reports/147/S147058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A hovering large, rectangle-shaped object with lights over the 150th St. area just south of Dodge ExprsswyBetween 144th and 156th street exits on the Dodge Expressway, I saw a large object in the sky.  It was a large rectangle shape and all across the front, it had bright white lights.  Underneath the craft, you could see what looked like a faint light coming from inside the object.  At the back, was a red light.  It came from the Southwest and hovered over about 150th St., on the south side of Dodge for about three minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93960.html](http://www.nuforc.org/webreports/reports/093/S93960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
