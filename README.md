@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mechanicsville (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very loud craft with two vertical neon green circlesI was getting out of my car and heard what I thought was a plane landing, which is not unusual since I live so close to the Richmond Airport.  Then, the sound got louder and louder, like the “plane” was about to crash in my front yard.  The noise was very similar to the engine of a plane, but not the whistling sound planes make when they are in air.  I walked outside to see where the craft was and saw what definitely was not an airplane.  All I could see of the craft were two neon green circles on each side of whatever the body was.  I could not see the body because the green nights were too bright.  It appeared that the lights were spinning like propellers, but the lights made hollow rings, not full circles.  They were also spinning vertically, like wheels on a wheel chair.  What was also interesting is that even though it looked like the craft was moved by the propellers, they did not make the pulsing noise that helicopter propellers make, it was a very consistent, loud engine sound.  The craft also had a small blinking white and red light on the body, but it was flying way too low to have been anything legitimate.  The craft flew out of my sight probably in about 15 seconds, by the time I had my phone out to take a picture, it was gone.  I had never seen anything like it before, so I posted on facebook to see if anyone else had seen it, one person said that they had heard it and another said that they saw it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103769.html](http://www.nuforc.org/webreports/reports/103/S103769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in College Point (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular object with lights at each of its corners.  Very Bright, was not moving so fast, then I lost track of it.Hi just wanted to let you know that I saw a triangle shaped ufo from my window in College Point, NY.  I was researching and found similar footage on youtube and our your site to what i had seen.  It had bright lights on each of the corners of the triangle and in the middle i belive, it was very bright, was not moving so fast but I lost track of it due to other buildings around me and waited for it to show again but I didn't see it anymore.  it was moving north west in the opposite direction of the Laguardia Airport.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67260.html](http://www.nuforc.org/webreports/reports/067/S67260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
