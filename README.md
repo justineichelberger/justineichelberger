@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tuttle (OK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>cloaked UFO at high school track  On October 30th, 2010, me and 3 friends experienced 2 UFOs at our high school track.  At first we were going to go ghost hunting around the nearby "haunted" high school. We got out of the car and saw the last thing we thought we would see…  A flying object in the sky, way too close to the ground! It was outlined like a triangle or diamond with lights on the outlining (yellow, kinda orange lights, five of them) but what I noticed is that you couldn’t really see anything in the middle, like it was cloaked or something. We were very alarmed by this so we started walking towards the direction it went (northern, kinda).  After about 15 mins went by we started to walk back (we had seen it once again, but with 3 lights this time).  When we were walking back, all of a sudden, we hear coyotes howling but there was no moon?! We looked back and it was the same UFO we saw but this time it was coming towards us! We ran back to the car, frightened.  At first the car wouldn’t s! tart, but we drove back to the house and saw the flying object once again!  The object was totally silent...no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78963.html](http://www.nuforc.org/webreports/reports/078/S78963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>White light particle beam with small ball-like head moving silently over Post Falls IdahoI saw a UFO in the southern sky.  It was traveling from east to West. I was standing on my front porch looking at a constellation and suddenly I saw what first appeared to be a meteor but was traveling not as fast as a meteor--it resembled more a white particle beam with a white head on it.  It took about eight to ten seconds to get past the horizon and out of sight. Fairchild Air Force base is 30 or 40 miles west of my residence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103728.html](http://www.nuforc.org/webreports/reports/103/S103728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
