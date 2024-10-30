@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seaford (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>two cicular objects observes for about 15 seconds on a clear night, dimmed slightly once, then again and dissaperedAt about 19:20 I steped out side to have a smoke and as I looked up at the sky to the west norht west.  I saw to circular objects very high in the sky. I could not determine their speed and at first I thought it was a satilite. The objects were very clost together almost connected and as they traveled west north west they simply dissapered. At first I thought that they had moved behind a high cloud, but along the track that the object was going I could still see stars. I knew the object did not disapear into clouds but I still waited for about 10 minutes to see if it would re-apear. It never did. As I thought about it I thought that it could have been  an air craft heading for the local airforce base with its landing lights on. But the object that I saw was not projecting light, it look like it was reflecting light just as a satilite would, but it was not at that altitude. Were I to guess the altitude I would say it was at between 8 to 10,000 feet. And with the aircraft heading for the local airforce base you can hear they as they pass. This object made no sound at all. As it dissapeared it faded dimmed once,then again and then was gone((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53209.html](http://www.nuforc.org/webreports/reports/053/S53209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tuttle (OK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>cloaked UFO at high school track  On October 30th, 2010, me and 3 friends experienced 2 UFOs at our high school track.  At first we were going to go ghost hunting around the nearby "haunted" high school. We got out of the car and saw the last thing we thought we would see…  A flying object in the sky, way too close to the ground! It was outlined like a triangle or diamond with lights on the outlining (yellow, kinda orange lights, five of them) but what I noticed is that you couldn’t really see anything in the middle, like it was cloaked or something. We were very alarmed by this so we started walking towards the direction it went (northern, kinda).  After about 15 mins went by we started to walk back (we had seen it once again, but with 3 lights this time).  When we were walking back, all of a sudden, we hear coyotes howling but there was no moon?! We looked back and it was the same UFO we saw but this time it was coming towards us! We ran back to the car, frightened.  At first the car wouldn’t s! tart, but we drove back to the house and saw the flying object once again!  The object was totally silent...no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78963.html](http://www.nuforc.org/webreports/reports/078/S78963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
