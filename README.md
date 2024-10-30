@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamson (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>circular square object with flagging movement w/no soundThis objects shape was a circular square shape which waved in like a flag would, but not flacid. It wasnt a bag because it was too high up for a bag to be that high (a very faint wind)The sky was mostly clear and sunny but yet setting so the color was not clear it could have been black or smokey grey. It came from the southeast and was travelling northwest. because I live near lake Ontario it's easy to tell direction and it was going more north than west but veering that course. It lasted approximately 2 minuets and speed quessing 70 to 80 miles per hour. I didnt notice lights because of the sun position near the horizion but it was something I've never seen before and the shape also was high more than wide. Guessing again I would say it was about 4 to 5 hundred feet from the ground and in relation was about the size of a kitchen garbage can (the plastic kind). Had police investigate and not sure if they found or saw anything. The last detail I remember is that there was no sound either very quiet.((NUFORC Note:  We spoke with this witness, and he sounded to us to be quite serious-minded and credible.  While we were speaking with the witness, a law enforcement officer arrived at his residence, and reported that no other reports had been received by the local 9-1-1 emergency center.  The witness insisted that the object did not look like a paper or plastic bag, even though it had the general shape of a bag.  The peculiar object moved in a straight line across the sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32777.html](http://www.nuforc.org/webreports/reports/032/S32777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>4 objects not visible to the naked eye, flying around odd vertical  "rainbow."Driving home at 5pm headed towards the city from Elm Hill and 40-W I saw a small vertical rainbow in the sky.  I pulled over to take a few pictures, since the vertical sliver of rainbow was something I had never seen.  When looking at the camera screen I noticed 4 objects flying around the" rainbow".I looked without using the camera and could not see the objects with the naked eye.  I once again looked at the screen and the objects were still moving around the "rainbow."  I did this several times with the same result.I cleaned my lens, as well as checked my camera by taking photos of other things in the area.  This was not a dirty lens.  The objects could be disc shaped but it is hard to tell.  I have a series of photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93975.html](http://www.nuforc.org/webreports/reports/093/S93975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
