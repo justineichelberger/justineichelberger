@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in College Point (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular object with lights at each of its corners.  Very Bright, was not moving so fast, then I lost track of it.Hi just wanted to let you know that I saw a triangle shaped ufo from my window in College Point, NY.  I was researching and found similar footage on youtube and our your site to what i had seen.  It had bright lights on each of the corners of the triangle and in the middle i belive, it was very bright, was not moving so fast but I lost track of it due to other buildings around me and waited for it to show again but I didn't see it anymore.  it was moving north west in the opposite direction of the Laguardia Airport.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67260.html](http://www.nuforc.org/webreports/reports/067/S67260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamson (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>circular square object with flagging movement w/no soundThis objects shape was a circular square shape which waved in like a flag would, but not flacid. It wasnt a bag because it was too high up for a bag to be that high (a very faint wind)The sky was mostly clear and sunny but yet setting so the color was not clear it could have been black or smokey grey. It came from the southeast and was travelling northwest. because I live near lake Ontario it's easy to tell direction and it was going more north than west but veering that course. It lasted approximately 2 minuets and speed quessing 70 to 80 miles per hour. I didnt notice lights because of the sun position near the horizion but it was something I've never seen before and the shape also was high more than wide. Guessing again I would say it was about 4 to 5 hundred feet from the ground and in relation was about the size of a kitchen garbage can (the plastic kind). Had police investigate and not sure if they found or saw anything. The last detail I remember is that there was no sound either very quiet.((NUFORC Note:  We spoke with this witness, and he sounded to us to be quite serious-minded and credible.  While we were speaking with the witness, a law enforcement officer arrived at his residence, and reported that no other reports had been received by the local 9-1-1 emergency center.  The witness insisted that the object did not look like a paper or plastic bag, even though it had the general shape of a bag.  The peculiar object moved in a straight line across the sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32777.html](http://www.nuforc.org/webreports/reports/032/S32777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
