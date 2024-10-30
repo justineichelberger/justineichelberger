@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately several mins. - several mins. minutes.</sub><blockquote><sub>Sighted at the intersection of Preston Hwy. and Gilmore Lane on the saturday before Halloween around 10:30 to 11:00pm. Large dome-shaped object with lights on the underneath side.I first sighted this object along with two other witnesses after a Halloween party on the saturday night before Halloween 1976. We saw the object over Alder Ave. moving silently and slowing east and then hovering over the intersection of Preston Hwy. and Gilmore Lane. It hovered there silently for several minutes befoe moving east again following the path of Gilmore Lane toward Poplar Level Rd. The object appeared to be 100ft-200ft in the air. It was a large dome-shaped craft with a dull metalic finish that was visible due to the ambient light. It was flat on the bottom with a large center light and smaller lights rotating around the center light. The smaller lights were moving slowly in a counter-clockwise direction. We reported it to Standiford Field (our local airport) and questioned if anyone else had reported the same. Three years later in July, 1979 I saw the same object in the same area (I lived 2 blocks form the original sighting). On this occasion I was with my neighbor and we ran to Preston Hwy. and once again it hovered for a couple of minutes before moving eastward toward Poplar Level Rd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05613.html](http://www.nuforc.org/webreports/reports/005/S05613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange object traveling from East to West in Wellington FloridaGoing from East to West and moving at a relatively slow speed was an orange object and at times it seemed as though it was burning, getting somewhat larger then smaller in size.  Moved in straight line most of the times with the exception of zig-zagging as it moved out of view.  The was no sound with the movement.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130926.html](http://www.nuforc.org/webreports/reports/130/S130926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
