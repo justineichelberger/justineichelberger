@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange object traveling from East to West in Wellington FloridaGoing from East to West and moving at a relatively slow speed was an orange object and at times it seemed as though it was burning, getting somewhat larger then smaller in size.  Moved in straight line most of the times with the exception of zig-zagging as it moved out of view.  The was no sound with the movement.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130926.html](http://www.nuforc.org/webreports/reports/130/S130926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Canyon Lake (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright white oval jumps southwest then disappears into thin air.On October 30, 2011 at 8:02 PM central time I witnessed what I believe was a UFO.  As I was on my street coming home, directly above the tree line towards the southwest.  I saw a bright white bluish light smaller than the moon but larger than the view of the planet mars from earth.It was so bright at first I thought it was a falling star but, when I kept looking at it, it almost seemed to jump slightly southwest. Then it just vanished into thin air, almost as if it closed itself into nothing.  It was so bright I’ve never seen anything like this before.  The way it moved so fast then to just disappear like that was so unsettling.The outline was like an oval submarine and had a blue purple hue to it, the center was a bright white light. When it did that fast jump/slide movement to the southwest I could see the outline of the craft.  When it disappeared it was like it closed into itself very fast.  It reminded me of a sparkler when you move it to try and write your name yet you can see the outline of the glow.  Then gone as if nothing was ever there.Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85013.html](http://www.nuforc.org/webreports/reports/085/S85013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
