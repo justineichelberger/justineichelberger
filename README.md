@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We were on the highway near exit 23 by Hollywood, FL, and we saw 3 lights in the sky.  Right above the tree line and below the stars.  They were higher than a building though.  They were in a triangle formation and weren't really moving.  I saw the ground where they were for about 3 seconds and saw more and they were all in a half circle shale to the ground but I couldn't see after a while because we were driving.  Just giant balls of light.  On the way back home we saw nothing that looked like it and there were strange vehicles and cop cars all near the area where we saw them.((NUFORC Note:  Witness provides a photo, which indicates three brightly lighted objects, against a dark night sky.  However, the lights are blurred and "smeared" in the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143680.html](http://www.nuforc.org/webreports/reports/143/S143680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>white circle, looked like it may have something on the bottom maybe an "X," can't tell from picturesTaking pictures of the rainbow effect seen yesterday around the sun, later when zooming in to look at the rainbow noticed the circle... took 4 pictures (three around the same time and 1 about 3 hours later) noticed that it was in all 4 shots in different areas (even the first three that were taken anywhere from 1 to 3 minutes apart the circle shows up in different areas).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93991.html](http://www.nuforc.org/webreports/reports/093/S93991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
