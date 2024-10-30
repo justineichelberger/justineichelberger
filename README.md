@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>4 objects not visible to the naked eye, flying around odd vertical  "rainbow."Driving home at 5pm headed towards the city from Elm Hill and 40-W I saw a small vertical rainbow in the sky.  I pulled over to take a few pictures, since the vertical sliver of rainbow was something I had never seen.  When looking at the camera screen I noticed 4 objects flying around the" rainbow".I looked without using the camera and could not see the objects with the naked eye.  I once again looked at the screen and the objects were still moving around the "rainbow."  I did this several times with the same result.I cleaned my lens, as well as checked my camera by taking photos of other things in the area.  This was not a dirty lens.  The objects could be disc shaped but it is hard to tell.  I have a series of photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93975.html](http://www.nuforc.org/webreports/reports/093/S93975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>We were on the highway near exit 23 by Hollywood, FL, and we saw 3 lights in the sky.  Right above the tree line and below the stars.  They were higher than a building though.  They were in a triangle formation and weren't really moving.  I saw the ground where they were for about 3 seconds and saw more and they were all in a half circle shale to the ground but I couldn't see after a while because we were driving.  Just giant balls of light.  On the way back home we saw nothing that looked like it and there were strange vehicles and cop cars all near the area where we saw them.((NUFORC Note:  Witness provides a photo, which indicates three brightly lighted objects, against a dark night sky.  However, the lights are blurred and "smeared" in the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143680.html](http://www.nuforc.org/webreports/reports/143/S143680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
