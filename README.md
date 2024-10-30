@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>white circle, looked like it may have something on the bottom maybe an "X," can't tell from picturesTaking pictures of the rainbow effect seen yesterday around the sun, later when zooming in to look at the rainbow noticed the circle... took 4 pictures (three around the same time and 1 about 3 hours later) noticed that it was in all 4 shots in different areas (even the first three that were taken anywhere from 1 to 3 minutes apart the circle shows up in different areas).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93991.html](http://www.nuforc.org/webreports/reports/093/S93991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular shape object with lights on all three points moving slowly north bound quik flash and disapearesMe and my wife were coming back from Phx,Az at 2:30 in the morning I pulled over to stretch my legs when I looked up and saw this large three star Triangle moving above us on the freeway. I asked my wife if she saw it to and she said, "yes".  I freaked out when all three stars light up at the same time and then vanished.  We witnessed this for a whole minute. This happened just 15 miles south of Flagstaff on I-17.  I called Lowell Observatory later that morning and asked if anyone reported anything strange or if they saw anything that resembled what I saw and was emmediatly laughed at. This is the second time I saw this object. The first I dismissed for what reason I don't know,  Now I believe we are not alone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48644.html](http://www.nuforc.org/webreports/reports/048/S48644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
