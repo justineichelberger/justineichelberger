@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:23 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:42 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Troy (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Unknown triangular (Kite-like) seen in sky over homeOn October 30, I went outside at 10:00 o' clock to walk my dogs. I looked up in the sky because we had heard some people were seeing the Aurora lights. I was disappointed that I didn't see anything. Then coming out of the NW, I saw a strange looking object. It was a triangular like object (when I drew out what I had seen it was like an upside down kite in shape). There were 4 lights that were visible to me-one in the front, 1 in the back, and 1 on each side. They were yellow lights, and they were not blinking as in most commercial aircraft.It had come from the NW, and it appeared to be heading SE as it went over my home. As it went over my home, it appeared to quickly turn a little more the East instead of going just straight to the SE. The craft appeared to move like it was gliding, but it was so quick. There was no sound coming from it. It was a very clear night out. The stars were shining. There was a light breeze. The object was hard to estimate how high that it was. It appeared to be 500-1000 feet or so. If I held my fist up in the air, it appeared to cover it. That is the best way I can describe how high up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32842.html](http://www.nuforc.org/webreports/reports/032/S32842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright green light moving fastwe were coming from cleveland oh heading home to youngstown.  we were on 76 east,  we were driving by the meander resevoir. We saw a green light in the sky going in the same direction as we were, it was moving fast and it dissapeared behind the trees.  We saw no object but a very bright green light moving fast.  We saw it for about 5 seconds.  it did not streak the sky. I'm just curious to know if anyone else reported anything.((NUFORC Note:  Anonymous report.  We have attempted to contact the witness, but the e-address provided is not valid.  We wonder whether the sighting might have occurred on 31OC00, when many other sightings occurred across the Midwest.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14933.html](http://www.nuforc.org/webreports/reports/014/S14933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
