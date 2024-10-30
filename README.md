@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 30 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Afton (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Massive glowing amber yellow rectangle.Massive glowing amber yellow rectangle flying way high in the sky, maybe, near the stratosphere, really slowly crept across sky and very slowly shrank into a barely visible dot that disappeared.  An older style rounded wing silver airplane was flying low in the sky beneath it when I noticed it and had my mother come confirm what I saw.  I tried to film with my LG Volt cellphone, but only saw sky in the viewer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123249.html](http://www.nuforc.org/webreports/reports/123/S123249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seaford (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>two cicular objects observes for about 15 seconds on a clear night, dimmed slightly once, then again and dissaperedAt about 19:20 I steped out side to have a smoke and as I looked up at the sky to the west norht west.  I saw to circular objects very high in the sky. I could not determine their speed and at first I thought it was a satilite. The objects were very clost together almost connected and as they traveled west north west they simply dissapered. At first I thought that they had moved behind a high cloud, but along the track that the object was going I could still see stars. I knew the object did not disapear into clouds but I still waited for about 10 minutes to see if it would re-apear. It never did. As I thought about it I thought that it could have been  an air craft heading for the local airforce base with its landing lights on. But the object that I saw was not projecting light, it look like it was reflecting light just as a satilite would, but it was not at that altitude. Were I to guess the altitude I would say it was at between 8 to 10,000 feet. And with the aircraft heading for the local airforce base you can hear they as they pass. This object made no sound at all. As it dissapeared it faded dimmed once,then again and then was gone((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53209.html](http://www.nuforc.org/webreports/reports/053/S53209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
