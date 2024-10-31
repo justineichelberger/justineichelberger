@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Early morning Sighting in Torrance CA from 110 Fwy Pulsing Stationary objectI was travelling north on the 110 (Harbor Fwy) on my way to work through dense coastal fog. The object caught my eye at about the 10:00 position to my left at about 45 degrees and about the size of a pea held at arms length.The light was whitish yellow and pulsing at approximately 5 second intervals. At first I thought I was seeing one of the local refineries burning off gas because the light appeared to be stationary and quite bright and was indistinct through the fog.As I drove north I would lose sight of it behind some of the buildings located along the freeway which indicated to me that its height was relatively low.The closer I got to the 405 fwy intersection the closer I got to the object until I got almost directly underneath the it.I rolled my window down and was able to watch it for about 5 seconds due to slow conditions in the fog on the freeway.I see the Goodyear blimp almost every day and this was not it, especially at this time of day. I watch the jets come in every day at LAX & Long Beach. This was not a jet. There are all kinds of floating ads all around the freeways but not ones with this kind of size and light.The shape of the object is difficult to describe but at this point it was as big as a half dollar held at arms length. It was roughly a shoebox shape with dozens of lights randomly and non symmetrically distributed over a “surface” that reminded me of an offshore oil platform, very detailed, with one non blinking red light at the north end of it. No flat or curved surfaces were obvious.After I drove under it I was unable to view it anymore.I am a local Aerospace Engineer with 33 year Classified Aircraft experience at Edwards AFB, Palmdale and others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85039.html](http://www.nuforc.org/webreports/reports/085/S85039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange objects in the morning sky over Seattle - on Halloween.When driving to my house in West Seattle, my sister (who was traveling south on Interstate 5) sent me a text message telling me about 2 objects in the sky that seemed to be flying towards one another. She made a joke about the fact that it looked like a jet intercepting some kind of UFO. I brushed her comments off at first, assuming she just saw jets or something typical of the Seattle area. About 10-15 minutes later, after she had arrived, I was looking outside in my backyard and saw the exact same type of objects she saw. There were several of these high altitude objects in the sky over the next 20 minutes or so. Some looked like jets, but a few did not. I'm no expert here, so for all I know these could be extremely high jets or it could just be a NORAD exercise or something, but someone said I should post it here so I did. Luckily, I caught some video of a couple of the objects. Here's a link to the video: http://www.youtube.com/watch?v=3ofjc7RiqPw#GU5U2spHI_4((NUFORC Note:  A contrail, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53292.html](http://www.nuforc.org/webreports/reports/053/S53292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
