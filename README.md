@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Franklin (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large flat black rectangular shape just hanging in sky.My husband and I were driving north on S 76th St  between W Forest Hill and W Rawson Ave and I noticed this large, flat, black rectangular object just hanging in the sky. It was pretty big.  It was not moving except for turning sideways or straight up and back again. There were no lights on it.  I said to my husband to look but he was driving and couldn’t see it. I kept watching it until some trees got in the way.  Once we passed the trees it was gone. There was no wind at the time either.  It happened so fast I didn’t get pictures. Weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160335.html](http://www.nuforc.org/webreports/reports/160/S160335.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fenton (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw three streaks in sky to right. Looked up saw three orange spheres heading toward St. Louis (but could see outer edges of round triangle shaped unlit wings). Three crafts continued, one disappered. Outside McDonalds other couple watching. I asked them, "What are they?"  Couple said we don't know.  Guy said look and coming over McDonalds in Fenton about eight orange bottom spheres flying over McDonalds roof heading toward St. Louis.  In large round formation.  Left McDonalds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66647.html](http://www.nuforc.org/webreports/reports/066/S66647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
