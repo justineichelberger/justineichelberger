@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:28 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 11:52 pm, I was on my way to work East bound on State road SR-201 at 8000 west.   A saucer shaped craft, emitting a glow of grey/white light moving up words from the valley floor into the clouds.  The craft was about 5 to 10 miles away in front of me to the east south east and was small pea size at arms length. The crafts starting point in the valley is unknown.  The craft was out of sight in seconds.  The clouds this night was small and separate from each other.  Temperature was about 47F. and no winds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47342.html](http://www.nuforc.org/webreports/reports/047/S47342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in The Woodlands (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 dots of light resembling stars, moving very slowly and disappearedIt looked like 2 stars, one was above and a little to the right of the other one.  They looked like stars but I look often at the sky and my intuition told me they couldn't have been.  They appeared about 30 degrees off the ground but very far away and far to too bright to be an aircraft.  I thought I saw them move so i ducked a little to use my roof as a reference and I watched them go behind my roof, I continued doing that about 2 or 3 more times before i assured myself that they were in FACT, moving.  I ran inside to get my dad but when i got back out the front dot was gone and the one in rear disappeared as i stared at it pointing for my dad to see.====PLEASE CALL the 936-((number deleted)) number because the one i called on is my housephone==== ((NUFORC Note:  Possible satellites??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93997.html](http://www.nuforc.org/webreports/reports/093/S93997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
