@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160509.html](http://www.nuforc.org/webreports/reports/160/S160509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>3 Red Lights over Tinley Park, ILAround 7:30pm we noticed 3 very bright red lights in the northern sky over Tinley Park.  The lights were in various formations changing from triangular shapes to a straight line.  They did not move very fast but rather moved with purpose.  We were able to caputure the lights on a video camera as well as observing them through binoculars.  Through the binoculars they were all the same shape and color; an oblong shape with crater-like indentations on the body of the object.  The lights moved into the eastern sky very slowly, again changing formations.  After about 25 minutes the first light faded away and the other two faded as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40369.html](http://www.nuforc.org/webreports/reports/040/S40369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
