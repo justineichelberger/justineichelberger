@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:23 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:47 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Riverdale (MD) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Halloween UFO!My best friend and I were driving to her sister's apartment for a Halloween Bash. Her boyfriend was riding with us. I was heading south on Kenilworth Avenue. Out of the blue we saw a strange craft going from left to right (Heading from East to West)It was about the speed of a plane. Appeared to be 10,000 feet in the air. It kept going. My friend and I were amazed at what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34262.html](http://www.nuforc.org/webreports/reports/034/S34262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hastings (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small fast moving Cloud like looking UFOs > Moving in same direction at same fast speed.We  were sitting in the back yard enjoying a fire telling and showing my daughter the stars and sky explaining to her how big the universe is. That's when she said " what is that moving fast,"  I looked up and saw the UFO.  My wife and I have been a witnesses of a UFo incident in 1997 in northern Texas.  It was very bright star, like moving in directions and speed that nothing could do on earth.  I have seen almost the same siteings on the history channel etc.  But what we saw tonight was camoflauge cloud like UFOS.  Both the same size moving much faster than the long stratas clouds in the area.With the moon glow shinning on the small cloud like looking thing.  No way was it a cloud, both were on same flight path and travaling at a much faster speed than the rest of the sky.  The more I think about what I saw the more it makes since.  What a better way to be discrete than taking the shape and looking like a small cloud.  No lights.  Just camoflage</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73098.html](http://www.nuforc.org/webreports/reports/073/S73098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
