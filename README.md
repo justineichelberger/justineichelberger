@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Finished with my friend/lead building a bathroom, etc.  Boring tedious shit.  Picking fiance from work, we head back over afterwards.  After a few drinks we decided to go outside for a cigarette.  As my fiance and friend face me, a huge ball orb, lit up like I have never seen before.  I have seen A lot this was no comet just like  sighting I had before in forest oaks.  But this was downtown Greensboro.  Could barely see stars maybe few fingers full.  No one saw it at all. I've seen and studied ufology, etc., since I was 16 years old.  I know what I saw.  Brightest light blue orb or ship idk.  But I bet I could have drive 115 miles and found that ufo.  Chose to stay drink.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130930.html](http://www.nuforc.org/webreports/reports/130/S130930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Royalton (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It light the whole sky up a if i was in a dreaming and i felt my dead aunt with me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150287.html](http://www.nuforc.org/webreports/reports/150/S150287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
