@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Perris (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Dark, dull Chevron shaped object flying over Perris, CaWe were passing out candy for Halloween outside. In between passing candy out we were watching a video on my tablet while my wife was looking up at the stars. all of the sudden she noticed that there was something flying in the sky that was very dark and was Chevron shaped. She asked both of us what was that flying in the sky, so we looked up and all witnessed the craft flying. The sky was dark but the object was just slightly lighter grayish color so it was slightly visible. it was just bright enough so you can make the shape of it out but there were no lights and no sound. The object was flying southward over our house.  We were all amazed at what we saw. About 15 to 20 minutes later my wife was in the backyard and witnessed yet again the object flying this time North.  we have seen drones fly by before and you can hear the engines on those when they fly by but with this there was absolutely no sound and the shape was different. We are used to seeing milit! ary aircraft being close to the March air reserve Base and have seen a lot of planes flying at air shows so we know it was not a craft that we were used to seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149948.html](http://www.nuforc.org/webreports/reports/149/S149948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160509.html](http://www.nuforc.org/webreports/reports/160/S160509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
