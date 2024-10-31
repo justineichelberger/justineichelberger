@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burnsville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball in the sky while viewing Mars 10/31/05My husband and I were getting the telescope setup to view Mars.  The sky was very clear, there were no lights since we are in the mountains. We hadn't completed the setup yet, but we were looking at Mars when we both saw a bright fireball, from our perspective it was about 6" down and 4" to the right.  The fireball was traveling N to S we assumed it was space junk or a satellite, because it had a fire trail behind it. The fireball went out several seconds after it appeared, but the burning trail lasted for a couple of minutes. With the naked eye we saw blue and white colors only. Was this just a satellite?  We haven't been able to find any info about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47403.html](http://www.nuforc.org/webreports/reports/047/S47403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brecksville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle craft in clearing at Cuyahoga Valley National ForestMe and 2 of my friends were out driving in the Cuyahoga Valley National Forest, looking for "Helltown", a popular place for teens to hang out at on halloween.  We passed through it because we saw a sheriff and headed north on Riverview Road.  We then turned west on Snowville Road, but turned around to go back to "Helltown".   Upon turning southbound on Riverview Road, we looked behind us to check for traffic.  In the sky, hovering was a black triange, about a couple thousand feet off the ground.  It had 4 lights that were a bluish hue, 3 in the corners and one in the middle.  We tried to take pictures with our cell phones, but nothing came out.  We turned off the radio and the car for a moment to check for sound, and there was nothing.  After a minute or so, we got scared and decided to leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66640.html](http://www.nuforc.org/webreports/reports/066/S66640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
