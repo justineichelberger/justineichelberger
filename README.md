@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:16 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chambersburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>We were trick or treating with our daughters Halloween night.  My husband and i both saw a fireball in the sky. Looked lower than any meteor I have ever seen. It was very bright and had fire that looked like it was dripping from the actual ball.  It also seemed to be moving much slower than a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47518.html](http://www.nuforc.org/webreports/reports/047/S47518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Diamondhead (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Oct.31 @11pm Saw a round bright green basketball size object 75' from my house tree top level.The night of Oct.31st., 2014, @ 11pm, my wife and I were in bed asleep, when we woke to a bright green light shining in our bedroom windows.Our bedroom faces our backyard and all woods.  We both ran to the windows and saw an object the size of a basketball and brightest green light moving at tree top level horizontally from left to right.When I first saw the object, it dropped three round bright red and green balls from underneath and continued horizontally across the yard and then stopped and you could  see looked like steam or vapor coming out of the top then the light when out.We went back to bed and 45min. later @11:45 p.m., we saw it again and it did the same thing tree top level left to right and then went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115423.html](http://www.nuforc.org/webreports/reports/115/S115423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
