@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.7 - 0.7 minutes.</sub><blockquote><sub>8:15 OCT. 31  SPOTED A LARGE CRAFT APPROACHING FROM THE EAST AT FIRST I THOUGHT IT WAS A PLANE.IGOT UP AND WENT ON MY BALCONY, AND WATCHED IT.IT WAS MOVING VERYSLOW ALMOST FLOATING LIKE A BLIMP. IT HAD LIGHTS ON IT. I COUNTED 7 . FLASHING ACROSS WAYS AMBER, RED AND GREEN. IT DRIFTED ACROSS THE CITY AND THEN TURNED SAOUTH HEADING TOWARDS PREDITURE RIDGE. I WATCHED IT UNTIL IT JUST DISAPEARRED  SLOWLY OVER THE HILLS.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We assume that the witness implies an evening sighting, and we have changed the time to reflect that fact.  ed that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47334.html](http://www.nuforc.org/webreports/reports/047/S47334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Franklin (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large flat black rectangular shape just hanging in sky.My husband and I were driving north on S 76th St  between W Forest Hill and W Rawson Ave and I noticed this large, flat, black rectangular object just hanging in the sky. It was pretty big.  It was not moving except for turning sideways or straight up and back again. There were no lights on it.  I said to my husband to look but he was driving and couldn’t see it. I kept watching it until some trees got in the way.  Once we passed the trees it was gone. There was no wind at the time either.  It happened so fast I didn’t get pictures. Weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160335.html](http://www.nuforc.org/webreports/reports/160/S160335.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
