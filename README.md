@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Clarksville (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White ball shaped bright object whizzing across the holloween skyI was out trick or treating with my daughter and our neighbor and his daughter when we saw a bright white ball shaped light speed across the sky overhead. It was approximately 200 feet up and was traveling west to east, it didn't make any noise and after it crossed over us and it split into two and then the lights winked out.When it appeared I pointed it out to the my neighbor and all of the 30-50 people in our area trick or treating looked up and saw it as well.There was a story about it on WTOPNEWS.com that stated that it was a meteorite, but the story mentioned an orange and blue object and gave a time of 9:15pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47376.html](http://www.nuforc.org/webreports/reports/047/S47376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Torrance (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Early morning Sighting in Torrance CA from 110 Fwy Pulsing Stationary objectI was travelling north on the 110 (Harbor Fwy) on my way to work through dense coastal fog. The object caught my eye at about the 10:00 position to my left at about 45 degrees and about the size of a pea held at arms length.The light was whitish yellow and pulsing at approximately 5 second intervals. At first I thought I was seeing one of the local refineries burning off gas because the light appeared to be stationary and quite bright and was indistinct through the fog.As I drove north I would lose sight of it behind some of the buildings located along the freeway which indicated to me that its height was relatively low.The closer I got to the 405 fwy intersection the closer I got to the object until I got almost directly underneath the it.I rolled my window down and was able to watch it for about 5 seconds due to slow conditions in the fog on the freeway.I see the Goodyear blimp almost every day and this was not it, especially at this time of day. I watch the jets come in every day at LAX & Long Beach. This was not a jet. There are all kinds of floating ads all around the freeways but not ones with this kind of size and light.The shape of the object is difficult to describe but at this point it was as big as a half dollar held at arms length. It was roughly a shoebox shape with dozens of lights randomly and non symmetrically distributed over a “surface” that reminded me of an offshore oil platform, very detailed, with one non blinking red light at the north end of it. No flat or curved surfaces were obvious.After I drove under it I was unable to view it anymore.I am a local Aerospace Engineer with 33 year Classified Aircraft experience at Edwards AFB, Palmdale and others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85039.html](http://www.nuforc.org/webreports/reports/085/S85039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
