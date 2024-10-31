@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:28 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pink flying object that disappeared into cloudsI have an old dog who wakes me up to go potty at all hours of the night.  She woke me up at 2:30 on the morning of October 31 and we went outside to my backyard.  I live in the approach zones for DIA so I see many aircraft flying overhead with their landing lights on for their approach to the airport.  There are 3 safety approach zones for the airport for all but police and emergency aircraft, usually helicopters.  One goes west to east, another goes south to north and the last fro southwest to the northeast.As I was sitting watching my dog I notice an unusual aircraft flying out of the normal safety zones.  I was flying way north of the west to east zone and perpendicular to the south to north zone; crossing the southwest to northeast zone.  Next its "landing lights" were pink, not white or yellow.  It also did not have any navigation lights flashing.  The craft was moving rather slowly then came to a complete stop for about a minute or longer.  Then it started moving again.  It disappeared into the clouds.  The entire time there was not a sound of any kind made not even my dog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138322.html](http://www.nuforc.org/webreports/reports/138/S138322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 11:52 pm, I was on my way to work East bound on State road SR-201 at 8000 west.   A saucer shaped craft, emitting a glow of grey/white light moving up words from the valley floor into the clouds.  The craft was about 5 to 10 miles away in front of me to the east south east and was small pea size at arms length. The crafts starting point in the valley is unknown.  The craft was out of sight in seconds.  The clouds this night was small and separate from each other.  Temperature was about 47F. and no winds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47342.html](http://www.nuforc.org/webreports/reports/047/S47342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
