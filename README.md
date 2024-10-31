@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:48 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>3 Red Lights over Tinley Park, ILAround 7:30pm we noticed 3 very bright red lights in the northern sky over Tinley Park.  The lights were in various formations changing from triangular shapes to a straight line.  They did not move very fast but rather moved with purpose.  We were able to caputure the lights on a video camera as well as observing them through binoculars.  Through the binoculars they were all the same shape and color; an oblong shape with crater-like indentations on the body of the object.  The lights moved into the eastern sky very slowly, again changing formations.  After about 25 minutes the first light faded away and the other two faded as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40369.html](http://www.nuforc.org/webreports/reports/040/S40369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Vernon (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.7 - 0.7 minutes.</sub><blockquote><sub>8:15 OCT. 31  SPOTED A LARGE CRAFT APPROACHING FROM THE EAST AT FIRST I THOUGHT IT WAS A PLANE.IGOT UP AND WENT ON MY BALCONY, AND WATCHED IT.IT WAS MOVING VERYSLOW ALMOST FLOATING LIKE A BLIMP. IT HAD LIGHTS ON IT. I COUNTED 7 . FLASHING ACROSS WAYS AMBER, RED AND GREEN. IT DRIFTED ACROSS THE CITY AND THEN TURNED SAOUTH HEADING TOWARDS PREDITURE RIDGE. I WATCHED IT UNTIL IT JUST DISAPEARRED  SLOWLY OVER THE HILLS.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We assume that the witness implies an evening sighting, and we have changed the time to reflect that fact.  ed that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47334.html](http://www.nuforc.org/webreports/reports/047/S47334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
