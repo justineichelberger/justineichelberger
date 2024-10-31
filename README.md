@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange objects in the morning sky over Seattle - on Halloween.When driving to my house in West Seattle, my sister (who was traveling south on Interstate 5) sent me a text message telling me about 2 objects in the sky that seemed to be flying towards one another. She made a joke about the fact that it looked like a jet intercepting some kind of UFO. I brushed her comments off at first, assuming she just saw jets or something typical of the Seattle area. About 10-15 minutes later, after she had arrived, I was looking outside in my backyard and saw the exact same type of objects she saw. There were several of these high altitude objects in the sky over the next 20 minutes or so. Some looked like jets, but a few did not. I'm no expert here, so for all I know these could be extremely high jets or it could just be a NORAD exercise or something, but someone said I should post it here so I did. Luckily, I caught some video of a couple of the objects. Here's a link to the video: http://www.youtube.com/watch?v=3ofjc7RiqPw#GU5U2spHI_4((NUFORC Note:  A contrail, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53292.html](http://www.nuforc.org/webreports/reports/053/S53292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Augusta Springs (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw an unusual bright blue flash in the sky and then noticed a trail in the sky that quickly faded away.My mother, boyfriend, younger brother and myself were traveling in a south/southwesterly direction in Augusta Springs, VA on the road that goes past the Augusta correctional center.  It was about 9:00PM. All of a sudden my mom, boyfriend and I saw a bright electric blue flash, like heat lightning, that lit up the whole sky and interior of the car.  Out of the driver's side window my mom noticed a trail going through the sky. She pulled over the car so that my boyfriend and I could get out to see it.  It looked like a vapor trail with a bend in it. It was fairly short, if I had held a ruler up to the sky in front of my face it would have been 4-6 inches long. It was a greyish blue color and came down from the sky at about a fortyfive degree angle.  It faded away in about 1 minute or less from when my mom had first noticed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47377.html](http://www.nuforc.org/webreports/reports/047/S47377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
