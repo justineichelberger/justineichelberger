@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Royalton (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It light the whole sky up a if i was in a dreaming and i felt my dead aunt with me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150287.html](http://www.nuforc.org/webreports/reports/150/S150287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pink flying object that disappeared into cloudsI have an old dog who wakes me up to go potty at all hours of the night.  She woke me up at 2:30 on the morning of October 31 and we went outside to my backyard.  I live in the approach zones for DIA so I see many aircraft flying overhead with their landing lights on for their approach to the airport.  There are 3 safety approach zones for the airport for all but police and emergency aircraft, usually helicopters.  One goes west to east, another goes south to north and the last fro southwest to the northeast.As I was sitting watching my dog I notice an unusual aircraft flying out of the normal safety zones.  I was flying way north of the west to east zone and perpendicular to the south to north zone; crossing the southwest to northeast zone.  Next its "landing lights" were pink, not white or yellow.  It also did not have any navigation lights flashing.  The craft was moving rather slowly then came to a complete stop for about a minute or longer.  Then it started moving again.  It disappeared into the clouds.  The entire time there was not a sound of any kind made not even my dog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138322.html](http://www.nuforc.org/webreports/reports/138/S138322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
