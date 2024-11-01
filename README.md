@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 31 October 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fenton (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw three streaks in sky to right. Looked up saw three orange spheres heading toward St. Louis (but could see outer edges of round triangle shaped unlit wings). Three crafts continued, one disappered. Outside McDonalds other couple watching. I asked them, "What are they?"  Couple said we don't know.  Guy said look and coming over McDonalds in Fenton about eight orange bottom spheres flying over McDonalds roof heading toward St. Louis.  In large round formation.  Left McDonalds they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66647.html](http://www.nuforc.org/webreports/reports/066/S66647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port  Orchard (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Glowing white lights  that move in different patterns.I live on an acre of land, which only a quarter was cleared of.  The rest is trees' and bushes.  I took my dog outside around 8:30pm.  Looked up and noticed how clear the sky was.  The dogs in the neighborhood were barking in a way, that was not normal for them.  I watched the sky, while my dog went about his business.  As I was looking up I'd noticed a very, very bright star, circle, what ever was moving.  It moved in jerks, zigzag, up, down.  This star as I call it was, I guess staying basically in one area.  To far up in the sky, to really identify.  Called my husband outside and he confirmed what I was seeing.  I then called my girl friend and her husband up on the phone as they live up on a hill in Bremerton.  Told her what to look for and about where they might see it.  She also confirmed what I was watching.  Now they live close to the Bremerton Naval Station.  To her surprize and ours, three helicopters' took off from the base as we spoke.  Two towards the star and the other in the other direction.  Something else is puzzling me is that the sky was so unusually clear.  There were other stars, only not as big., spread out about.  What was so different about them was how the light's would dim on them and then be so bright again.  I do live in the area where planes and helicopters' go over us, but this time there where no sounds; from them.  Color of lights was white.  So, anybody know what it was that we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25905.html](http://www.nuforc.org/webreports/reports/025/S25905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
