@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Berkeley (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>therethat morning i was driving west bound on I-70 near Lambert International Airport.  when i exit I-70 to get on I-170 north bound, to my left is the airport which had a regular commerical plane landing at this time. right above the airport there was a silver object shaped like a food cover that most hotels use.  this object was ascending once i got fully focus on it.  this was a clear sunny day with some clouds.  i watched this thing actully disappear into a clear sky.   further up was a commerical plane at a very high altitude with a smoke trail flying southwest across the sky.  i really don't know what i saw.  but i found it to be strange that 15min after i saw military frighters flying around and landing (which is normal because of Boeing). i'm not a UFO believer, but i saw what i saw.((NUFORC Note:  Witness elects to remain totally anonymous.  For another sighting over the same airport in July 1954, please see entry in the NUFORC database for that date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26032.html](http://www.nuforc.org/webreports/reports/026/S26032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Martinsburg (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bottom of a huge aircraft hovering directly over the yard.I was working night shift at the switchboard. I went outside on the porch, because I heard a humming, low, pulsating noise-like that heard in a transformer yard.I stepped ontp the porch and looking around, I didn't see anything. I went back inside, but continuing to hear the noise, again went out to investigate. This time I looked up. Whoa-WHAT IS THAT?I was huge! It was gray metallic, and was blocking the stars. It was about the size of 3 rancher style house,like the one I was in. It had ridges all along the bottom of it, and all I could see was the bottom of the craft. I am going to say it lookes like an aircraft carrier(navy) as far as its construction and size, and I could only see the bottom. A very thin light started to shine from the bottom of the craft, and I immediately became frigtened and went back inside. I heard the hum of the craft for another 10 sec. or so, and I assume when it took leave it created a power surge, which put out the lights briefly enough for me to have to reset the clocks.I have seen other things I felt unusual, but that one was the most dramatic thing I have ever seen. It was incredible!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51684.html](http://www.nuforc.org/webreports/reports/051/S51684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
