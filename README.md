@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:35 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Circle' over a period of approximately On Going - On Going minutes.</sub><blockquote><sub>Bright halo in centre of bright light in sky, Nov 2009I took photo of a constant brillaint star with a digital camera,and zoomed in at over 100, as I enhanced film on my PC there is a white halo light in the bright  light that looks like an unexplained Phenomena.It looks the shape of the crop cirles shaped instrument, those that are appearing in certain areas of the Country only this is a light form Although quit faint the circle can be defined from the very bright light that surrounds it, this would mean the halo shaped light is brighter then the brillant light that surrounds it.I am bemused by this sighting and have the photographs of it in my camera.((NUFORC Note:  We will request a copy of the photo, but it sounds to us as though the object may be an optical aberration, caused by extreme magnification.  Probably not a genuine UFO, but we will check.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74449.html](http://www.nuforc.org/webreports/reports/074/S74449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Diagonal lights shift into pyramid shape and fade into the distanceI looked to the North West and the 6 lights were in a diagonal line perfectly spaced.  Then they moved to a pyramid shape; then went into a horizontal formation and went off into the distance without a recognizable shape.  Yellowish orange lights.  No flashing indicator lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123281.html](http://www.nuforc.org/webreports/reports/123/S123281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
