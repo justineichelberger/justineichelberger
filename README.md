@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Liberty Lake (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light for about an hour hovering above mountain.  Due south of Liberty Lake.((NUFORC Note:  Sighting of Venus, we suspect.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103779.html](http://www.nuforc.org/webreports/reports/103/S103779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Denman (Australia) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Green, egg shaped glowing objects in sky. Hovering around southern cross star constelation. We were not under the influence of any illegal, or legal, substances.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40303.html](http://www.nuforc.org/webreports/reports/040/S40303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
