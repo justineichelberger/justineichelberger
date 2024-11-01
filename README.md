@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Diagonal lights shift into pyramid shape and fade into the distanceI looked to the North West and the 6 lights were in a diagonal line perfectly spaced.  Then they moved to a pyramid shape; then went into a horizontal formation and went off into the distance without a recognizable shape.  Yellowish orange lights.  No flashing indicator lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123281.html](http://www.nuforc.org/webreports/reports/123/S123281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Vaucouleurs (LorFrance () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving across sky, stopped and after about a half minute it shot directly verticle in elevation instantanously.In the winter of 1967 or 1966, myself and my girlfriend were sitting in my car on a rural mountain near Vaucouleurs, Lorraine, France and we saw what was first thought of as a shooting star (comet) moving horizontially from our left to right(approx. 45 degrees) across the sky and then just stopped to our right, after abt. a half minute of watching it.  It was motionless for abt. 20 seconds and then just shot up verticly to abt. 80 degrees instantanously and again was motionless.  It appeared to be way above our atmosphere.  At that time we became frightened and left the area and returned to Vaucouleurs.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33772.html](http://www.nuforc.org/webreports/reports/033/S33772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
