@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Elsinore (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Hundreds of mini stars flying low above the ground.It was a new moon night and approaching from the North at about 500 ft over the ground. Hundreds of very bright lights, like small stars, blue white in color, were traveling across the sky at about 5 to 15 mph.  Each light was a individual light .  I am a hang glider pilot , and watching the movement , it looked like birds with a very high power ball of light attached.  At one moment the cluster turned into a column gaining altitude.  The show was amazing. Cars pulling off the road everywhere.  The main cluster moved to the west at about 1500 ft agl now and was out of sight towards the coast.  There was a few ball of lights on there own maybe half a mile behind the main group and trying to catch up.  I have never seen anything like it.  My best guess is some kind of a experiment. I think the lumen s of the lights was very high, very bright .  I am doing all i can now to find out what it was.  Amazing to say the lease.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103848.html](http://www.nuforc.org/webreports/reports/103/S103848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two Orbs Seen Over ScottsdaleWe were at a restaurant eating dinner when we noticed two bright orange balls of light traveling parallel to each other and the ground.  They were well over the horizon and traveled in a straight pattern for a short period of time.  They appeared to have a tail similar to a comet's.  The objects then veered opposite of their current direction fairly quickly.  One of the objects then stopped moving and started to spin, and then quickly disappeared.  The other ball of light then began to spin for a second or two then disappeared like the other did.  That was the last that we saw of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25928.html](http://www.nuforc.org/webreports/reports/025/S25928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
