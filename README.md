@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two Orbs Seen Over ScottsdaleWe were at a restaurant eating dinner when we noticed two bright orange balls of light traveling parallel to each other and the ground.  They were well over the horizon and traveled in a straight pattern for a short period of time.  They appeared to have a tail similar to a comet's.  The objects then veered opposite of their current direction fairly quickly.  One of the objects then stopped moving and started to spin, and then quickly disappeared.  The other ball of light then began to spin for a second or two then disappeared like the other did.  That was the last that we saw of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25928.html](http://www.nuforc.org/webreports/reports/025/S25928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>White orb traveling on a straight line in a NE direction over West Hartford.  Second orb (rd) also observed below.Witness saw one white orb with no navigational lights, markings or insignias traveling on a straight line in a NE direction over West Hartford and were viewed from Willard Ave and Francis Ave in Newington.  The orb disappeared from view and reappeared on the same line of travel, but much further away.  It then turned abruptly back like in the shape of a knife blade and stopped.  A second orb (red) materialized bellow it, but at a distance and both orbs turned on a white blinking strobe light below their crafts.  The red orb was flying in a circle pattern and made one turn before both continued in the same directon of travel/ speed, towards the NE.  Witness lost sight of them as he continued North on Willard Ave/ Newington Rd. (MUFON CMS)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150477.html](http://www.nuforc.org/webreports/reports/150/S150477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
