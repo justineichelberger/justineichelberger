@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:48 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port  Orchard (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Glowing white lights  that move in different patterns.I live on an acre of land, which only a quarter was cleared of.  The rest is trees' and bushes.  I took my dog outside around 8:30pm.  Looked up and noticed how clear the sky was.  The dogs in the neighborhood were barking in a way, that was not normal for them.  I watched the sky, while my dog went about his business.  As I was looking up I'd noticed a very, very bright star, circle, what ever was moving.  It moved in jerks, zigzag, up, down.  This star as I call it was, I guess staying basically in one area.  To far up in the sky, to really identify.  Called my husband outside and he confirmed what I was seeing.  I then called my girl friend and her husband up on the phone as they live up on a hill in Bremerton.  Told her what to look for and about where they might see it.  She also confirmed what I was watching.  Now they live close to the Bremerton Naval Station.  To her surprize and ours, three helicopters' took off from the base as we spoke.  Two towards the star and the other in the other direction.  Something else is puzzling me is that the sky was so unusually clear.  There were other stars, only not as big., spread out about.  What was so different about them was how the light's would dim on them and then be so bright again.  I do live in the area where planes and helicopters' go over us, but this time there where no sounds; from them.  Color of lights was white.  So, anybody know what it was that we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25905.html](http://www.nuforc.org/webreports/reports/025/S25905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pleasanton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large saucer shaped object, with many windows, which was flying slow and low to the ground  was seen tonight.In the city of Pleasanton my mother, a friend (11 yrs.), and me(11 yrs.) witnessed a UFO at approximately 8:40 PM western time. We were driving in the car.I was the first to notice it. It appeared to have a greenish aurora to the metal body of the craft. The top three rows of windows and the bottom three rows of windows were square  and seemed to be windows, which were emanating an unearthly white glow. There were also two rows of circular shaped windows in the middle of the ship from my point of reference that emanated the same white glow.There were also two red lights one was located towards the top, and the other was located towards the bottom. These red lights pulsed on and off every couple of seconds. There were also many white lights that were around the edge of the craft. The lights had the same glow as the windows.The ship was located 50 to 100 feet above the tree line and was moving around 40 miles per hour. It seemed like I was looking towards the bottom and sides from my location in the back seat of the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59571.html](http://www.nuforc.org/webreports/reports/059/S59571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
