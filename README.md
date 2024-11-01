@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 1 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brush Prairie (but it looks like somewhere up farther north) (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately it started at about 11 an - it started at about 11 an minutes.</sub><blockquote><sub>It was flashing and it wouldnt move, it kind of was  like police lights except with some  purple, and it was shaped like a fat nickel.Well, I had just layed down to go to sleep, I had been laying in bed for about 5 minutes or so. I turned over on my other side that faced tward my window, and i wasnt wearing my glasses, so i just so like, light that was flashing, so I put my glasses on and saw this little thing at first I thought it was just an  airplane but it wasnt moving so then i thought it was maybe a big star but it wasnt, i was flashing lights and it sort of hovered,not to sound cliche', kinda bobbing like a kite, I watched for about 10 minutes and it didnt move so I got my mom and we watched it for about another 10 minutes, but we both have poor eyesite so my mom told me to get some binoculars from my grandpa, so the 3 of us stood outside for about 20 minutes with our binoculars, and when it came into clear vision i just like go these horrible goose bumps and i could see that it was just like on tv, it was kind of like a fat penny, or i guess and nickel,and it had lots of lights, especially blue white red and purple, ditinctly. And my mom is still in her room watching it right now.((NUFORC Note:  The twinkling star, Sirius, is in the northeastern sky at this time of year.  That would be the first possibility that we feel should be ruled out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25902.html](http://www.nuforc.org/webreports/reports/025/S25902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Antigo (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>airport runway like lightsDriving on Highway 64, from Stevens Point to Antigo, My mother pointed out bright lights in a row in the field to the right of us.(west) It looked like an airport runway but it was not an airport, i'm very familiar with the area. The lights also appeared moving in the sky after we passed the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150681.html](http://www.nuforc.org/webreports/reports/150/S150681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
