@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Little blue green white and red flashing light, hovering of South East RapidSeen a flashing light of colors blue, green, white and a little bit of red in the direction of South East Rapid.  Stayed in the same spot for a long time then seems to move back and forth.  This is the second time we seen this.  We seen it last Saturday in the same exact spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103807.html](http://www.nuforc.org/webreports/reports/103/S103807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>v shaped object moving southbound in  New Port Richey FLme and my friend were sitting on my roof just looking up at the stars, it is a clear night tonight, and well we were looking up and this v shaped object flew overhead, i saw it first and then pointed it out to my buddy, it seemed to be traveling southbound on the coastline of florida at a somewhat fast rate, it looked like it blended in to the sky almost, seemed like it was almost see through, it was verry creepy, there was no sound at all, and it looked like there was verry dim lights but were so dim i am not sure,then as it got farther away it dissapeared. i was verry freakd out by this but verry excited at the same time too</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59572.html](http://www.nuforc.org/webreports/reports/059/S59572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
