@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pattaya (Thailand) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We have many aurcraft fly over us every day from Bangkok and Utaphao airports we know what an aurcraft looks this craft was not a planeA triangle shaped craft flying silently at Approximately 1000 to 1500ft heading dead south and offshore approximately 500ft.body of the craft was a dull black color with rectangle shaped dull orange colored bars in each corner 3 in total.No normal aircraft lights no engine sounds totally silent flying absolutely horizontal, at a constant speed estimated at 250kph.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143648.html](http://www.nuforc.org/webreports/reports/143/S143648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was looking up at around 23:00 northwards, and saw what appeared to be a rainbow-colored, as in changing colors, up in the sky. It stayed for a while, drifting slowly, then shot of towards the west, and it was gone. I heard a small bang, but the person next to me didn't see or hear it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73142.html](http://www.nuforc.org/webreports/reports/073/S73142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
