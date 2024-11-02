@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Mateo (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Large, dark triangular stealth aircraft with no lighting traveling south at 1500 ft just after dark.Just after dark at approximately 7:05pm this evening, observed low flying, dark triangular aircraft directly overhead and rapidly flying due south in a straight line.  Aircraft was very dimly, even faintly lit around its rounded edges with no typical aircraft lights or strobe.  Observed by two adult men (professionals ages 50 and 57) for approximately 5 or 6 seconds.  Though the craft seemed no higher than 1000 - 1500 feet, there was no observable sound.  Due to the craft’s speed, it traveled quickly out of sight within a few seconds.  Given the high use airspace and proximity to SFO, other commercial aircraft were observed much higher on this clear night with the typical faint jet engine drone.  Our thinking is that this craft could possibly be some sort of stealth military aircraft that may have been flying this evening with no lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78727.html](http://www.nuforc.org/webreports/reports/078/S78727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cleveland Heights (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular neutral-silvery  object with 3 circular illuminations in each corner on the underside seen for 15 minutesCleveland east side, November 2, 2015 : Bright object about 60 degree angle seen in the northeast sky at 4:20 pm.  I observed for it a good solid 4 minutes while it did nothing but remain stationary high up in the sky. It did not shift, bounce, vibrate, or jiggle. My husband ran in the house and came out with binoculars which we used to view the object. We were able to see that it was clearly a triangle shape, that it was a rather neutral looking silvery color, and that it had 3 distinct circular illuminations located near each corner on the underside.  The illuminating light was white and  bright. The light never blinked, but was continuous. We viewed the object for a total time of 15 minutes from when I first noticed it.It appeared to stay in one place, but several times as I viewed it through the binoculars, I was able to see it rotate as it stayed in the exact same place.Then it seemed to go higher and get smaller. From my vantage point, it appeared to go slightly north as it got smaller.There was no sound, no trail, & no ongoing linear movement.  It mostly appeared to hover, then go higher as I previously mentioned.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123331.html](http://www.nuforc.org/webreports/reports/123/S123331.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
