@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:19 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4+ - 4+ minutes.</sub><blockquote><sub>Loud hovering noises for the 3rd month in a row. Live near cafb but it sounds like grid searching every time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150314.html](http://www.nuforc.org/webreports/reports/150/S150314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gatesville (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 red lights on back 1 bright white on the front shaped like a old  bigbody Lincoln towncar with no top like a Flat rectangular brickIt was night time i was driving home from work when this slow moving rectangular shaped like a old bigbody lincoln Towncar with no top like a big flat brick floated by and it was about 150 to 200 feet in the air it had two red lights on the back and one big one on the front but made no noise as it went by. Iwas leaving from Gatesville heading south to Copperas cove.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73138.html](http://www.nuforc.org/webreports/reports/073/S73138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
