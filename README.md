@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:18 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hicksvllie (NY) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Appox 12 Cross like stationary Orange in color objects.There were appox 12 Cross like stationary objects 2 Groups of six, Orange in color Facing North of Hicksville NY Lite flickering like starts all 12 looked exactly the same Objects were slowly covered by clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150387.html](http://www.nuforc.org/webreports/reports/150/S150387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falcon (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 flashes 2 different times 3 minutes apart very brightWe saw at 2 different points to the south of woodmen and meridian Rd at about  i guess 12 o'clock as you look south 3 flashes about 10 seconds apart then nothing.  About 3 minutes later just down from these we saw 3 more flashes a little lighter then nothing more as of yet it is 8:22 now</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130966.html](http://www.nuforc.org/webreports/reports/130/S130966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
