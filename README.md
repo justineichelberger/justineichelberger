@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Low flying object flying extremely fast along the coast heading south, West Palm Beach.I saw what I first thought was an aircraft.  But it was flying much too fast.  There were no flashing lights, as most aircraft have. It was flying low, just on the horizon, from north to south paralleling the coast.  It was beige/off white in color and hazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150388.html](http://www.nuforc.org/webreports/reports/150/S150388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4+ - 4+ minutes.</sub><blockquote><sub>Loud hovering noises for the 3rd month in a row. Live near cafb but it sounds like grid searching every time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150314.html](http://www.nuforc.org/webreports/reports/150/S150314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
