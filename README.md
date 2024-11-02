@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Big silent green flash over Corona main street area.Big green flash over main street area that made no noise.  After the flash the sprinkling rain turned into a pour.  Stayed for several minutes after trying to get footage, but there was only the one initial flash during that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123323.html](http://www.nuforc.org/webreports/reports/123/S123323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norwich (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black thick scroll design in wing position.I noticed, what I first thought was, an airplane. It had a large black scroll design, thick in structure, where the wing would be. No tail. Realizing it was unusual, I turned to pick up my phone to take a picture and returned, less than 3 seconds later, to find it was gone. I stepped outside to search the sky. There was no obstruction of the sky for miles in all directions. It was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160369.html](http://www.nuforc.org/webreports/reports/160/S160369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
