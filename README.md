@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Flash of light followed by change in broadcast signals, and then unmarked black helicopter with searchlight.This is the first of the two encounters experienced this month by me, the only two in my lifetime that I am aware of. I am a full-time student and the other witness, my father, is employed full-time. I have not inquired further into any UFO experiences he has had but nothing has ever been mentioned. He is a very logical thinker and it is a crucial part of his profession. He cannot explain what we witnessed but does not hold any beliefs of it being extra-terrestrial.It was approximately 8:00 PM here in Bainbridge Island, WA when the incident occurred. A more specific date and time can be traced if you were to examine what was on television at the moment, which was a Los Angeles Lakers game being broadcast on TNT. A rainy night that me and my father spent watching the game, in a room with large windows taking up the majority of the wall. The view leads into a landscaped garden which extends into a wooded area. Past this area that extends a few hundred feet is another backyard that is not visible due to large trees.A timeout occurred in the game and my father took the opportunity to get a drink from the kitchen. As he stood up and started to exit the room, an intense bright light flashed to fill the entire room. The light came from directly in front of me and appeared to me to have come from somewhere within the landscaped area. The flash was described by both me and my father as similar to a camera flash, and that is what he thought it was at first. I suggested lightening but we both concluded it wasn’t that due to the lack of thunder and way it shined. It had shined into the room as if it was a flashlight, and by the time we had decided what it wasn’t, the TV switched from the game to a test emergency broadcast. It stumbled between that and static till it settled on an address being given by President Obama. Me and my father were confused and both had a strange feeling when a minute later an unmarked black helicopter flew over head with it’s searchlight on. A few minutes later it sw! itched back to the game on TNT with no explanation of the emergency broadcast test. Things continued as normal after that.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73502.html](http://www.nuforc.org/webreports/reports/073/S73502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Fast-flashing light crossed the sky at intervals while moving VERY fast.Walking the dog with my wife.  We saw a flashing light in the sky, then moments later it flashed 2 very quick times 2-hands distance away moving south across the sky. Within 5 seconds or less it flashed in the same way (2 very fast flashes) in the middle of the sky and flashed again in the southern sky before it passed the horizon.  It had just become dark. We could see no shape just the light.  But it crossed the whole unobstructed sky in less than 5 seconds flashing at intervals across the sky disappearing in-between.  Altitude seemed low but just assuming this due to it's speed across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160377.html](http://www.nuforc.org/webreports/reports/160/S160377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
