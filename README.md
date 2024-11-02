@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:18 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:04 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Falcon (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 flashes 2 different times 3 minutes apart very brightWe saw at 2 different points to the south of woodmen and meridian Rd at about  i guess 12 o'clock as you look south 3 flashes about 10 seconds apart then nothing.  About 3 minutes later just down from these we saw 3 more flashes a little lighter then nothing more as of yet it is 8:22 now</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130966.html](http://www.nuforc.org/webreports/reports/130/S130966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1960, an anonymous witness in Westbury (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Father Mother and son in car stopped in middle of street to see a saucer with lights around the rim hovering above their house.Driving home on election night in L.I. N.Y. 1960 my father spotted something as we turn into our neighbourhood, he raced to our house, above it was a saucer shaped object with lights blinking different colors around the rim, about 40 - 50 ft.up, hovering for about a minute without any sound, it then move across the street for a few seconds and sped off. My father and mother and I would love to know what we saw that day just before dark. My father says he saw windows as if there was a room inside. This was a close encounter. He also had been telling us that he saw one in the distance while driving in Queens N.Y. around 1957.  He aligned the object with a pole as it was still and then it shot off in super speed. Of course my mother would always scoff when he told that story untill we all witnessed this one.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32536.html](http://www.nuforc.org/webreports/reports/032/S32536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
