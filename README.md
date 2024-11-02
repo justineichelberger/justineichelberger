@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Naches (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>My son and his wife were sitting in their bedroom near South Naches area.  It was raining and still dark outside when there was a brilliant flash of white light out behind the house.  It was as if a giant flash bulb had gone off and it was gone.  At daylight several helicopters were heard flying low over the house, which is odd for that early in the morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103815.html](http://www.nuforc.org/webreports/reports/103/S103815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Mateo (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Large, dark triangular stealth aircraft with no lighting traveling south at 1500 ft just after dark.Just after dark at approximately 7:05pm this evening, observed low flying, dark triangular aircraft directly overhead and rapidly flying due south in a straight line.  Aircraft was very dimly, even faintly lit around its rounded edges with no typical aircraft lights or strobe.  Observed by two adult men (professionals ages 50 and 57) for approximately 5 or 6 seconds.  Though the craft seemed no higher than 1000 - 1500 feet, there was no observable sound.  Due to the craft’s speed, it traveled quickly out of sight within a few seconds.  Given the high use airspace and proximity to SFO, other commercial aircraft were observed much higher on this clear night with the typical faint jet engine drone.  Our thinking is that this craft could possibly be some sort of stealth military aircraft that may have been flying this evening with no lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78727.html](http://www.nuforc.org/webreports/reports/078/S78727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
