@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was looking up at around 23:00 northwards, and saw what appeared to be a rainbow-colored, as in changing colors, up in the sky. It stayed for a while, drifting slowly, then shot of towards the west, and it was gone. I heard a small bang, but the person next to me didn't see or hear it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73142.html](http://www.nuforc.org/webreports/reports/073/S73142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Naches (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>My son and his wife were sitting in their bedroom near South Naches area.  It was raining and still dark outside when there was a brilliant flash of white light out behind the house.  It was as if a giant flash bulb had gone off and it was gone.  At daylight several helicopters were heard flying low over the house, which is odd for that early in the morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103815.html](http://www.nuforc.org/webreports/reports/103/S103815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
