@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norwich (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black thick scroll design in wing position.I noticed, what I first thought was, an airplane. It had a large black scroll design, thick in structure, where the wing would be. No tail. Realizing it was unusual, I turned to pick up my phone to take a picture and returned, less than 3 seconds later, to find it was gone. I stepped outside to search the sky. There was no obstruction of the sky for miles in all directions. It was completely gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160369.html](http://www.nuforc.org/webreports/reports/160/S160369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kansas (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Found in pictureWe did not witness this, but later found it in the picture that we took. We took this picture because the light quality was so cool. I do not know where we were at the time other than "in the state of Kansas" because we were in the process of driving across the country from NYC to CA.((NUFORC Note:  We will post digital photos in the future.  We did receive a digital image that shows an anomalous object against a backing of clouds at just before sunset.  It is interesting, but it may be difficult to establish what the object is.  Location of sighting is unspecified.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15603.html](http://www.nuforc.org/webreports/reports/015/S15603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
