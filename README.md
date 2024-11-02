@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cleveland Heights (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular neutral-silvery  object with 3 circular illuminations in each corner on the underside seen for 15 minutesCleveland east side, November 2, 2015 : Bright object about 60 degree angle seen in the northeast sky at 4:20 pm.  I observed for it a good solid 4 minutes while it did nothing but remain stationary high up in the sky. It did not shift, bounce, vibrate, or jiggle. My husband ran in the house and came out with binoculars which we used to view the object. We were able to see that it was clearly a triangle shape, that it was a rather neutral looking silvery color, and that it had 3 distinct circular illuminations located near each corner on the underside.  The illuminating light was white and  bright. The light never blinked, but was continuous. We viewed the object for a total time of 15 minutes from when I first noticed it.It appeared to stay in one place, but several times as I viewed it through the binoculars, I was able to see it rotate as it stayed in the exact same place.Then it seemed to go higher and get smaller. From my vantage point, it appeared to go slightly north as it got smaller.There was no sound, no trail, & no ongoing linear movement.  It mostly appeared to hover, then go higher as I previously mentioned.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123331.html](http://www.nuforc.org/webreports/reports/123/S123331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Big silent green flash over Corona main street area.Big green flash over main street area that made no noise.  After the flash the sprinkling rain turned into a pour.  Stayed for several minutes after trying to get footage, but there was only the one initial flash during that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123323.html](http://www.nuforc.org/webreports/reports/123/S123323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
