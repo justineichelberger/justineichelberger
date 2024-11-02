@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:48 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:06 - 00:06 minutes.</sub><blockquote><sub>My friends, and I were out for lunch when we saw three triangle shaped lights beaming at a very low altitude.  The lights were so bright that we could feel the burning rays.  As we stood at the parking lot muted, the three objects flew overhead and dived into the Arkansas river.  We heard the loud splash from our location, but by the time we got close to the river, we can only noticed a steam rising from the river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20042.html](http://www.nuforc.org/webreports/reports/020/S20042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I just want to know what it was.  See the pics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115115.html](http://www.nuforc.org/webreports/reports/115/S115115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
