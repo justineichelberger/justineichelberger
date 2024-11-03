@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:27 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Austin (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver circular craft , shifting to rainbow crystalline in clear sunny sky; lasting 1-2 minBiking through cemetery in town just after 2:38 PM.  Witnessed bright silver circular object in sky 1/3 size of and to the right of the sun in clear sunny sky.  Lasted about a min or 2.  Quickly changed to light crystalline colors, and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137109.html](http://www.nuforc.org/webreports/reports/137/S137109.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bertram (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round orange glowing light passed over Bertram,Texas.My husband and I were walking our dogs and we noticed a bright round orange light moving across the sky.  It moved from southeast to northwest and we know that it was not an airplane,planet or satellite.  The whole object was glowing orange.  After it passed over us,I had a hard time getting my dog to walk with me on her leash.I know this sounds odd but, she just wanted to stand in one place. The sighting was just about three minutes long.My husband is 62 and I am 56.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94286.html](http://www.nuforc.org/webreports/reports/094/S94286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
