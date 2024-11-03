@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:26 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:56 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Circular object floating in place for a few seconds then darting off into the distanceI was driving home at 3:35 am and saw an object that looked like a shooting star but hovered over the horizon for a few seconds then darted off into the distance((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94070.html](http://www.nuforc.org/webreports/reports/094/S94070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle shaped object with 3 round lightsI was star gazing around 9:00 pm on the back deck of my home.  I looked straight up and saw 3 round lights moving in unison from the West to the East horizon.  The circles of grey light were located at each end of the triangle shape, and I estimate this triangle was about 100 feet across.  I looked away from the lights several times to make sure I was really seeing what I saw.  I was able to locate this moving object over and over again.  It took about 30 seconds for this object to move to the Eastern horizon.  This was no illusion!  I went to bed and dreamed of UFO's darting in and out of the clouds and across the sky.  These UFO's in my dream were both triangle shaped and rod shaped.((FOLLOW-UP MESSAGE/09MR04))Dear Peter, Thanks for all you do.  I check your site daily for updates and it's fascinating reading. I witnessed a ufo November 2, 2003, and reported it to you and it is posted in the database.  Since my sighting I have slowly come to realize that this ufo departed/exited in a very distinctive manner.  At around 9pm I saw three circles of gray light that were much higher than the typical commercial air traffic around Charlotte, NC.  They were in a triangle formation moving west to east.  I strongly believe they were separate from each other as I remember seeing the stars between/behind them as they progressed across the sky.  They were much larger than any star or commercial airline lighting.  Using the thumb measure, each circle was size of a pencil eraser. When the three circles approached the eastern most horizon the first circle appeared to curl up like it was going through an evelope slot or like it was curling upward around a cylinder or wringer of some sort.  I remember watching it curling and then all three lights went out or disappeared.  I wonder if this could be some sort of portal these crafts use to leave earthly dimension.  Forgive me if this account is of no use but I wanted to report it just in case you feel it truly is distinctive.  I also attached a rudimentary picture of the ufo that I drew on my Dell. Sincerely,  ((name deleted))((END))((NUFORC Note:  Graphic image shows three white circles in the sky, oriented in a triangular fashion.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32832.html](http://www.nuforc.org/webreports/reports/032/S32832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
