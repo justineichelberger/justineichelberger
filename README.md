@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:37 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:27 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Muskogee (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>me and my friend was up at the shopping center getting a snow cone when i looked up into the sky and seen a cylinder shaped object did not see any wings on it  then showed my friend he had seen it to  after that we headed back home ....believe me it was a shock to see this watched for a feww min then it was gone so i know it was no plain</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78721.html](http://www.nuforc.org/webreports/reports/078/S78721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Austin (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver circular craft , shifting to rainbow crystalline in clear sunny sky; lasting 1-2 minBiking through cemetery in town just after 2:38 PM.  Witnessed bright silver circular object in sky 1/3 size of and to the right of the sun in clear sunny sky.  Lasted about a min or 2.  Quickly changed to light crystalline colors, and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137109.html](http://www.nuforc.org/webreports/reports/137/S137109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
