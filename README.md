@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Parlin (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looked like Venus but then faded outAt about 6:30 PM, I was sitting outside, looking up 45 degrees from the horizon to the south, and saw what looked like the planet, Venus, because of its brightness, and was stationary.  As I was looking at it after about 10 seconds it started fading out to a brightness of a dim star.  Eventually I couldn’t see it anymore.  I don’t think it was a plane because it stayed in the same spot.I’d like to know what that was.  Do you know of any idea what that could have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123356.html](http://www.nuforc.org/webreports/reports/123/S123356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple (at least 15) small star looking lights, red and silver colors, flying in slow motion towards the northeastAs I was heading Southeast on Chicago drive in Wyoming,  multiple (at least 15 ) small star looking lights, red and silver in color, were flying in slow motion towards the northwest.  This is the fist time I ever experienced such a strange experience.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104092.html](http://www.nuforc.org/webreports/reports/104/S104092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
