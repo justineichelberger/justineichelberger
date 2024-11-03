@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loxahatchee (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO looking like it's on fire leaves with a sonic boom.Well I was visiting my mom and it was a cloudless night and you could see most of the stars being that Loxahatchee is basically in the woods.   I actually went outside to star gaze.  After about ten minutes as I look straight over my head I see this big object that looked like it was on fire.  It mimiced fire exactly, that's the only way to describe it.  It had to of been a few thousand feet up but it had to of been huge to look as big as it did that high up.  It was a hard shape to make out because it moved so fast but it could only have been a wide V shape or disc.  I only saw it for a few seconds but I saw it leave a trail like you see in Star Trek, I'm guessing because it was so fast.  Then it disappeared in a blink without a trace and I heard a mini sonic boom after.  There were no planes around and I've heard them make sonic boom but none this faint but I know what I heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94740.html](http://www.nuforc.org/webreports/reports/094/S94740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>6 amber circles traveling horizontally, following each other in a straight line, then disappearedI saw 6 amber-colored circles, not flashing, traveling from west to east in the southern sky, just above the horizon.  They looked to be following each other.  Shortly after I noticed them, they just disappeared.  Then, 2 more came up from the horizon, heading straight up, got just above the tree line, and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85147.html](http://www.nuforc.org/webreports/reports/085/S85147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
