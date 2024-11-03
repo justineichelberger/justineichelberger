@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chillicothe (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large white cylinder shaped object - stationary then accerated out of sightWhile driving East bound on Hwy 287 five miles west of Chillicothe, TX, I noticed what looked like bright airplane landing lights.  The light went out and a large white cylinder shaped object was visable.  Estimate its altitude=6000ft, length=200ft and diameter=40ft. It was stationary. I pointed out to my wife and pulled to the side of he road to look at it. 15 seconds after we stopped it slowly accelerated toward the east.  We followed it for 30 seconds maintining the same speed as the object until we reached 75mph.  It continued to accelerate until out of site 30 seconds later.This is our first observation of a UFO. We are both Christians, enjoy Star Trek, and do not beleive that non-human aviation exist. I served in the Air Force at NORAD.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25931.html](http://www.nuforc.org/webreports/reports/025/S25931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Parlin (NJ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looked like Venus but then faded outAt about 6:30 PM, I was sitting outside, looking up 45 degrees from the horizon to the south, and saw what looked like the planet, Venus, because of its brightness, and was stationary.  As I was looking at it after about 10 seconds it started fading out to a brightness of a dim star.  Eventually I couldn’t see it anymore.  I don’t think it was a plane because it stayed in the same spot.I’d like to know what that was.  Do you know of any idea what that could have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123356.html](http://www.nuforc.org/webreports/reports/123/S123356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
