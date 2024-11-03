@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Campbell (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Pinpoint of light moving far too fast to be a satellite...Also not a meteor because there was no trail......I saw what looked like a satellite going over head. However the speed at which it was traveling was 2 to 3 times faster than any earth orbiting object that I have ever seen. It traveled from south-east to north-west and I followed it until it went below the horizon. I have witnessed many different earth orbiting objects as well as Comets and meteors. There was NO trail behind the object. Like I said it looked like a satellite but moved far too fast to be that. (Maybe it was an asteroid)?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32853.html](http://www.nuforc.org/webreports/reports/032/S32853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Port Austin (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver circular craft , shifting to rainbow crystalline in clear sunny sky; lasting 1-2 minBiking through cemetery in town just after 2:38 PM.  Witnessed bright silver circular object in sky 1/3 size of and to the right of the sun in clear sunny sky.  Lasted about a min or 2.  Quickly changed to light crystalline colors, and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137109.html](http://www.nuforc.org/webreports/reports/137/S137109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
