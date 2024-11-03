@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Balck Diamond UFO over my house!!Frist of all it was awesome!!! It begun with a Flashing Light , then it was moving very slow and some times very fast ,I got some pictures with my digital camra so you can check it out...you know first my mother saw a black diamond shape that was flashing in the air so she got the most nearest view of that UFO , utill i got my camera it was way far!!! but i got some good pictures!!! you can zoom in and out!!! A>K<A</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20051.html](http://www.nuforc.org/webreports/reports/020/S20051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loxahatchee (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO looking like it's on fire leaves with a sonic boom.Well I was visiting my mom and it was a cloudless night and you could see most of the stars being that Loxahatchee is basically in the woods.   I actually went outside to star gaze.  After about ten minutes as I look straight over my head I see this big object that looked like it was on fire.  It mimiced fire exactly, that's the only way to describe it.  It had to of been a few thousand feet up but it had to of been huge to look as big as it did that high up.  It was a hard shape to make out because it moved so fast but it could only have been a wide V shape or disc.  I only saw it for a few seconds but I saw it leave a trail like you see in Star Trek, I'm guessing because it was so fast.  Then it disappeared in a blink without a trace and I heard a mini sonic boom after.  There were no planes around and I've heard them make sonic boom but none this faint but I know what I heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94740.html](http://www.nuforc.org/webreports/reports/094/S94740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
