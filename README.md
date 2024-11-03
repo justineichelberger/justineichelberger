@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 2 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>v shaped object moving southbound in  New Port Richey FLme and my friend were sitting on my roof just looking up at the stars, it is a clear night tonight, and well we were looking up and this v shaped object flew overhead, i saw it first and then pointed it out to my buddy, it seemed to be traveling southbound on the coastline of florida at a somewhat fast rate, it looked like it blended in to the sky almost, seemed like it was almost see through, it was verry creepy, there was no sound at all, and it looked like there was verry dim lights but were so dim i am not sure,then as it got farther away it dissapeared. i was verry freakd out by this but verry excited at the same time too</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59572.html](http://www.nuforc.org/webreports/reports/059/S59572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lynchburg (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>V-shaped lights, very faint and moving amazingly fast....this was no man made aircraft!!!I honestly have never seen anything in the sky quite like this.  I've seen plenty of meteors and a few satellites fall and crash into the atmosphere (a sight to behold if you've never had the priviledge!!!  Quite a light show!) but never anything like this.I was gazing at the stars at 8:00 p.m. while talking to a friend over the phone.  All of a sudden on the left skyline (would be east I suppose) a faint string of lights came flying across the sky in a V-shaped pattern.  The lights were very faint but still obvious to the naked eye.  They didn't blink either, not even flicker, and each light was perfectly intervalled with the next.  It looked like a flock of birds really, except that I haven't found a species YET that can illuminate in flight!  This V-Shaped string of lights "flapped" its "wings" while in flight and sped across the sky with a speed never duplicated by any of the man made aircraft I've seen (and I live fairly close to the airport, I've seen MANY planes come in, this was NO PLANE!!!)   As the craft was exiting to the western skyline, it "straightened" out and did a spiral like move, holding the shape of a circle for a few moments before looping back out into the flying V, and then it disappeared over the horizon.  This entire show took only about 20-30 seconds before it disappeared into the night and I never heard the sound of an engine or anything remotely distinguishable as such.  Again, I've never seen anything move like this, and certainly never this fast.  There were commercial airplanes in the sky at the same time this craft flew through, and they took easily 5 minutes or more to clear the amount of sky that this craft breezed through in 30 seconds!  I'm happy to see that others have reported very similar sightings in other areas.  Was it a UFO, you're guess is as good as mine.  Personally, I'm thrilled I had the opportunity to observe this craft, it is an experience I will not soon forget!((NUFORC Note:  We have responded to the witness, inquiring whether she thinks there is any possibility that the objects she observed might have been a "V" formation of migratory birds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47441.html](http://www.nuforc.org/webreports/reports/047/S47441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
