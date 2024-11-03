@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Maryland Hts. (MO) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Woman notices "tiny little shiny obj." in daytime sky.  It suddenly drops to horizon in approx. 10-15 sec., disappears from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00942.html](http://www.nuforc.org/webreports/reports/000/S00942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ten Mile (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Large light appeared over Watts Bar Lake.Light got bigger and become vertical oblong.Light was stationary for 3 minutes.  Then shot up 10,000 ft.Then light shot across sky traveling east to west very fast.  Two lights were on underside. One clear & one small blue light.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  We suspect that the event was an evening sighting, not a morning sighting, but we have no way to confirm that suspicion.  We have changed the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104117.html](http://www.nuforc.org/webreports/reports/104/S104117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
