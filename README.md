@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>while driving to wal-mart notice a reflection of something silvery high in the sky was to high up to notice shape or size but notice it didn't move like an airplane.I was on my way to do some shopping at wal-mart when I notice something very high and near the mountains, It was to high to see any detail it was only the sun reflecting of the surface that I notice. I tried to keep watch the object and drive which isn't easy. I notice an airplane that was heading towards the mountains and you could tell it was an airplane because of the white trail it left. the UFO had to be at the same altitude. Once the airliner got to close the object made a sharpe 45º turn toward the south then after a few seconds I lost sight of it. My back ground is I am 34 years old, I have a degree in Visual Communications and currently in school studing computer networking. I usually don't see strange objects in the sky. I don't know if this sighting will be helpful to your oganization but I felt like I had to tell someone. Thank you for listing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05211.html](http://www.nuforc.org/webreports/reports/005/S05211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Campbell (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Pinpoint of light moving far too fast to be a satellite...Also not a meteor because there was no trail......I saw what looked like a satellite going over head. However the speed at which it was traveling was 2 to 3 times faster than any earth orbiting object that I have ever seen. It traveled from south-east to north-west and I followed it until it went below the horizon. I have witnessed many different earth orbiting objects as well as Comets and meteors. There was NO trail behind the object. Like I said it looked like a satellite but moved far too fast to be that. (Maybe it was an asteroid)?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32853.html](http://www.nuforc.org/webreports/reports/032/S32853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
