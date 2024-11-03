@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple (at least 15) small star looking lights, red and silver colors, flying in slow motion towards the northeastAs I was heading Southeast on Chicago drive in Wyoming,  multiple (at least 15 ) small star looking lights, red and silver in color, were flying in slow motion towards the northwest.  This is the fist time I ever experienced such a strange experience.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104092.html](http://www.nuforc.org/webreports/reports/104/S104092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eurodisney/Marne La Vallée (France) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Formation of UFOs in the sky during Disney Parade at Eurodisney.This happened at the Disney Parade, at Eurodisney Paris, on monday evening the 3rd of November, just before 6PM.I was standing on the Main street USA watching one of the floats and taking pictures.  I only noticed those dots in formation after I got home, not while watching the parade.((NUFORC Note:  We have amended the time and date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115171.html](http://www.nuforc.org/webreports/reports/115/S115171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
