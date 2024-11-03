@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ten Mile (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Large light appeared over Watts Bar Lake.Light got bigger and become vertical oblong.Light was stationary for 3 minutes.  Then shot up 10,000 ft.Then light shot across sky traveling east to west very fast.  Two lights were on underside. One clear & one small blue light.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  We suspect that the event was an evening sighting, not a morning sighting, but we have no way to confirm that suspicion.  We have changed the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104117.html](http://www.nuforc.org/webreports/reports/104/S104117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange-red lights out over Gulf near Venice, FLOn the evening of Nov. 3, 2011, my husband and I were riding our motorcycle north on Casey Key Road, just north of Venice, FL.  I kept looking out over the Gulf and noticing an orange-red spherical light in the sky.  I told my husband to stop in a spot where we had a clear view out over the Gulf.  We both witnessed 3 orange-red lights in a triangular formation.  They would appear for several seconds and then fade out.  At one point all three lights were showing at the same time; then one would fade out and then another fade out.  They appeared stationary while we were watching.  Eventually we saw the same type light farther out near the horizon until all the lights faded away.  There was no noise, no strobe blinking like an aircraft.  We’ve never seen anything like it.  We watched for about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86623.html](http://www.nuforc.org/webreports/reports/086/S86623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
