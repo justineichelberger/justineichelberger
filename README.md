@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Bright star looks like snakeBright ball of light slowly descending, looks like star but when picture was taken it was in form of snake/dragon.  Took over 200 pictures all were in this shape with different colors.  Blue green yellow white red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104088.html](http://www.nuforc.org/webreports/reports/104/S104088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately short - short minutes.</sub><blockquote><sub>Epcot UFOs explainedBeware of reports of "Epcot UFOs."  There's a reasonable explanation for at least some of them... I work at Epcot, and was surprised one night to see small white objects flying erratically over Spaceship Earth (the huge white ball at the park).  It soon became apparent what they were:  The lights which illuminate Spaceship Earth shine up from the ground, and portions of the beams miss the building and continue into the sky.  This light is impossible to see, unless something in the sky enters a beam and is illuminated by it.  For reasons I still don't understand, sea gulls and bats make a habit of flying around this area after dark, entering and leaving the light beams continuously.  From a distance it appears as if small, brightly lit objects are performing impossible acrobatic maneuvers in the sky.  I'm not surprised to see the few reports in your database that seem to refer to this phenomenon--I'm an amateur astronomer used to observing the sky, and I found it quite startling the first time I saw it.((NUFORC Note:  Witness indicates the date of the sighting is approximate, even though the report is submitted on the date of the alleged sighting.  We are confused.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32834.html](http://www.nuforc.org/webreports/reports/032/S32834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
