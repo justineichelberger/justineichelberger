@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:28 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Collinsville (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I had just gotten out of my car.  The night was mild for November and clear.  I paused to look up at the stars above the roof of my house.  Movement to the east caught my attention.  I looked east and there were 15-20 (best guess) objects flying very high, I would guess 30,000 feet, from east to west.  They may have been higher than that but I have no idea how large the craft were so I have nothing to base a better judgement on. They were in a line that formed north to south but it wasn't an organized line.  As they flew the line flucuated as to which 'craft' was in the lead.  It reminded me of how a flock of geese act when they are trying to decide which will lead the flock until the V formation is made.  They were illuminated a blue/white but were high enough that I could not determine a shape.  They resembled small blueish stars.  Although they were flying at high altitude and a high rate of speed I was still able to stay focused on them from east to west.   At the rate they seemed to be traveling I would guess it was would have taken a very short time for them to cross the distance (east to west) of Illinois.  I heard no sound, either before I caught sight, during nor after.  I did not observe any contrails from them.  The illumination seemed steady, not flashing and only the blue/white hue.  No orange, red or yellow at all.  I did not observe any other aircraft in the night sky.  At the time there were no clouds to speak of.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47513.html](http://www.nuforc.org/webreports/reports/047/S47513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Belton (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately ONLY ONE - ONLY ONE minutes.</sub><blockquote><sub>bright streak with explosion and continued streakAt a retreat in Belton, Texas, I went outside to get some fresh air.  In the dark night sky I saw a bright streak with a sudden explosion or flash and then the streak continued toward earth.Does anyone know if this was a military exercise from the nearby Killeen Military base or a falling star?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47527.html](http://www.nuforc.org/webreports/reports/047/S47527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
