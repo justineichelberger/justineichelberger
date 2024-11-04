@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des moines (IA) reported seeing craft that fit the description of some 'Other' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>Was at stop light looked up seen hole in clouds. Snaped a few pixs. Later looked and seen something in first pix.I was in tracffic couldnt really get lot of info just took some pixs and looked at it later. Not sure what it was thought i would share.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165818.html](http://www.nuforc.org/webreports/reports/165/S165818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Elizabeth (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Around 5:00 est, My mother and sister were outside of kfc/taco bell in etown,ky when they decided to take pictures of the sky. In one picture there was a glowing circular object and within seconds the object was across the sky. In another photo there appears to be a hole in the sky and 6+ circular objects heading to/from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131104.html](http://www.nuforc.org/webreports/reports/131/S131104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
