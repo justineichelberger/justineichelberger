@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:27 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:01 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hour - hour minutes.</sub><blockquote><sub>dancing "star??" in morning sky...I have to wake up at 4:00 am every morning to get my husband off to work.  Was on my enclosed back porch, which faces east,  smoking a cigarette and saw an orange ball drop from the sky.  As I was looking in the direction that the ball fell, I noticed that a "star," or what I thought was a star, start dancing around in the sky. It shot back and forth, rocked back and forth like a cradle, did circles in the sky.  The light was white, but every so often a red light would blink. This started on Friday morning and I have seen it for the third morning straight now. It is too far in the sky for me to make out what it is.  No chopper sounds, no jet sounds.  I have not seen another orange ball drop from it again.  I am up every morning at the same time. Never sleep in on the weekends and I have NEVER saw this before.   The location is where the first star is at in the night sky. Venus?   It has lasted for an hour to an hour and half each of the three mornings.  I had my husband come out and look at it on the first morning to make sure I was seeing what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85194.html](http://www.nuforc.org/webreports/reports/085/S85194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Barrington (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 Orange Lights Hovering in Night Sky over Barrington, Illinois.(I saw this same thing on Monday, October 8th, 2018, 22:55 hrs., in Barrington, Illinois, with clear skies.  Me and my dog originally saw 3 orange-ish lights, all in one line, stacked on top of each other, like a traffic light....the lights were spaced closely to one another, changing color to like yellowy color and back to orange.)   Barrington/Barrington Hills, SW Night Sky...Sunday 11/4/2018 about 9:36 pm/21:36 hrs. some clouds in the night sky, but it had been raining most of the day and night. Cold 48' and ptly cloudy skies.  At time of sighting no rain.  Some clouds moving in night sky.Tonight took my dog potty, and floating about a half mile or less away in the night sky (in Barrington/Barrington Hills sky) were these same 3 orange colored lights.  They were obstructed behind a barren tree, I took photos and a video, but it kept moving and reappearing a few hundred feet from where it was.  I ran into my house, took photos using night mode, and took a video… I am including it for your review.My wife came out, and saw it also and she thought first it was a drone, then secondly, that it was a satellite.  She is unsure what it is.This is my second sighting and now I have another witness and some photos.I do not hear anything, and none of the lights on the object are blinking or flashing red....object does change colors from orange to yellow ish and back to orange.Update I went back outside with binoculars and my camera, and now it is raining, but I took some more photos of the area it was in. I did not see the object/s this time.I would like to know if anyone is seeing/seen these lights/objects in the area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143664.html](http://www.nuforc.org/webreports/reports/143/S143664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
