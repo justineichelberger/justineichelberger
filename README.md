@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raymond (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing object darts across sky followed by a bright white flash then vanishedI was unloading my groceries and happened to look up.  I seen what I think may have been a small craft that darted across the sky like a flash but it didn't really look like a "craft" more like a superhero going into hyperspeed as silly as that sounds. It had a blue green glow.  It shot off North, North-West and it was in our atmosphere. It felt like it was close by. A few seconds later, there was a flash in the sky directly North which look like a star exploded.  it was pretty bright, but a quick flash. The Flash was a bright white light.  There was no star there before or after. Perhaps it was a portal?The Object was more west of the bright flash and at a lower altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160412.html](http://www.nuforc.org/webreports/reports/160/S160412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft hovered over Wallace Road then took off towards other side of SalemWhile driving in West Salem around 6:30 at night we spotted some bright lights that were less than a mile in front of us.  As we got closer we noticed it looked like it was flying pretty low, sort of hovering over a section of trees for a few seconds.  We drove past it with it on the passenger side of the car and it started to fly away towards the downtown area, almost like it noticed that we saw it.  It looked like a solid triangle with three steady white lights on the bottom, one on each corner positioned to shine down. It also had red and white lights on the top that were blinking at different times and creating a glow around the top.  It didn’t seem like it was very big, maybe twenty feet wide at the most.  We tried to turn around and follow it but it was gone pretty quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73161.html](http://www.nuforc.org/webreports/reports/073/S73161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
