@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 3 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately currently - currently minutes.</sub><blockquote><sub>Floating ball of light making rapid movement in the sky with little faint lights moving around it.  Happening right now.I see what looks like a bright star in the sky but after watching I noticed it was moving very rapidly in every direction and little faint lights moving around it. It's 1:15 am right now and its still there.at one point the light fell very fast towards the ground but then just stopped and went straight back up at high speed.  And I can't see it on my phonrles camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103859.html](http://www.nuforc.org/webreports/reports/103/S103859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Shady Side (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw 3 bright lights, 1 was much bigger and brighter then 2 of them. they were hovering, and close to ground.Driving along the road, me and the passanger noticed 3 lights in the sky.  One was very large compared to stars and airplanes... it was hard to tell what the shape was but I would say it was round.  The lights were all very close to the ground, from where we were they were very far and seemed a little too close to the land.  Mainly because there were airplanes flying a lot farther up from the lights.  And were barely visible.  The bigger light was flashing, and when I took a picture of it, it turned out very orange, couldn't tell if there was any color because of the brightness.  We drove somewhere close to the water, enough to see the bay bridge and the light.  By time we got there the two that that were below the bright light disappeared.  And then there was just a bright light just hovering and making no movement.  Pretty amazing, never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85156.html](http://www.nuforc.org/webreports/reports/085/S85156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
