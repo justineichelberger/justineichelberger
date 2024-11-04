@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ellsworth (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was driving from River Falls to Ellsworth and aboutique 4 miles before I reached ellsworth I noticed a few miles ahead of me a translucent sort of silver circle just below the clouds.  It didn't move at all and after about 30 seconds it was just gone!  It hadn't moved!  One second it was there and the next....it just wasn't anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131200.html](http://www.nuforc.org/webreports/reports/131/S131200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raymond (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Glowing object darts across sky followed by a bright white flash then vanishedI was unloading my groceries and happened to look up.  I seen what I think may have been a small craft that darted across the sky like a flash but it didn't really look like a "craft" more like a superhero going into hyperspeed as silly as that sounds. It had a blue green glow.  It shot off North, North-West and it was in our atmosphere. It felt like it was close by. A few seconds later, there was a flash in the sky directly North which look like a star exploded.  it was pretty bright, but a quick flash. The Flash was a bright white light.  There was no star there before or after. Perhaps it was a portal?The Object was more west of the bright flash and at a lower altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160412.html](http://www.nuforc.org/webreports/reports/160/S160412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
