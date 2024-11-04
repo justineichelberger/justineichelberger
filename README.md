@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Granger (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was watching a movie in bed, facing the window, looking towards the eastern skyline, when a streak of bright white light went downwards.Looked outside to see if there was someone on the ground with a flashlight, but there was nobody there.  No other streams happened afterwards.  The stream started out strong and then faded rather quickly.  Happened sometime between 1:00 am and 1:20 am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123375.html](http://www.nuforc.org/webreports/reports/123/S123375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ellsworth (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was driving from River Falls to Ellsworth and aboutique 4 miles before I reached ellsworth I noticed a few miles ahead of me a translucent sort of silver circle just below the clouds.  It didn't move at all and after about 30 seconds it was just gone!  It hadn't moved!  One second it was there and the next....it just wasn't anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131200.html](http://www.nuforc.org/webreports/reports/131/S131200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
