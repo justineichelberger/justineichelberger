@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Windsor Locks (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>On saturday 11/4/00 at 13:45 I took my children to the new england air museum in Conn. I was filming the days events with my cam corder .We all went out side of the building ,it was a beatifull day blue skys and warm.I decided to film a passenger Jet that was flying due west at 30 thousand feet.the Contail of this jet was standing out against the blue sky.As I was looking into my view finder and zooming in on the passenger jet a bright object appears in the view box and last about 8 seconds .At the time I did not think to much of it .After returning home we made a carefull fram by fram inspection of the vidio tape . we made some very interesting observations . the object appears as awhit ball or oval shaped object and is located on the right side of the passenger jets contail. The object then goes behind the jets contail and reappears on the other side of the contail.We then followed the object fram by fram for 6 frams.this object has just covered 30 thousand feet in 3 seconds.The object while decending made a sharp U turn.The object than percedes across my view finder for 26 frams.((NUFORC Note:  We will attempt to obtain a copy of the tape for inspection.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14858.html](http://www.nuforc.org/webreports/reports/014/S14858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>line of light UFOA line of 7 sized tennis balls going towrds the sky then flew over our flat forming a circle then slowly vanished into the night.It was not fireworks as they explode and are fast.These lights made no sound and as they flew over the flat we raced to the balcony and watched them dissappear.The light were in a straight line and they was very slowly moving.I couldnt believe what i saw and it was definately no plane or helicopter.I must say now I am a believer I just wish the m.o.d would share this strange ufo sightings to us all.How can I say that what we saw was nothing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53257.html](http://www.nuforc.org/webreports/reports/053/S53257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
