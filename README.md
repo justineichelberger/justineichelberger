@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular craft hovered over Wallace Road then took off towards other side of SalemWhile driving in West Salem around 6:30 at night we spotted some bright lights that were less than a mile in front of us.  As we got closer we noticed it looked like it was flying pretty low, sort of hovering over a section of trees for a few seconds.  We drove past it with it on the passenger side of the car and it started to fly away towards the downtown area, almost like it noticed that we saw it.  It looked like a solid triangle with three steady white lights on the bottom, one on each corner positioned to shine down. It also had red and white lights on the top that were blinking at different times and creating a glow around the top.  It didn’t seem like it was very big, maybe twenty feet wide at the most.  We tried to turn around and follow it but it was gone pretty quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73161.html](http://www.nuforc.org/webreports/reports/073/S73161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Des moines (IA) reported seeing craft that fit the description of some 'Other' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>Was at stop light looked up seen hole in clouds. Snaped a few pixs. Later looked and seen something in first pix.I was in tracffic couldnt really get lot of info just took some pixs and looked at it later. Not sure what it was thought i would share.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165818.html](http://www.nuforc.org/webreports/reports/165/S165818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
