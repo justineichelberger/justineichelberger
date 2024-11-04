@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in White Lake (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving down Ormond Rd, noticed lights in sky.  Originally thought it was fireworks above Grass Lake, but noticed lights were not dissipating.  Looked closer and saw it was hundreds of like white lights in formation dropping from several hundreds of feet in slow smooth motions like raindrops.  Drove closer using Google maps and could not find source.  Found multiple groups of people watching the "show".. two groups said this is 3rd such occurrence in 2 weeks.  No explanation.  Believe to originate above Indian Springs Park in White Lake.  Lights eventually stopped moving and maintained a solid formation at 7:58PM exactly and then began to descent/land and by 8PM the event was over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137565.html](http://www.nuforc.org/webreports/reports/137/S137565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Humble (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>AMBER SQUARE OBJECT, HIGH  IN  ATMOSPHERE, MOVING NW TO SE (1-MIN)IT WAS THE NIGHT BEFORE THE GENERAL ELECTION THE TIME IS IFFY...IT WOULD HAVE BEEN BETWEEN 11:00PM ON THE 3RD TO 3:00AM ON THE 4TH   I WAS TAKING SOME TRASH OUT TO THE TRASH CAN, WE LIVE NEAR AIRPORT, HEARD A JET FLY OVER, I LOOKED UP SAW THIS YELLOWISH SQUARE OBJECT FLYING ACROSS THE SKY.  AS I WAS WATCHING IT, I NOTICE I COULD NOT HEAR THE JET ANYMORE.  SO I WONDERED WHAT THIS OBJECT WAS. IF I HELD MY HAND OUT AT ARM'S LENGTH AND HAD MY INDEX FINGER AND THUMB ABOUT AN 1/4 INCH APART.  THAT IS HOW BIG THE OBJECT LOOKED.  I FIGURED I JUST SAW THE SPACE STATION JUST FLY OVER(?).WHAT EVER IT WAS IT MADE NO NOISE, AND HAD TO BE VERY BIG (IT WAS VERY HIGH IN THE SKY).IT CAME OUT OF THE NORTHWEST AND TRAVELED TO THE SOUTH EAST (WHAT YOU WOULD EXPECT FROM A SPACE STATION FLY OVER.)   WE LIVE IN THE WOODS, TALL TREES SO THE OBJECT WAS NOT IN VIEW FOR VERY LONG (1 MIN - LESS)  SINCE THEN I HAVE HEARD OF SEVERAL REPORTS OF PEOPLE SEEING A AMBER OBJECT, SO I THOUGHT I WOULD JUST LOG THE EVENT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115534.html](http://www.nuforc.org/webreports/reports/115/S115534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
