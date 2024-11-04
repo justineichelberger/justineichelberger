@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>line of light UFOA line of 7 sized tennis balls going towrds the sky then flew over our flat forming a circle then slowly vanished into the night.It was not fireworks as they explode and are fast.These lights made no sound and as they flew over the flat we raced to the balcony and watched them dissappear.The light were in a straight line and they was very slowly moving.I couldnt believe what i saw and it was definately no plane or helicopter.I must say now I am a believer I just wish the m.o.d would share this strange ufo sightings to us all.How can I say that what we saw was nothing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53257.html](http://www.nuforc.org/webreports/reports/053/S53257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bensalem (PA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I looked out the window to see a saucer chasing a red teardrop.First I heard a light jet noise out my window.  I looked out and saw two aircrafts, a saucer following a red teardrop.  I continued to look at this when i saw the saucer give out two glowing strips of the color blue and orange.  After 3 minutes it disappeared like it was never there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79717.html](http://www.nuforc.org/webreports/reports/079/S79717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
