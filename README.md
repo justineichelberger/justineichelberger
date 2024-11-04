@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Belton (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately ONLY ONE - ONLY ONE minutes.</sub><blockquote><sub>bright streak with explosion and continued streakAt a retreat in Belton, Texas, I went outside to get some fresh air.  In the dark night sky I saw a bright streak with a sudden explosion or flash and then the streak continued toward earth.Does anyone know if this was a military exercise from the nearby Killeen Military base or a falling star?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47527.html](http://www.nuforc.org/webreports/reports/047/S47527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in White Lake (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Driving down Ormond Rd, noticed lights in sky.  Originally thought it was fireworks above Grass Lake, but noticed lights were not dissipating.  Looked closer and saw it was hundreds of like white lights in formation dropping from several hundreds of feet in slow smooth motions like raindrops.  Drove closer using Google maps and could not find source.  Found multiple groups of people watching the "show".. two groups said this is 3rd such occurrence in 2 weeks.  No explanation.  Believe to originate above Indian Springs Park in White Lake.  Lights eventually stopped moving and maintained a solid formation at 7:58PM exactly and then began to descent/land and by 8PM the event was over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137565.html](http://www.nuforc.org/webreports/reports/137/S137565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
