@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:51 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sherrard (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a ball of white light shoot across the sky .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150428.html](http://www.nuforc.org/webreports/reports/150/S150428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ball of light but it wasn't a plane.I just pulled into my parking spot, and went to slide the sunroof closed, when a small orangish red ball caught my attention.  I live near enough to a major airport, and thought it might have been a plane. As I watched it, I realized there were no other flashing lights on this orb, it was just a steady color, (and planes generally have flashing indicators on the outside, especially a blue light.)   As I watched it, it seemed to actually gain altitude, since it seemed to get smaller and a little dimmer.  As it was dark, it was unusually bright for city lights, and because it was cloudy and rainy, I knew I wasn't just watching stars.  I am generally a logical person, but I just have no explanation for this.  It went from SW to NE (towards the mountains) I would have watched it longer, but I lost it behind the heavier clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94126.html](http://www.nuforc.org/webreports/reports/094/S94126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
