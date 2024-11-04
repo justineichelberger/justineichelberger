@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:27 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Shady Side (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw 3 bright lights, 1 was much bigger and brighter then 2 of them. they were hovering, and close to ground.Driving along the road, me and the passanger noticed 3 lights in the sky.  One was very large compared to stars and airplanes... it was hard to tell what the shape was but I would say it was round.  The lights were all very close to the ground, from where we were they were very far and seemed a little too close to the land.  Mainly because there were airplanes flying a lot farther up from the lights.  And were barely visible.  The bigger light was flashing, and when I took a picture of it, it turned out very orange, couldn't tell if there was any color because of the brightness.  We drove somewhere close to the water, enough to see the bay bridge and the light.  By time we got there the two that that were below the bright light disappeared.  And then there was just a bright light just hovering and making no movement.  Pretty amazing, never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85156.html](http://www.nuforc.org/webreports/reports/085/S85156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hour - hour minutes.</sub><blockquote><sub>dancing "star??" in morning sky...I have to wake up at 4:00 am every morning to get my husband off to work.  Was on my enclosed back porch, which faces east,  smoking a cigarette and saw an orange ball drop from the sky.  As I was looking in the direction that the ball fell, I noticed that a "star," or what I thought was a star, start dancing around in the sky. It shot back and forth, rocked back and forth like a cradle, did circles in the sky.  The light was white, but every so often a red light would blink. This started on Friday morning and I have seen it for the third morning straight now. It is too far in the sky for me to make out what it is.  No chopper sounds, no jet sounds.  I have not seen another orange ball drop from it again.  I am up every morning at the same time. Never sleep in on the weekends and I have NEVER saw this before.   The location is where the first star is at in the night sky. Venus?   It has lasted for an hour to an hour and half each of the three mornings.  I had my husband come out and look at it on the first morning to make sure I was seeing what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85194.html](http://www.nuforc.org/webreports/reports/085/S85194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
