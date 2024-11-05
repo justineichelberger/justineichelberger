@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 4 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Elizabeth (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Around 5:00 est, My mother and sister were outside of kfc/taco bell in etown,ky when they decided to take pictures of the sky. In one picture there was a glowing circular object and within seconds the object was across the sky. In another photo there appears to be a hole in the sky and 6+ circular objects heading to/from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131104.html](http://www.nuforc.org/webreports/reports/131/S131104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A bright light in our bed room for a second or two.A bright light lit up our room at approx. 12:30 am on 11/5/99.  My wife and I were in bed just falling a sleep to Art Bell's radio show.  Both of our eyes were closed.  When the light happened, it was like me looking up at the sun in broad day light.  She experienced that same thing.  Neither of us registered that it had even happened for a minute or two till she asked me if I had seen it. I said I had and that disturbed both of us.  We discussed if it could have been head lights passing over our apartment window, as we are on the second story, but both came to the conclusion that it could not have been so as it was just to bright.  We didn't see any craft or anything, but it was not a normal occurance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10475.html](http://www.nuforc.org/webreports/reports/010/S10475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
