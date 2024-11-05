@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I viewed a large bright object descending towards me in the dark night sky. Then it turned orange/red going in another direction with 2I saw a bright object coming towards me getting larger and larger. Then it turned away and ascended into the night sky. It had a double orange red trail behind it. At first I thought it may be a drone. However it was too large and bright. I ran inside to get my camera and when I got back in 30 seconds it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160440.html](http://www.nuforc.org/webreports/reports/160/S160440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light appearing in the skyThis is the 4th time I have seen a light appear in this exact same area.  A bright light suddenly appears, stays there for a few min then vanishes from sight.  It has appeared at the same time, in the same spot 4 different times.  The light stays in the sky for a few min and then vanishes.  The object was a light yellow color and almost had a glow about it.  It was at least 10 times bigger than a star in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137143.html](http://www.nuforc.org/webreports/reports/137/S137143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
