@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anderson (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a whole fleet of white and beautiful UFO orbs. There was one other witness. I summoned them.I had a major UFO sighting today. This afternoon I experimented with Robert Bingham's UFO summoning technique.  I did not get any obvious results. I then walked to the store to get some food and a pair of binoculars. When I was walking home I saw a white orb moving from South to North. I then communicated with it telepathically, and asked it to come closer. Then the one orb divided into a whole fleet of brilliant and spectacular white orbs, forming a whole fleet of about one hundred orbs, and moving from North to South. I could not believe my eyes, and stood there in total shock. This man happened to be walking by me, and I pointed to the orbs. He also saw them. He just happened to have a knife, and cut open the plastic container holding my binoculars. We both looked through the binoculars and saw the UFO fleet. The whole vision lasted about five minutes. And then right before my eyes the orbs vanished. I tried to record on my Flip video recorder, but since i! t has horrible zoom, I could not see anything. I was in such an exuberant state anyway that I don't think I even focused on the right spot. I was too excited. I cannot even describe the shock and emotions I was experiencing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115163.html](http://www.nuforc.org/webreports/reports/115/S115163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orono (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright red ball of light movong at rapid speeds and jets flying towards itLast night I saw a bright red light blinking in the sky and moving quicker than any plane could.  After watching the light for a minute I heard and saw a jet scramble by.  Then again on 11/6/12 I saw th bright red blinking light.  The light looks way different than any other light i have seen. Me and 3 others witnessed this and again you can hear a jet to begin flying towards the light. Very weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94175.html](http://www.nuforc.org/webreports/reports/094/S94175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
