@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A bright light in our bed room for a second or two.A bright light lit up our room at approx. 12:30 am on 11/5/99.  My wife and I were in bed just falling a sleep to Art Bell's radio show.  Both of our eyes were closed.  When the light happened, it was like me looking up at the sun in broad day light.  She experienced that same thing.  Neither of us registered that it had even happened for a minute or two till she asked me if I had seen it. I said I had and that disturbed both of us.  We discussed if it could have been head lights passing over our apartment window, as we are on the second story, but both came to the conclusion that it could not have been so as it was just to bright.  We didn't see any craft or anything, but it was not a normal occurance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10475.html](http://www.nuforc.org/webreports/reports/010/S10475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St. Joseph (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 ufo's with red lights on the sides and a large white light in the center came 50ft above my car on the higway shining light on me.I saw 2 sets of red lights as I was driving towards 59 highway on Parker Road.  The lights were to the south of me.  They looked to be moving away from me and I thought they were two c-130s headed to a local airforce base (Rosecrans AFB) in Elwood, KS.  As I got on the highway I noticed them coming towards me, then loop quickly around almost in a figure 8 and continued coming towards me.  As they got closer to me they got lower to the ground.  I could distinguish a few red lights on each one.  They didn’t flash or anything.  One of them came over the top of the car about 50 feet above me and a very, very bright white light shined down on me.  It seemed like I couldn’t even see anything but the light.  One of the things that scared me the most was that it was completely silent.  I couldn’t hear any plane engines at all.  I was scared and I started swerving on the road.  I thought they were going to drop a bomb on me or something.  It was the most terrifying experience I have ever had in my life.  As I was swerving the lights disappeared.  I looked back behind me and they were gone.  I called my husband right afterward and told him about what had happened.  Before I got to my destination the car started making a funny noise and my husband told me to just come home.  I was very upset when I got home and I called Rosecrans to relate my story to them and to see if they were flying any planes tonight.  The man I talked to laughed and said no.  So either he laughed at me because they are doing stuff tonight that they shouldn’t be doing or he thinks im crazy. My husband had me try to draw what I had seen.  I would like to know if anyone else has seen this sort of thing.  My husband also found this website and told me to report it.  He is very excited about all this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32896.html](http://www.nuforc.org/webreports/reports/032/S32896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
