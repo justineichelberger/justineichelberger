@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:48 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hometown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Round object with a set of very dim red lights on it. Moved from West to East.A friend and I were talking about shooting stars and different constellations.  Upon looking up, I noticed something blocking out some of the stars in the area where I was watching. I seen a series of lights and thought to myself, It's a plane.  However the light formation was like none I ever seen.  I continued to look at this "plane".  My eyes adjusted to this "plane" and realized it was a round object with a set of very dim red lights. It was not a plane. It was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115145.html](http://www.nuforc.org/webreports/reports/115/S115145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boothwyn (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 bright amber cigar-shaped lights at a 45 degree angle like "/" at the PA/DE state lineI was driving home to New Castle, DE from Philadelphia, PA traveling south on I-95.  It was approx 5:02pm and dusk was approaching.  At first I thought I was seeing an optical illusion, because it looked like there was a tear in the cloud overhead.  Then I thought I was seeing a shooting star or meteor because it most definitely was not a plane, but I realized it wasn't moving or flickering at all it was constant!  What I saw was to the right about midway up my windshield.  It was bright amber light and stationary.  It was cigar shaped and at a 45 degree angle like this: /  I did a double take, thinking my eyes were playing tricks on me and when I refocused my attention on the sky, I noticed that there were multiple "/" lights...again all stationary and at a constant brilliance, at varying distances.  In addition to the closest one, which was the most noticable, I realized that there were at least 2 more in the same direction (looking toward the Chichester Ave. Exit sign), but further in the distance - like toward Brandywine Creek State park.  The 4th I noticed disctinctly to the left in my range of sight, more toward the direction of the Delaware river.  I could not pull off due to the volume of traffic, but mkept my focus on the objects until they fell out of my range of sight.I could see all 4 objects throughh the trees until about the split for 495 south.  Once I got onto 495 South, I could only still see one of the objects.  It had gotten very faint like it had travelled a great distance in an instant.  It was as if it had moved from the direction of the Brandywine Creek State Park more toward the direction of Kennett Square PA, but it could also be a result of the route I was traveling.  I called the hotline at about 5:09 pm, and was instructed to complete this form when I got home.  I have always believed in extraterrestrial life, however, I am extremely logical, and pragmatic.  I have NEVER in my life experienced anything as distinctly concrete as this sighting that would lead me to filing a report, but I very much want to find validation that I'm not the only person that witnessed this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94151.html](http://www.nuforc.org/webreports/reports/094/S94151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
