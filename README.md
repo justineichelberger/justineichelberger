@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:48 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Single oval object blinking red and white light. Making loops over the Arizona desert near Coolidge, AZOn 11-05-14 at approximately 0450 hours, I awoke to let the dogs outside in the backyard. It was a still night with no wind and a full moon.  I immediately observed a single oval shaped object emitting blinking lights that changed color from red to white and back to red.  The object could be seen between two mountain peaks from the San Tan mountain range which is on the Gila River Indian Reservation land.  The object appeared to hover over the City of Coolidge, but its actual size could not be determined for certain.I watched the object for 10 minutes as it moved quickly up and down and side to side very quickly. I woke my wife up and we both watched it another 10 minutes together as it stayed between the mountain peaks.  No sound could be heard during the 20 minute observation.I called the Coolidge Police Department later in the morning and they had no reports from citizens or calls for service about the object.  It is unknown what it was.  I tried to video record the object on my cell phone, but it was too dark and too far away to be recognizable.I have lived in the desert my entire life and have never seen anything like this before.  It was not a helicopter, airplane or balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115159.html](http://www.nuforc.org/webreports/reports/115/S115159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hometown (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Round object with a set of very dim red lights on it. Moved from West to East.A friend and I were talking about shooting stars and different constellations.  Upon looking up, I noticed something blocking out some of the stars in the area where I was watching. I seen a series of lights and thought to myself, It's a plane.  However the light formation was like none I ever seen.  I continued to look at this "plane".  My eyes adjusted to this "plane" and realized it was a round object with a set of very dim red lights. It was not a plane. It was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115145.html](http://www.nuforc.org/webreports/reports/115/S115145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
