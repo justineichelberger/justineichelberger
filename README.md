@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light appearing in the skyThis is the 4th time I have seen a light appear in this exact same area.  A bright light suddenly appears, stays there for a few min then vanishes from sight.  It has appeared at the same time, in the same spot 4 different times.  The light stays in the sky for a few min and then vanishes.  The object was a light yellow color and almost had a glow about it.  It was at least 10 times bigger than a star in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137143.html](http://www.nuforc.org/webreports/reports/137/S137143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Tan Valley (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Single oval object blinking red and white light. Making loops over the Arizona desert near Coolidge, AZOn 11-05-14 at approximately 0450 hours, I awoke to let the dogs outside in the backyard. It was a still night with no wind and a full moon.  I immediately observed a single oval shaped object emitting blinking lights that changed color from red to white and back to red.  The object could be seen between two mountain peaks from the San Tan mountain range which is on the Gila River Indian Reservation land.  The object appeared to hover over the City of Coolidge, but its actual size could not be determined for certain.I watched the object for 10 minutes as it moved quickly up and down and side to side very quickly. I woke my wife up and we both watched it another 10 minutes together as it stayed between the mountain peaks.  No sound could be heard during the 20 minute observation.I called the Coolidge Police Department later in the morning and they had no reports from citizens or calls for service about the object.  It is unknown what it was.  I tried to video record the object on my cell phone, but it was too dark and too far away to be recognizable.I have lived in the desert my entire life and have never seen anything like this before.  It was not a helicopter, airplane or balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115159.html](http://www.nuforc.org/webreports/reports/115/S115159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
