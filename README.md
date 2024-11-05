@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Moundridge (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 19.0 - 19.0 minutes.</sub><blockquote><sub>Two to Four bright yellow flame like lights side by side in the night sky.While travling North on Old Hwy 81 Between Hesson,KS and Moundridge,KS we noticed two Yellow lights in the distance to the North-Northeast of our location.  From where we were they appeared to be hovering over the outskirts of Moundridge.  As we came closer to Moundridge they seemed to dim and fade away.  We lost track of them for about 15 sec. then they reappeard again and still seemed to be to our North-Northeast.  We than turned from the center of town and travled Straight North from Center of Moundridge,KS toward the north exit of Moundridge(I-135) which is about 3 miles.  When we arrived at the exit the lights dissapeared again.  We started back South toward town. about 1/2 mile away we saw the Yellow lights appear again and now there were four of them. We turned around and got on the interstate and headed North toward McPherson.  The four lights were again to our North-Northeast by the time we reached the Elyeria exit the fourt lights seemed to lower from the sky and disappear.  They never came back or we never saw them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25956.html](http://www.nuforc.org/webreports/reports/025/S25956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wayne (NJ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object landed on roadway and changed brightness several times.  Also caused power outage to my house until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153228.html](http://www.nuforc.org/webreports/reports/153/S153228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
