@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:59 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:56 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pickering (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>At least 30 orange lights travel silently, in a straight line, over the night sky of Pickering, Ontario, CanadaFor at least 45 minutes on the evening of November 5th, 2012, at approximately 9:00 pm, myself and 3 other witnesses watched at least 30 or more orange lights cross the night sky over Pickering, Ontario, Canada, in a straight line.  The orange lights travelled, without sound, from the north sky, moving south towards Lake Ontario.  At times there would be 3, as if in the shape of a triangle and at times they would suddenly disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94157.html](http://www.nuforc.org/webreports/reports/094/S94157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Dumfries/Galloway (UK/Scotland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>5TH NOV 2006,  BRIGHT BALL OF LIGHT PROCEEDED WITH ANOTHER BALL OF LIGHT FOLLOWING OTHER ONEI HAVE VIDEO ON MY PHONE, THE ONLY REASON I AM REPORTING THIS AS WE SEEN A LOT OF STRANGE THINGS RECENTLY AND DECIDED WE MUST SHOW SOME ONE I HAVE THE VIDEO ON MY PHONE WHICH I TOOK AT THE TIME STANDING OUTSIDE WITH MY SON AND PARTNER AS IT WAS BONFIRE NIGHT.  WE NOTICED WHAT LOOKED LIKE A FLARE IN THE SKY BUT IT WENT ON AND ON THEN ANOTHER APPEARED BEHIND IT CHANGED DIRECTION AND FOLLOWED THE OTHER ONE WELL INTO THE DISTANCE, THEN CAUGHT SPEED TO CATCH IT. I CANNOT EXPLAIN WHAT WE SAW BUT I DO KNOW THAT IT WAS NOT A PLANE, FLARE, STAR, THIS IS NOT ANYTHING I HAVE EVERY SEEN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55603.html](http://www.nuforc.org/webreports/reports/055/S55603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
