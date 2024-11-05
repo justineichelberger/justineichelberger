@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:49 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hermitage (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>OBJECT in the Hermitage, Tennessee SkyI was on my back deck taking pictures of our trees in the back for the fall colors, 1st year in our new home. I used my Nikon Coolpix 2200 digital camera to take this photo.  I DID NOT see this "object" when I took the photo. I took several pictures of the trees, this is the only one with this object in it. I honestly do not know what it is. My roommate thinks it something on the lens, my camera lens is very small, I do not think something was on the lens,if so, it did not show up on any other pictures. I was suprised to see this "object" on the pic. Anyway, you can tell me what it is, if anything? Dust? I am a UFO believer, but don't wanna be a fool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47489.html](http://www.nuforc.org/webreports/reports/047/S47489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brilliant green fireball was seen falling and trailing debris near Mt. PilchuckMy daughter and I were northbound on Mountain Loop Highway near Granite Falls Middle School when we observed a large, brilliant green fireball fall into view through the windshield.  Burning debris was visible breaking away from the main fireball.  A slight trail was seen.  The fireball either burned out, but did not break up, or was obscured by Mt. Pilchuck.Fireball was first seen 30-40 degrees above horizon and traveled in a path about 20 degrees from vertical.  No sound was heard.  The color was so brilliant that we first thought it was fireworks.  Apparent diameter half that of #2 pencil held at arms length viewed end-on.I contacted a rifle range that is located in the direction of where the fireball was observed and verified that no signal flares were fired.  I contacted Snohomish County Search and Rescue and the Granite Falls Police Department and no reports of signal flares were received by either agency.I am a beginner amateur astronomer and avid aircraft enthusiast with 25 years experience in technical field.  My daughter is a 16 year old student.((NUFORC Note:  Several reports received of this incident.  We suspect that it was a meteor, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32909.html](http://www.nuforc.org/webreports/reports/032/S32909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
