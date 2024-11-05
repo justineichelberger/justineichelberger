@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Horn Lake (MS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Totally unexpected, brilliant and very possibly a slightly curved course.Approximately 2030 on 5 Nov 2003, I observed a fireball type object in the northern sky. Short duration. The "head" was a brilliant white, and the rather short tail that was predominately blue. No sound was heard. The sky was partly cloudy that night. The direction of flight was from NNW to NNE, crossing the N/S meridian. The two things different were a. how brilliant the head was, abd b. the "impression" that I had of a slightly (very slightly) curved course. As I said, no sound and it was a cohesive mass, not breaking apart or shedding part of itself as it went down toward earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32934.html](http://www.nuforc.org/webreports/reports/032/S32934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large orange object in night skyA large orange ball with a fire trail behind the moving object. Object was moving in an upward ascending motion and then turned blue with a blue trail behind it.  The ball then turned back to orange again as it disappeared in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160433.html](http://www.nuforc.org/webreports/reports/160/S160433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
