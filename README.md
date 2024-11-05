@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orono (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright red ball of light movong at rapid speeds and jets flying towards itLast night I saw a bright red light blinking in the sky and moving quicker than any plane could.  After watching the light for a minute I heard and saw a jet scramble by.  Then again on 11/6/12 I saw th bright red blinking light.  The light looks way different than any other light i have seen. Me and 3 others witnessed this and again you can hear a jet to begin flying towards the light. Very weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94175.html](http://www.nuforc.org/webreports/reports/094/S94175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Grande (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>they showed up as if falling, then made a movement south east. They where of particular brightness and even though they held their basic pattern you could tell that there was independence in there movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66715.html](http://www.nuforc.org/webreports/reports/066/S66715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
