@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:24 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Rancho Santa Margarita (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Seen a Chevron shaped craft in clear skies with no lights or no noise. It moved very graceful, yet crossed the sky at such a fast pace.I just finished working out at the running track at the intermediate school. It was 7:30 pm and I was laying on the bleachers looking up at Jupiter. I was laying with my head pointing NW, suddenly a object shaped like a Chevron caught my attention. The object was over on my right side moving SE at a slow speed. It was completely dark out and there where no lights on the craft, it looked dull and light in color, almost transparent.The funny thing was it made no noise, I live under the route that most planes take heading east out of LAX and John Wayne Airport. So we can always faintly hear the sound of the jets when they pass over head, but not this one. I watched it for about 20 seconds until it disappeared. I continued to lay there and wonder about what I just saw, then at 7:40 pm the same shape crossed the entire sky from right to left. What was so different was the rate of speed, it took about 5 or 6 seconds to crossover my line of sight. I was still laying on my back, so I could see the whole sky. The shape was traveling so fast, yet it looked to move so graceful. What a sight! Then at 7:57pm, I seen the same thing again, only this time it was on my left side, traveling much like the the first sighting, slow and graceful. Well thats it, I'm a believer now, it was such a sight. Its now 9:15pm and I'm going back out to see if its still hangin around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10438.html](http://www.nuforc.org/webreports/reports/010/S10438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  46</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160922.html](http://www.nuforc.org/webreports/reports/160/S160922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
