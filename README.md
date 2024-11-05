@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 5 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spring Hill (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large orange object in night skyA large orange ball with a fire trail behind the moving object. Object was moving in an upward ascending motion and then turned blue with a blue trail behind it.  The ball then turned back to orange again as it disappeared in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160433.html](http://www.nuforc.org/webreports/reports/160/S160433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hermitage (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>OBJECT in the Hermitage, Tennessee SkyI was on my back deck taking pictures of our trees in the back for the fall colors, 1st year in our new home. I used my Nikon Coolpix 2200 digital camera to take this photo.  I DID NOT see this "object" when I took the photo. I took several pictures of the trees, this is the only one with this object in it. I honestly do not know what it is. My roommate thinks it something on the lens, my camera lens is very small, I do not think something was on the lens,if so, it did not show up on any other pictures. I was suprised to see this "object" on the pic. Anyway, you can tell me what it is, if anything? Dust? I am a UFO believer, but don't wanna be a fool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47489.html](http://www.nuforc.org/webreports/reports/047/S47489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
