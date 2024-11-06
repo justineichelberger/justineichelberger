@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately Nightly - Nightly minutes.</sub><blockquote><sub>Bright light staying in same area of the sky; higher than airplanes moving in quick sporadic formations.Looking southwest into the sky a light about as bright as a satellite moves steadily back and forth through a small area sometimes changing directions with small bursts of speed. This was first noticed this morning at 05:45 with the light being brighter than any stars or satellites and much higher than any airplane. We noticed again tonight around 19:15 that it was in the same area and watched for 10 minutes as it made the same back and forth movements, sometimes small circles and other quick sporadic direction changes that planes and satellites don’t make. Our first thought was a drone but it looks too high up. We would look forward to any answers or debunks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165192.html](http://www.nuforc.org/webreports/reports/165/S165192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange flame looking object observed over Greer SCMy wife and I saw what looked like an orange flame moving slowly above our house.  It was not round, but oblong with points at two ends at times.  The shape and size changed slowly, like a flame growing and shrinking.  It was much bigger than a star, but not as big as the moon, maybe 10 to 15% as big as the moon.  It was not distinct but seemed to come in and out of focus.  We could not gauge the altitude.  It moved from in front of the house to over the house and seemed to pause, then moved back to the front again.  Our house faces south east.  When I went in the house to get a camera, my wife said it seemed to shrink away to nothing before I came back.  She said it looked like the flame went out, not like it climbed in altitude.I am a 63 year old engineer with a large international company.  My wife is 60 and works as an event organizer/fund raiser for a non-profit agency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85225.html](http://www.nuforc.org/webreports/reports/085/S85225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
