@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Great Falls (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 69.0 - 69.0 minutes.</sub><blockquote><sub>CCTV camera records 2 fast traveling lights near Dulles Airport vicinityUpon reviewing my DVR playback from my CCTV security system, I noticed 2 lights in the western sky in the direction of Dulles Airport.  The camera is mounted 20 ft. high in a tree to give me optimal range & scope.  These two light came into view and disappeared over the next hour and nine minutes of recording.  They would be stationary for a few seconds and then turn at 90 degree angles.  Weather conditions were excellent that evening with little cloud cover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104238.html](http://www.nuforc.org/webreports/reports/104/S104238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright rapid moving lightEnding a cell phone call and getting out of my truck a light streaking from the North East horizon traveling West at  VERY high rate of speed caught my eye.  I saw the object as it reflected the suns light and it disappeared in the South Western horizon.   It was moving extremely fast, and left no tail like a shooting star, comet or object entering the atmosphere. I can't explain in words how fast this object traveled from one horizon to the other and was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94345.html](http://www.nuforc.org/webreports/reports/094/S94345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
