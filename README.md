@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 very bright lights teardrop shaped that made different formations with a fire trail !They appeared to be bright lights low in the sky and began to form different formations! They seemed teardrop shaped and then would look light a trail of bright light coming from one end that turned the objects directing them into another formation.This appeared to us  how  they could move and change from a ring of 6 bright objects into a formation of 3 on top of 3, and then 2 on top of 4!  It caught our eye and we thought it might be several planes coming very close on same path until they continued to change positions.We were traveling north on Hwy 45 just outside of Conroe, TX, on our way to Huntsville, TX.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123528.html](http://www.nuforc.org/webreports/reports/123/S123528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Amity (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Pulsating pair of lights traveling SW to NW over Western Oregon.2 lights traveled from SW to NW in clear evening sky, well above commercial aircraft path also visible at same time.  The lights followed each other and they would light up bright for about 1.5 seconds than fade out as they left a trail to the next flash and so on.  These lights traveled relatively slow, but since their altitude was relatively high, it's difficult to determine actual speed.  Both lights faded as they traveled off to NW.  No sound was audible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143673.html](http://www.nuforc.org/webreports/reports/143/S143673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
