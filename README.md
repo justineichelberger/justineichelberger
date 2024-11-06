@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green ball of light in the sky floats and the vanishes within 3 seconds.We we're emerging onto the freeway on 580 south towards Livermore.  When suddenly my sister noticed something and pointed at the sky in which we both looked up and saw a green ball of light falling down and then suddenly vanished behind the clouds.  It only lasted around 3 seconds no more than 5.  The thing that intrigued us the most was that it popped out of nowhere and then suddenly vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85186.html](http://www.nuforc.org/webreports/reports/085/S85186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vienna (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireball seen in Northern VirginiaI witnessed a large Fireball with a very distinct tail flying above the cloud cover tonight and tracked it as it went from the East to West towards the setting sun which was already almost down as it was twilight.  The moon was barely visible and was to the left of the object, both visible through the low level cloud cover.  This object did not follow a typical flight pattern for this area and was much too high in the atmosphere to be a conventional aircraft.  I looked like a typical movie style meteor entering the atmosphere but moved very slowly and didn’t dart through the sky as I have seen other meteors do in the past.  I tracked it as it moved across the sky for about 10-15 minutes and would wait as disappeared behind clouds and reappeared through openings and I was able to judge where it would re-emerge due to its very linear trajectory.  This was a distinct, large fireball with a dark mass towards the front and a bright yellow/orange tail trailing behind!  It that did not leave any contrails.  I would be very shocked if no one else in Northern Virginia saw this object.  It could have just been a large meteor but I thought I would write to you and report it anyway.  Thanks you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104217.html](http://www.nuforc.org/webreports/reports/104/S104217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
