@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was a a yellow fire ball falling fast towards the noth of Fayetteville , NCI was at my ant and uncle's house when I saw it.it was about 6:oo it looked like a yellow fireball falling very fast.it looked less than a few miles away it was falling varry fast.I bet it hit the suface.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66760.html](http://www.nuforc.org/webreports/reports/066/S66760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>((NUFORC Note:  ISS & Shuttle.  PD))Louisville, Ky. 6 am.Two lights moving across the sky from horizon to horizon in about 2 minutes.I first noticed the light above the SW horizon. In appearance the light was similar to the appearance of Venus in the morning sky that morning both in intensity and color. The light was moving across the sky in a northeasterly direction. About 10 seconds after I noticed the first light a second light appeared over the horizon. The second light was following the same path as the first – both in position and direction. I watched the lights move across the sky. I didn’t have a watch, but I anticipate it took about two minutes for the lights to move from the western horizon to above the eastern horizon. While I viewed the lights, they were consistent in speed and direction. The distance between the first and second light remained consistent – with one caveat. When I last looked at the lights, now above the eastern horizon, the second light appeared above the first light – as if it were higher. What I did not do… I did not follow the lights until they were out of sight. When last I looked, the bottom light was 10 – 15 degrees above the eastern horizon with the second light a few degrees above the first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59670.html](http://www.nuforc.org/webreports/reports/059/S59670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
