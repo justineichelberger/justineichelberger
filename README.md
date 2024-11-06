@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Orange Fireball over Virginia CoastOn 11/6/15 around 9pm, I was standing outside talking on the phone and saw a bright orange light appear in the southeast sky.  It appeared to originate over the Outer Banks of NC and proceeded to travel north until it reached approximately northern Virginia Beach, then turned directly east and disappeared into the clouds.  It was not very high in the sky (roughly half as high as any airplane lights that were also visible).  It also appeared to have flame-like characteristics and once every 5-10 seconds you could see a trail as if something was burning and releasing from the object.  The entire event lasted approximately 2 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123546.html](http://www.nuforc.org/webreports/reports/123/S123546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kamiah (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A formation of 5 air crafts with rapid blinking red or green lights, one per vehicle flew overhead, very rapidly, no other lights.AT about 7:30 PM on 11/06/12 we saw a collection of green and red blinking lights that looked stationary hovering over the hills due west of Kamiah, ID.  They were at that time in what looked like an L shape and stayed there for about 30 seconds, before suddenly moving in a SE direction. They looked at this point to be moving very fast, faster than you would normally see airplanes traveling overhead.  As they advanced it became clear that each blinking light was singularly attached to an individual craft.  They stayed in a formation of two lined up, one further out ahead and then two off to each side of the center formation.  There were no additional lights (headlight, wing lights, etc.).  The blinking lights were blinking so fast that it was almost like they were twinkling.  As they passed overhead, we could hear the sound of multiple engines (jet?).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94180.html](http://www.nuforc.org/webreports/reports/094/S94180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
