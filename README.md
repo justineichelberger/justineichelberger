@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green orb over Rochester N.H.My wife stated excitedly ;look a shooting star. I looked and witnessed a light green orb at high altitutude, with no trail, which passed over in an Eastward vector within a second. It came from West of us maybe Manchester or Concord N.H. headed over Berwick  headed over Berwick ME at what appeared to be thousands of miles per hour. I see lots of planes fly over my house at low and medium altitude which takes a minute or more. This thing was up there and cookin'.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160455.html](http://www.nuforc.org/webreports/reports/160/S160455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Elongated yellowish bar of light which pulsated as it travelledIn slightly overcast sky, sitting in my car waiting for my wife to come out of the grocery store -- observed slowly pulsating yellowish elongated light -- like a thin grain of rice at arms length.  I thought it was an airplane at first as it was traveling along the flight paths of other airplanes which I was observing out of boredom (roughly south to north) as if traveling along with them towards Boston (but it was at that time alone in the sky). However the dim nature of the light-bar, and that it brightened and darkened slowly, without going on or off like typical airplane made me curious. It reminded me of the behavior of a satellite, but the overcast sky would make that impossible.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59706.html](http://www.nuforc.org/webreports/reports/059/S59706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
