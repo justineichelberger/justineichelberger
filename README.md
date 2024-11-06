@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Southport (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light moving erratically in night sky.  I have it on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150578.html](http://www.nuforc.org/webreports/reports/150/S150578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Saint Clair Shores (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>StarfightersI was once again out walking.  Geometry was never my strong suit.  I will say I saw an object very far away while walking west whiz diagonally from northeast position in my view to southwest position.  This happened extremely fast and the object would've been traveling at a speed that I could only refer to as warp speed.  The object was very far away so I have no idea of any shape.  This was NOT a meteor or something.  he object was in a still position according to my view before this occurred.  Once again, it happened so fast. It appeared it would crash based on trajectory but I have no idea.  Due to my late-night walking I tend to see things all the time.  Lots going on up there.  I have no doubts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150438.html](http://www.nuforc.org/webreports/reports/150/S150438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
