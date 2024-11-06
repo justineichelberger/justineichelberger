@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:18 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:25 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sharm El Sheikh (Egypt) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light observed moving erratically at great speeds. Acceleration and deceleration of craft was great.I was on holiday in Egypt, at the top of Mt Sinai, viewing the sunrise. In the twilight before sunrise I noticed a single, fairly dim white light, which initially appeared to be a star, in the direction of the sunrise position. The light then began moving left to right to left in a mainly horizontal plane. The movement seemed quite random, i.e. the object did not appear to be travelling toward any particular destination. As an example of the motion observed; the craft would sometimes move to the right, stop, then continue moving to the right. Other times it would move to the right, stop, then begin moving to the left.The speed of the craft varied, from a slow drift, to a speed so great that it is difficult to explain how this speed was achieved. The craft accelerated extremely rapidly, from an apparent standstill. The craft also decelerated to a stop almost instantaneously, even after it had just accelerated to a great speed. This rapid motion was all in a horizontal direction.This went on for 20 mins or more. All the while, the craft was very gradually drifting higher in to the sky and to the right. This was happening at the same time as the sun came closer to rising and the twilight became brighter.When the sun rose, the craft seemed to disappear by fading away. I am not sure if this was caused by the brightness of the sun washing out the light from the craft, or if the craft was in fact moving further away.I estimate the craft was 10-20km away, and at least 10,000ft altitude. I take these estimates from the fact that the craft occasionally disappeared behind clouds. The clouds appeared to be at quite high altitude.I took some photographs of what I saw, will need to check the developed pictures to see if the object is clearly visible in the photo as it was quite distant and the camera is only a pocket 35mm type.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25987.html](http://www.nuforc.org/webreports/reports/025/S25987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red flashing lights above AlbanyKids were looking out the window and seen up to 8 red lights in the sky flashing slow and fast. I could not see them with naked eye, but when my son took a picture you could clearly see there was some there. When they woke me up we were only able to see 2 of them. One of my son's reported seeing one go up in the sky and change into a yellow color and another son reported one move and change and turn orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165183.html](http://www.nuforc.org/webreports/reports/165/S165183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
