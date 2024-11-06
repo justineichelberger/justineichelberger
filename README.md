@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:25 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 6 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red flashing lights above AlbanyKids were looking out the window and seen up to 8 red lights in the sky flashing slow and fast. I could not see them with naked eye, but when my son took a picture you could clearly see there was some there. When they woke me up we were only able to see 2 of them. One of my son's reported seeing one go up in the sky and change into a yellow color and another son reported one move and change and turn orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165183.html](http://www.nuforc.org/webreports/reports/165/S165183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 very bright lights teardrop shaped that made different formations with a fire trail !They appeared to be bright lights low in the sky and began to form different formations! They seemed teardrop shaped and then would look light a trail of bright light coming from one end that turned the objects directing them into another formation.This appeared to us  how  they could move and change from a ring of 6 bright objects into a formation of 3 on top of 3, and then 2 on top of 4!  It caught our eye and we thought it might be several planes coming very close on same path until they continued to change positions.We were traveling north on Hwy 45 just outside of Conroe, TX, on our way to Huntsville, TX.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123528.html](http://www.nuforc.org/webreports/reports/123/S123528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
