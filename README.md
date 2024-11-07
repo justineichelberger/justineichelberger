@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:22 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large Circular Donut-Shaped UFO in Ft Myers Sky.I saw a large circular donut-shaped UFO in the sky.  It appeared to have a white light going in a circular pattern around the object.  As I was staring at the UFO, I noticed a plane fly underneath it.  This gave me a better realization of how large this UFO craft really was. Which made the airplane seem a small fraction of the size of the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143679.html](http://www.nuforc.org/webreports/reports/143/S143679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>6 strange lights that appeared to be operating as one but at the same time, independently.Driving home from the gym, I saw 6 unknown craft in the sky.  They split off into two pairs of three.  As I turned towards home, I noticed one craft gliding through the sky.  As I continued to drive, it was obvious the craft was picking up speed.  Planes are not allowed that close to each other nor can than hover and change diresction the way these did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150461.html](http://www.nuforc.org/webreports/reports/150/S150461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
