@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hemingway (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>four lights that appeared one by one and then disappeared,followed by the fastest streak shooting across the sky I have ever seen.I went outside around 9pm and noticed a strange orange light near the west.  I first thought it was a planet but upon further observation, noticed that more of these lights were coming from this one light in a straight pattern. There was also another light farther away from these other lights about an arms length moving just above the tree tops. There was a total of four lights.  One by one the lights disappeared in the order in which they started.I thought the show was over but a few seconds later, I saw the fastest streak shoot across the sky not once but twice in different directions.  Each one was a few seconds apart.  Whatever those things were, they werent man made things. Man hasn't made anything that moves as fast as those things moved.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47708.html](http://www.nuforc.org/webreports/reports/047/S47708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ashby (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Driving down a back road to work. and above trees a bright green ball lights up the sky ahead and falls towards my left...and gone((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have amended the date above, believing hat the sighting probably occurred on the morning of November 7th, the date the report was submitted.  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123543.html](http://www.nuforc.org/webreports/reports/123/S123543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
