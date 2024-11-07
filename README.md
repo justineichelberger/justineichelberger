@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I've seen a lot of lights in the sky, but never anything like this.I live in southwest Tucson, AZ. My house lies between the flight paths of Tucson International approach zone to the north and Davis-Monthan AFB flight zone to the Goldwater training range to the south-west. After 40 years of watching airplaines, you can easily tell the difference between an A-7 and an A-10 and a 747.Last night, on or near 7PM, my wife and I noticed three glowing red lights to the south, 15 degrees above the horizon. These lights were at approximately a 10 degree angle from the horizon.It first appeared as though an aircraft was approaching the house although there was no green light or strobe. It appeared stationary.A fourth red light appeared to the left of the craft, equi-distant from the others.As this light appeared, the light on the far right disappeared. This process repeated itself three times. All the lights then blinked out at the same time.Weather conditions were clear with high scattered clouds. The moon was full two nights ago but had not risen yet.My wife is a math teacher and I am a civil engineering designer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53304.html](http://www.nuforc.org/webreports/reports/053/S53304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hemingway (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>four lights that appeared one by one and then disappeared,followed by the fastest streak shooting across the sky I have ever seen.I went outside around 9pm and noticed a strange orange light near the west.  I first thought it was a planet but upon further observation, noticed that more of these lights were coming from this one light in a straight pattern. There was also another light farther away from these other lights about an arms length moving just above the tree tops. There was a total of four lights.  One by one the lights disappeared in the order in which they started.I thought the show was over but a few seconds later, I saw the fastest streak shoot across the sky not once but twice in different directions.  Each one was a few seconds apart.  Whatever those things were, they werent man made things. Man hasn't made anything that moves as fast as those things moved.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47708.html](http://www.nuforc.org/webreports/reports/047/S47708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
