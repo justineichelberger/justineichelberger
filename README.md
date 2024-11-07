@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white light spot lighting up a cloudy area turned to green lighting cloud and gradually disappeared in a clear sky.((NUFORC Note:  U. S. Navy missile launch.  PD))Driving from mabel and park to grant and 1st, there was a white light spot in a foggy area lighting the whole part but the weather is clear at that time. About couple minutes the green light gone and left as green lighting cloud, then gradually disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123697.html](http://www.nuforc.org/webreports/reports/123/S123697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mindelein (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed this light gray object just hovering at a 45 degree angle in the darkened sky. I took nine pictures with my digital. One picture surprised me as it showed a sudden burst of colors extending straight up and in seconds it was back to hovering.I was able to use my Zoom lens and was amazed at it's appearence. On occasion it would tilt slightly to one side and it became obvious it was sphere like and small lights were spinning around a turret that set on top. On seeing the pictures, there's no question, this was truely a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66902.html](http://www.nuforc.org/webreports/reports/066/S66902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
