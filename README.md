@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Louis (Canada) (PQ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Huge oval bright yellow light flying and hovering in QuebecDriving westbound on HWY 20 in Quebec near the 165 HWY, I saw a huge glowing yellow/orange light low in the sky moving overhead in the black sky.It also had what looked light a slowly moving revolving light going around it's shape. It stopped in the sky for a very long time and just hovered there. It also seemed to have a less brilliant light extending down to the ground below it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20441.html](http://www.nuforc.org/webreports/reports/020/S20441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Turlock (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Blue light traveling fast - Blue light traveling fast minutes.</sub><blockquote><sub>It was traveling for 30 min in sky over Turlock,  California.  A big Blue light in the sky in the shape of a teardrop.  Left a trail of light.  And left a glowing blue haze that lasted 30 min..((NUFORC Note:  US Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123756.html](http://www.nuforc.org/webreports/reports/123/S123756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
