@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mindelein (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed this light gray object just hovering at a 45 degree angle in the darkened sky. I took nine pictures with my digital. One picture surprised me as it showed a sudden burst of colors extending straight up and in seconds it was back to hovering.I was able to use my Zoom lens and was amazed at it's appearence. On occasion it would tilt slightly to one side and it became obvious it was sphere like and small lights were spinning around a turret that set on top. On seeing the pictures, there's no question, this was truely a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66902.html](http://www.nuforc.org/webreports/reports/066/S66902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Electra (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving south bound on US 287 on the out side lane.  I looked up and saw an object that reminded me of those high end cigar tubes made of bright aluminum.  There was a brighter flame of silver shooting out of the rear of the craft.  The shape of the flame as it exited the rear port expanded wider than the ship then came to a flickering point at its ending.  The ship was traveling from north/west towards south/east.  It seemed to be about 5 miles out at cloud level. I say cloud level because it would enter a cloud bank and I could still see the flame reflect off the near by clouds.  It would exit a bank of clouds move into a clear area. I stopped to watch it.  I took pictures with my phone, but, they were not clear. The video I took shows a small dot not a clear object. My first thought was that it was a nuclear missile.  Reason I say that, I lived in Orlando, Florida, for 20 years.  I saw many Canaveral rocket launches from Kennedy from Orlando.  The movement of ! the object was steady, not wobbly as in those old Flash Gordon movies.I read about the launching in Los Angeles and wondered if they traveled that far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124202.html](http://www.nuforc.org/webreports/reports/124/S124202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
