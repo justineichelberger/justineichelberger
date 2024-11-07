@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 7 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ashby (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Driving down a back road to work. and above trees a bright green ball lights up the sky ahead and falls towards my left...and gone((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have amended the date above, believing hat the sighting probably occurred on the morning of November 7th, the date the report was submitted.  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123543.html](http://www.nuforc.org/webreports/reports/123/S123543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Schellsburg (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was halfway across Shawnee Lake looking towards Schellsburg.  The Mill Road area and saw this more round than oval bright light moving across the top of the hill by Mill Road.  It looked to be lower than most planes that go by here.  Usually they are small private planes or the airliners flying at 35,000 feet. It seemed to pulse  than all of a sudden it looked like an after burner on a rocket light up and it took off really fast up in to the sky until it dissappeared.  It didn't look like no damned weather balloon or NORMAL aircraft to me.  Oh yes, it didn't make any noise either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47576.html](http://www.nuforc.org/webreports/reports/047/S47576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
