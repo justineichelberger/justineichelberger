@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:19 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:20 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright triangle shaped lights over Tucson skiesAt 4:50 in the morning on November 8th, my boyfriend - age 20 and myself - age 18 were outside on his back patio while he smoked a cigarette. His house is located on the far north east side of Tucson, off of Catalina highway and it is surrounded by moutains. It was over these moutains that I saw an extremely bright light off in the distance that appeared to be rising at an angle in the sky. At first, I assumed it was a police helicopter shining its spot light in our direction but it was moving at an abnormally fast pace and the light never seemed to shine in any other direction. Planes, as well as helicopters, fly over my boyfriend's house quite frequently and they both have a very distinct sound. The object I witnessed made no noise what so ever. At this point, I called my boyfriend over to look at it and as we both stood watching it, the object appeared to freeze where it was and simply hover in place. The two of us got the feeling that it was watching us and ran inside of the house to wake up my boyfriend's mother. We were inside of the house for twenty seconds at the most before returning outside. In the short period of time that we were inside of the house, the object had made it's way all of the way over to the other side of the sky and was now gliding slowly towards the city. It was flying incredibly low and from what I could make out, it appeared to be triangle shaped with a bright red light that protruded slightly from the center with three smaller, but incredibly bright white lights at each rounded point. My boyfriend's mother, who was a skeptic, described it as looking like a ferris wheel turned on it's side with the red light representing the axis. The three of us watched it in the distance and as we did, it appeared to go straight up in the air, then down at an angle and hover for a moment, then go straight up again and repeat the zig-zag pattern until we lost sight of it. Another unusual event had occured a few months prior at the location where I first spotted the object in the sky which I feel is worth mentioning. My boyfriend had been out smoking on the patio around four in the morning in early July when we noticed what appeared to be a vapor trail that was surrounded by different, glowing colors (namely red, purple and green) in the north east area of the sky. It hung in the air for atleast an hour with all other colors but red fading away slowly. The red glow and vapor trail remained until sun rise. Over the following few days after we had witnessed the trail, people were saying that it was a result of missle testing however I have yet to see any images of missle testing that compare to what I saw that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53331.html](http://www.nuforc.org/webreports/reports/053/S53331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Monrovia (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I have picture.  Seem to be a Chen trail but going straight up and the trail was dissipating  at a fast rate.  Was just so unusual to see a craft go straight up rather than across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123922.html](http://www.nuforc.org/webreports/reports/123/S123922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
