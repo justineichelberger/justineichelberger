@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in West Bloomfield (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I also saw a fireball on the Night of the 11/08/03 Lunar Eclipse!My Mom and I were watching the Lunar Eclipse last Saturday and it was Dark out and the moon was just starting to become eclipsed. We were looking East,North,East at the moon and the object looked as if it was coming from the south going towards the moon. It started out extremily Big and bright almost firery about the size of the moon. It streaked across the sky and about half way across it started to break up disipate as it crossed under the moon and it fadded away. We thought it might be a metorite coming in and breaking up or maybe space junk, but who knows. To me it is a UFO I don't know what it was. I hope this was helpfull. I wouldn't of wrote this but I heard Peter Davenport on Art Bells show and had to put in my 2 cents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33123.html](http://www.nuforc.org/webreports/reports/033/S33123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slow moving Triangle made no noiseHad gone out to check the mail and while at the mail box noticed lights above.  Six white lights on the bottom of triangular shaped craft.  The lights formed a triangle inside a triangle.  It was extremely low and moved very slow.  It made no noise at all and just floated beyond the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94281.html](http://www.nuforc.org/webreports/reports/094/S94281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
