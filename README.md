@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:10 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:25 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Battle Creek (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Silent UFO over Battle Creek MI on night of Eclipse.I was outside looking at the luner eclipse, when i saw a very large dark shape move silently across the sky from SW to NE  it had approx.6 white lights that fromed a reverse V shape along the backside of the object, it made no nose and moved very very fast.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34534.html](http://www.nuforc.org/webreports/reports/034/S34534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loris (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We were driving southeast towards the direction of North Myrtle Beach and saw 4 separate bright orange lights high in the sky.  We were very alarmed.   When we saw the lights there were only 2 at first, then another appeared then the 4th appeared.  They were spread out in a diamond shape. When they disappeared they did so in order like 4, 3, and then the last 2 went out at the same time. I believe the whole thing lasted about 15- 30 seconds.  When the lights went out it was as if a door was pulled accross them from left to right and each one went out in this sequence.  I do not believe this could have been flares because they appeared and went out in a very orderly way as if it was in a pattern that someone was controlling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94259.html](http://www.nuforc.org/webreports/reports/094/S94259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
