@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wallaceburg (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White object with loop of chemtrail tail flies directionally straight to earth then disappears.My sister and I were driving west on the back road from Wallaceburg to Walpole Island.  I all of a sudden noticed a white shape up high in the clear, blue sky, no clouds.  There are some trees but this was way up high beyond the tree line.  It was traveling downward. What's really weird is that it looked just like what they are calling a missile from yesterday, except it was travelling straight downward.  I can get my sister to submit her description as well.I pointed at it and my sister seen it.  We watched it and I said "Do you see a plane or what is in the front?  Do you see that aura around it?" I could not see the plane but a sort of vague white shape was in the front of what looked like white chemtrails.I drove slow so we could watch it.  It was moving straight downwards to earth but didn't really seem to be travelling very much, didn't move much, moved very slowly, despite the chemtrail behind it. Weird that it was directionally going straight downwards to earth. I looked away very briefly to watch the road and it seemed suddenly farther away. I kept watching it and it continued it same downward movement.I had to stop at a stop sign and the object disappeared in that few seconds. We could not find it in the bright, cloudless sky anywhere. The object and it's very short chemtrail were gone.To me, it looked just like what was seen on video the day before, no plane visible at all, some whitish thing up front with a white loop of chemtrail with a short tail of chemtrail behind it.  I didn't see that video until just now and it reminded me of what we watched today so I figured I would send in this description.  It did not look as dramatically huge.  It was quite a bit smaller than the video I seen of that "missile".There are a lot of chemtrails around here.  Sometimes you can see a plane in front and sometimes not - hidden, camouflaged, and/or with an aura and then sometimes they disappear right in front of you.After this object disappeared and within the next minute, my sister spotted a chemtrail plane coming from a different direction in the sky.  This one looked like the normal grey chem trail planes with no markings.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123863.html](http://www.nuforc.org/webreports/reports/123/S123863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tazewell (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was driving down the main highway, just passed a local pizza place (PIZZA PLUS) and I looked into the sky and there was a green glowing object that looked cude/sphere.  It was flying down at a slope for about 10 seconds, and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123901.html](http://www.nuforc.org/webreports/reports/123/S123901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
