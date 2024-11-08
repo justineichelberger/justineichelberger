@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:20 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slow moving Triangle made no noiseHad gone out to check the mail and while at the mail box noticed lights above.  Six white lights on the bottom of triangular shaped craft.  The lights formed a triangle inside a triangle.  It was extremely low and moved very slow.  It made no noise at all and just floated beyond the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94281.html](http://www.nuforc.org/webreports/reports/094/S94281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hinesburg (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Aircraft engine noises were heard in the woods behind my house on 11\8\99.  This noise was heard for a period of approx 2 minutes, at two times, approx 15-20 minutes apart.  I expected this noise to proceed over my house as a plane would, or die down as the plane left the area, however the noise droned on at the same level for 2+ minutes then abruptly ended.  This noise vibrated my house, upset the dog, and there were dogs\coyotes howling in the woods during this incident.  My daugher claimed to see a flash of light accross the western sky after the first incident.I heard an engine sound, that sounded like an aircraft engine.  WE frequently have the Air National Guard flying over our house so I didn't take much notice.  Our house began to vibrate slightly and the dog began to bark and I noticed that the sound was not proceeding over the house as a plane would.  I went outside and listened to the engine sound and waited for the "plane" to pass over the house, or for the sound to die down as they flew away.  The sound continued to drone on for approx 2 minutes, there were coyotes howling in the woods behind my house in the direction of the sound. Due North. The sound abuptly stopped.  I went inside and my daughter came down stairs.  She to had heard the sound and after it stopped she claims to have seen a flash of light accross the Western Sky. I questioned her about the flash, thinking it could be the flash of the sunset.  She said it was very sharp and bright.  Approx 15-20 minutes later we again heard the same engine noise in the wood North of my house.  Again it lasted for approx 2 minutes and then abruptly stopped.  Due North of my home is approx 4 acres of woods and then a seclued farm field.  We did not see any craft or ship of any kind.  The only sighting was the flash. It was after dark at the time, and I can't think of what could have been in the woods at that time of night making that kind of sound.  It was louder then a chain saw, or tractor.  It made my house vibrate. The best decription of the sound would be that of a aircraft engine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10478.html](http://www.nuforc.org/webreports/reports/010/S10478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
