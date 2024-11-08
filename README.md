@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:25 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loris (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We were driving southeast towards the direction of North Myrtle Beach and saw 4 separate bright orange lights high in the sky.  We were very alarmed.   When we saw the lights there were only 2 at first, then another appeared then the 4th appeared.  They were spread out in a diamond shape. When they disappeared they did so in order like 4, 3, and then the last 2 went out at the same time. I believe the whole thing lasted about 15- 30 seconds.  When the lights went out it was as if a door was pulled accross them from left to right and each one went out in this sequence.  I do not believe this could have been flares because they appeared and went out in a very orderly way as if it was in a pattern that someone was controlling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94259.html](http://www.nuforc.org/webreports/reports/094/S94259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Scotts Bluff (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>green beam of light west to eastaround eleven I was driving south down ave b in Scotts bluff. I had my wife and kids in the car the kids were sleeping and my wife was awake I seen a bright green beam of light.  Fall from the sky I wouldn't really say it was falling I guess.this is hard to describe.  It was like a giant green neon tube that shot down towards earth it did not hit earth it disappeared before it could it wasn't a meteor or nothing because it appeared and disappeared so fast like a blink of an eye the tail end lit up the clouds behind it yet it was like a huge green tube it wasn't too close to me because I could see antennas blinking red that were closer to me it was more outside of gering towards the wildcat hills and missile bases are out there.  I don't know what I seen but I got shivers and was totally freaked out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94300.html](http://www.nuforc.org/webreports/reports/094/S94300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
