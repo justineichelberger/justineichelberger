@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Probably not UFO - But WHAT was it that may have exploded?Did anyone else see the formation in the North sky around noon today? At first, I thought it was just that... a stationary formation. It looked like stars in the daytime sky. There were some bright stars and a whole bunch (maybe 100) smaller ones. Then I noticed that some of the stars seemed to be moving away from each other. Then I noticed that the whole formation was moving slowly West and that the stars were starting to become less visible. Some of the brighter ones were moving apart noticeably. I observed it for about 15 minutes before they faded from sight. I didn't have time to go home for a camera.After observing the movement, I surmised that it might well have been some type of explosion in outer space and what I saw was a debris field reflected in the sunlight. A friend witnessed it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25980.html](http://www.nuforc.org/webreports/reports/025/S25980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jonah (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My mom was driving N. on 1660 toward HWY 29. She saw 3 bright lights hovering for 30 sec and then there were suddenly only 2 lights.I got on Facebook and saw that my friend DK had posted a photo of the same thing my mom saw.  He & 3 others saw the same thing and got a photo of it which I have.  He said that this is not the first time people have repoeted seeing lights like these in the Taylor, TX area.  Some people saw 2, 3, 4, and 5 light in a line and others have seen them in a V shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94272.html](http://www.nuforc.org/webreports/reports/094/S94272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
