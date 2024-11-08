@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>going around in circle and then coming togather in circle as if the were dancing over and over same.((NUFORC Note:  Possible sighting of advertising lights, we suspect.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115247.html](http://www.nuforc.org/webreports/reports/115/S115247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vienna/Williamstown (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Mysterious BOOM Shakes AreaApproximately at 8:30 am, a loud noise like an explosion was heard by residents up WV Rt 14 (between Vienna and Williamstown)  Reports to 911 started at 8:32 am.  Law enforcement investigated and found nothing.  Local airport contacted and they stated no airplanes capable of creating a sonic boom are stationed at WV airports.  A squadron of F-16 fighters did take off from Daytons AIr Force base at 9:15am so that wasn't it.  No explanations could be found.  A witness said it felt as though it not only shook the house, but that they could feel it internally as well.  They said it wasn't like anything they have ever expereinced.This happened during the northern lights show.. could they be connected?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20493.html](http://www.nuforc.org/webreports/reports/020/S20493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
