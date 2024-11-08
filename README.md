@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange orbs at 99th ave and GlendaleThis sighting occurred in Phoenix, AZ, in the fall of 2008.  My husband and I were traveling south on the west side 101 Freeway at Glendale Avenue.  There is a large building on 99th Avenue south of Glendale Avenue.  It was dusk outside and the sun had just set behind the White Tank Mountains.  My husband pointed out the building with 3 large orange/red orbs stacked over the top of the building.  They were glowing and my husband asked if there were any airplanes that fly over that building because it looked like one of those large poles with lights on it that warn airplanes.Glendale airport it just north of this area, but this building is right next to the 101 freeway and no planes would be flying that close and low over the freeway.  I was trying to get my phone on to take pictures, when the lights starting glowing even brighter and getting larger and as we watched they just disappeared.My husband got off the freeway and we drove over to the building to see if there was a light pole in the property or even close to it.  There was none.  It was completely dark by then and we went up 99th avenue and got back on the 101 freeway, southbound again.  The orbs were gone.((NUFORC Note:  We have assigned an arbitrary time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109801.html](http://www.nuforc.org/webreports/reports/109/S109801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw bright orange and blue lights above on civilian side of birch hill while at viewing spot with friendsFriends and I were sitting in car at a view spot and all of a sudden we saw very bright orange and blue lights, possibly few other colors thinking it was possibly a police officer, or someone.  These lights appeared to be from above as we saw no sign of anything around. As soon as we opened the doors to see what was going on these lights just disappeared, leaving us confused and a little frightened as we are sure nothing was around us at ground level during the lights appearance, but we knew it had to be close and above because of the outward light dispersment, and among the snow.  The disappearance of the lights was very strange as they were gone instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105260.html](http://www.nuforc.org/webreports/reports/105/S105260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
