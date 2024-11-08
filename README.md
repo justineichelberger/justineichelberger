@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I steady no blink Bright Plane Light goes one direction, sways back,  then Drops and sways like a ZThe lights of the street shone bright but I could still see the stars, what a starry night tonight. There is an airport near by and often I see the flashing colors of the Cessna and Pipers coming in for a landing as I throw away the trash at night. Occasionally the Jets may be doing a late practice here by the Air Force base. Tonight was different, there was a solid light that didn't flicker at all in the east near the moon tonight. This light on this veichle was larger than normal compared to the distance I thought. So I continued to look, having to back up to watch this and get a clear view from the building and lights of the street. This solid light was doing some kind of zigzag like a Z and I stood amused at what could do this. Is this a search light? I saw this go back and forth, drop down in a sway and go forward again. Then it moved on behind the building. I looked around the building and it was gone. That surely put a damper on my depression tonight, now I'm stunned back to reality. Things are always as they seem to appear. Never say never~</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53308.html](http://www.nuforc.org/webreports/reports/053/S53308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange orbs at 99th ave and GlendaleThis sighting occurred in Phoenix, AZ, in the fall of 2008.  My husband and I were traveling south on the west side 101 Freeway at Glendale Avenue.  There is a large building on 99th Avenue south of Glendale Avenue.  It was dusk outside and the sun had just set behind the White Tank Mountains.  My husband pointed out the building with 3 large orange/red orbs stacked over the top of the building.  They were glowing and my husband asked if there were any airplanes that fly over that building because it looked like one of those large poles with lights on it that warn airplanes.Glendale airport it just north of this area, but this building is right next to the 101 freeway and no planes would be flying that close and low over the freeway.  I was trying to get my phone on to take pictures, when the lights starting glowing even brighter and getting larger and as we watched they just disappeared.My husband got off the freeway and we drove over to the building to see if there was a light pole in the property or even close to it.  There was none.  It was completely dark by then and we went up 99th avenue and got back on the 101 freeway, southbound again.  The orbs were gone.((NUFORC Note:  We have assigned an arbitrary time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109801.html](http://www.nuforc.org/webreports/reports/109/S109801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
