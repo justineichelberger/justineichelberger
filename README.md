@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Blue light/object sped across the sky- San Diego, CAI was driving southbound on the 5 freeway near the Sassafras Exit.  I was talking to a friend on the phone who was also driving southbound on the 5 freeway but she was a few miles north near the Grand/Garnet Exit.  I saw this low flying blue compact light shoot across the sky going in the southwest direction and disapper into the clouds/fog.  My first thought was that it was a helicopter and I thought how it was close to the flight pattern of the San Diego Airport and that was pretty dangerous if it was a helicopter.  As I was having this thought my friend who I was talking to on the phone said, "wow, I just saw a shooting star or something" and I of course shreaked and said I saw it too and then we both realized it could not have been a star; it was too low and too fast and too big and it could not have been a helicopter since we saw it almost instantaneously and I don't think helicopters fly in that area due to the airport.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53307.html](http://www.nuforc.org/webreports/reports/053/S53307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 discsWas driving up number 8 back towards Germanton and could see two discs in the sky.  As I was trying to keep my eye on one, I spotted the second, as I moved my eye back to the first it was gone.  Then went back to the second and it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94234.html](http://www.nuforc.org/webreports/reports/094/S94234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
