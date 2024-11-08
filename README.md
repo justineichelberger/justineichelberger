@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jonah (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My mom was driving N. on 1660 toward HWY 29. She saw 3 bright lights hovering for 30 sec and then there were suddenly only 2 lights.I got on Facebook and saw that my friend DK had posted a photo of the same thing my mom saw.  He & 3 others saw the same thing and got a photo of it which I have.  He said that this is not the first time people have repoeted seeing lights like these in the Taylor, TX area.  Some people saw 2, 3, 4, and 5 light in a line and others have seen them in a V shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94272.html](http://www.nuforc.org/webreports/reports/094/S94272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Four flashing, stationary lights west of Tucson.Initially, there were 4 flashing lights of equal brightness in the western, slightly north-western sky at abut 45 degrees from the horizon.  We were viewing these lights from the far east side of Tucson.  What was odd was that they stayed completely stationary for a few minutes.  Three continued this way while one approached another and then stopped flashing.  Eventually they seemed to retreat into the distance and the flashing became fainter.  As they faded, they gave the impression that they were reflecting pulses of light rather than emitting flashes because of how the light seemed to scatter as if reflecting off a surface.  It was sort of like they were retreating into a haze.  It reminded me a little of the footage I have seen of the lights above Phoenix.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143683.html](http://www.nuforc.org/webreports/reports/143/S143683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
