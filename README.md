@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 8 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:20 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw bright orange and blue lights above on civilian side of birch hill while at viewing spot with friendsFriends and I were sitting in car at a view spot and all of a sudden we saw very bright orange and blue lights, possibly few other colors thinking it was possibly a police officer, or someone.  These lights appeared to be from above as we saw no sign of anything around. As soon as we opened the doors to see what was going on these lights just disappeared, leaving us confused and a little frightened as we are sure nothing was around us at ground level during the lights appearance, but we knew it had to be close and above because of the outward light dispersment, and among the snow.  The disappearance of the lights was very strange as they were gone instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105260.html](http://www.nuforc.org/webreports/reports/105/S105260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greenwich (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three white lights in a triangular formation slowly moving from west to east.3 lights observed in a triangular formation heading west to east.  Altitude appeared to be very high as lights were not extremely bright.  At first we thought it was stars but only then we observed they were moving slowly.  Solid white no blinking.  When they were about 30 degrees off the horizon, the leading light vanished went out then within 15-20 seconds, the left light went out and about 10 seconds late, the third light went out.  Not a sound was heard the entire time.  If it was just one light, one may think it was a satellite but to see the three in formation has us wondering.  That's why I'm here.  Someone had to have seen this as well???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137212.html](http://www.nuforc.org/webreports/reports/137/S137212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
