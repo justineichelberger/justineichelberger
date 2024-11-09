@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Silverton (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a emerald disk covered in a transparent teardrop shell streak across the sky.I was driving my car home from school when I briefly looked up at the moon and thought to myself how strange it was that there is such a thing as a moon.  Then something caught my eye and I turned my head toward the horizon.  It was a clear day so I could see very well.  What had caught my eye was moving fast across the sky.  It looked like a emerald disk.  It had a transparent teardrop shell around it.  The object was releasing a short tail of exhaust as it flew and was about one and a half times as long as the actual object.  The exhaust instantly dissipated after it reached that length.  The object made no noise as far as I could hear, and it was only visible for three seconds before it disappeared.  The one thing that stood out the most to me was how bright the emerald center was.  I was also surprised by how fast it was going.  Around the speed of a fighter jet.  As soon as it vanished, I tried to pull over safely but could not at the time and only ma! naged to stop and get out of my car to look but there was no other sign of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131117.html](http://www.nuforc.org/webreports/reports/131/S131117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large black triangle with faint lights, noiseless, flying fairly low to the ground, heading south. Observed while driving to work near Centennial airport. Usually when aircraft are flying that low approaching the runway you can hear them very clearly - this craft made no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160545.html](http://www.nuforc.org/webreports/reports/160/S160545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
