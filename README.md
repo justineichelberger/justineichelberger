@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red/orange bright lights around 10, moving very slowly starting a formationSaturday nov 9, 2013, at approx 18:45, I was at the roof searching for Venus, but I saw 3 red/orange lights moving upward then forward then another and another, I called my brother by then there were about 10.Some very bright and size like a dime, then moving around each other, disappearing at a glimpse or  moving away, at one point four of them were moving at unison till forming a perfect rectangle, then another appeared, dark bright others dim.  For about 10 minutes they were moving around a small portion of the dark sky, until all were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104300.html](http://www.nuforc.org/webreports/reports/104/S104300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Plymouth (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Silent Black Triangles flying in a One Sided Formation with Dim Lights in the shape of a V on the bottomLaying on the pavement at Washington Elementary School around Midnight stargazing watching for shooting stars in the dark shadow on the east side of the school building when directly center above me at a good height, low cloud height maybe 3 Black Triangles flying in a single sided V formation completely silent flying/floating? straight west to east twards town at a slow yet steady pace, it lasted no more than two minutes until their stealth blackness disapeared them into a distant cloud bank. They also apeared to have 2 rows of dim lights in a V shape on the bottom. If I had not been looking at the exact spot in the sky where they appeared I doubt I would have even seen them but they appeared right over the top of the building! It was amazing my only regret is I was alone with no video equipment!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46936.html](http://www.nuforc.org/webreports/reports/046/S46936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
