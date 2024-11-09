@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bartlett (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"V" shaped ufo over Memphis.Some family had gotten together for a funeral two days later.  My uncle, brother, brothers girlfriend, friend T.J., and myself were on the back porch smoking.  I looked up into the night sky, and saw a "V" shaped object.  It was about a half a mile away and i first noticed it coming out from behind a tree that was blocking my sight line.  I watched it for about 5 seconds before I said,  "what the hell is that!".  The four people with me just looked up and watched the "V" shaped craft fly right over our heads.  The craft made no sound at all, not even wind noise could be heard.  It had 6 or 7 white-yellowish lights.  Very sharp point to the "V", and very slim body, just like the letter V.  About a week later we were in the same place, only three people were witness to that sighting.  Two sightings in a week, the same object!?  What's really going on here?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61428.html](http://www.nuforc.org/webreports/reports/061/S61428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>doughnut ufoI was looking for the comet swap and i looked northwester, I coudl not find it, the night was very clear, no clouds, then I started to look above me, when i noticed a bright shining dougnut, it was very high and with the stars in the background look lke it was a star, but when i saw the shape and this thing moved from west to east, stop and make a right turn going north, for a moment stopped but latter move back to the southn and then to west it went far this time then went east and make a perfect u turn. at this moment i went inside my house to tell my family what i just saw, when i returned the dougnut was gone.It move  using different speed.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53354.html](http://www.nuforc.org/webreports/reports/053/S53354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
