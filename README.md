@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large black triangle with faint lights, noiseless, flying fairly low to the ground, heading south. Observed while driving to work near Centennial airport. Usually when aircraft are flying that low approaching the runway you can hear them very clearly - this craft made no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160545.html](http://www.nuforc.org/webreports/reports/160/S160545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rotterdam/Amsterdam (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>large size and very bright light in the sky about 20x the size of an avg. "shooting star."  It was going across the sky,  SLOW.large size and very bright light in the sky about 20x the size of an avg. "shooting star." It was going across the sky,  SLOWED DOWN, and then kept going and disappeared..  This was a little before 10pm...  Thank you for your time!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123933.html](http://www.nuforc.org/webreports/reports/123/S123933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
