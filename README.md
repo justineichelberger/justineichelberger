@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:25 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>VERY BRIGHT BLUE/WHITE SPHERE SIGHTED TEMPE,AZ,  HEADING 260 9NOV2002 2133 HRS.WHITE CENTER. BRIGHT BLUE OUTER RING TRAVELING 260 DEGREE HEADING. 21:33 9NOV2002. THIS WAS BRIGHTER AND LARGER THAN ANY OBJECT I HAVE SEEN AT NIGHT IN THE SKY. IT WAS HUGE. DURATION: 5 SEC. TEMPE, AZ I WAS FACING NORTH. IT APPAEARED 60 DEGREES ABOVE HORIZON.((NUFORC Note:  Please see report from Arkansas City, Kansas, for same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26017.html](http://www.nuforc.org/webreports/reports/026/S26017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Minot (ND) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green fireball near Minot, NDI was driving on Highway 83 North to Minot, ND where I work.  As I was driving I thought I had seen a shooting star out of the corner of my eye.  I turned to look but it was a big green fireball moving East.  It appeared to be arcing downward and the green light had "burnt out".  But yet I could still see an object falling.  While I was driving there were about five other cars around me and they all had to have seen because they all slammed on their brakes when it occured.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40622.html](http://www.nuforc.org/webreports/reports/040/S40622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
