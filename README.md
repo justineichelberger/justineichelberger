@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About a dozen red flashing lights passing quietly in the night.Noticed about one-dozen red lights in a scattered formation. The formation was about one hands worth of area if you helf your hand up to the sky. The red lights were a vibrant red, changing from a intense white/red to a red glow to no light. The lights were not in sync and seemed to be inconsistant in their flashes. The lights were moving towards the pacific ocean at a moderate to high speed. There was no noise what so ever even though the lights passed directly over my head.  The formation seemed to be very tight with no specific shape or leader. I pointed the lights out to my friend who immidiatly saw the lights.  She was a little frightend sice I had no explanation of what it is (being a aviation enthusiest myself).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59817.html](http://www.nuforc.org/webreports/reports/059/S59817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red/orange bright lights around 10, moving very slowly starting a formationSaturday nov 9, 2013, at approx 18:45, I was at the roof searching for Venus, but I saw 3 red/orange lights moving upward then forward then another and another, I called my brother by then there were about 10.Some very bright and size like a dime, then moving around each other, disappearing at a glimpse or  moving away, at one point four of them were moving at unison till forming a perfect rectangle, then another appeared, dark bright others dim.  For about 10 minutes they were moving around a small portion of the dark sky, until all were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104300.html](http://www.nuforc.org/webreports/reports/104/S104300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
