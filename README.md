@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:51 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:44 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pomfret (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>11/09/13 Pomfret CT  Light  10 minutes  6 bright absolutely silent orange/reddish pulsing lights moving east to west at low altitudeObserved six bright orange/reddish pulsing lights traveling from west to east and all in a line pretty much evenly spaced..one coming overhead about every 20 seconds.  They appeared to be low...maybe 10,000 feet or so and all were absolutely silent.  It was a quiet night..very still..no wind and any plane engine would have been easily heard.  They all traveled at the same speed and slowly.  There were no clouds in the sky..visibility was excellent.  I watched them go from horizon to horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104307.html](http://www.nuforc.org/webreports/reports/104/S104307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Benton (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bliding Bluish Light...My husband and I were sitting on our front steps.  Our lot is almost completely covered with very large, tall pine trees which obscures much of the sky. I was looking down and he was looking upward when this flash of blinding blue light came from the tree tops.  We quickly looked around to determine if one of our neighbors had a spotlight or flashlight out, but the rest of our street was quiet.  There was no noise associated with the light and upon running to the end of our driveway, to have a look at the clear night sky, we did not observe anything, identified or not.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66826.html](http://www.nuforc.org/webreports/reports/066/S66826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
