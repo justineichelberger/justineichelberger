@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rotterdam/Amsterdam (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>large size and very bright light in the sky about 20x the size of an avg. "shooting star."  It was going across the sky,  SLOW.large size and very bright light in the sky about 20x the size of an avg. "shooting star." It was going across the sky,  SLOWED DOWN, and then kept going and disappeared..  This was a little before 10pm...  Thank you for your time!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123933.html](http://www.nuforc.org/webreports/reports/123/S123933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Canyonville (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk-shaped craft spotted hovering in the skyI was sleeping on top of my VW Bus in the woods near Canyonville, OR, when I woke up suddenly for no apparent reason. I looked up at the sky and became aware of a grey or silver craft hovering off to my left, approximately a half mile away. The craft was saucer shaped and had light panels on the bottom half of the saucer. The craft was spinning back and forth, and the only way I knew this was because I could see the light panels moving slowly back and forth. There was an inaudible hum or vibration in the air, like a subtle electric crackle. At first I thought in my mind, 'Oh wow, a UFO! So it's true...' but then I became very frightened. I jumped down off of the top of the bus and hurried inside to tell my friends, who were sleeping inside. I urged them to go outside and look, but they were too frightened to. I attempted to start the bus, but it wouldn't start, so I just kept trying over and over and let the starter attempt to pull us up a short hill. Finally, I just gave up and let the bus roll back down the hill, where we logded against a gate. I climbed into my sleeping bag and tried to calm myself (I was frantic throuhout the entire encounter!) In the morning, the bus started with no problems.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12885.html](http://www.nuforc.org/webreports/reports/012/S12885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
