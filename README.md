@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Plymouth (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Silent Black Triangles flying in a One Sided Formation with Dim Lights in the shape of a V on the bottomLaying on the pavement at Washington Elementary School around Midnight stargazing watching for shooting stars in the dark shadow on the east side of the school building when directly center above me at a good height, low cloud height maybe 3 Black Triangles flying in a single sided V formation completely silent flying/floating? straight west to east twards town at a slow yet steady pace, it lasted no more than two minutes until their stealth blackness disapeared them into a distant cloud bank. They also apeared to have 2 rows of dim lights in a V shape on the bottom. If I had not been looking at the exact spot in the sky where they appeared I doubt I would have even seen them but they appeared right over the top of the building! It was amazing my only regret is I was alone with no video equipment!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46936.html](http://www.nuforc.org/webreports/reports/046/S46936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>When driving down Lawrence Avenue from 9th street towards 6th, I looked to the left and saw an object full of light flying straight down. It wasn't a normal disk-like object, it was a cylinder kind. It was fast and went passed the trees and houses. It was high in the sky and a far distance away, the object was really large. I knew it had to be a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53325.html](http://www.nuforc.org/webreports/reports/053/S53325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
