@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Minot (ND) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green fireball near Minot, NDI was driving on Highway 83 North to Minot, ND where I work.  As I was driving I thought I had seen a shooting star out of the corner of my eye.  I turned to look but it was a big green fireball moving East.  It appeared to be arcing downward and the green light had "burnt out".  But yet I could still see an object falling.  While I was driving there were about five other cars around me and they all had to have seen because they all slammed on their brakes when it occured.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40622.html](http://www.nuforc.org/webreports/reports/040/S40622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bartlett (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"V" shaped ufo over Memphis.Some family had gotten together for a funeral two days later.  My uncle, brother, brothers girlfriend, friend T.J., and myself were on the back porch smoking.  I looked up into the night sky, and saw a "V" shaped object.  It was about a half a mile away and i first noticed it coming out from behind a tree that was blocking my sight line.  I watched it for about 5 seconds before I said,  "what the hell is that!".  The four people with me just looked up and watched the "V" shaped craft fly right over our heads.  The craft made no sound at all, not even wind noise could be heard.  It had 6 or 7 white-yellowish lights.  Very sharp point to the "V", and very slim body, just like the letter V.  About a week later we were in the same place, only three people were witness to that sighting.  Two sightings in a week, the same object!?  What's really going on here?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61428.html](http://www.nuforc.org/webreports/reports/061/S61428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
