@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:09 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:51 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Red object displaying bizarre flight patterns before shooting directly upwards into spaceWhile smoking a cigarette, I looked up into the sky and noticed an object moving at a far higher altitude than any plane I have seen.  The object, which appeared red to the best of my ability of sight, moved backwards, foward, sideways, then in a zig zag pattern.  Due to recent numerous similar events, I was convinced the object was far from any flight capable object I had ever seen.  When the object changed course west, it stopped near a star and the star began glowing brighter as did the flying object.  The object flew east at incredible speed, immediatly stopped, and flew upwards towards space in a similar fashion as a rocket ship, directly upwards.  As it was on its path towards space , the clouds behind it became thicker and formed behind the object, covering any way to continue viewing it.  Throughout it's flight patterns, it consistently flew behind clouds near the shining star.  I highly stress to inform this is not the first time I have seen an object mane! uver such bizarre flight patterns and shoot directly into space, seeming to somehow each time influence cloud patterns.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94291.html](http://www.nuforc.org/webreports/reports/094/S94291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pomfret (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>11/09/13 Pomfret CT  Light  10 minutes  6 bright absolutely silent orange/reddish pulsing lights moving east to west at low altitudeObserved six bright orange/reddish pulsing lights traveling from west to east and all in a line pretty much evenly spaced..one coming overhead about every 20 seconds.  They appeared to be low...maybe 10,000 feet or so and all were absolutely silent.  It was a quiet night..very still..no wind and any plane engine would have been easily heard.  They all traveled at the same speed and slowly.  There were no clouds in the sky..visibility was excellent.  I watched them go from horizon to horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104307.html](http://www.nuforc.org/webreports/reports/104/S104307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
