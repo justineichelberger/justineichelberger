@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>doughnut ufoI was looking for the comet swap and i looked northwester, I coudl not find it, the night was very clear, no clouds, then I started to look above me, when i noticed a bright shining dougnut, it was very high and with the stars in the background look lke it was a star, but when i saw the shape and this thing moved from west to east, stop and make a right turn going north, for a moment stopped but latter move back to the southn and then to west it went far this time then went east and make a perfect u turn. at this moment i went inside my house to tell my family what i just saw, when i returned the dougnut was gone.It move  using different speed.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53354.html](http://www.nuforc.org/webreports/reports/053/S53354.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 object in daylightI walked out of a store on Randall road in Batavia, IL.  I saw 3 objets flying in a circle.  My first reaction was to think they were birds.  I quickly realized that was not the case.  They were much too high to be birds and at that altitude, birds could not be seen.  They were moving in a counter-clockwise rotation in a circle and silver in color.  Their path was not perfect or even eliptical.  They moved in an erratic motion going closer and farther from the center of the circle.  One moved away from the rest to the West and then disappeared.  The second one did the same.  The third one moved in the same direction, but went much slower and slowly faded out.  About 30 second later another object appeared to be the size of the first 3 put together.  It was silver at the top and went to bronze at the bottom.  It stayed stationary for 30 seconds and then went straight up at a high rate of speed and disappeared.  We did notice military jet in the area.  I couldn't tell what they were doing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33034.html](http://www.nuforc.org/webreports/reports/033/S33034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
