@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Summersville (WV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Shiny, silver cylinder type UFO near Veteran's Day ParadeI was filming a Veteran's Day Parade and I happened to look behind me and I saw a silver  shiny cylinder type of object, floating in mid-air.  The sky was clear blue and warm that day.  The object was several hundreds of feet in altitude.  I am sure nobody else saw it because everybody's attention was on the parade.I had my camera on a tripod and I began unfastening it so I could turn around and photograph the UFO.  By the time I got my camera unfastened, which was about 20 seconds, it had vanished.I should have picked up the tripod and camera and started shooting instead of trying to unfasten the camera first.I started to bring a second camera with me that day, but didn't.Next time I will.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94776.html](http://www.nuforc.org/webreports/reports/094/S94776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brilliant blue oblong object zooms horizontally across southern sky at 2 in the morning.I awoke suddenly because of the silence.  Rain had been thundering on the glass ceiling, but suddenly I woke up realizing the rain had stopped and there was complete silence (I sleep with windows open.)  I looked at the clock ... 2 AM ... and I looked at the sky through the glass ceiling. (I live on a lake so have a clear view of the southern sky with no interference from trees, lights or houses.)  Every star in the universe was shining and suddenly, across the horizon, zoomed a brilliant blue something ... from west to east.Horizontal, no arc. Fast. Huge.I described it to a friend who said it was a "Blue Fireball."  It was a beautiful experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47752.html](http://www.nuforc.org/webreports/reports/047/S47752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
