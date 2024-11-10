@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:28 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>I stepped out to have some Colorado tobacco and faceing east towards the grandmesa I looked up and saw the orange glow of the sunset reflecting off a pumpkin shaped craft with vertical ridges around it.  kinda like a upside down bowl.  i braced my 20x80 binocks against a pole to steady them, as the sun sat the red orange went with it after the stars  came out I could see if it was moving or not, the stars were moving but not the craft,  after about 40 min.  all there was left was a ring of light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104364.html](http://www.nuforc.org/webreports/reports/104/S104364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Johnson City (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A twitchy light objectWhile driving North on Route 201 between what is now know as the "fly by" and the Oakdale Mall, I noticed a bright cylander object in the west sky.   It glowed and shimmered, almost having a whilte/silver aura around it.  The object was on the wrong side of the sky at that time to refelct sunlight.  It was stationary for a few moments, then sped very very rapidly towards the north over a 1/4 of the sky within seconds, and then stopped again.  A few seconds later, the object shot behind a high cloud and was not seen again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47688.html](http://www.nuforc.org/webreports/reports/047/S47688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
