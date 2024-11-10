@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:04 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Williams (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>With a group of 5 people star watching in Williams, Arizona. We tracked two satellites and saw two shooting stars, when we noticed directly up above at the height from Earth that a satellite would be, a bright, white orb-shaped object that started out moving similar to the ISS heading south in the sky. We then watched it slowed way down, get brighter and do an odd, jerky zig zag pattern just before completely shooting across the sky like a shooting star heading opposite toward the north and then disappearing out of sight. Ten seconds later it returned coming into view directly above us again and completely stopped for about 10 seconds, then it moved diagonally down toward the tree line and got more dim as it decended until it completely dimmed out about 20 degrees above the horizon. I had no explanation for what it could be. It was speed variable (could go from super fast to stop instantly), it can dim and brighten at will, change directions instantly, no so! und, and the zig zag maneuvers seemed almost like it was blipping in and out of existance in fractions of a second, giving it this weird jerking type of motion. As an experienced star gazer and telescope enthusiast, I have never witnessed anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160862.html](http://www.nuforc.org/webreports/reports/160/S160862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tuscola (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Made a report on this yesterday, same thing happened today just this time only the light appeared ..right around the same exact time too just as a plane was taking the same flight pattern. Except this time is appeared way off to the west of the plane. But you can add this with my report from yesterday. This time both my parents saw it and myself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53348.html](http://www.nuforc.org/webreports/reports/053/S53348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
