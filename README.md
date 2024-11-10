@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 9 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Batavia (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 object in daylightI walked out of a store on Randall road in Batavia, IL.  I saw 3 objets flying in a circle.  My first reaction was to think they were birds.  I quickly realized that was not the case.  They were much too high to be birds and at that altitude, birds could not be seen.  They were moving in a counter-clockwise rotation in a circle and silver in color.  Their path was not perfect or even eliptical.  They moved in an erratic motion going closer and farther from the center of the circle.  One moved away from the rest to the West and then disappeared.  The second one did the same.  The third one moved in the same direction, but went much slower and slowly faded out.  About 30 second later another object appeared to be the size of the first 3 put together.  It was silver at the top and went to bronze at the bottom.  It stayed stationary for 30 seconds and then went straight up at a high rate of speed and disappeared.  We did notice military jet in the area.  I couldn't tell what they were doing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33034.html](http://www.nuforc.org/webreports/reports/033/S33034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gardiner/Pittston (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Object seen emitting objects over a field and the cars engine started acting weird.The object seen flashed a singular main light which almost looked like a star, a slight reddish flicker to it.  It moved irregularly, looked like it was rolling in place. 2 planes had passed it and it didn't move.  As it started to fade out we drove after to observe to the next town over.  We passed a cop as we had gotten further out.  We reached a field to observe it.  It looked like it was shooting out something with mist around it (almost looked like a shooting star just dropping it, this happened at least 3 times).  It started to fade out again so we started following it again and our cars engine started acting weird (it never goes over 2.5 RPMS going up to 40 MPH) it was well over 3.We turned around to head home because of this as as soon as we did the car was fine! We took a turn west before we headed home and saw the same police car.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123981.html](http://www.nuforc.org/webreports/reports/123/S123981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
