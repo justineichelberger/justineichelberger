@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A luminous whilte sphere flying slowly,  Winked out of sight abruptly and did not reappear.There was one white sphere which appeared lit from within.  It was very distinct and had no haze.  It was high in the sky, somewhere south of the I-35/ Robinson exit.  It slowly moved to lower altitude, heading west.  About three minutes after I first spotted it, it simply disappeared.  It may have been that the object was still there, but the light went off, making it hard to see againt the sky, which was pale blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04799.html](http://www.nuforc.org/webreports/reports/004/S04799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Swartz Creek (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two triangular craft, red light on front, 2 square white lights on rear, northward at slow speed.I was travelling eastward on M-56 just east of M-13.  I observed a pair of red lights estimated 30-50 feet apart travelling from my right, about 200-300 feet high.  They were not moving quickly, I would say the were moving slower than a light aircraft would. As I continued east, I could see that the left-most object also had a white light.  I first thought it was a plane towing something with a red light on it.  As I approached my house, I was nearly underneath the two objects and they crossed M-56.They were both triangular in shape, they did not have standard aeronautical signalling lights.  No flashing lights at all, only a steady red light at the front end.  From behind, both had two square lights on rear of the craft.  I could hear no sound, the road is busy at that time of day.  But definitely no standard aircraft engine noise.  I watched as both stayed in formation, the rear object a little lower than the front object, and they slowly continued North towards Flushing. I lost sight of them after about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47615.html](http://www.nuforc.org/webreports/reports/047/S47615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
