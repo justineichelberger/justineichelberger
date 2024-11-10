@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:37 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gardiner/Pittston (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Object seen emitting objects over a field and the cars engine started acting weird.The object seen flashed a singular main light which almost looked like a star, a slight reddish flicker to it.  It moved irregularly, looked like it was rolling in place. 2 planes had passed it and it didn't move.  As it started to fade out we drove after to observe to the next town over.  We passed a cop as we had gotten further out.  We reached a field to observe it.  It looked like it was shooting out something with mist around it (almost looked like a shooting star just dropping it, this happened at least 3 times).  It started to fade out again so we started following it again and our cars engine started acting weird (it never goes over 2.5 RPMS going up to 40 MPH) it was well over 3.We turned around to head home because of this as as soon as we did the car was fine! We took a turn west before we headed home and saw the same police car.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123981.html](http://www.nuforc.org/webreports/reports/123/S123981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Hurricane (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was riding in the car and looked out the window. I then saw a circle about as big as a full moon flash across the sky and the disappear. The light was a bright yellow glowing light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05347.html](http://www.nuforc.org/webreports/reports/005/S05347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
