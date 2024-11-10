@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Derby (NY) reported seeing craft that fit the description of some '' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Multiple orange spheres over Derby NYDerby NY 11/10/2012 Sighting @ 6:30pm to about 7:45pm  temp  Hello Peter here is my report:On the 10th I was in the backyard Burning some firewood and listening to talk radio when suddenly above me there were 5 spheres in a strange formation above me.   Immediately, I ran to get a witness. Once returning out side the five had moved a little further down the road and then became stationary for a moment and then began to make formations and move about in that area.Then as time went on they move further away so I jumped in the truck and followed. While doing so I seen other people pull over looking and getting pics.  I told all of the to go to the NUFORC website and write out a report and then continued to follow.  At one point they were low enough that they were behind trees, almost looked like they may land somewhere.At the end of the sighting they came up from the ground one at a time and they even took the same flight path up till you could not see them anymore due to clouds.The main reason I am out there every time is to see this phenomenon and others, ….finally it happened.WITNESS REPORT  I observed several orange like Spheres rising into the night sky.  There were other orange orbs also in the sky.  I could see them coming from behind the trees.  At one point I counted 6 or 7 orange spheres, they would rise and then disappear in the clouds. 3 made this formation most of the sighting   Other information!!!  Peter on Nov 11 2010 I had another sighting (Wow) which I did get High Res photos of I posted them on a popular web site called Abovetopsecret HERE:   http://www.abovetopsecret.com/forum/thread658692/pg1 (scroll down to see images toward the bottom of post)I have the Source(FULL) images I would like to share with you and the community please call once you have received this REPORT  Thanks for your services to the Web and people all over!((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94386.html](http://www.nuforc.org/webreports/reports/094/S94386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A luminous whilte sphere flying slowly,  Winked out of sight abruptly and did not reappear.There was one white sphere which appeared lit from within.  It was very distinct and had no haze.  It was high in the sky, somewhere south of the I-35/ Robinson exit.  It slowly moved to lower altitude, heading west.  About three minutes after I first spotted it, it simply disappeared.  It may have been that the object was still there, but the light went off, making it hard to see againt the sky, which was pale blue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04799.html](http://www.nuforc.org/webreports/reports/004/S04799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
