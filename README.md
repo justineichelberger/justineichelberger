@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:28 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Remarkably large, green fireball heading NI was driving NW at about 25 mph. along Meadowwood Dr. when I saw a bright flash in the sky to the N, heading N.  It seemed in every characteristic to be a typical falling star, except that it was remarkably larger and brighter than a falling star, and green.  It streaked across the sky toward the N in a falling manner, and disappeared.The weather at the location at the time of the phenomenon was a pleasant 42 degrees, with visibility at 9 miles, humidity at 72 percent, and partly cloudy skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66837.html](http://www.nuforc.org/webreports/reports/066/S66837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long UFO over school.Saw a UFO at about 8:40 pm, hovering over a school had lights on the bottom of craft and looked oval in the center but really long.  It quickly moved into a slight vertical position and hovered over the street were driving at behind our vehicle and then disappeared.  It all happened within 30 sec.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131147.html](http://www.nuforc.org/webreports/reports/131/S131147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
