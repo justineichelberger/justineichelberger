@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Bright strobe lights in frantic pattern.On 11/10/17, at approximately 830 pm, in the NE direction of the Port Richmond section of Philadelphia, we spotted a pattern of bright strobing lights that can only be described as frantic.  The object quickly disappeared over horizon. Sighting lasted 1-2 minutes. Cell phone video available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137204.html](http://www.nuforc.org/webreports/reports/137/S137204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw an anomoly at 11:38hundred hrs.  Its shape was disk-like and hung around approximately 20 minutes.  My friend had been looking at it approximately 2 minutes when he finaly got my attention.  It seemed stationary, then moved southeast very slowly.(about the speed of an hour-hand on a analog clock.It was about 1138hrs. when my friend from the warehouse next to mine brougt my attention to something in the sky.  His first words to me were ,"What the hell is that!"  I looked up and saw a disk-like abject in the shy directly above Mount Baldy here in CA.  It seemed to be at a very high altitude and was turning so that the sun reflected off of it.  At that point, we both saw a small black dot with a dual jet-stream following what appeard to be a small black jet-fighter.  The object was moving at a speed of no more than an hour hand on a analog clock.  It was then when we called Edwards Air Force Base.  They got irritated when at our call and asked why we called them.  They also stated it was a, "Metalic weather baloon", and told us to call the FAA. I did so and the official gave me this address.  It might be important to add, that my friend saw it at 1500hrs. but this time, while trying to get my attention, said it just vanished: also, I saw another fighter, or what seemed to be.  That is about all I can think of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04801.html](http://www.nuforc.org/webreports/reports/004/S04801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
