@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V-shaped object with no lights moving Silently over the town of Folsom.On November 10th, at approximately  22:45 hours, I was looking up into the night sky, while talking to someone who was in a elevated position.  As I was talking to them, I noticed a dark shadow move over their head.  I focused my attention into the object and observed a large triangle object, moving in a southernly direction.  The object was approximately 2500 feet about the ground moving at a slow pace.  The object had no lights or markings and was about the size of a football field and blended into the night sky.  The area I was standing in was lit up with powerful night time lighting and the light was reflecting off the metal material of the object.  As I watched the object it was moving in a slow manner in a southernly direction.  The thing that was the most amazing was that the object made no sound at all.((NUFORC Note:  Source of report describes himself as a public employee.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137226.html](http://www.nuforc.org/webreports/reports/137/S137226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Remarkably large, green fireball heading NI was driving NW at about 25 mph. along Meadowwood Dr. when I saw a bright flash in the sky to the N, heading N.  It seemed in every characteristic to be a typical falling star, except that it was remarkably larger and brighter than a falling star, and green.  It streaked across the sky toward the N in a falling manner, and disappeared.The weather at the location at the time of the phenomenon was a pleasant 42 degrees, with visibility at 9 miles, humidity at 72 percent, and partly cloudy skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66837.html](http://www.nuforc.org/webreports/reports/066/S66837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
