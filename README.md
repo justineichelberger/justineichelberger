@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:08 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Observed up to 9 reddish orange objects flying in commercial airspace near Orland International Airport.Daughter outside with friends and wife.  They saw 2 circular shaped balls orange red in color.  Called me outside and we then saw 4 flying in a triangular pattern.  No noise.  Looked orange red noticed a slight flash to them.  Approximately 1500 ft not sure.  Live near Orlando internation airport and they were flying in the opposite direction as the normal flight patterns.  After the 4-2 more came about 1 minute after same height flight pattern and shape.  After those passed 1 more came and flew directly over a plane flying east.  Looked like a near miss.  I have video of objects taken on a digital camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94305.html](http://www.nuforc.org/webreports/reports/094/S94305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vancleave (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Line of lights follow my car at nightI was driving home from night school by myself. I was driving along the wastewater treatment plant.There is a large field to the left where they grow hay. On the right it is proctected land for deer. It was dark and it was cold. I looked in my rearview mirror and there were three lights in a row(up and down) right behind my car.  I looked in the side mirror on the driver's side and couldn't see it behind me. I looked again in my rearview mirror and it was right on my bumper. I looked at the clock on the radio and it was fine and the radio was still playing.  I looked in the rearview mirror again and the lights were swaying back and forth still in a line.  The movement was super smooth, like a pendilum on a clock. Then I saw a car coming towards me and the lights shot to the left of my car and went out over the hay field and disappeared.  It never made any noise.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78317.html](http://www.nuforc.org/webreports/reports/078/S78317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
