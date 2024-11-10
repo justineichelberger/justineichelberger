@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Brilliant blue oblong object zooms horizontally across southern sky at 2 in the morning.I awoke suddenly because of the silence.  Rain had been thundering on the glass ceiling, but suddenly I woke up realizing the rain had stopped and there was complete silence (I sleep with windows open.)  I looked at the clock ... 2 AM ... and I looked at the sky through the glass ceiling. (I live on a lake so have a clear view of the southern sky with no interference from trees, lights or houses.)  Every star in the universe was shining and suddenly, across the horizon, zoomed a brilliant blue something ... from west to east.Horizontal, no arc. Fast. Huge.I described it to a friend who said it was a "Blue Fireball."  It was a beautiful experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47752.html](http://www.nuforc.org/webreports/reports/047/S47752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>IT WAS IN THE EVENING,WHEN THE CRAFT CAME ACROSS THE SKY MOVING FROM LEFT TO RIGHT BEFORE GOING STRIGHT  AND THEN IT WAS GONE. TO CONTACT ME ((deleted))IDO NOT KNOW ANY OF THE PEOPLE;ALL THE PEOPLE EITHER CALLED THE POLICE,OR THE TV STATIONSTHEY WERE A LOT OF PEOPLE CALLED,THE TV TRYED TO SAY IT WAS A METOR  I DONT BELIEVE THIS AT FORTY THOSAND MILES A HOUR A  METOR COULD NOT GO LEFT TO RIGHT WITH LIGHTS ON IT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10514.html](http://www.nuforc.org/webreports/reports/010/S10514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
