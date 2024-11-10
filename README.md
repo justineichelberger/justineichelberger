@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:08 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>two silent blue lights followed by a hellicopterI live in down town Las Vegas.  I stepped out for a cigarette and saw two solid blue lights flying smoothly across the sky.  The first was moving at a slightly higher rate than the second. The second blue light was moving slower and had a helicopter following it slightly higher and behind it.  The helicopter was flashing a red light and a distinct chopper sound was herd.  I saw the three objects for only a few secants before they were lost to my view behind houses.  The three objects were headed towards the general direction of Nellis Air Force Base.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105240.html](http://www.nuforc.org/webreports/reports/105/S105240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Observed up to 9 reddish orange objects flying in commercial airspace near Orland International Airport.Daughter outside with friends and wife.  They saw 2 circular shaped balls orange red in color.  Called me outside and we then saw 4 flying in a triangular pattern.  No noise.  Looked orange red noticed a slight flash to them.  Approximately 1500 ft not sure.  Live near Orlando internation airport and they were flying in the opposite direction as the normal flight patterns.  After the 4-2 more came about 1 minute after same height flight pattern and shape.  After those passed 1 more came and flew directly over a plane flying east.  Looked like a near miss.  I have video of objects taken on a digital camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94305.html](http://www.nuforc.org/webreports/reports/094/S94305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
