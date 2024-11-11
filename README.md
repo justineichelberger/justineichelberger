@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blythe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>String light formation over Blythe CA15 lights in string formation at a 15 degree angle. Lights were visible only when looking west on I-10. After driving for a minute the lights traveled south and East and disappeared off out of the drivers side window.  The speed was slow.  No flashing lights were identified as indicating helicopters or passenger flights.  The string lights didn’t change formation but were not visible once whatever it was was - was parallel to drivers side window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150627.html](http://www.nuforc.org/webreports/reports/150/S150627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Attleboro (MA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Went to my car round 5:45 pm look up before getting in the car and saw this cone like shape blue colored.  They was a plane also in view and u can clearly see that the object was moveing 10x faster then the plane. Also he look like it broke in 2 and split in 2 different direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115296.html](http://www.nuforc.org/webreports/reports/115/S115296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
