@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Warrenton (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>This was a long object.  Not a single satellite.  It appeared to be one unit,Unexplained Sighting November 11, 2019 Warrenton, Va., Approximating 50 miles of Washington, D.C. At approximately 5:40pm, I observed a long thin line of lights moving from out of the Northwest towards the Southeast at an altitude similar to that of a satellite.  I was able to watch this for about 45 seconds. The line of lights moved uniformly as one unit and appeared to under control. I estimate the length of the line to be a mile or longer. There was no sound that I could hear from this event. I estimate the number of lights to be around 35.  The line was made up of dimmer white lights toward the front and 4 brighter white lights toward the back of the line. The dimmer lights had a small oval appearance. The larger 4 lights looked similar to that of a satellite. While watching, I did not see any change in the number or color of lights.The object maintained its course until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150574.html](http://www.nuforc.org/webreports/reports/150/S150574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>WoWWe watched object travel in straight line ne to sw then stop and reverse in straight line back to where we were and stop above us for a least a min and half.  It looked like the brightest star in the sky.(Jupiter on a clear night) it was higher than planes usually fly but lower than a satilite, estimated.  We watched dit do something else then: it twinkled in color a bit.  As we observed it.  Then it departed!  When it did it started traveling up and at a right Angle. Then ziped left angle.  Right Angle then left Angle and up!  Each time at a sharper angle.  Till it went out the atmosphere at a very fast rate!!  Like when the Star trek Enterprise goes warp!!  Like it folded space and time and accelerated at warp speed!!  And Gone...  I recently have seen a episode of ancient aliens and have seen two ancient line drawings that match what we saw.  Never have I heard anyone describe what we saw that night until I saw the ancient drawings.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146554.html](http://www.nuforc.org/webreports/reports/146/S146554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
