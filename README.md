@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>5 lights seen over Myrtle Beach SC. ... Not a planeIt was at night and my fiance and I were out on a back deck of out 2nd floor apt. star gazing.  It was a set of 5 lights in a triangle formation that moved from west to east.  They were a dirty red/brown color. We have 2 airports by us, so we hear plans everyday, but this didn't make a sound. It seemed to go, not directly over us, but almost. It could have been birds, but the lights never broke formation.  It moved at a constant speed (fast).  My fiance saw the object, or objects, first for about 5 seconds and then by the time her brain processed and she told me to look it was about 3 seconds, so I only saw it for about 2 seconds, but that was enough.  It was at a pretty high altitude, but then it disappeared over the trees out of sight moving toward Kings hwy. and the beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78863.html](http://www.nuforc.org/webreports/reports/078/S78863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cumberland (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately Evening - Evening minutes.</sub><blockquote><sub>Yellowish with red lightsMe and the 2 witnesses were driving on Milton Place in Cumberland.  The observation was yellowish with some red lights.  When the flying objects were flying clear into the sky that it vanished into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85278.html](http://www.nuforc.org/webreports/reports/085/S85278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
