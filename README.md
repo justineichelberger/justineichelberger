@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cumberland (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately Evening - Evening minutes.</sub><blockquote><sub>Yellowish with red lightsMe and the 2 witnesses were driving on Milton Place in Cumberland.  The observation was yellowish with some red lights.  When the flying objects were flying clear into the sky that it vanished into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85278.html](http://www.nuforc.org/webreports/reports/085/S85278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright light and turned redi was on my way home from work with my girlfriend and i spotted a bright light in the sky it sat their for up to a minute and suddenly went red and disappeared i no that it was not a plane and my girlfriend said the same</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73252.html](http://www.nuforc.org/webreports/reports/073/S73252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
