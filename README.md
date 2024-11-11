@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 10 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Long UFO over school.Saw a UFO at about 8:40 pm, hovering over a school had lights on the bottom of craft and looked oval in the center but really long.  It quickly moved into a slight vertical position and hovered over the street were driving at behind our vehicle and then disappeared.  It all happened within 30 sec.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131147.html](http://www.nuforc.org/webreports/reports/131/S131147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wauwatosa (WI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was very either very large or extremely close to the ground.  It was not moving.  It appeared to have 3 flashing lights spaced equally.  I was driving and it kept being blocked by trees but reappeared several times until it completely disappeared.  I got out of my car to find it but it was gone.I was driving home from work and came to a curve in the road.  As I approached the curve I saw this long object in the air.  At first I thought it was the helicopter for the near-by hospital but then I realized that it wasn't any helicopter and wasn't like any kind of plane I have ever heard of.  It was long and had several lights (I think three and I know that the end lights were colored differently)  As I moved I realized that the object was not moving at all.  I on several occasions went by groups of trees that blocked my view but when I got pass them the object was still there.  I came to a corner and turned in the direction of the object to see it better and it was gone. I have to say that this did not look like some kind of alien spacecraft---like I would know (ha!) But it didn't look like a plane or helicopter either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10528.html](http://www.nuforc.org/webreports/reports/010/S10528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
