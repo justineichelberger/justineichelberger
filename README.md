@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of flame crosses North Sacramento - no news reports11/11/2012 approx. 1757 hrs.Driving north on Morse Ave. from El Camino in North Sacramento, observed large bright yellow orange light traveling from NNW.  I stopped my vehicle to get better view through tree branches. The object moved at a deliberate pace along a flight path nearly due south.  As it passed overhead, it appeared to be a slowly roiling ball of orange flame, however showed no disturbance from surrounding air, no streaking, no trail, and no discernible noise.I tried to observe signs of craft disintegration due to inflight emergency, but no debris or disturbance of flight path was visible.  Duration of the observation was no more than 3 minutes from the appearance at 40 degrees above the N horizon to 30 degrees above S horizon when the object flashed off and on 2-3 times before disappearing from view.  As remarkable as this sight was, the relatively undramatic speed and straight path made the appearance seem relatively mundane.I was raised in the approach path of a civil airport and have lived for 18 yrs. within ½ mile of the local airbase , and am quite familiar with the appearance of all manner of civilian, commercial and military craft in nearly all conditions; this one, despite the lackadaisical pace, was unique in my experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94683.html](http://www.nuforc.org/webreports/reports/094/S94683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Washington (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle Craft With Spiraling ExhaustToday a meteor shower is currently going on and my friend and I happens to look up at the sky and see the craft.  It had three lights and it had a spiraling exhaust.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150619.html](http://www.nuforc.org/webreports/reports/150/S150619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
