@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large brite orb moving at high speed buzz's house in Troy Ohio.My daughter was spending the night at a friends house just outside of Troy Ohio.  At around 2:30am on a very dark night with few clouds, she was standing on the drive way when she saw a very bright round object the size of a house streak past the house at an extreme speed and low altitude and then it was gone. It scared her so much she sought shelter in a ditch.  The neighbors across the street reported seeing the object on a different night.  She described the object as a round orb the size of a house leaving a streak, very brite and white.  Her friend was in the back yard at the time and I do not know if she saw the object.  My daughter is 16 and drug free.  We go camping every weekend in Celina near an airport in the spring, summer, and fall.  She is used to the night sky, and has never reported anything like this before.  What I find odd, is she was scared.  So I am convinced she saw something out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94380.html](http://www.nuforc.org/webreports/reports/094/S94380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>4 greenish-blue lights rotating around a red light, brief &quot;meteor-like&quot; sightingDriving along 64 Westbound, about 1 mile east of Raleigh East Airport (W17).  Saw a bright greenish-blue light (with a slight trail) appear about 10 degrees over the horizon (nearly directly west), RAPIDLY moving downward to the ground and disappearing.  I assumed this was a meteor and made a joke about it being either a meteor, a missile or an UFO.Within 10-20 seconds of this, the light reappeared at an elevation of about 40 degrees, still west of us.  It appeared to be a series of 4 extremely bright greenish-blue lights forming a circle around a dim red light.  The 4 lights were rapidly rotating around the red light (at ~15 RPM).  This object rose rapidly, made a turn to the right (north) and suddenly shot back down to the earth (nearly identical to the original sighting but at MUCH closer range).Distance, size and speed is hard to calculate at night (and with an object of unknown size).  That said, the speed at which the object moved was roughly that of a fast moving meteor burning up in the atmosphere.  The object was also much larger on the second sighting, so I'd assume that we were much closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131209.html](http://www.nuforc.org/webreports/reports/131/S131209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
