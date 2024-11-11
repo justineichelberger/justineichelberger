@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:24 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:11 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Quartzsite (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Line of about 15 lights, evenly but closely spaced, and at a constant altitude, moving north to south over Quartzsite, AZIn the evening of 11/11/19, we were sitting next to our RV at an RV park in Quartzsite. We were facing west. We had been sitting there for about 45 minutes when we noticed a well organized, straight line of lights proceeding from right to left, that is, north to south, against the black night sky. There was little separation among them, but they were discriminable. They were traveling roughly at the speed of airplanes, but what was so striking was how many of the lights there were, and how they were quite well organized into a line. We weren’t sure we could see well all of the ones that were there, partly because the luminosity of some of the lights changed significantly, especially the first and perhaps 3rd and 4th lights, that grew in intensity, and then subsided to that of most of the others.  As they proceeded further south, they all grew dimmer, but some of the ones in the rear dimmed faster than some of the ones in the front. This definitely was not a meteor of some kind leaving a trail, it was not a descending arc, and the separation among the lights appeared regular. They were flying at what appeared to be the same, level altitude the whole time they were visible. We pointed them out to the folks sitting next to the RV behind us and they easily confirmed that they could see the same thing we were seeing, a line of what could have been around 15 easily visible lights, led by some that flared up brightly. Not all of the lead lights grew in intensity, just the first and possible the 3rd and 4th, maybe the 5th. My husband and I disagree on exactly how long they were visible to us, but we watched them until they dimmed so much, apparently because they were more distant, that we could no longer see them. I suspect we could see them for about 1-2 minutes, maybe not even that long. I attempted to take a video or photo, but the lights were too dim by the time I tried. They may always have been too dim to capture on an iPhone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150542.html](http://www.nuforc.org/webreports/reports/150/S150542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Small lightening bolt that changed form to a perfect zero with purple flares.Took the telescope out.  It was 12:15 in the morning.  I saw a yellow “star.”  This object was only visible through my telescope.  This object was moving erratically.  In all different directions and looked like a small lightning bolt that didn’t go out.  However, multiple times this object would widen itself and make the shape of a perfect zero.  And when it was the shape of a zero, purple flares would shoot out of it. And it was so fast.  It never stopped moving.  About 2 hours afterwards, I checked again and it was still there.  Only much, much smaller.  I’m hesitant to share the exact location of this.  It was, very peculiar.  I’ve been taking my telescope out for over 10 years.  Never saw anything like this.  I’ve seen comets, planets, satellites, everything.  This, is unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143711.html](http://www.nuforc.org/webreports/reports/143/S143711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
