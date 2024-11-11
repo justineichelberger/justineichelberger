@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carthage (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Chased by three lights in Carthage, TX.Driving through Carthage TX my brother spotted 3 lights on the horizon and pointed them out to me. I thought it looked like an airplane at first but then the lights changed colors and started moving back and forth and moving like no airplane we had ever seen all while changing colors every 20 seconds or so.We kept watching the lights until we lost them behind some trees on the side of the road. Every once in a while we would catch site of them as the trees cleared and they seemed to be getting closer each time we spotted the object.  Eventually we came to a stop sign and again had a clear view of the object.  It appeared to be at least a mile away and stationary.After watching the lights for about 15 seconds they started coming towards us at a very rapid speed.  I was starting to get scared so I told my brother to drive.  He made a left turn and I stuck my head out the window to get a better look at the lights and see where they were.  This may have been the scariest moment of my life.  The lights were directly above and behind us maybe 50 feet.  I was too scared to sit there and stare at it so I put my head back in the window.  Meanwhile my brother asked where the lights were and I yelled that they were "right here" and told him to drive.As my brother was driving (still accelerating to the speed limit) a green white light shone on our vehicle.  My brother yelled out a curse word which I thought was funny for some reason.  After 2 or 3 seconds the light went out and the object was gone.  I looked for it again about a minute later when I regained my composure but did not see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55991.html](http://www.nuforc.org/webreports/reports/055/S55991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newport (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Single orange silent light.Single solid orange lit object silently flying south to north from Prouty Drive towards Lake Memphremagog.  Maybe 100-200 feet up going steadily at what appeared to be about 50-60 mph.  Clear skies at dusk traveled just above and then into the leafless tree tops away from me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115297.html](http://www.nuforc.org/webreports/reports/115/S115297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
