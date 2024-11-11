@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright light and turned redi was on my way home from work with my girlfriend and i spotted a bright light in the sky it sat their for up to a minute and suddenly went red and disappeared i no that it was not a plane and my girlfriend said the same</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73252.html](http://www.nuforc.org/webreports/reports/073/S73252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Livingston (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sphere like object pulsating red, blue and green intermittently.Just after midnight, on 11/12/2017, I took my dog outside.  I noticed red, blue and green pulsating lights in the South Eastern sky over Mount Livingston.  The object was stationary and did not move.  I retrieved my field glasses and viewed the sphere like object.  At one point the object seemed to have an opening in the bottom.  The intermittent light pulsated red, blue, green for the 15 minutes that I observed it.  The object seemed to have different sized craters over the whole surface with the lights pulsating from it about every second.((NUFORC Note:  Witness later reports object was star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137219.html](http://www.nuforc.org/webreports/reports/137/S137219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
