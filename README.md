@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:20 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Numerous lights either moving in formation, or as part of a larger UFO going south 1/2 mile west of the coastline in Delray Beach, FLMy neighbor and I were in the hot tub and I noticed numerous objects (12) flying in a symmetrical formation (elongated hexagon) overhead at least 200+ feet above the ground... or they were all part of one much larger object.  I alerted her to it, and we could not identify what it could be other than some sort of UFO(s).It was dark clear night, and I could tell the objects were far too big to be birds.  They all had a hazy whitish light on their underside and were moving uniformly in the same direction (going due south) - which makes me believe it was all part of the same object as there looked like there could be an outline against the contrast of the stars in the sky. Additionally, there was a noise overhead as they flew by that sounded like a jet engine... but much more subdued and muffled.Both my neighbor and I are professionals, and neither of us were drinking alcohol nor under the influence of any other substances at the time of this sighting.  Neither of us could tell what it was that we saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115293.html](http://www.nuforc.org/webreports/reports/115/S115293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Light follows Southwest Airlines flight for 60 minutes.On 11/11/2016 at approximately 6:50pm MST, I was aboard Southwest Airlines flight 422 (Boeing 727-700) from Phoenix, AZ to Sacramento, CA.  About 15-20 minutes after the flight left Phoenix at 6:30pm MST, a bright light appeared on the left side of the aircraft.  According to the flight parameters available via the onboard Wi-Fi, the plane was flying at 528 mph (ground speed) and ay 38000 ft.  The light appeared off the left side of the aircraft and appeared to be about 1,000 feet away.  The light would move up and down vertically throughout most of the flight.  Even as the plane adjusted course, the light did not vary.  Other stars in the background appeared to move as the plane headed towards Sacramento.  As the plane descended for landing and went through the cloud layers, the light faded in and out.  About 40 miles out from Sacramento, the light suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131223.html](http://www.nuforc.org/webreports/reports/131/S131223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
