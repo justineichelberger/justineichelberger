@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:00 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Small lightening bolt that changed form to a perfect zero with purple flares.Took the telescope out.  It was 12:15 in the morning.  I saw a yellow “star.”  This object was only visible through my telescope.  This object was moving erratically.  In all different directions and looked like a small lightning bolt that didn’t go out.  However, multiple times this object would widen itself and make the shape of a perfect zero.  And when it was the shape of a zero, purple flares would shoot out of it. And it was so fast.  It never stopped moving.  About 2 hours afterwards, I checked again and it was still there.  Only much, much smaller.  I’m hesitant to share the exact location of this.  It was, very peculiar.  I’ve been taking my telescope out for over 10 years.  Never saw anything like this.  I’ve seen comets, planets, satellites, everything.  This, is unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143711.html](http://www.nuforc.org/webreports/reports/143/S143711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blythe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>String light formation over Blythe CA15 lights in string formation at a 15 degree angle. Lights were visible only when looking west on I-10. After driving for a minute the lights traveled south and East and disappeared off out of the drivers side window.  The speed was slow.  No flashing lights were identified as indicating helicopters or passenger flights.  The string lights didn’t change formation but were not visible once whatever it was was - was parallel to drivers side window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150627.html](http://www.nuforc.org/webreports/reports/150/S150627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
