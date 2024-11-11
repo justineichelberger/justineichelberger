@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hammond (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>black triangular object without lights moving very slowly above treeline along I-12I am a truck driver and had just made a pick-up off Hwy 190 in Hammond, LA.  As I was driving on the onramp(exit 42) to get onto I-12 west something caught my eye just over the tree tops alongside of the interstate approx. 1/8 of a mile away.  The object was a black triangular(rounded not pointed) object without any lights.  The object appeared to be moving east at a very slow speed or perhaps even hovering about 150/200ft high. The treeline on the west bound side of I-12 where the object was is about 150/200ft away from the interstate.  When I was at the closest point to the object I thought I was looking at a stealth fighter that had the capability to hover.  There was no sound and no movement in the tree tops. I-12 exit 42 is Airport Rd. The airport is approx. 5 miles from the interstate.  It is a small airport that has an Air National Guard unit there so I thought it may have been some type of military craft.  The incident lasted for 8-12 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54553.html](http://www.nuforc.org/webreports/reports/054/S54553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hillston (NSW)(Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright star-like light.For the last 3 nights when in bed (we have a high window in our bedroom with no curtains over it) I have seen what seems like a very bright star in the sky.  But it lights for a period and then disappears completely and then a short while later returns really brightly again.  The brightness is not completely constant - it can pulse brighter and not so bright.  But it stays in the same part of the sky (so not seemingly an aircraft) and seems too bright for a star.  Roughly in a Northerly direction.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104348.html](http://www.nuforc.org/webreports/reports/104/S104348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
