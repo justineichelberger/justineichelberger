@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Light follows Southwest Airlines flight for 60 minutes.On 11/11/2016 at approximately 6:50pm MST, I was aboard Southwest Airlines flight 422 (Boeing 727-700) from Phoenix, AZ to Sacramento, CA.  About 15-20 minutes after the flight left Phoenix at 6:30pm MST, a bright light appeared on the left side of the aircraft.  According to the flight parameters available via the onboard Wi-Fi, the plane was flying at 528 mph (ground speed) and ay 38000 ft.  The light appeared off the left side of the aircraft and appeared to be about 1,000 feet away.  The light would move up and down vertically throughout most of the flight.  Even as the plane adjusted course, the light did not vary.  Other stars in the background appeared to move as the plane headed towards Sacramento.  As the plane descended for landing and went through the cloud layers, the light faded in and out.  About 40 miles out from Sacramento, the light suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131223.html](http://www.nuforc.org/webreports/reports/131/S131223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carthage (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Chased by three lights in Carthage, TX.Driving through Carthage TX my brother spotted 3 lights on the horizon and pointed them out to me. I thought it looked like an airplane at first but then the lights changed colors and started moving back and forth and moving like no airplane we had ever seen all while changing colors every 20 seconds or so.We kept watching the lights until we lost them behind some trees on the side of the road. Every once in a while we would catch site of them as the trees cleared and they seemed to be getting closer each time we spotted the object.  Eventually we came to a stop sign and again had a clear view of the object.  It appeared to be at least a mile away and stationary.After watching the lights for about 15 seconds they started coming towards us at a very rapid speed.  I was starting to get scared so I told my brother to drive.  He made a left turn and I stuck my head out the window to get a better look at the lights and see where they were.  This may have been the scariest moment of my life.  The lights were directly above and behind us maybe 50 feet.  I was too scared to sit there and stare at it so I put my head back in the window.  Meanwhile my brother asked where the lights were and I yelled that they were "right here" and told him to drive.As my brother was driving (still accelerating to the speed limit) a green white light shone on our vehicle.  My brother yelled out a curse word which I thought was funny for some reason.  After 2 or 3 seconds the light went out and the object was gone.  I looked for it again about a minute later when I regained my composure but did not see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55991.html](http://www.nuforc.org/webreports/reports/055/S55991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
