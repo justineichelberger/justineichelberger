@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:11 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:20 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape May (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Small lightening bolt that changed form to a perfect zero with purple flares.Took the telescope out.  It was 12:15 in the morning.  I saw a yellow “star.”  This object was only visible through my telescope.  This object was moving erratically.  In all different directions and looked like a small lightning bolt that didn’t go out.  However, multiple times this object would widen itself and make the shape of a perfect zero.  And when it was the shape of a zero, purple flares would shoot out of it. And it was so fast.  It never stopped moving.  About 2 hours afterwards, I checked again and it was still there.  Only much, much smaller.  I’m hesitant to share the exact location of this.  It was, very peculiar.  I’ve been taking my telescope out for over 10 years.  Never saw anything like this.  I’ve seen comets, planets, satellites, everything.  This, is unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143711.html](http://www.nuforc.org/webreports/reports/143/S143711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Numerous lights either moving in formation, or as part of a larger UFO going south 1/2 mile west of the coastline in Delray Beach, FLMy neighbor and I were in the hot tub and I noticed numerous objects (12) flying in a symmetrical formation (elongated hexagon) overhead at least 200+ feet above the ground... or they were all part of one much larger object.  I alerted her to it, and we could not identify what it could be other than some sort of UFO(s).It was dark clear night, and I could tell the objects were far too big to be birds.  They all had a hazy whitish light on their underside and were moving uniformly in the same direction (going due south) - which makes me believe it was all part of the same object as there looked like there could be an outline against the contrast of the stars in the sky. Additionally, there was a noise overhead as they flew by that sounded like a jet engine... but much more subdued and muffled.Both my neighbor and I are professionals, and neither of us were drinking alcohol nor under the influence of any other substances at the time of this sighting.  Neither of us could tell what it was that we saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115293.html](http://www.nuforc.org/webreports/reports/115/S115293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
