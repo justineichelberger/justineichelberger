@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 11 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Livingston (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sphere like object pulsating red, blue and green intermittently.Just after midnight, on 11/12/2017, I took my dog outside.  I noticed red, blue and green pulsating lights in the South Eastern sky over Mount Livingston.  The object was stationary and did not move.  I retrieved my field glasses and viewed the sphere like object.  At one point the object seemed to have an opening in the bottom.  The intermittent light pulsated red, blue, green for the 15 minutes that I observed it.  The object seemed to have different sized craters over the whole surface with the lights pulsating from it about every second.((NUFORC Note:  Witness later reports object was star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137219.html](http://www.nuforc.org/webreports/reports/137/S137219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large brite orb moving at high speed buzz's house in Troy Ohio.My daughter was spending the night at a friends house just outside of Troy Ohio.  At around 2:30am on a very dark night with few clouds, she was standing on the drive way when she saw a very bright round object the size of a house streak past the house at an extreme speed and low altitude and then it was gone. It scared her so much she sought shelter in a ditch.  The neighbors across the street reported seeing the object on a different night.  She described the object as a round orb the size of a house leaving a streak, very brite and white.  Her friend was in the back yard at the time and I do not know if she saw the object.  My daughter is 16 and drug free.  We go camping every weekend in Celina near an airport in the spring, summer, and fall.  She is used to the night sky, and has never reported anything like this before.  What I find odd, is she was scared.  So I am convinced she saw something out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94380.html](http://www.nuforc.org/webreports/reports/094/S94380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
