@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Somers Point (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We where out on the back deck facing west smoking a cigarette.  There were about 6 jets with contrails as we watched them we saw it.  Almost like a reflection of light off of a round object.  It flashed moved and flashed or reflected again then it was gone.  The jets where far from this ufo but we have not seen this much jet traffic until lately.  I'm sure this was a ufo...  Unless the airforce is testing tech.  And sending jets to try and locate it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115312.html](http://www.nuforc.org/webreports/reports/115/S115312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Tarboro (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We  saw  a  disc  with  lights,  it appeared  to  land  in  nearby  woods,  observed  strange  person.Friend and I observed one disc-shaped, dark metallic object that had three separate lights fixed by equal distance underneath unknown aerial object. Object first sighted coming out of the east, then slowly descended into a large wooded area where we could see lights between trees. When object came overhead it was about 500' to 750' above ground. Glow of underneath lights (red, green,and white) highlited outline of object.We first observed object after exiting my home. After passing overhead to settle/land in woods nearby (300-400 yards west of home). Lights observed shining inside tree-line. We stood out in vacant field watching this yellow to white glow when we then noticed smaller twinkling white lights zig-zagging in and outside of the treeline. We ran back towards home when we observed strange person floating near creek, Time noted at home arrival- 7:30PM. Light source in treeline was seen for almost 2 weeks. (Every night I'd strangly be drawn down to watch that light).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24285.html](http://www.nuforc.org/webreports/reports/024/S24285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
