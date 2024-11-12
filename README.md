@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ashland (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>8 ufo's in formation in cloudAs I was driving north on I-93, I noticed that the clouds looked different.  They were whispy with different shades of purple shadowed across.  I was looking at a very thin cloud shape directly in front of my line of vision.  Of course, I had to pay attention to my driving, but I was mesmerized by the cloud.  It had strange purple hues and I thought it was beautiful.All of a sudden, the cloud disappeared and 8 spherical shapes appeared in the sky.  They appeared in a check mark against the sky.  They were impossibly close to each other, and I immediately looked for a trail of any kind in the sky.  I thought maybe somebody was shooting off fireworks.  There was no visible trail, and I stared as each suddenly burst into a blinding crystal-like light.  It was as if they all were encased in diamonds and the sun suddenly hit them.  Then they were gone. In a flash, all 8 disappeared and the cloud that I had seen before was replaced by a slight mist.  This mist became just a thin trail left behind of what I had seen.  It was not the magnificent purple-hued cloud that had fascinated me at first.  It was a thin veil of white smoke left in the wake and only a pattern of the spacecraft I had just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115325.html](http://www.nuforc.org/webreports/reports/115/S115325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Somers Point (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We where out on the back deck facing west smoking a cigarette.  There were about 6 jets with contrails as we watched them we saw it.  Almost like a reflection of light off of a round object.  It flashed moved and flashed or reflected again then it was gone.  The jets where far from this ufo but we have not seen this much jet traffic until lately.  I'm sure this was a ufo...  Unless the airforce is testing tech.  And sending jets to try and locate it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115312.html](http://www.nuforc.org/webreports/reports/115/S115312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
