@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Monroe (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark gray silent craft observed traveling at low altitude at slow speed over north Monroe LA at 2:PM 11/12/19.Observed one silent unlighted dark gray craft at about 1000-1500 feet high traveling from east to west.  Craft was traveling very slow (30-40 knots) and had what appeared to be short stub wings (two) with small pods mounted on each wingtip.  Craft had a short square shaped fuselage If it had rotors they were not visible.  Craft was observed on a clear bright day against a blue sky.  Observer is a retired naval aviator with extensive flying experience and has never seen an aircraft with this configuration and movement.  Craft size was estimated to be about the size of a small car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150665.html](http://www.nuforc.org/webreports/reports/150/S150665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brandon (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Loud hot air balloon noise heard in the dark of night.I heard a extremely loud sound coming from the NW direction of my house.  The sound traveled SE in a matter of minutes and was not heard of again.  The noise sounded like a hot air balloon.  I am familiar with hot air ballons because I have traveled in them several times.  The sound was as loud as if I was traveling inside the basket. I ran outside to catch a glimpse of what could be making that noise, but all that was witnessed was a form of a fast moving dark shadow traveling almost invisibly through the faint light in the dark sky. It looked as if the UFO had adapted to its surroundings and became a cloud in the night sky.  The only obvious sign that it was not a cloud was the speed of the object traveling farther away, which could not possibly be the cloud that I could see with my naked eyes.  I have had no prior experience with UFO's and would say I am a non-believer.  Until, this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66863.html](http://www.nuforc.org/webreports/reports/066/S66863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
