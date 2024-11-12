@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dothan (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw a big light in sky moving a bit and then it left VERY quickly.I was outside my apartment toward the parking lot smoking a cigarette with my husband.  My 2 children (9 & 1) were there as well.  Over the neighboring apartment complex I saw what I at first thought was a very bright star.  I noticed that it was slowly moving so my next inclination was to think that it was a plane as we live only a few miles froma small airport.  But it was moving much too slowly to be a plane so close to us.  I called my husband's attention to it.  It would stop moving then move a little and so on.  Then it SHOT off....gone just like that.  It was gone so quickly that I thought it had to have been covered up by a fast moving cloud.  But I looked around at the sky and there were no clouds.  It was weird.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40898.html](http://www.nuforc.org/webreports/reports/040/S40898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wheatland (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Me and my mother were driving on 65 south going back towards Roseville, CA and she saw this bright white light in the sky and thought it was a star. I looked (I’m driving) and was like no it’s too low to be a star it looks really close.  We noticed it was hovering perfectly still.  It didn’t move at all until we got closer I noticed it started going straight upwards.  We saw 2 very bright white lights side by side on the same craft and on each side was white lights flashing.  The aircraft looked big, long and thin. Like a thing oval shape. And we ended up right underneath it and saw the 2 bigger white lights and the flashing lights on each end as it slowly moved upward. It was way too big to be a drone and it wasn’t the shape of a helicopter or airplane.((NUFORC Note:  Source, who elects to remain anonymous, does not indicate a date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160551.html](http://www.nuforc.org/webreports/reports/160/S160551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
