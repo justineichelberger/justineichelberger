@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two Bright, Circular Objects Lingered in the morning sky and then sped away at remarkable speedThis is my first reporting of a UFO sighting.  I live in Chester County, PA.  I was just walking my 6-month old Doberman puppy in the backyard on a very dark morning.  Being a would-be astronomer, I was studying the sky and amaze to see two extremely bright, circular objects.  The magnitude of the brightness exceeding that of Venus by a factor of 100.There were two objects just lingering there.  I thought one could have been a supernova, but definitely not two.  After 5 minutes of staring at these amazingly conspicuous objects, they both started to move away at exceptional speed until they visually diminished in size to nothing.I've thought about this incident, and I am convinced that it was not two aircraft, helicopters, or anything that I have ever witnessed in the evening sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78861.html](http://www.nuforc.org/webreports/reports/078/S78861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sherman (MS) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Faint white glow, hung in the air over Highway 9 just past Endville Road.  2-3 seconds after observation, it moved to the west fairly quickly, the glow increased slightly, and it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124025.html](http://www.nuforc.org/webreports/reports/124/S124025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
