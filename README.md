@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:48 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:12 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Greenville (NC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A cylinder, moving left to right, 25’ in front of me, parallel to the pavement, 100 MPH or faster.Two weeks ago, on a Tuesday, just after dark, I was nearing home in my PU.  As I began to slow to turn into the driveway, an object crossed the road perpendicular to me, about 25 yards distant, traveling at least 100 MPH.  It was light tan, cylindrical in shape, about 2’ long, 6”s in diameter, and had no visible appendages.  It moved parallel to the ground, about 2’ above the pavement.  It traveled up a driveway to my right front, and did not appear to reduce it’s speed, in spite of obstructions that were in it’s path.  What was it?  I have no idea; however, I did stumble across a History Channel show, about three days later, describing tubes that people are seeing, and that also show up on numerous photos and videos.  They come in various sizes and lengths, some with what appear to be ripple type wings, often with various colorations, and speeds occasionally too fast for the eye to see.  In fact, most of them are found on electronic media, after the fact. S ome have speculated that they are inter-dimensional in nature, capable of leaving our 3D reality at will.  I am clueless; what was that thing?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153648.html](http://www.nuforc.org/webreports/reports/153/S153648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lago Vista (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long string of lights all moving together in a perfect line.A long, silent, perhaps 1/2 mile to 1 mile long perfectly straight string of lights equally spaced all at the same exact altitude of 2-5,000 feet and moving at one very constant moderate bearing an exact Northwest to Southeast heading.  The distances between each light did not measurably change at all as they transitioned the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150648.html](http://www.nuforc.org/webreports/reports/150/S150648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
