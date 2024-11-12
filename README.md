@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:11 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salisbury (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Small, Circular UFO spotted and moves once camera flashesWent outside and saw a circular ball of bright yellow/orange light. It stayed in the same place for about 8 minutes and after grabbing the camera and flashing it twice, the UFO moved South, towards Charlotte, at a very high speed.  Even though you could see in the distance, the light just disappeared almost immediately after it started moving. Same sighting has been spotted countless times in Lake Waccamaw, NC.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105256.html](http://www.nuforc.org/webreports/reports/105/S105256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Glowing orb/circle with ability to hover and move at speeds above those visible by eye.Me and my Father were at Space camp. (I know but please keep reading). My father is and was at the time a very successful Civil engineer. I myself am now a civil engineer as well. My dad had rented a convertible and we went out after curfew. (everyone else was getting ready for bed and when we arrived back were all asleep). We were driving down the highway. We did not spot any other cars or any that we can remember. I would have been 8-10 years old at this point and my father would have been in his mid to late 30's. I could find out our exact age and general date of this sighting by looking at some pictures we took at the camp. (I do not have them handy as they are at my parents house.)  We noticed and object that looked spherical or circular in shape. It emitted a very bright light which made it impossible to see the exact shape. It was white/blue and the light seemed to shine off in every direction around it.(Similar to staring at a star). It was however very large. Similar to if you could pulled a star in very close to you.  It hovered perfectly still over the highway to the point we thought maybe it was just a light. When we about reached the point to be directly under the object it suddenly shot further out straight it front of us. The speed almost looked like teleportation but we could tell it moved and it had a light trail where it had moved. If not for the light trail we probably would have thought it teleported. It the proceeded to shoot far out to the left side of the sky, then to the right, all awhile keeping up that teleporting like speed. It shot back to the center of the highway and allowed us to almost come right underneath it again before rep! eating that sequence. It did this several times. I do not remember when this whole thing ended. I think it just shot off and was gone but my Father would have to confirm this with me. We still talk about it to this day but I can't recall either of us talking about how this ended. I honestly don't remember the end of this encounter but will try to find out if needed. Thanks  P.S. the object did not make a sound. no humming or engine type sounds. When the object allowed us to come towards it on the highway it was almost directly over top of us several times. I also called my father before submitting this report and he confirmed that the object just evetually flew away and was gone from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161059.html](http://www.nuforc.org/webreports/reports/161/S161059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
