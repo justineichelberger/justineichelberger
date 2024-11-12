@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sherman (MS) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Faint white glow, hung in the air over Highway 9 just past Endville Road.  2-3 seconds after observation, it moved to the west fairly quickly, the glow increased slightly, and it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124025.html](http://www.nuforc.org/webreports/reports/124/S124025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Monroe (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark gray silent craft observed traveling at low altitude at slow speed over north Monroe LA at 2:PM 11/12/19.Observed one silent unlighted dark gray craft at about 1000-1500 feet high traveling from east to west.  Craft was traveling very slow (30-40 knots) and had what appeared to be short stub wings (two) with small pods mounted on each wingtip.  Craft had a short square shaped fuselage If it had rotors they were not visible.  Craft was observed on a clear bright day against a blue sky.  Observer is a retired naval aviator with extensive flying experience and has never seen an aircraft with this configuration and movement.  Craft size was estimated to be about the size of a small car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150665.html](http://www.nuforc.org/webreports/reports/150/S150665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
