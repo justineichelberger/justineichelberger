@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bloomfield Hills (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At aprox. 6:00 AM on 11/12/2016 my husband and I witnessed  what appears to be oval and star like in shape from where stood.  It shifts left to right and up and down in a southwesterly sky of Bloomfield Hills, MI. We witnessed the same on 11/11/2016.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131182.html](http://www.nuforc.org/webreports/reports/131/S131182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Camas (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately Idk what this means - Idk what this means minutes.</sub><blockquote><sub>Light fly in the air and stopping.Me and my friends where in a church parking lot and there where objects that where stationed in the air for a hour and a half, and then they started moving a being lights and circling and now like a hour later they are still circling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143719.html](http://www.nuforc.org/webreports/reports/143/S143719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
