@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 12 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Freeport (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Black oval craft flying over my block and in the area shining  a strong white beam near us and over some homes..  When the beam would shut off red flickering lights would cut on and off at the bottom of the craft.  It kept flying over five or six blocks and a school yard as if it we're looking for something.  It had four orange lights south north east and west on the body of the craft.  At one point it pointed a beam directly at Me twice.  It was intimidating to even look at, but we were also in awe viewing it.  It was amazing to say the least.  When I finally  got the  courage to try and record it, it left the area with out returning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131190.html](http://www.nuforc.org/webreports/reports/131/S131190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in  (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>large triangle shape flying object hovering silently above me.It was either October or November in 1996 traveling north leaving Nevada state line and entering Arizona about an hour past hover dam. As I drove heading home to Colorado with a carload of sleeping kids, I noticed in my side mirror an air craft tailing above and behind me. At first I thought nothing of it, but after 15 minutes of being followed I started to get sceared. During that time I owned a Subaru GL wagon with the big back window. I thought the kids were sleeping; however, my niece who was 10 years old at the time quietly asked me what was that ship flying above us? I told her not to worry that I would try to ditch it by driving faster. For another 15 minutes it tailed us comming closer and closer to the car. I was not sceared just curious. Together my niece and I wittnessed an UFO. It was awsome. The craft was triangle not much larger than my car. It was silent. It had soft lights illuminating from the bottom of the craft. Then it just disapeared. Like it was invisable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44601.html](http://www.nuforc.org/webreports/reports/044/S44601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
