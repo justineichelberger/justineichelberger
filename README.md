@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four low flying fireballs over Cincinnati.I was driving home from work on Friday the 13th of November 2009. At around 7:40 pm near my home in the Cincinnati neighborhood of Westwood I viewed from the road while driving my car what looked like 3 flaming objects descending to Earth. As CKY is just across the Ohio River and a major flight path goes over my neighborhood I assumed it was a mid air explosion of a commercial aircraft. As I drove towards where the objects seemed to be descending I saw there were actually four burning fire balls moving in formation. These were not burners, they were visibly flaming and left 'tails' as they moved. It was an irregular motion and I watched them until they moved out of view. There was a lot of other aircraft activity in the sky as well, including a low flying(and fast) military aircraft that was discernably terrestrial and several civilian aircraft mentioned above that flew much higher and served as a point of reference for both fireballs and military plan. I ca! n still hear aircraft flying overhead in my apartment as a write. Amazing. I also got a poor picture on my camera phone though it does reveal the 4 orbs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73287.html](http://www.nuforc.org/webreports/reports/073/S73287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Diamond shape flying object w 6 lights....We been on a bus ride from Hilo to Pahoa and took a video on this tour.  We could film an object flying high above in the sky.  It had 6 bright lights and was way to big to be a drone.  Maybe a real UFO?  We dont know.((NUFORC Note:  Photo shows a circle of six small lights.  We wonder whether the object might have been the reflection of a LED-style light, with six bulbs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139239.html](http://www.nuforc.org/webreports/reports/139/S139239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
