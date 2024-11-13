@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Shoreline (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Very large bright green fireballI saw a very large, bright green object (a meteor?), appearing to travel west-to-east (I was traveling south in Shoreline).  It only lasted a couple seconds but was very very large and very bright (and green). I know the Leonid showers are supposed to start this weekend, but if this was from that or not I don't know.  It seems like it'd be early.((name deleted))  P.S. ((female name deleted))  (from the Last Exit) says hi.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59852.html](http://www.nuforc.org/webreports/reports/059/S59852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>2 disk shaped objects drop from the skyline vertical and accelerate horizontal to the clouds.I stimmediat of the house to get an item from the vehicle and observed chem trails in front of me.  I immediately grabbed my phone and started to describe what I was seeing.  I gave my best explanation of what I was seeing.  About a week later, I was viewing the clip with a a friend and discovered for just a fraction of a second there was a blip on the screen.  I took several screen shots of the section.  I then enlarged the image to find 2 disk shaped objects drop from a spiraling vertical and accelerate southwest below the clouds over the horizon.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131604.html](http://www.nuforc.org/webreports/reports/131/S131604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
