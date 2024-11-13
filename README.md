@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:30 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:44 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chesapeake Bay (above; south of Annapolis) (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Witnessed three bright lights holding in a triangle shape over Chesapeake Bay; very bright, pulsating, incredible speed, not aircraft.Traveling north on Route 50 at 21:00 at night on November 13, 2016, we witnessed three very bright lights holding in a triangle shape, far into the sky south of Annapolis, MD, over the Chesapeake Bay.  The three lights were much brighter than the planes also in the sky and were not traveling in a particular direction.  The lights were solid and not pulsating, at first.  They were holding their triangle shape, but seemed to be rotating around a center point.  Very faintly, there appeared to be a dark mass making up the space within the triangle the lights were forming, possibly the shape of the body of a craft.  After about 10 minutes, one of the lights broke away from the other two and raced north at incredible speed, pulsated, dimmed, and completely faded from view.  The other two lights remained together in the sky, rotating and moving in conjunction with each other.  After another 10 minutes, those lights began to pulsate, as well.  They moved apart in opposite directions, dimmed, and faded from view.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131384.html](http://www.nuforc.org/webreports/reports/131/S131384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Huge Delta-shaped craft over San Diego skyI was on a routine evening walk with my 16 month-old toddler, when right above our head a massive delta-shaped craft with pulsating red lights glided through the sky.  The football-field-size object was traveling East/West about 1000ft high, in a very slow motion. There were no audible engine sound other then a humming noise - the type you would hear emanating from a Goodyear blimp.  Make no mistakes about this one, it was the size of a damn city block and if it were a conventional craft it would have dropped straight from the sky at observed velocity. For all these years I've been a non-believer and remain skeptical about UFO and aliens.  But I can tell you what I saw last night was not built in America and if it was, I must say we are living in the 25th Century!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59838.html](http://www.nuforc.org/webreports/reports/059/S59838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
