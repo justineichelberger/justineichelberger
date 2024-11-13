@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:31 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milwaukie (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was flying  from the North to the South. It was lower than the commercial airplanes. It was silent as it flew almost directly over us. At that height I can hear the planes as they bank over us to go in for landing at the airport.  This was completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150692.html](http://www.nuforc.org/webreports/reports/150/S150692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Benicia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My brother and I were driving from Martinez to where we were staying in Benicia.  As we were heading northwest on 780 about to exit I looked to the north and noticed an orange light traveling at a high rate of speed and then seemed to stop.  It then did a very tight circle and a second one appeared and they were flying around as if chasing each other.  We lost sight of them behind some trees and when they appeared again one had vanished and we lost the last one behind a hill.  Both were orange balls of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131244.html](http://www.nuforc.org/webreports/reports/131/S131244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
