@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Two Saucer Shape U.F.O.'s  over New Orleans East.Two flying saucer shape craft flew just feet above the roof top of our home, if I was standing on the roof I could have touch them.  They  were moving very slow and were grayish silver in color with black centers underneath. They made no noise, had no lights and ships flew side by side.  My husband and I walk right beneath them as they came over the house and down the long driveway to we got to the road. As the U.F.O.'s moved over the street they turned southward facing the Lake Pontchartrain, still side by side they took off at a great deal of speed.  I went inside and called the air base to report it.In the past two weeks I have been seeing U.F.O.'s and may have had a close contact.  On 10/31/1974 after seeing a strange object fly over our house, my husband and I lost about two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109025.html](http://www.nuforc.org/webreports/reports/109/S109025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>V shaped light formationA V shaped craft traveling in a S.E direction. It looked exactly like the image submitted to your site by the couple from Hutchinson, KS on 10/30/2006. It was a large silent fast moving formation of large dimmed lights. The object flow almost straight overhead. I live close to the Long Beach airport and I see aircraft all the time. This was not any aircraft I’ve ever seen before nor was it on any normal flight pattern for the airport. I could not tell if it was a solid triangle or a V. Living where I do you can’t really see a lot of stars so as it traveled it didn’t pass in front of anything that would define it as a solid triangle or a V.  But there were around 11 to 13 large lights all the same size, color, and brightness. A single light in front and pairs trailing behind spreading apart to complete the V shape. It’s hard to say how high the object was or how big. But if compared to a normal passenger jet, then it was only a few thousand feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53387.html](http://www.nuforc.org/webreports/reports/053/S53387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
