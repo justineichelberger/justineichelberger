@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:07 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Haliewa (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Scary but exciting at same timeMe and my daughter just pulled up to our house I heard her say oh Wat the hell is dat as I got out the truck I looked up and seen Wat started out as 5 lights lined in a straight line they started to spread out as they were spreading apart they were I like to say multiplying from about 3 football fields long was now almost the whole skyline then it slowly was desappering not fading away but disappearing like and the whole time there was almost a dead silence idk but was like Wat you see in movies and stuff was scary and cool at same time.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150684.html](http://www.nuforc.org/webreports/reports/150/S150684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fire colored orange lights spotted in Circleville, OH.I'm a OTR truck driver from Kentucky. On 11/13/04 at around 10pm to 10:30pm, I was passing through Circleville, OH on my way to Ohio Furnace, OH. As I neared Circleville I noticed three bright, fire colored orange lights lined up in a row. They were front to back from my point of vission. Very quickly however, the lights went out one at a time from back to front. The best way I could describe this is to have you imagine three radio tower lights on a mountain, and a cloud comming from behind at a brisk pace and obscuring them. Anyway, the lights proceded to come on, and go out repeatedly, never showing in the same location twice, and never together again either. This made it very difficult to count them. I can say for sure there were three, but there could have easily been more. I didn't stop, but watched this "weird" occurance until I could no longer see the lights. My question is did anyone else witness this, and is there any military installations around this area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48675.html](http://www.nuforc.org/webreports/reports/048/S48675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
