@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milwaukie (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was flying  from the North to the South. It was lower than the commercial airplanes. It was silent as it flew almost directly over us. At that height I can hear the planes as they bank over us to go in for landing at the airport.  This was completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150692.html](http://www.nuforc.org/webreports/reports/150/S150692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object flying in the cold jet stream air and not leaving a vapor trail from it's hot exhaust like other jets were leaving!Peter, 6 of us were watching the sunset at 17:35 on 11/13/13 my wife pointed out to me and said there's another one of those things like we seen last year!  It was a shiny disc/wing object flying over Lake Havasu from the S.E. traveling toward the West.  The Sun had not set but it disappeared behind the Western desert mountains.  The object was flying in the jet stream 35,000 to 40,000 feet in elevation.  One of the six people said it's just a jetliner (Lake Havasu is in a fly over pattern for aircraft flying to and from Phoenix, AZ. to L.A. and S.F.) I quickly quipped if that object is an aircraft why isn't leaving a contrail (hot white exhaust smoke hitting the cold air) like the other jets (there was four other aircraft in the area all four flying to the West as the object was) and why doesn't this object have strobe lights on like the other four aircraft in the area.  Another comment was maybe it's a star and I quickly pointed out the planet Venus, which was ! visible in the West and told them that Venus was the brightest light in the night sky for a star or planet and this object was 3 times brighter than Venus.  Another quipped it's just one of those U.S. Marine Fighter Jets going on a bombing run out in the Mojave Desert.  I am very familiar with the Marine Air Wing out of Yuma, AZ. (I'm a Ex Marine) and there flying F-35B and I've observed that they stay out of the commerical aircraft space when flying out on there bombing runs.  They fly half that distance in height and they always have just white strobe lights on.  Plus these objects were much larger than a fighter jet.  Someone else quipped it must be something out of Area 51 which is about 200 miles N.W. of us.  15 minutes later a second object flew over in the same flight path as the first.  The only difference in this aircraft from the prior one was it was more of a orange color that I assume was coming from the sunset.  I would like to note that I seen the same type object last year (I didn't report it until now) as it was flying behind and! overtook and flew between 2 jet airliners that were flying beside each other with or about 3 miles in between the 2 jetliners.  And again this aircraft didn't leave a contrail like the other two jets were leaving!  My wife and I witnessed both these sightings this year and last. I can't explain what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104444.html](http://www.nuforc.org/webreports/reports/104/S104444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
