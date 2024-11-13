@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately O - O minutes.</sub><blockquote><sub>I was asleep until I was woken up with the noise of a flying object what I think is a USA I am currently 9 Years of age to this day I wish I could forget it forget it or say it was a plane&#128542;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150705.html](http://www.nuforc.org/webreports/reports/150/S150705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Two Saucer Shape U.F.O.'s  over New Orleans East.Two flying saucer shape craft flew just feet above the roof top of our home, if I was standing on the roof I could have touch them.  They  were moving very slow and were grayish silver in color with black centers underneath. They made no noise, had no lights and ships flew side by side.  My husband and I walk right beneath them as they came over the house and down the long driveway to we got to the road. As the U.F.O.'s moved over the street they turned southward facing the Lake Pontchartrain, still side by side they took off at a great deal of speed.  I went inside and called the air base to report it.In the past two weeks I have been seeing U.F.O.'s and may have had a close contact.  On 10/31/1974 after seeing a strange object fly over our house, my husband and I lost about two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109025.html](http://www.nuforc.org/webreports/reports/109/S109025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
