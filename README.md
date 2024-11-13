@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fire colored orange lights spotted in Circleville, OH.I'm a OTR truck driver from Kentucky. On 11/13/04 at around 10pm to 10:30pm, I was passing through Circleville, OH on my way to Ohio Furnace, OH. As I neared Circleville I noticed three bright, fire colored orange lights lined up in a row. They were front to back from my point of vission. Very quickly however, the lights went out one at a time from back to front. The best way I could describe this is to have you imagine three radio tower lights on a mountain, and a cloud comming from behind at a brisk pace and obscuring them. Anyway, the lights proceded to come on, and go out repeatedly, never showing in the same location twice, and never together again either. This made it very difficult to count them. I can say for sure there were three, but there could have easily been more. I didn't stop, but watched this "weird" occurance until I could no longer see the lights. My question is did anyone else witness this, and is there any military installations around this area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48675.html](http://www.nuforc.org/webreports/reports/048/S48675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw two orange fire balls come in from the east, following each other.  They joined close together then flew north.  In about one min two more did the same.  They were flying low but no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85299.html](http://www.nuforc.org/webreports/reports/085/S85299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
