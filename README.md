@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange fireball in morning sky over Anaheim11/13/15  Looking out at what I believe we're Venus and Jupiter in the sky at approx 6am (perhaps 5:30) PST.  Was looking out of a hotel room towards Disneyland resort area and it was early dawn.  In the sky appeared a light that at first could have been a meteor but moved slowly in its trajectory and made a very long streak.  It became a little brighter and then faded out to nothing, similar to when a plane flies, turns towards you, and then turns away.  I do not know what I saw, but it seemed far too slow moving for a shooting star/meteor.  It also was the date that debris was reported to be crashing to earth, but I did not read anywhere that this would have been visible over Anaheim, California.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124814.html](http://www.nuforc.org/webreports/reports/124/S124814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately O - O minutes.</sub><blockquote><sub>I was asleep until I was woken up with the noise of a flying object what I think is a USA I am currently 9 Years of age to this day I wish I could forget it forget it or say it was a plane&#128542;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150705.html](http://www.nuforc.org/webreports/reports/150/S150705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
