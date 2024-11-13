@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Aruba (Caribbean) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 200.0 - 200.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect the witnesses may have been observing the star, "Sirius," in the eastern sky, but that is only a guess.  PD))Strange lights off the coastline of ArubaMy husband and I were on vacation in Aruba, and we had a suite that overlook the Ocean to some extent, but from our balcony, the sky over the water was very visible. I had gone to bed early and had awoke to get a drink of water and to check on the candle which I had lit earlier. I had walked over to the balcony and notice a series of bright lights over the water maybe about 150 feet. The object looked either triangle or egg shaped with the small end at the top. I woke my husband up, because it was so unusual, because it was not that far above the water. I decided to lie down and watch it, and it appeared to be, imitating my candle on the coffee table, with the changing of colors, so ((name deleted)) my husband suggested I blow out the candle, which I did, but the colors continued to change but much differently this time. I went back to bed but lined my body in such a way that I could size up if it moved by the lines on the balcony windows, It stay positionary for 3 hours, only one time moving unbelievably fast straight up and back down. After that it appeared to have 3 smaller lights move towards it, and just as they disappeared in it, it light up on the my right side with a bright orange color which reflected off the clouds. It appeared to stay in front of the clouds because I could see it at all times. Then again 3 smaller lights that would have appeared to be stars, again moved slowly towards it, and appeared to melt into this thing, again sending off a bright orange color on my right, illuminating the sky this time. Then it suddenly disappeared, I watched every night afterwards and nothing at all, no lights even close to that what I had seen, this thing was very bright, it didn't move except that once, and it had lights flashing into different colors. Believe it or not I had a feeling come over me that it wanted me to see it, maybe it was just my imagination, but I was unbelievably calm. I also forgot to say that it did emit some beams from below this thing, like it might have been looking at t! he water or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34212.html](http://www.nuforc.org/webreports/reports/034/S34212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 lights following each other at high speed. No blinking lights and no engine noise. They kept the same distance apart and went across the entire horizon in about 2 minutes in a straight line. Unable to discern the shapes, they just appeared as 2 single dots of light, similar to Mars which is our sky tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160605.html](http://www.nuforc.org/webreports/reports/160/S160605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
