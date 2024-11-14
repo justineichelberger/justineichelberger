@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round metalic object over Los Angeles which disappeared after several secondsDriving westbound transition from 110 to 10 freeway immediately past downtown Los Angeles. I looked up and saw a round object at roughly 40 degrees in western sky. I kept looking up at it several times. Mostly cloudless sky. Object would have been slightly smaller than the finger nail on my smallest finger. Object appeared metalic, not like a balloon and appeared stationary. At first I thought it may have been a helicopter, but did not see any rotors or tail. I thought it would turn and I would see the rest of the shape. I had to avert my eyes to change lanes and when I looked for the object again only a few seconds later, it was gone. No clouds close enough to get behind, no other objects in the sky, to high to have dropped to the ground or float away if a balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20432.html](http://www.nuforc.org/webreports/reports/020/S20432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orchard Park (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large amber colored lightNot really sure what this craft was that I saw but I have seen this before behind my house.At approx. 6:30 pm Est. I was in my back yard playing with my dog when I noticed a craft of some sort hovering in the sky to the West about a half mile away.  This craft was not moving and it was making no sound that I could hear.  It had a huge amber color light that was pointing in my direction.  This light was not blinking or moving.I continued to watch it for about 15 minutes and this object still did not move.  So I went inside to get the binocculars.  I went back outside to view the craft/object and it was still in the same place.  When I focused on the object with the binocculars I could see some sort dark craft around the light but as quick as I focused on it the light went off almost as if they could see me watching it.And then I only saw the darkness of the object for a couple of seconds and it just disappeared but in it's place were a huge area of small green lights that were flashing in a very large circular pattern but sporaticly and then after a minute or two I couldn't see anything.Then clouds moved in and I came back in the house.  I do not know that if someone was in a "helicopter" if they could see me looking at them from that distance and if they could see me why would they turn the light off abruply plus the light was not like a light that you see on a helicopter.That's all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66910.html](http://www.nuforc.org/webreports/reports/066/S66910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
