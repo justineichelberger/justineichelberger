@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:31 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:06 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sandy Point (St. Kitts) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.333333333333333e-05 - 8.333333333333333e-05 minutes.</sub><blockquote><sub>Photo reveals strange objects in SkyA Photograph was taken and a single frame had objects I am unable to identify.  Canon RAW images available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115756.html](http://www.nuforc.org/webreports/reports/115/S115756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright Light in Clear SkyI was driving home with my mother on 11.14.16.  Once we turned into our complex I stopped at a stop sign.  I noticed an exceptional bright star and mentioned it to my mom. Then it went dim!  This freaked me out. I was sure it was the North Star until that happened. We continued to our house but I kept my eyes on it.  The star started to move slowly behind a tree line near race track.  I ran into our house and pointed it out to my husband, from our backyard patio.  He insisted it was a plane but there was no blinking of red/blue lights.  It was just a bright light moving slowly.  I am beyond convinced that I saw a UFO.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131250.html](http://www.nuforc.org/webreports/reports/131/S131250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
