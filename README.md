@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:31 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saws ourselves up in the sky! some UFO's! they were blinkin up theres, from red to white.  Up there a scheming.  There were 7 and they slowly dropped off one by one. UFO's!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94453.html](http://www.nuforc.org/webreports/reports/094/S94453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sandy Point (St. Kitts) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.333333333333333e-05 - 8.333333333333333e-05 minutes.</sub><blockquote><sub>Photo reveals strange objects in SkyA Photograph was taken and a single frame had objects I am unable to identify.  Canon RAW images available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115756.html](http://www.nuforc.org/webreports/reports/115/S115756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
