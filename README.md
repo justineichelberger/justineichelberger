@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright  white circle with a darker centerReport of my encounter I was out on the the golf waiting  to tee off on the 7th tee block, as I was waiting to tee off I looked up and  I saw this bright white object it looked like it had a dark spot in the center.At first I tried to match it with any aircraft  I might know but the way it wasn't moving  the shape and the color it didn't click in my memory, I tee'd off and walked to where my ball landed, again I had to wait to take my stroke so I looked up it was still there, there was a wispy cloud it looked close to the object and the cloud was dissipating but the object remained the the same. the way the sun was hitting the object it looked like it was venting something  off the north edge, I took another  shot and I walked to where the ball landed, I looked up it was still in the same position I chipped up on the green after I seen where the ball landed I looked up there was no trace of it, it as just  gone it didn't wake a sound.I live by an Air Force Base, I retired from the base after 38 years, as a civilian I spent  28 years  in the Air Force Reserve, and the Air National Guard I retired as an E-8 in Supply and Logistics, I have been around Helicopters, all different types fighter air craft foreign and domestic, and transport air craft, I have been up close and personnel with the SR-71.It did not act or function like any air craft civilian or military I was familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137284.html](http://www.nuforc.org/webreports/reports/137/S137284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Marsh (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It looked white and round and bright.As we were traveling on a back road home, I looked in my rear view mirror and saw this bright white object following us.  As I slowed the vehicle down the object seemed to slow also.  Then it just disappeard.  When we got to our destination it seemed that it had followed us there.  I got my daughter out of the car and the object was gone as quickly as it had appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10558.html](http://www.nuforc.org/webreports/reports/010/S10558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
