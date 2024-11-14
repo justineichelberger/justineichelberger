@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Marsh (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It looked white and round and bright.As we were traveling on a back road home, I looked in my rear view mirror and saw this bright white object following us.  As I slowed the vehicle down the object seemed to slow also.  Then it just disappeard.  When we got to our destination it seemed that it had followed us there.  I got my daughter out of the car and the object was gone as quickly as it had appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10558.html](http://www.nuforc.org/webreports/reports/010/S10558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Preson (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was an HEMS Helicopter pilot on a flight to pick up a patient and I was wearing generation 3 Night vision goggles (Gen. 3 NVG).  We were at cruising altitude and I always enjoyed looking at the stars, night sky and plans that were flying hundreds of miles away while letting the auto pilot flying the aircraft.  As I was looking up I saw 4 parallel extending and interconnecting light bulbs.  They looked liked lighting strikes as you see them on photos, but were expanding within 2-3 seconds which ended up a becoming a rectangular box.  It was only visable through my NVG´s. maybe it was some type of HARP technology?  I have never seen it again since then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145099.html](http://www.nuforc.org/webreports/reports/145/S145099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
