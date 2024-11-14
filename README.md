@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:54 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toa Alta (Puerto Rico) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar shaped silver flying object over Puerto RicoI just saw a cigar shaped bright silver flying object.  The color changed to black / gray. It started to fly very fast in perfect circles. I counted 3.  The sky was bright blue, it wasn't an airplane. It had no wings.  As I was amazed, not believing my eyes, the object flew inside a rain cloud.  I waited but it never came back.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104424.html](http://www.nuforc.org/webreports/reports/104/S104424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Geneva (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two non-blinking red lights moved south to north.  The lights covered 90 degrees of arc in approximately one minute. There were no white or green lights.  There was no sound. There was no sound.My wife and I were going for our evening walk.  We were watching the sky for possible meteors as the Leonids were approaching.  We noticed these two red lights moving from South to North, but could not see any shape of an aircraft with the lights.  The lights were very odd.  They looked diffused.  We had to keep re-focusing on them to keep them in sight even though they were directly overhead and not that far away.  We estimate the lights at an altitude of 10,000 to 20,000 feet based on the planes that were in the sky at that time.  We live about 24 miles from O'Hare airport in Chicago. At any given time, we can see at least a dozen planes in the sky.  The sky was perfectly clear.  The strangest thing was the lack of any sound and the way the lights appeared.  Lights from other planes in the sky at the time were sharply visible.  These were fuzzy. Both my wife and I have college educations and have been in the business world for decades.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11033.html](http://www.nuforc.org/webreports/reports/011/S11033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
