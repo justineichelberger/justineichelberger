@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:54 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I witnessed a black, cylinder-shaped UFO in Phoenix, Arizona.On 11/14/2014 at 2:15 pm, I witnessed a black cylinder shaped object floating in the sky at the Interstate-10 entrance on Chandler Blvd. in Arizona.I did not have a chance to pull over and study it very closely because I was waiting to turn left at a red light.  From inside my car it appeared to be about 1 to 2 feet in length and it was vertical.I was about to turn left (west) on the I-10 freeway when I noticed the object in the North sky sitting low and motionless above oncoming traffic.  It was definitely not a balloon.  It was low enough to tell there were no strings attached and the object looked really solid.  That is, it wasn’t bobbing or weaving like a balloon.At first I thought it might have been a drone but there were no propellers or wings.  There were no lights on it that I could see. I couldn’t tell if it was making any kind of sound because I was in the car.  There were no streetlights or power lines near it so it couldn’t have been attached to anything.  However, there was a street light about 20 yards in front of it and it appeared to be hovering at about the same height, maybe a little higher.  No one else seemed to notice it.  That is, no one pulled over to take a closer look. Was this a drone? Has anyone seen something similar or am I going crazy? I’ll check again tomorrow on my way home from work to see if it’s still there. Although I doubt it, I drive the same route every day and this was the first time I’ve ever seen something like this. P.S. My mom has had multiple UFO encounters over the years. I’m in my 30’s and this is the first experience I have ever had. I’m usually the smug skeptic that rolls her eyes at these sorts of stories. Maybe I should change my tune. &#61514;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115404.html](http://www.nuforc.org/webreports/reports/115/S115404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toa Alta (Puerto Rico) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar shaped silver flying object over Puerto RicoI just saw a cigar shaped bright silver flying object.  The color changed to black / gray. It started to fly very fast in perfect circles. I counted 3.  The sky was bright blue, it wasn't an airplane. It had no wings.  As I was amazed, not believing my eyes, the object flew inside a rain cloud.  I waited but it never came back.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104424.html](http://www.nuforc.org/webreports/reports/104/S104424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
