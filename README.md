@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Alaska Airlines/Sea-Tac to Anchorage (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Summary : Stewardess informs passengers that a satellite has broken up and is coming over the airplane.Stewardess explains to passengers on flight that a Russian satellite has broken up and pieces flew over the plane resulting bright light.((NUFORC Note:  Many reports from Oregon, Washington, and Canada for this event.  Similar events, we believe, over California and Mexico at same time and date.  Object was not a satellite.  The cluster was one of four similar cluster of objects that were reported to have passed over the Pacific Coast of California and Mexico on the evening of this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02894.html](http://www.nuforc.org/webreports/reports/002/S02894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Summary : AS WE WERE LINING UP OUR REFLECTOR TELESCOPE WITH POLARIS. SEEN SOMETHING HIT THE ATMOSPHERE, STOPPED FOR 2-5 SEC. AND DISAPPER. WITHOUT A TRACE.IT LOOKED LIKE A REG. METEOR COMING INTO THE ATMOSPHERE BUT AFTER THE BURN, IT STAYED STILL FOR A FEW SECONDS AND THEN WE LOST SIGHT OF IT. RED IN COLOR, ROUND NO LIGHTS OF ANY KIND JUST A DULL GLOW. ONLY SEEN ONE ABOUT 1 1/2" WITH NAKED VIEW. THE NIGHT WAS CLEAR SORRY I CAN'T HELP MUCH, BUT WAS IN A HURRY TO SEE JUPITER. WE HEARD ABOUT IT ON ART BELL SO IF IT WAS SOMETHING, GREAT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02954.html](http://www.nuforc.org/webreports/reports/002/S02954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
