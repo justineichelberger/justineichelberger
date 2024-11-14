@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orchard Park (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large amber colored lightNot really sure what this craft was that I saw but I have seen this before behind my house.At approx. 6:30 pm Est. I was in my back yard playing with my dog when I noticed a craft of some sort hovering in the sky to the West about a half mile away.  This craft was not moving and it was making no sound that I could hear.  It had a huge amber color light that was pointing in my direction.  This light was not blinking or moving.I continued to watch it for about 15 minutes and this object still did not move.  So I went inside to get the binocculars.  I went back outside to view the craft/object and it was still in the same place.  When I focused on the object with the binocculars I could see some sort dark craft around the light but as quick as I focused on it the light went off almost as if they could see me watching it.And then I only saw the darkness of the object for a couple of seconds and it just disappeared but in it's place were a huge area of small green lights that were flashing in a very large circular pattern but sporaticly and then after a minute or two I couldn't see anything.Then clouds moved in and I came back in the house.  I do not know that if someone was in a "helicopter" if they could see me looking at them from that distance and if they could see me why would they turn the light off abruply plus the light was not like a light that you see on a helicopter.That's all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66910.html](http://www.nuforc.org/webreports/reports/066/S66910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Eight dim red rectangles in a string traveled slowly then went out one by one, appearing to dissolve.My friend and I, both men, were traveling westbound on 300 E 7000 S in Salt Lake City, Utah, at 9:15 pm on Wednesday, November 14 2012.  I first noticed the string of approximately 8 rectangular objects in a line traveling northbound towards the Salt Lake City Airport just faster than a plane would have traveled on approach, which still appeared slow.  Together they formed a line approximately 2 - 3 times the length of an airplane in the sky, and as thick as two airplanes stacked on top of each other. They appeared to be a little bit higher in the sky than the approaching planes.  The objects were very close to each other, but had a distinctly dividing black line between each light.  Each rectangular object shined dimly in red light.  I alerted my friend and asked "What is that?".  He noticed it and we both watched it travel from south to north for about 10 - 15 seconds.  Then, the first in the line went out followed closely by the second then the third a! ll the way back to the end of the line.  The manner in which they turned off made the string appear to dissolve away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94457.html](http://www.nuforc.org/webreports/reports/094/S94457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
