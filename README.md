@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 13 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>V shaped light formationA V shaped craft traveling in a S.E direction. It looked exactly like the image submitted to your site by the couple from Hutchinson, KS on 10/30/2006. It was a large silent fast moving formation of large dimmed lights. The object flow almost straight overhead. I live close to the Long Beach airport and I see aircraft all the time. This was not any aircraft I’ve ever seen before nor was it on any normal flight pattern for the airport. I could not tell if it was a solid triangle or a V. Living where I do you can’t really see a lot of stars so as it traveled it didn’t pass in front of anything that would define it as a solid triangle or a V.  But there were around 11 to 13 large lights all the same size, color, and brightness. A single light in front and pairs trailing behind spreading apart to complete the V shape. It’s hard to say how high the object was or how big. But if compared to a normal passenger jet, then it was only a few thousand feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53387.html](http://www.nuforc.org/webreports/reports/053/S53387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saws ourselves up in the sky! some UFO's! they were blinkin up theres, from red to white.  Up there a scheming.  There were 7 and they slowly dropped off one by one. UFO's!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94453.html](http://www.nuforc.org/webreports/reports/094/S94453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
