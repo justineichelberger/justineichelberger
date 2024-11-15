@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Smithfield (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On Tuesday, Nov 15, at 8:25 pm, my husband and I were delivering a car to a auto sale place near 70 hwy 4 lane when I noticed 3 red lights flying low in the sky and in a straight formation moving across the night sky.  The lights were not blinking and they  look to be about maybe 30 feet between each other, Really to close . we were real close to 70 hwy 4 lane and the lights were close enough that we should have hear some noise if the were planes or jets but the hwy was busy so if there had been any noise from the air crafts the big trucks and cars  may have drowned it out. I asked my husband did he see those lights crossing the night sky ,he said he thought they were three small planes  but he was busy unloading the car off the roll back he had not really looked at the lights till they were further away from us ,I told him planes don't fly in a straight line and that close to each other without moving some ,these lights did not move like small planes would ,he th! en said its Jets , but the lights were moving across the sky really slow and low and Jets move fast cause we have seen Jets flying at night and their lights blink,the lights were moving from North to South ,there is a  airport for small planes and lear jets in Smithfield NC on business 70hwy ,but these lights were further down from where the airport is moving toward Raleigh.Not sure if they were planes or not but can't rule that out.just strange the way they were flying so low and with no blinking lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137278.html](http://www.nuforc.org/webreports/reports/137/S137278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The exact date is vague but I remember it being somewhere between Nov 1987-Feb 1988. I was heading northboud on 4th st N just north of 54th Ave N when myself and 2 friends saw a hovering rectangular object to the ENE above us over the bay.  We tried to decipher what it was against the dark sky.  The rectangular shape contained square like sequential lights with vary faint red dots leading upward to another red spot in the center top of the object.  Based on the lights, it appeard to be spinnig slowly while rotating left/right. Kind of like trying to spin and balance a plate on a stick object. It then crossed over 4th st heading west and spead up fast then vanished into the western sky.  For the next 2 weeks after, we saw the same object but higher in the sky and this time off to the west and interestingly they were all around the same time 19:15 to 19:45 hrs.  Since then I've never seen it again and never came across anyone else who may have witnessed this.  We did check the news and radio but nothing was mentioned.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67127.html](http://www.nuforc.org/webreports/reports/067/S67127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
