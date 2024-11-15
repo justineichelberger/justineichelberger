@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:57 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Clair Shores (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange ball ufo that I got a very good look into it.I watched a orange ball of light that was flickering travel in a straight line from horizon to horizon and almost directly over head as it passed my location.  It was lower than the cloud that was directly over head also. It is hard to guess at the size and speed with nothing to compare it to but I think it was twice or maybe three times the size of a jumbo jet and it was moving very fast.  I decided as I saw it coming to not try to use my phone cam or run to get a cam, I decided to observe the best I could and it passed so close that I got a really good look at it.  The flickering of the orange light seemed to appear as a distortion of some kind, not fire, and I could see a structure inside. I could not see the structure well but I very well saw straight lines of a structure, a few straight lines parallel to each other. It was perfectly round as it appeared round coming towards me, above me, and leaving me. I can only guess, but I think the flickering is a time or space distortion and perhaps that is its propulsion system. It made absolutely no noise at all.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96767.html](http://www.nuforc.org/webreports/reports/096/S96767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Elmira (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange light formation flies over Elmira New YorkFormation of 20 Orange lights, chevron in shape - could have easily been one craft as all 20 lights moved in unison.  I have never seen this in person, until now - but looked exactly like the video of the Phoenix lights!  Watched for about 60 seconds before running inside to get my wife - by the time we got back outside the lights had traveled over half the town and quickly began "turning off" lowest light than in perfect sync all lights until only lead light was visible.  Lead light continued traveling for about 30 secs before fading quickly.  Not sure if there are any airforce bases in the area, as it could have been described as flares - but in my six months of living here I've never seen any airforce activity and it would have been dropping hot flares right into the city neighborhoods - and I cannot imagine them doing this.  Furthermore, the perfect sync of the lights seemed unlikely for a flare drop.  Absolutely amazing to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115380.html](http://www.nuforc.org/webreports/reports/115/S115380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
