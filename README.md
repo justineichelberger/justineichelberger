@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The Moon of Memphis looks simular to the white full moon in size and brightness but rises to be a star.In my backyard at 10pm mid-november 1964, I looked up and saw the bright white full moon but it had uniform whiteness and still bright enough to cast a shadow.  I looked around and saw the orange real moon rising over my neighbor house in the east.  I stared at the object the size of the full moon above me for several minutes while it hovered above me.  It started a rapid ascent in the sky looking like a small moon then a brilliant bright star and then dim star until it disappeared from view.  Later analysis suggest that the object was at twenty thousand feet and was about ten acres in size.  I call the object the "Moon of Memphis" since I witness this object over the community of Frayser in Memphis, Tennessee.  The backyard that I witness this event was ((deleted)) St. I was a ((deleted--aviator)) in the USAF and an intellegence officer in the ((deleted--military)).  This object had religious implication since it appeared in 1964 because A through Z connected with 1 through 26 is a code! which decodes the word Israel to sixty four. I believe it appeared so we would be more kind to every animal and give anathesia to animals before killing them to show more reverent to them and God.((NUFORC Note:  We do not understand the allusion to Israel or anesthesia.  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75780.html](http://www.nuforc.org/webreports/reports/075/S75780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orangeish pulsating light is stationary for 3 minutes, then makes abrupt movements in zig zag motion to the left before disapearingpeach/orange light that I thought was a star pulsing slightly so it got my attention as I layed in bed(I had just gotten in so I know I wasn't dreaming).  The hair on the back of my neck stood up and I could feel like an adrenaline rush shoot through me cold when suddenly, after it was stationed for 3 minutes, shot to the left, still in sight, and then right back to its original position.  It stayed in position there for another few seconds before shooting to the left again and back before it shot off towards the right, but back behind it.  It seemed to pulse more clearly and boldly once I fixed my eyes on it, like it knew I was watching.  Just thinking about it makes my hair stand up again!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47954.html](http://www.nuforc.org/webreports/reports/047/S47954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
