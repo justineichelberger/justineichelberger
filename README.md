@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Long white trail moving across the skyIt was a beautiful fall afternoon and at first I thought it was an aircraft dumping fuel. Two planes side by side dumping fuel just didn’t seem right and I couldn’t visually see an aircraft of any kind so I took out my phone and snapped a couple of pictures so I could enlarge them and see the planes.Odd, when magnified , there’s nothing in the sky leaving a trail of white smoke. Nothing at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165603.html](http://www.nuforc.org/webreports/reports/165/S165603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Las Vegas (??) (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>not been noted on any sighting that i have heard of.In November 1978 while i was moving with my family my father jokingly told me to come here.  We were draining the septic tank on our trailer. So I went the the end of it and saw what appeared to be a long cylindrical shaped object in the air. Being the all knowing 9-yr old i said it was a low flying aircraft.  He said with out a sound?  I said it was just to far away to hear it.  He just laughed. While in Vegas the next morning he showed ma a article from local paper that said there was 1500 reports of a mysterious sighting in the desert the night before.  To date i have not seen a thing on this.  is there a way to look this up?((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  Witness could access newspapers from that area, for that date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69643.html](http://www.nuforc.org/webreports/reports/069/S69643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
