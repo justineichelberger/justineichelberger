@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Comanche (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a black object (abyss)hovered 200 feet over me while deer hunting and 3 months later, i underwent emergency brain surgery.After an evening spring Texas turkey hunt, I drove my 4wd ford bronco across the ranch to return to my motor home. (Camp)  along the way, I was to pick up my dad and when I approached him, he was obviously watching something above me.  He said nothing only looked.  I asked what are you looking at and he replied I don’t know.  Turning around I saw about 200 feet above me a motionless black object.  It made no sound.  It was a cube shape, approximately 25 feet on each side and it had no surface texture at all.  Its "surface" appeared to be a void collapsing into itself.  It seemed as if it were an abyss and drawing light into it.  I looked at it for about 5 seconds and it suddenly ascended at a rate that I would estimate being greater than 50,000 feet per minute.  (I am a licensed pilot) as it ascended, it made no sound but a bright white/blue/red/yellow light appeared on its underside.  In less than 4 seconds, this object climbed and disappeared vertically right into infinity.  We asked each other what the hell was that.  Dad mentioned that he thought it might have been what people call a UFO.  Three months later, I underwent emergency brain surgery for a cerebral fistula (blood vessel malformation that the doctors referred to as extremely life threatening.  I have no idea if these circumstances are related but the thought that this encounter may have been related is quite chilling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37069.html](http://www.nuforc.org/webreports/reports/037/S37069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverside (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We witnessed 20 bright orange aircraft traveling from east to west, flying low, equally spaced apart, about the speed of airplane.I live in a rural area around Riverside, Texas.  The sky is very spacious here.  It was on a clear night on November the 15 at 9:30 p.m.  I was taking my dog out for a potty walk.  I noticed how beautiful and clear the sky was.  When I noticed some aircraft  that I have never seen before flying low in the sky.  They were bright orange lighting, not flashing, much larger than an airplane.  They resembled the size of a space station that I have seen when it passes over.  They were traveling from east to west across the sky.  About the speed of an airplane.  I could not hear a noise coming from them.  There was an  airplane in the sky at the same time which I could identify and hear at the same time the other aircraft were out.  It was traveling from south to north.  The other aircraft all traveled about the same distance apart comeing from the same direction.  I counted about seven when I first noticed them.  There could have been more.  I went in the house and notified my daughter and she came out and witnessed them also.  Then we counted about 17 but there were probably more that we didn’t set our eyes on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115417.html](http://www.nuforc.org/webreports/reports/115/S115417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
