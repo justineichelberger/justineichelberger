@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Las Vegas (??) (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>not been noted on any sighting that i have heard of.In November 1978 while i was moving with my family my father jokingly told me to come here.  We were draining the septic tank on our trailer. So I went the the end of it and saw what appeared to be a long cylindrical shaped object in the air. Being the all knowing 9-yr old i said it was a low flying aircraft.  He said with out a sound?  I said it was just to far away to hear it.  He just laughed. While in Vegas the next morning he showed ma a article from local paper that said there was 1500 reports of a mysterious sighting in the desert the night before.  To date i have not seen a thing on this.  is there a way to look this up?((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  Witness could access newspapers from that area, for that date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69643.html](http://www.nuforc.org/webreports/reports/069/S69643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ypsilanti Township (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Extremely bright light focused into several white lights with greenish/blue light,  floated across road and vanishedDriving down Michigan Avenue East towards Detroit, I noticed a large, extremely birth light that automatically grabbed my attention.  It was too high to be a streetlight, but I thought that it could possibly be an indicator fr airplanes.  Regardless, I was transfixed.  As I drove closer, expecting to find the pole to which it was attached, it seemed to drop in the sky.  I assumed this was just spacial relation due to my coming nearer, but it dropped vertically in the sky and gradually moved across Michigan Avenue as I was driving straight ahead.  Driving under it, I simply could not take my eyes of it. If it had been a plane, it was flying unusually low, and had a very strange shape.  Given that I've seen many planes flying at night, and the constancy of this objects light (as opposed to the strobe action of planes), this was not a plane.  So enthralled by the hovering craft, that just seemed to linger over the building opposite the side it just crossed, I pulled off to the shoulder and tried not to let it leave my sight.  In the time between me taking my seatbelt off and clamboring to the passenger window, it was gone.  One of the strange things I noticed about this was my inability to identify just how close it was.  As I got closer to its location above me, I could differentiate it from a mass of really bright light, into a grouping of lights that centered a greenish/blue light.  I thought that it could be some remote control objectt because I was stumped as to how close it was, and what it was doing.  There is no possible way that could have a plane.  The brightness of the light, the motion, and my inability to identify anything at all common about that object tell me one thing - I witnessed something incredibly out of the ordinary.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47760.html](http://www.nuforc.org/webreports/reports/047/S47760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
