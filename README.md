@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in London (Eastham) (UK/England) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>black rectangular monolith travelling slowly, over london  (eastham) observed for about 4 minuteslooking out of my window, in eastham, london, england, i observed an object in the distance moving slowly moving in my direction.  i watched and then noticed that the object was unusual in shape it was about as large as a 2 storey building in height and about half the length of a house in width, black, rectangular (momolith) with the top, front part sloping.  i was able to watch it for what seemed like a long while but was only about 4 minutes.  it was travelling, slowly, horizontally. There was no trail.  Having observed ufos before i took particular interest and it was like nothing i have seen before.  it disappeared over the roof tops.  i didnot see it reported in any newspaper.((NUFORC Note:  One of two reports of sightings submitted by same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20907.html](http://www.nuforc.org/webreports/reports/020/S20907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pilot (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>White and Orangeish lights flying and osillating in the sky over Roanoke Va.  also blue orbsTonight and the other nights mentioned.  I, my wife and stepson saw a orange/red/white light sitting in the sky.  At first sight thought it was a star, but the more I watched it I noticed it was oscillating then it moved latterly across the sky probably a half mile in a second or two. then shot back to where it started.  After that it shot over the opposite direction probably the same distance and once again back to original starting point.  It then was oscillating and after a couple minuets began to fly straight towards my house in a very uncontrolled manner.  As it came closer it got higher and faster as it went.Tonight was a similar occurrence but it seemed to be 3 lights in a triangle and the main light had blue orbs entering and exiting the light. there appears to be multiple main lights tonight at different elevations all in triangle formations.  This is very much freaking me out, because they seem frequent and lots of them. does any one know or seen these things?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104980.html](http://www.nuforc.org/webreports/reports/104/S104980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
