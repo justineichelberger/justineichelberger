@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cambria (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Stationary bright white light sometimes flashing also red green at times, sometimes large white middle Light flanked by two dimmer white lights on each side half way up from horizon below Orion, wife and I watched with 10 x 50 binds for hour stayed to the southeast stationary close to over bflo inter airpt</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115370.html](http://www.nuforc.org/webreports/reports/115/S115370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>flaming ball moves slow and turns on a dimeAbout 6:20 PM, Saturday Nov. 15, 2008 I walked out onto my porch to have a cigarette. While I was lighting it I looked up and saw a dark area with an immensely large orange light towards its rear. I thought "wow, that plane has HUGE lights" and continued my smoking. While I watched it slowly move eastward (my porch faces south) something didn't seem quite right as the orange glow was Way too large and a plane would have not taken that long to travel such a short distance as it had.If I had to guess general location, I would say coming from the west, south of Bremerton but north of Tacoma in a straight path eastward.So I went inside, told my husband that something just isn't right with this thing I've been watching, it looks like its on fire, and pulled out the binoculars. As I focused in for a closer look, my husband came out to see what i was talking about. The plane/dark object indeed seemed to have the entire tail end of it encased in an orange flaming mass (round mass, mind you.. there were no tendrils or trails.. more like liquid fire contained in a glass ball). I handed the binoculars to my husband who took a long look as well. I thought maybe I should call the airport, then thought that they would probably have a dead-on view of it anyway. We sat and watched it continue eastward .. it seemed to slow and then just 'hang' in the sky for about 10 seconds before heading straight south.  It did not turn south, it ended its eastward movement and began its southward movement (the phrase 'turn on a dime' comes to mind).If I held my arms out in front of me with one finger at the point where I first notice this object and the other where the eastward movement terminated.. it measures a measly 15-16 inches between. Thus far it has been a good 20 minutes.The southward movement was faster than the eastward. It seemed it would pass directly over Tacoma, the bright ball getting somewhat smaller as it went. When it looked as though it was flying over the Centralia/Chehalis area, the fire went out but I could barely make out a dark grey/black dot which seemed to descend rapidly for a second before I couldn't see it anymore. I don't know if anyone else saw this... but I'm sure someone had to have seen it. I contacted King 5 news via their tip line.. but never heard anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73189.html](http://www.nuforc.org/webreports/reports/073/S73189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
