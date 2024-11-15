@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lafayette (LA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A UFO flew right over my house in the city.The UFO flew right over my house.It was 6 dim lights moving like a flock of geese.It all hapend after i saw a weird flashing light going over head and then stoped.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59873.html](http://www.nuforc.org/webreports/reports/059/S59873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lenwood (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Observed a bright orange orb shaped object approaching from the North at an altitude between 1000-2000 ft AGL.  As the object approached it was soundless and maintained a constant altitude and heading.  Upon approaching within a distance of less than two miles it made a gradual turn to the west without losing altitude.The object was now proceeding in a westerly direction and it was at this time I noticed that it was emitting illuminated material from its bottom side.  The material appeared to be burning like embers in a bondfire.The orb slowly proceeded in a Westerly direction and the intensity of light gradual faded away.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))D))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48051.html](http://www.nuforc.org/webreports/reports/048/S48051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
