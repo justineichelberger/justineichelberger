@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverside (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We witnessed 20 bright orange aircraft traveling from east to west, flying low, equally spaced apart, about the speed of airplane.I live in a rural area around Riverside, Texas.  The sky is very spacious here.  It was on a clear night on November the 15 at 9:30 p.m.  I was taking my dog out for a potty walk.  I noticed how beautiful and clear the sky was.  When I noticed some aircraft  that I have never seen before flying low in the sky.  They were bright orange lighting, not flashing, much larger than an airplane.  They resembled the size of a space station that I have seen when it passes over.  They were traveling from east to west across the sky.  About the speed of an airplane.  I could not hear a noise coming from them.  There was an  airplane in the sky at the same time which I could identify and hear at the same time the other aircraft were out.  It was traveling from south to north.  The other aircraft all traveled about the same distance apart comeing from the same direction.  I counted about seven when I first noticed them.  There could have been more.  I went in the house and notified my daughter and she came out and witnessed them also.  Then we counted about 17 but there were probably more that we didn’t set our eyes on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115417.html](http://www.nuforc.org/webreports/reports/115/S115417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in London (Eastham) (UK/England) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>black rectangular monolith travelling slowly, over london  (eastham) observed for about 4 minuteslooking out of my window, in eastham, london, england, i observed an object in the distance moving slowly moving in my direction.  i watched and then noticed that the object was unusual in shape it was about as large as a 2 storey building in height and about half the length of a house in width, black, rectangular (momolith) with the top, front part sloping.  i was able to watch it for what seemed like a long while but was only about 4 minutes.  it was travelling, slowly, horizontally. There was no trail.  Having observed ufos before i took particular interest and it was like nothing i have seen before.  it disappeared over the roof tops.  i didnot see it reported in any newspaper.((NUFORC Note:  One of two reports of sightings submitted by same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20907.html](http://www.nuforc.org/webreports/reports/020/S20907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
