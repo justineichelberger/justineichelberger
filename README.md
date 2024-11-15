@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orangeish pulsating light is stationary for 3 minutes, then makes abrupt movements in zig zag motion to the left before disapearingpeach/orange light that I thought was a star pulsing slightly so it got my attention as I layed in bed(I had just gotten in so I know I wasn't dreaming).  The hair on the back of my neck stood up and I could feel like an adrenaline rush shoot through me cold when suddenly, after it was stationed for 3 minutes, shot to the left, still in sight, and then right back to its original position.  It stayed in position there for another few seconds before shooting to the left again and back before it shot off towards the right, but back behind it.  It seemed to pulse more clearly and boldly once I fixed my eyes on it, like it knew I was watching.  Just thinking about it makes my hair stand up again!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47954.html](http://www.nuforc.org/webreports/reports/047/S47954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Ufa (Russia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Five white disks a bit smaller than the moon formed a letter C above the Krupsky Park, Ufa, Russia.The formation consisted of 5 white disks which were similar to the moon, only smaller and brighter. They were hanging near the zenith, forming something like a letter C. The height was large enough for them to apparently remain at the same place relatively to observers who walking for a third of a mile. We with my mother noticed the disks when we were at the Krupsky Park near the Belaya River. There were two more people who also watched the disks. The snow in the park was very unusual that day, or it was covered with something strange. It seemed like all snow became something like balls made of plastic or hot ice with variable radii of about one inch. I took one such ball home. It did not melt for months, then I have lost it or it disappeared. People say that such sightings are frequent near the Belaya River, some of them are talking of nearby military bases. But what I saw did not look like anything I have ever seen.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40613.html](http://www.nuforc.org/webreports/reports/040/S40613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
