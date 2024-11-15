@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 14 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright lights appear suddenly at high altitude during a clear day ,make formation and disappearIt was near lunch time at our job site, we were building a house in a busy neighborhood. The weather was clear and cool, around 70 degrees. As I rounded the corner to the front of the homes'exterior, I handed some material to a co-worker whom was overhead on a scaffolding. I noticed 3 faintly visible colors in the sky. They were red, yellow and blue, respectively. The sat motionless in the sky, a fair distance apart from one another in no particular formation. Then as I started to point out the objects to the rest of the co-workers, 4 additional objects appeared from my right. They were also very high up and varied in color, 2 yellow, a red, and a white, respectively.They approached the original 3 crafts slowly, where they made an enclosed, triangled formation briefly. Then they broke apart and slowly disappeared into the blue abyss of the sky, some moving outward and disappearing while the others plainly just disappeared. One co-worker thought they may have been high altitude skydivers at first, but they never did descend and when they disappeared, he was left completely astounded.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55957.html](http://www.nuforc.org/webreports/reports/055/S55957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>At night remote bluff in Cen Cal.  Spotted 30+ highly advanced "stars" until next am, witnessed un-nerving things.((NUFORC Note:  We are awaiting a more detailed report from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115402.html](http://www.nuforc.org/webreports/reports/115/S115402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
