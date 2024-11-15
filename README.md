@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The exact date is vague but I remember it being somewhere between Nov 1987-Feb 1988. I was heading northboud on 4th st N just north of 54th Ave N when myself and 2 friends saw a hovering rectangular object to the ENE above us over the bay.  We tried to decipher what it was against the dark sky.  The rectangular shape contained square like sequential lights with vary faint red dots leading upward to another red spot in the center top of the object.  Based on the lights, it appeard to be spinnig slowly while rotating left/right. Kind of like trying to spin and balance a plate on a stick object. It then crossed over 4th st heading west and spead up fast then vanished into the western sky.  For the next 2 weeks after, we saw the same object but higher in the sky and this time off to the west and interestingly they were all around the same time 19:15 to 19:45 hrs.  Since then I've never seen it again and never came across anyone else who may have witnessed this.  We did check the news and radio but nothing was mentioned.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67127.html](http://www.nuforc.org/webreports/reports/067/S67127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The Moon of Memphis looks simular to the white full moon in size and brightness but rises to be a star.In my backyard at 10pm mid-november 1964, I looked up and saw the bright white full moon but it had uniform whiteness and still bright enough to cast a shadow.  I looked around and saw the orange real moon rising over my neighbor house in the east.  I stared at the object the size of the full moon above me for several minutes while it hovered above me.  It started a rapid ascent in the sky looking like a small moon then a brilliant bright star and then dim star until it disappeared from view.  Later analysis suggest that the object was at twenty thousand feet and was about ten acres in size.  I call the object the "Moon of Memphis" since I witness this object over the community of Frayser in Memphis, Tennessee.  The backyard that I witness this event was ((deleted)) St. I was a ((deleted--aviator)) in the USAF and an intellegence officer in the ((deleted--military)).  This object had religious implication since it appeared in 1964 because A through Z connected with 1 through 26 is a code! which decodes the word Israel to sixty four. I believe it appeared so we would be more kind to every animal and give anathesia to animals before killing them to show more reverent to them and God.((NUFORC Note:  We do not understand the allusion to Israel or anesthesia.  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75780.html](http://www.nuforc.org/webreports/reports/075/S75780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
