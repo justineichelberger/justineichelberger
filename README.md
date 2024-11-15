@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lenwood (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Observed a bright orange orb shaped object approaching from the North at an altitude between 1000-2000 ft AGL.  As the object approached it was soundless and maintained a constant altitude and heading.  Upon approaching within a distance of less than two miles it made a gradual turn to the west without losing altitude.The object was now proceeding in a westerly direction and it was at this time I noticed that it was emitting illuminated material from its bottom side.  The material appeared to be burning like embers in a bondfire.The orb slowly proceeded in a Westerly direction and the intensity of light gradual faded away.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))D))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48051.html](http://www.nuforc.org/webreports/reports/048/S48051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cambria (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Stationary bright white light sometimes flashing also red green at times, sometimes large white middle Light flanked by two dimmer white lights on each side half way up from horizon below Orion, wife and I watched with 10 x 50 binds for hour stayed to the southeast stationary close to over bflo inter airpt</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115370.html](http://www.nuforc.org/webreports/reports/115/S115370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
