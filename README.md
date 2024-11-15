@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:37 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:53 on 15 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Conway (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Isaw a bright light  in the sky moving fast for 5 seconds then stop ,became brighter,then disappearI all ways go out at night to walk my dog .from 12:nidnight to about 1:00 am.i am allways looking at the stars.That night i saw a bright star moveing,i kept my eye on it for about 3 to 5 seconds.it move very fast in a straight line,then stop.then for a second it became brighter then it disappear just like that .it was a very clear night also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41545.html](http://www.nuforc.org/webreports/reports/041/S41545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Darlington (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Myself and my sister saw a saucer shaped object in Norththern EnglandThe family were in the car heading towards friends in Darlington. Whilst on the main road we came up to a junction. I was tired and looked up only to see a HUGE circle of light above us. It must have been about about 200m across. But all I could see was a continuous line of orange light in a circle.It is quite hard to explain but easy to understand.Nobody else believed me. I was in the back. Everybody else was asleep except my dad keeping and eye on the road.When I looked back up I saw it rise vertically, then when it must have been hovering at about 1000 ft many other lights turned on, some different colours. All Inside the circle. Then the craft rose and went into the clouds.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31981.html](http://www.nuforc.org/webreports/reports/031/S31981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
