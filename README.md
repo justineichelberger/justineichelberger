@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lapeer and Flint (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Several bright circular lights,travling at about a 60 degree descent from west to east.While lying on the sofa, out of our west window through the blinds I saw several bright circular lights.  I quickly got up and ran to the east door.  Through the glass door I saw around 5 (white with yellow/orange)balls of light travling in a straight line,directly behind eachother, like slow comets with short wide tails.  The tails were aout twice as long as the objects, and slightly wider.  Each tail stoped before the next object began.  They were decending to the east at an approximate angle of 60 degrees. I called for my daughters and we quickly went outside.  We saw them go down below the tree line toward Lapeer.  They went over my house, to the south.  My wife saw the same thing, she was 10 miles west of us in Flint. I immediately called the police.  They received several calls, including the flight administration saying a plane went down.  This was no airplane or meteor.  There were no flames, only a strange, plasma like tail that disipated. I heard no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10962.html](http://www.nuforc.org/webreports/reports/010/S10962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The three bright objects seemed to be fading from dim to very bright for about fifteen minutes, just as we have seen before many times.My fiance and I saw a bright light in the southern sky, about 10:00 high, while driving south on U.S. 31 heading home. It appeared to be about 5 or 6 miles away from us. As we came up to the intersection of U.S.26 and 31, a second object appeared to the left of the first. They were fading from bright to dim. As we turned the corner and pulled into our drive, we observed the the first object get very bright, then vanish. Then a third object appeared just left of the second one. They were about 2 miles from us at this point. They seem to have red and blue (or greenish) lights flashing when they became very bright. I watched them for about 10 minutes longer, fading in and out, then, they both vanished. There were clouds moving behind the ojects, so we know they were not stars. We have witnessed these kind of events many times from our back yard. We know they are not Air Force jet flares, because, the night after, when we have reported these events, the jets are in the same area as we report, shooting off flares. There is no comparison to the events we have seen to the flares.The following night, at approximately the same time, but closer to us, we witnessed the same event, except there were only two this time. The first showed up, fading in and out for about ten minutes, then the second showed up. I called my daughter, who said that one was over the top of her house. Then she said it dissapeared. About the same time, the first light seemed to have moved to the west close to the horizon, then shot off to the north. After about ten minutes longer, the second object, just seemed to fade out, and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66968.html](http://www.nuforc.org/webreports/reports/066/S66968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
