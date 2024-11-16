@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:17 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oakbrook (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a large bright light, green in color with a tail with 2 smaller balls in the tale, floating from east to west below the planes circling Ohare airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10592.html](http://www.nuforc.org/webreports/reports/010/S10592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Skelmersdale (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 orange balls of light viewed from ashurst skelmersdaleI noticed one orange light hovering in the sky over the beacon in skelmersdale.  Within 30 seconds a further 3 appeared and travelled close to each other climbing upwards towards the stars.  There seemed like bright orange flares at first but as they travelled higher in the sky the looked more like stars but still orange in colour and moving to slow to be a flare.  Occasionally I could make out a row of lights in the centre of the orange light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59890.html](http://www.nuforc.org/webreports/reports/059/S59890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
