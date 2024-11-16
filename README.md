@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beverly Hills (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>sighting of ufo again .Round with lots of color .Large ball or mass with 3-4 smaller balls  near it. changed shape and always moving.The other night my husband saw what we believe to be somekind of ufo.since then we have been looking for more. To our surprise they were back last night.  And I know people don't think they will visit the same spot but they were in the same arealast night. Once again we grabbed the camera and took pictures. Sure enough it was the same thing my husband had saw the other night. It looked to be a colorful mass in the shape of a ball.From our yard we could only see the one but when I took some pictures more smaller ball formations apeared in the picture and they looked like it was across the street in my neighbor yard.It was red and hazy looking.This was the only really different looking thing.The one in the sky had a rainbow of colors. While taking several pictures it seemed to disapear and reapear as if it knew we were taking pictures- I know it sounds funny but that how I felt.Also lastnight while I was trying to take a picture I noticed an aircraft getting closer to it, I was going to try and get a picture of the both the airplane and possible ufo but as soon as the plane got close enough it would disapear. ((NUFORC Note:  Sighting of Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53456.html](http://www.nuforc.org/webreports/reports/053/S53456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Greenwich (CT) reported seeing craft that fit the description of some '' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two men driving from Greenwich, CT, to New York City suddenly witness a yellow-orange ball of light streak across the cloudless sky.  The impression of the caller was that the object had lights on it, and it was flying horizontally, parallel to the horizon, and not very high above the horizontal plane.  Object was VERY fast, vastly faster than a fighter jet would fly.  Also, object was VERY bright. The object left a distinct trail behind it, which dissipated rather quickly. Viewer felt the object almost certainly was not a meteorite.  It maintained the same shape, same brightness throughout the sighting.  At first, he thought the object was a crashing aircraft. No report on the radio stations.  He has never made a UFO report before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01609.html](http://www.nuforc.org/webreports/reports/001/S01609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
