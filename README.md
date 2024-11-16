@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:44 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Antioch (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright shining light slowly moving in a drifting, swirling fashion toward the southwest.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Probably Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47758.html](http://www.nuforc.org/webreports/reports/047/S47758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Irvington (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish orange lights fading and reappearing in different spots of the sky.My husband and I live in Irvington, Alabama.  We were both outside at approximately 8:00pm.  I was working on some thing and my husband hollered at me to look in the sky.  We were facing south and right above the tree line in the sky I saw two reddish orange disc shaped balls of light.  They did not appear to be moving, but they slowly faded out.  So we stood there to watch, and they reappeared, but in a different spot just a little to the west of the first sighting.  The sky was clear so the weird thing is between the first and second sighting we herd a thunder like sound.  The lights faded and reappeared about 3 times within about 10 minutes.  That was the first time in my life I ever seen anything like that.  It was amazing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85355.html](http://www.nuforc.org/webreports/reports/085/S85355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
