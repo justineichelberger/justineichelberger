@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:26 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orland (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>My husband and I were doing some rock hounding at Burris Creek and I had a strong urge to take some photos of the sun.  I took about 25 shots and noticed in one frame a large bird and a craft of some sort.  It is not visible in any of my other shots.  Weather was gorgeous, 75, clear and breezy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150860.html](http://www.nuforc.org/webreports/reports/150/S150860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flashing white lights over Sanderson Field in Shelton WashingtonI was driving with my son on our way home near Sanderson Field in Shelton, Washington when a flashing light out my window caught my eye.  As I looked closer, I noticed that there were many flashing white objects perhaps 8-12.  The Objects appeared to be the size of large stars and were flashing a white lights (much like christmas twinkle lights).  I pulled over to get a better look.  I could not determine a specific shape or formation to the lights, however, as the lights moved, the objects stayed in the same position relative to each other.  There is no way these were normal aircraft, they were too close to each other even though the pattern took up a large portion of the sky above the airport.  I went home to get my camera and head back to the airport.  As I approached the airport from the highway, a truck tore into the main entrance ahead of me at a high rate of speed and sped out to the tower.  When I parked at the airport, I could not find the object, and some low clouds or fog had set in and was covering much of the sky.  I could no longer see the object, and got no pictures.  I noted on "normal aircraft" apparently circling the airport, but that could possibly be a normal training flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53447.html](http://www.nuforc.org/webreports/reports/053/S53447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
