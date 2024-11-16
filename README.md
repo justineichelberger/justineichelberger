@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Odessa (NY) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Husband and wife were driving home from attending the Syracuse/Army football game.  They were midway between Odessa and Montour Falls, NY. They witnessed a ball of light with a long green trail behind it.  It was approximately 45 degrees above the horizontal plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01675.html](http://www.nuforc.org/webreports/reports/001/S01675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bridgeport (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was to many objects flying around the same space at one time and was very unusual. Never seen anything like that beforeI was driving on the turnpike with my family and noticed about 5 or 6 objects descending from the sky all at the same time and one flying diagonal towards the other one. I don’t know what it is but I never seen anything like that before, it is just a strange thing that was happening. I tried searching the internet to see if there was a space launch or something happening that day but came back with no results of anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150849.html](http://www.nuforc.org/webreports/reports/150/S150849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
