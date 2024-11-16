@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:21 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I am glad, I stumbled upon this website.  I am witnessing the same glowing fireballs as others are seeing in AZ.Tonight is the 3rd time I've seen these lights in the sky.  I commute home from Scottsdale each day.  I exit from the I 10 and I continue on the 347, a stretch of highway that enters into Maricopa City.  Between Riggs road and Maricopa city,  I will see these glowing lights in the sky directly above Maricopa or maybe further south but its in plain view as they are directly over the 347.  I am positive other drivers heading home can see them also.The 1st time I witnessed, it looked like a Military flare, this caused for me to take my eyes from the road to the horizon, but then the  orange color got brighter, hotter and pulsated. The light then disappears, a second later I saw that light to the east, it looked to be maybe over Queencreek?, the light was faint and then it started to glow brighter till it disappeard again.2nd event was the day before Halloween, all the conditions are the same excepts the time was maybe 30 mins early around 730pm.  I saw the orange  fireball, but this time I can see it transfer a small amount of light into and another orange ball.  This went across a large portion of the sky till 5 orange balls were attached to each other.Maybe the length of a few miles, then all the lights together increased in brightness then went out.Tonight at @845pm I saw the same 5 lights off to the east they flashed and them disappeared. Most people never see anything  crazy in the sky.  I am now seeing them on the reg.  My guess is they are coming from Barry Goldwater base and the Gov has some pretty bad azz toys, but who really knows.  Going to keep my phone handy and try too get some footage next time it's happens. I'm also glad other  people are seeing them, makes me feel alot better about posting on the crazy UFO site. Wish me luck</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137286.html](http://www.nuforc.org/webreports/reports/137/S137286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lapeer and Flint (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Several bright circular lights,travling at about a 60 degree descent from west to east.While lying on the sofa, out of our west window through the blinds I saw several bright circular lights.  I quickly got up and ran to the east door.  Through the glass door I saw around 5 (white with yellow/orange)balls of light travling in a straight line,directly behind eachother, like slow comets with short wide tails.  The tails were aout twice as long as the objects, and slightly wider.  Each tail stoped before the next object began.  They were decending to the east at an approximate angle of 60 degrees. I called for my daughters and we quickly went outside.  We saw them go down below the tree line toward Lapeer.  They went over my house, to the south.  My wife saw the same thing, she was 10 miles west of us in Flint. I immediately called the police.  They received several calls, including the flight administration saying a plane went down.  This was no airplane or meteor.  There were no flames, only a strange, plasma like tail that disipated. I heard no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10962.html](http://www.nuforc.org/webreports/reports/010/S10962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
