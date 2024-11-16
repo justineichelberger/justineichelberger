@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flashing white lights over Sanderson Field in Shelton WashingtonI was driving with my son on our way home near Sanderson Field in Shelton, Washington when a flashing light out my window caught my eye.  As I looked closer, I noticed that there were many flashing white objects perhaps 8-12.  The Objects appeared to be the size of large stars and were flashing a white lights (much like christmas twinkle lights).  I pulled over to get a better look.  I could not determine a specific shape or formation to the lights, however, as the lights moved, the objects stayed in the same position relative to each other.  There is no way these were normal aircraft, they were too close to each other even though the pattern took up a large portion of the sky above the airport.  I went home to get my camera and head back to the airport.  As I approached the airport from the highway, a truck tore into the main entrance ahead of me at a high rate of speed and sped out to the tower.  When I parked at the airport, I could not find the object, and some low clouds or fog had set in and was covering much of the sky.  I could no longer see the object, and got no pictures.  I noted on "normal aircraft" apparently circling the airport, but that could possibly be a normal training flight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53447.html](http://www.nuforc.org/webreports/reports/053/S53447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beverly Hills (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>sighting of ufo again .Round with lots of color .Large ball or mass with 3-4 smaller balls  near it. changed shape and always moving.The other night my husband saw what we believe to be somekind of ufo.since then we have been looking for more. To our surprise they were back last night.  And I know people don't think they will visit the same spot but they were in the same arealast night. Once again we grabbed the camera and took pictures. Sure enough it was the same thing my husband had saw the other night. It looked to be a colorful mass in the shape of a ball.From our yard we could only see the one but when I took some pictures more smaller ball formations apeared in the picture and they looked like it was across the street in my neighbor yard.It was red and hazy looking.This was the only really different looking thing.The one in the sky had a rainbow of colors. While taking several pictures it seemed to disapear and reapear as if it knew we were taking pictures- I know it sounds funny but that how I felt.Also lastnight while I was trying to take a picture I noticed an aircraft getting closer to it, I was going to try and get a picture of the both the airplane and possible ufo but as soon as the plane got close enough it would disapear. ((NUFORC Note:  Sighting of Sirius?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53456.html](http://www.nuforc.org/webreports/reports/053/S53456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
