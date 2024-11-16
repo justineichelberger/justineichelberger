@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:27 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Canandaigua (NY) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball south of Canandaiua.Fireball south of Canandaigua.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124138.html](http://www.nuforc.org/webreports/reports/124/S124138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mount Vernon (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>After thinking about this all week, I've decided to report this. During the 3rd week of November 09 ( I dont remember the exact day) my husband and I were watching a movie. We had rented Transformers and had it on REALLY loud. It was between 10-11pm (I think), during a very loud part of the movie, I thought I heard what sounded like thunder, but then I realized that that would have been some of the loudest thunder Ive ever heard in my life.I looked at my husband, he heard it too. We then paused our movie and listened. We both heard what I can only descibe as a huge jet way too close to our house and only getting louder, then for about half a second, silence and then a huge boom that shook our entire house! We thought for sure there was just a massive plane crash very near our house and ran outside. It of course being Washington, it was raining and we couldnt see anything. Within minutes, we heard 3 seperate helicopters coming from different areas.At that point, we were confident that we would definitly be hearing about this in the news the next morning. Morning came and there was nothing. I spent hours online searching for the smallest piece of report that we werent the only ones that heard and felt whatever this was. Nothing in the papers, online or of course on the news. Its as if it never happened.I just want to make very clear, that whatever this was, when it "crashed" our house shook like it was an earthquake. We live in Mount Vernon, WA. My husband has seen some strange things in the sky here in the same area before and we saw strange lights a few years ago out towards Deception Pass, we just cant simply think of anything else it could have been.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73510.html](http://www.nuforc.org/webreports/reports/073/S73510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
