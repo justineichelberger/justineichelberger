@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jeffersonville (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5666666666666667 - 0.5666666666666667 minutes.</sub><blockquote><sub>I seen a bright fireball-shaped object in the sky traveling east, northeast.  It was moving at an increadible speed and at a high altitude.The object we observed on November 16, 1999, at 19:04, was that of a huge fireball-shaped object traveling east, northeast at an amazing rate of travel.  Only 1 (one) object was observed at the date and time noted above.  It was golden in color with bright green and orange showing up at one point during the observation. I have seen a similar object like the one described above in the late winter of 1995 while standing at a bus stop.  However, the second observer, my mother, has most likely observed a UFO in the late fall of 1978 along with my sister.  Their observation of the craft they seen that night sounds increadible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10925.html](http://www.nuforc.org/webreports/reports/010/S10925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Odessa (NY) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Husband and wife were driving home from attending the Syracuse/Army football game.  They were midway between Odessa and Montour Falls, NY. They witnessed a ball of light with a long green trail behind it.  It was approximately 45 degrees above the horizontal plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01675.html](http://www.nuforc.org/webreports/reports/001/S01675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
