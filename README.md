@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:44 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:26 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Woman outside smoking sees bizarre craft "w/ red lights" pass silently overhead.  When she peered around house, was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00979.html](http://www.nuforc.org/webreports/reports/000/S00979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orland (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>My husband and I were doing some rock hounding at Burris Creek and I had a strong urge to take some photos of the sun.  I took about 25 shots and noticed in one frame a large bird and a craft of some sort.  It is not visible in any of my other shots.  Weather was gorgeous, 75, clear and breezy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150860.html](http://www.nuforc.org/webreports/reports/150/S150860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
