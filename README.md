@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 16 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apopka (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Red/Orange stationary light left a short tail behind it as it shifted to the left then dimmed for a few seconds then became bright again.  Proceed to move in the infinity sign before becoming stationary again. No clouds in sky when this happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151698.html](http://www.nuforc.org/webreports/reports/151/S151698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Davis/Marfa (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cigar shape hovering over the desert during drive from Davis Mountains back to Marfa.It was a group of 4, including myself, driving back from the Davis Mountains in Fort Davis. We were driving back to Marfa and had the encounter during the stretch between Fort Davis and Marfa. Between this stretch there is the desert and the mountains in the back; we noticed the unidentified figure hovering over the desert and initially assumed it was a plane. I was the one who noticed that it was in the same spot and didn’t seem to be moving. It initially looked like a dot in the sky (almost like a really dark and tiny cloud) and I asked everyone in the car if they could see the same thing. All of us agreed we saw it and then continued our conversation in the car. I looked again and this time it looked more circular and in the same spot, again, I asked and everyone saw the same figure. It then took on a cigar like shape and just hovered the whole duration of our drive and we all kept looking over to it at this point as it was still in the same spot (a bit closer now) and just seemed to linger over the desert. During this time we lost all reception and one of my friend’s phone said “something mysterious stopped Maps from searching this area” with a photo of a UFO. We also noticed two small planes that were flying overhead that looked like they were chasing each other, but were closer than usual. When we returned to our campsite we couldn’t stop talking about what we saw and are still baffled by what we saw over the desert. We also noticed a slight change to how we felt (headache, eery feeling, paranoia).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150882.html](http://www.nuforc.org/webreports/reports/150/S150882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
