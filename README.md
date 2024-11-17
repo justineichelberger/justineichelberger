@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in River Falls and Prescott (between; Hwy. 35) (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TriagularI was driving alone on Hwy 35 between River Falls and Prescott Wisconsin. It was about 7:15pm (19:15) in the evening and the sky was pitch black already as it's almost winter. I noticed a white light in the sky that was unusual. It was brighter than an airplane. While I was driving it seemed as though I was getting closer to it, and I could see that it was in fact three round, white lights that formed a triangle. It was locked in the sky as though it was stationary, and I wondered if it were a radio tower. As I drove closer I could see it better. The three lights made a triangle where the point of the triangle was the top light, and two lights were below it geometrically. The lights were very close to each other. As I got even nearer, I noticed that while the sky was black, I could make out a darker black in between and around the lights. The lights were definitely attatched to something that was darker than the night sky, although I couldn't make out that shape. Unexpectedly, the three lights seemed to turn off, or go out, or even turn around.  In their place was a single, smaller red light that was not as bright as the white lights. I could still see the darker black form, and it appeared the red light was attatched to it. At this point, the light started to move away from me.  It was no longer stationary.  All I could see was the red light, and I watched as it flew away, slightly upwards, growing smaller and smaller until I couldn't see it anymore. All of this lasted about 5 minutes.((NUFORC Note:  We spoke with this witness via telephone, and we found her to be exceptionally eloquent, in describing her sighting.  We suspect that she is an exceptionally good witness.  We have corresponded with her, to inquire whether she stopped her car, and was stationary, at any time during her sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53477.html](http://www.nuforc.org/webreports/reports/053/S53477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I arrived from work quite late parked my van outside my home and as always on a clear cloudless night I look up at the stars. I was looking up wen i saw a diamond shaped object with like 6 glowing stripes on the front of the craft. I knew that the front was the front because of the direction the craft was moving. I also knew that it was diamond shaped because of the sillouette it made against the starlit sky. It was quite high up but was moving very fast indeed. I know what it wasnt but i didnt know wot it was and after observing this my girlfreind phoned me up and i told her wot i saw as i was still standing there in awe! Im not sure if it was alien or not but I had never seen this sort of thing before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41828.html](http://www.nuforc.org/webreports/reports/041/S41828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
