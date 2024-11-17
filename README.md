@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oakley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Someone called in on coast to coast open lines and reported seeing what i saw.  we both were at the drive in.  Small world.Large square shaped.  several cities must of seen this.  it was invisible and like breathing it seemed to come in and out of visibility.Like it was cloaked but i could see it every other second.  the middle opened and a triagle shaped ufo came out and flew south then one came out and went north and one more came out and went straight up.  i was alone in my backyard.three yrs ago i went to the drive in, that is also in this same area.  during the movie a ufo  slowly flew right over our car and the whole drive in.  i clearly saw 2 human shaped  e t's.  my husband said it was my imagination as he saw nothing.  i listen to coast to coast radio nightly.  thank god for this conformation i recieved and am so grateful for.  you see  several days afterwards i was listening to friday night open lines.  on coast to coast and a man called in.  he said he was at the blank drive in.  which he  did say the name and everything on the radio.  he said he was with his wife and brother and sister in law.  he began to tell the same thing i saw.  he said everything i saw  clearly and exactly as i saw it.  the same colors and the two "people" in side the large glass window..  i remember george noory saying that their is a military sight . near by.and that maybe it was a secret testing going on.  i tend to agree.  because every part of the ufo seem to have worldly parts lights windows and human lookers inside who were clearly wearing masks.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124528.html](http://www.nuforc.org/webreports/reports/124/S124528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Intense glowing white/blue lightIt was what seemed to be a huge saucer shaped craft but the first thing that caught my eye was the fact that it was shining very intense bright white/blue light.  I had to stop driving and pull over it was so incredible.Before it disappeared into the clouds the bright light disappeared and I was able to see the actual crafts shape.  It had no wings and had to be way bigger than you're common ARV.  Incredible!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124152.html](http://www.nuforc.org/webreports/reports/124/S124152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
