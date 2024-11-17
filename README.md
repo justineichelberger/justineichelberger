@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:47 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Intense glowing white/blue lightIt was what seemed to be a huge saucer shaped craft but the first thing that caught my eye was the fact that it was shining very intense bright white/blue light.  I had to stop driving and pull over it was so incredible.Before it disappeared into the clouds the bright light disappeared and I was able to see the actual crafts shape.  It had no wings and had to be way bigger than you're common ARV.  Incredible!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124152.html](http://www.nuforc.org/webreports/reports/124/S124152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chicopee (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was inside.  My sister said there was something strange over her house while we were on the phone.  I heard something over my apartment around the same time and looked outside to see a triangular shape (even sided) flying overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124155.html](http://www.nuforc.org/webreports/reports/124/S124155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
