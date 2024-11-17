@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:56 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yes I saw the same thing as first video on websitehttp://www.huffingtonpost.com/2015/01/26/orange-yellow-ufos-over-florida_n_6544420.html but far southwest sky from Miami Gardens on late night of November 17th (think was correct date), definitely just within  past week.   I also had witnesses that saw same thing, but we saw 4 in almost a square design and a 5th appeared but soon went low below tree lines.  Al seem to disappear but unk where.  They appeared round , red, in sync.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124186.html](http://www.nuforc.org/webreports/reports/124/S124186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in I-65 (Mile Marker 250) (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green fireball with an orange tail flashed over Hwy 65 in Indiana.  Mile marker 250-ish.Saw a green fireball with an orange tail off highway 65 in Indiana going south at about mile marker 250.  It was much bigger than a shooting star (like a baseball).  It lasted for one second, flashed, disappeared, reappeared and then it was instantly gone.((NUFORC Note:  Possible meteor?  The annual Leonid Meteor Shower begins on this date.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115429.html](http://www.nuforc.org/webreports/reports/115/S115429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
