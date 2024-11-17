@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ballinger (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO in Ballinger Tx in the Middle of the Day, White Object with Amazing Skills in FlyingHubby and I were at Town and Country, he went inside and I spotted the white craft it the sky.. It was flying around like a Hawk, up and down, Sailing in the Sky..It would Dip and Climb back up..Kind of looked like a Box..It would change direction smoothly and go the other direction..We watched it for about 20 minutes as it just flew around..It was Not a weather balloon..It was a long ways up and then would come down low as it teased us..Was quite a site to see..COuld see no light but it was high noon..No Sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47763.html](http://www.nuforc.org/webreports/reports/047/S47763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately till 24:00 - till 24:00 minutes.</sub><blockquote><sub>Satallite/faint star-like object  does 90 degree angles, circles, and splits in two.Appeared to be a satallite traveling from south-east to morthwest until object made a 90 degree turn. It stopped, then backtracked.After losing sight, the object appeared back where it started from. The object appeared to move in a square shape around a star.It began to make circles and slow down, speed up, and stop repeadly. After a short period the object stopped, and there apeared to be two of the objects which began to circle each other. they then returned to a position where they terminated movement. The objects were last seen in the same position as they had terminated: at the midpoint between the seven sisters star cluster and the mid star of orion's belt. We believe the distance was far, at least satellite range, because of it's star-like appearence.((NUFORC Note:  We believe we spoke with this witness.  He seemed quite serious-minded, and credible, to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20450.html](http://www.nuforc.org/webreports/reports/020/S20450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
