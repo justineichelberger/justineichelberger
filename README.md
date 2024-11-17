@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:29 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Edenton (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large comet falling, 3 smaller objects broke away, fell with the object and then hovered as another similar object appeared above.11/17/17, at 5:00 pm, while driving to work from edenton nc to Windsor, nc I spotted a large streaming object in the southwestern sky.  There was a sunset with lots of color in the pink range, the object looked like a comet with a long tail which was split, parallel, I thought I was seeing a meteor and thought it was breaking up as 3 small objects appeared below and falling with it.  I pulled over 3 times to take pictures with my phone,  I began to change my thinking this was a meteor when the 3 little objects stopped falling and from my vantage point hovered above trendline as the large object kept falling and then curved to the right, at the same time another object streaming the same colors, appeared above and seemed to be falling in the same trajectory.  I was hoping to make it to the bridge over the chowan river, hiway 17, to get a clearer view but it had disappeared, all I saw were some jet contrails which were white as the sunset colors were leaving the sky.  I have never seen anything similar to this, i was raised at china lake naval base where there was a lot of experimenting going on, aircraft and such.  We were a short distance from Edwards air force base and I have witnessed rockets breaking up in the sky from Vandenberg air force base, seen a boiloid as it was decentragating in the mt sky, and have watched a space shuttle land, so I have some experience with weird sky stuff.  Not to mention having seen the stealth bomber before it was official.  The photos on my phone aren't very good but support what I saw, haven't seen anything reported on this yet, wanted to document before I forget.  best wishes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137306.html](http://www.nuforc.org/webreports/reports/137/S137306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On campus while walking to class I saw a light that was a kind of flourescent white orb that appeared very suddenly and was flying at a great speed in the western sky. It appeared as if it were descending and then the light blinked out. It all lasted only about 5 seconds. It was VERY bright and was moving very quickly. It did not have a tail and was not blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33204.html](http://www.nuforc.org/webreports/reports/033/S33204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
