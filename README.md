@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moncks Corner (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO flying over Moncks Corner, South Carolina, 5 or 6 lights on side and had red lights on bottom, not moving very fast.We were driving down the road and then my sister pointed lights flashing and moving across the sky.  There were five or six yellow lights on the side of the object and and those would stop for around two or three seconds and then red lights that seemed to be on the bottom of the object would flash across.  Then the lights on the side again would go and then the bottom lights would go etc..  What made me know for a fact that this was a UFO was it was drastically lower than any aircraft would fly.  The side lights were also on just it's left side which made me positive.  I saw no shape, just lights. All three of us in the car were so stunned my grandmother almost stopped in the middle of the road.  All of our jaws were dropped and our eyes were big when we all had seen it.   Also, it seemed to be getting lower and lower and when we got around the turn in the road it was nowhere in sight.  There was trees around the corner and I could see through them, but the UFO had d! isappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78948.html](http://www.nuforc.org/webreports/reports/078/S78948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Barre (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange lights fading in and out in a perfect diagonal pattern over BarreDriving on the south end of Allen st we saw a two bright orange lights toward the north east that didnt look like it was much more than 100 feet high.  The two lights where in a diagonal pattern.  The Bottom light would fade out and a new light would appear in a perfect diagonal pattern at the top.  The the original top bright orange light would become the bottom and it too would fade out and a new one would appear in line above the one light left.  It gave the appearance that the lights where "walking" but never actually going anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73379.html](http://www.nuforc.org/webreports/reports/073/S73379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
