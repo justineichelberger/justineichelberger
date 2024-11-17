@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:20 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Barre (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange lights fading in and out in a perfect diagonal pattern over BarreDriving on the south end of Allen st we saw a two bright orange lights toward the north east that didnt look like it was much more than 100 feet high.  The two lights where in a diagonal pattern.  The Bottom light would fade out and a new light would appear in a perfect diagonal pattern at the top.  The the original top bright orange light would become the bottom and it too would fade out and a new one would appear in line above the one light left.  It gave the appearance that the lights where "walking" but never actually going anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73379.html](http://www.nuforc.org/webreports/reports/073/S73379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wausau (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Predominantly white flickering various colors with inconsistent movement, it’s too stable on a windy night and too high to be a drone.Small object flickering in various colors (mainly white but occasionally flickering blue, green, and red). Has been hovering in roughly the same position for well over an hour now. It’s hovering too high to be a drone and has been there for too long (drone pilots only have so much battery life and tend to move a lot to get as much done as possible in a single charge) It has moved around slightly but not like a helicopter, plane, or satellite would. It’s movements are similar to a drone but again it’s up too high and has been there for over an hour. It’s also probably worth noting the stability of its movement. It moves side to side like a drone but when it stays still it maintains a spot in the sky without moving at all. It’s a windy night...there’s no way that things a drone. It has been moving more since I started writing this. It’s a very slow and inconsistent movement south. It moves for a little bit but then maintains a position in the sky for minutes a! t a time. I can’t identify a shape it’s up too high but it’s definitely flickering various colors while predominantly remaining white...maybe I’m over looking something but this is weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160675.html](http://www.nuforc.org/webreports/reports/160/S160675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
