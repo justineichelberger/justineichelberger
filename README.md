@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:19 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:56 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Small White Light Around SundownI was driving on Highway 86 just east of Castle Rock and had just entered the Founders Village Subdivision off of Ridge Road.I saw a small white light out of my car window about a half mile from me in the air.The white light moved on a vertical trajectory and faded out after 20 seconds.  It was like a close falling star during sundown.Size of the object was about the size of a basketball.  It was round and very bright.  Made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66998.html](http://www.nuforc.org/webreports/reports/066/S66998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small saucer camouflages itself at dusk and speeds off"All I can tell (from what I managed to see) is that it was a small saucer coming out from behind a tree.  The saucer sort of turned itself invisible in the blink of an eye, and blurred my eyesight for about 10 full minutes.  From what I could tell, the saucer details were very complicated.  It looked a lot like a stretched out black and white picture of saturn under a shadow."  The above description is what my daughter said she saw.  It happened while she was walking her dog in the greenbelt near our house.  On her way back home at dusk, she saw this UFO and she also said that after it became shadowy black to blend in more with the sky, it shot off at a very fast speed away from her, which would have been in a southerly direction.  She said that her cell phone stopped working for a few seconds so she could not call me immediately after the incident.  She made a drawing of what she saw very soon after getting home so I will scan it and email it.  Would be nice if you can email me with a case number so I can reply to your email with the scanned image.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67165.html](http://www.nuforc.org/webreports/reports/067/S67165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
