@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I arrived from work quite late parked my van outside my home and as always on a clear cloudless night I look up at the stars. I was looking up wen i saw a diamond shaped object with like 6 glowing stripes on the front of the craft. I knew that the front was the front because of the direction the craft was moving. I also knew that it was diamond shaped because of the sillouette it made against the starlit sky. It was quite high up but was moving very fast indeed. I know what it wasnt but i didnt know wot it was and after observing this my girlfreind phoned me up and i told her wot i saw as i was still standing there in awe! Im not sure if it was alien or not but I had never seen this sort of thing before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41828.html](http://www.nuforc.org/webreports/reports/041/S41828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Orange (VT) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Woman was driving east from Barre, VT, and saw "a cluster" of very bright lights apparently hovering to the east of her position eastbound on the highway out of Barre.  The closer to her property she got, the more alarmed she became that the objects were near, or above, her property.  Just at the moment she pulled off the highway to go up her driveway, she witnessed an immense flash, that illuminated the countryside with white light.  At the same instant as the flash, she saw a streak of light shoot across the sky.  It was not clear to her whether the streak was from an object ascending from ground level, or whether it had come over the horizon, from behind the hill on which her farm is located.  She immediately drove down the road, in some state of alarm, to talk to her neighbor.  The neighbor had seen the flash, and the both of them stood outside and looked at "red and blue flashing" lights in several points of the sky.  (Note:  Were those lights twinkling stars??)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01000.html](http://www.nuforc.org/webreports/reports/001/S01000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
