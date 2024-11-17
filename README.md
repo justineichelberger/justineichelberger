@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Raymond (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>my daughter saw 2 triangular,blackish objects flying toward each other in a converging point, silently, slowly. And with extreme precision at about airplane level.My daughter(15) was on the school bus at about 2:30 pm yesterday(Nov.18) when she looked out the bus window and saw 2 blackish triangular objects flying toward each other,slowly and with great precision. She thought to herself "Gee, I'm impressed! How do they do that!" There was no sound emitting from them at all. She looked at the girl sitting closest to her and said "Did you see that?!" The girl said yes in a disbelieving way.  My daughter is a sophomore in high school, is very levelheaded, doesnot do drugs or alcohol.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11032.html](http://www.nuforc.org/webreports/reports/011/S11032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large boomerang shaped aircraft11/17/00 7:30 p.m., a large boomerang shaped aircraft with white lights.There was no sound.It moved very slowly in a northern direction.Five people(all family members) observed this craft for about two minutes after it was first sighted.Then it just "disappeared". I don't see how something this big can fly at a snails pace and stay airborne. Although it was very dark outside, the lights illuminated the object well enough that you could see it's shape real well.I would not be at all surprised if this aircraft had a wing span of 300 feet or more.If my mom had not gone outside when she did, and draw this aircraft to our attention, it would have flown by and we wouldn't have even known it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14950.html](http://www.nuforc.org/webreports/reports/014/S14950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
