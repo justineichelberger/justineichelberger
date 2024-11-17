@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On campus while walking to class I saw a light that was a kind of flourescent white orb that appeared very suddenly and was flying at a great speed in the western sky. It appeared as if it were descending and then the light blinked out. It all lasted only about 5 seconds. It was VERY bright and was moving very quickly. It did not have a tail and was not blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33204.html](http://www.nuforc.org/webreports/reports/033/S33204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Dartmouth (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 ORANGE CIRCLESLast night around 8:30pm I was outside on the back porch.  In the Eastern sky I saw an Orange light, not a plane.  Light was not blinking, but maybe flickering a bit similar to fireball.  Light was too big to be from a plane, completely silent!  It wasn't going too fast. It was circular.  Not too far behind was a second one. I followed with my eyes to the West till I couldn't see them anymore.  Then trailing behind was the 3rd one.  I took a short video with my phone of the last one but it didn't come out too clear.  I live in Southeastern MA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94618.html](http://www.nuforc.org/webreports/reports/094/S94618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
