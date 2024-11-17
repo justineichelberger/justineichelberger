@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 17 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Dartmouth (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 ORANGE CIRCLESLast night around 8:30pm I was outside on the back porch.  In the Eastern sky I saw an Orange light, not a plane.  Light was not blinking, but maybe flickering a bit similar to fireball.  Light was too big to be from a plane, completely silent!  It wasn't going too fast. It was circular.  Not too far behind was a second one. I followed with my eyes to the West till I couldn't see them anymore.  Then trailing behind was the 3rd one.  I took a short video with my phone of the last one but it didn't come out too clear.  I live in Southeastern MA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94618.html](http://www.nuforc.org/webreports/reports/094/S94618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Ensenada (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A circular shaped craft  emiting three amber rays under it slowly hovering silently over the houses of the neighborhood .I perceived it first as 3 beam of amber lights coming from the north over the hills towards me coming down at a 45 degree angle. I was on the side of the hill which is filled with houses all the way to the top and around. Before the craft came howering over the houses I called my family who were in my sister-in-law's home; by the time they all gathered to see, the craft had dipped a little below the houses in top of the hill (who is aproximately 500 ft. high). The craft made a turn at a very slow speed and went towards the left (west) parrallel to the hill. My wife, sister-in-law, and my two kids saw it perfectly well in front of us at a height of about 300 ft. It didn't make any noise, and I perfectly saw the three rays of lignts on the bottom of the craft inside this round hole on the center of the bottom. The craft looked identical to saucers that have been drawn or fotografed before.  It was night but we could clearly see its dome shape siluate and bottom because of the light of the city.My kids noticed many blue colored windows. There were neighbors on the other side of the street in front who were talking together in a circle who didn't noticed it even though it went by very slowly until it disapeared behind the same hill over the houses not far from our house. Many sightings were seen by many people even during the day months around this time.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36337.html](http://www.nuforc.org/webreports/reports/036/S36337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
