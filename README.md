@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Ominous, dark-clouded sky was a perfect setting for UFO to pass - Downtown Nashville TNAt the time the photo was taken, I did not see the UFO.  I took the picture because the sky looked so ominous and strange that day.  But, upon later reflection of the photo I took that day, I noticed a small collection of lights in the background in the sky with a green tint.  Naturally, I zoomed in to get a better look only to find a classic "UFO" shape -- a circle formation made out of lights.Strangely, I was carpooling with a friend that day and she also took a picture of the dark-clouded sky.  We took pictures at the exact same time as marked by the date and time on our phones, but her photo does not capture the UFO.  I actually have two pictures taken at the same hour:minute.  One is a little more blurry because a car was driving in the distance, but, both of my photo's capture the unidentified object pretty clearly.Personally, I've never been one to believe in UFO's, though, I believe there is most definitely "life" outside of Earth.  For all I know, UFO's could be the government screwing with us.  I don't really know.  What I am certain of is that I didn't notice the object at the time the picture was taken -- I was too distracted by the sky.  Additionally, I didn't go back and look at the pictures I took until a month later when I noticed something tiny in the background. To clear any misconceptions - I don't own photoshop or know how to use photoshop.  I'm sure there is enough technology out there to check and see if anything was added to a photo.  If such technology were to be used on my two photos of the object, it would appear they have not been tampered with in any way.Hope this report helps some UFO tracker out there!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124980.html](http://www.nuforc.org/webreports/reports/124/S124980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>neighborhood flashes like day time.midnight sky lit up like day for 4 seconds followed by very bright yellow orange flash then gone. seen by most neighbors.did not see object just light and bright orange light after.((NUFORC Note:  Orange is a somewhat unusual color for a meteor.  The peak of the Leonid meteor shower occurred on the morning of November 17, 2009, one day before this event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73368.html](http://www.nuforc.org/webreports/reports/073/S73368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
