@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lights or fire that were dropping from the bottom were what made it look like something we have never seen.My husband was sitting on our back patio  having a cigarette when he looked up in the sky facing North West.  He yelled at me to come out back to see what I thought it was that he was looking at.  It was rather high up so at the height it was it looked like the shape of a plane, but every 2 or 3 seconds a ball of light (or fire) would drop out of the bottom of it and there was like a circle of smoke or haze around the whole object.  My husband at first thought it might have been a hot air balloon but he thought it was rather high to be that and especially at that time of night.  It moved at a rate of speed similar to an airplane, continuing dropping this light or fire ball.  Gradually it moved to the South West and we lost sight of it.  The whole incident that we witnessed lasted approximately 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20483.html](http://www.nuforc.org/webreports/reports/020/S20483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While walking outside to see the meteor shower, I believe i saw a U.F.O..  It was triangular in shape and moved at a steady pace across the sky.  All I could see was three dim points in a perfect triangle flying with the point facing the rear.  I am not sure if this was one craft or possibly 3 flying in formation. No other "meteors" were seen, although I try to catch every meteor shower.  I have seen my fair share of meteors and never have I seen anything like this.  I want to say that the three points were kind of reddish in color, they were not lit up like a light, but were still distinguishable in the night sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73361.html](http://www.nuforc.org/webreports/reports/073/S73361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
