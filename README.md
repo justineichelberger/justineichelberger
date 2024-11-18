@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saint Marys (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Lt appeared in north and disapeared in the south over eastern Oh. 06:50Sat in car and saw a light appear in the southern horizen... as I was facing the Ohio river looking tword Ohio... so this was following the ohio river approxamatly 30 miles inland over Ohio...  I watched a steady light and at one point it flashed wide then back to a single bright white light.  It went from my southern view and dissapeared in the northern view. approxamatly 7 mins.  Two other whitness in the lot also..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85382.html](http://www.nuforc.org/webreports/reports/085/S85382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was not drinking or anything I know what I sawit was like one big dish in the center and four small sausers on the outside and they were going in a circle and would go in and out of the big dish, I was traveling in my car and was traveling about 60 mph and they were staying wright along side of my car I could see them out my drivers window about 200 feet away from me and about 150 to 200 feet high at first I thought it was a reflection from my car but rolled down the window and they were still there, The light was kind of dim like they were in a cloud, I traveled about 20 minutes and they were still there I would look out my window every second or so and they would still be there, I pulled in to a small town where I live and then lost them I went to my house and was thinking about it and after about an hour latter went out and see if I could find it but didnt find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20613.html](http://www.nuforc.org/webreports/reports/020/S20613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
