@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Walnut Creek (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Last night in the northern sky, I saw 2 bright lights. A golden amber color. One ws comming from the northwest, and the other almost intercepted it from the north. The one that was comming from the north was moving at first, then it stood stationary for about 5 min. The other light was moving slowly towards the south, Over Walnut Creek. Then the light that was stationary started to move. It just started to move straight up in the air. And then moved south. It must have climbed for about 5 seconds, but in that 5 seconds, it moved upward until it was almost a small light, then, it moved south. Both crafts had no sound, they had bright yellowish golden lights, and when they flew over head, there were two other lights on either side of the bright light. The bright light was in the shape of a star. It had points on it.((NUFORC Note:  Might be landing lights on an airliner.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14961.html](http://www.nuforc.org/webreports/reports/014/S14961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>triangle with one spot on each corner and one big one in the middle.I was riding in my moms car on my way to boy scouts. I always lay my hed up aginst the car window and watch the sky. This night it was very cloudy and dark. Iwas looking at the clouds when i saw a black triangle in the sky. it was hard to see but i know it was there because it was darker then the clouds. It had one bright lite on each corner and one big lite in the middle. I watched this hover over the houses for a long time. Soon we made a turn so that i could not see it any more but the whole time a watched it it was just staying in the same spot.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23147.html](http://www.nuforc.org/webreports/reports/023/S23147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
