@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:44 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black, unidentifiable, triangular object seen flying over Hudson River/Manhattan at night.While walking my dog along the Hudson River in the West Village, I noticed a black, triangular shaped object flying just below the cloud ceiling.  The ceiling was pretty low, probably 2000 feet.  The object was very visible against the thick gray/white clouds which were illuminated by the lights of the city.  The object was silent and had no lights or distinguishing marks.  The object was traveling north directly over the Hudson.  I first noticed the object when it was directly above me and watched it travel north about a mile, it then made a right turn and headed east over mid-town Manhattan.  It flew into a very thick area of clouds above the buildings and disappeared.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37471.html](http://www.nuforc.org/webreports/reports/037/S37471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Browns Summit (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two strange lights with planes chasing over Greensboro, NC.As I was driving home, I looked up into the sky and saw two strange bright lights.  These lights were moving very slowly, and there seemed to be a lot of planes out. As one plane got extremely close to one of the lights, the light took straight off up and I couldn't find the plane or the other light again after this. It was very odd and it scared me a lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47789.html](http://www.nuforc.org/webreports/reports/047/S47789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
