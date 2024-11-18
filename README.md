@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:24 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was not drinking or anything I know what I sawit was like one big dish in the center and four small sausers on the outside and they were going in a circle and would go in and out of the big dish, I was traveling in my car and was traveling about 60 mph and they were staying wright along side of my car I could see them out my drivers window about 200 feet away from me and about 150 to 200 feet high at first I thought it was a reflection from my car but rolled down the window and they were still there, The light was kind of dim like they were in a cloud, I traveled about 20 minutes and they were still there I would look out my window every second or so and they would still be there, I pulled in to a small town where I live and then lost them I went to my house and was thinking about it and after about an hour latter went out and see if I could find it but didnt find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20613.html](http://www.nuforc.org/webreports/reports/020/S20613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cullman (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It had no flashing lights  One continual yellowish light like an airplane   It moved side to side  Fast moving when side to side  Slower when forward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143819.html](http://www.nuforc.org/webreports/reports/143/S143819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
