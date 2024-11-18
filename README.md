@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:22 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Large white light in southern sky.Was just waking up and coming down for dinner.  The wife and step kids told me about a large white light they saw in the southern sky.  They said it moved to the east in the sky and eventually it faded out.  As I was sitting having dinner it came back.  A large white light in the southern sky, that would dart to the east and then back.  Their first sighting lasted about 15 mins, ours together about the same length of time.I watched the light as we ate dinner.  Solid white, very bright, and below the cloud layer.  Eventually it just winked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104582.html](http://www.nuforc.org/webreports/reports/104/S104582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>known about this object for about 35 years and finally got a picture. you need to see before you beleive it. the sound couldn"t be heard by man but the dog was howling.((NUFORC Note:  We have requested a copy of the alleged photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28587.html](http://www.nuforc.org/webreports/reports/028/S28587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
