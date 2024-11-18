@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:12 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in McCloud (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Appeared out of nowhere and maintained a vertical line and disappeared 7 seconds later.At 17:50 pm I was sitting on my deck and looking directly above.  Suddenly there appeared a cone shaped object which I first took as a meteor.  The object appeared out of now where and traveled at a high speed straight across the sky to the west.  The object was viewed for about 7 seconds and it just disappeared in mid air.  The object did not drop in angle at anytime but maintained a straight line from my viewpoint.  Object was brilliant orange on the right end of the cone, then brilliant blue, and then a brilliant blue white like ice color on the end.  Was very large and not as high in the air as the numerous planes that traverse our area.  Exciting to see but a mystery.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67005.html](http://www.nuforc.org/webreports/reports/067/S67005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lights or fire that were dropping from the bottom were what made it look like something we have never seen.My husband was sitting on our back patio  having a cigarette when he looked up in the sky facing North West.  He yelled at me to come out back to see what I thought it was that he was looking at.  It was rather high up so at the height it was it looked like the shape of a plane, but every 2 or 3 seconds a ball of light (or fire) would drop out of the bottom of it and there was like a circle of smoke or haze around the whole object.  My husband at first thought it might have been a hot air balloon but he thought it was rather high to be that and especially at that time of night.  It moved at a rate of speed similar to an airplane, continuing dropping this light or fire ball.  Gradually it moved to the South West and we lost sight of it.  The whole incident that we witnessed lasted approximately 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20483.html](http://www.nuforc.org/webreports/reports/020/S20483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
