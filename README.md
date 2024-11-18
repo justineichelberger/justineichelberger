@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:19 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Mojave (CA) reported seeing craft that fit the description of some '' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Woman repts. 2 objs., "big and small," hovering in clear sky to SW.  Lights appear to blink or strobe.  Other witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00995.html](http://www.nuforc.org/webreports/reports/000/S00995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orb repeatOrb of light slowing down to land in field at old bible study.As it slowed down to land it slowly  stops glowing.three nights in a row same, place same time,same routine some times clouds will just apear to block my view of the landing.Havent had time to wait in field  yet but the new owners of the property put up a fence that looks like  it is from the movie king kong and sometimes i see alot of bright lights behind it late at night???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73405.html](http://www.nuforc.org/webreports/reports/073/S73405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
