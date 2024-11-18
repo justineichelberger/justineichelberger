@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 18 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While walking outside to see the meteor shower, I believe i saw a U.F.O..  It was triangular in shape and moved at a steady pace across the sky.  All I could see was three dim points in a perfect triangle flying with the point facing the rear.  I am not sure if this was one craft or possibly 3 flying in formation. No other "meteors" were seen, although I try to catch every meteor shower.  I have seen my fair share of meteors and never have I seen anything like this.  I want to say that the three points were kind of reddish in color, they were not lit up like a light, but were still distinguishable in the night sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73361.html](http://www.nuforc.org/webreports/reports/073/S73361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light over E. Lancaster DesertStanding in the desert at 65th street west and Ave J, looking to the east I saw a bright orange object floating in a downward trajectory.   At first I thought it was a southwest passanger airliner headed to Burbank, however the color became a glaring bright orange.  I then thought it was the reflection of the sun setting behind me, although I could not account for a reflection from the sun, as the sun was falling behind the mountains at this time.  Its downward trajectory then sped up and I thought it was a plane going down.  It stopped floating hung for a few seconds and then disappeared.  It was either a huge meteor burnign in the earth's atmosphere or something from Edwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67004.html](http://www.nuforc.org/webreports/reports/067/S67004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
