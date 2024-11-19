@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:29 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A horse shoe shaped object with red pulsating lights appeared, hovered, and reversed its direction.The object was shaped like a horse shoe.  It was traveling southwest toward my location.  Around the border of the horse shoe were a series of large pulsating red lights.  They may have been flashing or lighting in a series, but the effect was such that the light seemed continous.  The object appeared to be wobbling as if it were having difficulty maintaining its attitude.  It's stopped and remained stationary for approximately 1 minute.  I estimate the altitude at about 2,000 feet.  The object then began to move backward - away from my location.   While there was no sound, the movement was such that the object appeared to have some form of propulsion - i.e., it was not floating as one might expect with a balloon.   It traveled into the distance to where I could no longer see it.  I took a picture with my cell phone, but it was too distant; therefore, nothing was visible on the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47841.html](http://www.nuforc.org/webreports/reports/047/S47841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>two orbs, blue, and multi-coloredone large blue circular orb. mostly stationary, slight horizontal movements, very bright. much larger and brighter than any star in the sky. one small orb changing color patterns (yellow, red, blue,orange) and direction, (vertical, and 180 degrees circular)  above main orb. highway 183 heading south and west from kearny. aprox.4am.  I am a traveling privately contracted repair man, working in McCook, Nebraska that morning.  I have never seen anything like it, and was eerily compelled to stop and observe, and document.  A friend led me to your sight to report what i had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94696.html](http://www.nuforc.org/webreports/reports/094/S94696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
