@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:51 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:45 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>photos of green shape in direction of JupiterI was taking photos of the night sky. I took a 4s and a 5s exposure of jupiter. Next morning on closer examination a small green shape could be seen in different positions in the 2 photos.  I am happy to send the photos and i have lightened and cropped the images slightly.  Other photos taken before and after do not show the effect.  They are not aircraft.  The lens had a long hood to avoid stray light reflections.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85420.html](http://www.nuforc.org/webreports/reports/085/S85420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Reedpoint (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>the early morning sky lit up   brightly with a falling object to the northAs a westbound long haul trucker I had the whole area of mountains and all the sky around me light up in a yellowish tint allowing me to see clearly in darkness..I first thought that I was observing a winter-time electrical storm, but then realized that there was no lightning, just a huge flash lightening up the whole sky..I leaned down to look under my tractors visor to see a quite large fireball on the northern horizon appearing to be plumpeting towards earth..Over many years of driving I have seen a few fireballs in the sky, but this one was moving slower, perhaps, just away and down..It seemed bo be tumbling, to give me a first impression that it could have been a terrible accident, possibly an aerial tanker refuling a jet..........Bothered me because one of my sons flys ((position deleted to avoid possible identification of son, who is a skilled pilot in the military)) ((base deleted)) in California...I expected to hear some kind of info on the AM radio shortly about it but   nothing....Didn't really want to call 911 because it would have been missuse of an emergency #..Being a trucker I kept on traveling only to hear repeat talk shows this Sunday morning...This had to be seen by many travelers and I wam just curious as to find out what it was  because I cannot explain the huge flash before sighting the object....thank you so much and I will check back in with the websight to see if someone else may have reported the sighting…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15020.html](http://www.nuforc.org/webreports/reports/015/S15020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
