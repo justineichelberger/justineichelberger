@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lodi (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Short line of bright white lights w/ red center + small triangleJust after dark I saw a short line of bright white lights maybe 6-9 in total with a slow red strobe low in the center, very close together in front and slightly to the  left of me, almost a solid line. It appeared stationery, a few seconds later I came to a stop sign I saw it move very slowly to the right behind a hill in front of me.  I made a left hand turn drove about 15 seconds and then made a right turn and pulled over.  In the area a bit to the right of where I parked, where the lights should been I saw what I thought was a helicopter.  3 dim pinpricks of white light in a perfect triangle with a dim slow blinking red light ditectly in the center.  The triangle, from my perspective, was the size of a U.S. Quarter held at arms length moving about the same speed as a helicopter would.  It moved in a straight line away from me to the right of my parked car, as the triangle left I saw and heard a high flying large jet with its lights blinking very high above me and moving roughly in the opposite direction of the triangle.  I tried to take a video but my cell phone camera didn't even pick up the stars around the triangle. We see small private aircraft around here every day. Dane county airport/Truax Field is very near also so we're also very familiar with larger passenger jets and those very loud F16 fighters. We see hear the national guard's Blackhawks fly over on training flights from time to time and are likewise familiar with the very loud base thump of those aircraft as well, you hear a Blackhawk before you see it. This triangle was totaly silent, any airplane or helicopter at that distance would have been very loud. I have no idea what I saw, size and distance are difficult for me to judge, but it was incredible. I'll never joke about this stuff again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104610.html](http://www.nuforc.org/webreports/reports/104/S104610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A horse shoe shaped object with red pulsating lights appeared, hovered, and reversed its direction.The object was shaped like a horse shoe.  It was traveling southwest toward my location.  Around the border of the horse shoe were a series of large pulsating red lights.  They may have been flashing or lighting in a series, but the effect was such that the light seemed continous.  The object appeared to be wobbling as if it were having difficulty maintaining its attitude.  It's stopped and remained stationary for approximately 1 minute.  I estimate the altitude at about 2,000 feet.  The object then began to move backward - away from my location.   While there was no sound, the movement was such that the object appeared to have some form of propulsion - i.e., it was not floating as one might expect with a balloon.   It traveled into the distance to where I could no longer see it.  I took a picture with my cell phone, but it was too distant; therefore, nothing was visible on the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47841.html](http://www.nuforc.org/webreports/reports/047/S47841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
