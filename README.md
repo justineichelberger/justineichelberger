@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I just happen to look up, and this thing I saw 3 weeks earlier appeared over the moon roof of our car, this time my fiancee also seen it, it was dark and silent, blending with the night ski, but underneath you could see like exhaust holes that were cloudy, that's the only way you can see it, the holes formed a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160708.html](http://www.nuforc.org/webreports/reports/160/S160708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pineville (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two almond/eye shaped objects outlined with clear lightsTwo eye shaped objects in the sky.  Both looked outlined with clear lights on outer edge, more lights in center of each formed  a circle.  They looked exactly the same.  One moved back but I could still see it.  The other stayed in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143843.html](http://www.nuforc.org/webreports/reports/143/S143843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
