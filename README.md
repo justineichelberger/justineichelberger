@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Menomonee Falls (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange silent moving object in the skyWhen exiting the car to enter the apartment, 8 year old boy looks up at the sky to wish on a star then asks if the object in the sky was a hang glider.  I looked up and saw a large, gray lined outline moving silently in the air around a low cloud level.  The object had to be at least 200ft wide (tip to tip) shaped similar to { shape.  It looked like nothing more that that, with evenly spaced ridges along the outline.  It was moving a minimum of 50mph across the sky silently.  I maintained a visual for about 1 minute before it was too far to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137337.html](http://www.nuforc.org/webreports/reports/137/S137337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small light hovering slowly about 200-300 ft off the ground.Was walking dogs down street, at first glance thought It was a star then noticed it was hovering slowly and not but 200-300 feet off ground. Light moved slowly passed us, I had my flashlight in Hand and turned it towards the light.. after doing this the light vanished but I could still see something in the sky for about 5 seconds. The whole time we could not hear it make any sound, it was quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150883.html](http://www.nuforc.org/webreports/reports/150/S150883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
