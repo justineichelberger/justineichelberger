@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:19 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Parkesburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>The whole thing lasted 2 seconds and made a letter U in the sky as it disappeared like it was turning around to point back to sky.I was driving East and the sun was beginning to rise. I frequently take pictures of the sunrise, so I was looking in anticipation for the right moment.  When I looked up, a small reddish orange light appeared in the dark sky.  The light then moved down and up again and disappeared.  The shape it formed was a tight letter U.  The light was on the right what it appeared then went slightly down and straight up to the left as if it made a letter U.  I then looked for afterburner smoke trail but there was nothing in the sky.  The whole view only lasted about 2 seconds. It was quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160729.html](http://www.nuforc.org/webreports/reports/160/S160729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white light source changing from pinpoint to much brighter size(possibly rotating space debris catching sunlight)In the southeast sky about 5:00 am, approx. 60 degrees vertical I noticed a intense white light source.  The source of light did not move the entire time(5 minutes plus) and it would fade to a pinpoint then increase to a white(as though reflecting sunlight) source several times its previous size.  The duration of change was regular and it did not move so I would believe that it might be some space debris reflecting sunlight as it moved in it's position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33226.html](http://www.nuforc.org/webreports/reports/033/S33226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
