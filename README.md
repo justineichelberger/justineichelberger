@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 90</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151185.html](http://www.nuforc.org/webreports/reports/151/S151185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ames (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Gliding V-shaped object with lightsSaw a V-shaped or triangular-shaped object “gliding” in the sky at 20:30 in Ames.  It had a dark body outline with lights (hard to distinguish if the lights were underneath the body or glowing from inside the body if it was translucent).  The lights were pretty dim (pinkish-yellowish-peachish) but interestingly, they followed that V-shaped body pattern.  There was no noise, which is why I used the term gliding, and it was going at a decent pace. The background was a clear night sky in Iowa with temperatures ~0 degree Celsius.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124194.html](http://www.nuforc.org/webreports/reports/124/S124194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
