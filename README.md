@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was WB I-80.  Sun behind high clouds, grey/yellow in color, and bright. Saw other bright area approx. 50 degrees to the south. not as bright as sun, but for moment I thought it was the sun. Clouds lighted in this area same as sun.  Watched for several minutes, then clouds appeared to open, and small round objt. came down through the clouds. This was at great distance, objt small. bit def. round and very brights as if reflec. sunlight.  Lost sight of objt. after sev. mins. It traveled south and east.I was driving to work (Deputy Sheriff) west bound on interstate 80 between Auburn and Loomis, Ca.  I drive this route many times a week both while working and off duty.  On this date, (not sure of exact date) I was momentarily confused by the location of the sun.  I observed it as I came over a hill and began a slow curve to the west.  I believed it should have been more to the north, and as I came out of the curve I realized it was.  The other bright area was to the south of the sun. The sun was behind a high band of cloud, the sky otherwise clear pale blue in color as is normal here this time of year in afternoon. I looked from the sun to the other bright area.  I have never seen this before.  I appeared as if the sun were being reflected off something.  As I watched, the clouds appeared to part in a circular pattern which also seemed curious as I had not seen that before either...I do watch the skys. After about four minutes I noted a very bright object come below the clouds and travel slowly to the south. This appeared to be very far away.  The object was very bright as if the sun were reflecting off of it.  My first thought was aircraft, but it did not appear to have wings and was moving very slowly. At work, about two minutes later, I pointed the bright area out to a co-worker, but from our location the sun was below the trees and only the other bright area could be seen.  It was quickly fading as we watched.  The object was also gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05152.html](http://www.nuforc.org/webreports/reports/005/S05152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Havelock (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fighter Pilot Reports “Pod” at 23,000 FeetAir traffic control received information about a pod or circular object approximately 3 nautical miles SE of Cherry Point, NC at 23,000 Feet by an F15 fighter jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160720.html](http://www.nuforc.org/webreports/reports/160/S160720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
