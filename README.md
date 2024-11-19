@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:19 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pineville (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two almond/eye shaped objects outlined with clear lightsTwo eye shaped objects in the sky.  Both looked outlined with clear lights on outer edge, more lights in center of each formed  a circle.  They looked exactly the same.  One moved back but I could still see it.  The other stayed in the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143843.html](http://www.nuforc.org/webreports/reports/143/S143843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Parkesburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>The whole thing lasted 2 seconds and made a letter U in the sky as it disappeared like it was turning around to point back to sky.I was driving East and the sun was beginning to rise. I frequently take pictures of the sunrise, so I was looking in anticipation for the right moment.  When I looked up, a small reddish orange light appeared in the dark sky.  The light then moved down and up again and disappeared.  The shape it formed was a tight letter U.  The light was on the right what it appeared then went slightly down and straight up to the left as if it made a letter U.  I then looked for afterburner smoke trail but there was nothing in the sky.  The whole view only lasted about 2 seconds. It was quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160729.html](http://www.nuforc.org/webreports/reports/160/S160729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
