@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Giant craft? with random red blinking lights.I had seen something strange in the sky a week earlier.  I saw this ball of light or fire drip a small ball of fire or something.  You can see my report filed on 11-12-06.  Earlier today whole playing baseball I saw an f-15 jet fly pretty low over Long Beach.  I had a feeling something was up.  I had a feeling the last thing I saw was military.  Around 6pm I went out on the balcony to get some fresh air.  I noticed the normal air traffic coming and going near LAX.  I then saw these red lights flashing unlike the other planes.  I called my roommate to take a look and he also agreed that it was not an airplane.  We saw a group of lights moving about the speed of an airplane moving in a NW direction.  It seemed like it was flying along the coastline.  The lights would flash in random intervals. There where no other lights but about 4 red lights.  It could have been one craft, the lights moved as if it where one.  The size would have been huge, maybe miles wide! It was about as wide a 4 finger width, if you put your hand in front of you. We saw this thing continue north and finally disappeared in the horizon.  I went inside for a few minutes.  When I cam back out it had come back a bit like it turned around but was heading in he same direction again.  The lights would flash in random order.  It seems there where two on the outside and two closer to the middle.  The light flash was very bright and precise. These were not normal lights.  I would also guess the craft was in a v shape bcuase of the way the lights moved. I kept looking in the sky after it had gone.  I noticed some flashing lights again but this time it seems like an airplane.  I thought it could have been a military jet because the way the lights flashed where different than the other airplanes.  Later I saw a bright light approaching outside of the normal flight path.  Then the light turned off and I saw the same type of airplane lights that I saw after the red lights passed by.  I really think this was a military jet escorting ! or looki ng fir the craft. This is my second sighting of something strange in the sky within 2 weeks.  I have never seen anything strange before in my life.  I am college educated.  I also have really good eyesight.  I am glad my roommate was there.   I think he finally believed me about the thing I saw earlier in the week.  It seems like there has been a lot of activity going on in the LA area recently. I hope other people saw this thing.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53514.html](http://www.nuforc.org/webreports/reports/053/S53514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I just happen to look up, and this thing I saw 3 weeks earlier appeared over the moon roof of our car, this time my fiancee also seen it, it was dark and silent, blending with the night ski, but underneath you could see like exhaust holes that were cloudy, that's the only way you can see it, the holes formed a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160708.html](http://www.nuforc.org/webreports/reports/160/S160708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
