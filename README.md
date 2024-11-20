@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leavenworth (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO over Leavenworth, ksI was driving along a country road where I could see the hole town. While driving I could see a big flash appear over the town and noticed that it came from a circular sphere like object that was changing colors and had a aura. The ufo went from a white ish color to a red/orange color and became brighter then disappeared or folded as I call it. This happened all under a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73432.html](http://www.nuforc.org/webreports/reports/073/S73432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bliss (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were in Bliss New York on November 20th.We were at hunting camp standing outside on the deck having a cigarette. My friend was trying to show me how to take pictures of the stars with a certain setting on my phone cuz I couldn't figure it out. While we were looking up at the stars trying to take a picture. We seen this very bright object. To me it look like a diamond flying across the sky from east to west. Then all of a sudden it started going straight up in the sky until it faded away and you couldn't see it anymore. It was crazy how bright the object was and no sound. No one said anything to each other we just continued on. Until one of my friends who is a credible Witness (police officer) said why isn't anybody freaking out about what we just seen. I tried to downplay it cuz I watch those shows all the time but this is my second sighting in two different locations</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160778.html](http://www.nuforc.org/webreports/reports/160/S160778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
