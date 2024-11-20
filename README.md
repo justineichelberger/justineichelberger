@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 19 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white light source changing from pinpoint to much brighter size(possibly rotating space debris catching sunlight)In the southeast sky about 5:00 am, approx. 60 degrees vertical I noticed a intense white light source.  The source of light did not move the entire time(5 minutes plus) and it would fade to a pinpoint then increase to a white(as though reflecting sunlight) source several times its previous size.  The duration of change was regular and it did not move so I would believe that it might be some space debris reflecting sunlight as it moved in it's position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33226.html](http://www.nuforc.org/webreports/reports/033/S33226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Triangular solid blue light flying over South end of Diablo Range in HollisterNovember 20, 2013 8:00 p.m.Saw triangular solid  neon blue light in the sky over Hollister, CA.  Flying from North to South under the cloud level.  Was there for about 6 to 7 seconds before I lost sight. Was completely silent, moved faster then an ordinary plane but at a constant speed.  Once it was over the south end of the Diablo Range, it spiraled downward twice, then at an accelerated speed disappeared behind the hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104650.html](http://www.nuforc.org/webreports/reports/104/S104650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
