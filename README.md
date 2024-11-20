@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:47 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>one or two flying crafts, no lightsI was standing on the edge of the san francisco bay, looking at the stars, when i saw something in the sky flying by.  What caught my eye was that there were no lights on it at all--you could only see the ambient light from the city reflecting on it.  It seemed a little weird, and I just shrugged it off.  About five minutes later, I saw it (or another one just like it) again, flying in the other direction, and this time called the attention of a couple of friends to it.   No one had any idea what it might be.  We watched it fly north until it disappeared into the horizon/light pollution/etc.  Waited for another 30 minutes or so, but didn't see it again.  Possibly chevron shaped, possibly oblong/spherical--it was hard to tell because there were no lights on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47867.html](http://www.nuforc.org/webreports/reports/047/S47867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Woman reports witnessing peculiar lights in W sky, which suddenly disappeared from sight.  Lights "looked round."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01009.html](http://www.nuforc.org/webreports/reports/001/S01009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
