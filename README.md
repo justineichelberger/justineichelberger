@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dry Ridge (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Noticed something and took a pictureMy son was with myself and my husband. He was in the backseat admiring the storm clouds and noticed something in the clouds. So he rolled the window down and took a picture with his cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165695.html](http://www.nuforc.org/webreports/reports/165/S165695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Center Conway (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>LIGHT/OBJECT CHANGING DIRECTION THREE TIMES QUICKLY, AND CHANGING COLOR.A bright white light in the NNW, 60 degrees above horizontal, flashed then disappeared.It reappeared three more times moving downward, a flash then disappearing for five seconds each time .The last flash in the downward direction was red before disappearing.Five seconds later the flash (white) reappeared moving to the left, disappearing and reappearing five seconds later continuing leftward as a red flash.The next two flashes were white, at five second intervals, and moving to the right.It then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160742.html](http://www.nuforc.org/webreports/reports/160/S160742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
