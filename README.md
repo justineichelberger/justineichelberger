@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Center Conway (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>LIGHT/OBJECT CHANGING DIRECTION THREE TIMES QUICKLY, AND CHANGING COLOR.A bright white light in the NNW, 60 degrees above horizontal, flashed then disappeared.It reappeared three more times moving downward, a flash then disappearing for five seconds each time .The last flash in the downward direction was red before disappearing.Five seconds later the flash (white) reappeared moving to the left, disappearing and reappearing five seconds later continuing leftward as a red flash.The next two flashes were white, at five second intervals, and moving to the right.It then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160742.html](http://www.nuforc.org/webreports/reports/160/S160742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Barstow (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>"Falling star" over Barstow, CA went from a "falling star" to traveling east/west and skyward.Driving south, south-west on Interstate 15 south of Barstow, CA, my Navigation/GPS screen began malfunctioning.  The screen began flickering and turning to a blue background and the GPS location symbol indicating my vehicle location froze. Moments later we (my wife & I) noticed what we initially thought to be a "shooting star" falling directly in front of our driving direction what appeared to be approx. 1 mile away.  The "falling star" light remained as bright as the planet Jupiter as seen with our naked eyes, as it was falling in the sky adjacent to Jupiter in the southern night sky. The "falling star" was falling at a tremendous speed as we have noticed other "falling stars" in the desert.  This light was traveling straight down as opposed to an angle that other "falling stars" we have previously noticed.  The "falling star" went from a high falling speed from approx. 80 degees above the horizon to an immediate stop approx. 15 degrees above the horizon.  The "falling star" light remained stationary for approx. 1 min.  The light began to move off to the west at a slow but contant speed, similar to the speed of an aircraft and the light began to oscillate with white, red and blue lights.  Using Jupiter in the sky as a point of reference, the light turned to the west of Jupiter where it stopped.  The light then began to travel east, stopped momentarily and then traveled straight up from 15 degrees above the horizon to approx. 40 degrees above the horizon. I have a MS degree from UCLA and previously earned my private pilot's license for single engine aircraft.  I have no knowledge of any aircraft able to maneuver as I witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47874.html](http://www.nuforc.org/webreports/reports/047/S47874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
