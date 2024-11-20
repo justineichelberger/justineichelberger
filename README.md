@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in rockford (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three white triangular objects above cloud ceiling split apart at mach speed 2 times in 5 minutes with light show afterward.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124794.html](http://www.nuforc.org/webreports/reports/124/S124794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ft. Gordon (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>fading lights in formation over Fort Gordonfor the record i'm still not convinced this wasn't just some weird training exercise, but tonight 2 soldiers came up to me when i returned to the barracks after dinner, claiming to have seen "UFO's".  Soldiers had obviously been drinking, but i decided to humor them and listen to their story.  They claimed to have seen 3 reddish-orange lights appear in a triangular formation and a fourth a little ways off that flew around the (clear, dark)sky, and then faded out of sight.  As I was in the process of listening to them, suddenly one pointed at the sky, where I saw a single light had appeared in the sky, it remained stationary and then faded out after 10 seconds or so.  I tried to dismiss as a flare, but then realized their was no noise or smoke trail, and it was too high.  after another two minutes 4 lights appeared, 3 in a line and one lower to the right.  As i watched the furthest right light in the line faded out, just a 5th light appeared on the left side of the line, almost as if a giant cylindrical object was slowly turning. after 15 secs or so this display faded out completely.  myself, the two initial witnesses, and 2 more soldiers witnessed this.  afterwards at roughly 2 min intervals, the single light would reappear. this happened 3 more times or so.Background of reporter:  22 year old male, intelligence analyst for the US Army, completely sober at time of sighting, (am sipping a beer as i write this report however), highly skeptical about aliens, but willing to admit that this was a flying object I could not identify, and am familiar with most of the worlds aircraft due to my job.Location:  Ft. Gordon is the signal center for the US army, lights looked like they were possibly overhead of the new NSA expansion being constructed on post.PS: one guy did videotape incident with his phone, however its such poor quality that lights are not visible, all you can see is people pointing at the sky and yelling.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67039.html](http://www.nuforc.org/webreports/reports/067/S67039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
