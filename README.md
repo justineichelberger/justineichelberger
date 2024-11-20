@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:21 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:47 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Randolph Center (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>4 fiery orange colored orbs in Northern sky. Moved from North to West in a perfectly horizontal manner.  Orbs were pulsing and bright in manner, completely silent though.  Objects were visible for about 15 seconds before disappearing.((NUFORC Note:  Witness indicate "05:40" for the time, but we suspect he/she intended a time of 1740 hrs., 5:40 p.m..  We have amended the time above.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104618.html](http://www.nuforc.org/webreports/reports/104/S104618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>one or two flying crafts, no lightsI was standing on the edge of the san francisco bay, looking at the stars, when i saw something in the sky flying by.  What caught my eye was that there were no lights on it at all--you could only see the ambient light from the city reflecting on it.  It seemed a little weird, and I just shrugged it off.  About five minutes later, I saw it (or another one just like it) again, flying in the other direction, and this time called the attention of a couple of friends to it.   No one had any idea what it might be.  We watched it fly north until it disappeared into the horizon/light pollution/etc.  Waited for another 30 minutes or so, but didn't see it again.  Possibly chevron shaped, possibly oblong/spherical--it was hard to tell because there were no lights on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47867.html](http://www.nuforc.org/webreports/reports/047/S47867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
