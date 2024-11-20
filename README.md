@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:36 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Triangular solid blue light flying over South end of Diablo Range in HollisterNovember 20, 2013 8:00 p.m.Saw triangular solid  neon blue light in the sky over Hollister, CA.  Flying from North to South under the cloud level.  Was there for about 6 to 7 seconds before I lost sight. Was completely silent, moved faster then an ordinary plane but at a constant speed.  Once it was over the south end of the Diablo Range, it spiraled downward twice, then at an accelerated speed disappeared behind the hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104650.html](http://www.nuforc.org/webreports/reports/104/S104650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dunlo (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>it moved about more than 200 mph it was really low to the ground didnt make sound and had lightsme and my dad were coming home from boxing and we were coming in our town when we seen this thing floating in the sky we stared at it and it was less than 20 feet off the ground it took us less than 3 seconds to get to are house and it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33825.html](http://www.nuforc.org/webreports/reports/033/S33825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
