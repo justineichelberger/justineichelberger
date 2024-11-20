@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Woman reports witnessing peculiar lights in W sky, which suddenly disappeared from sight.  Lights "looked round."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01009.html](http://www.nuforc.org/webreports/reports/001/S01009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Nauru (Republic of Nauru) () reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>18 spots of light like fly overnight planes following in the same line same distances apart to wards the same direction13.45pm 20/11/19 Republic of Nauru Report: Went for my morning walk at 4.00am around the Nauru International Airport here in Aiwo District in the Republic of Nauru.After my normal brisk walk of approximately 50 minutes did my usual exercises at a small public park named the Ella Park.Like a few times in the early morning clear sky I lay down face up towards the sky looking for planes which might fly over Nauru towards Australia or to the USA.I do a few times see one, way up the sky flying over Nauru towards may be to Australia.This morning while admiring the view of the thousands of stars in the sky I saw what look like a fly over plane but this one was travelling faster than the normal fly over planes I always watch and there was no flicking lights.This light was travelling towards the direction to the USA and to my surprise I saw 2 and then 1 more and followed by another one and to my surprise there were 6 of them travelling at the same speed and all in line at same distance apart. Still wondering I saw another set of 6 following in the same line at the same speed and another 6 followed to make a total of 18 travelling in the same line at the same speed in the same direction.  The time was about 5.15am here in Nauru in the Northern Pacific.Was just wondering whether similar sightings at the same time was reported.Very interesting and am still baffled.Kind regards</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150876.html](http://www.nuforc.org/webreports/reports/150/S150876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
