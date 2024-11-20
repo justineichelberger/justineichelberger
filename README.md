@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodbury (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Over North Central Vermont:  Three large stationary red lights in a triangle for 15 seconds then simultaneously disappear.3 red lights, about 5x the size of Venus, were in a triangle to the SE of Woodbury VT.  I saw them for about 15 seconds.  They were stationary, then all three disappeared simultaneously.  The distance between them was about a hand width held up, and about 30 degrees above the horizon.  Two on the bottom, one on top equidistant.About 10 minutes later I saw intermittent white flashes that were quite far away.  There were a minimum of two dozen that were concentrated in the SE, covering an area about the width of my hand held out across the horizon.  They were low, about 5 to 10 degrees above the horizon.  Then a single red light, the same as the first three reappeared in the same area of the sky as before between my location a the flashing lights.  It stayed for about 10 seconds then vanished.  I kept seeing the flashing lights spreading outward and upward along the horizon.  They would fade out, then reappear.  I could not count the number, there were many flickering in varios places in a larger and larger area, maybe 3 handwidths.  They became less frequent and faded out.  At first I thought the were UFOs, then I realized that they were probably scrambled fighter jets.At around 17:30, my dog barked.  There was a very low rumble for about 5 seconds.    I could count 5 jets, with the same kind of white flashing lights, traveling from east  to west in different locations to the south of me.  They were close enought to see that they were aircraft.  5 jets in the sky at the same time is unusual here.((NUFORC Note:  We suspect that the correct date of the sighting was November 20th, not October 20th.  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104628.html](http://www.nuforc.org/webreports/reports/104/S104628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Montpelier (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>One bright light, disappeared and reappeared as two, disappeared and reappeared as three then four in a uniform row.One bright light visible for a couple seconds; it disappeared for a couple seconds, reappeared and split into two, disappeared again, then reappeared as three then four in a uniform row southeast of Montpelier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104617.html](http://www.nuforc.org/webreports/reports/104/S104617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
