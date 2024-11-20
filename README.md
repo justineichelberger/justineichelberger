@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Granite Bay (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>spherical rectangular UFO sighting in Granite Bay Roseville over freewayspherical rectangle.3 sets of rotating likes continually rotating around it,not around but top to bottom.Huge...was first way up in sky then shot off then returned and was under it for about 3 miles on HWY 80 going towards airport.Was not a far off dot in the distance was right down close to the freeway.I heard someone call into 107.9 who saw it then I called then about 100 others called in.The lights were in 3 lines and as they came around to the bottom each time there was a short section with no lights..you could see it was rotating because of this.On each side there was another consistent bright light that showed the ends.It flew hovering but then took off then came back...it was right over the freeway so there would have to have been 100s that saw it.It was HUGE!!!!!Someone called in from Vacaville who saw it too and said there was a power surge on her street as it went over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67050.html](http://www.nuforc.org/webreports/reports/067/S67050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dry Ridge (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Noticed something and took a pictureMy son was with myself and my husband. He was in the backseat admiring the storm clouds and noticed something in the clouds. So he rolled the window down and took a picture with his cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165695.html](http://www.nuforc.org/webreports/reports/165/S165695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
