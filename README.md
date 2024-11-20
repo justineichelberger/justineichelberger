@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 20 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in  (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>10:00 pm= I saw 2 pair of lights. moments later one pair disapeared. another moment later I saw the other pair disapear & I saw a air plane fly across the area. 10:13 pm the last pair to leave came back. seconds later while attempting to take a picture it left & I saw another plane fly by10:16 pm might see light(dim[far?]). 10:19 looking for light through binoculars, saw dim light, continued scanning, looked back and saw another light, this one dim too. the first one left when taking picture. gave up at 30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67044.html](http://www.nuforc.org/webreports/reports/067/S67044.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>There was a strange sting of lights,moving from side to side in a circular motion, doing quater turns from left to right and right to left.  The lights stopped for a moment then returned and moved incredibly fast, then returned to the shifting from side to side</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150897.html](http://www.nuforc.org/webreports/reports/150/S150897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
