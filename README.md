@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object moved straight up, left, right then back to centerOn the morning of Nov. 21, 2007 at 5:30 am I witnessed a small diamond shape object in the southern sky over the Crowders Mtn area. The object was hovering along the top of the trees in a distant and then went straight up. It stopped then moved to the right and stopped. Then moved to the left and stopped. Then went back to the center point again an stayed in this position for 10 minutes. The object suddenly disappeared. There were no aircraft in the area, no sounds of helicopters, airplanes, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60057.html](http://www.nuforc.org/webreports/reports/060/S60057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in patchogue village (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>was outside looking up at sky saw fist craft that was smaller and seemed to follow my movements and then take off real fast the 2nd one appeared and started off small and grew with multiple lights this thing was huge took off fast towards water</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150918.html](http://www.nuforc.org/webreports/reports/150/S150918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
