@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Round glowing ball changes shapeOn Nov. 21, 2016, my ex-spouse and myself, were walking by the Ventura, CA, walkway close to the pier when in our stargazing we noticed a brighter light in the sky.  It looked like it stood still then moved and changed colors.  We were watching this about 15 mins when I decided to video record it and the zoom in on it.  I sent this live on Facebook for the 14 mins I recorded this phenomenon.  It really gets strange from minute 7 to minute 6 when it appears to change shape.  We were amazed at the few people that were walking along did not stop and I was too busy to attract anyone's attention to this because I was busy filming.  After 14 mins of recording I dropped my exapouse home, then I returned, and after 7 pm, I noticed it still there.  Review the video and please help me identify what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131484.html](http://www.nuforc.org/webreports/reports/131/S131484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Palm Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Wednesday 11/21/12  9:15 pm my wife called me to the back yard to look at orange-red  ball shaped bright lights moving south bound over the atlantic coast line.They appeared to be at an altitude  of 3000 to 5000 feet (a guess based on my experience as a private pilot) moving at a speed of 200 to 400 mph.  my first thought was a rocket from the cape, but the direction was wrong and shape was round.  The first group of two linear arranged, the next group of 3 approx 4 min. later were in a staggered vertical alignment, at a higher altitude.  Approx. 2 min. later a single fireball passed.  No idea what I witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94714.html](http://www.nuforc.org/webreports/reports/094/S94714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
