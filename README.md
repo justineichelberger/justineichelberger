@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Millsboro (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>White red glowing orb flying west to east at medium rate of speed but faster then any plane I've seen.My mom and I were on the back deck letting the dog out and we saw a glowing circle/oval liked orb glowing bright white/redish color going from west to east,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115510.html](http://www.nuforc.org/webreports/reports/115/S115510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Silent black mass moved silently above residential home, appeared boomerang shaped but video suggests cigar/changing. Moved Southeast.This was posted to reddit.com/r/UFOs for community consideration:My observations:1. This was near perfect ”black” almost matching the night sky. No mounted/visible lights other than moonlight reflection.2. It looked boomerang shaped at first, but I had my back deck light on full blast, definitely interfering with my perception :/3. It appeared to move silently. Though I had heard a typical plane/drone noise and helicopter noises from afar only seconds prior.4. This didn’t trigger any internal reaction from me nor seemed to bother my dogs (they are playing in the video). Definite adrenaline rush though..!5. The actual sighting lasted only about 30 seconds from when I first saw this to when I was only able to see from my phone’s screen/viewfinder.6. NEW: Misc. lights (blinking AND solid lights) were seen before and after this sighting in the general Southeastern location. May prove irrelevant but felt necessary to include. Lights did not immediately appear to be official government vehicle, more likely drones or very distant vehicle.Being mostly uneducated my first thought (besides ”UFO”) was something like a B52 Bomber? I will try to keep my eyes to the sky. I've included the original MOV as well as edited AND negative footage for reference.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165528.html](http://www.nuforc.org/webreports/reports/165/S165528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
