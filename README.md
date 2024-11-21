@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Valdese (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watching movie, cousin got my attention, pointed at craft outside literally floating in the air as if it was on ice. Never changing altitude at about 200 ft.  A light hum .... I swear there is a helicopter so low right now it's caught my attention amidst this crazy morning. I hope we don't sound crazy right now, my hands are still shakin. The craft had3 intense lights shining white, and at the back between the two large lights were three colored lights( blue green and red or red green red) I hope others seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73403.html](http://www.nuforc.org/webreports/reports/073/S73403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Taos/Dulce/Santa Clara (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Weird object of lights in Northern New Mexico that move.1st sighting was in Dulce, NM.  Looked like a bright star, but upon further examination was brighter than all the other stars in the sky.  The lights were multiple changing.  The object would go in weird directions, ascending/descending, figure eights, and finally flying out of the atmosphere.Can be seen from Santa Clara, Pueblo, and Taos area during the night times.  It's usually North East direction in the sky.  Looks like a normal star, but the lights are more vibrant and different than a star. Been seeing it in the sky lately.  Takes awhile but it will eventually move.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143852.html](http://www.nuforc.org/webreports/reports/143/S143852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
