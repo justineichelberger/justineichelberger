@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:36 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Warrior (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object  was like the picture on the home page "During July" except the color was bright white.November 21, 2000 at 5:07AM I looked out my second floor bathroom window facing East and noticed the moon and stars in a clear sky.  I noticed a bright object to the North East traveling in a South West direction that was a very bright white light.  I would estimate the object had to be at an altitude of 8,000 to 10,000 feet and 2 to 3 miles from my viewpoint.   I assumed it was an airplane but the object was going pretty fast, faster than an airpane.  At this point I thought it might be a shooting star but the object had a pulsating bright white light not leaving a trail behind it. The object suddenly stopped for a few seconds then the glowing became very dim and dropped at a slight angle to the ground.  It went out of sight behind the hills and trees for a few seconds then it moved back up to the position it dropped altitude from, began to glow bright again then took off in a climbing direction in the South East direction at a faster speed than before.  It went out of sight in about five seconds. I also noticed two aircraft in the sky at this time.  I know that these pilots had to see this object. I have seen many shooting stars but have never seen one stop, fall to the ground, then return to the sky and take off again.  Got any ideas what I saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14999.html](http://www.nuforc.org/webreports/reports/014/S14999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object moved straight up, left, right then back to centerOn the morning of Nov. 21, 2007 at 5:30 am I witnessed a small diamond shape object in the southern sky over the Crowders Mtn area. The object was hovering along the top of the trees in a distant and then went straight up. It stopped then moved to the right and stopped. Then moved to the left and stopped. Then went back to the center point again an stayed in this position for 10 minutes. The object suddenly disappeared. There were no aircraft in the area, no sounds of helicopters, airplanes, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60057.html](http://www.nuforc.org/webreports/reports/060/S60057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
