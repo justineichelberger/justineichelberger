@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:37 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salt Lake City (north of) (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orb seen from plane flying over northern Utah, Idaho or Oregon Nov. 21, 2015ORANGE BALL OR ORB  On Saturday evening, October 21st, 2015, I was flying from Albuquerque to Seattle.  We left Albuquerque at 4.35 Mountain time, arriving in Seattle at 6.45 Pacific time.Somewhere north of Salt Lake City, looking at the flight path it could have been northern Utah, Idaho or Oregon – I really am not that familiar with the area, I looked out of the window on the left side of the plane, looking to the west.  We were flying, I think, at 36,000 feet.  The mountains were some way below us.  It was dark by that time, but I could see towns and communities lit up and I think there was some light from the moon.  Generally the sky was clear.I suddenly noticed a large, orange ball approaching from the north or north-west, below the plane, travelling very fast to the south or south-east.  It was very steady – glowing with light – lit from within – a bit like a huge ball of fuzzy orange felt!  It soon went behind the engine of the plane – I was sitting near the front.  I can’t begin to assess how big it was – it was far below our plane – I had the impression it was very big.  Many of the pictures I have seen on the Internet show the exact colour – a true orange – and shape and look.I remember there were some mountains overshadowing a small town.  The object was travelling below the tip of the mountains, around the tree line.  The trajectory was unwavering – no other lights to indicate it was a plane or helicopter.  It seemed to me to be travelling way too fast to be a plane.I don’t think I have any more to add.  I didn’t have anyone beside me to verify and it all happened so quickly.  I wonder if you have any more reports from passengers on the plane.   Being my first trip to and from Albuquerque to visit my daughter, I was very interested in looking out of the window all the way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124325.html](http://www.nuforc.org/webreports/reports/124/S124325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arroyo Seco (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>traveling fire ball in the sky.My family and I were having dinner and I was looking out the window as I am eating.  I see a bright orange light traveling slowly towards our direction.  I could tell it was no helicopter or plane.  My husband and I stood up to go see it.  It was right above us.  It looked bright orange like a fire.  We took pictures and studied it.  My sister and granddaughter were next door watching it.  My sister thought it was going to land and told her granddaughter to go inside.  The burning light took a different direction towards the Valdez mountain and then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104678.html](http://www.nuforc.org/webreports/reports/104/S104678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
