@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:36 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lindsay (NE) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Eight big, bright lights in a rowDriving north there were 8 brights lights in the sky.  At first I checked to see if they were lights in a field but my view was too high as I was driving.  As soon as I slowed down one by one they disappeared.  They were in a long line and it gave me the feeling of something big because of their size and brightness.  This is the second occurrence that I have had in the last 10 years.  The time before I thought  something was going to land on the highway as I was driving and then the lights moved up and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150916.html](http://www.nuforc.org/webreports/reports/150/S150916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Warrior (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object  was like the picture on the home page "During July" except the color was bright white.November 21, 2000 at 5:07AM I looked out my second floor bathroom window facing East and noticed the moon and stars in a clear sky.  I noticed a bright object to the North East traveling in a South West direction that was a very bright white light.  I would estimate the object had to be at an altitude of 8,000 to 10,000 feet and 2 to 3 miles from my viewpoint.   I assumed it was an airplane but the object was going pretty fast, faster than an airpane.  At this point I thought it might be a shooting star but the object had a pulsating bright white light not leaving a trail behind it. The object suddenly stopped for a few seconds then the glowing became very dim and dropped at a slight angle to the ground.  It went out of sight behind the hills and trees for a few seconds then it moved back up to the position it dropped altitude from, began to glow bright again then took off in a climbing direction in the South East direction at a faster speed than before.  It went out of sight in about five seconds. I also noticed two aircraft in the sky at this time.  I know that these pilots had to see this object. I have seen many shooting stars but have never seen one stop, fall to the ground, then return to the sky and take off again.  Got any ideas what I saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14999.html](http://www.nuforc.org/webreports/reports/014/S14999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
