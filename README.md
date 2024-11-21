@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in patchogue village (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>was outside looking up at sky saw fist craft that was smaller and seemed to follow my movements and then take off real fast the 2nd one appeared and started off small and grew with multiple lights this thing was huge took off fast towards water</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150918.html](http://www.nuforc.org/webreports/reports/150/S150918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Valdese (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watching movie, cousin got my attention, pointed at craft outside literally floating in the air as if it was on ice. Never changing altitude at about 200 ft.  A light hum .... I swear there is a helicopter so low right now it's caught my attention amidst this crazy morning. I hope we don't sound crazy right now, my hands are still shakin. The craft had3 intense lights shining white, and at the back between the two large lights were three colored lights( blue green and red or red green red) I hope others seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73403.html](http://www.nuforc.org/webreports/reports/073/S73403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
