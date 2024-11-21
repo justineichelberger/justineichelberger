@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Linthicum (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 close and slow moving ? flaming objects high in atmosphere, moving southerly toward a common focal point--mid-Atlantic/BWI regionNovember 21, 2014, 4:55pm (EST)  Report of odd sighting in southwestern sky near BWI airport, in Maryland—Cluster of 3 slow moving, illuminated objects high in atmosphere, had not a dual but bifurcated short tail—hence they did not look like aircraft.  All three lit objects moving south but almost toward each other to some focal point?  They appeared too close to each other to be airplanes; moving in a southerly direction.  Head of each moving object appeared wider than an aircraft.  No audible noise noted.Please help us figure out what they were!  Thank you!((NUFORC Note:  We have responded to the witness, inquiring whether the objects might have been aircraft, with contrails streaming out behind them.  Her description makes us wonder whether they might have been high-altitude aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115518.html](http://www.nuforc.org/webreports/reports/115/S115518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Abingdon (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>About 6 very bright lights in skyWhite lights that looked almost LED, there were in a triangle shape and did not look like they were moving. We watched as we got off the interstate ramp to stop and get a picture and loss sight for less than 1 minute. Once we were able to see the location where they were, they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165521.html](http://www.nuforc.org/webreports/reports/165/S165521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
