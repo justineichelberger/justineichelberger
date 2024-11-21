@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Forney (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Stars don't moveSaw an object that looked like a star but was a different color to any star I've ever seen.  It was amber in color and moved in a circular pattern.  Kept watching and it would get closer the further.  The circular object that we observed moved also back and forth.  The sky was clear 61 degrees outside. We took photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160734.html](http://www.nuforc.org/webreports/reports/160/S160734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kingman (near; in Mohave Desert ) (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>6 LARGE GLOWING PLASMA ENGINES OVER HEAD   While driving here from the grand canyon near Kingman AZ I saw a giant craft that had 6 large rectangle panels on the back end that were glowing blue white like plasma, it looked like the Milinum Falcon from star wars, that's what   First I saw sparkle on the bottom of the craft, that caught my eye as it moved over my car.  Then I saw 2 rows of 3 large rectangles of blue white glowing light.Each rectangle could have been house size.  They appeared to be at the rear of the craft as it moved away from me.  This reminded me of the Star Wars movie and the engines of "The Millennium Falcon". It was amazing how big this looked to me, I said out loud to my self, "I hope its one of ours".I had just come from the Grand Canyon and was driving almost due West on I40 toward Kingman AZ.  I had just passed US93 when I saw the electrical sparks through my windshield to my right.  It was flying along very slow for a jet and it had a ball of light traveling below it near the ground at the same rate of speed.  You can see the ball in the first few frames, might be a reflection too.I grabbed my video camera and while driving started taping.  In the beginning I passed a freeway sign, Blake Ranch Rd. Exit 1 mile.  I recorded until just after I pass the exit, the craft was to far away, maybe 3 or 4 miles.  It would have passed over the Kingman Airport or very close.When I played the tape later in Kingman, the time code showed I had traveled that one mile in 32 seconds!  No freaking way, I would have had to be going over 100MPH.  My car is 20 yrs old and was packed full, I was moving to San Diego, I was going up hill, no way could doing even 100 mph in that car.  Was I in a time warp of some kind?   I tested the camera and nothing wrong there.  I posted the video on Youttube, but its just shaky lights due to being hand held.  I also posted this report before but it must have been taken down!  Web video:  http://www.youtube.com/watch?v=8a2HQXID9L0((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((ADDENDUM FROM SOURCE OF REPORT))I DIDN'T GIVE MY NAME OR CONTACT INFO BECAUSE OF WHO I WORK FOR!PLUS WHILE GOING THROUGH MY CLEARANCE MY COMPUTER WAS HACKED AND MY MAIL READ, AND IF THEY WANT TO DO THIS THEY CAN.OR AM I JUST PARANOID?11/21/08 NEAR KINGMAN AZ((END ADDENDUM))((NUFORC Note:  We have watched the video, a link to which appears above, and the footage is ambiguous.  It shows a light in the sky, and little more, we observe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75853.html](http://www.nuforc.org/webreports/reports/075/S75853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
