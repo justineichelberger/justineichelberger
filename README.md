@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:09:02 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vinita (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a bright cigar shaped object hover in the sky, then speed off away from me at a very high rate of speed.I was sitting in my living room, when I heard an ultralight aircraft flying over. I went to the front doorto view the u/l aircraft. Observing the aircraft, I noticed a bright cigar shaped object hovering behind the u/l. I went outside to get a better look at the object. When I got outside, I had a good view of the object, & it continued to hover behind the u/l aircraft for a few seconds then it traveled away from me at a very high rate of speed. (faster than any aircraft I have ever seen).I watched as the ufo got smaller as the ditance increrased.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26353.html](http://www.nuforc.org/webreports/reports/026/S26353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Round glowing ball changes shapeOn Nov. 21, 2016, my ex-spouse and myself, were walking by the Ventura, CA, walkway close to the pier when in our stargazing we noticed a brighter light in the sky.  It looked like it stood still then moved and changed colors.  We were watching this about 15 mins when I decided to video record it and the zoom in on it.  I sent this live on Facebook for the 14 mins I recorded this phenomenon.  It really gets strange from minute 7 to minute 6 when it appears to change shape.  We were amazed at the few people that were walking along did not stop and I was too busy to attract anyone's attention to this because I was busy filming.  After 14 mins of recording I dropped my exapouse home, then I returned, and after 7 pm, I noticed it still there.  Review the video and please help me identify what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131484.html](http://www.nuforc.org/webreports/reports/131/S131484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
