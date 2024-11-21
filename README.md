@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Branford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Yellow streak falls into structure for split secondcorroborated by myself and another witness in vehicle,  we watched for a split second a dense yellow streak fall towards an onlooking building.  Large in size and disappeared into the building structure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124250.html](http://www.nuforc.org/webreports/reports/124/S124250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hatboro (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>While filming 2 Fighter Jets, an object appeared in frame headed toward one of the Fighter Jets.While filming two Fighter Jets, an object appeared. The object traveled toward one of the Fighter Jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165541.html](http://www.nuforc.org/webreports/reports/165/S165541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
