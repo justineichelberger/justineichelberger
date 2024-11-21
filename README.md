@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Abingdon (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>About 6 very bright lights in skyWhite lights that looked almost LED, there were in a triangle shape and did not look like they were moving. We watched as we got off the interstate ramp to stop and get a picture and loss sight for less than 1 minute. Once we were able to see the location where they were, they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165521.html](http://www.nuforc.org/webreports/reports/165/S165521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Millsboro (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>White red glowing orb flying west to east at medium rate of speed but faster then any plane I've seen.My mom and I were on the back deck letting the dog out and we saw a glowing circle/oval liked orb glowing bright white/redish color going from west to east,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115510.html](http://www.nuforc.org/webreports/reports/115/S115510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
