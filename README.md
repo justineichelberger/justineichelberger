@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:32 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:02 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morgan hill (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.23333333333333334 - 0.23333333333333334 minutes.</sub><blockquote><sub>Woke up at 23:00 to watch our unicorn meater shower .was out side for a fue mine smoked a cig.then laid in lounge for a fue mor min i got colder so I got up to go inside .that's when I saw 3 red lights in a row above the mountain where the sun sets in our city .it appeared as though it were a semitruck.drive to sanjose.and the lights turned off o e at a time as tho it were passing behind a building.it was dark and difficult to make out except for the lights.just after the lights went out I saw  an actual semi go buy on the free way the opposite way...the lights were yellow/orange and on the ground well very close to it .my mind was and still is confused because the object /or objects.i firstsaw would  have had to of been the size of a football field. To have been as high up as I thought  to have saw it. It was dark the sky was clear and I do believe I'm a witness to a UFO sighting. In my citty.thers no road stop the mountain I saw  it on besides that there n! o road large enough to fit what i saw. Well not on this planet anyway....thanks i hope to see something on this..many i was the only one to see it...remember happy wife happy ljfe... good tidings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150923.html](http://www.nuforc.org/webreports/reports/150/S150923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vinita (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a bright cigar shaped object hover in the sky, then speed off away from me at a very high rate of speed.I was sitting in my living room, when I heard an ultralight aircraft flying over. I went to the front doorto view the u/l aircraft. Observing the aircraft, I noticed a bright cigar shaped object hovering behind the u/l. I went outside to get a better look at the object. When I got outside, I had a good view of the object, & it continued to hover behind the u/l aircraft for a few seconds then it traveled away from me at a very high rate of speed. (faster than any aircraft I have ever seen).I watched as the ufo got smaller as the ditance increrased.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26353.html](http://www.nuforc.org/webreports/reports/026/S26353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
