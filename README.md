@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:26 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:28 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light turned red and dissappreaed, later a "wave" of small lights from the same spotOn November 22, 2008 at 18:10 Central time myself, a preschool teacher and both of my parents, a nurse and a small business owner, were outside and witnessed a very big and very bright white light moving in the sky.  It moved from west to north-east and suddenly turned red.  Then seemed to accelerate rapidly and vanish from sight.  We live within two miles of Epply Airfield and have seen a lot of airplanes and this was no airplane.  It was a solid white light, silent and moving very rapidly before it turned solid red and disappeared.About 20 minutes later I was still outside looking for something else to happen when I saw what could only be described as a wave come from the spot that the light disappeared.  It came from one spot and spread out only going both directions horizontally.  It looked almost like a flock of birds but it was going in two different directions and was moving very fast.  There was no sound to it and I lost sight of it over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67090.html](http://www.nuforc.org/webreports/reports/067/S67090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in  (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Craft lit up the night sky and made it look like daylight.Driving East on I-70 near 132 mile marker.  A craft shaped like a giant capital I on its side arose from behind a hill and drifted very slowly over I-70 headed North.  Bright white lights completely around the entire craft lit up the sky like daylight.  Several cars stopped as the craft continued to drift slowly then as the craft got over a large field it shot straight up into the sky and was gone.  I would have reported this decades ago, but just found this site.  Don't blame you if you don't accept this since it has been so long ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154657.html](http://www.nuforc.org/webreports/reports/154/S154657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
