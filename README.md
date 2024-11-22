@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:07 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bowling Green (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>We notice a light in the night sky that seems to look like a star but twinkles in different colors ranging from a blue to green and a red flashing. were not sure if this is? possibly it's a man made object that's reflecting or a unknown? it does not seem to have moved in the sky for over an hour. it's presently located just southeast of the big dipper in the sky, but quite abit briter. the sky as a whole is very clear this night with some shooting stars in the same direction and we can see local air traffic flying below it.((NUFORC Note:  Probably a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53547.html](http://www.nuforc.org/webreports/reports/053/S53547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ashland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object directly overhead (far), bright red with yellow center, hung in fixed position for a few mins then moved and went darkI live in Ashland, Oregon, about 2500 feet altitude, a little away from the center of town but close enough that others should have seen this.It was about 6:30 Thanksgiving night, Nov 22.  I had just arrived home and took my dogs into my yard. It was dark by that hour, and there was a bright half moon (more or less).  I happened to look up at the moon and noticed an unusual light in the sky, directly above me (about 90 degrees from ground).  Had I not been looking straight up, I probably would not have noticed it.  There was no sound whatsoever.  My dogs did not seem to notice anything unusual.It was perfectly round, a bright red circle with yellow in the middle, about the size of, maybe, ten stars.  I thought it looked like a cheese wheel--that was the best thing I could think of.  But it was two concentric colors--an outer red ring and a small yellow center, though there was no border nor "dithering" between the colors.  It stayed fixed in the sky for a few minutes. It did not move up, down, left, right, near or far. In my mind I ran through the possibilities--I believe in UFOs but I'm scientific.  Not a plane.  Not a helicopter.  Not a satellite, space station, meteor, comet, weather balloon.  I thought that the only scientific thing I could think of would be a nova or supernova--something that had exploded in space and hangs in a fixed position.  It was in one spot long enough that, after observing for a couple of minutes, I ran back into my house and called a friend--the only one I knew for sure would be around.  I asked him to get outside to check it out. It took him about a minute or two (it had already been in the sky for a few mins) and right at that point, it surprisingly started moving,  towards the north/northwest. It did not seem to get higher or lower and didn't move like a plane or copter. At that point, it disappeared! Not because it moved out of site, but it just went dark. There was no cloud cover in the sky. My friend never did see it as he got out there just a few seconds too late.[Investigator does not need to contact to me, but do feel free to be in touch, if you'd like.]</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94836.html](http://www.nuforc.org/webreports/reports/094/S94836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
