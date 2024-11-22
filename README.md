@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:01:26 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Vindoen Island (Sweden) (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>BIG-one kilometer wide Yellowlighted UFO-Discusform-perfect shape1971-22november-20:05-20:14 in the Evening-999meters of Diameter,hoovering above sealevel 60-80meters.Yellow Light Bright Color-homogenelight-cold light-behind the Vindoen Island,hoovering a Bridge over,Noethesund Bridge,from a Misty cloud-apearing as from another Time-just out of the Mist-Cows/birds stopped singing&roaring.4 children (9-7years old,cousines) on the mainland beach-looked up thought it was the Moon at firsth-but MUCH bigger, covering the sky totally in the night...Me and the driver of the Car-volvo PV444-1964model, blue, and three more persons in the car, coming from southern parts of Orusty Island-City of Henoen-SWEDEN..The Radio gave a "hizzing sound",and the owner and driver of the car was immediately on his watch for something extraordinary-minutes before we saw it...When it started and went East-turning North and not level so much more beyond 200-400meters from starting piont,I t seemed to scan the area...when starting-FLASHING blending White light-that stopped Engine of the Car and the Lights in Vindoen Island Tunnel-going Esterly direction-changing light to Orange-disapearing-Red-Disapearing,and blue and disapearing-invisible between color changings-UNDERNEATH bluish colored lightning sparks-like CD in Microwaveowen-Flowery patterned bottom...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53657.html](http://www.nuforc.org/webreports/reports/053/S53657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light turned red and dissappreaed, later a "wave" of small lights from the same spotOn November 22, 2008 at 18:10 Central time myself, a preschool teacher and both of my parents, a nurse and a small business owner, were outside and witnessed a very big and very bright white light moving in the sky.  It moved from west to north-east and suddenly turned red.  Then seemed to accelerate rapidly and vanish from sight.  We live within two miles of Epply Airfield and have seen a lot of airplanes and this was no airplane.  It was a solid white light, silent and moving very rapidly before it turned solid red and disappeared.About 20 minutes later I was still outside looking for something else to happen when I saw what could only be described as a wave come from the spot that the light disappeared.  It came from one spot and spread out only going both directions horizontally.  It looked almost like a flock of birds but it was going in two different directions and was moving very fast.  There was no sound to it and I lost sight of it over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67090.html](http://www.nuforc.org/webreports/reports/067/S67090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
