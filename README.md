@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 21 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hatboro (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>While filming 2 Fighter Jets, an object appeared in frame headed toward one of the Fighter Jets.While filming two Fighter Jets, an object appeared. The object traveled toward one of the Fighter Jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165541.html](http://www.nuforc.org/webreports/reports/165/S165541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three Red Glowing Lights Seen Over Gilbert, AZ - Moving and flashing making a triangular formation before vanishing.3 of my teenage children and myself were getting into the car to go to the store when we witnessed 2 red lights that seemed to be intermittently twinkling.  We continued to watch the red lights and a third smaller one appeared, at which point all three lights became steadily lit and stopped twinkling.  They were in a half circle formation initially, but as the began to glow steady, they moved into a triangular formation.  Then one of the lights that was the smallest, located at the bottom left corner of the formation began to dim, and continued to dim until it completely vanished.  The red light on the bottom right of the formation became brighter, then moved more to the right and began to flash and grow dim as well, until it too, vanished completely.  The red light at the top of the triangular formation- the only light left, became brighter and continued to glow red and steady as it moved higher and higher into the sky until it was gone, just like the other two red lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143869.html](http://www.nuforc.org/webreports/reports/143/S143869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
