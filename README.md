@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Caro (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangle shaped object the size of 4 to 5 747 airliners with four glowing engines, or lights on each leading side of craft that made noTriangle shape, could see for 5 seconds before it was out of sight. I would guess it to be the size of 4 to 5 747 airliners. It had four glowing engines, or lights on each leading side. It made no noise at all!((NUFORC Note:  Illustration received from witness.  Illustration indicates an isosceles (equilateral) triangle, with four sizable luminous sources of orange light on the "leading" edge of the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20607.html](http://www.nuforc.org/webreports/reports/020/S20607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Clara (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Southern Utah sceptic reporting cloaking UFO in hopes someone else saw itSometime between 9pm and 11 o'clock pm, I saw this semi close or low to the ground un-identified flying object.  The UFO was silent and had three dim lights in a straight row. Visually it appeared about the size of a dime or nickel making this my first and closest appearance.  I know it wasn't a plane as it's proximity to the ground would have been audible.  It seemed to cloak rather than speed off.  It went dark in a area of clear sky well below any horizon.  Not a satellite.  My explanation for this is usually a reflection from the moving horizon sun on a satellite.  I can't use this excuse here.  Too cold outside to be  reasonably a drone user.  Too high as well.  It was 52 degrees outside.  It had rained that morning with thunder and lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131435.html](http://www.nuforc.org/webreports/reports/131/S131435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
