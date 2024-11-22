@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:44 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:51 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Observation of large, illuminated triangle-shaped craft passing over city as we were traveling to HospitalMy daughter and I were on the way to the Hospital emergency room, as she was having a migraine that we could not get under control at home. We were traveling South from Ames Avenue on 60th Street when we noticed a set of lights proceeding North / North - West, fairly low in the sky. At first, we didn't think anything of this, as we live near a major airport, and this would not be an unusual approach for an aircraft heading for a landing. As it got close, however, my daughter said that it seemed odd that there were no strobe or red / green lights typically seen on planes that go by. All this one had was a series of white lights, of equal amplitude, that seemed to be spaced out all along and around the edges of the object. Even though she had a migraine, this was so strange that she asked me to turn off the road we were on and West, just so we might catch a better look at the object as it passed overhead. We did this, quickly, and were almost directly underneath the object as it moved on its North / North-West path. There were no airplane engine sounds, and more important, we could not see any fuselage. The object was triangular in shape, and there were lights along the edges and at the corners. We watched as it moved out of sight...never making the 'turn' to the East that one would normally expect an airplane heading for Omaha's airport to make. We then went on to the Hospital.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15027.html](http://www.nuforc.org/webreports/reports/015/S15027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Salem (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The Curtain Call.We saw this tremendous object. About 100 foot across and not very high up. It looked like a brown, undulating curtain that was rather thick. It was noiseless and disappeared after a while. The dogs were barking at it.There's this satelite or something to the south-west of my place. When this thing passed by, this other object blazed up like it as on fire. (It has never done this before.)I contacted Nasa about it but they've not had time to get back on it (if they will). The closest I could find in similarity was a trifid nebula but those are WAY up there and we were watching this with nothing other than the naked eye. Alien or no. It was pretty awesome! P.S. There was a giant silver pinball thingy around the same area, too, a few days ago. A jet was trailing it. So, I could do a visual size estimate. The ball thing was monsterous. Yet, both passed behind some clouds and I only got to watch for about 6 minutes.We have always seen weird sky things for years. Scott Airforce Base is about a 2-3 hour drive from here. Most of the stuff is probably theirs (even though it's odd looking). Yet, some of this stuff is pretty far out.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48176.html](http://www.nuforc.org/webreports/reports/048/S48176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
