@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:24 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>one bright light moving fast across the night sky suddenly stopped. it sat at the same spot for about 30 seconds the it shot sraight up into the night sky getting dimmer and dimmer until it was no longer visable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54434.html](http://www.nuforc.org/webreports/reports/054/S54434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Athens (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shape object moving silently passed directly over my head.Driving a familiar route just outside of the city, around nine in the evening I noticed a light in the sky. At first sight I thought of  an antenna light, but this light was much too bright.As I approached the end of the road I was on I realized that the light was very close. I was at a "T" section where the road I was on ended at a small county road. There’s a house directly across from where I was stopped at the stop sign.The light looked to be directly over the house. I thought it looked kind of like the house owners had installed a flood light on an antenna, but the light was much too bright it looked as if it were a couple hundred feet above the house at most.. I got out of my car to study the light. The light the slowly rose maybe another hundred feet or so stopped climbing and began to move forward towards me at a very slow rate. As the light passed directly over me I could make out the shape, it had 3 points that I could make out (like a 3 point star) with a few dimmer lights on the underside of it. The bright light that I had been seeing seemed to be on the front side of the object pointing straight ahead. The object was only a few hundred feet above me at most. There was absolutely no sound what so ever from the object.The object continued on its course for about a minute when it suddenly changed direction and speed away at a very high rate of speed. It was out of my sight in a matter of seconds.I am very familiar with civilian aircraft as well as many military aircraft. I have never seen anything remotely like this, or any aircraft that was so completely silent.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56385.html](http://www.nuforc.org/webreports/reports/056/S56385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
