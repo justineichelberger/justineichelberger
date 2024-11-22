@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in  (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The object came from my right, flying low, silent and slow, and vanished in front of the moon.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148661.html](http://www.nuforc.org/webreports/reports/148/S148661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Vindoen Island (Sweden) (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>BIG-one kilometer wide Yellowlighted UFO-Discusform-perfect shape1971-22november-20:05-20:14 in the Evening-999meters of Diameter,hoovering above sealevel 60-80meters.Yellow Light Bright Color-homogenelight-cold light-behind the Vindoen Island,hoovering a Bridge over,Noethesund Bridge,from a Misty cloud-apearing as from another Time-just out of the Mist-Cows/birds stopped singing&roaring.4 children (9-7years old,cousines) on the mainland beach-looked up thought it was the Moon at firsth-but MUCH bigger, covering the sky totally in the night...Me and the driver of the Car-volvo PV444-1964model, blue, and three more persons in the car, coming from southern parts of Orusty Island-City of Henoen-SWEDEN..The Radio gave a "hizzing sound",and the owner and driver of the car was immediately on his watch for something extraordinary-minutes before we saw it...When it started and went East-turning North and not level so much more beyond 200-400meters from starting piont,I t seemed to scan the area...when starting-FLASHING blending White light-that stopped Engine of the Car and the Lights in Vindoen Island Tunnel-going Esterly direction-changing light to Orange-disapearing-Red-Disapearing,and blue and disapearing-invisible between color changings-UNDERNEATH bluish colored lightning sparks-like CD in Microwaveowen-Flowery patterned bottom...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53657.html](http://www.nuforc.org/webreports/reports/053/S53657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
