@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Two lights, three lights, four lights, gone!I was driving behind my wife on Butterworth.  We turned onto O’Brien St and I was instantly drawn to two lights in front of me in the distance.  At first I thought they were car lights but soon realized they were up in the sky.The next thing that came to mind was a plane with its landing gear down and lights on. There just seemed to be something odd about them though.  There was no red and they weren’t blinking at all.  Just two bright white, almost blue lights.  As big as the lights were, if it were a plane I think I would have seen it moving.Now I’m thinking a brand new cell tower.  As I got to where they were almost to my side up in the sky, I slowed the vehicle way down almost to a stop and looked for the tower itself.  Realizing it was way too dark to see a tower at night, I focused back up on the lights again. Now there were three lights, all the same, in a triangular pattern.I am now at a complete stop in the middle of the road intrigued by these lights.  I decide to pull up off the road and am trying to do so without taking my eyes of the lights but have to look away to pull over.  When I look back there are now four lights in a nonsymmetrical diamond pattern.  Kind of like one end was stretched way out.I am at a complete stop with my window down.  The lights are at a stand still too when all of a sudden they move a long distance in a second and stop again and then start slowly moving.  Now I know this is not a plane and I am thinking it’s not a helicopter.  I think if a helicopter were to move  like that the lights would have had to tilt.  They didn’t.  They always stayed in the same plain.  My wife’s phone call wondering if everything was OK broke my gaze on the lights.  When I looked up for them again I couldn’t find them.  They were gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104684.html](http://www.nuforc.org/webreports/reports/104/S104684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Letting the dog out, I looked up and saw a barely able to be seeing triangular shape of lights moving across the sky from north to south.  Had just seen two airplanes flying high in the sky.  And after they were no longer visible to be seen i saw the triangular shape go across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124294.html](http://www.nuforc.org/webreports/reports/124/S124294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
