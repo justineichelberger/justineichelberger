@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Atkinson/Kingston (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large, bright claw-shaped object encountered below cloud cover with noticeable effect on electromagnetic spectrum.At 4:17 on 11/22/2016 on Route 111 in Atkinson, New Hampshire, below a cloud cover, hovered an unknown, potentially hazardous object. The object, initially appearing to be a star or planet, emitted a strong white light.  It would have been impossible to determine this object as a star or planet as the sun was in full shine and the object was against the backdrop of the cloud cover.	While first being obscured by the powerful luminescence it emanated, a witness travelled on the road, growing closer to the object.  To the witness, this craft was nearly indistinguishable from the altitude of approximately 3,300 feet above sea level. However, what appeared to be a metallic object with the shape of  4 claw-like arms emitting a white light became apparent as the witness drew closer.  Approximately 5 minutes after the initial sighting, the craft accelerated at an extraordinarily fast speed directly up into the cloud cover.	The witness’s motor vehicle was temporarily incapacitated by what appeared to be the movement of the craft.  Lights, heating systems, and windows ceased function for 11 seconds.  There was no apparent stalling of the engine.	15 minutes later, near the junction of South Road, Brentwood, and Exeter Road, Exeter, the object reappeared to the same witness, this time in much closer vicinity, approximately 1,000 feet above the ground.  The shape of the object was not of human design that we know of. Four appendages, each extending from a single circular base, formed a claw shape, with each “claw” pointing downwards at the surface.The object was a silvery-black metallic color, and pulsed several times with white lights.  At this point, malfunctions in most systems of the car began to occur.  Heating was cut, electricity went dead, and the engine stalled as the car pulled to a stop.  At this time, there was nobody else on the road.The witness noticed a strange, constant howling noise coming from the craft, almost like an animal scream combined with the running of a jet engine.  The object or craft hung over the road for several more seconds, before shooting up into the sky with what sounded like a sonic boom, or a similar explosion sound.  Directly after the object disappeared, the car’s systems rebooted and the witness continued on his way home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131413.html](http://www.nuforc.org/webreports/reports/131/S131413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in  (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The object came from my right, flying low, silent and slow, and vanished in front of the moon.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148661.html](http://www.nuforc.org/webreports/reports/148/S148661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
