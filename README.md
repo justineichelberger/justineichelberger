@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:22 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ballina (Republic of Ireland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large metallic disk in Irish countrysideIn broad daylight a metallic disk appeared from behind Mount Neiphin and travelled silently but at huge velocity across countryside in s-pattern before ascending vertically into clouds .Witnessed by at least 5 people including a Garda (police officer) but it is likely that more may have seen it,however area is sparcely populated.We wish to remain anonymous to avoid local ridicule,however we will helpout if more witnesses come forward.I am a high school teacher and others are shop owner, electrician and a student.Object was about 20 metres in diametre.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15004.html](http://www.nuforc.org/webreports/reports/015/S15004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>one bright light moving fast across the night sky suddenly stopped. it sat at the same spot for about 30 seconds the it shot sraight up into the night sky getting dimmer and dimmer until it was no longer visable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54434.html](http://www.nuforc.org/webreports/reports/054/S54434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
