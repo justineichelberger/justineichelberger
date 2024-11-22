@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a triangular aircraft that hovered approx. 25 yds above trees with a orb of white light, then the white light went green and left.UFO encounter happened on a backroad right outside the Lake Charles in the southern region of Calcasieu parish. It occurred at a stop sign in front of a cow field, November 22nd of 2018, at exactly 9:45p.m.. I was heading back to my house from my family’s thanksgiving party and my girlfriend was with me when we were at a stop sign and saw a white orb like light hovering about 25 yards above a tree line in the back of a cow field.  We were to notice the white light was being emitted from a dark pyramid/triangular like aircraft and within 10 seconds the white light changed into a burst of green light and with the burst the aircraft vanished.  Later that night at my house, I asked my girlfriend what she could remember.  She said there was an outline of a triangular shape with light coming from the base, then there was a ball of green light and the figure disappeared.  We tried to see if it matched the description of any military aircraft but the research came up em! pty mainly due to the way it hovered and the white and green ball of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149578.html](http://www.nuforc.org/webreports/reports/149/S149578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular craft with five large round lights on underbelly - silent, slow and low flyingLarge, almost equilateral triangular craft; Five very large, round white lights on underbelly in logical formation (one at nose, two under each "wing"); slow, low and flying in SW direction over Friendly Shopping Center in Greensboro, NC.  No red/green oncoming lights, no white tail light.  No noise whatsoever.  Very low and totally silent.  My description is virtually identical to the 11/29/00 siting in Sherwood, OR.  No strobes or flashes.  I contacted air traffic control - no radar for that part of the town at that low altitude.  Military? How do I connect with readers who may have seen a UFO I (along with 12 others) sited in Yosemite in October of 1982?  It was a blue saucer that cruised in and hoovered on the south side (unfamous side) of Half Dome for an hour then flew off as the same way it cruised in - zig zags and bursts of speed instantaneously.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15459.html](http://www.nuforc.org/webreports/reports/015/S15459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
