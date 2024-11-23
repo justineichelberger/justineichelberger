@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light objects in central CaliforniaI went to check mailbox early in the morning and noticed what looked like a satellite tracking through the sky. I watched it for a few second and notice another object behind it, and then another appeared. There ended up to be 15-20 objects tracking in a straight line across the sky. They had the same appearance as a satellite in the early morning before the sun comes up, how you can only see them in a certain part of the sky because the not yet risen sun is shinning on them. They appeared in the southeast sky and and lost illumination in the northeast sky. I thought that was odd because of the orientation of sun in the early morning will usually illuminate satellites all the way into the southern sky. Anyway, I shot some video with my cell phone, but it came out real grainy of course. I tried to theorize what it possible could have been, at the time I thought maybe a meteor or some string of satellites. Meteor would be out of the question though because all! the objects were uniform in size and there was no flare like activity and they were illuminating themselves or reflecting the sunlight. The whole event lasted for about ten minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151017.html](http://www.nuforc.org/webreports/reports/151/S151017.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>70+ chevron-shaped aircraft, approx. 40,000`, flying from northeast to southwest over Half Moon Bay, CA, like someone opened up at box and they all escaped out of it. No sound. No contrails or chemtrails. All white. Several "stalled" or "stopped", then surged forward at a greater velocity than the others. A commercial jet airliner flew approx. 20,000 ft. beneath them, making usual noise. Asked others on the beach to look at them...they didn't want to be bothered.I pretty well covered it above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11128.html](http://www.nuforc.org/webreports/reports/011/S11128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
