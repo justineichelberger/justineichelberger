@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:28 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>THE OBJECT CHANGED COLOURS OVER NYC & N.J. IN HEAVY AIR TRAFFIC. MID. AFTERNON.AT ABOUT 4:45 PM (est)   I WAS WALKING TO MY APT. IN THE N.Bergen, N.J AREA, LOOKING TOWARDS THE EAST, NYC.  NOTICED A PEARL COLOUERD OBJECT MOVING SLOWLY IN THE SKY, CLOUD ALTITUDE LEVEL/CUMULUS/C2 AT THIS TIME OF THE DAY, AIR TRAFFIC FROM NYC IS HEAVY.  I FOCUSED MY EYES ON THE OBJECT, MOVING FROM EAST TO WEST IN THE SKY.  THE OBJECTED CHANGED COLOURS WHEN PASSING IN FRONT OF A CLOUD, IT TURNED FROM PEARL TO A GOLDEN FIRE PEARL.  WHEN IT CLEARED THE CLOUD BACK INTO THE BLUE SKYS,  IT TURNED BACK TO ITS PRIER PEARL COLOUR.  THEN IT DISAPPEARED INTO CLOUD.  MY OBSERVANCE OF THIS OBJECT LASTED 4 MIN.((NUFORC Note:  Date is defective.  We have assigned temporarily an arbitrary date, and requested an accurate date from the witness.  Witness provides e-address, but it seems to be defective.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80565.html](http://www.nuforc.org/webreports/reports/080/S80565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange light objects in central CaliforniaI went to check mailbox early in the morning and noticed what looked like a satellite tracking through the sky. I watched it for a few second and notice another object behind it, and then another appeared. There ended up to be 15-20 objects tracking in a straight line across the sky. They had the same appearance as a satellite in the early morning before the sun comes up, how you can only see them in a certain part of the sky because the not yet risen sun is shinning on them. They appeared in the southeast sky and and lost illumination in the northeast sky. I thought that was odd because of the orientation of sun in the early morning will usually illuminate satellites all the way into the southern sky. Anyway, I shot some video with my cell phone, but it came out real grainy of course. I tried to theorize what it possible could have been, at the time I thought maybe a meteor or some string of satellites. Meteor would be out of the question though because all! the objects were uniform in size and there was no flare like activity and they were illuminating themselves or reflecting the sunlight. The whole event lasted for about ten minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151017.html](http://www.nuforc.org/webreports/reports/151/S151017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
