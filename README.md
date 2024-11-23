@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:25 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:25 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pearland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>0230 Light sighted in the southern sky near Banbury Cross Subdivision. Appeared to be a spherical shape and was still like a star.0231 Object moved closer toward the house. I thought it was a plane but there was no sound heard.0232-0233 Object did a slow loop in the air above Waterloo Circle.0234-0239 Object continued to move toward the house still no sound heard. The object went over the house and no sound was heard. Object went over the house and I went looking out all the windows of the house to see where the object had went and to see if it had passed over the house 0240 Object was no longer in range of the area and it did not appear on any other side of the house. Object No longer in area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47924.html](http://www.nuforc.org/webreports/reports/047/S47924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Morehead (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Three bright glowing orbs fly by dormatory building on Morehead State University, each is around 1 to 2 feet in width.Okay, I'm entering this on behalf of my friend who saw this.  Primarily due to the fact I'm more interested in this and he is not at all. We were on the eleventh floor of our Dorm on Morehead State University's campus.  Suddenly my friend claimed he saw three lights that were golden in color fly by our window.  Immediately we checked outside by opening the window as much as it could.  There was no other source of light that would have caused it. We did a laundry list of things it could possibly be, and none would have produced that light that close to our window.  In terms of arrangement he describes them in a line, not a perfect line, but basically one after the other.  Each orb was around 1 to 2 feet across.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67182.html](http://www.nuforc.org/webreports/reports/067/S67182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
