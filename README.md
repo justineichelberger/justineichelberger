@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:58 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw 3 orange illuminated triangles flying very low between 2 apartment buildings, just above the trees.I left my apartment to go to the laundry room. I was walking and turned the corner, and there was 3 illuminated orange triangles, flying in formation.  One in the front and two on the rear, forming like a triangle. But they were 3 seperate triangles.  I noticed them quickly, because they were so low to the ground. About two of the apartments stacked high. 50 feet up (or low).  They moved slowly and silently towards a church between the two buildings I was standing between. They slowly turned around and slowly came back towards me (with my mouth wide open) and then they slowly got higher and then they shot off and disappeared.  They had to be traveling at the speed of light. 45 minutes after the one of the wildest things I've ever experienced I went back outside and I saw 3 small engine planes flying around the area(within 2 miles). I don't know if somebody else saw but someone had to have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08167.html](http://www.nuforc.org/webreports/reports/008/S08167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny metallic ball observedThanksgiving day over Columbus, OhioThe skys over Columbus were very clear and sunny on the afternoon of Thanksgiving Day 2006. I first noticed it while observing a large, high flying jet. The jet was flying at an altitude that still allowed its shape to be discernable.  I am not sure if it was a commercial or military jet. The jet was laying out quite a good con-trail, (that's what caught my attention.) The jet was traveling from east to west/southwest. Then I noticed the object. It appeared to be at the approximate same altitude as the jet, and perhaps within a quarter of a mile from the jet. Its relative position to the jet was rearward and to the left, (from my perspective). I brought it to the attention of the other two people with me. It appeared to be stationary. It was round in shape, metallic. It was very silvery and shiny. It remained stationary, and then after a short time, it began to pace the aircraft.  But, the jet slowly gained distance, as the UFO was traveling at a slower speed.  It remained off to one side and rearward of the aircraft as it moved. I had enough time to gain access to my garage and retrieve a pair of binoculars.  I observed the object through binoculars for perhaps 30 seconds. It was definately round, perhaps "ball-like".  I was able to definately observe that there were no wings or other protrusions.  On what would appear to be the bottom were two lights.  One was large and white and very bright.  I mean very bright! The other was much smaller and red. The shape was very discernable through the binoculars, and WAS NOT AN AIRPLANE OR JET!,  It was round.  It could have been a disc, but it really seemed to be ball-like orb...at least from my viewing position. Total time viewed was at least two minutes. Then it was no longer in sight.  I cannot describe its departure.  We could just no longer find it in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53869.html](http://www.nuforc.org/webreports/reports/053/S53869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
