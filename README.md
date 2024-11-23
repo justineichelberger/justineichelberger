@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:48 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>String moving satellite like dots in sky above Mesa, AZSaw a whole string of white moving dots of lights, like satellites, numbering about nearly 30 or 40 moving slowly from SW (From Orion Constallation) towards the NW.The whole show string lasted several minutes, at least 5 minutes.  In fact I went and check on the computer and then came back out to see them still emerging from the Orion constellation.  They were all lined up almost perfectly and fairly evenly spaced.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151033.html](http://www.nuforc.org/webreports/reports/151/S151033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenwater (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We where driving to Crystal Mountain and noticed a bright object in the sky and it was not moving, so we pulled over too took and take a picture!  It was not anything we have ever seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143875.html](http://www.nuforc.org/webreports/reports/143/S143875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
