@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:22 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:01:28 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Walnut Shade (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Moving and hovering lighsI was lying in bed and a light caught my eye. I thought it was a star at first.It started moving and noticed it going pretty far from right to left up and down.it was hovering like a bee.then two dimmer smaller ones showed up and they were hovering and zig zagging and I watched this while I was scared to move just continued to watch these lights move.i finally stopped watching them and I had to go to sleep.it took me some research to find this website so I couldn't do anything about it last night.thank you it was Unbelievable.i tried to get a photo or video. it was just too dark for my camera to see in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165551.html](http://www.nuforc.org/webreports/reports/165/S165551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>THE OBJECT CHANGED COLOURS OVER NYC & N.J. IN HEAVY AIR TRAFFIC. MID. AFTERNON.AT ABOUT 4:45 PM (est)   I WAS WALKING TO MY APT. IN THE N.Bergen, N.J AREA, LOOKING TOWARDS THE EAST, NYC.  NOTICED A PEARL COLOUERD OBJECT MOVING SLOWLY IN THE SKY, CLOUD ALTITUDE LEVEL/CUMULUS/C2 AT THIS TIME OF THE DAY, AIR TRAFFIC FROM NYC IS HEAVY.  I FOCUSED MY EYES ON THE OBJECT, MOVING FROM EAST TO WEST IN THE SKY.  THE OBJECTED CHANGED COLOURS WHEN PASSING IN FRONT OF A CLOUD, IT TURNED FROM PEARL TO A GOLDEN FIRE PEARL.  WHEN IT CLEARED THE CLOUD BACK INTO THE BLUE SKYS,  IT TURNED BACK TO ITS PRIER PEARL COLOUR.  THEN IT DISAPPEARED INTO CLOUD.  MY OBSERVANCE OF THIS OBJECT LASTED 4 MIN.((NUFORC Note:  Date is defective.  We have assigned temporarily an arbitrary date, and requested an accurate date from the witness.  Witness provides e-address, but it seems to be defective.  We wonder whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80565.html](http://www.nuforc.org/webreports/reports/080/S80565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
