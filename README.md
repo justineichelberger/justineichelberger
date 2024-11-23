@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:22 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Southampton (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>2nd time bright blue lights were spotted over Southampton.I was going out with some friends when i was knocking on a door, me and the driver saw a odd bright blue light fly in a slightly cruved line across the sky. I thought I was crazy until the person started asking me if i saw what he saw on Thanksgiving night. Our stories we mostly the same except for the endings because the trees block my view. This blue light just shot through the sky. Heading towards Willow Grove Airbase. I am wondering if this has anything to do with a metor shower. Because last year on the 28th of Nov I was out with my friends in Southampton and 3 bright blue light shot over my head.  They both looked the same and traveled at the same speed and in the same direction. Both time the object went behind trees. Other aircraft were seen in the sky but that is because we are over a civilion and military flight path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53642.html](http://www.nuforc.org/webreports/reports/053/S53642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Walnut Shade (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Moving and hovering lighsI was lying in bed and a light caught my eye. I thought it was a star at first.It started moving and noticed it going pretty far from right to left up and down.it was hovering like a bee.then two dimmer smaller ones showed up and they were hovering and zig zagging and I watched this while I was scared to move just continued to watch these lights move.i finally stopped watching them and I had to go to sleep.it took me some research to find this website so I couldn't do anything about it last night.thank you it was Unbelievable.i tried to get a photo or video. it was just too dark for my camera to see in the dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165551.html](http://www.nuforc.org/webreports/reports/165/S165551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
