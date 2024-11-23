@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenwater (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We where driving to Crystal Mountain and noticed a bright object in the sky and it was not moving, so we pulled over too took and take a picture!  It was not anything we have ever seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143875.html](http://www.nuforc.org/webreports/reports/143/S143875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Grove (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>clear view on clear night, 5 lights in a row, sighting lasted 2 hours at 3:00 AM with binocularsClear night. I got up to let my dog out and noticed a bright light in the east.  My house is on the lake and I have a clear view to the east.  My wife was awake and when I pointed out the light, she said it was probably a planet.  My binoculars are always by the large window and thru them I could see not one light, but a row of lights (5), with the brightest in the middle.  She came and looked and saw exctly what I saw.  The lights were stationary and over the next two hours, moved very slowly up and to the south. This had to be a very large object, because we could see the space between the lights. The sides of the object had a cone of light going out on both sides, so I believe the lights when around the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60036.html](http://www.nuforc.org/webreports/reports/060/S60036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
