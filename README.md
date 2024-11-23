@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroe (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange fiery orbSaw fire-like orb in the NE sky, traveling north, fairly quickly.  Witnessed by 2 people. Very bright orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94716.html](http://www.nuforc.org/webreports/reports/094/S94716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Coon Rapids (MN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Oval object flying down at 45 degree angle with stream of light followingI wrote this down immediately after the sighting.  At the time, I did not know there was any place to report it so I just kept my notes.  At 6:05 PM on Nov 23rd 1998, I saw an object moving very quickly in the Eastern sky at about a 45 degree angle from Coon Rapids, Minnesota.  The object was a flatter oval shape from my perspective as far as I could tell, but it was quite far away.  The object had a light trail as you might expect from a falling star, but it was not moving as fast as a falling star and the light trail remained constant in brightness.  Falling stars, by contrast typically start out small as they enter the atmosphere, grow larger and then burn out.  Furthermore, you wouldn’t see any object in front of the light trail with a falling star, you would just see the glow.  The object I saw had a definite solid part followed by a stream of light equal to about three times the length of the object.   I watched it for a good 3 to 4 seconds before it went out of site below the horizon.  Given the distance it appeared to travel, the speed exceeded what even a fast military plane could go.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67176.html](http://www.nuforc.org/webreports/reports/067/S67176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
