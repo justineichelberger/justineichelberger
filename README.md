@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:18 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>i was taking an exit Jackson from highway on 90/94 and looked at the highway to see how bad is traffic on other side and apparently saw a circle object was moving on the sky (from east to west slowly approx 80-90mph or faster) downtown area. i stopped to see it because building blocked me and other cars behind me did not allow me to stay on the road much.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151030.html](http://www.nuforc.org/webreports/reports/151/S151030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V shaped, silent fast moving orb formation.Appeared to be a "string" of perfectly, evenly spaced round shapes in a triangle formation.  Moving quickly and silently North to South.  No lights, but the shapes were illuminated by the light pollution from the ground.  Around the same distance from the ground as the small personal aircraft I see flying around here from the local small airport.  I have never seen anything like this in my almost 49 years on Earth!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85457.html](http://www.nuforc.org/webreports/reports/085/S85457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
