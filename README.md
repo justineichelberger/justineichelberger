@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:18 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V shaped, silent fast moving orb formation.Appeared to be a "string" of perfectly, evenly spaced round shapes in a triangle formation.  Moving quickly and silently North to South.  No lights, but the shapes were illuminated by the light pollution from the ground.  Around the same distance from the ground as the small personal aircraft I see flying around here from the local small airport.  I have never seen anything like this in my almost 49 years on Earth!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85457.html](http://www.nuforc.org/webreports/reports/085/S85457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Becker’s Corner (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Clump of stationary lights, changed shape as drove by.Coming down New York State Thruway I-87 South, I saw a clump of about 15-20 bright lights no more than 100’ off the ground. Created a rugged circle/octagon shape, size of a typical aircraft. At first I thought it was a low flying plane, however, it never moved as I got closer. When I drove by the lights, they no longer were in a circular clump. The lights formed more of a rectangular shape and there was about half as many as I saw from a distance. They were bright white lights. No color to them. When I drove by, I could almost see the shadow of the object. Looked irregular shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165577.html](http://www.nuforc.org/webreports/reports/165/S165577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
