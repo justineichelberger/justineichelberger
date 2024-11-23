@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:21 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny metallic ball observedThanksgiving day over Columbus, OhioThe skys over Columbus were very clear and sunny on the afternoon of Thanksgiving Day 2006. I first noticed it while observing a large, high flying jet. The jet was flying at an altitude that still allowed its shape to be discernable.  I am not sure if it was a commercial or military jet. The jet was laying out quite a good con-trail, (that's what caught my attention.) The jet was traveling from east to west/southwest. Then I noticed the object. It appeared to be at the approximate same altitude as the jet, and perhaps within a quarter of a mile from the jet. Its relative position to the jet was rearward and to the left, (from my perspective). I brought it to the attention of the other two people with me. It appeared to be stationary. It was round in shape, metallic. It was very silvery and shiny. It remained stationary, and then after a short time, it began to pace the aircraft.  But, the jet slowly gained distance, as the UFO was traveling at a slower speed.  It remained off to one side and rearward of the aircraft as it moved. I had enough time to gain access to my garage and retrieve a pair of binoculars.  I observed the object through binoculars for perhaps 30 seconds. It was definately round, perhaps "ball-like".  I was able to definately observe that there were no wings or other protrusions.  On what would appear to be the bottom were two lights.  One was large and white and very bright.  I mean very bright! The other was much smaller and red. The shape was very discernable through the binoculars, and WAS NOT AN AIRPLANE OR JET!,  It was round.  It could have been a disc, but it really seemed to be ball-like orb...at least from my viewing position. Total time viewed was at least two minutes. Then it was no longer in sight.  I cannot describe its departure.  We could just no longer find it in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53869.html](http://www.nuforc.org/webreports/reports/053/S53869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw 2 red pulsating objects traveling in opposite directionsWhile driving home I saw 2 bright red lights traveling in opposite directions of each other (one going north, one going south). They did not blink, but rather had a pulsating glow at the center of them. They also had 2-3 lights that strobed white light very quickly. They did not move very quickly, probably at about 50-100 MPH, and i estimate that they were at an altitude of 1000 - 2000 ft. I was on the west hill of Kent, and i guess they were probably over the Kent Valley, which is a few miles away. They made no noise or sharpe movements</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11223.html](http://www.nuforc.org/webreports/reports/011/S11223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
