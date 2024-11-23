@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:28 on 22 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in  (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Craft lit up the night sky and made it look like daylight.Driving East on I-70 near 132 mile marker.  A craft shaped like a giant capital I on its side arose from behind a hill and drifted very slowly over I-70 headed North.  Bright white lights completely around the entire craft lit up the sky like daylight.  Several cars stopped as the craft continued to drift slowly then as the craft got over a large field it shot straight up into the sky and was gone.  I would have reported this decades ago, but just found this site.  Don't blame you if you don't accept this since it has been so long ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154657.html](http://www.nuforc.org/webreports/reports/154/S154657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A photo of a black and white object in my grandmother's photo album circa early 40's with family dog.I was looking through my dad's photo album, circa early 1940's. On one page it had pictures of his dog, 4 different pictures. I just happened to look at the picture of his dog taken from the back patio area when I noticed this "disc" above the roof. All the pics in this photo book are in blk and white. This object was taken by some relative of the pet dog and I guess they never noticed this object just to the right of the chimney. Needless to say, all these years nobody has noticed this apperation or entity. It sure got some interest from friends and family.As far as I know my dad's mom and dad lived in a residential area of either Palto Alto or Redwood City, California when growing up. Other pictures of him show a uniform on him during World War II so I am thinking the time frame is between 1940 and 1942.When I first noticed this UFO I asked my wife to look at the picture and I  asked her "What is wrong with this picture?" She started looking at the picture and I told her to look on the roof and she noticed the UFO right away.After we both talked about it, I called my twin brother and my older brother and sent a picture to them via phone camera. They, my brothers, didn't really get all that excited when I told them, but when they got the actual picture it was a different story.I look many times at the picture daily and the best description I can give is that it reminds me of a Hershey's Kisses or a Frisbee without the rounded edges. At the very top, the area is darker than the rest of the object, like it is either a shadow or ??. It looks very much to me and other people to look like a typical UFO... Using the chimney and the roof make the object look small, but I am thinking that it might be bigger and further away. As I mentioned before, this is a residential area so other roofs maybe are the same size as my grandmothers house. P.S. All the pictures in this old photo book are laminated and has helped keep a lot of the pictures safe from dirt and scratches. I hope the above description will help in some way to figure out if this is real or something else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161016.html](http://www.nuforc.org/webreports/reports/161/S161016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
