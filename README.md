@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:25 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Morehead (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Three bright glowing orbs fly by dormatory building on Morehead State University, each is around 1 to 2 feet in width.Okay, I'm entering this on behalf of my friend who saw this.  Primarily due to the fact I'm more interested in this and he is not at all. We were on the eleventh floor of our Dorm on Morehead State University's campus.  Suddenly my friend claimed he saw three lights that were golden in color fly by our window.  Immediately we checked outside by opening the window as much as it could.  There was no other source of light that would have caused it. We did a laundry list of things it could possibly be, and none would have produced that light that close to our window.  In terms of arrangement he describes them in a line, not a perfect line, but basically one after the other.  Each orb was around 1 to 2 feet across.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67182.html](http://www.nuforc.org/webreports/reports/067/S67182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kenvil (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very fast object changing direction at a sharp angle twice.Object far off in sky traveling very fast suddenly changed direction to straight up for 2-3 seconds then back to horizontal.  Change of direction occurred very suddenly and at a 90° angle.  Object was too far away to see shape.  Dark in color possibly black.  I was looking to the east and the object was traveling south.  There were other passenger planes in the sky as well and the object was easily traveling 4-5 times as fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124313.html](http://www.nuforc.org/webreports/reports/124/S124313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
