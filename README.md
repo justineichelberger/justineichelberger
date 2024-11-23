@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Forest lake (MN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked up into a clear blue sky. It appeared out of thin air just like a clingon ship on Star Trek.  It was cloked invisible.  It didn't move, just hovered at a 40° angle.  Was extremely high up.  Like a jet but very large.  I was traveling south on Hwy 35.  Then it vanished. I pointed to the sky to my driver who looked also.  Than it reappeared again for another 20+seconds and again vanished.  It was chrome with sun reflecting off it and a black tinted window facing earth almost half the size of the craft.  It was Thanksgiving day.  My driver a female said she didn't ever wanna talk about it again and was shaken up.  It's the only one ive ever witnessed.  It didn't have wings or nothing just a perfect egg shape.  It was able to be invisible that I have no doubt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157174.html](http://www.nuforc.org/webreports/reports/157/S157174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>String moving satellite like dots in sky above Mesa, AZSaw a whole string of white moving dots of lights, like satellites, numbering about nearly 30 or 40 moving slowly from SW (From Orion Constallation) towards the NW.The whole show string lasted several minutes, at least 5 minutes.  In fact I went and check on the computer and then came back out to see them still emerging from the Orion constellation.  They were all lined up almost perfectly and fairly evenly spaced.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151033.html](http://www.nuforc.org/webreports/reports/151/S151033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
