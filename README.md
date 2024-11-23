@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kenvil (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very fast object changing direction at a sharp angle twice.Object far off in sky traveling very fast suddenly changed direction to straight up for 2-3 seconds then back to horizontal.  Change of direction occurred very suddenly and at a 90° angle.  Object was too far away to see shape.  Dark in color possibly black.  I was looking to the east and the object was traveling south.  There were other passenger planes in the sky as well and the object was easily traveling 4-5 times as fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124313.html](http://www.nuforc.org/webreports/reports/124/S124313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Southampton (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>2nd time bright blue lights were spotted over Southampton.I was going out with some friends when i was knocking on a door, me and the driver saw a odd bright blue light fly in a slightly cruved line across the sky. I thought I was crazy until the person started asking me if i saw what he saw on Thanksgiving night. Our stories we mostly the same except for the endings because the trees block my view. This blue light just shot through the sky. Heading towards Willow Grove Airbase. I am wondering if this has anything to do with a metor shower. Because last year on the 28th of Nov I was out with my friends in Southampton and 3 bright blue light shot over my head.  They both looked the same and traveled at the same speed and in the same direction. Both time the object went behind trees. Other aircraft were seen in the sky but that is because we are over a civilion and military flight path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53642.html](http://www.nuforc.org/webreports/reports/053/S53642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
