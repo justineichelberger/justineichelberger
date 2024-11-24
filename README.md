@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Graham (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.8833333333333333 - 0.8833333333333333 minutes.</sub><blockquote><sub>The object was blinking different colors.  It was blinking red, green, blue.  It was blinking very fast.  It kept disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131452.html](http://www.nuforc.org/webreports/reports/131/S131452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw colorful lights on these 2 objects that just hovered between my house and a neighbors that flew off into the distance.I got home about a little after 9 pm.  I left my phone in my car so I went back outside to get it.  Not sure why I looked up but when I did.  I saw this object with  lights  hovering in place and then going far into the distance.  I stared at it for awhile as it continued to go into the distance.  I then called  a friend of mine to come ouside that lives with me to see if she could see the same as what I was seeing and she did.  As we were looking at the 1st one.  Another came from the left side and then directly in front of us and hovered again as the other did and continued in the distance with the same lights.  The lights were red, white and green and it appeared to have a long shape from left to right or thats how it appeared.  It was dark already so all I saw was the shape of the lights in a line.  The lights were in a line but from right to left like maybe 5 or 6 lights that faced us. We stared for awhile to make sure it was not a helicopter or plane and it was! not.  The objects appeared between my house and a neighbors house.  No other objects or lights in sight except for the 2 objects we saw.  The objects did not make any noises. Nor did they dart or zip away.  No wobbling. Just flew the same as a plane or helicopter would but was not either one.  What made it different was that they it hovered in place and moved slowly like they wanted us to see them.  I heard no plane sounds nor the sound of the helicopter wings when a helicopter is staying in place.  Nothing could be heard.  This was my sighting.Not sure what it was but it was  no plane or helicpter or jet I have ever seen.  I live close by to Ellington Airforce base and Hobby airport and I am use to seeing planes,jets and helicopters that is not what it was that night.  I went in as the last one was going into the distance.  Went inside to call another witness to come outside withing sec or a min.  When we came out it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94839.html](http://www.nuforc.org/webreports/reports/094/S94839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
