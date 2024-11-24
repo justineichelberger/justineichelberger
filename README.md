@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:18 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:26 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my mother were looking outside at the night sky.  After a few moments we saw a plane off in the distance.  Then at least 20 minutes went by then, they were two headlight looking objects flying at least 50 ft off the ground.  Once we were clearly in sight of the object, the lights went out.  There were a lot of stars out so once the headlights went out we could see the outline of it.  The shape of it was a triangle you with curves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137398.html](http://www.nuforc.org/webreports/reports/137/S137398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 strange lights with no object in sight but traveled from the north to the east disappearing!I was walking home from 7-11 in north park tonight and when I was on Arizona and University it was 8:29pm,  I looked up in the sky & I saw 3 strange lights, yards apart.  It was not any airplanes or helicopter   There was no noise.  The lights I saw were only a few yards apart about 50 yards approximately, they went only in one direction to the east but came from the north and then I hurried up the hill I was walking on because there were some trees in my way in view of the lights so when I got to the top of the hill I saw the last light drift off into the east but also disapperead and tonight is thanksgiving.The weather was clear no clouds, no rain nothing.  I will admit I have never seen this before.  The lights just disappearing into thin air..  I cant explain anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85476.html](http://www.nuforc.org/webreports/reports/085/S85476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
