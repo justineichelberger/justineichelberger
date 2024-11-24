@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Burning spheres over San Jose, California, and fighter jets after.Thanksgiving evening around 18:30 my cousin text me & says did you see that! Informs through text of a number of burning looking balloons and then fighter jets later.  Weird because last Thanksgiving 3 relatives a similar incident of witnessing something in the sky((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85481.html](http://www.nuforc.org/webreports/reports/085/S85481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>ship moving into diagonal formation and disappearedsitting at red light, looked up and saw 5-6 lights in diagonal formation, looked down to grab my phone, looked up and they were all gone  one was moving into the diagonal formation before disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150968.html](http://www.nuforc.org/webreports/reports/150/S150968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
