@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:46 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:04 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>She and her husband telephoned the Center to say that they were watching a "bunch of lights--flashing" in the sky. The husband was uncertain which direction they were looking.  Both observers stated that the object was moving.  They succeeded in getting approximately 5 minutes of footage on a video camcorder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01648.html](http://www.nuforc.org/webreports/reports/001/S01648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Zebulon (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Mid-sized disk shaped object, rotating violently, flying back and forth, landed several times, collision with dog & 2 people.I was visiting girlfriend’s home for Thanksgiving Holiday to meet parents, went outside with her father, brother, and girlfriend when we saw the saucer.  The neighbor’s dog was ballistic.  The UFO hurtled back and forth between the two yards, about the size of a trash can lid, and struck the dog on the side.  Saucer also grazed my girlfriend and her brother. We had all had a drink, but we were all sober enough to know what we saw.  The craft had an undistinguishable colour and the lighting was poor, however, we were able to see strange black characters inscribed on the (presumed) hull of the UFO.  The craft landed and took off several times throughout our observation of the events.  Later, some scorch marks were found in the lawn.  The object did not have lights of its own; however, it did emit an aquamarine glow, making it more difficult to see the colour of the UFO’s body.  No life forms were seen.  Possibly an alien drone?  A government drone?  As for observer backgrounds, my girlfriend is studying finance and accounting at a university near our apartment, but we observed the object at her parents’ house in Zebulon.  Her father is an employee at the pharmaceutical company in the town, and her brother was also visiting from college.  I, myself, am a sales rep for a large company located in Washington state.((NUFORC Note:  We suspect a hoax.  Telephone number provided by witness is non-functional.  Source of report has not responded to an e-mail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131524.html](http://www.nuforc.org/webreports/reports/131/S131524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
