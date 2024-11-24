@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:26 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:21 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 strange lights with no object in sight but traveled from the north to the east disappearing!I was walking home from 7-11 in north park tonight and when I was on Arizona and University it was 8:29pm,  I looked up in the sky & I saw 3 strange lights, yards apart.  It was not any airplanes or helicopter   There was no noise.  The lights I saw were only a few yards apart about 50 yards approximately, they went only in one direction to the east but came from the north and then I hurried up the hill I was walking on because there were some trees in my way in view of the lights so when I got to the top of the hill I saw the last light drift off into the east but also disapperead and tonight is thanksgiving.The weather was clear no clouds, no rain nothing.  I will admit I have never seen this before.  The lights just disappearing into thin air..  I cant explain anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85476.html](http://www.nuforc.org/webreports/reports/085/S85476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lyman (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Star-like object at high altitude slowly moving over house to the southwest.On the evening of Nov 24th 2009 at approx 6:45 pm EST I had gone out on my deck.  The sky was dark and clear with stars and a nearly full moon brightly shining in the high eastern sky.  I have a deck that faces SW and I have a nice piece of sky to view down to approx 20 degrees off the horizon to that direction.  I was watching some high commercial aircraft traffic on the Victor Airway above my house flying as usual from SW to NE, when I noticed directly above my deck a much brighter than usual star-like object moving slowly to the SW and then I noticed it had no strobes or navigation lights.  So I discerned this was a satellite and watched it for approx 10 seconds until it stopped for approx 3 seconds with no change in luminescence,  then quickly it did a 90 degree turn to the left or easterly from its original course lasting approx 2 seconds. It then turn 90 degrees again to the right and proceeded on a SW direction, then it seemed to speed up and disappea! red as to gain altitude and I lost visual reference.  So as a private pilot for over thirty years I can tell you that judging altitudes at night is nearly impossible but had to be somewhere above 40,000 ft.  No particular shape, sounds or other distinctions were observed because of the altitude.  The one distinction that I can make is this was no known aircraft in my inventory of my knowledge that can maneuver as this did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73570.html](http://www.nuforc.org/webreports/reports/073/S73570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
