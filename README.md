@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:21 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:18 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was a hovering silver egg shaped object above Spring, Texas.It was a clear morning without a cloud in the sky. I looked above the tree line about 800-1000 ft is the air was an object in the sky.  It was pure silver in color.  It seemed to be hovering.  I saw it for about 15 seconds until I had a tree line obstruct my view.  When I passed tree line, the object vanished.  I looked all around for it.  I even saw an airplane and noticed the shape I saw was not the same and was definitely not moving.  After a few miles I looked up again and saw it again.  It was there for approximately 15 seconds.  I took my eyes off of it for a split second and it was gone.  I have never been a believer, but this was surreal.  The object was like a cross between an egg and a large bell and silver in color.  I would guess it was a diameter of about 12 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115606.html](http://www.nuforc.org/webreports/reports/115/S115606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my mother were looking outside at the night sky.  After a few moments we saw a plane off in the distance.  Then at least 20 minutes went by then, they were two headlight looking objects flying at least 50 ft off the ground.  Once we were clearly in sight of the object, the lights went out.  There were a lot of stars out so once the headlights went out we could see the outline of it.  The shape of it was a triangle you with curves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137398.html](http://www.nuforc.org/webreports/reports/137/S137398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
