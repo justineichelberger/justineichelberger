@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:19 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My friend and I witnessed strange lights over my back yard. We watched whatever it was decend closer and closer to the pond in my back yard. The light coming from the craft was so intense, we could hardly see anything else in the night sky. It was the strangest thing because there was no sound.My friend and I witnessed strange lights over my back yard. We watched whatever it was decend closer and closer to the pond in my back yard. The light coming from the craft was so intense, we could hardly see anything else in the night sky. It was the strangest thing because there was no sound. We live next to an air port, but planes do not hover over or around my house. Especially with those strange lights. All of the sudden, the craft just zoomed across the sky leaving a bright trail of light behind it.   My friend and I concluded that the crafte left because of an incoming airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04916.html](http://www.nuforc.org/webreports/reports/004/S04916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gibson (LA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was approximately 1/8 of a mile long and had a line of non blinking lights. The object was filmed the entire duration of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160859.html](http://www.nuforc.org/webreports/reports/160/S160859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
