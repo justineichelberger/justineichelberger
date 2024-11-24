@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Florissant (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>lights moving across the sky in succession about 25 or 30 of them. Flying Northwest to southwest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150998.html](http://www.nuforc.org/webreports/reports/150/S150998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Satellite Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ORANGE FIREBALL FLYS LOW AND SILENT OVER BACK YARD WIFE AND 2 SONS WATCHED IT.M YWIFE AND 10 AND 6 YR OLD SONS SAW A FIREBALL FLY LOW OVER OUR HOUSE WHEN THEY WERE LETTING THE DOG OUT.  MY WIFE CALLED THE BOYS TO COME SEE IT. THEY SAID IT LOOKED LIKE A BURNING FIREBALL.  SHE SPOTTED IT COMING FROM THE NORTH FROM SEA PARK ELEMENTARY SCHOOL AND IT WAS FLYING JUST ABOVE THE PALMS AS FAR AS THEY COULD TELL.  IT MADE NO NOISE. IT CONTINUED HEADING SOUTH OVER THEBACK YARD UNTIL THE PALM TREESS ON THE OTHER SIDE OF YARD BLOCKED THE VIEW.  SHE THINKS IT WAS SOMETHING THAT SOMEONE LIT ON FIRE AND FLEW IT. IM NOT TO SURE ABOUT THAT.  MY SONS REACTIONS WERE FEAR BECAUSE I THINK IT WAS LIKE NOTHING THEY HAVE EVER SEEN.  I CAN TELL MY WIFE CANT EXPLAIN IT SO SHE TRIES TO MAKE SENSE OF IT. NORMAL REACTION.  AFTER GOOGLEIN I FOUND THIS SITE AND I NOW BELIEVE THEY SAW SOMETHING SIMILAR TO WHAT THESE OTHER PEOPLE HAVE SEEN.  MY WIFE DOES NOT BELIEVE IN UFOS BUT I THINK SHE SAW ONE.  HOPE SOMEONE ELSE IN THE AREA SAW IT TOO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94823.html](http://www.nuforc.org/webreports/reports/094/S94823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
