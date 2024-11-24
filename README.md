@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:17 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>ship moving into diagonal formation and disappearedsitting at red light, looked up and saw 5-6 lights in diagonal formation, looked down to grab my phone, looked up and they were all gone  one was moving into the diagonal formation before disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150968.html](http://www.nuforc.org/webreports/reports/150/S150968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Slow moving triangle shaped craft.  Size of 2 or 3 football fields.I was outside walking my dog at night.  Some movement above me caught my eye.  I looked up and saw a triangle shaped object sillouted with the sky as a background.  There were no clouds so the sky was dark.  The triangle was moving at a slow rate of speed maybe 2000 ft off the ground. It continued to fly at a slow speed until I could no longer see it.  The bottom of the triangle had 5 to seven lights along the leading edges of the bottom.  The lights were a bright white light.  The rear of the triangle did not have any lights.I live in the flight path of the KCI airport and see planes every day and night for the past year and a half that I've lived here.   I have never seen this before. And it was completely silent.I have also seen stealth fighters and bombers but they have normal blinking lights like other jets.  Plus they make very loud jet noise when they pass over head.I work for the Federal government as an attorney.  I was previously a commissioned officer in the United States Navy.  I was formerly an assistant District Attorney for Jackson County Missouri.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67146.html](http://www.nuforc.org/webreports/reports/067/S67146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
