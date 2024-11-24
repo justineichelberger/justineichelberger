@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two light orbs with propulsion flares on bottom  flying above Venice,CAThat morning I arrived at the desntist office at 8:00 am.The doors were not open yet and people where starting to arrive.It was a very clear day so I noticed the moon in full view,then I noticed a ball of light on the right side of the moon.I pointed it out to everyone and then we noticed it moving very slow and very very high.We did not think much about it untill I looked up again before we started in the office and wow! there were two now but directly over us moving up very high then down low.I filmed this because I just happened to have my camera to bring to take pics of my friends new store in the area.This was Lincoln blvd and Rose Ave. in Venice,CA.I downloaded the footage on my computer and blew them up.They looked like balls of light with a force from underneath.I had to stop and go in for my apt.When I came out they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49560.html](http://www.nuforc.org/webreports/reports/049/S49560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I witnessed a large dark triangle with very unusual orange lights flying low, slow, and was completely silent.  Years have past and I have only now decided to report what I saw so the date and time maybe not accurate, but have recently decided to see if anyone else had reported on your web site what I had seen and to my surprise other people have reported the same thing around the same time and place.  This is what happened. I left a friends house in the down town part of Santa Barbara , I think sometime between 9pm and 11pm on Thanksgiving to drive back to my house in Ventura.  The parking lot directly behind his house was surrounded by trees, 2 and 1 story houses.  I walked to my car and just gave a glance up to look at the stars as I normally do on a beautiful Santa Barbara,CA nights when I noticed that there were no stars, but just a very odd light that was dull orange in color, it was bright, but gave off no hue as bright lights do.  I then took in a wider perspective and noticed that there was not 1, but 3 of these strange orange lights.  They were aprox. a 100 yards between each light forming a perfect or near perfect triangle.  One single light at the front and  the other 2 light were at the back.  On the outside of the triangle lights I could see the stars, house and street lights, etc., but between the orange lights it was black, therefore the triangle was solid.  The triangle "UFO" moved south to north aprox. 20 to 30mph and was aprox. 100-150 ft. above me.  What really struck me was that a moving flying craft that large and that low with orange lights that I still have not seen since, made no noise as it went overhead, It was completely silent.  As soon I lost sight of it, I got in my car and tried to find it again, but could not. I have been around airports and military compounds all my life (39 yrs) and have never seen a flying vehicle that had the shape, lights, and audio characteristics of this "UFO."((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61289.html](http://www.nuforc.org/webreports/reports/061/S61289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
