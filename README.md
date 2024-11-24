@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:22 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Diamond-shaped configuration of lights flying southeast at high speedWas driving on Stadium Drive and W Pensacola Street-- since I was in the car, I couldn't watch the whole time it was visible or take pictures.  It was an equilateral diamond with blue and red lights at each vertex, flying southeast at high speed.  By the time I pulled into my parking lot about a minute after first seeing it, it was no longer visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124371.html](http://www.nuforc.org/webreports/reports/124/S124371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fruit Cove (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>You could see the ripple of wind current around it. It glided reminded me of how a jelly fish acts when it swimming threw water. It was golden red. seen lots of strange stuff but not like this. Would of thought it was a meteor  but it changed direction and speed never dissipated</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160847.html](http://www.nuforc.org/webreports/reports/160/S160847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
