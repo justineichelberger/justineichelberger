@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 23 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>70+ chevron-shaped aircraft, approx. 40,000`, flying from northeast to southwest over Half Moon Bay, CA, like someone opened up at box and they all escaped out of it. No sound. No contrails or chemtrails. All white. Several "stalled" or "stopped", then surged forward at a greater velocity than the others. A commercial jet airliner flew approx. 20,000 ft. beneath them, making usual noise. Asked others on the beach to look at them...they didn't want to be bothered.I pretty well covered it above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11128.html](http://www.nuforc.org/webreports/reports/011/S11128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Venice (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two light orbs with propulsion flares on bottom  flying above Venice,CAThat morning I arrived at the desntist office at 8:00 am.The doors were not open yet and people where starting to arrive.It was a very clear day so I noticed the moon in full view,then I noticed a ball of light on the right side of the moon.I pointed it out to everyone and then we noticed it moving very slow and very very high.We did not think much about it untill I looked up again before we started in the office and wow! there were two now but directly over us moving up very high then down low.I filmed this because I just happened to have my camera to bring to take pics of my friends new store in the area.This was Lincoln blvd and Rose Ave. in Venice,CA.I downloaded the footage on my computer and blew them up.They looked like balls of light with a force from underneath.I had to stop and go in for my apt.When I came out they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49560.html](http://www.nuforc.org/webreports/reports/049/S49560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
