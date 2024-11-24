@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:21 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright reddish orange lights, moving up and away into the atmosphereI live by the ocean and was coming up the back stairs and while looking at the stars I saw two lights.  On clear nights I can see the lights on the jets coming down from L.A. and at first I assumed that's what I was looking at but immediately it became apparent something else was occurring.  The lights were reddish orange, very bright, unblinking, at a tremendous height and were going up as well as northerly to southerly.  They were spaced a fair distance from each other and the leading one was higher than the other for it disappeared, fading away as it went up before the other did.  There was no noise, no blinking or strobing, and no flickering to speak of.  I look at the stars and planes and helicpters at night all the time.  I've seen satellites and comets.  I have no idea what they were but by definition they were UFO's.  I'm a licensed sea captain as well as a general contractor who's spent many a night stargazing while camping or out at sea.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60019.html](http://www.nuforc.org/webreports/reports/060/S60019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spring (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>There was a hovering silver egg shaped object above Spring, Texas.It was a clear morning without a cloud in the sky. I looked above the tree line about 800-1000 ft is the air was an object in the sky.  It was pure silver in color.  It seemed to be hovering.  I saw it for about 15 seconds until I had a tree line obstruct my view.  When I passed tree line, the object vanished.  I looked all around for it.  I even saw an airplane and noticed the shape I saw was not the same and was definitely not moving.  After a few miles I looked up again and saw it again.  It was there for approximately 15 seconds.  I took my eyes off of it for a split second and it was gone.  I have never been a believer, but this was surreal.  The object was like a cross between an egg and a large bell and silver in color.  I would guess it was a diameter of about 12 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115606.html](http://www.nuforc.org/webreports/reports/115/S115606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
