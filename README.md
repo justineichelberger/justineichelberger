@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving home from Thanksgiving dinner at my friends house, about five minutes away.  It was a beautiful day and I had one heineken and one wine over the course of over six hours.  Plus all of the beautiful food, just putting it in perspective.  Along Butter Lane which is a windy lane with a stream running along it, I saw a weird round sphere, bright red and sparkling like a firecracker floating along the treetops. I was scared! It was like nothing I had ever seen.  Plus there was no traffic along this road at the time so I was totally creeped out.  Another car passed me going the opposite way and then one followed me onto my street, which made me feel a little bit better. I'm telling you, I was freaked out! I pulled into my driveway, locked the car door and made a beeline into my kitchen.  I put my purse on the counter, picked up my kitchen phone and went back outside.  I looked at the sky and the damned thing is coming from behind the houses across the street.  And it looked pretty close too. My best friend lives next door and he still had company from Thanksgiving from the cars in the driveway.  I dialed his number but it was on answering machine.  The thing was now gone.  But I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85475.html](http://www.nuforc.org/webreports/reports/085/S85475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright reddish orange lights, moving up and away into the atmosphereI live by the ocean and was coming up the back stairs and while looking at the stars I saw two lights.  On clear nights I can see the lights on the jets coming down from L.A. and at first I assumed that's what I was looking at but immediately it became apparent something else was occurring.  The lights were reddish orange, very bright, unblinking, at a tremendous height and were going up as well as northerly to southerly.  They were spaced a fair distance from each other and the leading one was higher than the other for it disappeared, fading away as it went up before the other did.  There was no noise, no blinking or strobing, and no flickering to speak of.  I look at the stars and planes and helicpters at night all the time.  I've seen satellites and comets.  I have no idea what they were but by definition they were UFO's.  I'm a licensed sea captain as well as a general contractor who's spent many a night stargazing while camping or out at sea.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60019.html](http://www.nuforc.org/webreports/reports/060/S60019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
