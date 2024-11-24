@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 24 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Debunk This.So I clicked "Disk or Saucer," but this looked almost as if there were one plane in front and one following close behind it carrying something in between.  It appeared to be linear and have a flashing light on each end.  I can't identify it, therefore I'm reporting it as a U.F.O..I was on the westside of Evansville, at ALDI, looking east standing parallel to the Lloyd Expressway.  I could only follow it for 1-2 minutes and it either was too cloudy or it vanished.((NUFORC Note:  Possible hoax.  Date is flawed, and contact information is wrong.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104760.html](http://www.nuforc.org/webreports/reports/104/S104760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Graham (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.8833333333333333 - 0.8833333333333333 minutes.</sub><blockquote><sub>The object was blinking different colors.  It was blinking red, green, blue.  It was blinking very fast.  It kept disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131452.html](http://www.nuforc.org/webreports/reports/131/S131452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
