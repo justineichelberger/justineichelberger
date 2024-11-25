@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:08 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Daytona Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>My husband and I were in the backyard. It was approx. 7:10 p.m.. A space craft of some kind was moving SLOWLY northeast. Because of it's size (it looked huge)and slow speed I said what the heck is that?. I used the ladder to reach the roof of the house. Whatever it was moved so slowly and was saucer shaped. Looked gray in color. My husband saw 2 "legs" coming out of it. That I did not see. It had a blue light on top and red on either side. It was no airplane. This is my first UFO sighting!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20571.html](http://www.nuforc.org/webreports/reports/020/S20571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>We saw a floating V-shaped object flying along the Atlantic coast at night.My sister and two children were outside on the patio of our vacation home that overlooks the ocean taking down the flag from the flagpole when my sister noticed a flying object in the sky. The flying object looks like a constellation of stars in a v shape. It was flying at a fast speed, lower in the sky. The lights were not brighter or duller than the stars in the sky. They matched the stars' color and brightness. My children did not take notice, as they are only 2 and 5 years old. I said, 'What is that?" and my sister responded that she thought it was a satellite she had heard were roving the world now. We looked up again and the object continued moving down the coastline. I told her that I thought it looked like a UFO. We returned inside and told my husband and our parents what we witnessed. My sister searched online for images of the satellites and realized what we saw was indeed not a satellite. I googled other UFO sighting images and found photos posted of the Lubbock Lights. We both agreed the object we saw tonight looked exactly like the Lubbock Lights images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165559.html](http://www.nuforc.org/webreports/reports/165/S165559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
