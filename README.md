@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There were spinning lights and all of a sudden they just dissappered...wow.We were on our way home from a junior high football game. It was around 9:30 pm. We were by the river bottoms when one of us pointed out the window and started squealing. We pulled over, rollied down the windows, and just watched it. It was fairly close to the ground and it was circular shaped. There were lights along the edges all around it. It wasn't spinning horazontally and not vertically, but kinda slanted. Then all of a sudden, one by one the lights started going out and the craft was gone. So we rolled up our windows and kept driving. As we drove we kept looking for it but it never reappeared. The next day, our driver was at work and people at her work also said that they saw the strange craft. Pretty weird huh?((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43245.html](http://www.nuforc.org/webreports/reports/043/S43245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was outside drinking a Pepsi when I saw an orange light come down from the sky and hover over my head and causing vertigo.vertigo</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151075.html](http://www.nuforc.org/webreports/reports/151/S151075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
