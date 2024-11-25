@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Smyrna Beach (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately  -  minutes.</sub><blockquote><sub>We saw a floating V-shaped object flying along the Atlantic coast at night.My sister and two children were outside on the patio of our vacation home that overlooks the ocean taking down the flag from the flagpole when my sister noticed a flying object in the sky. The flying object looks like a constellation of stars in a v shape. It was flying at a fast speed, lower in the sky. The lights were not brighter or duller than the stars in the sky. They matched the stars' color and brightness. My children did not take notice, as they are only 2 and 5 years old. I said, 'What is that?" and my sister responded that she thought it was a satellite she had heard were roving the world now. We looked up again and the object continued moving down the coastline. I told her that I thought it looked like a UFO. We returned inside and told my husband and our parents what we witnessed. My sister searched online for images of the satellites and realized what we saw was indeed not a satellite. I googled other UFO sighting images and found photos posted of the Lubbock Lights. We both agreed the object we saw tonight looked exactly like the Lubbock Lights images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165559.html](http://www.nuforc.org/webreports/reports/165/S165559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright oval shape, I have a vidio of 2I was in az for vacation with my boyfriend visiting his family, we drove home in my tesla, and I was looking up observing the star because I live in orange county. The sky isn't as beautiful, but this caught my attention. It was very bright and oval. I pointed to it in the car to show my boyfriend once the vehicle was stopped at our location; I videoed the object they moved very fast. There were two that didn't move like a normal plane or helicopter. I know this because I live in Orange County, California, walking distance to John Wayne, and I tend to look up at the planes a lot. I have the video, and I have shown several friends, and all are pretty amazed by the objects. They were brighter them the stars. I want someone to look at the video. My video is too long to upload.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165718.html](http://www.nuforc.org/webreports/reports/165/S165718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
