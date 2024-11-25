@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manitowoc (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pair of lights over Lake MichiganI noticed a pair of lights, orange and blue, over Lake Michigan to the east and southeast dimming and brightening alternately.  The lights were in a straight line and seemed to remain stationary for about 4 minutes or so.  I heard no noise and the lights continued to remain in place.  The formation gradually moved very slowly due north, again silent.  The lights continued to dim and brighten alternately.  When the formation moved due east of my position, the lights disappeared and did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33457.html](http://www.nuforc.org/webreports/reports/033/S33457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Oval shaped object floating along tree top levelI was in a field next to my home looking at stars with my telescope.  I was 11 years old at the time.  As I was looking North I spotted a oval shaped bronze objected gliding along tree top level, moving in a eastward direction.  As I was observing the object, my mom came around the house, walking our dog.   She was also able to observe the object with me.  The duration was about 20-30 seconds.  As we were observing the object it suddenly disappeared.  The object made no sound and appeared to be oval shaped and exhibited a bronze color.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111361.html](http://www.nuforc.org/webreports/reports/111/S111361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
