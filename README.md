@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright oval shape, I have a vidio of 2I was in az for vacation with my boyfriend visiting his family, we drove home in my tesla, and I was looking up observing the star because I live in orange county. The sky isn't as beautiful, but this caught my attention. It was very bright and oval. I pointed to it in the car to show my boyfriend once the vehicle was stopped at our location; I videoed the object they moved very fast. There were two that didn't move like a normal plane or helicopter. I know this because I live in Orange County, California, walking distance to John Wayne, and I tend to look up at the planes a lot. I have the video, and I have shown several friends, and all are pretty amazed by the objects. They were brighter them the stars. I want someone to look at the video. My video is too long to upload.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165718.html](http://www.nuforc.org/webreports/reports/165/S165718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manitowoc (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pair of lights over Lake MichiganI noticed a pair of lights, orange and blue, over Lake Michigan to the east and southeast dimming and brightening alternately.  The lights were in a straight line and seemed to remain stationary for about 4 minutes or so.  I heard no noise and the lights continued to remain in place.  The formation gradually moved very slowly due north, again silent.  The lights continued to dim and brighten alternately.  When the formation moved due east of my position, the lights disappeared and did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33457.html](http://www.nuforc.org/webreports/reports/033/S33457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
