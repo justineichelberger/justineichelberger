@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:39 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:08 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Scarborough (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>incredibly fast tranveling large white ball of light over scarboroughThe sighting occured while I was driving home with my girlfriend at 11 or 12 at night, travelling what I believe would be northbound on Fogg Rd (a couple miles inland from the ocean) in scarborough. My girlfriend was driving, and I was slouched in the front passanger seat, looking out the windshield.  I saw a large, intensely white (at least it appeared white compared to the dark surroundings) ball of light fly through the sky, parallel to the road, traveling in the same direction as the car.  The light was travelling incredibly fast and appeared to be rather low to the ground, as it was out of sight within one second (however, my range of vision was limited, as I could only see it once it became visible through the windshield, rather than directly overhead). By the time I could react it had vanished into the trees. My immediate thought was that it was some very large comet that had passed through the earth's atmosphere and was waiting to hear some deafening boom.  But I never heard a thing over the car radio. My girlfriend claims that she did not notice it, which does not surprise me, as she was a bit tired and concentrating on driving, as well as the fact that the light disappeared almost instantly from view.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46926.html](http://www.nuforc.org/webreports/reports/046/S46926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Daytona Beach (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>My husband and I were in the backyard. It was approx. 7:10 p.m.. A space craft of some kind was moving SLOWLY northeast. Because of it's size (it looked huge)and slow speed I said what the heck is that?. I used the ladder to reach the roof of the house. Whatever it was moved so slowly and was saucer shaped. Looked gray in color. My husband saw 2 "legs" coming out of it. That I did not see. It had a blue light on top and red on either side. It was no airplane. This is my first UFO sighting!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20571.html](http://www.nuforc.org/webreports/reports/020/S20571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
