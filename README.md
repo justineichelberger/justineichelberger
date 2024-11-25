@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:43 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red lights over Savannah GaMother and daughter passing by Hunter Army Airfeild on the way home.  Pulled over because they witnessed several orange/red lights in the sky.  The best way to describe them would be comet like.  Bright red/white light at the front of the object obviously circular which trailed off into what can only be described as a long tail of pink/red/orange light.  Several objects which crisscrossed each other going in all directions but with obvious intent.  They would turn suddenly or stop in midair and circle around.  Could not have been firworks or planes that we are used to seeing in this area.  Its very close to the runway at Hunter and any planes or aircraft in this area fly very low as they are either taking off or landing.  Some aircraft are scary low in this area to where you can read the letterings on the planes.  These objects where very high and crossed each others path dangerously.  Another witness was about 2 miles away and witnessed the same lights abou! t a half hour later.  A coworker also witnessed the same lights later that night about ten miles north of this area.  Same description but only one witnessed.  Perhaps a coincidence but we have also heard the strange "earth groaning" sounds in almost the exact area for several hours on October 10th 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94850.html](http://www.nuforc.org/webreports/reports/094/S94850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright flying object sped across the sky.I was building a garage and I looked up in the sky and I saw a seagull, but that seagull started to form bright colors.  I yelled for my neighbors to come out and they did just in time.  The craft was staying in the same place and started going faster and finally disapeared.  It was going west to east.  After that I couldn't sleep.  When I get certain feeling it is usually right.  I had that feeling.  Not only is this the only sighting, I have seen 5 others. I have the strangest feeling that my hypothesis is correct that it was an ailien space craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11175.html](http://www.nuforc.org/webreports/reports/011/S11175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
