@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:15 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>18 brite white lights traveling in a straight line east northeast off the west coast of central OregonAt 6:00 AM I was taking out the garbage. When I looked up at the sky I saw two lights similar in appearance to stars moving east northeast across the handle of the big dipper. It was partly cloudy, with a large break of clear sky. When the two object disappeared from view to the east, I looked back to the west and saw more moving lights irregularly spaced; but all in a straight line on the same heading east northeast. Two of the lights were side-by-side and one light had a much dimmer light traveling at it’s side. The points of light were bright white at varying distances from each other and occasionally one or more would increase in speed momentarily. There were 18 to 20 of them all on the same heading, eventually traveling through the handle of the Big Dipper and then disappearing from view in the eastern sky. They were traveling much faster than a satellite, and much slower than a meteorite. The whole viewing event took appx. 2-3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151046.html](http://www.nuforc.org/webreports/reports/151/S151046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hampton (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There was a white light to the southwest looking towards union County that flickered and zig zagged right above tree line of our pasture. Then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160818.html](http://www.nuforc.org/webreports/reports/160/S160818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
