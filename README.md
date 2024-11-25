@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:43 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:39 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright flying object sped across the sky.I was building a garage and I looked up in the sky and I saw a seagull, but that seagull started to form bright colors.  I yelled for my neighbors to come out and they did just in time.  The craft was staying in the same place and started going faster and finally disapeared.  It was going west to east.  After that I couldn't sleep.  When I get certain feeling it is usually right.  I had that feeling.  Not only is this the only sighting, I have seen 5 others. I have the strangest feeling that my hypothesis is correct that it was an ailien space craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11175.html](http://www.nuforc.org/webreports/reports/011/S11175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Scarborough (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>incredibly fast tranveling large white ball of light over scarboroughThe sighting occured while I was driving home with my girlfriend at 11 or 12 at night, travelling what I believe would be northbound on Fogg Rd (a couple miles inland from the ocean) in scarborough. My girlfriend was driving, and I was slouched in the front passanger seat, looking out the windshield.  I saw a large, intensely white (at least it appeared white compared to the dark surroundings) ball of light fly through the sky, parallel to the road, traveling in the same direction as the car.  The light was travelling incredibly fast and appeared to be rather low to the ground, as it was out of sight within one second (however, my range of vision was limited, as I could only see it once it became visible through the windshield, rather than directly overhead). By the time I could react it had vanished into the trees. My immediate thought was that it was some very large comet that had passed through the earth's atmosphere and was waiting to hear some deafening boom.  But I never heard a thing over the car radio. My girlfriend claims that she did not notice it, which does not surprise me, as she was a bit tired and concentrating on driving, as well as the fact that the light disappeared almost instantly from view.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46926.html](http://www.nuforc.org/webreports/reports/046/S46926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
