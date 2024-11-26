@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:08 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw three lights heading north up the Hudson river, all separated by about five minute intervals.  At first, I suspected they were Chinese paper lanterns, but their movement seemed to mechanical, suggesting that it was not that wind that was carrying them, and then my friend (the other witness) noted that they were in fact not going in the direction of the wind.  The lights were orangish and quite bright.((NUFORC Note:  Witness elects to provide no contact information.  We wonder whether the date is correct, but we have no means for confirming it, given that we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124395.html](http://www.nuforc.org/webreports/reports/124/S124395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Havelock (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orangy light, in a diamond shape, disapear into thin air. havelock ncwe were driving past a church on the right, and a few seconds later we were staring at this object thinking "what is this?" we opened the windows, no sound. it was an orange(ish) color. and we tryed not to look away, scared we would miss something, but it literally disapeared into thin air. it just went away. few clouds in the sky. and i have seen one just a mile away from this location about two years ago. someone else described the same thing, but saw it 20 years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79054.html](http://www.nuforc.org/webreports/reports/079/S79054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
