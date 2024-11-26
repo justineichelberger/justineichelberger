@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:17 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:08 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Colts Neck (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White (blinking red and green) star like object over colts neck njThe object I am currently looking at at first glance looks like a star or a plane.  However, it is blinking red, green, and white.  It continues to move right to left and vice versa.  It moved up as well.  If you look closely, it appears that it sometimes moves in a small circular motion while basically staying in the same spot.  Only one was observed.  Looking at it now, after the past 30 minutes, it has moved significantly to the right since the first time I saw it.  I am a soon to be 19 year old visiting home from college for thanksgiving and me and my dad were in the living room when I pointed it out.  He thought it was a plane but when I told him to just watch it, he clearly saw that it really wasn't getting any further or closer.  A few years ago there were reports from our neighbors that in the skies behind our house there were 3 floating orbs that were green, so I don't know if this would have any connection with what my neighbors saw years ago.  Within the last 5 minutes I have seen this spec shaped light/object gradually move upwards and it seems like it has come closer to my house (not so in the distance).  I tried to take a video but for some reason, it's not showing up well on my phone.((NUFORC Note:  Probably a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124389.html](http://www.nuforc.org/webreports/reports/124/S124389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw three lights heading north up the Hudson river, all separated by about five minute intervals.  At first, I suspected they were Chinese paper lanterns, but their movement seemed to mechanical, suggesting that it was not that wind that was carrying them, and then my friend (the other witness) noted that they were in fact not going in the direction of the wind.  The lights were orangish and quite bright.((NUFORC Note:  Witness elects to provide no contact information.  We wonder whether the date is correct, but we have no means for confirming it, given that we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124395.html](http://www.nuforc.org/webreports/reports/124/S124395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
