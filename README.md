@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Herndon (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Rectangle shaped object with blinking red and white lights in Herndon, VAAt about 6am the morning before Thanksgiving I was awoken by a loud noise outside of our apartment building.  Our building is near a rock quarry so I assumed the noise was from an oncoming truck carrying materials to/from the quarry.  I initially ignored the noise thinking it would pass and I could fall back asleep and not worry about the noise awaking my young child.  But the noise did not stop after 5-10 mins.  Finally, I went out onto my balcony and looked for the oncoming or idling truck, but there was none.  So I looked up and that's when I noticed the rectangle shaped object hovering above my building.  I sprinted back into our room to wake my husband and force him to come out into the cold to look into the sky.  He eventually agreed, looked and saw the object and stated its probably a helicopter.  But there are no rectangle shaped helicopters to my knowledge.  He later confessed that after coming back into the apartment he thought to himself "a helicopter would be way more louder than that object".  I tried calling both the town police department and county department.  The town department told me I was out of their jurisdiction and the county department told me their system was down the day I called (about a week or two after the sighthing).  I'm not sure if this matters, but my apartment building is located near the Center for Innovative Technology building about 2 mins from the Dulles Airport.((NUFORC Note:  Source indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67852.html](http://www.nuforc.org/webreports/reports/067/S67852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (near) (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Thanksgiving -  spade shaped object with 10-15 red lights below the cloud overcast and above the tree line.I had just walked into my family's living room for thanksgiving.  After saying hello to everyone I sat down on the couch and looked out the window.  It was an overcast sky so the object I saw was definitely not a plane because it would have been too low.  The object looked like a teardrop shape, almost a spade shape, made up completely of red lights (Probably a good 10-15 red lights around the edge and in the center, symmetrical though.)  It seemed rather large.  It was below the clouds but above the tree line and houses.  The lights did not blink or flash or move formation.  The object hovered there for a second then slowly began descending.  As I was about to get everyone's attention to look outside because I thought I was losing my mind, the craft slowly disappeared behind the tree line and houses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73568.html](http://www.nuforc.org/webreports/reports/073/S73568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
