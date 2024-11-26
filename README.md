@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chicago (near) (IL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Thanksgiving -  spade shaped object with 10-15 red lights below the cloud overcast and above the tree line.I had just walked into my family's living room for thanksgiving.  After saying hello to everyone I sat down on the couch and looked out the window.  It was an overcast sky so the object I saw was definitely not a plane because it would have been too low.  The object looked like a teardrop shape, almost a spade shape, made up completely of red lights (Probably a good 10-15 red lights around the edge and in the center, symmetrical though.)  It seemed rather large.  It was below the clouds but above the tree line and houses.  The lights did not blink or flash or move formation.  The object hovered there for a second then slowly began descending.  As I was about to get everyone's attention to look outside because I thought I was losing my mind, the craft slowly disappeared behind the tree line and houses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73568.html](http://www.nuforc.org/webreports/reports/073/S73568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hoffman Estates (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw something in the airI was driving East on Illinois 58 in Hoffman Estates, IL. I came to a stop at an intersection, when I happen to look up in the air. At that exact moment, a green streak went from the west to the east, high in the air, and then make a sharp 90 degree turn to the south, and then dissapeared. I had 2 other passengers in the car, and neither one of them saw the event. I pulled into a parking lot to get out and keep looking, and did not see anything except regular airplanes in the sky. I know those were airplanes since being within 10 miles of Chicago O'Hare Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04968.html](http://www.nuforc.org/webreports/reports/004/S04968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
