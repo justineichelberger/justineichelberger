@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 25 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While at work on the Ptld, Maine, waterfront ,at 2a.m I did see bright white lights, 25-45 sec, that vanishedbehind,into a cloud ,25 November 2003, I was at my work, on the Portland waterfront at approx. 2 a.m..  It was a rather clear night with very few clouds,I looked towards South Portland and the Spring Point area where there are some oil storage tankers, there is a flight pattern to Portland International Jetport near to where I was looking. Two and then up to four very bright white  lights appeared for approximately 25-45  seconds;  just like a large plane would in approximately the same  usual flight pattern  , but just the bright lights , no sound, no  solid object that I could see. The lights then went into a very large , very white cloud that was low  over the oil tanks. I watched the cloud go towards Portland , slowly, almost meandering, across Portland Harbor over Bath Iron Works[which by the way was working on a huge oil rig at the time] towards the Eastern Promenade  and beyond.I did not see the lights again after they went behind, into ? the large cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35129.html](http://www.nuforc.org/webreports/reports/035/S35129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One Round circular pale orange object rising almost vertically to the South, then over us heading North.My friend and I happened to be out in the backyard when he remarked and pointed out dimly lit round object in the sky to the South.  What was peculiar was it's flight pattern;as it was ascending nearly vertically at first,then headed towards, then almost directly over us, on a Northerly course,which we viewed through binoculars.  Upon getting a closer view we both concurred that the object was round, a pale orange/yellowish color and no regular aircraft running lights appeared.We are both fairly skeptical middle aged men,sober and have aircraft experience ,possesing analytical and perceptive observational abilities.  We both concurred that what we saw had to be a UFO.  Regrettably no pictures were taken,but we both know what we observed an hour ago was not any kind of plane or type of aircraft either one of us have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85505.html](http://www.nuforc.org/webreports/reports/085/S85505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
