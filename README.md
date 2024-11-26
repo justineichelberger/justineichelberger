@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fall River (10 miles north of) (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately ??? - ??? minutes.</sub><blockquote><sub>At around 21:30 I witnessed a star "turn on."  My wife and I observed it swaying in the distant sky.  It emitted red and green lights.  We viewed it through a 9x40 rifle scope and the lights were extending from it in a fan-like shape.  It is still up there.  Is it a comet?  Is it a vehicle launched from earth or is it simply my imagination run amuck?  Look just east of the upper most star in orion's belt.  If it is simply a star, please let me know.  I have never seen a star like that, but I'm not an astronomer.Observer #1:  Liscensed paramedic.  I work as a safety supervisor. Observer #2:  Housewife, married to #1 for 22 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04921.html](http://www.nuforc.org/webreports/reports/004/S04921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>That it seemed to emit a red and blue with some green,it did not move and after a few moments,the intensity of the light would pulsate. others were at different distance. over the hour they did not change position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53635.html](http://www.nuforc.org/webreports/reports/053/S53635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
