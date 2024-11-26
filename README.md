@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Witnessed 3 white lights interacting while star gazing then witnessed a ball of light appear at ground level, photos takenTalk about synchronicity! My mom and I were star gazing by our camp fire when I asked her if she had ever seen any UFO's, she said no and I proceeded to share my first sighting story (that happened a couple of years ago while I was driving - I saw a green light in the sky). As I was finishing my story she pointed out two lights flying across the sky above us interacting with each other, then a third light appeared and followed the other two and then all three of them disappeared.About 10 minutes later while I was taking photos of our surroundings with my camera, a large bright ball of light appeared about 15ft above ground level directly in front of my field of view over the bushes behind our camp site. I called out to my mom to come out from the tent to see this. We both stared at this light, it moved in our direction at first, then it stopped and hovered over the bushes and then it started to move away from us. After a couple of minutes it disappeared. I took several pictures during its presence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165617.html](http://www.nuforc.org/webreports/reports/165/S165617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I viewed 3 orange circles in the south eastern sky.  They stayed still for a few seconds, and then streaked off.Very high in the south eastern sky - very far above where airplanes fly - an airplane happened to fly by at the same time - 3 orange glowing rings, not much larger than stars, but large enough for me to see them and determine that they were circular in shape, were seen by me just as I glanced up at the sky.  They were in a straight line; I could not tell if they were touching each other or not.  Nevertheless, they were in very close proximity to each other.  The line was straight but at about 30 degrees.  After several seconds had passed, they took off in 3 streaks of orange moving upwards at a 45 degree angle and then disappeared.((NUFORC Note:  We spoke via telephone with the witness, and she sounded to us to be quite serious-minded.  We suspect that she is an excellent, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137506.html](http://www.nuforc.org/webreports/reports/137/S137506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
