@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:51 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One Round circular pale orange object rising almost vertically to the South, then over us heading North.My friend and I happened to be out in the backyard when he remarked and pointed out dimly lit round object in the sky to the South.  What was peculiar was it's flight pattern;as it was ascending nearly vertically at first,then headed towards, then almost directly over us, on a Northerly course,which we viewed through binoculars.  Upon getting a closer view we both concurred that the object was round, a pale orange/yellowish color and no regular aircraft running lights appeared.We are both fairly skeptical middle aged men,sober and have aircraft experience ,possesing analytical and perceptive observational abilities.  We both concurred that what we saw had to be a UFO.  Regrettably no pictures were taken,but we both know what we observed an hour ago was not any kind of plane or type of aircraft either one of us have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85505.html](http://www.nuforc.org/webreports/reports/085/S85505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Apollo Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Craft moving from north to south.I am a bio engineer, currently working on a US Army contract.  I say this to ensure my credibility.  My daughter, her 2 friends, and myself all witnessed a craft that is unexplainable.  It can be described as what first looked like a Chinese lantern, but after a few seconds, it became apparent it was not.  It was orange in color, moving at a very high rate of speed, from north to south, with a slight zig zag motion.  We watched it for about 12 to 15 seconds, and then it vanished.  It was about 10:15 at night.   Without question, it was not a satellite, meteor, plane, balloon or anything I've ever seen in videos or in person.  This was, without a doubt, a controlled craft of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124391.html](http://www.nuforc.org/webreports/reports/124/S124391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
