@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Claremore (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw a bright multi-colored light which moved in an erratic fashion and appeared at times to be an orb surrounded by energy.Saw a very bright "star" that seemed very out of place.  Upon further observation noticed that the light was blinking and changing colors rapidly from red, blue, green, yellow and then would change back to white for a while then go back through the same repition.  I then proceeded to get out the video cameraand under 16x zoom noticed that the light would often proceed in an erratic motion and would quickly go from being a pinprick of light to a large orb surrounded by an ambience of energy.  I'm sorry if these terms are ambiguous; I'm not sure how else to describe it.  There were several, perhaps 3 or four, fainter lights surrounding the brighter light.  The lights were still there when I went to bed, so I'm not sure the exact duration of the event, but I observed it for at least two hours.((NUFORC Note:  We believe the report may address a "twinkling" star, or a planet.  The image changed in the video viewfinder because it was set on "AutoFocus" during nighttime conditions.  We have many such videos on file.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15070.html](http://www.nuforc.org/webreports/reports/015/S15070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Apollo Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Craft moving from north to south.I am a bio engineer, currently working on a US Army contract.  I say this to ensure my credibility.  My daughter, her 2 friends, and myself all witnessed a craft that is unexplainable.  It can be described as what first looked like a Chinese lantern, but after a few seconds, it became apparent it was not.  It was orange in color, moving at a very high rate of speed, from north to south, with a slight zig zag motion.  We watched it for about 12 to 15 seconds, and then it vanished.  It was about 10:15 at night.   Without question, it was not a satellite, meteor, plane, balloon or anything I've ever seen in videos or in person.  This was, without a doubt, a controlled craft of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124391.html](http://www.nuforc.org/webreports/reports/124/S124391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
