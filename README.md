@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Havelock (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>orangy light, in a diamond shape, disapear into thin air. havelock ncwe were driving past a church on the right, and a few seconds later we were staring at this object thinking "what is this?" we opened the windows, no sound. it was an orange(ish) color. and we tryed not to look away, scared we would miss something, but it literally disapeared into thin air. it just went away. few clouds in the sky. and i have seen one just a mile away from this location about two years ago. someone else described the same thing, but saw it 20 years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79054.html](http://www.nuforc.org/webreports/reports/079/S79054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spanish Fork Canyon (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>green disc crash landed on top of billies mountainas i was returning home from sisters house on thanksgiving day of 2002. i was coming near the intersection of hyways 98 & 6 near the place called billies mountain. i saw a disc shaped object that was dark florecent green in color, and had a very bright white glow that incircled it. the green, and white colors trailed behind it like a short tail. it was about 100 ft. from crashing on the top of billies mountain. it was enormous in size maybe 200 ft. in diameter. when it crashed it lit up the sky as if it were mid-day. i kept on driving as i thought that this was none of my buisness i thought that the military or some goverment people would be there vrey soon to check it out. i heard nothing on the news or any other report of anykind of this crash. so at 11:00 pm i called chanel kutv2 news and reported what i had seen. they had no report other than my own on what had happened. i hope someone can find out what this was. i truly believe that this was a ufo crash. thank you((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36339.html](http://www.nuforc.org/webreports/reports/036/S36339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
