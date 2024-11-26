@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:12 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Corinth (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I could not sleep, so i got out of bed and went to my back pourch to smoke a cigarette. I got up from my chair and went into the back yard,  My neighbors dog was barking. I looked up into the sky and saw a big round (Sphere) Hovering about 100 feet above my house, I was about 6 feet across and was moving up and it would stop and would move up more the longer i looked at it.  I was like looking at a round mirror, I freeked out and went inside to get my camera and when i got outside it was gone. I work for a airline that was not an aircraft, saw the same object 20 years ago in West Virginia on my familys farm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53782.html](http://www.nuforc.org/webreports/reports/053/S53782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Enid (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>My wife and i let my dog out at 1.  I was looking at the stars like i always do when i let my dog out and i saw an unusually bright star outside way brighter then the rest of the stars.  it took me a second to realize it was moving i pointed to my wife and it took her a second to realize it was moving too then it did i u turn unlike any airplane i have seen it has no red warning lights flashing.  Then it stopped just sat there in the sky floating there.  we weren't inside to get our roommate and our phone after we went outside it was gone,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115709.html](http://www.nuforc.org/webreports/reports/115/S115709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
