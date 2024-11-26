@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spanish Fork Canyon (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>green disc crash landed on top of billies mountainas i was returning home from sisters house on thanksgiving day of 2002. i was coming near the intersection of hyways 98 & 6 near the place called billies mountain. i saw a disc shaped object that was dark florecent green in color, and had a very bright white glow that incircled it. the green, and white colors trailed behind it like a short tail. it was about 100 ft. from crashing on the top of billies mountain. it was enormous in size maybe 200 ft. in diameter. when it crashed it lit up the sky as if it were mid-day. i kept on driving as i thought that this was none of my buisness i thought that the military or some goverment people would be there vrey soon to check it out. i heard nothing on the news or any other report of anykind of this crash. so at 11:00 pm i called chanel kutv2 news and reported what i had seen. they had no report other than my own on what had happened. i hope someone can find out what this was. i truly believe that this was a ufo crash. thank you((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36339.html](http://www.nuforc.org/webreports/reports/036/S36339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in McChord AFB/Ft. Lewis (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked up above my house on jblm, Lewis main.  Three balls of red flare light hovered over. The Blackhawks were not flying at all at this time.  I drove by the airfeild which is down my street to see the birds all parked.  At first the balls looked to be possibly Chinese lanterns, but it was raining.  It was three objects the last object seemed to be trailing the first two.  All objects then dissipated into the sky.  I have video but wasn't able to email it because of size.  I want to send it to you guys.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131489.html](http://www.nuforc.org/webreports/reports/131/S131489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
