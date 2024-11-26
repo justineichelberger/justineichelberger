@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jennings (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Non symmetrical hole in skyI never really thought to report this until I heard something on the radio last week about UFO’s which made me recall this to memory.  The more I got to thinking about it, I decided to look up someone to report it to.  It appears the Air Force on longer takes reports, but I found your website in the process.  Rather than calling this a UFO, I would have to call it just a plain UO for “Unidentified Occurance”.  To this day, this remains the most unexplainable thing that I’ve ever witnessed.  I guess what I’m hoping to gain out of reporting this is to hear there was more than one person who witnessed the same thing.On Wednesday, November 26, 2014, at about 8:00 AM, my wife and I were traveling west bound on I-10 near Jennings, LA.  Unfortunately, my wife was asleep, which means I was the only one to witness it.  As I remember, it was cool weather with a perfectly clear blue sky.The best way to describe what I saw would be a hole in the sky that closed in on itself and disappeared.  From what I can remember, the hole was not symmetrical, but of an oval shape with somewhat of a jagged boarder.  The inner part of the hole was a pinkish color which was a definite contrast to the surrounding blue sky.  The outer border was very distinct like an extremely bright light breaking through a crack between the blue sky and the pinkish color of the inner part.  It took me a few seconds to comprehend what I was looking at when I finally started telling my wife to wake up.  By the time she opened her eyes and I was able to direct her to what I was looking at, the hole disappeared.  It’s hard for me to describe a size on it since it was in the sky, but I would say it was like looking at a nonsymmetrical oval roughly 1-3/4” long by about 1-1/2” high at a distance of about 12 to 14 inches from my face.  In other words, it wasn’t taking up very much space in the sky.  When it disappeared, it was as though it sucked itself into nothing until it was gone.  I would say it wasn’t any more than about 10 seconds from the time I first saw it until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147448.html](http://www.nuforc.org/webreports/reports/147/S147448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object in sky turned lights on, while hovering in one spot.We were driving down College Ave by Jax Surplus, when we saw an object just sitting in the sky pretty lowly.  It only had two lights on, and as we drove under it, all of the lights turned on and it stayed a bit longer.  We looked back and it had disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137444.html](http://www.nuforc.org/webreports/reports/137/S137444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
