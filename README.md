@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hoffman Estates (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>saw something in the airI was driving East on Illinois 58 in Hoffman Estates, IL. I came to a stop at an intersection, when I happen to look up in the air. At that exact moment, a green streak went from the west to the east, high in the air, and then make a sharp 90 degree turn to the south, and then dissapeared. I had 2 other passengers in the car, and neither one of them saw the event. I pulled into a parking lot to get out and keep looking, and did not see anything except regular airplanes in the sky. I know those were airplanes since being within 10 miles of Chicago O'Hare Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04968.html](http://www.nuforc.org/webreports/reports/004/S04968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Corinth (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I could not sleep, so i got out of bed and went to my back pourch to smoke a cigarette. I got up from my chair and went into the back yard,  My neighbors dog was barking. I looked up into the sky and saw a big round (Sphere) Hovering about 100 feet above my house, I was about 6 feet across and was moving up and it would stop and would move up more the longer i looked at it.  I was like looking at a round mirror, I freeked out and went inside to get my camera and when i got outside it was gone. I work for a airline that was not an aircraft, saw the same object 20 years ago in West Virginia on my familys farm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53782.html](http://www.nuforc.org/webreports/reports/053/S53782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
