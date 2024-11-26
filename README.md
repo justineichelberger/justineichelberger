@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 red orange balls over Bellingham in a triangle formation.Was driving along Interstate 5, northbound, when noticed 3 red/orange glowing balls to the west of me.  They were in a triangular formation, with two of the balls close together and the third a longer distance away.  It appeared to be stationary.  They were too big to be stars, and they weren't moving, so I concluded they were not planes.  I watched this object for maybe two minutes while trying to drive, then lost view of it behind trees and houses.  After I lost track of it, I noticed there were no large red/orange stars visible anywhere, nor did any of the planes in the sky have solid non-blinking lights.  Plus, the plane lights were smaller.  I don't know what it could have been.  But it was in a triangle formation and just sitting there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124385.html](http://www.nuforc.org/webreports/reports/124/S124385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fall River (10 miles north of) (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately ??? - ??? minutes.</sub><blockquote><sub>At around 21:30 I witnessed a star "turn on."  My wife and I observed it swaying in the distant sky.  It emitted red and green lights.  We viewed it through a 9x40 rifle scope and the lights were extending from it in a fan-like shape.  It is still up there.  Is it a comet?  Is it a vehicle launched from earth or is it simply my imagination run amuck?  Look just east of the upper most star in orion's belt.  If it is simply a star, please let me know.  I have never seen a star like that, but I'm not an astronomer.Observer #1:  Liscensed paramedic.  I work as a safety supervisor. Observer #2:  Housewife, married to #1 for 22 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04921.html](http://www.nuforc.org/webreports/reports/004/S04921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
