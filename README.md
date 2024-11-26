@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Apollo Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Craft moving from north to south.I am a bio engineer, currently working on a US Army contract.  I say this to ensure my credibility.  My daughter, her 2 friends, and myself all witnessed a craft that is unexplainable.  It can be described as what first looked like a Chinese lantern, but after a few seconds, it became apparent it was not.  It was orange in color, moving at a very high rate of speed, from north to south, with a slight zig zag motion.  We watched it for about 12 to 15 seconds, and then it vanished.  It was about 10:15 at night.   Without question, it was not a satellite, meteor, plane, balloon or anything I've ever seen in videos or in person.  This was, without a doubt, a controlled craft of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124391.html](http://www.nuforc.org/webreports/reports/124/S124391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Davenport (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Slow fireball with no tail floating over Central Florida sky.Around 10:00 PM my friend was leaving my house when he saw a bright object floating in the sky.  He yelled for me and I walked outside to see a round object that seemed to be on fire.  The object made no sound.  It had no tail.  It didn’t seem to be very far up in the sky but somewhat far.  It looked like it was floating across the sky at a medium speed.  It was going in a straight line towards the west.  We watched it until it disappeared behind houses out of our view.  About 10 minutes after seeing the first object, we were watching the sky still and saw another one that looked the same and was traveling at the same speed.  The second one was farther from where we saw the first one.  It was traveling in the same direction however.  We waiting outside for 20 minutes and saw nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131471.html](http://www.nuforc.org/webreports/reports/131/S131471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
