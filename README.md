@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dunstable (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO dancingI was walking home late after work, i work in Pa Newmans mill. I looked southwards, and saw a terrible sight 2 Saucers dancing a funny dance of doom. I immediatly ran home a found my video camera and started filming. But my wife had used the tape on my first steps of my child. I was very dissapointed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40822.html](http://www.nuforc.org/webreports/reports/040/S40822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroe (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A triangular object with white and blue lights flying toward a airport then abruptly awayI live near a small municipal airport and I’m used to seeing low flying planes and have learned pretty much how to figure out the model of airplane.  But at around 1930 on tuesday night I pulled up to an intersection and witnessed a what appeared to be a plane flying very low, by the way it was a rainy night with very low cloud cover, it was a triangular shaped object with a white light on the back end and a dim greenish blue light in the middle.  When I saw it I figured that it was a plane on approach but as I watched it seemed flying too fast for a safe landing.  When I saw the green light I thought it was a landing light and I waited for a blinking strobe which is a requirement for all airplanes but witnessed none.  I brought it to the attention of my grandmother in the passenger seat and as the time she looked up and saw it accelerated hard right and went behind a house.  I stepped on the pedal to get to the top of a hill and see it again but it was gone. I am very used to seeing low flying planes and helis but this was unlike I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94867.html](http://www.nuforc.org/webreports/reports/094/S94867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
