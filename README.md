@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chadds Ford (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving south on Rt.1 through Chadds Ford, Pa. on black Friday (day after Thanksgiving).  Before passing Longwood Gardens on the way to Oxford, Pa, I witnessed a large, bright shape in sky to my southwest.  It was blue, white, yellow & green. It had a white tail, like a shooting star.  It was almost like the Girl Scout symbol in shape.  I know, since the road was crowded, others saw the same thing.  It didn't seem to be documented on the news or in print.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73641.html](http://www.nuforc.org/webreports/reports/073/S73641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle craft over ocean beach in san franciscoDay after Thanksgiving 2002 I was walking on Ocean Beach and happened to look up at the sky- I walk this stretch of the ocean frequently as I've lived across the street since 1996- I know what planes & helicopters look like and this was definitely some other sort of craft. I saw it up there, toward the cliff house- it was silver with some spikes sticking out, jutting out of two of its sides- like black poles which were sticking up. It also seemed to have a tail at one end- kind of like a stalk stem of a mushroom. I looked around me to see if anyone else was seeing it. I stopped and tried to see if I could flag someone down to look, too. I kept thinking, "God, is that a UFO?" There was noone likely to stop, it somehow didn't seem appropriate and the beach wasn't that crowded. It was sunny, clear, I know what I saw and it was very weird. Anyway, the even weirder thing is is how I actually felt looking at it- extremely serene and calm; it was almost like whoever was in charge of it or actually in it wanted me to see it. It lasted a long time, about 1 minute. I remember thinking, "This is like on Art Bell." I've neevr felt whatever it was I was feeling before or since when I saw it. I also rwemember thinking, "What's gong to happen?"  I kept my eye on it and next thing I knew it was gone. One second there, the next, out. It was a ways up in the sky- you'd need to be looking at that patch of sky to see it or be looking at that general area and then maybe it would get your attention. Like I said, I'm used to looking at that area of the sky on walks-. I told someone I know & he said it sounds like a secret military craft- I can't recall the word he used but it sounded right- some sort of very light craft. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36787.html](http://www.nuforc.org/webreports/reports/036/S36787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
