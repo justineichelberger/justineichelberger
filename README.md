@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>starlike moving object  that suddenly disappeared.heading north down dirksen .i was riding with my wife .i pointed out the light to my wife. and we watched this starlike light go from the east to north. as we were heading north ourselfs .but it vanished as we both started watching it .this lasted a total of a minute or so .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94853.html](http://www.nuforc.org/webreports/reports/094/S94853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dunstable (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO dancingI was walking home late after work, i work in Pa Newmans mill. I looked southwards, and saw a terrible sight 2 Saucers dancing a funny dance of doom. I immediatly ran home a found my video camera and started filming. But my wife had used the tape on my first steps of my child. I was very dissapointed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40822.html](http://www.nuforc.org/webreports/reports/040/S40822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
