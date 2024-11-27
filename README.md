@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brilliant multi-colored light hanging in the east-southest sky for over half an hourI can't say that this is a true UFO as it remained stationary in the sky for the entire time of the sighting and never seemed to "fly" anywhere.  It looks like a star, which is the obvious answer, but when observed through high powered binoculars, the object quickly and constantly changes color from green to red to yellow to white.  It is far more vivid than a typical "twinkling" star, especially considering that I can see it through the light pollution of the city (Chicago).  I am 100% certain that it is NOT an airplane as it has remained in the same spot in the sky for several minutes.  I just went out and checked again and it is still there some thirty minutes after I first saw it.  It is in the eastern sky, slightly to the SE, directly below the "belt" of the constellation Orion.  It is perhaps one third the way up the horizon.  If it is a star, it is doing some very strange things.  A slight tail can be seen pointing to the left.  I was alerted to this by my father who lives in central Michigan.  He called to tell me about his sighting. He thought it was the comet Holmes and called me.  It is in the wrong part of the sky to be said comet and far too brilliant, as the comet is now barely visible to the naked eye.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60066.html](http://www.nuforc.org/webreports/reports/060/S60066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A flash of light streaked across the daytime sky at about the altitude of a jet, but at least 10 times faster.In my peripheral vision I saw a a light streak across a short distance of the sky--if it had been just a few feet away, I would have perceived its speed as over 100 mph.  Considering it seemed more like a few thousand feet away, it must have been going at least 1000 mph.If I had witnessed this at night, I would have assumed it was a "shooting star," but the sun had been up for an hour.  It was foggy, but I could still see the blue sky clearly.  It left a short contrail that faded at both ends.  The incident and contrail seemed to close to earth to have been a meteor, even if it were possible to see it during the daylight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26269.html](http://www.nuforc.org/webreports/reports/026/S26269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
