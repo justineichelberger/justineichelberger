@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A flash of light streaked across the daytime sky at about the altitude of a jet, but at least 10 times faster.In my peripheral vision I saw a a light streak across a short distance of the sky--if it had been just a few feet away, I would have perceived its speed as over 100 mph.  Considering it seemed more like a few thousand feet away, it must have been going at least 1000 mph.If I had witnessed this at night, I would have assumed it was a "shooting star," but the sun had been up for an hour.  It was foggy, but I could still see the blue sky clearly.  It left a short contrail that faded at both ends.  The incident and contrail seemed to close to earth to have been a meteor, even if it were possible to see it during the daylight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26269.html](http://www.nuforc.org/webreports/reports/026/S26269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chadds Ford (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving south on Rt.1 through Chadds Ford, Pa. on black Friday (day after Thanksgiving).  Before passing Longwood Gardens on the way to Oxford, Pa, I witnessed a large, bright shape in sky to my southwest.  It was blue, white, yellow & green. It had a white tail, like a shooting star.  It was almost like the Girl Scout symbol in shape.  I know, since the road was crowded, others saw the same thing.  It didn't seem to be documented on the news or in print.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73641.html](http://www.nuforc.org/webreports/reports/073/S73641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
