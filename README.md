@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:47 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Crescent Shaped UFO Passes over Houston November 2011My sister and I were standing in front of our home talking, suddenly I heard a low flying jet pass over our home and immediately looked up at the sky.  The sky was completely clear with many aircraft circling, but, I immediately noticed an extremely large crescent -shaped object flying at what appeared to be a much higher altitude then the known aircraft. In comparison this craft was approximately 1.5-2 inches across, at least 4 times larger than any other discernible aircraft in the sky.  The object was emitting absolutely no light or sound, and at several points it appeared that areas of the craft appeared to vanish then reappeared.   At one point, there appeared to be a very low intensity blue light that pulsed from the center of the craft and radiated out towards the tips of the wings. In effect it was as if the light was internal with-in the craft, but, the craft was covered in a smoked glass allowing it to emit and be seen.  The craft appeared to be almost! the color of the sky, similar to a dark-cloud coloration, possibly a light blue, gray or silver hue, but barely discernible from the color of the sky at the time.  The speed at which the object traveled across the sky was at a much higher rate than any of the know aircraft in the sky.  It was traveling from the west-southwest of Houston toward the east-northeast.   Neither myself, nor my sister have ever seen a craft such as this, nor have any idea of what exactly it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85520.html](http://www.nuforc.org/webreports/reports/085/S85520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lichfield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>extremely brightly lit object behind clouds which instantaneously moved severals miles at a time over green beltIt was a dark night and an extremely bright object could be seen through the clouds. It instantaneously moved 3-4 miles back and forth, so quickly you didn't see it move. At one point it looked slightly triangular. It was it's speed and intensity of light which made it very odd. The other occupant of the car we were in took a photo on a cell phone, it's pretty poor quality, I don't understand the photo but it's attached anyway. You can make out the offside door pillar as a point of reference and the camera was pointing up and the photo taken in the rear passenger seat. I don't know what the square shape is, at first i thought it was the car mirror but that wasn't in view of the camera. There also is a tree looking object there weren't any that close. There was no camera flash nor were there any lights on that particular road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48105.html](http://www.nuforc.org/webreports/reports/048/S48105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
