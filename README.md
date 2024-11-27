@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My family were driving from Newark to Wilmington, DE.  They were 7 people in the car, everything was foggy so it was hard to see the road, however, from a moment to another circular lights showed up in the sky, they were 10 craft every one has 5 lights and they were coming on line formation.((NUFORC Note:  We wonder whether this is a serious report, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124401.html](http://www.nuforc.org/webreports/reports/124/S124401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low-flying large object over Fredericksburg.I was in my bedroom which toward the back of a townhouse when I heard a low rumbling sound.  I didn't think anything of it at first and thought it was my neighbors next door, but it got louder.  I looked out my rear window and saw, what I can describe as a fleeting shadow. I went to my daughters room which is down the hall (10 feet), where her curtains were open and I saw what appeared to be a round object.  This object flashed very bright red lights which stayed steady for a several seconds, then flashed again.  There were two of these lights, and two white lights.  The white lights were very bright and flashed much more quickly then these two lights.  I could see a structure to this craft and it appeared to be round.  Due to the darkness the detail could not be made.Going back to the lights, the best way to explain the position of the lights is by showing them in a lower case "t".  One red light was at the top, the other at the bottom, while the two white lights were one on each side of the arms of the "t".  This craft was very low and after it went past my house, made no noise.   flight path for aircraft flies from Richmond normally higher altitudes north and south.  This craft came from the West and again was very low.  I would have to estimate it was about 1,000 feet off the ground, maybe lower.I am former air force security forces and have extensive experience around aircraft, ranging from helicopters through the crafts. In the past week or so, I have seen either a C-17 or C-5 flying north of where I live, but they were MUCH higher then this craft, at approximately 20,000 feet.  I waited some time to see if one would fly back around again, and none have.  The nearest AFB is Andrews in MD, while Langley is south east. I know without a doubt that it was not a helicopter. This was much, much bigger.Quantico, Stafford are within 20 minutes of my house while Shannon is within 10.  Neither Shannon or Stafford could support any large aircraft.  I am trying to find a rational explanation for what I saw, but cant find one, which is why I am reporting this.I was not able to record any video and would request follow up to see if any other reports were made and or if any information was found that would explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104816.html](http://www.nuforc.org/webreports/reports/104/S104816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
