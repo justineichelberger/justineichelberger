@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 26 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>That it seemed to emit a red and blue with some green,it did not move and after a few moments,the intensity of the light would pulsate. others were at different distance. over the hour they did not change position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53635.html](http://www.nuforc.org/webreports/reports/053/S53635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Crescent Shaped UFO Passes over Houston November 2011My sister and I were standing in front of our home talking, suddenly I heard a low flying jet pass over our home and immediately looked up at the sky.  The sky was completely clear with many aircraft circling, but, I immediately noticed an extremely large crescent -shaped object flying at what appeared to be a much higher altitude then the known aircraft. In comparison this craft was approximately 1.5-2 inches across, at least 4 times larger than any other discernible aircraft in the sky.  The object was emitting absolutely no light or sound, and at several points it appeared that areas of the craft appeared to vanish then reappeared.   At one point, there appeared to be a very low intensity blue light that pulsed from the center of the craft and radiated out towards the tips of the wings. In effect it was as if the light was internal with-in the craft, but, the craft was covered in a smoked glass allowing it to emit and be seen.  The craft appeared to be almost! the color of the sky, similar to a dark-cloud coloration, possibly a light blue, gray or silver hue, but barely discernible from the color of the sky at the time.  The speed at which the object traveled across the sky was at a much higher rate than any of the know aircraft in the sky.  It was traveling from the west-southwest of Houston toward the east-northeast.   Neither myself, nor my sister have ever seen a craft such as this, nor have any idea of what exactly it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85520.html](http://www.nuforc.org/webreports/reports/085/S85520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
