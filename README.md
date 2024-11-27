@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Monroe (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A triangular object with white and blue lights flying toward a airport then abruptly awayI live near a small municipal airport and I’m used to seeing low flying planes and have learned pretty much how to figure out the model of airplane.  But at around 1930 on tuesday night I pulled up to an intersection and witnessed a what appeared to be a plane flying very low, by the way it was a rainy night with very low cloud cover, it was a triangular shaped object with a white light on the back end and a dim greenish blue light in the middle.  When I saw it I figured that it was a plane on approach but as I watched it seemed flying too fast for a safe landing.  When I saw the green light I thought it was a landing light and I waited for a blinking strobe which is a requirement for all airplanes but witnessed none.  I brought it to the attention of my grandmother in the passenger seat and as the time she looked up and saw it accelerated hard right and went behind a house.  I stepped on the pedal to get to the top of a hill and see it again but it was gone. I am very used to seeing low flying planes and helis but this was unlike I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94867.html](http://www.nuforc.org/webreports/reports/094/S94867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>slow traveling light disappearsOn Thanksgiving Morning apporximately five thirty in the morning my family and I were traveling west bound on I-295 towards Milwakuee, Wisconsin.  We were near O'hare airport when I looked up and observed a bright light.  I watched it with interest because I didn't think it was a plane as it was traveling slow and had no blinking lights on it.  I was still watching it when we went under and overpass and when we drove out a second later where the light sould have been, and it vanished.  A couple of minutes later I saw other craft flying low over the chicago area.  I don't know the chicago area very well, and all I know is that they looked to just be hovering over hotels and buildings.  I did mention what I saw to my husband, but he is a skeptic and was just getting annoyed at me.  So I went back to sleep.  I forgot about the sighting until recently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67517.html](http://www.nuforc.org/webreports/reports/067/S67517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
