@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alice Springs (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>2 UFO's in Central Australia with separate red flash of lightsMy friend and I had just been swimming in a small waterhole 4 kilometres north of Alice Springs, which is in Central Australia.  We were sunbathing and looking up at the clouds when I noticed what looked like a floating plastic bag up high in the sky.  On closer inspection it appeared to look similar to a boomerang rotating  anti-clockwise in a North Easterly path.  It moved about the same speed as a slow plane but bared no resemblance whatsoever to a plane.  After watching it for several minutes I then noticed a twinkling pulsing light.  It looked like a star that was moving about a 10th of the pace as a shooting star, but as this was around 4pm in the afternoon it was certainly not a star. After moving our attention to this second UFO my friend and I both saw 2 red lights appear one directly above the other.  They appeared from nowhere, flashed for about 2 seconds then dissapeared.  They were somehere between the two slightly closer to the second UFO.  After these! lights appeared we both lost vision of the other 2 UFO's. I would love some insight to this peculiar afternoon, particularly on the 2 red lights as I have never seen anything like it!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85529.html](http://www.nuforc.org/webreports/reports/085/S85529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lumberton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Moving bright light goes dimIt was after dark.  A real Clear and bright night.  I looked up at the stars and for a quick few minutes.  I saw a bright light moving about as fast as you usually see an airplane at night.  But the weird thing was I could tell it was at a very high altitude.Anyway the light was bright then went into a very dim mode.  I could barely see it as it was moving from south to the north. The nearest major airport is about 100 miles away if that means anything.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60065.html](http://www.nuforc.org/webreports/reports/060/S60065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
