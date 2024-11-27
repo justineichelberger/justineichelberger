@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:55 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:42 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eden (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright object hovering for more than a hour direction East of my houseVery bright somewhat light pulsating, bright to slightly dimmer. No movement just stayed stationary. I finally went back to bed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160852.html](http://www.nuforc.org/webreports/reports/160/S160852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Red orange lights over apache junction in ArizonaWhile driving back from the store I noticed a red/orange light on my right side of my pheriferal vision,when I got a better view another one appear right below it.At this point I knew that it was not an airplane and it freaked me out,  I looked to the front to make shure I didn't hit any cars then my eyes went back to the lights.Because I was driving I couldn't tell if the lights were mooving or not, however I could tell that the lights were bigger than airplane lights but not as bright with a reddish orange glow.And as soon as they appear they disappear, first the top one then two seconds later the bottom one,it looked like the lights imploded into its center and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94858.html](http://www.nuforc.org/webreports/reports/094/S94858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
