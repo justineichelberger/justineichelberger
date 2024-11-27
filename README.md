@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Same light shape 2 different days same approximate time.For the 2nd time this week there is a circular blue light over the Gulf of Mexico off the coast of St. Pete beach...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131509.html](http://www.nuforc.org/webreports/reports/131/S131509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Thayer (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Report submitted to MISSOURI INVESTIGATORS GROUP; ufomig@yahoo.com.  I wasn't sure what this event fell under spiritual or ufo, so I will give it my best shot. My son and I were travelling North Bound on 63 highway when I first saw the object I was in North Central Arkansas near mammoth springs.  I was driving in the dark around curves and as I leaned forward to sneeze I looked up and through the wind shield I saw sparkling fire projectile out of a craft almost like it was making fun of my sneezing motion or like "vomiting" sparks in the sky.  I thought it may be fireworks of some kind, but didn't see a trail.  We continued down the road a few miles when I saw it off this time to the right up in the sky but this time there were two objects in the sky. they were like pinwheels in the sky. flying off sparks and spinning. this time was 18:45 and I pulled over to try to get pictures I wasn't parked very well and was concerned so I didn't stay very long. I struggled with my cell phone, but as soon as I got it out to record the craft disappeared.  It was a golden color.  Disappointed I got back in my vehicle with my son, and we continued on our way. I noted the name of a creek on the highway called field creek.  We didn't see the craft again until we reached Thayer Missouri, where I noticed the off to the right side of town again.  Myself and My son pulled over to the side of the road and watched as the fireballs/crafts danced around each other like a yin/yang then once again when I got my phone out to record they disappeared.  My son noticed that their were very small dots in the sky which blinked on and off, remained perfectly aligned vertically and moved quickly from one side of the sky to the other blinking on and off much like pac-man dots.  They avoided going directly over the town but instead made sure to go over rural areas.  That last time we saw them was at 19:11.  I finally got around to doing this report as it was very bu! sy during the holidays and things have calmed down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96161.html](http://www.nuforc.org/webreports/reports/096/S96161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
