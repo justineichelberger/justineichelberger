@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:42 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Red orange lights over apache junction in ArizonaWhile driving back from the store I noticed a red/orange light on my right side of my pheriferal vision,when I got a better view another one appear right below it.At this point I knew that it was not an airplane and it freaked me out,  I looked to the front to make shure I didn't hit any cars then my eyes went back to the lights.Because I was driving I couldn't tell if the lights were mooving or not, however I could tell that the lights were bigger than airplane lights but not as bright with a reddish orange glow.And as soon as they appear they disappear, first the top one then two seconds later the bottom one,it looked like the lights imploded into its center and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94858.html](http://www.nuforc.org/webreports/reports/094/S94858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brilliant multi-colored light hanging in the east-southest sky for over half an hourI can't say that this is a true UFO as it remained stationary in the sky for the entire time of the sighting and never seemed to "fly" anywhere.  It looks like a star, which is the obvious answer, but when observed through high powered binoculars, the object quickly and constantly changes color from green to red to yellow to white.  It is far more vivid than a typical "twinkling" star, especially considering that I can see it through the light pollution of the city (Chicago).  I am 100% certain that it is NOT an airplane as it has remained in the same spot in the sky for several minutes.  I just went out and checked again and it is still there some thirty minutes after I first saw it.  It is in the eastern sky, slightly to the SE, directly below the "belt" of the constellation Orion.  It is perhaps one third the way up the horizon.  If it is a star, it is doing some very strange things.  A slight tail can be seen pointing to the left.  I was alerted to this by my father who lives in central Michigan.  He called to tell me about his sighting. He thought it was the comet Holmes and called me.  It is in the wrong part of the sky to be said comet and far too brilliant, as the comet is now barely visible to the naked eye.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60066.html](http://www.nuforc.org/webreports/reports/060/S60066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
