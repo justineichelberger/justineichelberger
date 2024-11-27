@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:09 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 630.0 - 630.0 minutes.</sub><blockquote><sub>There ARE UFOs over Robins AFB, Ga.There were 6 things in the sky. At first, we thought they were airplanes over the AFB, but they were stationary and didn't have the usual lights one sees on planes at night.  When we looked at them through my daughter's binoculars, we could see them better.  They were triangular-shaped, but without the bottom of a triangle - they were like upside-down V's.  There were two larger ones and three smaller ones.  They were just hovering over Robins AFB all night long.  I kept getting up to check to see if they were still there and they were. Around 1:30 am one of the big ones just left - it was there and then it wasn't & when I got up to look again around 3:30 am, there were only two small ones left. Finally at 6:22 am 11/29/01, there was only one left.  This is not the first time that I have seen strange things over the base, but it was the first time that I ever had a chance to see them with more than my naked eyes.  These things are sometimes long and oval-ish with orange lights on the underside, and I have seen some weird looking round ones, too.  They never show up in the late spring-early summer either.  They always start coming in late November and you can see them 2-3 times a week until as late as the last week of February/first days of March.((NUFORC Note:  No other reports from the Air Force base for this date.  The fact that the objects have been seen repeatedly, and for up to 10.5 hours (as indicated in this report), suggests to us that they may be celestial bodies, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20591.html](http://www.nuforc.org/webreports/reports/020/S20591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Clear objects with flashing lights over Carson Elementary school.Looking east from playground at Carson Elementary School. Dark, stormy cloud cover made the objects more obvious.  Could not tell shape.  Approximately 8-10 objects appeared to be clear blades with flashing white lights (one or two each?) flying at varying speeds and heights.  No sounds; variety of movements and groupings.  Tried to take pictures but too far away and too small.There were other people on the playground with me, but I did not think fast enough to ask if they saw them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143907.html](http://www.nuforc.org/webreports/reports/143/S143907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
