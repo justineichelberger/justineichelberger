@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:28 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:19 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>They were brown,large eyes, high picthed sound, we blacked out and had skin taken from us.We saw 8 craft 3 of which were on the ground and seemed to be damaged. We saw 2 small organisims which were light brown with oval shaped eyes. They were amitting a high picthed sound. When hearing it we blacked out and after we woke up we each had a large piece of skin taken out of our arms and we were bleeding profussly. Recently we have been having strange dreams about the expirence, in the dream we see them injecting fluids and needles into our ears. After the expirnce our wacthes were 4 hours behind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15510.html](http://www.nuforc.org/webreports/reports/015/S15510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Amsterdam (west of) (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately split-second - split-second minutes.</sub><blockquote><sub>Bright orange streak speeds toward Albany, NYDriving eastbound on I-90 past Canajohairie-Amsterdam toward Albany.  Just over the shoulder of Westbound lane, a bright orange missile-shaped flash streaked at extremely high speed east toward the city of Schenectady/Albany.  No more than 100 feet in altitude.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26300.html](http://www.nuforc.org/webreports/reports/026/S26300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
