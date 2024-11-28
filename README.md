@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:19 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Amsterdam (west of) (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately split-second - split-second minutes.</sub><blockquote><sub>Bright orange streak speeds toward Albany, NYDriving eastbound on I-90 past Canajohairie-Amsterdam toward Albany.  Just over the shoulder of Westbound lane, a bright orange missile-shaped flash streaked at extremely high speed east toward the city of Schenectady/Albany.  No more than 100 feet in altitude.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26300.html](http://www.nuforc.org/webreports/reports/026/S26300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A humming noise  and then a bright light in the sky which I saw at home at an appartment complex on northside east  SA tx  off  HW1976My self and my wife we saw a bright light on this November 28,  It was about 9:30 and there was a light outside.   My wife and I saw it and it was pretty dark out side there was no other persons outside of the apartment complex where we lived. the light was so bright when I looked out the blinds I could see a shadow on the living room wall.  The light was like no other I had seen. being former Navy I have seen many different aircraft and  lights they would use for illumination.  This light was very surreal and like a fire bright orange like when the sun sets and it lite up the entire complex and the back alley. there was nothing in the sky when I checked the out side. It was a dreary night and looked as if it would rain but it did not. the entire event took place I would say in about five to ten minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55216.html](http://www.nuforc.org/webreports/reports/055/S55216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
