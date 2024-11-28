@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:38 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lake Geneva (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Follow-up to article in Chicago Sun Times 12/3/97 re  "Fireball" in Will Co, Illinois, 12/30. Saw similar in Lake Geneva, WI 11This is in to response of another sighting in the Lake Geneva Area on 11/28/1997   My daughter and I had just returned home.  "We lived in Lake Geneva Wisconsin at the time" and had both gotten out of the car and looked up and directly over top of us can only be describes as a HUGE meteorite.  It was massive and so close you could see tons of craters in it and fire all around it.  I don't recall any sound but we have been at a loss to why no-one except a couple other people have ever reported it.  The fact that it didn't crash within a few miles, I'm at a loss.  We will never forget that sight.  So we can dispel any thought of it being a UFO.  From what we both saw with our own eyes it was a massive meteorite.  Like the other witness said it looked like a full moon but black and on fire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146725.html](http://www.nuforc.org/webreports/reports/146/S146725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Warwood (WV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large formation of lights streaking east to westI was driving on WV Route 2 Northbound between Pike Island Dam and Short Creek Rd (Just south of the Ohio County Airport.  The weather that night was slightly cloudy/misty (ceiling scattered to broken at 1500, my guess).  I observed 3 very bright white halos in a triangle formation streak through the clouds (2000-2500 AGL) from an east to west direction.  The light formation was at least 200 meters wide.  The lead light was followed by the other 2 lights.  It could've been one LARGE craft or 3 small.  I would estimate the speed in excess of 1000 mph.  I am a rated aviator and cannot explain this event.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60206.html](http://www.nuforc.org/webreports/reports/060/S60206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
