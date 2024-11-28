@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mount Isa (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle lights over mount isa during carols by candlelightEvery year mount isa has a carols by candlelight , where they sing carols and gather at a park and hold candles. there are also fireworks - may have brought the UFO's?  We were driving at night and been sky-watching for sometime. My gf noticed a three lights in a triangle moving over us, it was at a constant speed, at the same altitude planes fly. At first I thought it was a plane due to it's constant speed, but it didn't have any colored lights a plane has, they were all orange/incandescent , in the shape of an equalateral triagnle of 1cmx1cm1xcm. It looked exactly like a triangle UFO light sightings we viewed on on the internet over the years. One light was blinking. It moved constantly and rotated as well, keeping it's shape.It must have been moving very fast,  and made no sound as it moved away it became one dot. I was awed and when it stopped I realized this is no aircraft we know of. It paused for at least a minute, then moved last, it must have been moving km's a second, and moved about 10cm's left in the skyline. It paused again, and then moved right about 20cm's, then disappeared towards townsville.There were other witnesses (well people who came out of their house nearby) and they were on heir phones looking at the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79068.html](http://www.nuforc.org/webreports/reports/079/S79068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Delta (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 crafts, triangle shape, with green and red lights on edges and flickering lights in between/along bottom.On drive to work, saw 2 identical craft although not flying close together.  The one closer to me was triangle shape, had lights on edges with flickering lights in between or what I imagine would be the bottom of the craft.  Only saw for about 15 seconds as I was driving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94860.html](http://www.nuforc.org/webreports/reports/094/S94860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
