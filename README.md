@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Purple spherical light in the sky.My girlfriend and I were walking my dog when I noticed a very bright purple light in the sky. (It was a very over cast night, with patches of thick clouds, this area of the sky was very cloudy).  We watched the light in the sky, shimmering purple as if it was a christmas light in the sky, and then it slowly fell below the trees.  We were able to run to a closer location where we saw the object again and it appeared to move off in a horizontal direction.  This all happened N - NW of our location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104856.html](http://www.nuforc.org/webreports/reports/104/S104856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Aurora (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Hi! 3 of us were out joy riding in our small ky town.  It was a misty night early in fall. We came up too a stop sign at the junction of 68/80 in Aurora.  Across in front of us is the one store we had in town.  In front of store were the gas pump's.  They were dimly lit, but for some reason, we sat there thinking of what we could do next to fill the time of the night in our boring town. When the driver just happened to look up and out the big front window of his Chevy Blazer. He next says, "Do y'all see that we were all setting up front and we all looked up above the gas station and in the dim lite of the pump's reflecting against the mist of the night it was a space craft just floating above the gas station..  The shape was that of a stealth fighter jet except this was ten times bigger.  A greenish low light glow came of it it was silent.  we could see Windows 4 across the front that were rectangular in shape.  the craft was pitch down on a slight angle.  They were looking! at us and we at them and we said amongst our self's in those 3 minutes what is that to each other over and over.  The driver said were going home that's what were doing.  Just as he put it in gear it tilted up and was gone in an instant.  There was 3 of us one of them passed away 2 year's ago kidney problems.  It was real as you are now reading this now.  So from that point on I'm a believer and I'm always looking up .....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117574.html](http://www.nuforc.org/webreports/reports/117/S117574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
