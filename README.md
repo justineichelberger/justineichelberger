@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:46 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:51 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A slow moving bright orange light with differnt muffled engine noise that turned red before dissappearing off the horizon.I was watching tv when I heard a engine noise that sounded like a muffled airplane engine, different then anything I have heard. I go to the back door and look and I see a bright Orange light like planet Mars in color, but brighter, I thought at first it looked like a satellite but moving much slower than one,   Also I notice there was a hazy sky and the object appeared lower than the hazy clouds. And there was a full moon.  I call my wife and say check out this light in the sky, she looks out and says what the hell is that, I don't know I grab my binoculars, I have two pairs my good pair is 25x100 I use for astronomy.  Even in the binocs I cant see any detail, just a Orange light, no flashing lights, no outline of a typical aircraft at night.  Too think it passed directly overhead of my home, with the engine noise I know it wasn't a satellite and with no flashing lights it wasn't a plane or helicopter.  We live on a hill and watched it for almost ten minutes, slow moving, steady heading south in a straight line, then when it was a good two miles away it turned red my wife yelled to me did you see it just change color I said yes,. I can't believe we are watching this thing. We watched it for about 10 min before it disappeard off the horizon. We can see about 6 miles with our hilltop view.  I thought maybe its a drone of some kind so the next day I reported it to the police and they said they have no drones in the county so they tell me to report it to the FAA. I called and they say they don't know of any drones operating in Missouri at all. I don't know if they are telling the truth or not. All we know it wasn't any normal aircraft we have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94909.html](http://www.nuforc.org/webreports/reports/094/S94909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Petersburg (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>its was 10:52 pm three brownish-orange circles with a dark center appeared in a triangular formation for around ten seconds.Three of my friends and I were laying down on a trampoline at one of the friend's house at 10:52 PM. It was a pretty moonlit night. We were all looking at the stars and then one person declares, "Oh my God!" In the sky, we see three circles, a brownish orange in color, flying from the north-west. The were in a triangular formation, flying equidistant from each other. In between the circles was black and whenever it passed a star, you were not able to see the stars. It was also noiseless.It lasted for around ten seconds before it disappeared in the south-east direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73520.html](http://www.nuforc.org/webreports/reports/073/S73520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
