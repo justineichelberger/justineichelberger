@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Delta (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>2 crafts, triangle shape, with green and red lights on edges and flickering lights in between/along bottom.On drive to work, saw 2 identical craft although not flying close together.  The one closer to me was triangle shape, had lights on edges with flickering lights in between or what I imagine would be the bottom of the craft.  Only saw for about 15 seconds as I was driving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94860.html](http://www.nuforc.org/webreports/reports/094/S94860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fairfield (ME) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The object looked like a star to the human eye but when i say it move a huge distance in a split second i looked at it with binoculars and was shocked to see what i saw.  One light in the center, the brightest then 4 on each side like a plus sign with each light away from the center one getting dimmer then the next.  All i have to take pics is my iPhone and of course it will not zoom that far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131521.html](http://www.nuforc.org/webreports/reports/131/S131521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
