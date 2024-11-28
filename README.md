@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Warwood (WV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large formation of lights streaking east to westI was driving on WV Route 2 Northbound between Pike Island Dam and Short Creek Rd (Just south of the Ohio County Airport.  The weather that night was slightly cloudy/misty (ceiling scattered to broken at 1500, my guess).  I observed 3 very bright white halos in a triangle formation streak through the clouds (2000-2500 AGL) from an east to west direction.  The light formation was at least 200 meters wide.  The lead light was followed by the other 2 lights.  It could've been one LARGE craft or 3 small.  I would estimate the speed in excess of 1000 mph.  I am a rated aviator and cannot explain this event.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60206.html](http://www.nuforc.org/webreports/reports/060/S60206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in House Springs (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five orange-red objects flying in an inverted Y formation, no.sound.Five bright orange-red bright lights were seen coming from the north of my house, moving south,  There were two in front of the others and they were flying in the shape of an inverted Y formation.  They just seemed to disappear after a few minutes. There was no sound whatsoever.  If we hadnt been standing on our deck we would have never known. Our TV did go black screen at the same time but when we came back in we were able to turn it back on. By the time we thought of getting our phones to take a pic it was gone. We were all trying to figure out what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104898.html](http://www.nuforc.org/webreports/reports/104/S104898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
