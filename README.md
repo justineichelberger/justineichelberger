@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in House Springs (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five orange-red objects flying in an inverted Y formation, no.sound.Five bright orange-red bright lights were seen coming from the north of my house, moving south,  There were two in front of the others and they were flying in the shape of an inverted Y formation.  They just seemed to disappear after a few minutes. There was no sound whatsoever.  If we hadnt been standing on our deck we would have never known. Our TV did go black screen at the same time but when we came back in we were able to turn it back on. By the time we thought of getting our phones to take a pic it was gone. We were all trying to figure out what we were seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104898.html](http://www.nuforc.org/webreports/reports/104/S104898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bridgewater (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light over bridgewater.Appearing as a tiny double flash. Watched this thing go across the sky.  Was watching a satilite, when I saw it first... moved about as fast as a satilite, & looked just as high.  Doing a double flash evey 10 seconds or so,only saw it when it flashed white.  No other colors.  Unlike any plane ive ever seen... & it seemed to high to be one anyways.  Didn't make any sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104927.html](http://www.nuforc.org/webreports/reports/104/S104927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
