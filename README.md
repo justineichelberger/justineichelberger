@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A humming noise  and then a bright light in the sky which I saw at home at an appartment complex on northside east  SA tx  off  HW1976My self and my wife we saw a bright light on this November 28,  It was about 9:30 and there was a light outside.   My wife and I saw it and it was pretty dark out side there was no other persons outside of the apartment complex where we lived. the light was so bright when I looked out the blinds I could see a shadow on the living room wall.  The light was like no other I had seen. being former Navy I have seen many different aircraft and  lights they would use for illumination.  This light was very surreal and like a fire bright orange like when the sun sets and it lite up the entire complex and the back alley. there was nothing in the sky when I checked the out side. It was a dreary night and looked as if it would rain but it did not. the entire event took place I would say in about five to ten minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55216.html](http://www.nuforc.org/webreports/reports/055/S55216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Humboldt (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights in a spread formation.Crystal clear night around 12 degrees.  Went out for a smoke when I looked up in the sky and observed (6) orange to red circular like objects that seemed to be in a spread formation.  Watched for about 15 seconds then ran in to grab my Galaxy 4 cell phone. Got off 5 shots and captured (2) before they disappeared.  Down loaded the photos to my desk top so I could zoom in and see what I had..... Called my brother in AZ to tell him....he said it was stealth helicopters.... They see them all the time out there in the desert.  Don't think they were choppers......((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104848.html](http://www.nuforc.org/webreports/reports/104/S104848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
