@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 27 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lumberton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Moving bright light goes dimIt was after dark.  A real Clear and bright night.  I looked up at the stars and for a quick few minutes.  I saw a bright light moving about as fast as you usually see an airplane at night.  But the weird thing was I could tell it was at a very high altitude.Anyway the light was bright then went into a very dim mode.  I could barely see it as it was moving from south to the north. The nearest major airport is about 100 miles away if that means anything.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60065.html](http://www.nuforc.org/webreports/reports/060/S60065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chattanooga (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>bright green light, silent, moving slowly, turned, shot forward and was goneI was driving down a busy road during late rush hour. Out of mt peripheral vision to the left, at about 100 feet above the ground, I saw a huge round intense green light. It was silent. It turned upward and looked like it had 2 parts to it, shot forward and was gone. A policeman was in front of me and many people were behind me. the policeman actually pulled over and got out of his car and looked towards where the object had been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53666.html](http://www.nuforc.org/webreports/reports/053/S53666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
