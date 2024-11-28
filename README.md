@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 28 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bridgewater (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light over bridgewater.Appearing as a tiny double flash. Watched this thing go across the sky.  Was watching a satilite, when I saw it first... moved about as fast as a satilite, & looked just as high.  Doing a double flash evey 10 seconds or so,only saw it when it flashed white.  No other colors.  Unlike any plane ive ever seen... & it seemed to high to be one anyways.  Didn't make any sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104927.html](http://www.nuforc.org/webreports/reports/104/S104927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Key West (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange object over Key West, FloridaKey West, FL. High altitude orange object observed nearly straight up from viewer and slightly east, first thought to be a satelitte moving from south to north, but object slowed, stopped and then made slow steady movements east then south then north and repeated motion with some variations. Visible stars (that didn't move) confirmed the motion and actions of the light. Could have been a very high altitude DEA or customs craft, but there was no sound. Sighting occurred one hour before sunrise in totally clear skies, three hours after a thunderstorm. Object faded away after five minutes of the movement. Location was above Key West NAS, but was very high. No pulsating light..solid. Photo taken, not yet developed. Not expected much, due to light levels and high altitude, even with lens extension.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40816.html](http://www.nuforc.org/webreports/reports/040/S40816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
