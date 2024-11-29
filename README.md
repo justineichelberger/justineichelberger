@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:02:17 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hampstead (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>As we steped out of our car we saw a fireball vollyball size redish orange yellow in color, heading west to east on a horizontal plane travelling slow, no sound and very close. The end of the fireball had what looked like a comet like tail breaking apart as the fire ball past.im a cook and my friend is a manager of a resturaunt</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04941.html](http://www.nuforc.org/webreports/reports/004/S04941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Murrysville (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>multiple flashing lights on unknown slient flying craftObject came from the south banked left and headed west.  Object had many lights configured in a crazy way.  Did not make a sound. Light configurations changed as view of object changed, ie: coming, turning, moving away.This object was not a helicopted, jet, glider, balloon or any other known flying object.  It is either a UFO or a secret military craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94899.html](http://www.nuforc.org/webreports/reports/094/S94899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
