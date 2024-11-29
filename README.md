@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:02 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Montreal (Canada) (QC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2-White stobing oval objects in the skyAt 6pm, In Montreal, I’ve seen 2 oval shapes object in the sky.  I was leaving my job, when I noticed those objects.  They were not moving, or making any sounds.  Two bright white oval objects, a lot bigger then a star. When I hit home with buses, I entered the bus, still looking at the 2 white strobing objects.  The bus driver looked at me, and said, “you’re okay?”  I said, "Look there!"  And we watched the objects 30 sec from the windshield.  When I finally got home, objects were gone.((NUFORC Note:  Ihe witness may have been looking at Venus & Jupiter, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67248.html](http://www.nuforc.org/webreports/reports/067/S67248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Plainfield (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white object hovering Southward over Plainfield, IL.Noticed bright white object slowly hovering Southward, in a partly cloudy but otherwise clear sky.  After about 5 minutes of viewing, it rotated or transformed from a horizontal line shape to a vertical one.  There was no noise or discernible lights.  I have cellphone photos of the object, but they don't do the sighting any justice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131523.html](http://www.nuforc.org/webreports/reports/131/S131523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
