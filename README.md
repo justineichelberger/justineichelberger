@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Uniontown/Hartville (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object was moving very slowly about 100-150ft off the ground forward and backwards and was diamond shaped with 4 lights on it.Hi I recently called in last night an talked with someone from your organization today about what I saw.  First off it was about 10:15-10:25 on November 29, 2008 when I seen this diamond and or saucer shaped black spacecraft.  It had a green light at one side a red one at the immediate opposite and an amber light on the bottom with a amber an red flashing one on what looked like the top.  When I first saw it it was headed south really slow and looked like it was gradually lowering.  Then when I pulled off the road it started to head north but the lights were still where they were at first, as if it didn’t even turn around.  So I went to my parents house down the road where I was headed anyway but when I got them to come outside it wasn’t in sight from there house and that’s where it ended.  But when I saw it moving it was way too slow to be a plane and there was no noise like a helicopter, but way too small to be a blimp.  I don’t know why either but I feel so terrified when I start to think about the thing I saw but I get a feeling that it was something threatening .  Thanks for reading my report I hope it helps solve what I seen that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67249.html](http://www.nuforc.org/webreports/reports/067/S67249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>DISCS WERE ALREADY SIGHTED UPON MY ARRIVAL.date           city     state       shape      duration             summary  5/19/2012   BALTO. CO.      MD.       DISC.       20 MINS.      3 UFO'S SIGHTED  11/29/2012  BALTO. CO.    MD.         DISC.       8 MINS.       6 DISCS. SIGHTED</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94917.html](http://www.nuforc.org/webreports/reports/094/S94917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
