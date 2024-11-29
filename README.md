@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>DISCS WERE ALREADY SIGHTED UPON MY ARRIVAL.date           city     state       shape      duration             summary  5/19/2012   BALTO. CO.      MD.       DISC.       20 MINS.      3 UFO'S SIGHTED  11/29/2012  BALTO. CO.    MD.         DISC.       8 MINS.       6 DISCS. SIGHTED</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94917.html](http://www.nuforc.org/webreports/reports/094/S94917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>UFO Sighting Wellington, Florida 11/29/2010I was on my way to class, and I was running late. I've never seen a UFO but I've read about the recent sightings. What I saw was not a plane, I was driving west towards wellington, it was just getting dark outside. The time was 6:00 p.m. I saw a plane go by since the airport is only 8 miles away from where I was currently at. Then I noticed what I thought was a plane at first, but it was too low to be a plane. I only saw it move once and it moved up a little higher and moved back down to its original spot and just stayed there, I drove a little closer and it was not a light from a tower. It glowed a very bright white color, looked like a star. It was so bright that after looking at it for awhile it looked liked it formed a star and would go back to a smaller size taking form of a circle. I've never seen anything like this, I tried to take a pic its kind of fuzzy since I took it at a stop light. I was alone in my car so I dont know if the other cars witnessed! it. I am the type of person that pays attention to every little detail and I just happend to notice this light since it was so close to the surface.I'm the type of person that doesnt believe it till I see it, and I definately saw something that stumped me. I've looked up videos and pictures of weather balloons too see if thats what it might be and this looked nothing like a weather balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79083.html](http://www.nuforc.org/webreports/reports/079/S79083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
