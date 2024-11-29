@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange sphere emitting orange light seen very high in sky, larger than an aircraft or shooting star, 3 secondsThe object was seen overhead in the night sky around 8:50 CST in Overland Park, KS.  It appeared to be an orange, round craft that emitted an orange haze. It looked as though it was high in the sky, but the object was much larger than a shooting star or an aircraft. It shot through the sky quickly and then vanished without leaving a trail.  My sister and I were the only two that we know of to have seen the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94891.html](http://www.nuforc.org/webreports/reports/094/S94891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Antelope Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While driving on Antelope Valley Highway (CSR #14), man witnessed two objects, one larger than the other, flying from the southwest to northeast on a parallel track to each other.  The object on the right was brighter than the other.  They both moved slowly.Both objects appeared  to "have a head" of some kind.  The smaller object "burned out," and its tail disappeared.  Then, the brighter one "lost its tail," appeared as a black dot, then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01069.html](http://www.nuforc.org/webreports/reports/001/S01069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
