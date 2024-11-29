@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Enumclaw (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>A "break-up" in the skyHi again, I sent a report yesterday but I have another one today.This morning about 6:16 a.m. I saw a FAST moving object overhead that I thought at first may be a very fast military jet, only it glowed more orange/white and had a small trail behind it.  While I observed it I saw it separate into two pieces and them "fizzle" out.This object was moving from the northwest to the southeast. It was coming more from the eastern "mode" than northern and going more to the east than south.Then this a.m. after telling my husband about this mornings sighting he told me that he had heard that the sighting I had YESTERDAY was being dismissed as space debris! He said, this one you had this morning sounds more like space debris than the one you had yesterday."  I AGREE The one from yesterday was toooooooo slow for this kind of explanation and the way it appeared was entirely different than the one this morning! I hope you don't discount yesterday's for that reason! I believe the one from this morning could be more accurately explained as "space debris" but not the one from yesterday morning!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26315.html](http://www.nuforc.org/webreports/reports/026/S26315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Uniontown/Hartville (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object was moving very slowly about 100-150ft off the ground forward and backwards and was diamond shaped with 4 lights on it.Hi I recently called in last night an talked with someone from your organization today about what I saw.  First off it was about 10:15-10:25 on November 29, 2008 when I seen this diamond and or saucer shaped black spacecraft.  It had a green light at one side a red one at the immediate opposite and an amber light on the bottom with a amber an red flashing one on what looked like the top.  When I first saw it it was headed south really slow and looked like it was gradually lowering.  Then when I pulled off the road it started to head north but the lights were still where they were at first, as if it didn’t even turn around.  So I went to my parents house down the road where I was headed anyway but when I got them to come outside it wasn’t in sight from there house and that’s where it ended.  But when I saw it moving it was way too slow to be a plane and there was no noise like a helicopter, but way too small to be a blimp.  I don’t know why either but I feel so terrified when I start to think about the thing I saw but I get a feeling that it was something threatening .  Thanks for reading my report I hope it helps solve what I seen that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67249.html](http://www.nuforc.org/webreports/reports/067/S67249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
