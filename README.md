@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:42 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:43 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Lighted(glowing) chevron shaped craft with individual lights moving east to west then just disappearedThere were three of us on the back porch at 7:30pm.  2 out of 3 of us saw the (craft) for a total of about 6 seconds.  It was shaped like a boomerang or flattened V, I guess it is referred to as a chevron shape. It was all lighted, but not very bright, almost a translucent look to it with 5-7 lights with in it that were slightly visible, all white light though.  It was traveling from east to west at a moderate speed, at first glance it looked to be just over the trees, but I believe it was much higher.  We watched it traveling in a relatively straight path and then it was just gone.  I may have second guess myself except there were two of us and we described it exactly the same.  By the time the third one could catch a look at it it had blinked out or whatever you want to call it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85581.html](http://www.nuforc.org/webreports/reports/085/S85581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Groves/Port Arthur (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three Round objects, one trailing the other for about two minutes. Then sudden halt and one object stayed motionless, as the two other continued until under the first. All 3 remained completely still against clear Blue sky for apprx. 5 minutes. Each object looked like a star you would see against a night sky. Equal in size and brightness, with no sound. Appeared to be roughly 40-50 thousand feet up. Hot air ballon ruled out by speed, and stop, and hover. Again, all white in color. After about five minutes, they moved into a somewhat triangular pattern, then the last object lead away, second followed, third (which was first) left lastly til fading from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26314.html](http://www.nuforc.org/webreports/reports/026/S26314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
