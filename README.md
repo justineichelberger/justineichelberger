@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Antelope Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While driving on Antelope Valley Highway (CSR #14), man witnessed two objects, one larger than the other, flying from the southwest to northeast on a parallel track to each other.  The object on the right was brighter than the other.  They both moved slowly.Both objects appeared  to "have a head" of some kind.  The smaller object "burned out," and its tail disappeared.  Then, the brighter one "lost its tail," appeared as a black dot, then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01069.html](http://www.nuforc.org/webreports/reports/001/S01069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lexington (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights were silent and flying one behind the other then disappearing at the same place in the sky and were not flashing or blinking they were steady.  About two minutes later a plane came through on the same path of the orange lights were on looking for the lights but the lights were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104925.html](http://www.nuforc.org/webreports/reports/104/S104925.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
