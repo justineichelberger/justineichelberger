@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Goldfish cracker shaped object seen in Deming, New Mexico on 11/29/02Traveling east on I-10 near Deming, New Mexico at approximately 3pm, aircraft was observed hovering the mountains south of the highway.  It never moved, did not have any lights or did not change colors.  It was a clear day.  It had the shape of a goldfish cracker.  My husband who also witnessed it says it was about 5 to 10 miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26369.html](http://www.nuforc.org/webreports/reports/026/S26369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in I-95 south (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>My husband and i were driving back home and saw this weird light ahead of us towards another light  we thought they were going to crush, then turned toward us in second flew right over us we saw it so clear i felt i could touch it it was a huge  ship  i,the shape was like a pentagon all the lights were white it had many widows and seems like it had a shield that made it invisible but when the light flash you can see it so clear  we were in shocked and amazed but then when it hit me i was actually terrified, we still can believe what we saw  I've always been a believer of life outside  earth  but i also  had doubts now that ive actually have my proof im honestly very scared i hope i never have to see whats inside that ship.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104933.html](http://www.nuforc.org/webreports/reports/104/S104933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
