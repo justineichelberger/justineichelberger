@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:43 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:21 on 29 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Groves/Port Arthur (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three Round objects, one trailing the other for about two minutes. Then sudden halt and one object stayed motionless, as the two other continued until under the first. All 3 remained completely still against clear Blue sky for apprx. 5 minutes. Each object looked like a star you would see against a night sky. Equal in size and brightness, with no sound. Appeared to be roughly 40-50 thousand feet up. Hot air ballon ruled out by speed, and stop, and hover. Again, all white in color. After about five minutes, they moved into a somewhat triangular pattern, then the last object lead away, second followed, third (which was first) left lastly til fading from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26314.html](http://www.nuforc.org/webreports/reports/026/S26314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Webster (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Reddish orange "light" traveling in unison with two smaller white "lights" at 45 degree angle from each other.Bright reddish orange object traveling swiftly north-northeast in unison with two smaller white "lighted" object (no flickering or blinking on any of them) at 45 degree angle from each other (all three equally spaced) with absolutely no sounds at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104934.html](http://www.nuforc.org/webreports/reports/104/S104934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
