@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ufo with other strange goings on/ monster?I WAS WITH 2 FRIENDS AT A BOAT RAMP AT LAKE WAPPAPELLO MISSOURI>we were fishing very late and well i wasnt really paying attention but then out of the corner of my eye i saw these 2 bright long flashes (as if something the size of a large star just blew up but gradually got brighter until it left an imprint like when you close your eyes you can see it ) and this is what got me looking. then it got dimmer and as it got dimmer it moved up and down zig-zag like it did this for about 2 minutes then it started circling (round and round motion) for the remainder of the time. but meanwhile while all this is happening and we started arguing about what we were seeing. then i noticed right above the treeline a red light that was not there before. this inturn took our eyes off of the thing in the sky. when we did look back toward the sky the thing was still now and then as it did before it got real bright and then it took off in one direction faster than anything I've seen before. so our attention when back to the red thing we thought was still there. it was not. about that time we heard what sounded like a boulder rolling down the hear hill (which was tree covered) so that was when we decided to get out of there.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34079.html](http://www.nuforc.org/webreports/reports/034/S34079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grande Prairie (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large red craft in the sky over Grande Prairie, Alberta Canada.  2  witnesses.My girlfriend and I were standing outside when we both witnessed a large, vertical looking, red light in the sky, to the north west of our location.  Ceiling is approx. 13,000 feet of heavily overcast cloud cover tonight.  The object was definitely behind some clouds as they moved by because we could see them blocking it now and then.  The sighting lasted about 5 to 10 minutes.  After about 2 minutes, it began to pulsate.  At first it was kind of hazy and faint, but then became very large and bright.  A minute or 2 later, it appeared to begin moving towards an easterly direction at a very slow rate of speed, still pulsating.  It was quite a ways off to the north west of our location, north of the airport.There was no bad weather, or air traffic, that would have caused this light.  Also, there are no lights on in town tonight that would cause such a light to appear, let alone move through the sky.After 5 to 10 minutes of watching, we came inside.  I checked on it a few minutes later and it had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85599.html](http://www.nuforc.org/webreports/reports/085/S85599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
