@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large triangular shaped object  with 3 white lights and 1 blinking red light flew directly over us at very low speed and altitude.We were walking to our house and looked up to see a very large triangular shaped object directly overhead.  It had three white lights on it's underside and one blinking red light on the back.  It was almost silent and was flying very low at a tremendously slow speed.  It looked very flat and. I could not believe how slow it was moving.  It took between 10 to 15 minutes to get out of sight.  It was moving southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85674.html](http://www.nuforc.org/webreports/reports/085/S85674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ludlow (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It hovered closely above our car, was a dark disk that’s glowed.We were getting into our car at the east st truck stop and it hovered closely and low above us and then quickly went westward in the sky and turned green and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137511.html](http://www.nuforc.org/webreports/reports/137/S137511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
