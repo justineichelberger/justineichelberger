@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:43 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami () reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw 2 white parachute like object hovering in the skies.  Well above regular airplane routes.They stayed up for about a good 20 minutes.Then after 30 minutes we saw about 10 of those same objects hovering high in the skies.They moved an equidistance from each other and almost look like they formed a sort of triangle.They stayed for 20 minutes and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115706.html](http://www.nuforc.org/webreports/reports/115/S115706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large, white/gray v-shaped object, flying silent..This evening my wife and I were in our backyard comenting on what a clear night it was when I noticed a very large, white/gray v shaped flying object. When I told my wife to look in the same direction, she noticed it immediately! The object was flying south east and made no sound at all and there where no lights visible. We observed it for about 15 seconds then we lost sight of it when it passed behind some trees. There is an Air Force base just north of Little Rock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26345.html](http://www.nuforc.org/webreports/reports/026/S26345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
