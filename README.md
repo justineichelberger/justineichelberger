@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ludlow (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It hovered closely above our car, was a dark disk that’s glowed.We were getting into our car at the east st truck stop and it hovered closely and low above us and then quickly went westward in the sky and turned green and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137511.html](http://www.nuforc.org/webreports/reports/137/S137511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three round bright lights in triangle formation near Northern Slopes Foothills North.On a Saturday night heading North down Dry Creek Road next to the Northern Slopes FootHills North subdivision off to my left hand side was a gravel pull-off area to the side of the road where I like to look at the stars.  I left the 1986 Old Dodge Caravan running, otherwise it had to be pop-started. Before I decided to get out and look around I saw out the window to my left 3 round white lights in a triangle formation with two round lights on top and a third centered below.  At first I thought construction workers at night, as there was a new subdivision with new construction and development equipment left at night. outside.  I did not see any construction workers about or movement of construction equipment or hear any such sounds. I felt very mesmerized by the three round lights at a nearby distance above the ground level. They stayed on bright white round and in a triangle formation very steady and not appearing to move at all.  I was expecting them to move....and entertained thoughts of them moving together in triangle formation or splitting off in different directions...which did not happen at all as I looked for what seemed to be a very long time straight on at the lights.  They seemed very, very bright and facing  toward the road and the van and me.  I was too afraid to get out of the van and walk around outside toward them, although I felt very compelled to do so...my van had problems starting and if I got out, then I would have to leave the van running...and I also feared the what if...what if I got out and my van stopped running or I felt fearful like I had to get back in the van and drive away quickly and it took too long to pop-start it back up and take off.  When these thoughts clicked in my head I decided I had been looking at these lights much too long, what seemed like 10-15 minutes and I did not want to see them anymore or entertain thoughts of them moving, turning off,  following me, etc. so I decided to quickly drive off away to my campsite in Long Canyon instead. I fel! t that I had come to the desert to live and challenge myself to "face my fears"...and I became too scared and drove off instead.((NUFORC Note:  One of six, seemingly credible, reports submitted by same witness.  Date of incident may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35137.html](http://www.nuforc.org/webreports/reports/035/S35137.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
