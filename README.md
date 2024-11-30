@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Salida (CO) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A retired aerospace engineer was out walking his dog, when he was momentary witness to a "very bright object with flames coming off it" streak across the sky from northeast to southwest.  It flew parallel to the horizon, and he emphasized that it did not look like a shooting star.   It flew from horizon to horizon in about 2 seconds, except its appearance was obscured in the southwest, where the sky was obscured/overcast.  The observer stated that he thought the object appeared to be descending.  Its color was "metallic silver."  Flames were streaming off the nose of the object.  It was much smaller than a full moon.  He said that it looked like an object re-entering from space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01681.html](http://www.nuforc.org/webreports/reports/001/S01681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Riverton (outside of) (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Seen two circular objects south of residence looked like that were communicating with flashing lights for about ten minutes then one took off to the west fast disappeared over mountain range then the other went east just as fast.((NUFORC Note:  We have corrected the date above.  There are only 30 days in November.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131549.html](http://www.nuforc.org/webreports/reports/131/S131549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
