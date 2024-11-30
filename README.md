@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kemah (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately :30 - :30 minutes.</sub><blockquote><sub>While sitting on an upper deck a little after midnight, I was looking up at the sky and saw an orange spider/bug looking object moving quickly through the sky in a very straight line (sorta like a spider would run on a string).   It was moving east to west.  It was faster than an airplane, but not by much.  After about 15 seconds I asked the people I was with what it was, but only one person saw it.  The object made a quick zig zag and disappeared.  The object either had "legs" or there were a few crafts flying together, and the outside crafts vibrated or shook while the middle didn't.  The object flew continuously, methodically, clearly and then poof disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115723.html](http://www.nuforc.org/webreports/reports/115/S115723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 50</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161215.html](http://www.nuforc.org/webreports/reports/161/S161215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
