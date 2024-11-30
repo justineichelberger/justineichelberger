@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:28 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:28 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Galway (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lights, just above the trees, moving in a circular motion for several minutes and then becoming erratic in their movemnets.My son and I were driving on a back road when I saw 2 lights moving quickly through the sky. The lights moved at an incredible speed, circling counterclockwise in a perfect formation for some time and then became erratic in their movements. They appeared to be within two hundred feet of the tree tops. We pulled over and watched them for several minutes. It was like watching two lazer lights dance in the sky.((NUFORC Note:  We wonder if the witness is, in fact, describing two laser lights.  They often are used for advertising purposes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15307.html](http://www.nuforc.org/webreports/reports/015/S15307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Leland (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Silent triangular shaped craft glides fast across the sky.Bright orange/yellow light came across the sky.  Underneath the craft I was able to make out that it was triangular in shape.  Red and orange lights.  The craft was silent and seemed to just glide across the sky and a fast speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115741.html](http://www.nuforc.org/webreports/reports/115/S115741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
