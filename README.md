@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:00 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:08 on 30 November 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights over Haymarket Virginia at9:30pm on 11/30/13.My wife and I are both clinical psychologists.  We  saw approximately 7-10 orange lights in the sky over Haymarket, VA.  3 of them were in a cluster while one light moved quickly ahead of them.  There were more following in a line formation.  I got out of my car and was approached by a police officer in his patrol car who also saw the orange lights.  The lights hovered for about 3 minutes and then quickly moved east and disappeared out of sight within a couple of seconds.  The time was 9:30pm on 11/30/13, and there is no airport in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105008.html](http://www.nuforc.org/webreports/reports/105/S105008.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Princeton (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>two round lights in NNW skyThree friends and I had just finished having dinner and we were traveling north on hwy. 41 when the driver had noticed lights in the nnw sky. We did not see the first lights but a few minutes later the lights appeared again. We all noticed the lights this time. They were at about a 45 degree angle from the horizon. They were two lights about the size of street lights. Although they were not street lights. The lights were to high in the sky and we were between cities. They would come on at the same time but at times they went out together and at times one would dim out first. The total time they were on was about 4-8 seconds. I could see airplane lights in the sky and they looked like dots compared to the lights. I am not sure what they were. It was a clear night as we could see the stars in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47978.html](http://www.nuforc.org/webreports/reports/047/S47978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
