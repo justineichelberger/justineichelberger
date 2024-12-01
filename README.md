@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:17 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kennesaw/Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One object to the south & one to the southeast of Kennesaw Mtn. They kind of looked like stars but a little bigger and changed colors from red, green,blue,& white.(also very bright)They moved up & down and zig-zagged sharply. They vanished almost instantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11226.html](http://www.nuforc.org/webreports/reports/011/S11226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Osowatomie (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>In 1972 my ex-husband and I were returning from Christmas shopping. I noticed an object following us and coming closer to our car. When I called this to my exhusband's attention he made fun of it and asked me if I thought "that was a UFO" Suddenly, the object could be clearly seen near the electrical wires running along the road and just as suddenly it lowered itself down and flew next to ythe passanger side. My exhusband became a bit alarmed and I began to yell for him to stop. However he was so scared that he stepped on the gas and the faster he went the faster the object folloewd. I lowered the window and heard a slight humming sound and noticed that one of the side lights of the object was partialy burned. The next thing I rememebered wss our car being stoped alongside the road and the object behind us turning extremely bright and taking off. When I got home I told my mother what we had witnessed. I was overcome with extreme sleepiness I lay down and went to sleep until the next day. It was approximaly 9pm. One of the things that still puzzles me, is why my ex-husband and I never spoke with each other regarding this experience. years later when my son went to visit him in Kansas he told him that we were not the only ones who were pulled to the side of the road. I do not remeember that. When I was in college I told my physics teacher  regarding this experience and a symbol I kept rememebering. he told me it was a Greek letter and a physics symbol that stood for "electro-magnetic self propulsed">. There is a few things whcih I seem to rememeber about this night but I have never been able to determine wheather I dreamt them or not....This experienced has NEVER left me and there has been times when I try very hard to rememeber and rememeber....to re-live it....My son who was only 2 at the time kept pointing att he pbject and later rememebered the experience until he was 3 or 4 and then forgot never to regain that memoy again..((name deleted)) Lesemann NY 2203  ((sic--zip codes have four digits.))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29527.html](http://www.nuforc.org/webreports/reports/029/S29527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
