@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>I have been listening to radio traffic and heard county sherriff dispatch report of reports of craft.((NUFORC Note:  We suspect the witness is describing the re-entry event that occurred at approximately 2120 hrs. (Mountain) on Saturday, December 01, 2001.  Please see following URL for details:  <http://science.nasa.gov/headlines/y2001/ast03dec_1.htm?list49634>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20635.html](http://www.nuforc.org/webreports/reports/020/S20635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Moonbeam (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately on going - on going minutes.</sub><blockquote><sub>Round light outside, above the house moves when you move.February 2014   Place: 	Northern Ontario Canada A strange light in the sky around and above the house.It seems to move if you move.Also changes color.Stays in the sky for a while then disappears.It started in December of 2013...is when it was noticed.Still on going now usually soon as it is dark outside, after dinner time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107007.html](http://www.nuforc.org/webreports/reports/107/S107007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
