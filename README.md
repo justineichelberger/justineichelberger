@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:27 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bonner Springs (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light about 10 miles North of Bonner Springs Kansas.The bright light just set still for about a minute to my North, and then shot off to the North real fast.  Then the light just set still. I would guess the bright light was about 10 miles to my North when we first saw it.  My guess is, it shot rapidly to the North about another 10 miles when we noticed the helicopter. My wife pointed out the helicopter flying to the Southeast of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48016.html](http://www.nuforc.org/webreports/reports/048/S48016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light split into four and one sped acros the skyI am writing this to document an incident that an associate witnessed  a few minutes ago. I did not see it myself. I will ask him to write down what he saw in the morning. I have listened to you on the Rense Program for many years reporting and interviewing witnesses. I do know what you are looking for.The observation was made on Cypress Lake Drive, and the object was in in the South sky. I would say the incident took place  due west of SWR airport, on but above what is the approach pattern to the airport and at that point where the flight path crosses the river. I would almost say it took place over Fort Myers Beach.Briefly he aid that there was a big light, in time the light split into four lights and one darted to the NE at great speed. I will follow up in the morning.((ADDENDUM OF REPORT BY WITNESS))Modification of earlier reportCorrection to earlier report. I asked my associate for more detail.  It turns out that I misunderstood his earlier statement.  The event began just south of my house and in the clouds, so not high at all.  The object was very large.  I asked about the thumb nail test and he said much larger than the thumb, rather huge by comparison.  It was blue. there were no lights on the object.  It disgorged four other lights.  These lights he said then dived at one another and almost seemed to play.  The large object circled and passed over the house.  The location now moves to the intersection of Cypress Lake Drive and the river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67270.html](http://www.nuforc.org/webreports/reports/067/S67270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
