@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:32:36 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:19:25 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Merritt Island (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Blue light spoted during planet line upDuring the planet line up I took photoes and a blue circel apears with the lineup.  I took more then one pictur and cleaned off my lense just in case but it still showed up.  The blue object moved down and to the right during a 1 hour long period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67793.html](http://www.nuforc.org/webreports/reports/067/S67793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Distant light went from left to right in western sky. Twinkled as it flew and then after a little while maybe ten or twenty seconds it disappeared from sight even though I thought there was more window space to view the left to right motion. Can the lights on an airplane just turn off or was this some other craft? It was hard to make out as it was only a distant light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53760.html](http://www.nuforc.org/webreports/reports/053/S53760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
