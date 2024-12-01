@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:25 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw three glowing red balls of light at night. Witnessed with my brother.I should start by pointing out that there’s a typo in your agreement form “ identity will no be revealed,“. In a field already fraught with skepticism, I think it’s important to adresss little details like that to elevate the credibility of the site.My sighting happened many years ago, but it’s something that I’ve thought about many times since.  I was around 18 at the time, walking up a residential street in the evening when my brother suddenly stopped and  shouted “look at that!” pointing frantically across the street.  I turned just in time to see three red, glowing balls of light flying closely together over the rooftops.  They were approximately the size of cantaloupes, and moved in the most astonishing and whimsical fashion.  They were maybe forty or fifty feet away from us and were completely silent.The entire event lasted only seconds, but I saw them very clearly.  There was something erratic and yet also organized about the way they zigged and zagged together - their movements beautifully interwoven and coordinated - almost the way fish move together in a school.  They changed directions so quickly, it almost  seemed to defy the laws of gravity; they altered course instaneously, which I think is the reason my brain had trouble processing what I was seeing.  In an instant they flew away behind some trees and were gone.This last part is purely my subjective observation, so take it with a grain of salt, but I had the sense that there was something about the way they moved that was suggestive of intelligence and agency; it was very playful, whimsical, and lifelike.  I should also add that I’ve been a very skeptical person all my life.  If I hadn’t witnessed them with my brother I would have assumed I had hallucinated them.  I’ve searched for rational explanations... ball lightning, balls of plasma.  To be honest, I have no idea what we saw.  For a long time after we stood on the street in disbelief.  There’s an expression, “cosmic laughter”, that best describes how I felt.  It was as if the curtain had been pulled back for an instant and we had seen something we weren’t supposed to see.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137891.html](http://www.nuforc.org/webreports/reports/137/S137891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately Iran - Iran minutes.</sub><blockquote><sub>Vertical Light line in the skyA broken light line is drawn from the skyline of Tehran to the sun, just like the thunderstorm full of daylight!!! *anyways  The intense sunlight and air pollution in Tehran these days makes direct sun look with tears, burning and eye pain</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151203.html](http://www.nuforc.org/webreports/reports/151/S151203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
