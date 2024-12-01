@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Springfield (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.004166666666666667 - 0.004166666666666667 minutes.</sub><blockquote><sub>Bright Pale Blue Flash - No Sound - Street Lights Went OutWe were driving west on Keene Mill Road, approaching the intersection with Greeley Boulevard in Springfield, VA.  At about 8:12 PM EST there was a bright pale blue flash which lit up the sky and area we were driving in.  Everything lit up, so we could not tell which direction (if any) the light came from.  It "seemed" to be either from above or that we were "within" the flash.  The street lights all went out, but power to homes remained on.  There was no sound.  The sky was clear, slight winds (maybe 5 mph) and the temperature was around 32 degrees F.  We continued driving towards home and when we got to another area of street lights, they were also out, but beginning to come back on.  This area was one mile southwest of the point where we saw the flash.((NUFORC Note:  We wonder whether the event might have been caused by the explosion of one of the local transformers.  We have received several such reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26385.html](http://www.nuforc.org/webreports/reports/026/S26385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Birkenhead (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Dull orange glowing diamon shaped craft flying extremelly high at rapid velocity.Very dull orange glowing diamond shape craft flying extremely high and extremely fast - flew in a south westerly direction from birkenhead out to sea. This craft was moving at an amazing speed and when it got well over the sea it made a rapid right turn heading north westerly direction out at sea- this was no jet (seen jets flying at night before) as the entire craft was glowing in a diamond shape dull orange glow-.  Also, it was no metoer or space junk re-entrying and neither was it a satellite as seen all of these before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67262.html](http://www.nuforc.org/webreports/reports/067/S67262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
