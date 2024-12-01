@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saint Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>While driving 94 East, by downtown St, Paul, a large white ball of light moving from the SW to the NE flew across the sky.While driving 94 East, under the bridges by downtown St. Paul, a large white ball of light, moving from the SW to the NE, flew across the sky for a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115864.html](http://www.nuforc.org/webreports/reports/115/S115864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Early evening  encounter at intersection near Arlington High School with object hovering obove interestion, then quickly disappearing.Was driving to Arlington High School for a basketball game (therefore probably a Friday night).  It was still daylight (getting near dusk, so the date of Dec. is uncertain as it has been a long time). As I approached an interstection with Route 55 (?) from a rural road just east of the high school, I saw a very distinct object hovering at very low altitude above the intersection as I approached.  I stopped and had a visual sighting for several minutes (there was no other traffic on this back road I was on.)  I believe the object was traingular in shape, but it did have what I remember to be 3 blinking lights on its perimeter.  They were different colors.  Then as the lights changed colors, the object quickly and silently took off in a westerly direction.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48131.html](http://www.nuforc.org/webreports/reports/048/S48131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
