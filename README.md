@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chester (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately moment - moment minutes.</sub><blockquote><sub>Two balls of lights hurling through air, then disappeared.Driving down interstate, when a hurling double ball of lights kinda twirled head over head, and then just disappeared.. pretty sure a few others driving by saw it, too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131636.html](http://www.nuforc.org/webreports/reports/131/S131636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in laughlin , (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A single file line of lights in the night sky with the exception of one light set slightly off to the side. Estimated altitude of 10,000 to 25,000 feet. Heading East to Northeast. I can only guess that it was a military formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160929.html](http://www.nuforc.org/webreports/reports/160/S160929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
