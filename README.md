@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:54 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Joshua tree (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A formation 20 to 30 lights suddenly appearing from the east one after the other moving northwest and disappearing.We had just got home around 5:50 pm. As I got off the car I looked up and said the stars are shining bright tonight. As I continued to look I noticed a formation of lights that suddenly appeared from the east moving northwest. I said look what is that and my daughter, her friend, and my fiancé came back to see and we just stared. There must have been 20-30 of them one right after the other appearing and then disappearing.  They looked as if stars where on an escalator. There was no sound of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160934.html](http://www.nuforc.org/webreports/reports/160/S160934.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Beverly (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A momentary sighting of a large bright circular object flying through the sky.I was leaving home for work, going from unincorporated community of East Dailey, Randolph County, to Elkins.  As I was driving alone crossing the bridge of the Tygart Valley River heading north and toward US219, I suddenly observed a bright light going from West to East like a fireball or sphere (cirular about the size of a basketball if up close).  The treelines hindered my view somewhat but it only lasted about a minute or several seconds.  It was very bright and moved very rapidly and would have appeared to be over Beverly looking toward the distant horizon.  This was very unusual and really caught my attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26415.html](http://www.nuforc.org/webreports/reports/026/S26415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
