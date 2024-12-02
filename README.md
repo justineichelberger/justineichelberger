@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in West Greenwich (RI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>My co-worker told me I should report this on this site. This is the first time I have seen this. Myself and my fiend just fininshed a day of deer hunting at a private gun club we belong to. We were just about to leave when friend offered me a beer. WE WERE NOT DRUNK!. We opened our beers by my pickup and talk about the famlies when I looked toward the west and could see a bright red flashing light I said whats that my friend replyed a radio towwer but there is no radio towwer in that direction just then the light started to move west over CONN. this is happening about a mile away, then the light started to desend it looked like it opened up or pointed down an took a triangle shape  and I counted about a dozenor more red lights it procesed west down below tree line my friend said he also saw blue lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40879.html](http://www.nuforc.org/webreports/reports/040/S40879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>large, triangle shaped craft in the skyI was driving home and I noticed a strange object in the sky above the cornfield across from my neighborhood.  It was moving very slow to the north towards Chicago.  It was a triangle shape with bright red lights at each tip.  I pulled over to the side of the road to get a better look, and I could see distinctly a triangle shaped craft.  I didn't hear any noises, so I know for sure this wasn't an airplane, and I have seen this object once before a couple months ago in the exact same area.  This time, it was closer to the road. I managed to get a couple pictures of it on my cell phone. After a minute or two, the object dissapeared in the sky. It was very scary, I'm still shaking!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67283.html](http://www.nuforc.org/webreports/reports/067/S67283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
