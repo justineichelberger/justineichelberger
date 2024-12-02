@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in laughlin , (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A single file line of lights in the night sky with the exception of one light set slightly off to the side. Estimated altitude of 10,000 to 25,000 feet. Heading East to Northeast. I can only guess that it was a military formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160929.html](http://www.nuforc.org/webreports/reports/160/S160929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Satsuma (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Daytime object caught on videoI was out in the backyard watching my dogs play. I had taken along my camcorder to catch some video of the dogs.  Walking to the far NE corner of the yard I stood under a small oak tree. The limbs of the tree blocked the sun from my view which was midway in the southern sky. Thats when I noticed the object in the sky.  It sat SSE of my position at a 45 degree angle up and I quickly turned my camcorder on the object and took just over a minute of video before loosing sight of the object.  It appeared to be oval in shape.It also appeared to be self lit. The object made no noise.The dogs did not react in any way to the object.The weather was clear that day as seen in the video.Having worked at the Mobile airport for a number of years re-fueling all commercial and freight Aircraft I can tell you this was no plane. Peter, A video of the object can be downloaded from the following link at File Front. http://38.118.213.234/hdgghqegcv+/personal/f/FishHeads/ufo12_2.AVI</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53920.html](http://www.nuforc.org/webreports/reports/053/S53920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
