@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:54 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>large, triangle shaped craft in the skyI was driving home and I noticed a strange object in the sky above the cornfield across from my neighborhood.  It was moving very slow to the north towards Chicago.  It was a triangle shape with bright red lights at each tip.  I pulled over to the side of the road to get a better look, and I could see distinctly a triangle shaped craft.  I didn't hear any noises, so I know for sure this wasn't an airplane, and I have seen this object once before a couple months ago in the exact same area.  This time, it was closer to the road. I managed to get a couple pictures of it on my cell phone. After a minute or two, the object dissapeared in the sky. It was very scary, I'm still shaking!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67283.html](http://www.nuforc.org/webreports/reports/067/S67283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Joshua tree (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A formation 20 to 30 lights suddenly appearing from the east one after the other moving northwest and disappearing.We had just got home around 5:50 pm. As I got off the car I looked up and said the stars are shining bright tonight. As I continued to look I noticed a formation of lights that suddenly appeared from the east moving northwest. I said look what is that and my daughter, her friend, and my fiancé came back to see and we just stared. There must have been 20-30 of them one right after the other appearing and then disappearing.  They looked as if stars where on an escalator. There was no sound of any kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160934.html](http://www.nuforc.org/webreports/reports/160/S160934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
