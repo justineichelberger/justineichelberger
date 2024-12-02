@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Conover (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>white light hovering, glowing, and disappearing.I was standing on my front porch facing south when I saw a white light ( no flashing air craft lights, only a solid white light brighter than any star) float slowly in the sky over the tree line in front of me, moving west to east. When the light got into about the center of my vision it stopped moving entirely for approximately 1 minute and appeared to hover. The light started to grow brighter after this time and almost became yellow in color. The object then slowly started to climb in the air vertically about the length that it had moved from west to east upon seeing it initially. The object then went out extremely fast and was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74877.html](http://www.nuforc.org/webreports/reports/074/S74877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>IT WAS ONLY ONE OBJESCT.  The Object was orange in color, retanglar in shape at first but, yet transparent, I could see trees through it, floating across the center,diagonally across my back yard.  It was approx. 20 inches long and 15 wide, floating about 15 meters above the ground when I noticed it. Once I noticed it, it stop,dropped @ a forty five degree level, even with the top of the den windows top level.  Once @ top window level it changed shape to oval, the color changed from orange to a golden yellow and became very bright.  The object centerd the three set den windows and begin a downward decent.  It noticed me looking at it and came to search for me.part 2-  As stated earlier, I was lying on the floor in 6ft in front of the tv and 8ft from the set of den windows, when I noticed the object in my back yard.  Once I saw the object, it stop, dropped in a forty five degree angle to the middle of the den window set sa though it was looking for me. Here is where it gets strange.  Once in position it changes shape from rectangle to oval, changes color from orange to a golden yellow and gets extremely bright as it starts a downward decent. With a pillow, only my head is uncovered as I did not move, I froze in position,covered with a throw & blanket. The object probed the my den and me.  Not knowing what to expect, I waited approx.30 minutes before I got up. Being a career firefighter and military man, I never knew the fear I experienced tonight.  My privacy and home was invaded without my permission.  Who or what would do that, and why.  I am retired and believe in God.Nothing is the same!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95007.html](http://www.nuforc.org/webreports/reports/095/S95007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
