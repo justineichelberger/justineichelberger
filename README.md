@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:56 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:57 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New Baltimore (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Supplememnt to original report dated 12/06/02 of sighting on 12/02/02 at 05:15 in New Baltimore, Pa USA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26445.html](http://www.nuforc.org/webreports/reports/026/S26445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Steady line of small lights travelling west to east in Tucson approximately 18:45 December 2, 2020Traveling west to east. Objects were steady traveling dots of light that at first seemed like a helicopter formation.  There were no beacon lights nor any color than white dots.  It was as if a line of dots was being pulled across the sky.  There was not any sound such as propeller, jet or rotors.  The pattern was an imprecise pair of dots with a space between each pair similar to the width of the pair.  Picture:dot, small space, dot, large space and then repeat.  As the lights were steady, I can not be certain they were not connected. Almost as strange, there was a finite range of the lights as if they turned north and so out of sight.  The dots were no brighter than the stars they were flying before.  Imagine looking at a neon sign in Times Square where the message banner went around the corner.The lights were moving when I first noticed them and stopped within a couple of minutes.I am in this area often and have never seen anything like it.I asked a coworker who recently left the Air Force what he thought.  There is a base on the opposite corner of Tucson.  He offered ideas but without beacons eliminated helicopters, military drones or planes.  We also eliminated the large flares since there was no loss of altitude.The sky was quite clear and sunset was more than an hour earlier so the view was fairly optimal.  I did not try to take a photo and think the lights were not bright enough for a phone photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161038.html](http://www.nuforc.org/webreports/reports/161/S161038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
