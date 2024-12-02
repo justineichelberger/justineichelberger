@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>IT WAS ONLY ONE OBJESCT.  The Object was orange in color, retanglar in shape at first but, yet transparent, I could see trees through it, floating across the center,diagonally across my back yard.  It was approx. 20 inches long and 15 wide, floating about 15 meters above the ground when I noticed it. Once I noticed it, it stop,dropped @ a forty five degree level, even with the top of the den windows top level.  Once @ top window level it changed shape to oval, the color changed from orange to a golden yellow and became very bright.  The object centerd the three set den windows and begin a downward decent.  It noticed me looking at it and came to search for me.part 2-  As stated earlier, I was lying on the floor in 6ft in front of the tv and 8ft from the set of den windows, when I noticed the object in my back yard.  Once I saw the object, it stop, dropped in a forty five degree angle to the middle of the den window set sa though it was looking for me. Here is where it gets strange.  Once in position it changes shape from rectangle to oval, changes color from orange to a golden yellow and gets extremely bright as it starts a downward decent. With a pillow, only my head is uncovered as I did not move, I froze in position,covered with a throw & blanket. The object probed the my den and me.  Not knowing what to expect, I waited approx.30 minutes before I got up. Being a career firefighter and military man, I never knew the fear I experienced tonight.  My privacy and home was invaded without my permission.  Who or what would do that, and why.  I am retired and believe in God.Nothing is the same!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95007.html](http://www.nuforc.org/webreports/reports/095/S95007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Last night around 8:00pm I was outside with me dad and I looked straight up and a very bright flash hit my eyes.  I asked my dad did you see that?  Next thing you know we see the light kind of looked like the size and distance of the International space station.  We watch it surge in speed and sometimes slow to a stall.  It would blink on at very random times. From 2 seconds to 10 seconds before another flash.  It was north towards lake reidsville in NC.  To me it looked like a UFO losing power and getting surges of power to light up and move faster.  Then when my wife came out after 5 minutes it started to slow and fade with every flash.  Then it disappeared.  It did not travel far across the sky in a north east direction.  3 of us saw it and know it was not a plane due to the distance and varying speed, light brightness and timing of the flash.  Something was losing power or down.  Pretty amazing sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131590.html](http://www.nuforc.org/webreports/reports/131/S131590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
