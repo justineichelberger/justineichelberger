@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unidentified rapidly ascending sphereObserved an object with 5 other folks that shot up extremely rapid from a neighboring hill about ½- ¾ mile away looking Southeast.  It was a clear night at dusk.  There was still some sunlight showing from behind the ridgeline.  Object shot straight up at least 3-400 feet.  Object left no apparent trail.  There was no sound.  At that height stayed there stationary for 3-4 minutes.  Then it started to descend very slowly making an “s” shape back and forth motion.I thought it might be a firework but when it got down to just above the ridge line it stopped descending and made a more exaggerated back and forth motion.  It stayed in that state for 7 to 8 minutes.At this moment I could see the sphericalness to it and the colors of green, blue, and orange swirling around.  Can’t tell if the object itself was rotating.  It appeared solid and metallic.   There were no landing lights.  I estimate the object was the size of a mid-sized car.The locals wanted to locate it after it got below the ridgeline and we got in our car to look for it but there was nothing to see.I have 20 years’ experience in aviation repair.  And have seen most commercial and military aircraft and work in the field.  This was no aircraft or anything that I can identify.  I was a skeptic of UFOs prior to this event.  But this has been a life changing event.  I feel stupid telling other people.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105441.html](http://www.nuforc.org/webreports/reports/105/S105441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Surrey (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw this oval shape bright light travelled in my bedroom.  Heard a sound too.  It was moving bright light.  Seemed like someone try to communicate, but I got scared and made myself hide in my blanket.  And it went away.  I felt stupid so I didn't talk about it to anyone until I read this blog.  People are reporting to saw something I have seen too, but it was in my bedroom, that is the only difference.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105111.html](http://www.nuforc.org/webreports/reports/105/S105111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
