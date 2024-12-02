@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Disturbing but exciting experience. Formation of lights.I was looking at Mars and I was also watching a satellite passing by. I always do, but all the sudden a bunch of lights start to passing by.  From my location, they were coming  from South to East, about 70° or so above the horizon, there’s a lot of them,too many to count,I see them appear and  disappear. it’s a short travel. I calculate that the whole thing lasted about three minutes. from the moment I started to see them,it took me about 30 seconds to decide if I go inside the house and take my cell phone, so I did run inside the house took my cell. My  recording is almost  two minutes long, so I think  altogether it was more or less three minutes. I was looking at my recording but I cannot see anything other than Mars, however I’m very happy that today, I find out, throug  the Internet, that other people saw the  same thing, that’s just great to know!.  The experience to me it was disturbing and exciting.  Thank you for Reading my message:)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160950.html](http://www.nuforc.org/webreports/reports/160/S160950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Richmond (near) (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black Triangle shaped with bright white lights flying by 95 in RichmondWas driving to Canada from Florida and was near Richmond on 95 when girlfriend though there was a thunderstorm because there were big flash outside.  I didn't mind, but around 30 sec later, I checked to my right and saw a black triangle shaped "UFO" with big bright white lights to each corner flying by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124618.html](http://www.nuforc.org/webreports/reports/124/S124618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
