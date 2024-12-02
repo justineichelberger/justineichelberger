@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 1 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Birkenhead (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Dull orange glowing diamon shaped craft flying extremelly high at rapid velocity.Very dull orange glowing diamond shape craft flying extremely high and extremely fast - flew in a south westerly direction from birkenhead out to sea. This craft was moving at an amazing speed and when it got well over the sea it made a rapid right turn heading north westerly direction out at sea- this was no jet (seen jets flying at night before) as the entire craft was glowing in a diamond shape dull orange glow-.  Also, it was no metoer or space junk re-entrying and neither was it a satellite as seen all of these before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67262.html](http://www.nuforc.org/webreports/reports/067/S67262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Flash over desert turing green and red in color flying supersonicly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79104.html](http://www.nuforc.org/webreports/reports/079/S79104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
