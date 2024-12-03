@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bevier (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Upward Flying Object withTrail of Fire Behind It.An upward flying object on the western skyline leaving a trail of fire behind it. Duration was less than one minute. Moving at very high speed and changed direction very quickly. Definitely not a natural phenomenon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165666.html](http://www.nuforc.org/webreports/reports/165/S165666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangular formation over Middletown, OhioMy husband was looking due North as he was driving out of our neighborhood and saw a light come over his head towards the Northern horizon.  He stopped his car to watch, thinking it was a meteor.  As it descended towards the horizon, it broke into three distinct lights.He had me on my cell phone at that point, and I came out on our deck to observe.  I saw the three lights.  From our vantage point, they seemed to be just West of AK Steel.   The lights hovered for several minutes in various triangular formations, sometimes flickering out and reappearing.After about 4 minutes, the lights were falling towards the horizon.  At some point, one light appeared to move to the east almost directly over AK Steel.   All lights gradually lowered and flickered out.I videotaped the event on my iPhone.  The quality is not great, but could possibly be enhanced by someone with good software.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85649.html](http://www.nuforc.org/webreports/reports/085/S85649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
