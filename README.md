@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black boomerang moving north to south at 3000' with very faint amber lights below and made no sound at all.It was a boomerang shape like the one seen above Phoenix. It was as wide as my index  finger at arms length. It had very faint amber colored lights on the bottom of the wings. It went straight over my head at about two to three thousand feet. The moon was about one quarter and as it went by it disappeared into the glow of the moon. It did not make any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15386.html](http://www.nuforc.org/webreports/reports/015/S15386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Bright Glowing orbs... get brighter then dimmer.. sometimes 3-4... glide back and forthI've reported this sightings in the past.  I don't believe it was on this site that I had reported it.. these lights have been showing up since November of 2014..  I have numerous cell phone videos of these glowing objects from the passed couple of years.  I don't see a pattern to when they will show up but all last summer 2016 every couple days they would apear anywhere from 20 minutes to 2-3 hours hovering and at times all of a sudden another will appear (not as bright as the first one) right next to it or possibly more (have only ever seen 4  One time).  They glow a white/orange color but when take binoculars and zoom in you get what seems like every single color illuminating (yes like a star) and here is where the star theory dies.... these objects HAVE been seen below the clouds... what is interesting is when first one appears it is always the brightest and dims then gets bright again and moves slowly gliding right to left... and when they leave it's just boom...GONE.  (For whatever reason it is always the same exact location/spot it shows up to, then moves right or left from there)  (Have videos)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133124.html](http://www.nuforc.org/webreports/reports/133/S133124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
