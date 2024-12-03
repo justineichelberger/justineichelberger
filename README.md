@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Valley Glen (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 18:15 - 18:15 minutes.</sub><blockquote><sub>Several symmetrical, dim orange lights, moving slowly across the sky then fading away and disappearing.I was coming out of my parked car in my apartment parking lot when one of my neighbors was outside looking up at the sky. He asked me if I could see the lights? I looked up and at first, glance only saw a star but then looked again where he was pointing. I saw several orange lights perfectly lined up together moving across the sky slowly. It was hard to tell if they were separate or riding together on the same craft. It moved slowly across the sky and then faded away disappearing from sight completely. We both agree this was the strangest thing we have ever seen in the sky ever. It did not have the look of a plane or helicopter which I have seen many of those these lights were different. The lights were not bright or flashing. They had a dim glow to them and it almost seemed like it was hidden and then faded away. No clouds in the sky or anything it was a dark, clear sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161039.html](http://www.nuforc.org/webreports/reports/161/S161039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was in my backyard the night of 12/3/05, admiring my landscaping. There was a formation of 4 lights rapidly moving from west to north. As it turned north, the lights were obstructed by an oak tree in our cul-de-sac, and I ran to the front yard to see what this was. It took me about 8 seconds to view around the oak tree and there was nothing in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48054.html](http://www.nuforc.org/webreports/reports/048/S48054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
