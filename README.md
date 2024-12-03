@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Zanesville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 friends and i saw 2 triangular crafts appear from the northwest sky.at 11:10 pm 3 friends and myself were walking home after a high school basketball game. my friend noticed one large triangular craft moving from the northwest sky at a slow rate of speed. we watched this for around 1-2 minutes and another craft appeared from the same area. these crafts had red and yellow lights on what appeared to be the underside. the hovered overhead for 20-30 seconds and made their way southwest and dissapeared. we stayed in the area for 10-15 minutes but didn't see the crafts again.the time now was 11:25-11:30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20795.html](http://www.nuforc.org/webreports/reports/020/S20795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Weaverville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>me and 3 friends saw two weird orbs of speeding light to the north and south of weaverville.Me and 3 of my friends were messing around outside when me and one of my friends saw a greenish-blue orb flash across the sky headed south at speeds no earth craft could even imagine reaching so we told my other two friends about it and i went in to get my video camera.About ten minutes later I was messing with my camera when my three friends saw the same looking orb of light shoot down from the sky to the the north of us. They said it looked like it fell from the sky.  After that we did not see anymore activity.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85682.html](http://www.nuforc.org/webreports/reports/085/S85682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
