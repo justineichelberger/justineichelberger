@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:38 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:10 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Laramie (WY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Line of 10-12 lights moving in unusual linear, then angled patternStar-light bright small shapes traveling at about small; airplane speed north aligned in a more or less east-west string moving just above the mountain tops (and behind the trees in my back yard)to the west of Laramie.  The objects proceeded northward at a slight angle (so you could see multiples in a line) spanning the width of my hand at arms length. The line of objects appeared to turn slightly to the west with the pivot point at the far end.Once the objects lined up on the eastern end object, they faded completely away.  I saw a similar light show in the back country of Colorado about 15 years ago in the South Platte Valley, except it was a v-shaped alignment of similar star-bright objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160960.html](http://www.nuforc.org/webreports/reports/160/S160960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>at aprox.2030hrs i saw what appered to be a triangular shaped object,that appeared to be red orange moving at a very high rate of speed.it was moving south southwest.i didnt hear any kind of sound.ive never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26404.html](http://www.nuforc.org/webreports/reports/026/S26404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
