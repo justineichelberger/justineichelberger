@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 2 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Satsuma (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Daytime object caught on videoI was out in the backyard watching my dogs play. I had taken along my camcorder to catch some video of the dogs.  Walking to the far NE corner of the yard I stood under a small oak tree. The limbs of the tree blocked the sun from my view which was midway in the southern sky. Thats when I noticed the object in the sky.  It sat SSE of my position at a 45 degree angle up and I quickly turned my camcorder on the object and took just over a minute of video before loosing sight of the object.  It appeared to be oval in shape.It also appeared to be self lit. The object made no noise.The dogs did not react in any way to the object.The weather was clear that day as seen in the video.Having worked at the Mobile airport for a number of years re-fueling all commercial and freight Aircraft I can tell you this was no plane. Peter, A video of the object can be downloaded from the following link at File Front. http://38.118.213.234/hdgghqegcv+/personal/f/FishHeads/ufo12_2.AVI</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53920.html](http://www.nuforc.org/webreports/reports/053/S53920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Shillington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two objects in western skyDecember 3rd 2006. 4:15pm. I work only 2 miles from where I live.  I was out smoking a cigarette on break looking due west. Once again I was observing 4 separate jet liners and there contrails. There were two groups of two. The two jets to my left were about 2 min. apart and the same with the other two jets to my right. I was talking with a co worker when I first noticed something glowing and stationary in the sky just to the right of the group of jets to my right. At that same time my co worker noticed something moving from north to south perpendicular to the jets flight path. The stationary object vanished as the second object moved at a high rate of speed passing through all 4 contrails then also vanished. I and the co worker speculated about it for a little bit, and then he had forgotten about it. When I saw it for a second time in as many days I knew had to let someone know. So tonight Dec 6th 2006 I searched the web for sightings in my region when I came upon your page for similar sightings in eastern pa. I hope this information can help u and maybe help me as well. I have no witness for the first sighting but I can get a statement from my coworker on the second one if it helps. Keep me posted on what else I can do or anyone to contact on this issue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53849.html](http://www.nuforc.org/webreports/reports/053/S53849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
