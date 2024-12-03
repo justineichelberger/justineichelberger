@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw between 20-30 diagonally aligned lights that looked like stars.  They were southwest of Springfield, Il.  They did not move but after no more that 2 minutes, most were gone.  They just disappeared leaving 4 or 5.  Shortly after,  those were gone, too. There were no blinking or colored lights.  They just looked like stars.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160961.html](http://www.nuforc.org/webreports/reports/160/S160961.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black boomerang moving north to south at 3000' with very faint amber lights below and made no sound at all.It was a boomerang shape like the one seen above Phoenix. It was as wide as my index  finger at arms length. It had very faint amber colored lights on the bottom of the wings. It went straight over my head at about two to three thousand feet. The moon was about one quarter and as it went by it disappeared into the glow of the moon. It did not make any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15386.html](http://www.nuforc.org/webreports/reports/015/S15386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
