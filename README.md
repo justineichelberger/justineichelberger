@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was standing outside in my backyard, looking up, when I noticed a condensation trail. I took out my phone to take a picture which is when I noticed 2 black formations by the trail. They were too far up to tell what they were with the naked eye and when you zoom in on the photo it blurs a little, but the 2 formations are clearly there.((NUFORC Note:  Witness has forwarded a photograph, but the only potentially anomalous objects are two, blurry specks in the sky.  We do not know what they were.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131615.html](http://www.nuforc.org/webreports/reports/131/S131615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Amherst (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On Friday December 3rd I spotted a black triangle aircraft flying North to South over Amherst Massachusetts.I am a 20-year-old college student.  At approximately 7:15 pm eastern time, I was driving with my girlfriend on Bay Road in Belchertown Massachusetts right near the border with Amherst.  We were near the Cold Spring Self storage facility heading east when we saw bright lights overhead.  At first, I thought it was a plane but as it got closer it didn’t seem like any plane I had ever heard of.  It was dark, but from what I could make it appeared to be a black triangle or diamond shape flying maybe 100 feet above us.  It crossed over the road heading from North to South. From our vantage point, it looked slightly larger than a full moon.  We opened the window and there was no sound at all even though the aircraft seemed to be so close.  All we could hear was the wind from us driving.  There were bright flashing white lights that outlined the triangle shape and then there were also flashing red and green lights on the bottom of the craft.  We attempted to take a! video.  It then seemed to speed up very quickly and got smaller and smaller until it disappeared over the treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161017.html](http://www.nuforc.org/webreports/reports/161/S161017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
