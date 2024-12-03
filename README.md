@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:58 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Shillington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two objects in western skyDecember 3rd 2006. 4:15pm. I work only 2 miles from where I live.  I was out smoking a cigarette on break looking due west. Once again I was observing 4 separate jet liners and there contrails. There were two groups of two. The two jets to my left were about 2 min. apart and the same with the other two jets to my right. I was talking with a co worker when I first noticed something glowing and stationary in the sky just to the right of the group of jets to my right. At that same time my co worker noticed something moving from north to south perpendicular to the jets flight path. The stationary object vanished as the second object moved at a high rate of speed passing through all 4 contrails then also vanished. I and the co worker speculated about it for a little bit, and then he had forgotten about it. When I saw it for a second time in as many days I knew had to let someone know. So tonight Dec 6th 2006 I searched the web for sightings in my region when I came upon your page for similar sightings in eastern pa. I hope this information can help u and maybe help me as well. I have no witness for the first sighting but I can get a statement from my coworker on the second one if it helps. Keep me posted on what else I can do or anyone to contact on this issue.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53849.html](http://www.nuforc.org/webreports/reports/053/S53849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New Forest (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was flying low hovering at first the moving off slowly before it dissaperda cigar shaped object with white red and green lights going around the edge to cloudy to see much else, it never made a singal noise nothing no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15392.html](http://www.nuforc.org/webreports/reports/015/S15392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
