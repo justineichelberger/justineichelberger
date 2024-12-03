@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:19 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Afton () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Long strip of lights and very quietAt dark: One long strip of bright white lights moving in NE direction, very slowly. Quiet, no sound whatsoever. Rather low hanging, about 10k ft. Once picture was taken, the lights disappeared.*The darker picture is the original. The lighter picture is lightened to see the detail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165653.html](http://www.nuforc.org/webreports/reports/165/S165653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hilliard (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There was a big circle of lights in the sky. There was one in the middle of 8-10 lights that was a little brighter than the rest. When I looked up it looked like an alinement of planets in a galaxy of how straight they were. It looked like it was gonna be the end of the world. The lights would blink and than one half of the lights would turn off than turn on than the other half would do ye same and than the lights would slowly go away one by one after about 7-10 minutes. You could see a big circle shaped ship behind the lights. It would rotate clockwise but the one main beige red light wouldn’t move position but you could tell it was rotating.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161135.html](http://www.nuforc.org/webreports/reports/161/S161135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
