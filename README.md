@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 3 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge long luminous red cigar disc craft seen in Marin County.I saw a huge glowing red disc-/cigar-shaped object manuevering back and forth in front of this hill on the east side of Corte Madera.  This was a real craft and I saw it through high powered binoculars perfectly clear.  It was a bright cherry red and completely lit up like a glowing light bulb.  It had no lights on it, there was no haze around it and the whole craft was totally luminous.  I got an incredible look at it. even though I was about 3 or 4 miles away, I saw everything.  It came from over the top of this hill and abruptly stopped near the right top of this hill.  I specifically noticed that when this craft was moving it was a bright cherry red and when it slowed down and hovered, it changed to a dull orange brownish color.  This craft dropped way down on this hillside almost landing on the grass and I could see the top of this object.  It had some kind of a slanted curved dome like structure on the top and once again when it slowed down it turned a burnt ora! nge color.  This object disappeared and re-appeared several times in various locations on the west side of this hill before it finally travelled from left to right and went in between 2 sets of hills at really low level and headed toward Mill Valley and Tiburon.  I was looking down at this object from up in the hills toward the west and I could see it perfectly clear from the top and from the side through the binoculars.  The night was perfectly clear and the size of this thing and the luminous glowing of this object was unbelievable.  I believe that other people might have also seen this as it was near the 101 Freeway and this incident happened at about 7:30 to 7:40 P.M., I wanted to mention that I had a "cluster of lights" sighting on 11-10-16 with 2 other witnesses.  We saw a group of 8 to 15 orbs of light in San Rafael near the Bay.  I am mentioning this because you have other San Rafael sighting being reported on 11-09 and 11-11-16 by independent witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131670.html](http://www.nuforc.org/webreports/reports/131/S131670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wirral (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Like a moving stars all 20 in a straight line no sound moving at speed of an areo plane one brighter light that was still while they passed it very high in the sky space between them was exactly the same all behind one another</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151246.html](http://www.nuforc.org/webreports/reports/151/S151246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
