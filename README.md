@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately continuous - continuous minutes.</sub><blockquote><sub>Three hovering separately lit objects  east of Marysville WashingtonRound multi colored flashes of light eminating from these 2, possibly three objects.  They are due east of us, in the north Marysville area.  They are approx. 30-35 degrees above the horizon. one is directly east of us, one a bit north, and one further south.  They do not move at all after 30 minutes of observation, but they all give the same display.  No other stars look even close to the light patterns being given off by these.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79133.html](http://www.nuforc.org/webreports/reports/079/S79133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westchester (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three bright white spheres.Westchester, California.  At approximately 16:44 hrs., I observed three sphere objects, pulsating white lights in a triangle formation, north west of my location.  Objects still in triangle formation then moved rapidly side to side and up and down.  Objects then changed formation to a straight horizontal line and repeated the same rapid movements side to side and up and down.  Objects then fell out of straight line formation and appeared as if they were chasing each other.  Objects then descended out of view, and disappeared.  The duration of the of incident was approximately fifteen seconds .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115824.html](http://www.nuforc.org/webreports/reports/115/S115824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
