@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Freeport (ME) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Wife and I have seen roughly diamond shaped objects with multiple lights seemingly white, yellow, and blue in the sky that stayed mostly still over a few hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131617.html](http://www.nuforc.org/webreports/reports/131/S131617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brookfield (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Walked outside to take my dog out. Looked up at the sky and saw several things that looked like stars moving across the sky to the south in a shallow arc. They seemed to appear out of nowhere at a point in the sky, travelled for a distance and disappeared in the same manner. I knocked on the window and waved for my parents to come outside. My mom came out and saw the same thing. I don't know how long it was going on for but I caught the last minute or two of the event. I've seen planes lined up waiting to be called into an airport. These lights were too high, moving too fast, and too close together to be that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161014.html](http://www.nuforc.org/webreports/reports/161/S161014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
