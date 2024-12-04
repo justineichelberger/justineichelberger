@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tyler (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>light that looked like a star moved from below the moon to above the moon in ten minutesOn 04/20/07 at 8:05 p.m. Central time in Tyler, Texas, I arrived at a family member’s home from across town and reported the unusually beautiful moon and two bright stars (to me a twinkling light is a star, until it moves, of course) low in the western sky.  My family member said that at time there should at most only be one bright “star” in the West and it should be Venus.  This family member became curious and walked away from the building to get a clear view of what I was looking at. We were looking at partial moon several degrees above Venus and that there was another bright object, about one inch (at arms length), to the left and slightly below Venus.  After watching for a few seconds we realized that this object was moving slowly up and a little to the right in relation to Venus.  As the object moved it slowly became less bright and disappeared from sight in about ten minutes.  The total “distance” traversed during this time was about three inches (at arms length) up and to the right and then it disappeared almost directly above Venus but very slightly to the right.  On a clock it would appear to be at three minutes past the hour.  During this slow transit we realized that there were very tiny and very difficult to see flashes of light at a distance of about one quarter of an inch (at arms length) in all directions from the object.  These flashes seemed to both come from the object and come from outside the object.  My family member said that the apparent movement of the object would indicate that it was not inside of the atmosphere.  If the object was, it would have to be increasing in altitude but somehow reducing in reflectivity.  At that time of day (just after sunset) the object did not move far enough East to pass the solar terminator and lose its light source.  The object also did not seem to be moving fast enough to reach escape velocity. The sight of the moon and two “stars” was so beautiful.  If I had not stopped to look at them, this sighting would never have happened.  My family member would not have come to look at it, too.  We would not have realized that one of the “stars” was moving and wasn’t a star at all. My chant to everyone I know is to look up!  Cloudy or Clear! Day or Night!  Look up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60173.html](http://www.nuforc.org/webreports/reports/060/S60173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Loudon (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic Ball Cluster DaytimeWhile driving on the Interstate, I looked into the sky saw 20-30 ball shaped metallic objects. They seemed to be like birds flying in an imperfect formation.  They were reflective. They made no sound. Each individual object moved in a windmill type manner. The objects were spinning and moving forward in the sky. I was able to snap a picture of the event. In the picture, you will see the unidentified objects at the bottom, and there is a strange colored cloud that appeared only in picture. At time of picture it was only blue skies and these objects. I also took another picture of the objects and they did not appear at all in that picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151441.html](http://www.nuforc.org/webreports/reports/151/S151441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
