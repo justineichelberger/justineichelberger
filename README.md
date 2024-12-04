@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:33 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:51 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Blakely (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Different altitudes moving extremely fast in all directionsThere was one craft at first moving extremely fast up down then zigzagging but staying in the same area, then we noticed more showing up till there was a total of twelve. All would stay still then start moving all over. They where at different altitudes. They remained for hours. We have seen them before once really low the look like a traffic light red white red white red lights very bright can not see any shape beyond lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165726.html](http://www.nuforc.org/webreports/reports/165/S165726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Driving I-10 west of Las Cruces, NM, a random shape object visable for more than 60 mins seem to follow my U-Hall truck.I was accompanied by an unknown object, silver in color, initially just west of Las Cruces New Mexico and continued on past Deming.  I lost visual after I made the turn north towards Lordsburg.  I had been driving West on I-10 in a rented U-hall truck in clear weather on a sunny day when I notice an object to my left which seemed to be traveling at the same speed, 60 mph, I had been traveling.  I know it sound strange but it seemed to be purposely following my vehicle at a distance of about a half mile on my left, at times I was the only vehicle on the road.  At first I thought it was a silver weather balloon as it seemed to float, however, it continued at a constant height less than 1,000 feet above ground.  The shape was constantly changing, I could not say if it was round or a crushed beer can shape or crumbled paper shape, or flat or what as it consistently hanged shape at random.  No sounds emitted from the vehicle, no lights were visible.As I passed a small town it was hard to believe that the locals could not see it as it was very low.  As I came into the town the object disappeared behind structures and water towers and more than one point it would disappeare behind small hills only to return after we passed the hill.  It left as it suddenly lifted up and out of site at a very fast speed. The time and date are the best I recall. I was moving from Georgia to California at the time so the exact date was recored by the rental.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53509.html](http://www.nuforc.org/webreports/reports/053/S53509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
