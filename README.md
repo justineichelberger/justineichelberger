@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clinton (IN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Round lights in similar patterns fly faster than the  space shuttle which I have watchedCloudy outside took phone outside looking at stars through opening it was clouldy. notice multiple fast moving objects moving in formations heading in a south west direction. Watch the sky every night it was not planes or stars or metors called my neighbor to witness what I was seeing he was freaked out.Called another friend two blocks over she was freaked out seeing the same thing.  These objects was neither man made and could have been up to a 1 mile wide with similar light formations that resembled diamond shapes.  When there was breaks in cloulds you could see multiple diamonds shapes none resembling Constellation patterns.  Flying 10 times faster than a jet could.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105079.html](http://www.nuforc.org/webreports/reports/105/S105079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Alexander (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>witnessed 25-30 lights in a near straight-line formation traveling from the west to the east.At approximately 6:25 pm Eastern Standard Time in Alexander, NC I witnessed a series of 25 to 30 lights traveling in a near straight-line formation. These unknown objects we traveling from the west, towards approximately 60° - 77°east. I quickly called to my 16 year old son, his friend and my wife to share in the sighting of this phenomenon. These objects stayed in view for about 3 minutes as the slowly faded into the distance. This was absolutely the most amazing thing any of us had ever witnessed in the night sky. The lights were a solid white color the entire time of our sighting and there were no flashing lights. They were traveling at a steady pace similar to the speed of a commercial aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165737.html](http://www.nuforc.org/webreports/reports/165/S165737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
