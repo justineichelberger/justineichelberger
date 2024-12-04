@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>There has been several occasions. Almost evety night. A possible portalWent outside to start truck an it would not start. I kept trying to start it an it just would not. Then it started or they came from every where over the hill. This isnt the first its almost every night lots of activity. Im really scared cause they know im noticing them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165739.html](http://www.nuforc.org/webreports/reports/165/S165739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Somerset (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four powerful white lights circling in a circular manner and coming to the center and stopping.  This is happening from last 1 hr never seen anything like this in my life</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79131.html](http://www.nuforc.org/webreports/reports/079/S79131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
