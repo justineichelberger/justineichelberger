@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I observed two white, pinpoint lights at approximately 20,000 feet for 15 minutes.  The objects slowly drifted to the northwest, maintaining the same angle to eachother, disappeared and reappeared and then continued in the same direction until gone for good.  I've seen these objects many times in the past: on clear days, if you look deeply into the blue sky, you can see them, sometimes more than one, sometimes in a formation, always at the same altitude and slowly drifting around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40964.html](http://www.nuforc.org/webreports/reports/040/S40964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gilchrist (Canada) (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Series of bright streaks in the sky near air force baseI was driving Southbound on Highway 11 between Orillia and Barrie Ontario around 10:15 PM on Friday December 4, 2015.  As I was descending into a stretch known locally as "Gasoline Alley" I noticed a streak of light in the sky to the left.  It  was a long thin line of bright white light that seemed to start somewhere over or near Barrie and move North East towards Orillia.  It reminded me of the Enterprise (Star Trek) going from full stop to warp speed and then disappearing.  Seconds later there were 2-3 (possibly more) streaks doing exactly the same thing, like a fleet of ships.I realize these may have been meteors, but I've seen meteors before and these streaks seemed different to me. There was no ball of light at the head or streaking behind it. It was a perfect pencil thin white line.Also, CFB Border (air force base) is very close to this area.  When I looked at a map I realized that if a ship had been hovering above the base and then shot off North East, it would have gone parallel to Highway 11 to my left exactly as I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124564.html](http://www.nuforc.org/webreports/reports/124/S124564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
