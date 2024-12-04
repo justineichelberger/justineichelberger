@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Driving I10 west of Las Cruces NM a random shape object visable for more than 60 mins seem to follow my U-Hall truck.I was accompanied by an unknown object, silver in color, initially just west of Las Cruces New Mexico and continued on past Deming.  I lost visual after I made the turn north towards Lordsburg.  I had been driving West on I10 in a rented U-hall truck in clear weather on a sunny day when I notice an object to my left which seemed to be traveling at the same speed, 60 mph, I had been traveling.  I know it sound strange but it seemed to be purposely following my vehicle at a distance of about a half mile on my left, at times I was the only vehicle on the road.  At first I thought it was a silver weather balloon as it seemed to float, however, it continued at a constant height less than 1,000 feet above ground.  The shape was constantly changing, I could not say if it was round or a crushed beer can shape or crumbled paper shape, or flat or what as it consistently hanged shape at random.  No sounds emitted from the vehicle, no lights were visible. As I passed a small town it was hard to believe that the locals could not see it as it was very low.  As I came into the town the object disappeared behind structurs and water towers and more than one point it would disappeare behind small hills only to return after we passed the hill. It left as it suddenly lifted up and out of site at a very fast speed. The time and date are the best I recall. I was moving from Georgia to California at the time so the exact date was recored by the rental.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53510.html](http://www.nuforc.org/webreports/reports/053/S53510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Caledonia (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was outside taking pictures of some horses before lunch and there was a light in the sky and as it moved it left a trail with points of stop that you could see and when it was finished it looked like a snake then disappeared. It was a clear sky that day in the pictures it shows up perfectly as seen.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36577.html](http://www.nuforc.org/webreports/reports/036/S36577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
