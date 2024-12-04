@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Loudon (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic Ball Cluster DaytimeWhile driving on the Interstate, I looked into the sky saw 20-30 ball shaped metallic objects. They seemed to be like birds flying in an imperfect formation.  They were reflective. They made no sound. Each individual object moved in a windmill type manner. The objects were spinning and moving forward in the sky. I was able to snap a picture of the event. In the picture, you will see the unidentified objects at the bottom, and there is a strange colored cloud that appeared only in picture. At time of picture it was only blue skies and these objects. I also took another picture of the objects and they did not appear at all in that picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151441.html](http://www.nuforc.org/webreports/reports/151/S151441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light curves upward, disapearsAt apx. 9:30 P.M. on Dec. 4, 2008, as I was walking through the parking lot at work; I turned to check that my lights were off.  As I turned, to the west, I saw a bright object streak across the sky.  My first thought was that it was a very bright meteor, when suddenly it changed direction, curved upward, gained altitude and disappeared.(about 1-2 seconds)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67812.html](http://www.nuforc.org/webreports/reports/067/S67812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
