@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:55 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:33 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ipswich, Qld (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange lights over Ipswich Qld 4/12/09Last night, Friday 4/12/09  ((December 04, 2009)) at 8:30 pm I and two other people witnessed some strange lights in the sky over Ipswich Qld Australia. The very first thing we saw looked like a plane, but we realised it was moving much too fast. It looked almost like a V shape with red and green lights with a white glow between each light. The lights on the craft were a vertical rectangle shape.  It whizzed above us in a straight line until we no longer saw it. But after that we saw these tiny lights, they almost looked like stars, but there were some of all different colours, blue, yellow, red, orange. They were silent, non-flashing and moving at top speed. They were very small but they were quite low down. This continued for 5-7 minutes, we could not see where they were coming from. Although we could see the general direction which they came, they seemed to just appear. The last light we saw, however, was quite different from the others. It was bright red, almost glowing. But it didn’t move smoothly though the sky like the others, it was almost like a pulsating action that propelled it through the sky rather erratically, although it was moving in the same directions as all the others, it was not moving in a line, rather, hopping from left to right. I was probably the most sceptical person about this sort of thing before last night. But I do like to keep an open mind to other possibilities. At the time I was convinced we were witnessing something quite unusual. What convinces me that it was more than reflection of light or meteorites, is the very first thing we saw that looked too much like a spacecraft, but not enough that I am convinced it was deffinately not a plane. Afterwards we noticed at Brisbane airport (I live on a hill and can see planes taking off and landing) that the airplanes were circling the airport instead of landing like they normally do. After 5 minutes they all landed one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73582.html](http://www.nuforc.org/webreports/reports/073/S73582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Blakely (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Different altitudes moving extremely fast in all directionsThere was one craft at first moving extremely fast up down then zigzagging but staying in the same area, then we noticed more showing up till there was a total of twelve. All would stay still then start moving all over. They where at different altitudes. They remained for hours. We have seen them before once really low the look like a traffic light red white red white red lights very bright can not see any shape beyond lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165726.html](http://www.nuforc.org/webreports/reports/165/S165726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
