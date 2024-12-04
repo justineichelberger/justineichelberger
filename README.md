@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:28 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright light curves upward, disapearsAt apx. 9:30 P.M. on Dec. 4, 2008, as I was walking through the parking lot at work; I turned to check that my lights were off.  As I turned, to the west, I saw a bright object streak across the sky.  My first thought was that it was a very bright meteor, when suddenly it changed direction, curved upward, gained altitude and disappeared.(about 1-2 seconds)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67812.html](http://www.nuforc.org/webreports/reports/067/S67812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nunn (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three lights in a triangle that flew off in opposite directions at an amazing speed in Northern Colorado.On the evening Tuesday December 4th I was driving home from Fort Collins Colorado to my house near Nunn, Colorado.  It was approximately 7pm.  I was on Weld County Road 100, approximately half way between Wellington and Nunn Colorado.I glanced to the south and saw three strange lights in the sky.  They looked a bit like stars in the sky but were much brighter, and there were not many stars visible at that time.  The lights were arranged in a triangle pattern.My first thought was it was just the lights of the large radio towers south of my house.  (Weld County road 27 and Weld County Road 90).  I was driving so I pulled over to the side of the road.  Once I was stopped I was able locate the red lights of the radio tower and they were NOT the three mysterious lights that I was seeing.  The lights were higher in the sky and further west then the radio tower lights.I watched the lights and I was trying to grasp what they could be.  Nothing in my mind fit what I was seeing.  They were not stars, they were not earthly aircraft.  As I stared with amazement the lights, which had been stationary in the sky, spun in the sky together in a circular motion two full revolutions then the three lights took off in different directions from each other.  The speed at which they exited my view was faster than anything I have ever witnessed.I waited about 2 minutes to see if I could see them again.  I did not.  I am not sure what it is that I was looking at, and I have done some simple google searches to see if there others that may have witnesses what I did.  I have found nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95011.html](http://www.nuforc.org/webreports/reports/095/S95011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
