@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:14 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Tonight is a clear night, I was in my backyard looking up at the stars when I saw 4 faded red lights in a half V formation streak across the sky. They were small dots in the sky, and headed south. I knew it wasn't airplanes or anything I've ever seen before because of their speed. In less than 2 seconds, they went from above my head to the horizon and out of sight. I am not a UFO fanatic. Just someone who saw something that is not physically possible. Anyone who saw this, email me at ((e-address deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20768.html](http://www.nuforc.org/webreports/reports/020/S20768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Britain (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright, trianglular, glowing caft hovered above town and then sped away super fast!I was driving home from dinner with my mother. and we spotted a triangular craft flying very slowly  overhead. It has a series of bright lights which formed the shape of the triangle. The lights with white and there was one light hanging off part of the craft that was flashing a yellowish light. The whole crapft seemed to be glowing, or was giving off a very dim, but eye catching glow or haze. (In other words, I knew this was not a plane.) When we pulled into my driveway, i pulled my camera phone out to try to record a short video as this thing was hovering over the town. But I wasn't fast enough and it flew away. Whatever this thing was, it was super fast! It didn't make any sounds or leave any vapors in the sky.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67377.html](http://www.nuforc.org/webreports/reports/067/S67377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
