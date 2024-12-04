@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westchester (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three bright white spheres.Westchester, California.  At approximately 16:44 hrs., I observed three sphere objects, pulsating white lights in a triangle formation, north west of my location.  Objects still in triangle formation then moved rapidly side to side and up and down.  Objects then changed formation to a straight horizontal line and repeated the same rapid movements side to side and up and down.  Objects then fell out of straight line formation and appeared as if they were chasing each other.  Objects then descended out of view, and disappeared.  The duration of the of incident was approximately fifteen seconds .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115824.html](http://www.nuforc.org/webreports/reports/115/S115824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clinton (IN) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Round lights in similar patterns fly faster than the  space shuttle which I have watchedCloudy outside took phone outside looking at stars through opening it was clouldy. notice multiple fast moving objects moving in formations heading in a south west direction. Watch the sky every night it was not planes or stars or metors called my neighbor to witness what I was seeing he was freaked out.Called another friend two blocks over she was freaked out seeing the same thing.  These objects was neither man made and could have been up to a 1 mile wide with similar light formations that resembled diamond shapes.  When there was breaks in cloulds you could see multiple diamonds shapes none resembling Constellation patterns.  Flying 10 times faster than a jet could.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105079.html](http://www.nuforc.org/webreports/reports/105/S105079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
