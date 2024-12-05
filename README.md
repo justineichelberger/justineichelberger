@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bahía Blanca (Buenos  (Argentina) (Buenos Aires) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>changing small white objectBeing a clear spring day,we were in the garden of my house. We saw a changing white object. It was not a star or a plane It moved in different directions.Its speed was not constant. It was so strange.When we saw the photos and the videos,we were able to see it unusual shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165759.html](http://www.nuforc.org/webreports/reports/165/S165759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Homosassa (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Florescent / Irridecent Green SphereHoly Cow ! We saw the green light too !! My son and I were leaving a relatives house that night, headed in a northern direction, I Just happened to look up When I was putting My vehicle in gear, and noticed the green light pretty much on top of us. The object was very Large, was comparable to a full moon or larger, in fact,I cannot compare the size to anything..it was very large.It was a floresent or Irridecent green in color and it had an Orb or a Sphere shape, and there was, what i can only describe as a static completely around the object ,that seemed to light up the area around us ( This was not a beam of light but just the light from around the object). The object was moving just above the tree line to cross over us, and made no sound at all. It was moving in a N-NW direction ( Crossing Hwy 19 / 98, Toward the Gulf Of Mexico )  at a fast rate of speed, the object appeard to be decending, ( In fact, I was expecting to hear an impact, once it had passed us) But then, It just disappeared behind the tree line. I remember thinking... no way, no how, someone else saw that... I searched the internet, looked at NASA an NOAA pages, checked the news for weeks and no reports.Just happy to know someone else saw it.**.... and for the skeptics, I was raised in boats growing up and thru adult hood as our livelyhood, I can identify stars ( as taught as a child how to find my way home if anything ever happened) and I have seen many things in the sky, and this was no star,comet,meteor,plane,blimp,weather baloon or otherwise....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50855.html](http://www.nuforc.org/webreports/reports/050/S50855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
