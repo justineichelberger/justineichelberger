@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Folsom (over/Cameron Park) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a large triangular craft with three large white lights on the tips and dimmer light in the center.I saw a bright light in the night sky as I approached Scott Rd (Folsom, CA) to the right. I thought it was a helicopter hovering as they do sometimes watching the traffic. I was headed eastbound on Hwy 50 and as I proceeded it became obvious that the craft wasn't a helicopter because it was much too big and far away. As I got closer to it, it was evident that it had three lights and as I passed near the Cambridge Rd. exit, it was now on the right hand side of the freeway and you could see under it and it was triangular, had three large white lights on the tips of the triangles and a dimmer light in the center, with some smaller little lights around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26437.html](http://www.nuforc.org/webreports/reports/026/S26437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Padang (Indonesia) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>Cylinder type with lights around in the sky of Padang Indonesia.Right now, a cylinder type of craft with lights around it in the sky of Padang, at the west near the Hindia Ocean.  The location is slightly change from yesterday.  Please ask your people to see it NOW. They used to stay for 1 or 2 hours. I tried to take picture but it is not clear.  Only dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105089.html](http://www.nuforc.org/webreports/reports/105/S105089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
