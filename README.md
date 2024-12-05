@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zipping White Light.I was looking out my window at the sky and saw this weird white light zipping across the sky moving fast and changing directions.  It was very small but definitely noticeable.  My grandfather was with me at the time and I pointed it out to him in which he also saw it.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107811.html](http://www.nuforc.org/webreports/reports/107/S107811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Sighting in Edmonds, WAMy spouse and I were going on a walk with our dog around the track at Woodway Elementary. As we approached the rounded end of the track the UFO very slowly and very quietly - mostly silent - moved overhead going from North to South. It was what felt like only a stones throw away, maybe 50 ft above moving through low hanging fog. My spouse and I stopped walking and both agreed it was not just a plane leaving from Paine Field. It was dark and difficult to see the shape, but had red lights on the bottom in the shape of a circle, which also was a confirmation it was not a plane. I want to stress again, the speed at which the UFO was moving was extremely slow, and seemed to be only about 5 MPH or less as it went directly over us. Our dog sat down at our feet, and we all looked upwards. My spouse and I were both nervous, and held hands. As the craft moved South through the low hanging fog, the fog was very thick at one point almost completely covering the view from the lights. As it emerged from the other side of the fog into clear view again, it had shape-shifted into the shape and full appearance (lights and everything had changed) of a commercial airplane, was moving much faster, appeared much higher in the sky, and continued onwards South in a straight flight as if it were simply an airplane flying over from Paine Field. Over the years, I have shared this experience confidently with others who either agree it sounds like we had a close encounter with a UFO, but some non-believers think I’m eccentric and exaggerating. What I saw that night was very clearly not an airplane, and I knew immediately it was magical or otherworldly as it was so low, and so slow. I will remember it forever and hope to one day see something like it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165050.html](http://www.nuforc.org/webreports/reports/165/S165050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
