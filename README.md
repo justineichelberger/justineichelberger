@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:40 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ashville (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still ongoing @ 22:24 - still ongoing @ 22:24 minutes.</sub><blockquote><sub>Srange lights/unknown craft observed in E/ESE sky of NorthEastern St.Clair County Al. on night of 12/05/2008.Observed very strangely lit object approximately 40*-50* azimuth in E/ESE sky, moving in very unconventional flight manner.  Began observation @ approximately 21:35 CST and still ongoing as of 22:25 CST.  Object shape difficult to discern, only noticing extremely agile motions of this object, in a manner inconsistent of any known flight craft.  Reporting made to Saint Clair County Sheriffs Department via phone at approximately 21:45 CST. Lighting appears to be multicolor red/blue/green as best as can be determined from presentation at this unknown distance, which I can best estimate as 3+ miles. I notified two of my neighbors whom saw the same unknown object, and verify that this situation was indeed occuring as reported here.  Additionally, my wife came outside and observed same sighting for several minutes as well, until too cold to remain outside any longer.((NUFORC Note:  We are grateful for the excellent report, but we believe that the witness may have been looking at Sirius, which is a very colorful object in the southeaster sky, currently.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67330.html](http://www.nuforc.org/webreports/reports/067/S67330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Keswick (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>silent white light/sphere in sky,light fades,it disappears, comes back then disappears againLooking at the stars, see a bright light moving farther away,  the light disappears and then comes back then fades out.  No sound no flashing light like aircraft (live in a fly zone) we thought it was a star until it began to move to the east.  It was dropping altitude then as the light faded out, it reappeared and headed towards the south and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131631.html](http://www.nuforc.org/webreports/reports/131/S131631.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
