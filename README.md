@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Northland/Moerewa Bay (New Zealand) () reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>my name is ((name deleted)) of ((street name deleted)) road moerewa bay of islands northland new zealand  this happened 9:45 pm friday night 2003 there was a very super bright light apeared in the sky to the west of where we live and got even brighter for half an hour.just sitting in the one spot then it got very dim.then this massive light brightened up brighter than it appeared and just disippeared in a flash so fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33627.html](http://www.nuforc.org/webreports/reports/033/S33627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lutz (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>The witness saw the object obove the tree line, in the distance which he could not determine and it moved from NE to NW at 8 degrees above the horizon.  There were no sounds or trails left from the object and it disappeared below the tree line.  He saw this object on Sept. 7th when there were so many sightings over the Florida area and he reported that sighting in great detail.  He felt that he should report this also since it looked the same.This information is submitted by MUFON of Hillsborough and Pinellas counties in Florida.  Because this object looks like the reported object seen on Sept. 7th 1999 he felt that it should be documented as often as he sees it in his area.  We have contact with this witness at all times and his testimony is regarded as credible information.((NUFORC Note--Our gratitude to Lorraine Gerber, Assistant State Director for MUFON for Northern Florida, for this report.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11281.html](http://www.nuforc.org/webreports/reports/011/S11281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
