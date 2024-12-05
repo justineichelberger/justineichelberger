@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Homosassa (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Florescent / Irridecent Green SphereHoly Cow ! We saw the green light too !! My son and I were leaving a relatives house that night, headed in a northern direction, I Just happened to look up When I was putting My vehicle in gear, and noticed the green light pretty much on top of us. The object was very Large, was comparable to a full moon or larger, in fact,I cannot compare the size to anything..it was very large.It was a floresent or Irridecent green in color and it had an Orb or a Sphere shape, and there was, what i can only describe as a static completely around the object ,that seemed to light up the area around us ( This was not a beam of light but just the light from around the object). The object was moving just above the tree line to cross over us, and made no sound at all. It was moving in a N-NW direction ( Crossing Hwy 19 / 98, Toward the Gulf Of Mexico )  at a fast rate of speed, the object appeard to be decending, ( In fact, I was expecting to hear an impact, once it had passed us) But then, It just disappeared behind the tree line. I remember thinking... no way, no how, someone else saw that... I searched the internet, looked at NASA an NOAA pages, checked the news for weeks and no reports.Just happy to know someone else saw it.**.... and for the skeptics, I was raised in boats growing up and thru adult hood as our livelyhood, I can identify stars ( as taught as a child how to find my way home if anything ever happened) and I have seen many things in the sky, and this was no star,comet,meteor,plane,blimp,weather baloon or otherwise....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50855.html](http://www.nuforc.org/webreports/reports/050/S50855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Leland (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two Bright Dots, moved simultaneously and fadedSighting from backyard in Brunswick Forest development, Leland, NC (near Wilmington, NC)  Two bright dots in the sky between Mars and Neptune at 6:55pm approximately, December 5, 2020. The dots were aligned perpendicular to the line between Mars and Neptune. They were about the size that Mars appeared, but brighter than Mars. When I first looked up and saw the two dots positioned as they were, it looked like Orion’s Belt. Then I said, “hey wait a minute”, since there were only two stars! As I said that, the two stars dimmed to about the brightness of Mars. They were about an inch apart if I was to hold my hand up to the sky to guess distance. After they dimmed, they simultaneously moved about two “sky inches” from my position up and to the right. Then they rapidly faded from sight without moving location. It was a clear evening, mid 50s temperature, moon had not yet risen above my sight line. I was looking almost due south at the time. The “dots” were about 45 degrees up from the horizon. No sound. Observed by one adult female, aged 46. I’ve seen other craft over the years dating back into the 1990s.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161052.html](http://www.nuforc.org/webreports/reports/161/S161052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
