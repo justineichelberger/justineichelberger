@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in High River (Canada) (AB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Line of Lights in the early morning skyAt 6:30am on December 5, 2019 in High River, Alberta, I was outside with my dog and looked up at the stars, as I often do.  I noticed a series of white lights tracking from the north towards the south east.  There were several lights all in a row, forming a line of lights in single file (not in formation).  The line continued to the south east right out of my view.  I cannot tell you how many lights there were exactly but I did count over 30.  There was no sound and no color or flashing.The lights just kept coming over the house were moving quickly and at a high elevation.  I did not take any video or photographic images as I was so awestruck by the whole event.There was a plane that also flew over the house tracking north to south a much lower elevation at the same time, I expect the piolet would have also seen the lights also.  The plane did not appear to be involved (ie: following the event).  This was clearly a plane as I could hear the engine and see the flashing signal lights of a small aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151319.html](http://www.nuforc.org/webreports/reports/151/S151319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Paris (MO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information.  Possible sighting of a planet in the eastern sky?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124523.html](http://www.nuforc.org/webreports/reports/124/S124523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
