@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Naubinway (MI) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Forty “Stars” In A Straight Line As They Headed Towards Mars from West to EastWhile viewing Mars, which still appears yellow.  I saw 40 “Stars” headed from the Southwest towards Mars.  Each light was of the same brightness and were on the same plain as Mars, but nowhere near as bright as Mars, yet easy to see with the naked eye. As they approached Mars, they were all equidistant from each other.  They then each disappeared as they reached Mars and didn’t reappear.  They all were on the same plain.  I held out my right hand.  I spread my index finger and pinky finger as far apart as I could with my right arm stretched out.  This is exactly how far apart they were from my view point. The sky was totally clear.  The moon had not risen yet.  My house is out in the middle of the woods and it is extremely dark.  I was actually outside looking at The Milky Way and listening for wolves when these mysterious “Stars” appeared in my field of view.  I have a large yard and there are no trees blocking the view. The lights came from the area of Saturn and Jupiter (Space App), but much higher off of the horizon.  Thus traveling West to East. I have seen satellites frequently which become brighter as they reflect sunlight to your location then quickly fade.  Mostly Bi-Polar in nature.  These lights were the same brightness the entire time they crossed the night sky—West to East. I cannot express my amazement enough. No pulsing or anything but the same brightness.  White in color.  They all looked exactly the same and in a straight line formation. I actually started counting as the fourth one “disappeared” as they headed directly to Mars.  They were on the same plain and didn’t deviate.  Very flat across the sky.  Forty “Stars”—Exactly. If they were aircraft, why did they disappear?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160973.html](http://www.nuforc.org/webreports/reports/160/S160973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Zipping White Light.I was looking out my window at the sky and saw this weird white light zipping across the sky moving fast and changing directions.  It was very small but definitely noticeable.  My grandfather was with me at the time and I pointed it out to him in which he also saw it.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107811.html](http://www.nuforc.org/webreports/reports/107/S107811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
