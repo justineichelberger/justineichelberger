@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 4 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brookfield (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Walked outside to take my dog out. Looked up at the sky and saw several things that looked like stars moving across the sky to the south in a shallow arc. They seemed to appear out of nowhere at a point in the sky, travelled for a distance and disappeared in the same manner. I knocked on the window and waved for my parents to come outside. My mom came out and saw the same thing. I don't know how long it was going on for but I caught the last minute or two of the event. I've seen planes lined up waiting to be called into an airport. These lights were too high, moving too fast, and too close together to be that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161014.html](http://www.nuforc.org/webreports/reports/161/S161014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Folsom (over/Cameron Park) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a large triangular craft with three large white lights on the tips and dimmer light in the center.I saw a bright light in the night sky as I approached Scott Rd (Folsom, CA) to the right. I thought it was a helicopter hovering as they do sometimes watching the traffic. I was headed eastbound on Hwy 50 and as I proceeded it became obvious that the craft wasn't a helicopter because it was much too big and far away. As I got closer to it, it was evident that it had three lights and as I passed near the Cambridge Rd. exit, it was now on the right hand side of the freeway and you could see under it and it was triangular, had three large white lights on the tips of the triangles and a dimmer light in the center, with some smaller little lights around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26437.html](http://www.nuforc.org/webreports/reports/026/S26437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
