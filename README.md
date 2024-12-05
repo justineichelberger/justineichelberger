@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:40 on 5 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Perryville (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Ufo battles highflying jet explodes over Perry county leaving oil mist on everything early mourningClosely around 3am I hear the sounds of jet afterburners roaring.  Not usually strange event. 30 minutes later I realise that the sound of jet engines is still there and growing louder.  Somethings wrong.  Outside I go with weapons in hand.  Understanding nature of warfare. Once outside to the north I hear full engagement of some kind of emp weapon over and over and over.  Sounds of airial battle I can only compare to star wars scenes for lack of any known event before.  Situation is continuing with 1 more flyby of ultra highflying jet as the afterburner roar into the west again for another 30 minutes.  After the "jet" passes emp sounds end.  Daylight starts to break and a white saucer cloud slowly drifts into view from east to dead north in view.  The craft/cloud explodes upward in series of layers like a nuclear bomb.  Just barely starting to see blue skies  of mourning as these rings expand outward and away from the "event"before it really registers in my mind this cloud of oily mist stings my check.  I snap out of amazement and run indoors out of the fog mist. I'm certain 100% of event with hard evidence reported citywide.  My girlfriend 3 blocks away tells me of oil drops covering her car before I say a word.  Oddly it was the start of a 2 week deep freeze that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148442.html](http://www.nuforc.org/webreports/reports/148/S148442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ashville (AL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still ongoing @ 22:24 - still ongoing @ 22:24 minutes.</sub><blockquote><sub>Srange lights/unknown craft observed in E/ESE sky of NorthEastern St.Clair County Al. on night of 12/05/2008.Observed very strangely lit object approximately 40*-50* azimuth in E/ESE sky, moving in very unconventional flight manner.  Began observation @ approximately 21:35 CST and still ongoing as of 22:25 CST.  Object shape difficult to discern, only noticing extremely agile motions of this object, in a manner inconsistent of any known flight craft.  Reporting made to Saint Clair County Sheriffs Department via phone at approximately 21:45 CST. Lighting appears to be multicolor red/blue/green as best as can be determined from presentation at this unknown distance, which I can best estimate as 3+ miles. I notified two of my neighbors whom saw the same unknown object, and verify that this situation was indeed occuring as reported here.  Additionally, my wife came outside and observed same sighting for several minutes as well, until too cold to remain outside any longer.((NUFORC Note:  We are grateful for the excellent report, but we believe that the witness may have been looking at Sirius, which is a very colorful object in the southeaster sky, currently.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67330.html](http://www.nuforc.org/webreports/reports/067/S67330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
