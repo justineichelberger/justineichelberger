@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Thorntown (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I don't know if I saw something or not!  It was coming in my direction in the sky.  It startled me when I saw it because is was  coming quick.  All I saw was a light.  Four points of light actually.  They shone out, like on the four corners of a square, and the "square" was lit up too.  Then the light veered to the left.  I was scared so I drove off, and I tried to keep an eye on the light, but when it went over my van, I couldn't see it anymore.  I didn't want to see it.  It was high.  Not low enough to see or hear anything.  I'm very afraid of alien abduction.  I don't know if I saw and actual ufo, but it scared me nontheless.  There were airplanes I saw later, but why wouldn't I have heard that if that is what I acutally saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15308.html](http://www.nuforc.org/webreports/reports/015/S15308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Helicopter into a triangle at RoswellAt approx. 6.16pm on December 6th 2000, I was standing on a porch having a ciggy, facing south, I spotted a light in the sky pointing towards the ground, looked like a black helicopter with a light coming from the front, I saw a red (port) and a green (starboard) I watched this object coming towards me and heard not a sound coming from it, I still thought it was a helicopter. I called out my friend and my wife who both saw what I saw up to this point.It was still coming towards me but started drifting away to my left and came to a full stop about 800 yards to my left, and not a sound from it, both my wife and my friend watched as something peculiar happened, the object changed shape as we watched, it sort of dipped and as it did it turned into a triangle both red and green lights vanished, as it did from off centre of this triangle came a very bright flashing strobe light which was pulsating, next we saw three bright white lights in the shape of a triangle these lights clearly showed the shape of this object.As we saw the triangle it reversed itself and silently disappeared in the same direction I had seen it approaching.This sighting lasted for approx.5-6 minutes, witnessed for part of the time by two other people, I reported (On a report form) this sighting the next day at 11.50pm, at the International UFO Museum in Roswell at the next day.((NUFORC Note:  We will request reports from other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20782.html](http://www.nuforc.org/webreports/reports/020/S20782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
