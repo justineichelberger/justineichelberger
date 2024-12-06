@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The object emitted light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151361.html](http://www.nuforc.org/webreports/reports/151/S151361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Angeles (5.5 miles East of) (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>VERY reliable second hand information as follows: On the night of Friday, Dec. 6, 2002 at 7:30 pm, a friend was driving home from work in Port Angeles heading east on highway 101W. She was about 5 miles east of Port Angeles very near Sutter Rd. when she saw a green light in the sky. It was on the south side of the highway as she was driving east. She said the light got closer very quickly and at first she thought it was a star or something, but the brilliant green color did not look right. She said the light moved closer quickly and it was approx. the size of about 1/2 the size of a house. It was green with a "frosted" look to it. It slowed down and slowly settled into the forest possible less than 1 mile off the highway. Other cars also saw the light as they slowed down to look too. There were at least 3 other cars; 2 ahead and 1 behind her. She also said as the light settled in the forest, it flared a bright green color which made the trees light-up then they suddenly went out.Note: another strange occurance that night as I heard this morning on KING TV: there was a reported 2.2 earthquake reported at 8:30 pm last night in almost if not exactly same location...strange to say the least?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26470.html](http://www.nuforc.org/webreports/reports/026/S26470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
