@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Warwick (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Me and my father's girlfriend were walking back form the store when what we seen what we thought was an airplane flying extrmely close to the gorund but it was to big to be an airplane.  It was lit up all around in green flashing lights and one huge yellow light in the middle of it.  It took of extremely fast followed by another aircraft that looked exactly like it following this unidentifed flying object.  It was extrmely insane because they were both so huge and neither of them made a noise.  They were traveling extremely fast and went pretty far but the lights were so bright we could still see them.  They then shot into the air and the yellow light that wa sin the middle of it got tinier and tinier until it dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60224.html](http://www.nuforc.org/webreports/reports/060/S60224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mt. Vernon (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white fireball, Washington State.Driving south on I-5, 4 miles south of Mt. Vernon, to the SE I witnessed a bright white fireball climb downward approx 70 degrees for about 5-7 seconds. Most likely it was a meteor or space junk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26456.html](http://www.nuforc.org/webreports/reports/026/S26456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
