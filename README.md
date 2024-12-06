@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Helicopter into a triangle at RoswellAt approx. 6.16pm on December 6th 2000, I was standing on a porch having a ciggy, facing south, I spotted a light in the sky pointing towards the ground, looked like a black helicopter with a light coming from the front, I saw a red (port) and a green (starboard) I watched this object coming towards me and heard not a sound coming from it, I still thought it was a helicopter. I called out my friend and my wife who both saw what I saw up to this point.It was still coming towards me but started drifting away to my left and came to a full stop about 800 yards to my left, and not a sound from it, both my wife and my friend watched as something peculiar happened, the object changed shape as we watched, it sort of dipped and as it did it turned into a triangle both red and green lights vanished, as it did from off centre of this triangle came a very bright flashing strobe light which was pulsating, next we saw three bright white lights in the shape of a triangle these lights clearly showed the shape of this object.As we saw the triangle it reversed itself and silently disappeared in the same direction I had seen it approaching.This sighting lasted for approx.5-6 minutes, witnessed for part of the time by two other people, I reported (On a report form) this sighting the next day at 11.50pm, at the International UFO Museum in Roswell at the next day.((NUFORC Note:  We will request reports from other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20782.html](http://www.nuforc.org/webreports/reports/020/S20782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Warwick (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Me and my father's girlfriend were walking back form the store when what we seen what we thought was an airplane flying extrmely close to the gorund but it was to big to be an airplane.  It was lit up all around in green flashing lights and one huge yellow light in the middle of it.  It took of extremely fast followed by another aircraft that looked exactly like it following this unidentifed flying object.  It was extrmely insane because they were both so huge and neither of them made a noise.  They were traveling extremely fast and went pretty far but the lights were so bright we could still see them.  They then shot into the air and the yellow light that wa sin the middle of it got tinier and tinier until it dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60224.html](http://www.nuforc.org/webreports/reports/060/S60224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
