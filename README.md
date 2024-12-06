@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quail Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i WENT OUT TO SMOKE A CIGARRETE AND SAW A BRIGHT RED LIGHT WAY HIGH MOVING SLOW STEADY IN A TRIANGLE SHAPE WITH 3 FLARES OUT EACH PEAK  CALLED THE WIFE OUT,  IT LASTED FOR ABOUT ANOTHER MINUTE AND DESAPEARED. LIKE IT TURNED OR SOMETHING IT WAS AWSOME BUT ERIE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95042.html](http://www.nuforc.org/webreports/reports/095/S95042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Charleston (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>This was an amazing fireball!Location = Charleston SC Date and Time = 12/6/02 11:07pm EST approximately Fireball appeared from the W. Fireball disappeared from the E.How long, in seconds, were you able to see it in the sky? 4 to 5sec? About 90+° off horizon when it appeared.Disappeared at the horizon. Magnitude = moon+! Color blue, & yellow orange Clear persistent streak! Duration  unknown...Inaudible...This was an amazing fireball!   It lit up the night sky briefly as if it were a deep blue daylight.  I first noted that the dark sky began to lighten very quickly as if someone were turning on the daylight using a switch controlled by a rheostat. Like a bolt of lightning that grew in intensity over time. By the time I had eyes on it and realized that it wasn't lightning but a fireball, it must have been at about 80° of arc heading quickly toward the horizon from west to east.  I had a fortunate vantage point  as I was facing that direction precisely at the time. It was an awesome sight!  Tied with first for my most impressive fireball observation in my 34 years of life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26881.html](http://www.nuforc.org/webreports/reports/026/S26881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
