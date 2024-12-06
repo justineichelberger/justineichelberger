@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Broadview Heights (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Saw descending star-shaped object, slow, bright, no trails, no explosion, twice in 15 years.It was a bright star shaped light that was decending straight down, but desending slower than an object that would be falling.  No trail.  Not a meteor.  Why don't you have a star shape or bright light in your feild of choice?  Clear winter night, snow on ground, woods all around, got my rifle, dog and went to see what it was.  No explosion, walked 3 miles, nothing found. Saw same exact shape, decent, and no explosion 15 years later.  Same city.  Differnet direction of view and landing area.. Weid part is, that second sighting happened after I move back another 15 years later, got up to go to bathroom, but half way there, I just got this feeling to stop, go back to the window, open curtain.  Then I saw exact same UFO desending same way, looked exactly the same.  No trail, desending slower than something falling, no explosion. Had 2 other sitings, neither of which the same, to the above or to each other.  One suspended in air for about 1/2 hour and one that would appear, disappear a couple of times and then in a clear blue sky, (no clouds), diappeared completely.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38324.html](http://www.nuforc.org/webreports/reports/038/S38324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Maumee (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>was walking home late at night and saw the sky turn greenish out of my peripherals. looked up and towards the source and saw what appeared to be 4 triangular shaped projection-style lights under what appeared to be a large craft.  (the size was evident because I could see the clouds IN FRONT of t</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151325.html](http://www.nuforc.org/webreports/reports/151/S151325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
