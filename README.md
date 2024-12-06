@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Maumee (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>was walking home late at night and saw the sky turn greenish out of my peripherals. looked up and towards the source and saw what appeared to be 4 triangular shaped projection-style lights under what appeared to be a large craft.  (the size was evident because I could see the clouds IN FRONT of t</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151325.html](http://www.nuforc.org/webreports/reports/151/S151325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quail Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i WENT OUT TO SMOKE A CIGARRETE AND SAW A BRIGHT RED LIGHT WAY HIGH MOVING SLOW STEADY IN A TRIANGLE SHAPE WITH 3 FLARES OUT EACH PEAK  CALLED THE WIFE OUT,  IT LASTED FOR ABOUT ANOTHER MINUTE AND DESAPEARED. LIKE IT TURNED OR SOMETHING IT WAS AWSOME BUT ERIE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95042.html](http://www.nuforc.org/webreports/reports/095/S95042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
