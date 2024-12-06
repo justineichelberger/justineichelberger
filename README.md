@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:47 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:22 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Bluff (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two bright yellow balls over rt 41 danced, twisted, and took off in two opposite directions! Less than 1 Minute! Both GONE!Driving down Route 41 about to get off at the route 176 exit and Both the driver and I immediately were drawn to these two bright yellow balls of lights that hovered next to each other, twisted around each other and one took off South East and the other North West.  We lost sight of each of them as a tree blocked our view for not even 3 seconds and we could not find either object in the sky.  If these were planes they would have still been In our range.  They were two bright yellow balls that danced together and then took off so quickly.  They only danced for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105107.html](http://www.nuforc.org/webreports/reports/105/S105107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bordentown (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Few thousand feet above roof..below Orion's belt. Flashing .. pulsing..zoomed in and rectangle shape...I have been trying Ce5 recently. Awesome</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161074.html](http://www.nuforc.org/webreports/reports/161/S161074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
