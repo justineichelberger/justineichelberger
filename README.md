@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rancho Palos Verdes (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>at 530 on sunday12-6-08 we saw a long black triangle float into the sky above the clouds about 50 thousand feet.It was 5:30 pm on december 6,2008 and my aunt my sister and I sat down in on our front yard.We were watching the clouds when we noticed an elongated black triangle.It floated in to the sky in a zig-zag formation.There was only one shape.I am a student. The shape had no contrails and didnt look like a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67352.html](http://www.nuforc.org/webreports/reports/067/S67352.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Noisy aircraft travelling slowly S. Low in the sky; lights on each corner of triangle. Near Kirkwood Hwy and Polly Drummond Hill Rd.Noisy aircraft travelling slowly S. Low in the sky.  Lights on each corner of triangle.  Seemed large but that is probably only because it was much lower in the sky than most aircraft around here.Spotted near Kirkwood Hwy and Polly Drummond Hill Rd in Newark, DE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95032.html](http://www.nuforc.org/webreports/reports/095/S95032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
