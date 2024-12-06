@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mt. Vernon (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white fireball, Washington State.Driving south on I-5, 4 miles south of Mt. Vernon, to the SE I witnessed a bright white fireball climb downward approx 70 degrees for about 5-7 seconds. Most likely it was a meteor or space junk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26456.html](http://www.nuforc.org/webreports/reports/026/S26456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Color-shifting bright light moving slowly across night sky.Racine, Wisconsin.  USA.  December 6, 2014, late evening (approx 9 to 11 pm)  View from ground to point of light located in southeast direction approx. 35 degree angle above horizon.  Observed for two hours, very clear night, point moving very slowly toward south, almost appeared stationary.  Used small telescope and binoculars.  Point of light changing colors like an LED through full spectrum.  Certainly no “UFO” behavior such as rapid acceleration or change in direction.  Just a very bright, color-shifting point of light.  Moved so slowly must have been very distant or perhaps something more nearby but very small and odd.  Hope to see a reasonable explanation in tomorrow’s newspaper – maybe Santa’s sleigh??((NUFORC Note:  Possible sighting of star, Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115854.html](http://www.nuforc.org/webreports/reports/115/S115854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
