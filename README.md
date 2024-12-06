@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Size of a XL drone with a light bar that strobes red/whiteI was laying down looking out my window and I noticed a red & white light in the sky.  My window faces a hospital and I see heli's fly in and out but this one was different.  It was heading in a direction towards my view.  I still thought it was a heli but as it got closer the lights were FORSURE not of a helicopter.  It was 1 bar of lights that had the bent shape of a gibbons moon. The lights were red and white.  They were NOT blinking but flashed like a strobe.I jerked myself up out of bed and ran to my window and noticed that whatever was in the sky was making NO SOUND. ***it's important to know that sound is actually perceived louder at night. I barely got a good look at it before it swept by out of my view.It was hard to make out the shape around these lights.  It's even harder to remember even though I am typing this only 20 minutes after seeing it.  My best guess after I first saw it was a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151320.html](http://www.nuforc.org/webreports/reports/151/S151320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Thorntown (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I don't know if I saw something or not!  It was coming in my direction in the sky.  It startled me when I saw it because is was  coming quick.  All I saw was a light.  Four points of light actually.  They shone out, like on the four corners of a square, and the "square" was lit up too.  Then the light veered to the left.  I was scared so I drove off, and I tried to keep an eye on the light, but when it went over my van, I couldn't see it anymore.  I didn't want to see it.  It was high.  Not low enough to see or hear anything.  I'm very afraid of alien abduction.  I don't know if I saw and actual ufo, but it scared me nontheless.  There were airplanes I saw later, but why wouldn't I have heard that if that is what I acutally saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15308.html](http://www.nuforc.org/webreports/reports/015/S15308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
