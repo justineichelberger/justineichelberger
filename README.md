@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:22 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:40 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bordentown (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Few thousand feet above roof..below Orion's belt. Flashing .. pulsing..zoomed in and rectangle shape...I have been trying Ce5 recently. Awesome</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161074.html](http://www.nuforc.org/webreports/reports/161/S161074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Warrington (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Possible triangle shaped object with 3 amber/purple colored lights surrounding a large pulsating white lightI was driving to my evening job when I noticed an extremely brite light pulsating and hover not far from County Line Rd and Limekiln Pike. As I got closer I noticed 3 lights surrounding the large pulsating light.  The 3 smaller lights if you were to connect them would create a triangle. I couldnt make out the color of the smaller lights they seemed to be a cross between amber and purple. The pulsating light in the center was white and very brite.  The Willow Grove Navy Base is not far from there at all, but this object made no reference to anything I have seen fly in or out of the base.  It moved very slow in a northern direction. I put my window down curiously to notice a noise from the object however I heard nothing.((NUFORC Note:  We spoke with this witness via telephone, and he seemed to us to be quite sober-minded, and quite credible as a witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53850.html](http://www.nuforc.org/webreports/reports/053/S53850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
