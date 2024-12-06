@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:18 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Abruptly maneuvering black object hovers over Ventura County, CA, displaces cloud formations 12/06/02Single dark/black object that changed shape from a disc to an ovoid as it moved.  Object moved south over Ventura County, California at 16:10 to 16:13 at approximately 10-15,000 altitude, then the object hovered in one area from 16:13 to 16:18.  During hover object made several unusually tight (seemingly) uncontrolled maneuvers, and this is when the object changed shape from a disc to an ovoid.  After maneuvering over Ventura County area, object abruptly changed course toward the north and continued north until it was out of sight (from 16:20 to 16:25).  As the object moved, it displaced cloud formations in a circular area surrounding it--the area directly around the object was clear even when flying through cloud formations.Observers: 1) Male 43 Professor at local college.  2) Female 50 Artist/Art instructor at local college.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26451.html](http://www.nuforc.org/webreports/reports/026/S26451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Centralia (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two red circles of light growing brighter ,then slowly dim ,go out and ,then reappear.My husband and I were driving home late heading west.  I was sitting in the passenger seat and he in the driver's.  As we were talking I began looking out the passenger window to the north.  A bright red object high in the sky caught my eye.  I continued to watch thinking it was a plane but then the light slowly started to go dim and then out.  By this time my husband wondered why I was ignoring him and stopped the car.  Then we were both looking out the passenger window when the light slowly reappeared and then one more a short distance from the first did the same.  We started driving again and then turned heading north.  The lights continued to get brighter then slowly dim and go out then reappear. We watched the two red lights until we pulled in our driveway and could not see due to the trees. Neither one of us were under the influence of alcohol or drugs.  We did not try to walk around and see them through the trees, we just decided to go in and tried not to think about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33646.html](http://www.nuforc.org/webreports/reports/033/S33646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
