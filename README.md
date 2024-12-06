@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:47 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw a flashing light move strait up,stop still in the sky & strait sideways & then lower down slowi was smoking a cigarette when i noticed what looked like a plane, it was bright green flashing red..  i did not think any thing of it till noticed it moving very fast strait upright and then it stopped still and stationary, i was shocked so i ran to get my phone from a room in the house and went right back outside..  after it sat still for a moment it moved quickly sideways,  i could not believe my eyes.  after stopping again and sitting still for a moment it started to move strait down and out of my view over the tree line,  i was frankly speechless..i cannot explain what i saw and i can think of nothing like a plane or anything else that exists that can do what i saw,  i am 36 years old and have never seen anything like it in my life..i was however able to get a poor photo and some poor video footage but it does not show much more than a flashing light moving in the sky..it was very dark and clear that night..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105134.html](http://www.nuforc.org/webreports/reports/105/S105134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Bluff (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two bright yellow balls over rt 41 danced, twisted, and took off in two opposite directions! Less than 1 Minute! Both GONE!Driving down Route 41 about to get off at the route 176 exit and Both the driver and I immediately were drawn to these two bright yellow balls of lights that hovered next to each other, twisted around each other and one took off South East and the other North West.  We lost sight of each of them as a tree blocked our view for not even 3 seconds and we could not find either object in the sky.  If these were planes they would have still been In our range.  They were two bright yellow balls that danced together and then took off so quickly.  They only danced for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105107.html](http://www.nuforc.org/webreports/reports/105/S105107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
