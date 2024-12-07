@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:15 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bonita Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>several orange colored lights in west sky of Bonita Springs, there 1 moment and gone the nextToday, 12-7-13 in Bonita Springs,FL at approximately 6:45pm I saw what looked to be like orange colored lights in the sky to the west.  I saw 10 to 15 lights that normally I would have taken them to be stars but given the color of the sky at the time, and the fact that they were an unusual color and standing out so much I don't think they could have been stars.  They were positioned much closer to the horizon and given the color of the sky behind them they couldn't have been stars.  I looked higher up and located a normal star and it was much whiter in color.  I drove my car up further on the road I was on, I looked for them again and they were all gone, I couldn't locate 1 of them.  If they were stars I would have been able to see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105148.html](http://www.nuforc.org/webreports/reports/105/S105148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Waupaca (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Five or six white lights arranged horizontal appeared and vanished.Driving southbound on a two-lane rural highway at dusk with my teenage son when we both noticed 5 or 6 white sparkling white lights in a horizontal line.  They faded out after a few seconds.  Unsure if they reappeared, as we were driving and could not stop to watch.  Did see them disappear before we passed under.  Not a cloud in the sky; the oddest thing we both have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137605.html](http://www.nuforc.org/webreports/reports/137/S137605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
