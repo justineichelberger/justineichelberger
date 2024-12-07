@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Stevens Point (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Orange lights over Plainfield, WI.As I walked to my car after leaving work, something caught my attention.  I was looking directly south up into the sky and noticed 4 balls of orange light, about the same color as a street light far into the distance and high in elevation.  The clouds around them could be seen from the light they cast, as it looked like they were sitting atop a bank of clouds looking over the surroundings.  Three of the lights were in vertical formation and the other was offset behind them to my left.  The offset one disappeared, followed by the three in formation simontaniously.  It was like once I noticed them, they disappeared.  They looked to be off in the distance of Plainfiel, WI, or even further south.  The only other outworldly thing I have seen was too in this direction of Plainfield.  The lights seemed to act in a similar way as the ones I saw over a year ago but this time is was at night and they were orange instead of bright white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137612.html](http://www.nuforc.org/webreports/reports/137/S137612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bonita Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>several orange colored lights in west sky of Bonita Springs, there 1 moment and gone the nextToday, 12-7-13 in Bonita Springs,FL at approximately 6:45pm I saw what looked to be like orange colored lights in the sky to the west.  I saw 10 to 15 lights that normally I would have taken them to be stars but given the color of the sky at the time, and the fact that they were an unusual color and standing out so much I don't think they could have been stars.  They were positioned much closer to the horizon and given the color of the sky behind them they couldn't have been stars.  I looked higher up and located a normal star and it was much whiter in color.  I drove my car up further on the road I was on, I looked for them again and they were all gone, I couldn't locate 1 of them.  If they were stars I would have been able to see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105148.html](http://www.nuforc.org/webreports/reports/105/S105148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
