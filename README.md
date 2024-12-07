@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Keen Mtn. (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright neon green, half-moon shaped object horizontally across sky seen by different family members at different times.Wed, I got out of my car and was walking throught the parking lot to the front door of our church when I detected movement out of the corner of my eye; looking up I saw what I thought was a half-moon shaped object moveing across the sky and disappearing over the mountains. The object was glowing neon green in color and did not appear to have any tail as a meteor would.  It had to be fairly large or close to the tree tops.  I could see the moon and the object at the same time.  It looked to be 1/3rd the size of the moon. This is an area with few lights (couple of street lights) and on a cloudy black evening. The weird thing is my son-in-law saw a bright glowing object that was half-moon shaped around the same area about a month earlier but I didn't believe him; I thought he was just exaggerating.  By my experience I had forgotten all about his and what his looked like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48208.html](http://www.nuforc.org/webreports/reports/048/S48208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Indigo/blue bright light hovering above mountain for 3 or 4 min. could not see source of light, too bright.Indigo/blue bright light hovering above mountain for about 4 min. could not see source of light, too bright about the size of a half of football field.  This was behind my house.I managed to take a pic when it was leaving and lights in neighborhood went out.I can only send via text email me and I will send text back with photo. (hands were shaking)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85792.html](http://www.nuforc.org/webreports/reports/085/S85792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
