@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Greenwood (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering aircraft with orange lightsWe got home from eating and my husband stated, “Oh, you just missed a meteor shower.”  He then told me to look at these two lights in the sky.  There were two bright orange lights that did not flash.  The aircraft seemed to be hovering.  The lights were south of our house and appeared to be facing north.  They didn’t move for quite awhile.  There was no sound.  The sky was very clear.  We could see stars in the sky and they were definitely not stars.  Then my husband says, “Wow, look at all the planes in the sky.”  At first I didn’t see them, but then I did... there was at least ten planes flying toward this hovering aircraft.  Slowly the aircraft turned to its right... so east.  At this point there was a third light we could see, probably the rear of the aircraft.  And it slowly continued east.  Then all of the planes in the sky began to follow it.  It seemed to basically disappear shortly after moving</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143995.html](http://www.nuforc.org/webreports/reports/143/S143995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Elizabeth (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Enormous disc moving westward near Elizabeth, COViewed 3 objects low in the southern sky moving slowly from east to northwest (the objects were perhaps 3 miles east of Elizabeth and approximately 5 to 25 miles from my vantage point). I initially thought they were merely aircraft since all objects were intermittently flashing white and red light (the dominant color throughout was red). However, the objects were silent, flew in a straight line equidistant apart, and maintained that formation throughout my observation to the south. As they proceeded into the western sky, the lights no longer flashed and instead glowed red. As the objects moved into the northwestern sky, I noted a curvature in the lights which more closely resembled an enormous disc. I went indoors to retrieve my wife, who also observed the object until it moved out of sight. We are both retired and scan/enjoy the sky daily from our patio observing all manner of aircraft. This was markedly different. My wife was a financial analyst and I am a retired 4th grade teacher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151383.html](http://www.nuforc.org/webreports/reports/151/S151383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
