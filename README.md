@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Indigo/blue bright light hovering above mountain for 3 or 4 min. could not see source of light, too bright.Indigo/blue bright light hovering above mountain for about 4 min. could not see source of light, too bright about the size of a half of football field.  This was behind my house.I managed to take a pic when it was leaving and lights in neighborhood went out.I can only send via text email me and I will send text back with photo. (hands were shaking)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85792.html](http://www.nuforc.org/webreports/reports/085/S85792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Anchorage/Girdwood (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Bright white light moving swiftly over Anchorage & Elmenforf AFB, followed by red flashing lights (helicopters?), also radio call in report of large UFO hovering over ocean near Girdwood.At exactly 1800 local (0400z) while warming up my car to go to work I was listening to the local AM talk show.  The topic was local politics, when a man called in & said "Hey, there's a UFO out here! It's hovering over the water, there's all these lights.." The show host cut him off saying "does it say 'friends of Art Bell on it?'"  The man says "Huh? I'm just past McQue Creek going to Girdwood, there's a UFO, I don't believe this..."  The host cut him off agian, making another crack about Art & disconnected him.  I left for work at this time, leaving Peters Creek heading southbound on Glenn Highway towards Anchorage.  As soon as I hit the highway my attention was drawn toward a very bright light, about the size of Venus (Venus was clearly visible to my left).  It was still for about 1 min then began to move slowly to the right (west).  At the same time I noticed 3 "red flashes" moving towards the UFO.  The red flashes were in a V shape the point closest to the UFO. The flashes came from the left (east), from Anchorage, while the UFO moved towards Elmendorf AFB.  The UFO accelerated swiftly, faster than the average aircraft, but not fast enough to leave tracers.  I easily left the flashes behind, then blinked out.  The flashes, now seemingly directly over the AFB, appeared to hover.  I got the impression the flashes were some kind of helicopters.  All this occured during a period of about 3 min.  I had been watching this while driving in the snow at 60 mph, almost going in the ditch several times.  After the UFO blinked out I intended to hurry to the next overpass & stop, to watch in safety.  Glancing to my left (east) to merge, I saw the/another UFO, very near to Venus.  Looking forward again I saw the red flashes heading towards it.  At this point I decided to just pull over, & noticed another car on the shoulder w/a man leaning out the open window watching the UFO.  By the time I had pulled over the UFO was gone, I didn't see what happened to it.  The man smiled at me & shrugged, & drove off.  I proce! eded to work.  I happen to work at Anchorage Int'l Airport, so I am familiar w/conventional a/c.  By the way, there is absolutely no way the Girdwood UFO could be seen in Anchorage, it is too far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05064.html](http://www.nuforc.org/webreports/reports/005/S05064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
