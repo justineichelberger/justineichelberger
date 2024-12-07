@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:20 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Slidell (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Here are longitude and latitude  30 18'15&quot; N 89 52'15&quot; w  30 17'39&quot; N 89 52'15&quot;W  30 17'38&quot;N 89 52'23&quot;WHere are longitude and latitude  30 18'15" N 89 52'15" w  30 17'39" N 89 52'15"W  30 17'38"N 89 52'23"W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161076.html](http://www.nuforc.org/webreports/reports/161/S161076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lacombe (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Light in Lacombe, Alberta.Low in the southern horizon, just about the roof line, I saw a light go across the sky and turn off.  The light had to have been going fast to make the distance in the very short time line.  It turned off as soon as I noticed it, but kept doing in a western direction.((NUFORC Note:  We spoke via telephone with the witness, principally to confirm the date of his sighting, and he seemed to us to be quite sincere, and sober-minded.  We suspect that he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137613.html](http://www.nuforc.org/webreports/reports/137/S137613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
