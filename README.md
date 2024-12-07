@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:29 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:27 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Elizabeth (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Enormous disc moving westward near Elizabeth, COViewed 3 objects low in the southern sky moving slowly from east to northwest (the objects were perhaps 3 miles east of Elizabeth and approximately 5 to 25 miles from my vantage point). I initially thought they were merely aircraft since all objects were intermittently flashing white and red light (the dominant color throughout was red). However, the objects were silent, flew in a straight line equidistant apart, and maintained that formation throughout my observation to the south. As they proceeded into the western sky, the lights no longer flashed and instead glowed red. As the objects moved into the northwestern sky, I noted a curvature in the lights which more closely resembled an enormous disc. I went indoors to retrieve my wife, who also observed the object until it moved out of sight. We are both retired and scan/enjoy the sky daily from our patio observing all manner of aircraft. This was markedly different. My wife was a financial analyst and I am a retired 4th grade teacher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151383.html](http://www.nuforc.org/webreports/reports/151/S151383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sarona (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Flashing colored object seen hovering,moving,and landingI saw a flashing light above the treeline outside my window at my apartment. It appeared to be too close to be a star but also not moving,so I decided to check on it once in a while. The next time I looked at it,about 10 minutes later,it had moved a considerable distance west towards Shell Lake. My boyfriend also saw it. He walked outside and told me to come look at it out there because it has gotten closer and lower in the sky. It was close enough for us to see the colors. My boyfriend estimated it to be between 1 and 2 miles away in the woods. They were flashing red,green,and blue. It was round or maybe oval. We both watched it very slowly make its way to the ground. It was in and out of view for us,as it was moving through trees. It moved so slowly that we went back inside our apartment. About 5 minutes later my boyfriend looked outside a different window and saw the light completely gone,followed by an explosion of light that illuminated all the trees ar! ound it. He said it was a big area of light.  The light explosion only lasted only a few seconds. We assumed it landed,and shut its lights off because we were unable to see it anymore. Later on we were driving to the gas station and saw it moving east towards Long Lake higher up in the sky. We have both seen this same flashing colors type of light multiple times,usually while driving. We have sighted it in Long Lake,Spooner,Shell Lake,and Rice Lake. It is usually hovering or moving slowly. It usually appears mostly blue in the sky. There has been no order to the days we have sseen it,just at random. They have all been in December of 2011.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85996.html](http://www.nuforc.org/webreports/reports/085/S85996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
