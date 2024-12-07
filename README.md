@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:15 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Waupaca (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Five or six white lights arranged horizontal appeared and vanished.Driving southbound on a two-lane rural highway at dusk with my teenage son when we both noticed 5 or 6 white sparkling white lights in a horizontal line.  They faded out after a few seconds.  Unsure if they reappeared, as we were driving and could not stop to watch.  Did see them disappear before we passed under.  Not a cloud in the sky; the oddest thing we both have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137605.html](http://www.nuforc.org/webreports/reports/137/S137605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in McDermott (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO's are very active in the Oregon, Nevada and Idaho area.I am the farmer from Idaho who wrote in to report UFO sightings in March 2004 and again in August 2004.  I spotted the same type of UFO's again on Dec 7th and 8th, 2005 while driving our semi-truck from Nevada northward into Idaho.  I watched them on two consecutive nights.  On Dec 7th around 8:00pm , I was northbound on Hwy 95 approx. 15 miles south of McDermott, Nevada and they appeared on the east side of the highway and I would guess them to be about 6 miles away and just above the hill tops. They appeared as a cluster of lights and each individual light appeared to be huge.  The lights were the only thing visible and seemed to be in staggered positions.  Their lights coming on and going off were synchronized and always moved from left to right.  When the first light came on it stayed lit until the second light came on and then the first one would slowly fade out and as the third light  lit up the second light would begin to fade away until it was completely off. This all happened within about 30 seconds.   On Dec 8th at about 9:00pm on a clear night with good visibility, I saw lights  on the south-east side of the road on Hwy 95 at mile marker 38.  This is between Jordan Valley and Rome, Oregon.  I watched 4 lights coming on and off in sequence from right to left moving upward at a 45 degree angle.  We always see the same type of UFO's in the Idaho, Oregon and Nevada area.  Always at night, always over the mountain tops and only being able to see lights going off and on.  August 2004 in Idaho and Dec 8th 2005 in Jordan Valley, Oregon area there has been a bright flash appear in the sky some distance away from the UFO activity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48305.html](http://www.nuforc.org/webreports/reports/048/S48305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
