@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:45 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in York (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large flying v- and t-shaped lights.Outside of my house at approx. 2100 hours, I noticed an object flying at what looked like 20000 feet.  I had no time to photograph.  I ran inside, and got on my computer to find no current flights within 100 miles of my location, and the I.S.S was off the west coast.  There where a total of 7 lights, one wide V shaped, and next to it, a large T shape.  Moving far too fast to be a plane, and too slow to be a satellite</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124566.html](http://www.nuforc.org/webreports/reports/124/S124566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alvarado (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went to my back yard to have a cigarette and in the sky I noticed an object that I assumed was an aircraft.  As I observed the object I noticed it was moving far too slowly to be an aircraft.  I don't think it was a helicopter because there was absolutely no noise coming from it.  It was (or appeared to be) circular in shape, it had two lights one blue and the other amber.  It also had a second set of lights that rotated around the craft, those lights were white, there were several of them and when turned on the previous one would turn off.  I could be mistaken but the combination of the second set of lights and the fact that this object was silent make me doubt it was a helicopter or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95048.html](http://www.nuforc.org/webreports/reports/095/S95048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
