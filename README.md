@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 6 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Angeles (5.5 miles East of) (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>VERY reliable second hand information as follows: On the night of Friday, Dec. 6, 2002 at 7:30 pm, a friend was driving home from work in Port Angeles heading east on highway 101W. She was about 5 miles east of Port Angeles very near Sutter Rd. when she saw a green light in the sky. It was on the south side of the highway as she was driving east. She said the light got closer very quickly and at first she thought it was a star or something, but the brilliant green color did not look right. She said the light moved closer quickly and it was approx. the size of about 1/2 the size of a house. It was green with a "frosted" look to it. It slowed down and slowly settled into the forest possible less than 1 mile off the highway. Other cars also saw the light as they slowed down to look too. There were at least 3 other cars; 2 ahead and 1 behind her. She also said as the light settled in the forest, it flared a bright green color which made the trees light-up then they suddenly went out.Note: another strange occurance that night as I heard this morning on KING TV: there was a reported 2.2 earthquake reported at 8:30 pm last night in almost if not exactly same location...strange to say the least?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26470.html](http://www.nuforc.org/webreports/reports/026/S26470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>LARGE Ship of some sortAs I went outside to go toss out the trash, I saw from my side peripheral vision flashes up in the night sky.  The flashing looked to me like the type you see right before a lightning strike.Thinking that it's odd since the skies looked clear, I immediately looked up & to my surprise, saw 3 large flashing spheres.For that split second I looked up & saw the flashing spheres, they stopped flashing at that point. However, after they stopped flashing,  I was able to make out a LARGE (COLOSSAL) dark rectangular object sailing by from which the spheres were flashing under it.For the MONSTROUS size it was, I heard no sound. Best way to describe what I saw in simple terms: A silent sailing TITANIC ship with 3 large round white spheres flashing from underneath.I was stunned and amazed at the same time.  I've seen in the past, on other nights, a strange red/orange shiny light strongly brighten & then drop some type of flares/orbs on 2 or 3 different occasions.  But this night, I saw something much more intense & phenomenal!!((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95157.html](http://www.nuforc.org/webreports/reports/095/S95157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
