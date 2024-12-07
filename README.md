@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:51 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:56 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Camano Island (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4 hrs. - 4 hrs. minutes.</sub><blockquote><sub>brilant star looking shapes in night skyMy dad and i where camping at Cameno Island State Park around 4:00 pacific time. I was making dinner when I noticed a star looking shape on the horizan, about SW towards Whibey Island. I had a pair of binculars and looked at the object. It began to flash mutiply color's; green, yellow, orange, red. It would dime off and on, reapear and disapear, at various times. I began to see 4 other star like balls moving in formation, hovering, disapearing. I got a good look at one of the ball's. It had a small ball rotating around the bigger ball, while flashing brinlant colors. We watch them and heard pecular sounds like huge jet engines going off. There was nothing around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26515.html](http://www.nuforc.org/webreports/reports/026/S26515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Garden Valley (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large craft turns into two crafts then appears a third craft.The sky was dark, clear and full of stars and satellites.  A large craft with bright white fast flashing lights, then blinking bright red, then green lights, making no noise was flying from the west to the north.  As the craft flashed the bright white lights another set of white flashing lights flashed quickly a short distance right behind the craft.  As if it was one giant craft or a second craft but only the lights could be seen not a craft itself; the lights behind the craft were not as bright or as many and did not flash in a normal pattern of flash.  As the craft or crafts got closer North the lights on the front craft stopped flashing and then the second craft’s lights lit up and flashed looking like the first craft did.  The first craft lights then reappeared and two sets of flashing lighted identical crafts could be distinguished.  At this point in the sky the crafts were spaced farther apart then when originally seen.  Then the first craft stayed on! a course to the North, went to a higher altitude in the sky, got a distance away, then seemed to stop in the sky looking like a blinking satellite in the sky.  The second craft turned more to the west at a sharp angle and a lower altitude.  At the same time a third craft appeared from the direction the second craft was going; seemingly from out of nowhere.  The third craft had the same white, red and green flashing lights; it crossed the flight line of the first two crafts and headed to the east, climbed to an even higher altitude in the sky than the first craft.  The third craft then makes a turn to the south and disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161089.html](http://www.nuforc.org/webreports/reports/161/S161089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
