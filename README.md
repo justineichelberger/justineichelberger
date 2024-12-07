@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alvarado (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went to my back yard to have a cigarette and in the sky I noticed an object that I assumed was an aircraft.  As I observed the object I noticed it was moving far too slowly to be an aircraft.  I don't think it was a helicopter because there was absolutely no noise coming from it.  It was (or appeared to be) circular in shape, it had two lights one blue and the other amber.  It also had a second set of lights that rotated around the craft, those lights were white, there were several of them and when turned on the previous one would turn off.  I could be mistaken but the combination of the second set of lights and the fact that this object was silent make me doubt it was a helicopter or airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95048.html](http://www.nuforc.org/webreports/reports/095/S95048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Witnessed 15-18 lights in a V formation move from northeast to southwest across the north side of Indianapolis.  Lights moved about 90 degrees across the sky in less then 30 second.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53864.html](http://www.nuforc.org/webreports/reports/053/S53864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
