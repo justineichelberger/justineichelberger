@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lacombe (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Light in Lacombe, Alberta.Low in the southern horizon, just about the roof line, I saw a light go across the sky and turn off.  The light had to have been going fast to make the distance in the very short time line.  It turned off as soon as I noticed it, but kept doing in a western direction.((NUFORC Note:  We spoke via telephone with the witness, principally to confirm the date of his sighting, and he seemed to us to be quite sincere, and sober-minded.  We suspect that he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137613.html](http://www.nuforc.org/webreports/reports/137/S137613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Keen Mtn. (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright neon green, half-moon shaped object horizontally across sky seen by different family members at different times.Wed, I got out of my car and was walking throught the parking lot to the front door of our church when I detected movement out of the corner of my eye; looking up I saw what I thought was a half-moon shaped object moveing across the sky and disappearing over the mountains. The object was glowing neon green in color and did not appear to have any tail as a meteor would.  It had to be fairly large or close to the tree tops.  I could see the moon and the object at the same time.  It looked to be 1/3rd the size of the moon. This is an area with few lights (couple of street lights) and on a cloudy black evening. The weird thing is my son-in-law saw a bright glowing object that was half-moon shaped around the same area about a month earlier but I didn't believe him; I thought he was just exaggerating.  By my experience I had forgotten all about his and what his looked like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48208.html](http://www.nuforc.org/webreports/reports/048/S48208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
