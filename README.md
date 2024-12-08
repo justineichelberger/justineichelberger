@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Holts Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Weeks later, its back again...2013 December 8  On 12-8-13, was two nights before I bought this iPad (to get online again after 6 years offline, I really felt it was necessary to file 3 years of ufo reports), I am coming home from looking at the iPad, about 7:30pm and coming up our driveway facing west, I noticed the same rounded white light off behind the trees I had seen 11-28-13, this time closer.  I estimate one mile away at most but, I think more like a half mile and a couple hundred feet altitude, doing it's dim-bright-dim-out-dim-bright routine again.  I know now, there are few houses back there, most are further north, south, or west of where this "light" hangs.  I watch for perhaps 5 minutes outside, come inside and continue to watch for another 10-15 minutes, watching off and on thereafter for sone time and finally give up, being starved, I go make dinner, thinking to myself, they're back...  I'm glad, they are becoming like old friends, and after 3 years seeing these things, or maybe the same one! , it was like they were there just saying "hey, we're here", like an old friend that drives past and toots their horn driving down your road, just to say hi.  See sighting Dec 24, 2013.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105904.html](http://www.nuforc.org/webreports/reports/105/S105904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 47</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161345.html](http://www.nuforc.org/webreports/reports/161/S161345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
