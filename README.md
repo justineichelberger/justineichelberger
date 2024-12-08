@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 7 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sarona (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Flashing colored object seen hovering,moving,and landingI saw a flashing light above the treeline outside my window at my apartment. It appeared to be too close to be a star but also not moving,so I decided to check on it once in a while. The next time I looked at it,about 10 minutes later,it had moved a considerable distance west towards Shell Lake. My boyfriend also saw it. He walked outside and told me to come look at it out there because it has gotten closer and lower in the sky. It was close enough for us to see the colors. My boyfriend estimated it to be between 1 and 2 miles away in the woods. They were flashing red,green,and blue. It was round or maybe oval. We both watched it very slowly make its way to the ground. It was in and out of view for us,as it was moving through trees. It moved so slowly that we went back inside our apartment. About 5 minutes later my boyfriend looked outside a different window and saw the light completely gone,followed by an explosion of light that illuminated all the trees ar! ound it. He said it was a big area of light.  The light explosion only lasted only a few seconds. We assumed it landed,and shut its lights off because we were unable to see it anymore. Later on we were driving to the gas station and saw it moving east towards Long Lake higher up in the sky. We have both seen this same flashing colors type of light multiple times,usually while driving. We have sighted it in Long Lake,Spooner,Shell Lake,and Rice Lake. It is usually hovering or moving slowly. It usually appears mostly blue in the sky. There has been no order to the days we have sseen it,just at random. They have all been in December of 2011.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85996.html](http://www.nuforc.org/webreports/reports/085/S85996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A bright, white light emerged from the horizon, moving upwards. It vanished completely into the air in about fifteen seconds. Mother and I both saw it, and both found it interesting. It could not have been a planet, seeing that the sky was overcast and it was still daylight. It was also not a plane or helicopter - there was no accompanied noise and the body of the aircraft could not be seen through the lights. ((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137621.html](http://www.nuforc.org/webreports/reports/137/S137621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
