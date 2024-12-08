@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular Pattern of lights over Lambeau Field 12/8/02Just after arriving for the Packers/Vikings game a group of us noticed 3 white lights in a triangular pattern come above us and directly over Lambeau Field heading East to West. At first we thought it might be a plane leaving Austin Strabel Airport (several had passed over already), but there was no noticeable sound coming from the object. Due to the wind patterns aircraft had been cleared to take off and approach the airport directly over Lambeau (This was broadcast during the game.) Since it was dark at the time we seen the object we can only give a description of the pattern not the overall size or distance.Due to it being a prime time broadcast football game(ESPN) a group of us think it might have been some sort of surveillance aircraft, however I have decided to report it just in case.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26555.html](http://www.nuforc.org/webreports/reports/026/S26555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Early Branch (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 aircrafts headlight on,headlights disappeared 3 sparking lights all 3 corners of triangle shaped object observed.  One observed and then another in same generaldiraction,came together then moved apart like an hourglass, crafts then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85762.html](http://www.nuforc.org/webreports/reports/085/S85762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
