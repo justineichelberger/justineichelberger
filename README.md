@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A bright, white light emerged from the horizon, moving upwards. It vanished completely into the air in about fifteen seconds. Mother and I both saw it, and both found it interesting. It could not have been a planet, seeing that the sky was overcast and it was still daylight. It was also not a plane or helicopter - there was no accompanied noise and the body of the aircraft could not be seen through the lights. ((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137621.html](http://www.nuforc.org/webreports/reports/137/S137621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carpinteria/Santa Barbara (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Highly luminos object seen in Santa Barbara area with very high acceleration capability.Highly luminous object seen moving in an E x NE - W x SW flight track, speed unknown, altitude FL600 minimum.  Object had a VERY long reddish-orange glowing contrail(re-entry trail?) that from ground level I would estimate was in the neighborhood of two(2) kilometers maximum length.  Object lost glowing trail after a short time but luminosity did not wane.  At first object was thought to be a meteor re-entry but upon continued observation a 'very' faint blinking light could be seen (navigation light?).Object continued course track for a short time and then quickly changed direction to a NW flight track.  Object emitted what I can only describe as a 'pearl colored, luminous, nebulous, atmospheric phenomenon' of a rough diamond shape with a small glowing white center(It reminded me of a mach shockwave that can be seen when supersonic jets approach the sound barrier).  Object then abruptly accelerated at a VERY high rate of speed on NW flight track over the Pacific Ocean.  I can only speculate the rate of acceleration, but would estimate in neighborhood of mach20+.  Atmospheric phenomenon was observed to linger and hold its shape for approximately 20 seconds before slowly dissipating.Event occurred in the following area:  34°30'15.38"N 119°29'52.86"W x 34°17'38.56"N 119°59'41.32"W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60250.html](http://www.nuforc.org/webreports/reports/060/S60250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
