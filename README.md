@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:15:32 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>At approximately 0615 hours on a Saturday morning while still during the hours of darkness, I observed a fast moving silver light going from west to east across the sky.  I saw it for the briefest of instances.  My initial impression was that it was a military aircraft.  I mentioned seeing it to a co-worker and he stated he saw something similar approximately 20-25 minutes earlier.I found the incident to be odd because of the timing of the event.  It was early on a Saturday morning. There is a local Air National Guard base nearby but it had no aircraft up and flying that morning.  It's possible that what I saw was an aircraft but, as I said earlier, why were they flying over an urban population center at that particular time on a weekend?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95091.html](http://www.nuforc.org/webreports/reports/095/S95091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Henderson (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 gold colored  connected lights very large moving East to West3 round gold color balls in a horizontal lign heading from East to West- appeared to be connected.  No sound, moving very fast.  as close as I can tell this object was larger than a normal aircraft.  Seen in a total night dark sky.  I have seen many meteors- this was not a meteor or an airplane/jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41041.html](http://www.nuforc.org/webreports/reports/041/S41041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
