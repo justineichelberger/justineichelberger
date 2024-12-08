@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Henderson (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 gold colored  connected lights very large moving East to West3 round gold color balls in a horizontal lign heading from East to West- appeared to be connected.  No sound, moving very fast.  as close as I can tell this object was larger than a normal aircraft.  Seen in a total night dark sky.  I have seen many meteors- this was not a meteor or an airplane/jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41041.html](http://www.nuforc.org/webreports/reports/041/S41041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Greenville (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Trianglular object, lights at each apex, larger diameter light in center, travelling south to north.Triangular object, altitude was about twice tree top level. A small bright white light at each apex, larger diameter bright white light in the center. Narrow green  illuminated lines to each apex from center. Size appeared to be  about the width of my hand, at extended arm's length, estimated distance 1/4 to 1/2 mile west of my location. Object was travelling south to north, totally silent. Witnessed by myself and one next door neighbor.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42065.html](http://www.nuforc.org/webreports/reports/042/S42065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
