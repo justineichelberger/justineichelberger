@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:27 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:32 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ponce (Puerto Rico) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Possible UFO caught on digital camera near Ponce, Puerto Rico.	I am reporting a possible UFO inadvertently caught on a digital camera during sunny conditions, near noon-time, facing southwest on December 8th, 2007. The photo was intended to be a shot of the surf and cliff of Isla Caja de Muertos (aka Coffin Island). The island is located about five miles southeast of Ponce, Puerto Rico. The lat/long of the island is: 17º 53.48 North, 066º 31.13 West.	When the photos were downloaded from the camera to the computer, an unidentified flying object was found in the upper right portion of this picture, adjacent to the left side of the tall hill, Cerro Morillo, which is 170 feet tall, according to NOAA nautical chart #25685. I have included a link to an online version of this chart:  http://www.oceangrafix.com/o.g/Charts/PR_VI/NOAA-Nautical-Chart-Punta-Petrona-to-lsla-Caja-de-Muertos.html 	The UFO appears to be at about a 40-45 degree angle when compared to the horizon. It's also a different color from the rocks and if you zoom in on it, it appears to be reflecting sunlight along the "top" edge. It is impossible for me to gauge the object's size, but Cerro Morillo is roughly 400 feet away from the camera. It appears that the obect may be beyond the hill and since no one saw it "in person" we don't know if it is ascending or descending. Another option is that the UFO is not descending or ascending but rather, banking in flight. As it appears in the picture the UFO seems to be at an angle. If you use the nautical chart as a reference and if you align a ruler from the flat "bottom" of the UFO to the water in the picture, the angle suggests it may be oriented toward the deeper water offshore.	At any rate, this object was not consciously observed by anyone present that day. Incidentally, it is only 32 miles, as the crow flies, from Coffin Island to Lares, Puerto Rico, a UFO sighting hotspot and location of a proposed UFO runway to be built by the locals!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60703.html](http://www.nuforc.org/webreports/reports/060/S60703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>At approximately 0615 hours on a Saturday morning while still during the hours of darkness, I observed a fast moving silver light going from west to east across the sky.  I saw it for the briefest of instances.  My initial impression was that it was a military aircraft.  I mentioned seeing it to a co-worker and he stated he saw something similar approximately 20-25 minutes earlier.I found the incident to be odd because of the timing of the event.  It was early on a Saturday morning. There is a local Air National Guard base nearby but it had no aircraft up and flying that morning.  It's possible that what I saw was an aircraft but, as I said earlier, why were they flying over an urban population center at that particular time on a weekend?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95091.html](http://www.nuforc.org/webreports/reports/095/S95091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
