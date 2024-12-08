@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A bright, white light emerged from the horizon, moving upwards. It vanished completely into the air in about fifteen seconds. Mother and I both saw it, and both found it interesting. It could not have been a planet, seeing that the sky was overcast and it was still daylight. It was also not a plane or helicopter - there was no accompanied noise and the body of the aircraft could not be seen through the lights. ((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137621.html](http://www.nuforc.org/webreports/reports/137/S137621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamstown (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large Ball of White Light Falling Slowly from SkyI was driving a friend of mine home after work. The sky was clear. It was about 1AM on the dot. As I was driving, I noticed in the top left corner of my windshield a bright ball of light coming almost straight down toward the ground. At first, I thought it was just a drop of water fallind down my windshield, and that a street light had refected on it, making it look luminous. But I was definitely not. It fell at a constant speed, very slowly. It moved in a straight path, and just slightly toward the left. We were driving, South/SouthWest-ish. It was A bright white ball of light, with no tail at all. I was only able to see it for about 3 seconds or so, from the time it came into my view from inside my car, until it was obscured by some high trees that were along side the road. It looked about the size of the fingernail on my pinky finger if I hold it as far away from me as possible. And my guess would be that it was only a 5 or 6 hundred yards away from us. I wasn't going to say anything about it to my friend, who was sitting in the passenger seat next to me. But I noticed that he was looking in the same direction, and that he had seen it, also. I asked him "Did you see that?" And he told me he did, and had no clue what it was. It moved way too slowly to be a shooting star, and was way too bright, and too large. And it was definitely falling down from the sky, rather than towards the horizon in front of me. I heard no strange sounds. (I put a checkmark in my report that the object landed, because it appeared to be nearing the ground until it went out of view, but it may not have actually landed)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33690.html](http://www.nuforc.org/webreports/reports/033/S33690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
