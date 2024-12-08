@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:41 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chehalis (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Hovering light moving in the distance randomly at high speeds, no abduction this time.Clear early morning (0530), noticed a bright light in a direction southwest of my location that appeared to be a star or planet.  Observed object for 20 minutes after noticing it was randomly moving up to 5 degrees on the horizon at a high rate of speed.  Object omitted green and orange lights at a distance of several miles. Went inside and informed 2nd witness who saw exactly what I saw.  After observing it for 40 minutes, went in and got the video camera.  When I came outside again the object was no longer there.  Did not reappear last night.  Freaked us out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48236.html](http://www.nuforc.org/webreports/reports/048/S48236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Talbott (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Noticed two objects standing in the sky and flashing red and green lights quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126885.html](http://www.nuforc.org/webreports/reports/126/S126885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
