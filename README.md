@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chilliwack (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>dark oval like object crossed in sky while driving on highway near chilliwack making stereo go warbly / off pitch like battery failingwas driving to chilliwack down highway 1.  suddenly the CD i was playing seemed to slow down as if battery was failing...but it didnt slow down it kinda got warbly...like when trying to start a car that won't start.... anyways, it is hard to describe but it was off pitch....   i also felt a kinda shock in my neck...not sure if related... i think my lights dimmed too...not 100% on that...i thought my battery was having problems anyways..which startled me because i was driving 100Km/hr.... then i saw a fast moving dark shape in the sky out front of my truck...it was flying at an angle ..only saw it for a moment because it crossed my path.... at first i thought it was a helicopter..but it was very low....very dark (no lights) and moved very silently except it seemed there was a bass like sound as it went in front/overtop of me.  then it was gone and the stereo was back to normal...i couldnt stop because i was on the highway...so thats all i  can say. dont even know if it was anything...but it was a little chilling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53890.html](http://www.nuforc.org/webreports/reports/053/S53890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lenzburg (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright light with a beam and craftbefor the light and craft was seen my dogs started barking in the direction of the craft.  There was a big bright blue light with a beam in the middel.  it lasted a short while.  i looked up and there was a cricle craft that the beam was going in to. then it disappered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73626.html](http://www.nuforc.org/webreports/reports/073/S73626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
