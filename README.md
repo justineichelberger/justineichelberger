@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paxico (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 red blinking lights in a horizontal line, evenly spaced, heading in a west/northwest direction, lasted 15-20 minutesThe sky was clear and it was about 35 degrees on Saturday, December 09, 2017.  It was about 19:30 when I saw a huge falling star (meteorite) that fell due west.  I was the only one who saw this.  We had just turned south out of my family’s driveway (a tractor pulling a trailer of 17 adults).It was around 20:30, there were 18 adults on a hayrack ride.  We were in a rural area, and I happened to see some flashing round red lights.  There were eight lights and they appeared to be “hooked” together by something because they were evenly spaced.  The lights would blink on and off at the same time.  They were traveling in a horizontal line and in a west/northwest direction.  All of us on the hayrack ride saw these lights.  We watched the lights for about 15-20 minutes before we could no longer see them.My nephew and his friends who were in a different town about 10 miles east of us, also saw these red flashing lights.  He described them exactly how we saw them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137944.html](http://www.nuforc.org/webreports/reports/137/S137944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dixon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object entering atmosphere, moving lights.I was looking out the commuter bus window (east bound) as it was approaching my exit.Traveling parallel to the bus on my left was what looked like a bright light with a tail, more like a comet. After a few seconds the objects tall start changing, getting shorter, like a rocket that is losing a stage. I thought maybe it was a meteor entering the atmosphere. The object now lost it's tail and now looked like a star, still traveling east at about the same speed.As the bus made it's exit off the freeway and veered right, I lost sight of it. The bus came to a stop sign, turned left toward town. I looked out the window and now saw a different object.In the same area in the sky but much closer was a oval group of lights on what must have been a flying object, moving to the left, then right, rather fast, then up and then back again. This didn't last long, the bus continued into town and turned toward my stop. The view was hidden now by buildings and trees. As I got off the bus, I looked for the object but it was gone.No one else seemed to notice anything but me. Sometimes I see lights or images in the bus window due to reflection but this was not the case. I'm not sure both objects were of the same source, but this happened within minutes of each other. Also, it was just about sunset and the sky was starting to get dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79196.html](http://www.nuforc.org/webreports/reports/079/S79196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
