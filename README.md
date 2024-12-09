@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Ringwood (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular aircraft sighted from Virginia to NY State in '78I remember the date because it was my birthday, but the year may be off by a year or two.  It can be checked because it was reported from Virginia to New York State in the newspapers and evening news on TV.  My mother, father, brother and I were watching the NY Rangers on TV when my brother noticed lights coming towards our house.  At first, we all thought they were just planes in formation.  But, Mom, my brother and I all ran outside to take a look. As we stood on our sidewalk, this UFO slowly, silently flew just above the trees.  It was going so slow for such a huge object that it was hard to believe it could stay in the air.  The three of us just stared up at this object as it ever so slowly flew right over us.  It really looked like it was just missing the treetops, it was so low.  It was black underneath, triangular in shape with, as I remember, 5 lights.  One in the front, and two on each side.  It also looked like there was some sort of round opening in the middle that was closed shut.  It couldn't have been more than 100 feet directly above us. That night, it was reported on the news.((NUFORC Note:  One of several reports from same witness.  We have spoken with the witness, and she sounded quite credible to us.  The witness is going to check newspapers, in order to determine the precise date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43502.html](http://www.nuforc.org/webreports/reports/043/S43502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Paxico (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>8 red blinking lights in a horizontal line, evenly spaced, heading in a west/northwest direction, lasted 15-20 minutesThe sky was clear and it was about 35 degrees on Saturday, December 09, 2017.  It was about 19:30 when I saw a huge falling star (meteorite) that fell due west.  I was the only one who saw this.  We had just turned south out of my family’s driveway (a tractor pulling a trailer of 17 adults).It was around 20:30, there were 18 adults on a hayrack ride.  We were in a rural area, and I happened to see some flashing round red lights.  There were eight lights and they appeared to be “hooked” together by something because they were evenly spaced.  The lights would blink on and off at the same time.  They were traveling in a horizontal line and in a west/northwest direction.  All of us on the hayrack ride saw these lights.  We watched the lights for about 15-20 minutes before we could no longer see them.My nephew and his friends who were in a different town about 10 miles east of us, also saw these red flashing lights.  He described them exactly how we saw them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137944.html](http://www.nuforc.org/webreports/reports/137/S137944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
