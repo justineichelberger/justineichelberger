@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:08:17 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange blurry fireball observed flying over Boston during the early evening. Flying South over Allston.My roommates and I (we are all engineering students), were on our deck, and I noticed an orange object coming in our direction.  The object was moving south-southeast and flew directly over us. No real definition of shape could be made out other than the fact that it was glowing and flickering. The shape seemed to be an oval or circular type shape.  Initially we suspected a possible plane on fire or something of that nature, but the plane was flying AWAY from the airport and not falling in altitude.  Constant speed was maintained. I'm not able to say exactly how fast it was moving, but it was fairly quick.  About 30 seconds after flying directly over us, the object steered in the south-southwestern direction and seemed to gain stay very horizontal.My most detailed memory of the event is when the object flew directly over us and it seemed to be on fire. It was fairly low altitude.  The object was also very blurry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85834.html](http://www.nuforc.org/webreports/reports/085/S85834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>String of 56 lights, flashing red and white, appearance similar to a plane, however there were 56 and they were all equidistant, and we’re flying a a constant speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137645.html](http://www.nuforc.org/webreports/reports/137/S137645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
