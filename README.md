@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lenzburg (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright light with a beam and craftbefor the light and craft was seen my dogs started barking in the direction of the craft.  There was a big bright blue light with a beam in the middel.  it lasted a short while.  i looked up and there was a cricle craft that the beam was going in to. then it disappered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73626.html](http://www.nuforc.org/webreports/reports/073/S73626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Camarillo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>strange light above air base in southern CaliforniaI do not have a camera and it could not drawn because it was just a bright light that I could see from a mile or three away. I thought it was an rocket from the air base but it sat there in the sky for almost 30 min. Then it began to sink into the horizon out of my point of view. It could be a star but this would have been the birghtest star I have ever seen. It looked like it was definitley inside our atmosphere. Simply because I could not see any stars around it. The only stars I could see were directly above me. The stars above me were very dim due to the marine cover that was setting in. We are due for rain tomarrow so the clouds are building off the coast. The light was west of me so it was in the direction of the fog on the horizon but I could see it like it was right in front of the marine cover. I could see lots of planes flying around in the sky mostly five at a time. I saw two jets one below the object and one above it fly past the object coming from the south. I could tell they were jets because of how fast they moved past the object from such a great distance. It looked like alot of activity in the sky all at once then when I couldn't see the object because it went below my point of view I saw less and less air traffic. I am used to seeing bright stars in the sky but this was not a bright star it was inside our atmosphere. I have a feeling that this is goig to be over looked and not reported or it will be described as a weather ballon!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33706.html](http://www.nuforc.org/webreports/reports/033/S33706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
