@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:57 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:30 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Myerstown (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Both stationary for about 40 minutes or soThey were both stationary one further away then the other, because one appeared larger in size. About after 40 or so minutes of me seeing this they started to split up one going in the opposite direction of thee other.It’s not the first time seeing this its happening steadily for a while now. I want to say its planes but I can’t what I witness every time is not a plane. These things appear to be spinning an are really shiny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165772.html](http://www.nuforc.org/webreports/reports/165/S165772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright object  that slowly disappearedWhile walking back to my car after my morning work-out happened to I look up between the trees and noticed a very bright object moving in a northwesterly direction.  I immediately moved to get an unobstructed view.  I continued to watch this object as it moved rather quickly and slowly disappear. The sighting lasted about 3 minutes.  I continued to watch for another minute or so and it did not reappear as satellites generally do.  It was a bright white; about as bright as Venus at its brightest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67389.html](http://www.nuforc.org/webreports/reports/067/S67389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
