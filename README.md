@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 13:20 - 13:20 minutes.</sub><blockquote><sub>the Object flashed me 2 timesI was taking lunch in my car and decided to take the back door to my building. I was walking and drinking my soda when I suddenly saw a oval object by the moon. It was probably the size of a small car. I really didnt pay much attention because we are near an airport. Till I stopped by our warehouse door. The Object flashed 2 times I ran to tell my co worker and when I came back the object was gone. The object was do south of the 405 fwy((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79191.html](http://www.nuforc.org/webreports/reports/079/S79191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Myerstown (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Both stationary for about 40 minutes or soThey were both stationary one further away then the other, because one appeared larger in size. About after 40 or so minutes of me seeing this they started to split up one going in the opposite direction of thee other.It’s not the first time seeing this its happening steadily for a while now. I want to say its planes but I can’t what I witness every time is not a plane. These things appear to be spinning an are really shiny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165772.html](http://www.nuforc.org/webreports/reports/165/S165772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
