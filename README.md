@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 8 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cylinder shaped object was illuminated inside, contained figures within and left at the speed of light.My Wife and I were traveling between Las Vegas and Beatty Nevada.  As we were traveling north on route 95, we were driving about 60 mph and I observed a stationary light on the west side of the highway, about the height of one of the large powerline towers.   I thought to myself a powerline must cross the road there, and it was lighted for aircraft.  We were talking and driving, and as I approached where the light was (I could not see it without leaning foward and looking up) I noticed there was not a electical powerline tower there.  It was odd, and I leaned foward and looked up (as did my wife). We both observed a cylinder shaped object, about as long as a city bus suspended in air.  There was a window across the cylinder, and the window appeared to be at a 45 degree angle downward facing towards us.  There appeared to be a panel of somekind the entire length of the window.  There were figures seated at the panel across the length of the object, and what app! eared to be several figures standing behind them.  My wife and I both got the feeling the figures inside the objects were looking at us.  The interior of the object was illumintated, and we could see clearly inside.  As we passed, we were both surprised because the object appeared to be suspended in air.  I asked her if she wanted to turn around and go back, and she said yes.  I found a place to complete a U turn, and as we approached the object from the north a hundred yards away, it "streaked off" in a southeastern diretion towards Las Vegas, on an horizontal plane.  It rose abrubtly over a mountain, and then downward over the top...and disappeared.  From the time it started south, to when it disappeared was within a couple of seconds.  There was no noise as we passed by it, or as it left the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74496.html](http://www.nuforc.org/webreports/reports/074/S74496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 13:20 - 13:20 minutes.</sub><blockquote><sub>the Object flashed me 2 timesI was taking lunch in my car and decided to take the back door to my building. I was walking and drinking my soda when I suddenly saw a oval object by the moon. It was probably the size of a small car. I really didnt pay much attention because we are near an airport. Till I stopped by our warehouse door. The Object flashed 2 times I ran to tell my co worker and when I came back the object was gone. The object was do south of the 405 fwy((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79191.html](http://www.nuforc.org/webreports/reports/079/S79191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
