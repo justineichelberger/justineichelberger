@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Iberia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very long line of white and red flashing red lights seen above Central Missouri.There was a very long line of flashing white and red lights that was seen across Central Missouri tonight by a number of people in several different towns.  It was seen North of St. Elizabeth, and they traveled SW and was seen in Iberia and the Lake Ozark area, a short time later.  Very very high in the sky.  Red and white flashing lights.  There was no sound at all.  They were not in any formation just a very long staggered line trailing one right after another.  You would think if it was some sort of jet there would be some sort of sound by how many there were.  It was completely silent.  They're are several videos that people are posting on social media of them.  I was able to get a video of them at the time.  Was very interesting to see.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137646.html](http://www.nuforc.org/webreports/reports/137/S137646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reading (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 low orange lights moving in a lineReading University Student, witnessed 4 low moving orange lights in the sky, slowly moving south-east in a line formation.  Lights were a fair distance apart, keeping constant speed.  No noise, despite the speed.  As they went over houses they were obscured from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79189.html](http://www.nuforc.org/webreports/reports/079/S79189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
