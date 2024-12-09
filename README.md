@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:15:19 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 9 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large red pulsing light over Sarasota, Florida. December 9, 2011.I was sitting on my sofa watching TV, I noticed a very bright red light in the sky.  Bright enough that it distracted me from the movie.  There is a tree line across the street and the light seemed to come up from behind them.  The light was gaining altitude very slowly and the red light was pulsing.  I did not hear any noise or sounds.  There is a helicopter pad about 1-2 miles from my house.  I am very familiar with the sounds and lights as they often do night flights.  This red pulsing light immediately got my attention because it was much brighter than any of the lights I have seen from the helicopters over the past 10 years and because I have only seen much smaller white lights on the helicopters.The red pulsing light was much brighter and much larger even though it was not directly above my house.  When I saw it it seemed to move towards my house and then changed directions and moved in a north western direction. It moved quickly away and the light dimmed and went out.  I resumed watching TV and about 2 minutes later saw it again and in the same exact pattern, first moving up or gaining altitude as it moved towards my house and then away.  My son and I went outside and heard no noise at all. It was 11:30 pm and very quiet outside.When the light just went out suddenly we waited a few seconds and then returned inside.I was so surprised when only a few minutes later the entire event was repeated.This time we quickly went out and my son recorded the light with his iphone.After watching the recording we realized there were two lights in the video.We did not see any shape other then the round red light. It is very dark behind our house at night and the light was not directly over my house.There did seem to be a halo when the light was at its brightest or closest. It was pulsing and all three times it dimmed and went completely out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85791.html](http://www.nuforc.org/webreports/reports/085/S85791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rockport (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>RC UAV taken by UFOWhile flying my radio control multicopter at altitude and flying via onboard video with telemetry my aircraft was taken out of the air as I watched.  I saw the flat disk craft approach and take my craft which was never seen again.  Daylight event above clouds.  Full size aircraft pilot as well as model and never saw anything ever like this.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95907.html](http://www.nuforc.org/webreports/reports/095/S95907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
