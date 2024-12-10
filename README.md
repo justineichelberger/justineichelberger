@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange glowing object seen in the sky, moving east to west.first seen object coming from the west. it had a strange glow to it. It was moving slow at first, then speeded up.  Then it hovered for a moment.  Then it took off at a very high rate of speed and was gone in an instant, like a blink of an eye…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116035.html](http://www.nuforc.org/webreports/reports/116/S116035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Weyerhaeuser (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>one UFO meets 2 othersIt was early Dec and I was coming home from down hill skiing at Christi Mountain north of Weyerhaeuser, WI.  I had just come over Fire Tower Hill when off to my right (to the West) I saw a light.  As I continue to drive south, the object continue to keep the same distance and pace.  After a mile or so I came to the top of a hill and stop and got out of my car.  The object just hung in the sky.  It made a sound which I could not I.D.  It was not a helicopter or plane.  I watched it for a few minutes with nothing happening.  I than began to drive a few minutes late the object flew to the south of my position and met up with 2 other objects in the sky.  The other 2 objects came from southeast and southwest  They hung in the sky for just a few seconds, then they flew straight up and away.  A few day after my sighting a large Army plane was flying over the area pulling a drone shaped from it's bottom.  It made several passes over the entire area of the Blue Hills.  We were told it was looking for minerals in the soil.  During the early 80's and late 70's the military install an ELF (Extermily Low Freq) site in north eastern Wisconsin.  It was used to communicate with subs in the oceans around the world.  It seemed that the siteing increased with this ELF site.  Maybe/maybe not.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33303.html](http://www.nuforc.org/webreports/reports/033/S33303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
