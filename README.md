@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Monroe (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Mother ship and small craft  above Atlanta GaBright object in sky,at first looked like a comet.  Watching close with binoculars could see it was not a comet but nothing I have ever seen before.This object was white in color and looked like a cigar.was moving slowly across sky towards the north but was moving up and down and side to side all this time.  Another small object could be seen as well with a white light that would flash ever now and then.The weather was mild with clear skies, and Monroe GA is about 30 miles north east of Atlanta Ga.We have all seen the planes coming and going from the Atl airport and these were no planes or helicopters.I'm a 46 year old over the road truck driver and have drove at night for years and never seen nothing close too this.Other witnesses include my wife, 45; son, 23; and his wife, 23.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60268.html](http://www.nuforc.org/webreports/reports/060/S60268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange glowing object seen in the sky, moving east to west.first seen object coming from the west. it had a strange glow to it. It was moving slow at first, then speeded up.  Then it hovered for a moment.  Then it took off at a very high rate of speed and was gone in an instant, like a blink of an eye…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116035.html](http://www.nuforc.org/webreports/reports/116/S116035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
