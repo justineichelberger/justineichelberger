@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jolliet (IL) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Man was driving north on a highway near Jolliet, IL, when he saw a very bright red light streak from west to east in front of his car.  He provided no other details and was invited to call back at a later hour, which he did not do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01065.html](http://www.nuforc.org/webreports/reports/001/S01065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Zimmerman (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The lights were going around something it was dark out so I couldn't see alot it hovered above the tree line from a distance.Hovering red and blue lights back and forth then stayed in one spot then was gone.The lights were going around something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60262.html](http://www.nuforc.org/webreports/reports/060/S60262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
