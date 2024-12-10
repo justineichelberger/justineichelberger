@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:10 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>spuratic orange ballMy friends and I were working late and one of the guys went outside to pee and saw a orange ball of light spuraticly moving in different directions.  He yelled loudly my name to come look at it and right when he raised his voice the object in the north sky instantly stopped moving   as I ran out side to look he said there's our UFO we had seen a week prior as it slowly hovered from north to south and as he shined his flash light  It sped away to the south and disappeared .  On this occasion we after he seen it it just stayed in place and almost acted like I was trying to be a star but moved ever so little up and down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95112.html](http://www.nuforc.org/webreports/reports/095/S95112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in National City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I had a sighting on 12-10-14 in National City, California.  It was a perfect triangle covered with lights across the whole bottom.  It was hovering and so close to the ground that I felt as though I could shake hands with the pilot.  It took off north at amazing speed.  Later I realized it reminded me of the scene in close encounters of the third kind, where the ship was directly overhead, expect for the shape and the many lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116081.html](http://www.nuforc.org/webreports/reports/116/S116081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
