@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Weyerhaeuser (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>one UFO meets 2 othersIt was early Dec and I was coming home from down hill skiing at Christi Mountain north of Weyerhaeuser, WI.  I had just come over Fire Tower Hill when off to my right (to the West) I saw a light.  As I continue to drive south, the object continue to keep the same distance and pace.  After a mile or so I came to the top of a hill and stop and got out of my car.  The object just hung in the sky.  It made a sound which I could not I.D.  It was not a helicopter or plane.  I watched it for a few minutes with nothing happening.  I than began to drive a few minutes late the object flew to the south of my position and met up with 2 other objects in the sky.  The other 2 objects came from southeast and southwest  They hung in the sky for just a few seconds, then they flew straight up and away.  A few day after my sighting a large Army plane was flying over the area pulling a drone shaped from it's bottom.  It made several passes over the entire area of the Blue Hills.  We were told it was looking for minerals in the soil.  During the early 80's and late 70's the military install an ELF (Extermily Low Freq) site in north eastern Wisconsin.  It was used to communicate with subs in the oceans around the world.  It seemed that the siteing increased with this ELF site.  Maybe/maybe not.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33303.html](http://www.nuforc.org/webreports/reports/033/S33303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eagle Rock (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO over Eagle Rock CaNoticed a bright orange light hovering at low altitude...had blinking lights, but not like ordinary planes have.2 mins later it dimmed and disappeared. 2 mins later reappeared, and did exact thing as the one before, followed same route. 2 mins later reappeared same location, hovered then starting moving at slow rate before disappearing from view...altogether took 10 mins. Video recorded all three sightings through iPhone camera...I later edited the video images and was shocked on what I've captured...definitely nothing that's earth origin... Wil attach pics as well....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95159.html](http://www.nuforc.org/webreports/reports/095/S95159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
