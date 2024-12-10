@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:00 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chandigarh (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 120-150 s - 120-150 s minutes.</sub><blockquote><sub>Two box-like rotating objects nearly miss an airplane in the skyI was sitting in my room of the apartment-type building, in which I live, when one of my neighbour shouted my name to come outside.  I went out, with another of my neighbour, to her place and we found her in a shocked position.  She asked us to see up and we saw 2 oddly shaped things flying in the sky.  They looked like a box but their shape did not match that of a typical box i.e. cube or cuboid.  Another thing we noticed was a circular disc of white colour vertically around that orange coloured box.  Any seperate features like doors or windows were not visible.  Both these box-like planes moved, infact rotated on its circular ring (like a ball), at a constant speed of about 300kmph.  We could guess their speed because of an aeroplane which was about to land at the Chandigarh airport, and these things passed from right in front of that plane.  Distance between them and the airplane at the nearest point would definitely had been less than a thousand feet.  They were at equal height with that plane and produced no noise at all.  Their size was more or less equal to that plane (height more than the plane but lesser in length).  Their flying path was north-south while airplane's path was east-west.  It was a clear saturday evening with the sunset still an hour and a half away.  There were no fog or clouds in the atmosphere.  Our apartment is situated immediately next to the Chandigarh airport and I have been living here since june, 2009.  I couldn't take any photograph as the only camera we have is in the mobile of my son and he had gone to a relative's place with my parents just few minutes earlier.((NUFORC Note:  Witness does not indicate time or date.  We have sent a message, requesting that information, cut have not received a response, yet.  We have assigned an arbitrary time and date for the alleged sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85809.html](http://www.nuforc.org/webreports/reports/085/S85809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red light with yellow edges pulsating and stationary to the south of Anchorage just below overcast cloud cover which provided me with an excellent view.  Viewed for 2 to 3 minutes as it hung stationary.  Winds with brisk gusts out of the East Chugach mountains at times this light object was not affected at all!  It was about the size of a football field compared to jet aircraft that fly over this area all the time from Anchorage International on a west to east take off, usually 747's.  What was very unusual at the time when I viewed this light object there was no aircraft in this air space what so ever for the duration and for a good hour and a half after this event which is a very rare occurrence!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105233.html](http://www.nuforc.org/webreports/reports/105/S105233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
