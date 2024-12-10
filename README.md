@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:23 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:19 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Baton (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>slow-moving comet like tail with single strobe over western north carolinaI walked outside around 1920 eastern time, looked up, and my eye was caught by what looked like a bright comet with a very well-defined conical tail (it looked like the pictures i've seen of comet Kohoutek).   It was similar in size to a full moon.  I went in and got my binoculars (12 power) and resumed watching.  With binoculars, I was able to see that the object was moving slowly, referencing the stars nearby.  Over the course of 20 or 25 minutes, the object moved in an ENE direction from near the constellation Pegasus until it became too faint to see in the middle of the constellation Cassiopeia.  Several times during viewing, I observed a single bright flash like an aircraft strobe, and twice I saw objects not unlike satellites in brightness and speed pass moving west to within a degree (a full moon being around 1/2 a degree) of the object.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60267.html](http://www.nuforc.org/webreports/reports/060/S60267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa/Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple orange spheres over Mesa/ Chandler, AZ.After coming home from the store, I noticed a orange sphere on the southwest of my location, I pulled over on the side of the road and parked my car facing west.  Soon after I parked I saw another sphere appear next to the first one I initially saw, I tried recording but my phone kept going out of focus.Around 9:30 I saw a single sphere appear far to the right of the two that i was triying to record,a few seconds later two appeared further right, two more appeared to the left of them and then two more!  All three of the set of two appear to be equally spaced and parralel from each other.I got some blurry video and a picture where all nine can be seen at a distance, unfortunatelly that is all I got, I wish I had a better camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115957.html](http://www.nuforc.org/webreports/reports/115/S115957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
