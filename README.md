@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Utah (above; in flight) (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dark metallic almond shaped aircraft changed shapeMy husband and I were aboard a commercial aircraft flying from Denver to Las Vegas. About an hour into the flight, we noticed a dark contrail in the distance.  As we were watching it, the dark linear shape stopped and changed shape into a vertical almond shape.  At this point we both noted it had a metallic appearance with a light grey line through the center of the object.  After about 15 seconds the object returned to a horizontal position and moved slowly in a northeast direction.  We were able to see it move slowly away over the next few minutes.  We asked the pilot and copilot if they saw anything as we were exiting the plane and they both said no.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137817.html](http://www.nuforc.org/webreports/reports/137/S137817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw a totally dark, silent triangular (boomerang) shaped object flying over a casino in Las Vegas.My friend and I came out of the Sun Coast Casino about 7:30 pm and were walking across the parking lot when we noticed a totally dark, triangular, (boomerang) shaped object, headed southwest. It seemed to just glide, flying silently through the air. There was a full moon, but it was the bright lights of the casino that made it visable.  We could see evenly spaced dark circles on it's "wings".  We lost sight of the object after only 5-7 seconds because of the lights in the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15412.html](http://www.nuforc.org/webreports/reports/015/S15412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
