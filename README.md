@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:14:57 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:23 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green circle/orb in sky while going East on hwy 12/18.Saw a green circle/orb that suddenly appeared in the sky while I was going East on hwy 12/18.  It stayed in place for about a second, shot into the sky at incredible speed and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124622.html](http://www.nuforc.org/webreports/reports/124/S124622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Baton (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>slow-moving comet like tail with single strobe over western north carolinaI walked outside around 1920 eastern time, looked up, and my eye was caught by what looked like a bright comet with a very well-defined conical tail (it looked like the pictures i've seen of comet Kohoutek).   It was similar in size to a full moon.  I went in and got my binoculars (12 power) and resumed watching.  With binoculars, I was able to see that the object was moving slowly, referencing the stars nearby.  Over the course of 20 or 25 minutes, the object moved in an ENE direction from near the constellation Pegasus until it became too faint to see in the middle of the constellation Cassiopeia.  Several times during viewing, I observed a single bright flash like an aircraft strobe, and twice I saw objects not unlike satellites in brightness and speed pass moving west to within a degree (a full moon being around 1/2 a degree) of the object.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60267.html](http://www.nuforc.org/webreports/reports/060/S60267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
