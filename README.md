@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We saw a totally dark, silent triangular (boomerang) shaped object flying over a casino in Las Vegas.My friend and I came out of the Sun Coast Casino about 7:30 pm and were walking across the parking lot when we noticed a totally dark, triangular, (boomerang) shaped object, headed southwest. It seemed to just glide, flying silently through the air. There was a full moon, but it was the bright lights of the casino that made it visable.  We could see evenly spaced dark circles on it's "wings".  We lost sight of the object after only 5-7 seconds because of the lights in the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15412.html](http://www.nuforc.org/webreports/reports/015/S15412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknown object seen, reappeared three times, within 10 Mins.At 1830, myself and wife were waiting at the bus stop when I noticed a very bright light, orange and reddish In color. Appeared to be hovering...it was a clear night, and very noticeable. Altitude was between 3,000 to 5,000 ft.  Not sure of shape of the object. After 1 minute of being visible, object began moving very slowly, and began to dim til it was invisible.. About 2 minutes later, object had reappeared at same starting location...a small plane appeared to have flown very close to the object.. Stood visible for another minute or two before began moving same way it did and began dimming til it disappeared once again.  Thinking it was over, we looked up towards the sky and the object had reappeared for a third time! Did the same thing, hovered for a minute or so before fading out.. Three sightings in the 10 minute span..same color of object, same starting point, moved and disappeared In the same direction..object seemed to be solid, but appeared to have bl! inking light or lights, not in the usual pattern or brightness in planes or helicopters. Object made no sound, did not leave any trail nor mark in the sorrounding sky.. I took 3 separate videos of the object on my IPhone video camera, one for every sighting...will forward if requested..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95149.html](http://www.nuforc.org/webreports/reports/095/S95149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
