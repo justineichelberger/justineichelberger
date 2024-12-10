@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Noticed a hovering light in the sky for 50 minutes and was slowly moving to the south.I noticed a dot of light in the east from my front room window that I observed for about 50 minutes.  It was odd in that the light was there for such a long time.  I could not determine the distance the dot of light was from me, but when I first noticed it is was about 30 deg. above the horizon and 20 degrees south of east.  Over the 50 minutes I watched it it slowly moved to the south until it was about 50 degrees south of east.  I tried to get a short movie of it, but as I looked at what I captured today, I don't see any image from my camera.  Other info is:  I believe it was a long ways off, maybe a mile.It twinkled.  It looked like white, then green, then blueish light and repeating those colors.I first noticed this at 9:30 PM and watched it until 10:20 PM when I went to bed.There was a small aircraft that was going approx. due south that was east of me by a half mile and they might have seen what I saw if they looked to their left.  That aircraft flew by around 9:50, but I did not note the exact time.  The airport near here may know about that small plane.If I were to guess what it was I would say it was a helicopter hoovering high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85824.html](http://www.nuforc.org/webreports/reports/085/S85824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Monroe (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>Mother ship and small craft  above Atlanta GaBright object in sky,at first looked like a comet.  Watching close with binoculars could see it was not a comet but nothing I have ever seen before.This object was white in color and looked like a cigar.was moving slowly across sky towards the north but was moving up and down and side to side all this time.  Another small object could be seen as well with a white light that would flash ever now and then.The weather was mild with clear skies, and Monroe GA is about 30 miles north east of Atlanta Ga.We have all seen the planes coming and going from the Atl airport and these were no planes or helicopters.I'm a 46 year old over the road truck driver and have drove at night for years and never seen nothing close too this.Other witnesses include my wife, 45; son, 23; and his wife, 23.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60268.html](http://www.nuforc.org/webreports/reports/060/S60268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
