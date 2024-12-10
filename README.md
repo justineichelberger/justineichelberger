@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Williston (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>possible explosion above the earth's atmosphereSome sort of explosion above earth's atmosphere.  I was getting into my truck at seven pm when I sighted a brillantly glowing cloud.  The glow appearred almost directly overhead but somewhat to the north and west, from my location in Williston, Florida. I quickly called my wife who is currently in Canada, and she went outside and saw the same glowing cloud.  I was able to view the object through night vision monocular and it appeared very much like a comet with a nucleus and tail aligned toward the northwest; initially the tail was nebulous, but also contained a split so that it appeared as a V.  But this appeared to be drifting toward the east very slowly, but too fast to be a comet.  As I was observing the cloud I saw five distinct small flashes of light toward the nucleus area;  gradually the object faded in luminosity and disappeared.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60266.html](http://www.nuforc.org/webreports/reports/060/S60266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jolliet (IL) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Man was driving north on a highway near Jolliet, IL, when he saw a very bright red light streak from west to east in front of his car.  He provided no other details and was invited to call back at a later hour, which he did not do.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01065.html](http://www.nuforc.org/webreports/reports/001/S01065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
