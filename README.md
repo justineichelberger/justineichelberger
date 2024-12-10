@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:00 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:16 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red light with yellow edges pulsating and stationary to the south of Anchorage just below overcast cloud cover which provided me with an excellent view.  Viewed for 2 to 3 minutes as it hung stationary.  Winds with brisk gusts out of the East Chugach mountains at times this light object was not affected at all!  It was about the size of a football field compared to jet aircraft that fly over this area all the time from Anchorage International on a west to east take off, usually 747's.  What was very unusual at the time when I viewed this light object there was no aircraft in this air space what so ever for the duration and for a good hour and a half after this event which is a very rare occurrence!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105233.html](http://www.nuforc.org/webreports/reports/105/S105233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Man, neighbor, 6 kids witnessed first three bright objs. in twilight sky, then two others streaked up to 1st 3.  Not stars or planets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01056.html](http://www.nuforc.org/webreports/reports/001/S01056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
