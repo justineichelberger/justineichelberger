@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 10 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eagle Rock (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO over Eagle Rock CaNoticed a bright orange light hovering at low altitude...had blinking lights, but not like ordinary planes have.2 mins later it dimmed and disappeared. 2 mins later reappeared, and did exact thing as the one before, followed same route. 2 mins later reappeared same location, hovered then starting moving at slow rate before disappearing from view...altogether took 10 mins. Video recorded all three sightings through iPhone camera...I later edited the video images and was shocked on what I've captured...definitely nothing that's earth origin... Wil attach pics as well....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95159.html](http://www.nuforc.org/webreports/reports/095/S95159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Glow in north west  Harrisburg, Pa, SkyTwo of us witnessed a bright orange glow in the north west sky at about 8:40pm.  It was intensely bright and then slowly dimmed until the regular night sky was visible.  The sky was cloudy and foggy so we did not have a clear view of the object causing this.This bright glow was stationary and did NOT move in any direction, nor did it fall to the ground. It lit up the sky like daylight for about one minute then slowly faded!  Did anyone else see this?  What was it, a meteor, a planet burning up?  What is the logical explanation?   It couldn't be the space shuttle, that landed two days before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67591.html](http://www.nuforc.org/webreports/reports/067/S67591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
