@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hazard (KY) reported seeing craft that fit the description of some '' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>IMPACT AND EXPLOSION  IN EASTERN KY WITH CRASH SITE UNEXPLAINED BY AND AUTHORITIES FOR DAYSA THING was seen crashing into a hillside by man witnesses in perry county ky.....it made the local news and at first was almost written off as a mine explosion until no evidence of such at the crash site could be found .also no debri of a crashed plane which was the next conclusion....... this needs to be put out there because it is a small county in ky where such things become local legend but nothing more.  So far NO OFFICIAL conclusion as been given for the explosion or the people who saw something fall from the sky .  I'm not a normal contributor and i know my spelling is screwed but this needs to be investigated. SOMETHING BIG HAS HAPPENED and many people here are afraid it will be swept under the rug......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85840.html](http://www.nuforc.org/webreports/reports/085/S85840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright blue, white egg shaped light flying very fast and low from right to left of my sight for 2 seconds in Sutton coldfied England.I saw a bright blue white egg shaped object flying above houses, with no sound, no trail, traveling at speed faster than a helcopter, slower than a shooting star. The last time I saw something flying almost as fast was a Harrier Jet (their base was not far away from my brothers house and it was nothing out of the ordinary for him) flying at night above a small village. The sighting of whatever I saw happened when I was coming home from dancing lessons I had just turned off the Birmingham Road and was traveling at about twenty miles per hour up a very steep hill( Do not know the name of the road but can find out) the weather conditions were cold with a completly clear sky with no moon. I do not know the direction it was going but it appeared in my sight line at about 1 o'clock and disappeared at about 10 o'clock, or right to left. (it is hard to tell the hieght but it was low). The size was about three times biger than the stars in the plow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53928.html](http://www.nuforc.org/webreports/reports/053/S53928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
