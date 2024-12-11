@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sevierville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three Co-Workers traveling 40w going through Sevierville, TN.  Driver noticed a circular shaped, shiny object in the sky and asked the another passenger and I if we see the object. We looked and we did in fact see a shiny object in the shape of a circle.  The driver and I (sitting in the middle) noticed the circle change from a circle to a cigar shape.The third passenger did not as he looked down at his phone.  I then looked down at my phone and the other passenger along with the driver watched as the object that was then a cigar shape, disappear.  The sky's we're blue and clear.  The wierd thing is this object had no trail of any kind around it, giving at least a direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137703.html](http://www.nuforc.org/webreports/reports/137/S137703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Dual orange orbs in Eugene, Oregon 12/11/2014My wife and I were outside smoking, when we say two orange round orbs in the sky.  The color almost looked like the distant glow from a fire but was floating in the sky.  They flickered with intensity and flew in unison with one another.  They appeared to be very low and slow moving.  They were traveling north then turned northwest.  One orb started to go dim almost to the point where it looked like a star then disappeared then the other orb just disappeared.  This was not the first time we have seem this kind of activity before. A month before, in November of 2014, we saw a single orange orb that we wrote off as a balloon with a candle attached to.  The second even was the same kind of orb with the glowing orange fire like light but was in a pair.  We live close enough to the airport to see the planes come and go on a regular bases but these flying objects were different from anything we have seen before.  Regular air traffic generates a lot of noise pollution these c! rafts were silent.  We find this event and the past event very strange but don't feel threatened by the presences.  We are hoping that more individuals will share their stories to document the happenings here last night and to feel that they are not alone in their encounters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115929.html](http://www.nuforc.org/webreports/reports/115/S115929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
