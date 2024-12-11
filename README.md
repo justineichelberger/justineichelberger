@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object in night sky performs incredible maneuver over Bozeman, MT.  12/11/18I sent report to your email.  I hope that works, my tablet won't copy/paste.  ((name deleted)), Bozeman, MT.  We spoke this evening.((ADDENDUM FROM WITNESS; ORIGINAL E-MAILED REPORT))I walked out onto our patio with my daughter and immediately noted how bright Venus was that morning.  I showed my grand daughter how, just before sunrise, she could use her hand to measure from the sun to a point in the sky and at noon that day find and see Venus at mid day.  A few minutes later I was looking directly overhead to see the big dipper when I noticed a very bright object to the north.  I thought at first it might be the ISS, but it was travelling almost directly north to south.  After maybe a minute it suddenly became very dim, but I could still see it clearly.  About this time my daughter lost interest.  Just a few seconds after the object became dim it began to accelerate faster than any satellite I have watched.  When the object was directly over head still travelling very fast it performed a perfect 450 degree turn and sped  away to the east and vanished.  When the object performed the perfect counter clockwise circle plus 90 degrees it either left a vapor trail or it was so fast that my eyes were seeing what you see when a child twirls a sparkler.  This event happened about one hour before sunrise.  I would speculate that the object was reflecting sunlight and became dim as it reduced altitude. When helicopters patrol transmission lines and reach a point where the line makes a 90 degree turn the pilot will do a circular 450 degree pattern returning to the end point and continue down the line.  This object performed the exact maneuver at an incredible speed.  I would also note that the circular turn made by this object was absolutely symmetrical. I have been a true UFO sceptic all my life and have never had the remotest inclination to believe in them until this event on Tuesday.((END ADDENDUM))((NUFORC Note:  We spoke via telephone with the witness, and found him to be quite eloquent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144031.html](http://www.nuforc.org/webreports/reports/144/S144031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bedford (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed floating vertical triangle. With red, and white lights. First sighting around 1:29 am. Second sighting around 2:00 am. Lights went on, and off. Triangle behaves as a ufo then transitions to a slow moving (like) airplane with red running lights. Object vanishes either out of sight or turns running lights off. Suspect it to be some sort of helicopter or airplane capable of hovering for extended periods of time. Not the first time seeing these anomalies in the same vicinity of the Bedford Dallas Fort Worth Texas airport area. This sort of sighting occurs every other month. Have tracked some airplanes landings, and taking off from the airport with strange light patterns, later going in the same tracks as the UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151458.html](http://www.nuforc.org/webreports/reports/151/S151458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
