@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:54 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:29 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Dundee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately hours - hours minutes.</sub><blockquote><sub>hovering, flashing object in night skyOften at night I sit on my back porch.  I face due east towards Chicago (45 miles east).  My porch has a spectacular view of the night sky.  I sit and watch the planes come in and out of O'Hare Airport as well as the beautiful night sky.  More times than not, I can locate an object that appears to be a brilliant star.  However, it moves.  It also flashes green, red and what I guess is yellow.  It's not a plane, I know it's not a star, it's not a sattelite.  If you sit and watch it with just the naked eye, it appears to be hovering and flashing different colors.  It's usually out there.  With sophisticated recorders (better than my hand held), I know anyone would see what I'm seeing.  What is it??  I will try to tape it this week...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48256.html](http://www.nuforc.org/webreports/reports/048/S48256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saucer seen by two individuals over Louisville, KY.I was driving with one passenger heading eastbound on Shelbyville Road between the Oxmoor Mall and Hurstbourne Lane. The craft was moving north-northwest from the south-southeast from a higher altitude. Initially, we both thought it was an airplane. However, it rapidly descended to around 500-600ft. We thought it must be a helicopter until we noticed there was no noise and - most obviously - it was saucer-shaped with 4-5 white lights around the circumference and one red light on top. Even then we thought maybe it was a drone of some sort; however, the shape does not match and it was much too large to be any kind of civilian drone as this craft was the size of a small to mid-size plane. To my knowledge, the only drones large enough to match this description are military ones. The movement didn't match that of a drone either. This craft moved extremely smoothly - as if it were gliding. The craft hovered for a few seconds over a neighborhood in the Lyndon area,! before heading north a bit, turning back south over the mall, and then westward over the Watterson Expressway before it shot up into the clouds and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161155.html](http://www.nuforc.org/webreports/reports/161/S161155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
