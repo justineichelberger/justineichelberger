@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Dual orange orbs in Eugene, Oregon 12/11/2014My wife and I were outside smoking, when we say two orange round orbs in the sky.  The color almost looked like the distant glow from a fire but was floating in the sky.  They flickered with intensity and flew in unison with one another.  They appeared to be very low and slow moving.  They were traveling north then turned northwest.  One orb started to go dim almost to the point where it looked like a star then disappeared then the other orb just disappeared.  This was not the first time we have seem this kind of activity before. A month before, in November of 2014, we saw a single orange orb that we wrote off as a balloon with a candle attached to.  The second even was the same kind of orb with the glowing orange fire like light but was in a pair.  We live close enough to the airport to see the planes come and go on a regular bases but these flying objects were different from anything we have seen before.  Regular air traffic generates a lot of noise pollution these c! rafts were silent.  We find this event and the past event very strange but don't feel threatened by the presences.  We are hoping that more individuals will share their stories to document the happenings here last night and to feel that they are not alone in their encounters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115929.html](http://www.nuforc.org/webreports/reports/115/S115929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>This is the second sighting in the same location.  I have a city view and my area is very active with ufo sightings for some reason I can't understand.  As I was leaving to work at 6am, I sported it 2 very bright lights high in the sky.  They had a oval shape and will moving in and out of the cloud.  They were moving in the direction of the city.  Then they just stop and stay there motionless for about 2 hours, like they were just observing.  Then they both took off at a very high speed up and disappear.  I have being very skeptical believing in ufo but I do now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116007.html](http://www.nuforc.org/webreports/reports/116/S116007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
