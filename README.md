@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chester (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>saw UFO, over DE river.....4 flasing lightsJ.R. 619-((telephone number deleted))...saw 4 lights straight across horizontal, constantly flashing, craft descended, hovered for a few SEC's, then completely disappeared.  The object dwarfed a nearby plane.  The object was emmense, extremely large.  It dwarfed a jumbo jet...just trying to stress the size of the object!  I am sober, coherent and sane.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131705.html](http://www.nuforc.org/webreports/reports/131/S131705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Orange lights traveling Eastward from the Everglades over Northwest Broward County(10:55 pm) on December 11, 2010 in Northwestern Broward County (South Florida). My boyfriend and I were doing laundry at the local laundry mat. We parked in the back of the building which is on a main road that runs west and east from the Everglades to the Atlantic Ocean. This location is about 10 blocks from the Everglades which is right on the other side of the Sawgrass Expressway (literally). My boyfriend went inside to check on the clothes in the dryers and I stayed in the passenger seat of our car. I was watching videos on my phone when I got a weird urge to look out at the sky so looked out the passenger window. I was shocked to see what appeared to be the big dipper constellation because stars are hard to see in our city due to all the light pollution. What caught my attention was that more of these "stars" began to appear. I then realized I was looking at a cluster of orange orbs moving rapidly from west to east and immediately got out of the car. I ! yelled for my boyfriend to come outside NOW! And I'll be darned if as soon as I did they began to disappear. By the time my boyfriend was able to get outside only 3-5 were left. They made no sound. This entire event took place in the span of about 20 seconds. I am very disappointed that I did not have a chance to grab any videos or pictures. I have lived in Broward County my whole life and never saw anything like this before.As a resident here I am very familiar with how airplanes appear at a low altitude since I work right next to an executive airport and Fort Lauderdale International is right off of I95. Anyone who has driven on I95 enough times could tell you about seeing the Que planes form before landing and experiencing having a Boeing fly 50 ft above your car as they drop the gears for a touchdown. An airplane has red white and green or blue lights. These were NOT planes. I was a logical optimist; a "the universe is too vast for us to flat out say we are alone" type of person. I am undoubtedly a believer now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79314.html](http://www.nuforc.org/webreports/reports/079/S79314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
