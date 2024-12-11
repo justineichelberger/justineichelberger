@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:49 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 122</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151979.html](http://www.nuforc.org/webreports/reports/151/S151979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gallatin Gateway (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orbs buzzing,  flash  around over mountainsJust above the mountain range SSW of Gallatin Gateway, I noticed what appeared to be a spherical light moving from peak to peak very quickly in a very irregular flight pattern very resemblant to that of a housefly's.  Object began to change colors and seemed to have 2 smaller versions of itself splitting off from and readjoining with the main one.  This was done in seemingly random pattern.  The 2 smaller ones began blinking at irregular, non repetitive intervals.  The 3 of them seemed to fly away from me until they were almost inperceivable, then in a fraction of the time, reappearing close as before again, but in different position equal to about 5 moons diameters away.  Then, one time it didn't reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131699.html](http://www.nuforc.org/webreports/reports/131/S131699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
