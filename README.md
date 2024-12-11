@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Huge glowing green object in Northern VA.I had just picked up my Son from work in Manassas, and we were driving in a Westerly direction, toward home, at approx. 07:55 PM (EST).The night was dark, clear and starry weather...no moon in sight...with some, not many,  scattered clouds.Several, easily visible, and identifiable commercial jet aircraft were inbound to the Dulles Int'l Airport, and were flying their regular approach traffic patterns...of which we are very familiar.Suddenly, we witnessed a growing green glow approaching from the west, and increasingly lighting up major portions of the sky, very bright, almost neon green. Clouds rapidly became brightly backlit, and sillouetted.Then we were stunned to witness a huge, brightly glowing, green object traverse the sky, almost horizontally, from approx. southerly to north / northwest direction.It appeared, at first to only be a few thousand feet in the air...but this was hard to judge....it flew on very rapidly , trailing a sort of vapor in its wake, and then, just as suddenly as it appeared, it suddenly descended to earth, with extreme speed,and this was followed immediately by blackness (darkness).It appeared to us, from our vantage point, to have come down to earth, either crashed, or landed, perhaps within several miles to the west....We were puzzeled because there was no sound, no sonic boom, no sound of a crash, and no smoke on the horizon...We discussed the incident together, and thought perhaps it was a meteor???, but dismissed that because we had seen several meteor showers before, and they never resembled anything like this object.It was extremely large...glowed very brightly, neon green incolor...had a vapor trail, traveled at extreme speed (at least ten times faster than jets in the air that night), and then suddenly dived, or descended rapidly....and almost certainly landed, or came to earth via a crash...all without a sound.It lit up an enormous portion of the sky..from our vantage point.I am puzzled as to what that was???...and if anyone else in the region,or on board a flight that evening had a glimpse of the same object? Note: I prefer to remain anonymous, due to my Aviation industry background.((NUFORC Note:  Possible meteor.  PD))((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41083.html](http://www.nuforc.org/webreports/reports/041/S41083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Grantham (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A string of lights just below cloud level.We saw a long string of lights on the horizon, 4 or 5 in a row. They suddenly turned upwards to an almost vertical position before disappearing into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15424.html](http://www.nuforc.org/webreports/reports/015/S15424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
