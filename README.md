@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bedford (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed floating vertical triangle. With red, and white lights. First sighting around 1:29 am. Second sighting around 2:00 am. Lights went on, and off. Triangle behaves as a ufo then transitions to a slow moving (like) airplane with red running lights. Object vanishes either out of sight or turns running lights off. Suspect it to be some sort of helicopter or airplane capable of hovering for extended periods of time. Not the first time seeing these anomalies in the same vicinity of the Bedford Dallas Fort Worth Texas airport area. This sort of sighting occurs every other month. Have tracked some airplanes landings, and taking off from the airport with strange light patterns, later going in the same tracks as the UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151458.html](http://www.nuforc.org/webreports/reports/151/S151458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in North Yorkshire (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very bright disc shaped object travelling at intense speedI was driving in my car with my Mum and brother travelling North along the A162 from Brotherton heading towards the roundabout for Selby.  From the corner of my eye to the right, I noticed a very bright light in the sky.  Initially I thought that it was a shooting star but we noticed that it was infact a disc shaped object and that it was travelling at a very high speed.  We only saw the object for a matter of seconds as it was moving very quickly.  The light was heading North and looked as though it was going to crash as it was quite low. I am almost certain that the object was not a plane due to the extreme brightness and intense speed that it was travelling.I am interested if anyone else saw this object as there was another vehicle not too far in front of us.((NUFORC Note:  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20788.html](http://www.nuforc.org/webreports/reports/020/S20788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
