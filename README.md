@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kent/Setac (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was dropping my wife at work (Boeing Kent Space Center) made left turn to her building.  She said to look ahead.  At about 20 degrees up we saw 2 very bright whitelights alernating from one side to the other at set intervals every 2-3 seconds.  Sat and watched a few minutes.  Lights did not move. I told my wife I would drive east out the main gatw then north on Interuban.  When I turned north the lights were gone but I saw a faint flat straight sterak going east  My wife went outside after daylight there was nothing in that area which would hold lights like these</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26586.html](http://www.nuforc.org/webreports/reports/026/S26586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chester (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>saw UFO, over DE river.....4 flasing lightsJ.R. 619-((telephone number deleted))...saw 4 lights straight across horizontal, constantly flashing, craft descended, hovered for a few SEC's, then completely disappeared.  The object dwarfed a nearby plane.  The object was emmense, extremely large.  It dwarfed a jumbo jet...just trying to stress the size of the object!  I am sober, coherent and sane.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131705.html](http://www.nuforc.org/webreports/reports/131/S131705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
