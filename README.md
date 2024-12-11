@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Platte City (MO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately No idea - No idea minutes.</sub><blockquote><sub>There were 3 teardrop saucers3 teardrop styled crafts came toward me as i rested outside my truck. I video-taped it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33812.html](http://www.nuforc.org/webreports/reports/033/S33812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hazard (KY) reported seeing craft that fit the description of some '' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>IMPACT AND EXPLOSION  IN EASTERN KY WITH CRASH SITE UNEXPLAINED BY AND AUTHORITIES FOR DAYSA THING was seen crashing into a hillside by man witnesses in perry county ky.....it made the local news and at first was almost written off as a mine explosion until no evidence of such at the crash site could be found .also no debri of a crashed plane which was the next conclusion....... this needs to be put out there because it is a small county in ky where such things become local legend but nothing more.  So far NO OFFICIAL conclusion as been given for the explosion or the people who saw something fall from the sky .  I'm not a normal contributor and i know my spelling is screwed but this needs to be investigated. SOMETHING BIG HAS HAPPENED and many people here are afraid it will be swept under the rug......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85840.html](http://www.nuforc.org/webreports/reports/085/S85840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
