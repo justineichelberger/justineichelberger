@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Grantham (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A string of lights just below cloud level.We saw a long string of lights on the horizon, 4 or 5 in a row. They suddenly turned upwards to an almost vertical position before disappearing into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15424.html](http://www.nuforc.org/webreports/reports/015/S15424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dexter (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>12/11/09 Dexter, Michigan 20:00 hr 4 lg brightly lit objects moved E to W across the N. horizen, NO SOUND able to turn instantaneously~ 8pm (EST)  December 11, 2009, in Dexter Michigan – (very north Washtenaw county)     Weather: clear & cold 15degrees F  Four large air ships, lit up with bright lights (more like lights would be on a ship than an airplane), moved across the north sky close to the horizon from east to west.  There were other aircraft in the area, but they appeared much smaller and farther away.  The speed seemed moderate -  steady and smooth.The first one moved across the horizon and then out of sight followed by the next one and then a third and finally a fourth.  (about 10 minutes entire duration) *The last one reversed directions and returned east and then northeast, until it disappeared.  *it did not turn like an airplane, both turns were instantaneous and there was absolutely NO SOUND! The most profound thing about this incident was that none of the objects made any sound!!  We live in a rural area and can hear aircraft from miles away.We will mail a diagram of the lights we saw, including in the drawing the horizon and a moon for better idea of we witnessed.We were unable to find anyone else that also witnessed these crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73669.html](http://www.nuforc.org/webreports/reports/073/S73669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
