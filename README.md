@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:54 on 11 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Green fireball over Springfield,MOMom and I were visiting a family member at the hospital. As we were leaving the parking lot I saw a bright green light flash on my right ( North). The light fell towards the west and vanished below the tree line. I asked Mom if she saw that, and she said yes, she had never seen a green shooting star before. I told Mom I wasn't sure it was a shooting star. We talked about the location of the airport and the speed of what we had seen. I also told Mom I had seen a similar object some days before. I don't know what we saw that night, but I know it wasn't natural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16423.html](http://www.nuforc.org/webreports/reports/016/S16423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Dundee (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately hours - hours minutes.</sub><blockquote><sub>hovering, flashing object in night skyOften at night I sit on my back porch.  I face due east towards Chicago (45 miles east).  My porch has a spectacular view of the night sky.  I sit and watch the planes come in and out of O'Hare Airport as well as the beautiful night sky.  More times than not, I can locate an object that appears to be a brilliant star.  However, it moves.  It also flashes green, red and what I guess is yellow.  It's not a plane, I know it's not a star, it's not a sattelite.  If you sit and watch it with just the naked eye, it appears to be hovering and flashing different colors.  It's usually out there.  With sophisticated recorders (better than my hand held), I know anyone would see what I'm seeing.  What is it??  I will try to tape it this week...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48256.html](http://www.nuforc.org/webreports/reports/048/S48256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
