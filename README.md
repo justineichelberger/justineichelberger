@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>The craft was a circle then forming into a teardrop shape then back to a circle. It stayed in the same spot for at least 25 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151618.html](http://www.nuforc.org/webreports/reports/151/S151618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Over 50 UFO's Travel Across Northern Phoenix, AZ Skys Right Above MeI have been seeing what look like "flying stars" randomly for over a year between the hours of 5 a.m. and 6:30 a.m. MST.  This morning I watched 2 of them go across the sky right above me.  Soon after that I saw more and more and more coming one after the other.  They were coming from the North West and traveling South East.  They were exactly the same distance from one another following each other in a line formation.  They kept coming for over 12 minutes and I counted over 50.  They were as bright as planet and a bit smaller.  I stood up and watched this in amazement.  It was literally a fleet of UFO star like orbs.  Someone else HAD to have seen this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151515.html](http://www.nuforc.org/webreports/reports/151/S151515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
