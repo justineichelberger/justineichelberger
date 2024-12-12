@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Julesburg (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Never in my life have I seen any aircraft that stays stationary and light up so brilliantly with no sound or movement.Blinked continues in one spot for minutes on end light whole surrounding area with bright lighting at least 4-5 miles on road 20 and I believe hwy385 or highway that leads to Holyoke from Juleburg.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115948.html](http://www.nuforc.org/webreports/reports/115/S115948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright strobing multi colored star like object.A single bright small object stroking multi colors very fast, object never moved.  I took photos with 35mms digital camera and got video footage.  The zoomed in photo looks like two bowls inverted over each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116085.html](http://www.nuforc.org/webreports/reports/116/S116085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
