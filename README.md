@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fleet of Orange orbs over Boise Idaho link on you tube also.Stepping out off Eagle rd and Franklin I seen in the North East sky about 7 or eight Orange lights traveling just over DT Boise. shortly after they all seem to disappear, I could see one after the other appearing to be exiting DT Boise.  One after the other traveling South bound seeming to be ascending from DT Boise, higher, and higher, toward the South.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105339.html](http://www.nuforc.org/webreports/reports/105/S105339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brampton (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>lying in bed I heard a stange noise then saw a round white light in the sky hovering.A little after 22:08hrs,lying in bed I heard a common but strange noise.Almost as if someone was rubbing their finger on a half full crystal wine glass.As the noise came closer a round,almost white in color dull light,approxamitly 20-25 feet across and 75-90feet in the air came into view from the NNW ski,stopped over my backyard and hovered for 4 seconds.Then this light did not turn but left slowly into the NNE ski.The total time of this account took between 13-15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60362.html](http://www.nuforc.org/webreports/reports/060/S60362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
