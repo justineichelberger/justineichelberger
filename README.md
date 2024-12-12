@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright strobing multi colored star like object.A single bright small object stroking multi colors very fast, object never moved.  I took photos with 35mms digital camera and got video footage.  The zoomed in photo looks like two bowls inverted over each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116085.html](http://www.nuforc.org/webreports/reports/116/S116085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>30 star like objects traveling in lineSaw approx 30 star like objects dropping out of the black and traveling approx north to south spaced evenly except for one that was not in the line.  They appeared to be traveling about the same speed as the space station (when I have seen it) and altitude perhaps about 40,000 feet.  This follows a similar sighting the morning prior to Thanksgiving 2019 also around 6:15am where about the same number of "craft" were seen traveling from west to east, about the same speed and altitude, but spaced more closely and not as even.  Sky was clear both mornings.  Brightness was about the same as average stars.  The light was constant, no flickering, etc. no sound.  Aircraft were in the area, but routine and not appearing to interact.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151514.html](http://www.nuforc.org/webreports/reports/151/S151514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
