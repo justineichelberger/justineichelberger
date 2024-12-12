@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:45 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Talihina (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.3333333333333333 - 1.3333333333333333 minutes.</sub><blockquote><sub>Four orange fireballs witnessed hovering very close to ground in Oklahoma that beamed white light to ground.1841 hrs.:  Four lights seen in southern night sky.Four orange fireballs lit up individually to form straight line then went off.  This sequence repeated once & lasted approx 20 seconds.  Windows down in car, heard low roar that lasted approximately 30 seconds.  Clear night sky, no jets or planes seen flying over...would have to have been low for that kind of roar.1845 With our truck still in park facing east, to the south outside truck window, very close (maybe 1/4 to 1/2 football field if that) a white light lit up the ground. Light was approximately size of our truck.  It remained stationary.  The light shined on the ground for approximately 30 seconds.    At first I thought the light was car lights, but that is impossible because we were on private property behind locked gates in the country and we are 100% positive we were alone.I thought I could see something in the light but it was too dark.1917 Home. I have developed headache to right side of head (side facing light) and now have various "buzzing" feelings in my body.Clarification:  Orange lights were not visible while white light beamed to ground.**   I was unable to get images.(Other residents of this area have witnessed these lights.  I hope they will report what they have seen as well.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95191.html](http://www.nuforc.org/webreports/reports/095/S95191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went outside my frount door to smoke a cigaret when I was looking at My neighbors Christmas light's, and wondering why his were still on, when out of the blue were three VERY BRIGHT RED lights shaped like three VERRY big stop lights, about three hundered yard apat in a "V" shape. I know this because I seen the reflection of the frount light on the top of the house on the snow coverd roof. this house is approxamateily.. one block to the south of Me, and on a hill above My house. There were no cloudes, No way could this have ben  any Christmas lights.. I then saw it move "VERY FAST" aprox, one mile to the east,then one mile to the west, then stoped for one second then.. shot straight up whithout a streak, a sound, nor was this ANYTHING I nor anybody else could possabely explaine as nothing but a U.F.O.!!!  This is a life changing experance.. and I will be GLAD to take ANY pollygraph tes, or any other test that is avalable to prove My credabilaty or my truth in this matter.  I DID see this and will die knowing what I seen this morning is REATALY. P.S.. I just now heard ARMY duel blade hellocopters flying above My house.... (Time... 6:o4 AM ) Now I know Im not crazy!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73659.html](http://www.nuforc.org/webreports/reports/073/S73659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
