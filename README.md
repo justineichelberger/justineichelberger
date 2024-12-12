@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vass (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Looking from bathroom window, noticed a light in the sky that was moving but did not get closer or farther away, was rotating in the sky and would disappear behind trees then reapear, very bright.  The object would move from left to right and appear spinning.  At times a green and red light would appear but not constant.  Definitely((NUFORC Note:  Sighting of a star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137752.html](http://www.nuforc.org/webreports/reports/137/S137752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Atlanta (E of, near the LA border) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was sitting in a stand hunting when I caught the reflection of a light on my glasses.  I looked up and thought it was a planet which was near the moon at the time except this object was coming straight down and getting very bright.  It was a whitish color with a blue tint. It appeared rounded on the bottom and distorted from the intense light around the top.  The object stopped at an altitude 1500-2000 feet, (I guess). As the object seem to hover the light began to stabilize and slowly decreased in intensity as it settle into what looked like a star.  At this point it moved off to the southwest. I lost sight of it as it moved behind the trees. I am not sure but after it moved away as a star in appearance it may have just vanished.  Not sure because I was looking through the trees at this point.Whitish ball blue tint.  Very intense but did not appear to cast any light on tree's. It did reflect off my glasses. That's what caught my attention to it. Two other hunter within 100 yards saw nothing. They had more obstructions around them. The bottom was rounded. This I could tell by the glow of the light. The top was hard to make out due to sparkling light and had no definite shape. The object dropped very fast. When it came to a stop it was very sudden, it was immediate. It hovered for about 4-5 seconds. The light was jumping outward like sheets waving in the wind. Then the light appeared to pull back into itself until it looked like a star.  A very small blue/white star which then slowly moved away and I am not sure but i think it just vanished. I felt like this object was very close. When I first looked up and saw this thing falling I felt like it was going to come down on the deer lease I was on.  I would have thought it was something reentering the atmosphere, satillite etc. but it would not stop and move off in a level flight after coming straight down. I saw something very simular to this a couple of years ago while sitting on my inlaws back poch in the Dallas Tx. area.  There was 4 of us who saw it. I am an electronic Technician, 45 years old. Spent 6 years in the service.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05279.html](http://www.nuforc.org/webreports/reports/005/S05279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
