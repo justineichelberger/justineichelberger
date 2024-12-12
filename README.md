@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Thornton (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I went outside my frount door to smoke a cigaret when I was looking at My neighbors Christmas light's, and wondering why his were still on, when out of the blue were three VERY BRIGHT RED lights shaped like three VERRY big stop lights, about three hundered yard apat in a "V" shape. I know this because I seen the reflection of the frount light on the top of the house on the snow coverd roof. this house is approxamateily.. one block to the south of Me, and on a hill above My house. There were no cloudes, No way could this have ben  any Christmas lights.. I then saw it move "VERY FAST" aprox, one mile to the east,then one mile to the west, then stoped for one second then.. shot straight up whithout a streak, a sound, nor was this ANYTHING I nor anybody else could possabely explaine as nothing but a U.F.O.!!!  This is a life changing experance.. and I will be GLAD to take ANY pollygraph tes, or any other test that is avalable to prove My credabilaty or my truth in this matter.  I DID see this and will die knowing what I seen this morning is REATALY. P.S.. I just now heard ARMY duel blade hellocopters flying above My house.... (Time... 6:o4 AM ) Now I know Im not crazy!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73659.html](http://www.nuforc.org/webreports/reports/073/S73659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Jefferson (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Weird shaped object seperated by a single black pipe connectionI was leaving Athens after the death of a family member at a local hospital last night about 4:30pm.  As I was traveling up 129 back twards gainesville were I live.  I saw this large object which I though was a helicopter with carrying something.  As it crossed the rd It looked like a hammer top with the teeth end forward and then at the bottom was a upside down peace that looked like a hammer top with the teeth end in the same direction but pointing up.  They were seperated by a single tube looking object.  They were silver in color but the peace conecting them was black.  I was about a quarter mile away from the object that was large in size.  When I got a good look at it it looked like something from a movie.  I have been in the military for 6years and never saw anything like it.  I came across this site while googleing the event to see if anyone else saw it.  I saw anouther simular siting on the site from last year in jefferson.  It had no sound and was ! in laming terms very interesting.  It was deff not anything that anyone has ever seen flying in the sky befor.  It was a cloudy day and it was very low in sky maby a few thousand feet above the ground.  It diaapered behind a high bank that was beside the rd and disapered behind Jefferson High school.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95942.html](http://www.nuforc.org/webreports/reports/095/S95942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
