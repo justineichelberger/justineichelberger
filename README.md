@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kankakee (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Large grayish circle/oval, two smaller yellow lights/circles and 15 streak lpoking thingsI work in Chicago and ha e an hour and a half drive to and from work everyday. I got to Kankakee this afternoon on my daily drive home and noticed 14 or 15 streak-looking things in the sky. When I. Seen them way far up, looking sort of like jet smoke streaks but it wasn't, I seen two small yellow circle looking.g things kind of following the streaks in the sky.  Mainwasn't just seeing bugs I rolled my window down driving down the interstate amdseen them clearly   They were going so fast it almost looked slow motion.  I was on the phone with m wife describing what I'm seeing asking her to go outside at home and see if she can see them from our house when a dark Dolores, grayish kind of green looking circle-ovalish looking thing went over the top of my far which is a Nissan XTerra.  It wasn't right above me enough to reach but much closer than the other 16 ish objects.  From where it started in Kankakee is a thirty minute drive from my house.  I called my wife three different times in that thirty minutes but she didn't see anything because the trees surrounding our house. (Yes there are trees where I live on Bayles Lake)  As soon as I g to around Buckley it started getting dark but they disappeared.  The yellow lights/circles disappeared first then the dark circle figure then all the streak looking things disappeared slowly leaving one behind just to disappear shortly after the rest.  I've never seen anything like it in my entire life and it! completely freaked me out. I'm a full grown man with an average lifestyle, wife, kids and all  This may be a once in a lifetime experience for me but something just Turned me from a nonbeliever.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be both sincere, and sober-minded.  He described himself as being former military.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95189.html](http://www.nuforc.org/webreports/reports/095/S95189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Julesburg (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Never in my life have I seen any aircraft that stays stationary and light up so brilliantly with no sound or movement.Blinked continues in one spot for minutes on end light whole surrounding area with bright lighting at least 4-5 miles on road 20 and I believe hwy385 or highway that leads to Holyoke from Juleburg.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115948.html](http://www.nuforc.org/webreports/reports/115/S115948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
