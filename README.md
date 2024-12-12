@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pleasant Shade (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately MONTHS - MONTHS minutes.</sub><blockquote><sub>They seem to come and go from the same spot in the sky.We bought a new home here and we love the views here, at night there are things that always either come from or go to the same spot in the sky, its like clock work, So fast in space until you must focus on them to track them with your eyes.My oldest son aile sitting out on the deck in recliners, looking up at the stars, we started tracking objects, then another, another and yet another, we could count to 20/Mississippi and like clock-work there it would either come or go..Say what you want.Weeks later and my father in law from up north had come down and my wife said' show dad the ships, wew went out on the deck, reclined to enjoy the show and there they where, at 10pm i went to bed, he stayed on my deck often from sun set to rise every night for 5 weeks and each day he was just amazed at the sightings..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73753.html](http://www.nuforc.org/webreports/reports/073/S73753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Perfectly Straight Light Line in the Sky above the Cloud Level. Looked like a crack in Sky.A line of light in the sky about the size of your hand. The light was above the cloud layer. The clouds would cover and uncover the line of light. The line would not move.Finally lost sight of the line after the cloud layer was thick enough to totally block the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33934.html](http://www.nuforc.org/webreports/reports/033/S33934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
