@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Minot (ME) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Craft seen entering atmosphereCraft entered atmosphere with red/orange glow very high from the outer atmosphere. Once entered, craft showed to be very bright white, flying in a straight direction with no contrail. Craft flew for approximately one minute then a visual contrail followed craft until it was out of sight. No sound at all was generated from this craft or for the duration of its flight while in view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165856.html](http://www.nuforc.org/webreports/reports/165/S165856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Prescott (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Saucer shape over Prescott and three lights on Phoenix horizon.A coworker and I had two experiences while visiting Prescott Arizona on business.  The first is reflected on the report above, while the second occurred the following evening closer to Phoenix, on the way back to Phoenix to spend the night before flying home to Georgia and North Carolina.The first occurred on the night of the 13th.  My coworker and I were walking back to the Spring Hill Suites from a restaurant.  The Christmas crowd had gone home for the evening as we walked passed the Palace Restaurant.  We paused to take a photo of the historic restaurant.  Neither of us noticed the shape above the Palace in the night sky.  I found it on the photo the next day and will email it to you.  We both agree that we didn't see it at the time but it does not appear to be a photo flash.  The shape is a very distinct saucer-shaped object.The second strange experience was during our drive to Phoenix on the 14th.  At approximately 20:30, we noticed three very large lights hovering over the mountains on the western horizon.  The three lights were in a triangular pattern; with the one in the middle being just above the horizon and the outside two were evenly spaced on either side, higher up in the sky.  I watched them from the car for at least 10 miles before bringing the lights to my co-worker's attention.  We continued to watch them.  They were spaced what seemed to be approx 1 mile apart or more. They were very large. They could not have been stars or aircraft.As we reached Pappadeux restaurant, we noticed one light disappeared, followed by a second.  The third, lower light hovered over the mountain as we entered the restaurant.  It was gone when we came out after dinner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105387.html](http://www.nuforc.org/webreports/reports/105/S105387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
