@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Canton (MS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Changing shaper with multicolored lights.There is a changing lighted object at 107 Degrees east at about a 40 degree angle.  Looking from Cantin, MS.  With binoculars it looked like an amoeba changing shapes.  Earlier it had bright multi-colored lights. 12/13/2014 at 9:14 PM.  What is it?  It is still there.((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116028.html](http://www.nuforc.org/webreports/reports/116/S116028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairlee (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange, fiery lights in the sky that disappeared in perfect succession leaving only the clear night sky.While driving north on I-91 through Fairlee we saw something in the sky.  At first glance it appeared to be a plane coming in for a landing.  Four or five large fiery orange lights hung there in the sky, in a horizontal orientation for only a moment or two.  The lights then went out, one by one leaving only the clear night sky behind it.We pondered what it could have been for the next few miles.  As we came to a clearing just before the Bradford exit, we saw it again.  This time the lights were in a more vertical orientation and blinking differently than before.  One would go out and another would come on immediately.  I could almost see a structure, a craft, but at the same time there appeared to only be lights.  Then the lights went out, like before, in perfectly timed succession, one by one, and was gone.  We quickly pulled into the park-and-ride and got out of the car to see if we could hear anything and there was silence.  It was truly bizarre.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105322.html](http://www.nuforc.org/webreports/reports/105/S105322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
