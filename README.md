@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Burnham-on-Crouch (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>2 curved arrow head shaped objects performing "DNA" spiral manouvers.I was in my back garden when i looked up and saw 2 objects, shaped like curved edge arrow heads, flying straight in direction although they were performing manouvers - crossing each others paths in an almost DNA like spiral. They were illuminated by a dull light underneath, and were appoximately the size of planes, but i am convinced they were not planes. There was no noise from them, and they were flying at approximately 250ft. I watched them until they flew out of sight over my house. The light was soft - fuzzy and pale yellow. I am not given to flights of fancy, but I like to keep an open mind on things. Oh, and if it matters, they were coming from the south, heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33783.html](http://www.nuforc.org/webreports/reports/033/S33783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Canton (MS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Changing shaper with multicolored lights.There is a changing lighted object at 107 Degrees east at about a 40 degree angle.  Looking from Cantin, MS.  With binoculars it looked like an amoeba changing shapes.  Earlier it had bright multi-colored lights. 12/13/2014 at 9:14 PM.  What is it?  It is still there.((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116028.html](http://www.nuforc.org/webreports/reports/116/S116028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
