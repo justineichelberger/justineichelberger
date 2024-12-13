@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:52 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:00 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright yellow/orange lightd moving slowly from south, south east to north, north west.No sound. Moved evenly appprox. 20 degrees and then stopped in sky. Very bright.Then stopped and stayed within sight due south in sky for about 4 minutes before "Going out" one at a time.I had time to call my wife from my house to come and witness this event.I had time to go into my house for my digital camers and snap 4 photos.One photo reveled what I think are two triangular shapes with the bright light in the center and 3 each fainter lights in the photo defining the shape.On the photo there is also appears a third fainter light between which was not visible to naked eye.Duration was approx 5 min. and they went out. No sound.Night sky was dark with very high scattered clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53979.html](http://www.nuforc.org/webreports/reports/053/S53979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Des Moines (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown, I drove past the - Unknown, I drove past the minutes.</sub><blockquote><sub>5 circular disks hovering in straight line.There were 4 objects hovering about 150 yards in the air along the west side of I 5 they were in line about a mile apart from each other.  I was going northbound past all 4 and then a 5th one flew from the east to west crossing over I-5 and then stopped.  All were the exact same.  Disk shape with square panels domed out on the bottom with white lights in vents in all all of the outer most sides of the craft.  There were red solid lights and a white light that blinked on one side and then immediately on the other side and repeated every couple of seconds.  I took a picture.  It was dark out and the picture came out all white with nothing on it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115967.html](http://www.nuforc.org/webreports/reports/115/S115967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
