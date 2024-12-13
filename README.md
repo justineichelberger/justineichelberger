@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Princeton (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Light yellowish white circle of light looking like a full moon started moving, descending down behind trees of horizon when looked atLight yellowish white circle looking like a full moon.  Circle could be seen through window curtains.  Pulling curtain back looking out the window the circle looked like full moon touching the tip of tree tops on the horizon.  The circle of light moved from full circle to 3/4 circle in approximately 30 seconds as I continued to watch this circle of light as if it knew I was looking at it!  Circle of light slowly but continuously moved downward until it disappeared behind tree tips on the horizon.  I watched this circle of light for about 3 minutes.  Circle appeared in my bedroom window at 3:30 am on 12-13-2013 .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105359.html](http://www.nuforc.org/webreports/reports/105/S105359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Outside with husband watching Geminid Meteor shower when what at first appeared to be a flock of birds in the sky realized it was NOT, 10 to 15 small long ovals glowed slightly, went straight across sky but also appeared wavy and in formation.  Moved too fast and smooth to be a plane also made no noise.  Spotted by Peadens Seafood Restaurant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137745.html](http://www.nuforc.org/webreports/reports/137/S137745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
