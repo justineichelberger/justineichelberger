@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:52 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pleasantville (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dimond shaped ,very bright moving very fast across the sky.  Definitely a UFO.I just came out of my Pleasantvile Pace university campus and was waiting for the bus.I am currently doing my Masters in Computer Science.It was around 4 PM on 13th Dec 2013.  The first thing I noticed was there was a vertical smoke trail in the sky, the kind of trail which you see when a jet plane leaves behind in the sky.  And the object making the trail looked like a bright white  orb.This vertical trail I could see from the top of the sky.  The object was going vertically down to land , crash or whatever.  I waited long for it to emit a bright flash which I believe would have confirmed to me that it was probably a meteor.  While this was happening I saw something extraordinary.  Another object which appeared diamond shaped,very bright appeared and was moving horizontally near the orb moving downwards.  This diamond shaped object did not have leave any trail of any kind in the sky and appeared to be moving significantly faster than the one moving downwards.  I can not say how close these objects were to each other.  The diamond shaped object was visible for about 5-8 secs and then disappeared.  The vertically falling orb was seen for approximately 5 mins.  I tried taking a video but my smartphone could not capture it.  The objects seemed like they were very far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105326.html](http://www.nuforc.org/webreports/reports/105/S105326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright yellow/orange lightd moving slowly from south, south east to north, north west.No sound. Moved evenly appprox. 20 degrees and then stopped in sky. Very bright.Then stopped and stayed within sight due south in sky for about 4 minutes before "Going out" one at a time.I had time to call my wife from my house to come and witness this event.I had time to go into my house for my digital camers and snap 4 photos.One photo reveled what I think are two triangular shapes with the bright light in the center and 3 each fainter lights in the photo defining the shape.On the photo there is also appears a third fainter light between which was not visible to naked eye.Duration was approx 5 min. and they went out. No sound.Night sky was dark with very high scattered clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53979.html](http://www.nuforc.org/webreports/reports/053/S53979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
