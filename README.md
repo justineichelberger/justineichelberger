@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:05 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very fast horizontal, low-flying, silent light.I live 8 miles north of Shelton, Washington.Tonight, 12/13/2015, at 11:00 P.M., while standing on the front porch of our home.  I witnessed a very bright light in the sky.  It was going at a very high rate of speed, from the southeast to the northwest. It almost appeared to be like a headlight.  There was absolutely no sound.  It seemed to me to be traveling at about 500 to 700 feet above the ground. All I saw was the light.  It must have been going at least 500 m.p.h.  As far as it was above the ground it appeared to be half again the size of an automobile headlight.It seems silly to me, to report this, but I have never seen anything like this before.At first I thought maybe a star or meteorite, but it was absolutely horizontal. Just the one lone light.  No other lights like would be on a winged aircraft.  I said to myself  “what the hell was that?”  Maybe I’m losing it.I am a 68 year old married woman. My husband and I are both retired.I have completed some college.  I’m just an average person going by the rules living my life.  No history of mental illness or police record.  Just standing on my porch having a cigarette. Which by the way I do every night.  Again I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124648.html](http://www.nuforc.org/webreports/reports/124/S124648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Towson (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green sphere over I83 stops, hovers then takes off to the west.3 police officers observe large green luminous sphere move east to west stopping over 695 split on I83 then continuing west at a high rate of speed.  No sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95205.html](http://www.nuforc.org/webreports/reports/095/S95205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
