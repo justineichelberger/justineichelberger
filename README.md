@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:00 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:14:35 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Des Moines (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown, I drove past the - Unknown, I drove past the minutes.</sub><blockquote><sub>5 circular disks hovering in straight line.There were 4 objects hovering about 150 yards in the air along the west side of I 5 they were in line about a mile apart from each other.  I was going northbound past all 4 and then a 5th one flew from the east to west crossing over I-5 and then stopped.  All were the exact same.  Disk shape with square panels domed out on the bottom with white lights in vents in all all of the outer most sides of the craft.  There were red solid lights and a white light that blinked on one side and then immediately on the other side and repeated every couple of seconds.  I took a picture.  It was dark out and the picture came out all white with nothing on it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115967.html](http://www.nuforc.org/webreports/reports/115/S115967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Trenton (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still on going - Still on going minutes.</sub><blockquote><sub>Flashing lights no sound no movementRed, green, white lights flashing.; appears to be circular object; is stagnant for now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124654.html](http://www.nuforc.org/webreports/reports/124/S124654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
