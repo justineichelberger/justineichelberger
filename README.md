@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 12 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chester (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife was driving southeast on a fairly populated main side road, it was dark out side at about 6:43pm, And my wife exclaimed” falling star baby look quick!” When I looked up I saw not a falling star but a bright ball of light , one that was closer than any shooting star I have ever seen, it had a blue glow  changing into green colors of light as it fell from the sky. It fell as if falling from an invisible opening in the sky... the night was a crystal clear night sky  so no clouds or precipitation to obstruct our view and the object was closer than any I have ever witnessed before. The way the object fell was too slow to be a meteor or falling star, also noting that there was no “light trail” following behind the object as it fell. We watched it fall for about 5 seconds before it disappeared into the dark night sky somewhere close to the earth surface.  It was the strangest light; object; ufo... I have encountered and felt a duty to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151739.html](http://www.nuforc.org/webreports/reports/151/S151739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pleasantville (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dimond shaped ,very bright moving very fast across the sky.  Definitely a UFO.I just came out of my Pleasantvile Pace university campus and was waiting for the bus.I am currently doing my Masters in Computer Science.It was around 4 PM on 13th Dec 2013.  The first thing I noticed was there was a vertical smoke trail in the sky, the kind of trail which you see when a jet plane leaves behind in the sky.  And the object making the trail looked like a bright white  orb.This vertical trail I could see from the top of the sky.  The object was going vertically down to land , crash or whatever.  I waited long for it to emit a bright flash which I believe would have confirmed to me that it was probably a meteor.  While this was happening I saw something extraordinary.  Another object which appeared diamond shaped,very bright appeared and was moving horizontally near the orb moving downwards.  This diamond shaped object did not have leave any trail of any kind in the sky and appeared to be moving significantly faster than the one moving downwards.  I can not say how close these objects were to each other.  The diamond shaped object was visible for about 5-8 secs and then disappeared.  The vertically falling orb was seen for approximately 5 mins.  I tried taking a video but my smartphone could not capture it.  The objects seemed like they were very far away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105326.html](http://www.nuforc.org/webreports/reports/105/S105326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
