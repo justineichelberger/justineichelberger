@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Newton (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Triangle shaped craft 8:10 pm Eastern standard Time low flying  green, red blinking lightsI was walking home and I saw at first what looked like triangular blinking Christmas red and green lights.  Then I realized it was in the sky and I thought it was a very low flying triangular plane. We don't have a military base, and I've never seen a plane this  low flying (Apart from airport) or triangular almost Ouija shaped.  I don't believe in aliens, but this was definitely an unidentified flying object(UFO).  It hovered in the sky without a sound.I thought because of the lights I could use my iPhone,but the 4 photos I took didn't come out.  I heard a helicopter behind me, but kept looking at the weird UFO. It hovered for a minute more and then "disappeared."  Not sure  though, could have flown out of view fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95283.html](http://www.nuforc.org/webreports/reports/095/S95283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Canby (OR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately Through out the nights - Through out the nights minutes.</sub><blockquote><sub>i was peering into the sunset and right after sun was setting and the day sky started going away i would look into the southern eastern parts of the sky right befor the sky goes dark i would see these ligths in the air and then would see them fly irratic and will see them go on some type of uniform formation every night they follow the stars but wobble horrible and this will scare people when i show them these lights in the sky and can rule out sattelitles planets ect. only explsntion is the govt., not humans of this earth. I have seen these anomolies since the end of summer 2011 and the moon went sideways and red .  i have seen these star people on this day forward every clear night the brightest stars in the sky are what i see and the light does not interact like a star more like a craft. these events are happening to the closer of 12-21-2012</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85846.html](http://www.nuforc.org/webreports/reports/085/S85846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
