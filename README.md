@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a rouned craft gliding across the sky over the mountains in Southern California.I was in my car on my way for Christmas shopping. It was early morning about 11:00 am and I looked out in the distance towards the mountains and I could see a rounded craft slowly gliding across the sky. The color was like a silvery color, but it seemed to change reddish and sort of a bluish color. It slowly glided over some freeways but it was really high up. It was clearly as high as an airplane would be. But there were mountains in the background. I kept my eye on it for sometime. Um, don't worry, I wasn't driving and looking at this thing at the same time! But I kept a close on it and in a blink, it vanished. I kept my eye out for it, but it had just vanished and never returned!((NUFORC Note:  Source remains semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20888.html](http://www.nuforc.org/webreports/reports/020/S20888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I saw a greenball of light fall from the sky.I was out on my deck. I looked to the west and noticed that we had a beautiful clear sky i slowly tilted my head up to the sky  and then back to the west when i saw a green streak of light come straight down and turn into a green ball of light then it disapeared. I was realy hoping to see if someone else might have seen this as i am sure some one else should have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05129.html](http://www.nuforc.org/webreports/reports/005/S05129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
