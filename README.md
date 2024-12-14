@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:03 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:31 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in McPherson (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Second - Second minutes.</sub><blockquote><sub>Took my dogs for a walk at 0500, first step off seen a fast half way falling shooting star.  Ok cool. Later in the evening around 1900, my very intelligent 10 year old came in from walking the dogs and asked if I believed in UFO!!!  I said why, she said there were spinning yellow/green lights heading straight and fast south (I found out after she pointed ) of town!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144061.html](http://www.nuforc.org/webreports/reports/144/S144061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Diamond Shaped Object with Three Distinct Circles over Saint Louis, MO during Geminid Meteor ShowerSix of my friends, and myself stayed up late to watch the Geminid Meteor Shower.  Three of them are in my Masters program in Athletic Training at Saint Louis University;  Two were my neighbors, and one was my fiance.  Four of us, me and my 3 classmates, were laying on the concrete saw the object flying North to South.  I pointed to it the same time a second person next to me saw the object.  Two others on the concrete saw it as well, making it four observers, including myself (all in my Masters program).  It had no lights.  It did, however, have 3 visible circles in a triangular pattern, and a faint fourth circle in the back, making a diamond shape. The circles looked like, what I would describe, a suction cup.  They were dark on the edges, become lighter towards the center, and were darkest in the center.  It gave the appearance like these circles, we were seeing were cone-like, and we were seeing them from below the cone, from wide end to the tip. What could be seen on the object was only due to the reflection of the city.  It was flying at a medium speed at a lower level from North to South.  It left no trail behind the object.  There was also no sound. We had it in view for about 45 seconds.  I'm assuming it was a lower level because of the reflection of the city lights off its exterior.  What I found most intriguing was that there were no lights on the object as a plane would have on its wings.  There were no red or white lights. The only colors we could make out were shades of gray.  There was only one object.   We tried to get the other three people with us to see the objects, so we stood up, and pointed at it.  However, we lost it in the street lights as our eyes adjusted to the lights. As we went upstairs, I drew a picture of the object and asked the others if it was what they saw.  All three observers exclaimed, "YES! That's EXACTLY it!"  We did not feel threatened by it.It is important to note that each of us had had two drinks each, but were under the legal limit to drive safely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95357.html](http://www.nuforc.org/webreports/reports/095/S95357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
