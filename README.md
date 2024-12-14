@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Irvington (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>High speed rotating lights flas across the sky.Many flashes of light were seen in the vacinity of the sighting previous to appearance. once the object appeared it moved in an irregular pattern up and down with rotating lights. the actual craft was not visible but the lights were seen easily. It was moving at an incredible rate of speed. it was lost behind a row of trees and never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26607.html](http://www.nuforc.org/webreports/reports/026/S26607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Elmhurst (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>large low altitude motionless and brightly lit triangular object appearing in overcast dawn sky over Elmhurst, NYI had come home just before dawn and noticed an extremely bright object hanging motionless in the sky as I was walking in my parking area.  At first I thought it was a star or satellite but it seemed oddly low and much too bright in an overcast sky. The few stars I could detect were extremely faint in comparison.  I was transfixed by the object which dominated the sky and appeared to be triangular in shape and stood watching it for about 15 minutes. Finally, a neighbor was leaving for work and she also agreed it was an unfamiliar object. I called the FBI but I think they dismissed me as a crackpot. The weird thing is that about 11 hours later a manhole cover exploded on my street and we lost power for a little while. It's just one of those eerie feelings you sense when something is out of context in the world as we know it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60384.html](http://www.nuforc.org/webreports/reports/060/S60384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
