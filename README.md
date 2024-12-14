@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very bright white light moving diagonally to ground.Bright white light.  Looking south about 40-45 degrees up in the sky, noticed the light traveling diagonally left and down like a meteor shower but much slower.  Thought it might be a plane or helicopter crashing to the ground.  It went behind a tree and out of sight.. Fairly close, looked like about 1,000 yards away.  Went outside to see if I could hear anything, but was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137770.html](http://www.nuforc.org/webreports/reports/137/S137770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw a rouned craft gliding across the sky over the mountains in Southern California.I was in my car on my way for Christmas shopping. It was early morning about 11:00 am and I looked out in the distance towards the mountains and I could see a rounded craft slowly gliding across the sky. The color was like a silvery color, but it seemed to change reddish and sort of a bluish color. It slowly glided over some freeways but it was really high up. It was clearly as high as an airplane would be. But there were mountains in the background. I kept my eye on it for sometime. Um, don't worry, I wasn't driving and looking at this thing at the same time! But I kept a close on it and in a blink, it vanished. I kept my eye out for it, but it had just vanished and never returned!((NUFORC Note:  Source remains semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20888.html](http://www.nuforc.org/webreports/reports/020/S20888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
