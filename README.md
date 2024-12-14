@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:27 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:28 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately walking into home - walking into home minutes.</sub><blockquote><sub>I saw a floating fire ball object that stopped and hovered for a few minutes then shot off in the air, took a clear pictureI was getting out of my car very slowly to walk into the house,I stopped and looked up to the sky.  I come from new york and have recently moved down to Florida I am amazed on seeing a clear sky full of stars, accept this night there was a over cast and very few many stars out.  As I looked up i saw a bright ball of fire floating up and to left, I originally thought it was a flare or one of those lanterns that you can light and they fly away.  Until it stopped and was just hovering the clous was behind it and it was bright yellow and orange like fire, I grabbed my cell phone and took a picture of it and as soon as i took a picture it started to move slow, so I took one more shot and it shot into the sky and it was gone.  I have seen planes and helicopters my whole life. I Never seen anything do what it did that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86072.html](http://www.nuforc.org/webreports/reports/086/S86072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>MY BROTHER AND I WERE DRIVING SOUTH BOUND ON I5 ABOUT 1 1/2 MILES NORTH OF ANDERSON, CALIFORNIA.  A HUGE WHITE/BLUEISH FIREBALL WAS SEEN AT ABOUT 400-600 FEET ABOVE GROUND AND WE FOLLOWED IT BELOW THE TREE LINEAs I was driving my brother and I to work, southbound on Interstate 5, we saw a very large fireball to the south east shooting straight down in to ground.  It was very weird to see.  It started out like a small flash then as the flash stretched out downward a fire ball was forming.  I'd say it looked like 400-600 feet up when we noticed it and appeared to be about 3/4 of a mile away. It feel very slow in comparison to a meteor and appeared to look like an airplane falling out of the sky and burning, it fell that slow. It was close enough that I could see the "boiling" of the "flames" off of the fireball.  We tried to gauge the distance and size in comparisons to cars or trucks on the highway as we continued to work.  It was much bigger then a semi truck coming at you at around 3/4 mile away.  It was similar to a meteor color of white with a blueish tenge to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05138.html](http://www.nuforc.org/webreports/reports/005/S05138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
