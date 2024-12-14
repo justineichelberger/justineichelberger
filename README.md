@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Antler Lake (Canada) (AB) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>15 minute sighting of a glowing cloud which produced a beam of light. It hung in the air and several people witnessed.It was about 7:30 this December night. Not particularly cold outside. Directly north of my house, I looked up to see a mysterious, glowing cloud. It was eerie because it was cloudy that evening, slightly foggy. I was leaving the house to go to our bookmobile as we do almost every Thursday night. When I saw it, I couldn't believe that this glowing formation was real. It made no sound. The air was crisp and it carried no sound. I went running back in to call my boys to come and see, that took at least 30 seconds and it was still there when we came outside to see it. We gazed at it for at least two minutes. It looked quite close, close enough to see the shape of the light emitted from within the formation. It was oval, a long oval that wasn't defined. It was almost like, being close enough behind a curtain, that the people on the other side can see your shape, but not you. If I held me arm out at shoulder length, I would say it was the length of my thumb. Up high in the sky at about 45% angle. Low enough to see that it's close, but not so close. It looked like it could've been 1/2 away, but because of the formation and the play of light, it could be much farther away. We couldn't see what made the light. We started walking and I saw a beam come out from the top,  it stopped for a split second. Then the beam went to the 10 0'clock position. Again, paused for a slit second and then went to 8 0'clock. It paused there and moved to six o'clock. It then retraced it's steps and the beam at midnight shot back into the cloud from whence it came. It then just melted away. It was gone quickly. The beam was perpendicular all the way along. It did not seem to start out as a slit and then become a circle which becomes wider as the beam lengthened. The end of the beam being much wider than the spot from which it originates. Of course, when we got to the bus, I told at least three people what I had seen and about four of us were talking about the glow, "oh you saw it too!". Only one lady saw the beam, just the way I saw it. We knew it was otherworldly, but we thought it was weird that we couldn't figure out what had made it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16355.html](http://www.nuforc.org/webreports/reports/016/S16355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in West Covina (CA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The caller was standing on the second floor of the apartment building where they live with his two sons. Suddenly, he saw a gray, saucer-shaped object with no lights fly from "over the edge of the mountains," and fly across their heads.  the object paused for approximately 4 seconds, and then it went south in the direction of the City of Industry, where it seemed to pause again.  Then it zoomed in the direction of Walnut, CA. The object was very fast.  It could move with amazing speed.  It could stop very quickly, not like a helicopter or aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01708.html](http://www.nuforc.org/webreports/reports/001/S01708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
