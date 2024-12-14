@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:17 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I saw a greenball of light fall from the sky.I was out on my deck. I looked to the west and noticed that we had a beautiful clear sky i slowly tilted my head up to the sky  and then back to the west when i saw a green streak of light come straight down and turn into a green ball of light then it disapeared. I was realy hoping to see if someone else might have seen this as i am sure some one else should have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05129.html](http://www.nuforc.org/webreports/reports/005/S05129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three dots of lights turned into over 40 dots of lights, then, into a formation of a bird silhouette flapping its wings.This sighting took place on one of the busiest streets of the United States of America, above Las Vegas Boulevard in Las Vegas, Nevada at about 8:40PM, on December 14, 2019. The sighting was right above the Luxor Pyramid at the large beam of light. The Lights we saw were 100x brighter than that of the Luxor’s, very noticeable difference. What started off as three bright lights? We all stared and saw the lights move, and multiply. At that moment I was terrified as the lights seamed to scatter. The UFO lights moved and multiplied very  quickly, in a matter of a second, it  made the sky look like it was going to fill-up with UFO lights, as if we were going to be taken over in an invasion.  As the lights multiplied, it moved into a two rows, just like the Lubbock Lights, very uniform. Then the 40 plus lights moved into a bird formation, literally, into a silhouette formation of a large bird, it, the formation then in sync, flapped its two wings, and moved in a natural bird motion. When the flapping stopped, it then it disappeared into the Luxor Hotel Light on the strip of Las Vegas. It seemed like a helicopter was monitoring the lights. After the sighting the Helicopter was heard hovering and circling the air space, as if it were looking to the UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151683.html](http://www.nuforc.org/webreports/reports/151/S151683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
