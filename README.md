@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kamloops (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Everything started about a month ago. I and another worker seen a bright yellow light in the sky. It wasn't very high in altitude, I'd say around 1/2 mile or so. the light stayed there for hours(5-7) then dissapear. Few days later same place same light. About 2 weeks later. I asked other co-workers if they have seen anything weird around here lately. About 5 persons reported that they've seen on different occasion the same light. I dunno believe in Aliens. However, I cannot find any logical explaination. Anyway, again this week I've seen the same light, same spot. I've decided to explore and have a look. I reached the light, however it was higher than what I was expecting. about 2 miles high. Not moving. But here is the problem, when I was looking at it, the light simply dissapear the light got smaller and smaller and smaller really quick and dissapear.  Again I cannot find an explanation. Wasn't a plane for sure. Wasn't a star or satelite, not high enough. there is no mountain or phone tower around the area.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60828.html](http://www.nuforc.org/webreports/reports/060/S60828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very bright white light moving diagonally to ground.Bright white light.  Looking south about 40-45 degrees up in the sky, noticed the light traveling diagonally left and down like a meteor shower but much slower.  Thought it might be a plane or helicopter crashing to the ground.  It went behind a tree and out of sight.. Fairly close, looked like about 1,000 yards away.  Went outside to see if I could hear anything, but was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137770.html](http://www.nuforc.org/webreports/reports/137/S137770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
