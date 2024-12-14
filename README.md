@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:21 on 13 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Stopped at the light at the intersection of Highway 20 facing north from Cedar Cross Road.  An extraordinary fast moving bright white light travelling west that appeared as it could be the light on a plane, but it wasn't blinking.  Travelling horizontally low to the ground, not much above the traffic lights, too fast to be a jet.  As quickly as I called my companions attention to it, it blinked 3 times and vanished.  Brilliantly clear night sky with full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131736.html](http://www.nuforc.org/webreports/reports/131/S131736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Moscow (ID) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Startled by light while driving,very bright white and red, very low, very fast, looked like it was going to hit ground but went behind a hill.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115989.html](http://www.nuforc.org/webreports/reports/115/S115989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
