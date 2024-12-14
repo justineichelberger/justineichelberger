@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:37 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:54 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kill Devil Hills (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking at the geminids and witnessed a formationStargazing while the geminids were going on and saw a formation of lights; a triangle and a line flying in parallel from the north to the south tracked across the horizon it crossed in a matter of seconds, and had a feeling that it might've been bending light around it as if it was a single craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165853.html](http://www.nuforc.org/webreports/reports/165/S165853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tremont (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A strange sound appeared to be coming from something hovering over our house. As soon as it came it all of a sudden stopped.To start with I must explain that myself and my wife have a fan and our daughters baby swing on all night and they both create a loud and constant noise. Basically normally we don't hear anything outside unless a car drives right by the house or a fighter jet from columbus airforce flys by (maybe once aday but normally in the afternoon). We were woken up about 4:30 a.m by what at first we thought was a helicopter hovering above our house. However rather then the sound of blades cutting through the air in a high pitched manner, this was a low droning noise, but very loud. it stayed above our house for about 2-3 mins before I was fully awake and looked outside. My wife and I were greated with a light hoovering above a building on our land and then as I went outside to take a closer look it vanished. If there is anyone who knows of anyway we could shed some light on this rather strange incedent we would sleep much better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41114.html](http://www.nuforc.org/webreports/reports/041/S41114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
