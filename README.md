@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 14 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Preston (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>UFO'S VISIT CHOPTANK, MARYLAND.I saw a triangular object in the sky that appeared above me out of nowhere.  It had red, blue and white flashing lights all around it, and it had a strange crest in the center of it.  I could clearly see the shape of the craft closely resembled that of a stingray body. It hovered over my car for a few seconds and then it was gone in a flash of light.  It didn't leave any type of smoke trail or exhaust, so I ruled out airplane and it didn't look anything like a personal aircraft or helicopter, so I am convinced that what I witnessed was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124643.html](http://www.nuforc.org/webreports/reports/124/S124643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Lake Park (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3sitg over 2wks - 3sitg over 2wks minutes.</sub><blockquote><sub>I saw a ufo flap Dec. of 1993In the latter part of 1993 I had a concern in Ft.Lauderdale that required me to drive alot on Interstate I-95. As I was headed home going north on 95 between 1:30 and 2:00 am I saw "something" that was traveling at an extremly fast clip leaving a florecent green trail in the shape of a triangle and there was this orangish white light object traveling in a tight corkscrew path through the bottom middle of the triangle making a lazy "J" that was the color of a modern day streetlamp. Each side of the triangle was, at best guess, 15 to 20 miles long, and it had to have been 25 to 50 miles away from where I was. About 3 days later I was traveling down the same hwy at about the same time in the same direction when I saw what looked like a propeller from a helecopter(again florecent green)whizzing by me on my right(West)side with two more orange-white sentinals on either side of the "propeller". And about five days after that, I was getting out of my car in my apartment driveway when I saw a single orange-white sentinal light make another lazy "J" into the nightsky and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14672.html](http://www.nuforc.org/webreports/reports/014/S14672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
