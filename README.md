@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shoreline (WA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Stationary cross-shaped object flashing lightsJust stepped out for a smoke and saw what looks like cross shaped object with red, white, blue, green lights.  The lights are flashing and there doesn't appear to be any pattern to the flashing, if that makes sense.  The object appears to be a couple miles high above lake Washington.  It's not making any sound and it's not moving at all.  I tried to get a picture of it but the camera on my phone sucks.  Really weird that it's not moving.  Not making a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115984.html](http://www.nuforc.org/webreports/reports/115/S115984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Worton (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately From the year 2017 - From the year 2017 minutes.</sub><blockquote><sub>I have seen and still have them fallowing me . I have them on video hundreds they also interfere with my phone I can send you pictures and they put light that I think track me I promise .I tried to report to much and they are invisible or cloaking I need help please</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161315.html](http://www.nuforc.org/webreports/reports/161/S161315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
