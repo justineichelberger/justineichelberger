@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object was stationary then moved horizotally and away at the same time across the night skyi was standing outside looking up at the stars must have been 3 maybe 5 minutes when suddenly the star that i was looking at moved across the sky at what i would estimate to be more thatn 500 miles an hour maybe a thousand. it moved as one point of light it didnt streak like a comet or meteorite. it seemed to be moving horizontally and away at the same time. with in a second or two it was out of sight((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42162.html](http://www.nuforc.org/webreports/reports/042/S42162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Arab (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright orange sphere in southwest quadrant of sky which appeared to be at an altitude of approximately 40,000 feet close to Atlanta/Birmingham commercial traffic zone.On that evening I was outside observing the stars on this clear night when I noticed in the southwest quadrant of the sky a bright orange object (about the size of Venus) moving in an up and down motion maintaining it's vertical alignment. I rushed inside and told my family, got 2 pairs of binoculars and my family and I went out to observe. At that point the object was moving up/down and side to side for a distance of approximately 1-2 miles at each movement. My wife, son and daughter witnessed this with amazement for a period of about 10 minutes. Commercial traffic could be seen passing in close proximity of this object, however the object made no effort to "track" with the plane. I could clearly see that this object was moving by triangulating it with nearby stars in it's proximity. The object became stationary and was observed for approximately 30 more minutes noticably not maintaining horizontal alignment with nearby stars verifying it wasn't a star decending on horizon. The object seemed to pulse orange to white at higher intensities from time to time at intervals of approximately 5-10 seconds. Then suddenly the object disappeared as if to "wink out". The following night I located the same cellestial bodies for verification of the objects location and indeed the object was not there!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05377.html](http://www.nuforc.org/webreports/reports/005/S05377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
