@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Yuma (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At appro. 6:10 a.m.I noticed,in the eastern dawning sky, 2 stars(1 moving). Object was very high in the sky as I probably was seeing sunlight reflecting off said object.Quickly covered about 3 degrees across the sky, stopped and faded from view, as if going away from me.  Disappeared as if dropped in clear water and fades from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48329.html](http://www.nuforc.org/webreports/reports/048/S48329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object was stationary then moved horizotally and away at the same time across the night skyi was standing outside looking up at the stars must have been 3 maybe 5 minutes when suddenly the star that i was looking at moved across the sky at what i would estimate to be more thatn 500 miles an hour maybe a thousand. it moved as one point of light it didnt streak like a comet or meteorite. it seemed to be moving horizontally and away at the same time. with in a second or two it was out of sight((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42162.html](http://www.nuforc.org/webreports/reports/042/S42162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
