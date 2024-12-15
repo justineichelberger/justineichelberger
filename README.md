@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:26 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Burslem, Staffordshire (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>ship could be seen in clouds but vanished into open sky?During late december, in the early evening, whilst working in a cctv camera room (on the third floor). I took a break and went to the kitchen window. This gave a nice view over the town of Tunstall, looking s.west towards Stoke and the M6 motorway.I looked up into the sky where I saw the silloutte of an object shaped like this < passing behind/ through a large tumulus cloud. It was travelling about the speed of a jumbo jet, but lower (or closer and bigger. I ran to get my mobile phone , which had a built in camera. I caught the object coming to ward the end/edge of the cloud and waited for it to emerge from the cloud...It did'nt? It vanished as though the sky itself was a curtain. instead of appearing out of the cloud it dissapeared into the sky? I cursed my self for waiting.I want to investigate further? what was it? how can I find out? (there were None of the below characteristics?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57986.html](http://www.nuforc.org/webreports/reports/057/S57986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i never believed in ufo's but this changed my point of view....My Chirstmas lights went out, so i went outside to check what was had happened to them... while putting the plug back in place i noticed a light on the side of my eyes... as i looked up i tought i saw a comet... seconds later still staring at the comet... it suddenly stops in the middle of the sky basicaly on top of me... at that moment the light changed from a flaming yellish to a whitish blue color.. seconds later a white beam of light looks over the North side and moves to the North-East side very slowly and then back to the North side again... then all lights go off... seconds later a tiny blue light starts glowing in the same place and growns into a bigger dot... the ufo moves a little to the South and blasts to the North leaving a thin white line across the sky for 5 seconds... *note* (all happened with no sounds at all)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54013.html](http://www.nuforc.org/webreports/reports/054/S54013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
