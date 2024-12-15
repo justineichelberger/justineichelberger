@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warrington (Warrington) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Silent craft flew overhead at extremely high speed. Craft seemed to be made of light or was glowing brightly.Bright light ball of light flew silently over head whilst cycling home. Moved so quickly that it was gone within a second and out of sight. Was moving below 3000 feet at a rough guess, too large and bright to be a shooting star, and if it had been a falling comet it would of displayed a tail, created noise, and caused an impact however none of the above were present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165864.html](http://www.nuforc.org/webreports/reports/165/S165864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object was stationary then moved horizotally and away at the same time across the night skyi was standing outside looking up at the stars must have been 3 maybe 5 minutes when suddenly the star that i was looking at moved across the sky at what i would estimate to be more thatn 500 miles an hour maybe a thousand. it moved as one point of light it didnt streak like a comet or meteorite. it seemed to be moving horizontally and away at the same time. with in a second or two it was out of sight((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42162.html](http://www.nuforc.org/webreports/reports/042/S42162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
