@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:01:07 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:06 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mabton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>13 moving objects high angle N E Mabton, WA, observer for several minutes.  Pictures taken.13 objects appeared NE of Mabton, Washington, at a high angle in the direct of Richland, WA, and the Hanford Reservation.  Objects traveled in 2 groups counterclockwise and were observed for several minutes in the northern sky.  3 pictures were taken.  Sent for development.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116066.html](http://www.nuforc.org/webreports/reports/116/S116066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dalzell (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>One bright, white, and massive craft moving faster than anything I have seen, moved soundless, over central Illinois. Two witnesses.It was a little past 9 pm, late December of 2012.  Me and a good friend were walking though our small town.  My friend is a skeptic of this sort of thing. All of a sudden he slows a down to stop and says, 'look at that'. I looked up, and could barely process what I had just seen. It was a massive, bright, white, and fast moving object. Rectangular in shape. And moving at hundreds of mph!  One of the many things that hit me about this craft, was it appeared to be moving right over our town, and low, at an unimaginable speed, yet it never made one sound. I would say it was the size of a football field, at least.  And then it just disappeared into the clouds. I tried to ask my skeptic friend why couldn't this by some plane, (even though I pretty much knew what it had to be). He said, 'um because it was going a million mph'!! One thing is for sure, I will never forget that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96643.html](http://www.nuforc.org/webreports/reports/096/S96643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
