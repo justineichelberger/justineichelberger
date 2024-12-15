@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longwood (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 lights in a chevron shape.I was driving down my street, when I looked up and saw 6 blazing balls in a V shape.  I was near my home so I ran inside and got my boyfriend who also saw the lights, but they were dimming and had moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115977.html](http://www.nuforc.org/webreports/reports/115/S115977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Richmond (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>rainbow lighting travelled around the objectI had just left my girlfriends apartment on Minoru Bvld.and was cutting through Minoru Park when I saw what I thought was a low flying plane over the running track.It had what appeared to be red and green flashing nav. lights on it. I then realized it wasn't moving but thought it must be a helicopter.It was in the direct path of my shortcut and as I got closer I realized it was completly silent. As I got a little closer I discoverd that the red and green lights were actually one light traveling very fast around a circuler object. The light changed though the entire spectrum appearing on the left side as green then rainbowing to the right very quickly and disapearing as a red flash. The light travelled so fast that from a distance you only saw the the green appear then the red go out. Eventually I walked directly below the object and could see the light travelling clockwise in a perfect circle. I was a UFO nonbeliever at the time but I knew this was no normal aircraft. It was about this time that the object started to zip around the sky doing imposible precise turns of 90 degrees and more. After 10 seconds or so of this it suddenly streaked to the southern horizen and started to follow an airliner. I picked up my pace but only made it about another 200yds. before the object sreaked back and stopped right over my head. I was right behind the backstop of a baseball diamond and I remember clutching the screen with both hands and swearing and threatening the thing as loud as I could scream.I thought that if I put up enough fuss "THEY" would leave me alone. It then began to zip around the sky at extreme speed and I turned and ran faster than I could to a friends house about 150yds. away. I hid in a hedge and sure enough it returned and cruised about slowly near where I was hidden for about 20 seconds[ which seemed like an hour ] then shot straight up till it disappeared. As terrified as I was I remember thinking I wish it would come back. I also remember saying to myself that I'll never believe this really happened so I swore to myself to remember that exact thought.What makes it harder to believe is that it was there again the next night at 17:30.((NUFORC Note:  Date is approximate</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28825.html](http://www.nuforc.org/webreports/reports/028/S28825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
