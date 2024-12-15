@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately passing - passing minutes.</sub><blockquote><sub>Coming home from a board meeting I saw a black triangle over a house in my neighborhood. I slowed, turned off my radio, rolled down my window - it was silent about the size of the roof of a standard 1,500 sq. ft. home. On each tip there was a dim light. The object was low.I was on a trip when a young man mentioned seeing a triangle-shaped ship in Columbia/Waterloo, Illinois. I hadn't mentioned my sighting, so I asked him questions and he described what I had seen. He was on Route 3 on his way to work. The timing was the same time of year.END PS: A couple who are friends of mine witnessed a giant ship over the Lake of the Ozarks along with their two sons. He stated that the ship was gian, cigar-shaped, silent and moved very slowly over the lake - they witnessed this from a balcony of the place where they were staying (hotel/condo?). They said that the ship slowly turned and then shot away at extraordinary speeds. Also, they said that some of the lights were intensely bright.Thank You for your service.((NUFORC Note:  Witness indicates approximate date.  We have assigned an arbitrary date above, to conform to the statement, "Winter '01."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61680.html](http://www.nuforc.org/webreports/reports/061/S61680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Warrington (Warrington) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Silent craft flew overhead at extremely high speed. Craft seemed to be made of light or was glowing brightly.Bright light ball of light flew silently over head whilst cycling home. Moved so quickly that it was gone within a second and out of sight. Was moving below 3000 feet at a rough guess, too large and bright to be a shooting star, and if it had been a falling comet it would of displayed a tail, created noise, and caused an impact however none of the above were present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165864.html](http://www.nuforc.org/webreports/reports/165/S165864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
