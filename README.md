@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Northridge (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>This is how the UFO Appeared/The craft was grey shaped. It traveled from Southwest to Northeast.  Was very slow moving, didnt make any noice and was shaking a lot as if it had lots of turbulence.  It is not human !!!  It went into the clouds or even higher (possibly into space).  When that happened it became hazzy and you can see a very faint light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26628.html](http://www.nuforc.org/webreports/reports/026/S26628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Whooshing Sphere with red lights and a white search light at the bottom.I was in bed about to fall asleep when I heard a whooshing sound, I jumped from bed moved the blinds in the window aside and saw a somewhat clear sphere that had red lights at the bottom.  The sphere was zipping around really fast back and forth like it was looking for something then it stopped at my window as it knew I was looking at it, a bright white light like a spot light that was inside at the bottom of the sphere spun around and shone in my eye.  It felt like the light only shone in my left eye which felt uncomfortable by the brightnest of the light, and evey time I think about it I feel the uncomfort in my left eye.  I immediately closed my eyes, yelled and fell to the floor I peeped threw the blinds and saw that the object was gone.  I remember it made a humming sound the whooshing sound came from it zipping back and forth as in a hurry.  I wish I could have got a picture or video of it because no one believe me do to prior encounters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144573.html](http://www.nuforc.org/webreports/reports/144/S144573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
