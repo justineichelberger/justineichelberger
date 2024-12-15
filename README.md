@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:33 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:43 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hazelton (17 Km north) (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Update -  Object viewed for 3-4 minutes - Not a Satellite.Update for the Hazelton, B.C. -  17 Km north for December, 2002.Hello to you Brian, Thank you for your prompt reply.  When I reflect to that time of this sighting I would say that as the satellite appeared from behind nine mile mountain from Kispiox Valley, it was in front of Roche de Boule mountain with Hazelton down below.  It looked like it was flying due west.  There was no sound.  Then it made an L-shaped turn north where it looked like it slowed around Kispiox Village ( for maybe 30 seconds ) at which time I was seeing it through the binoculars. It was not that high up. And still no sound.  As soon as it was exactly west of me I watched with the eyes until it was behind the trees.  This was all within about 3-4 minutes total at the most.We have the jets going to Alaska around 11:30 am which are very high up. Also they come from the southeast and go right over the house here and leave the Kispiox Valley heading in a northwestern straight line.So that is why I thought maybe a satellite because of its unusual flight pattern, almost as thought it was going to Terrace, then decided to head up the Kispiox Valley on the western side of the valley.I appreciate your interest in this matter.  Thank You for time((NUFORC Note:  We express our gratitude to Brian Vike, Director of the Houston, British Columbia, Canada UFO Research organization, for sharing this report.  We encourage other witnesses to the same event to contact Mr. Vike directly at the following e-address:  <hbccufo@telus.net>   His website homepage for Canadian reports, or ordering his newsletter,  is:<http://www.geocities.com/hbccufo/home.html>     All the British Columbia UFO reported sightings to HBCC UFO Research can be found at:<http://www.geocities.com/ufologia_canadiana/BC2002sightings.html>PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28168.html](http://www.nuforc.org/webreports/reports/028/S28168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Successive bright amber lights lighting up in a rowAs I was driving home from dropping my daughter at Volleyball practice in Gilbert, AZ, while driving east on Germann Rd near Higley Rd, I saw lights, about 2 miles up, directly over Phoenix Mesa Gateway Airport (KIWA.)  The lights successively lit up from right to left with a bright amber points of light.  I believe there were about 6 of them.  After each light lit up and the one next to it lit up, it would go dim and disappear.  After arriving home around 7:15pm, I immediately called the Airport's "Aviation Services, fixed base operations," and the lady that answered the phone said that they just heard the tower address the lights and nobody knows what they were or how they ended up directly above runway 12R-30L.  She said it was very strange, but had no explanation.  I am an aviation enthusiast and am very familiar with anomalies in the skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124707.html](http://www.nuforc.org/webreports/reports/124/S124707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
