@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:17 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:22 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Otay Mesa (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Co-worker and I (and confirmed with security guard 5 miles away at jobsite) saw a blue and green light just appear in sky above Otay Mesa/Mexico (beautiful blue light on left beautiful emerald green light on right).  The bright green light got brighter and brighter, and object took off in the south west direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125330.html](http://www.nuforc.org/webreports/reports/125/S125330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shoreline (WA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Stationary cross-shaped object flashing lightsJust stepped out for a smoke and saw what looks like cross shaped object with red, white, blue, green lights.  The lights are flashing and there doesn't appear to be any pattern to the flashing, if that makes sense.  The object appears to be a couple miles high above lake Washington.  It's not making any sound and it's not moving at all.  I tried to get a picture of it but the camera on my phone sucks.  Really weird that it's not moving.  Not making a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115984.html](http://www.nuforc.org/webreports/reports/115/S115984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
