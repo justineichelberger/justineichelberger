@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:22 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrollton (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 Lights In Northern Kentucky SkyWhile driving tonight noticed this event. In the western sky i saw 3 lights tonight.One was a plane high in the sky and 2 others were a brite lights white/yellow color lights.There was plane was moving west to east that had visible red/green nav lights i could see flashing, the other brightly lit objects did not. What was so unusual about the other 2 odd lights is that one stayed low n left to the plane while the plane was moving west to east.One light dipped quickly to the horizon then moved staight, in a line, slowly across the horizon line to the from the westline to the north line appox 40 deg.From 270 deg W to 310 deg W.There were 2 planets in the western sky that i notice for refeance that were in the background while i was observing the event. Mars & Jupiter?  I stopped, pulled over to look out the window without being behind glass in the car, and i still saw the lights in the sky.I pulled in my drive, went in, and went back inside, nothing to see in western sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60414.html](http://www.nuforc.org/webreports/reports/060/S60414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>It did not look of this worldObject was dancing in a clear sky and did not look like a plane or any other know celestial body. It was changing colors while rotating rapidly and looked like it was keeping it’s distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165890.html](http://www.nuforc.org/webreports/reports/165/S165890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
