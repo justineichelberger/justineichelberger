@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Jackson (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A cone shaped light hovered for about three minutes then disappeared.A cone of light flew in an eractic pattern stopped and hovered for about three minutes.The light faded and a cigar shapped object was visable for about five seconds.It had one red and one blue light neither of which blinked.It made no sound.The light returned briefly and the object disappeared.((NUFORC Note:  Missile launch from Wallops Island, VA.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54061.html](http://www.nuforc.org/webreports/reports/054/S54061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Longview (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-colored diamond shaped objects.There were 2 orange tented glowing objects in the sky above my house.  They were hovering atop of one another very close.  One of the ufo's seemed much bigger than the others.  The 2 ufo's slowly disappeared and another one appeared as soon as the other 2 were gone.  The 3rd ufo hovered just the same and looked like the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116061.html](http://www.nuforc.org/webreports/reports/116/S116061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
