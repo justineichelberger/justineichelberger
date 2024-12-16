@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pineville (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw a circular object that had white and red lights in my backyard over the trees it was so scary I ran and it seemed to follow me until I got inside and when I looked out of the window it was gone it also had clouds around it and it is a clear night and it was so low to the ground that it looked so close I also heard a humming noise but at first I seemed drawn to it it was black with the lights and about the size of two trucks.  It was scary it followed me!!  Im too scared to walk outside please help!!((NUFORC Note:  We spoke via telephone with the source of the report, and she assured us that the report is accurate, and that she would submit a second, and more detailed, report.  We have not received the second report.  We wonder whether the report is intended as a serious-minded description of a real event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124723.html](http://www.nuforc.org/webreports/reports/124/S124723.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manhattan (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A cluster of bright white lights sat in the sky until they moved away from one another in a hovering fashionI was outside of my house on my porch when I saw the UFOs in the West/Northwest skyline over a tree line.  The objects were bright white lights that seemed to flicker a green color every so often, but mainly looked white.  They seemed to sit in the sky without moving until they glided outward from one another in a fashion that I have never seen any other flying object copy.There were at least five objects that I saw.  Eventually they all seemed to have vanished and I and the rest of the onlookers had given up on trying to spot them.  After this I immediately called the hot line.Then about ten to five minuets after the disappearance of the objects, I went back outside to look again.  And there they were (seemed like less than before) spread across the tree line.  I then tried to drive and get closer to the objects but I had lost sight of them during my drive.  That is the extent of my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85892.html](http://www.nuforc.org/webreports/reports/085/S85892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
