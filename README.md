@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tampa/Leesburg (between) (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 discs along I-75While driving from Tampa to Leesburg along interstate 75, somewhere in pasco county, my cousin and I witnessed 5 saucer like discs scattered along a section of the highway. None more than 75ft from the ground. One was directly in the road and we drove right under it and it didn't move nor did anything happen with us or the truck. 2nd craft was to our right in an open field just hovering the same as the first.A 3rd craft was on the oncoming traffic side of the highway moving away slowly while a 4th was coming towards us but on the opposite side of the highway.. the 5th craft could barely be seen between the trees on the opposite side of the road.All crafts were displaying thousands of multi-colored lights on their underside, flashing at different speeds and no pattern. They seemed to be searching for something... We witnessed them from about 3miles away until we drive under and kept going. I couldn't stop, as my cousin wouldn't let me;  behind us was another car and a semi truck a little further behind.The sighting was in an area where there was no houses or infrastructure only cleared land Manuel for cattle. So I don't know what the town was, but I'm sure we were going through pasco county.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83624.html](http://www.nuforc.org/webreports/reports/083/S83624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coleman (near) (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Near Coleman, TX... Orange lights off and on, with no soundOn the nights of Dec 15 and 16 we witnessed very strange orangish lights. While night hunting in rural Runnells County on the 15th I saw them only once and then on the 16th my son and I saw them as many as 8 different times between 630 pm and 730 pm.  The lights were at a low angle, approximately 30 degrees.  The lights were circular and would come on and go off and then another would come on in a different location.  It happened fast enough and over a distance large enough that it could not have been a plane.   We never saw the lights move, they only came on went off and then reappeared in another location. The lights were very bright, much brighter and larger than a star and even much brighter than Venus. It was hard to tell the distance, however they were below 30,000 ft as they were underneath the Cirrus  Toward the end of the sightings we noticed what seemed t! o be an increased number of aircraft flying into the area we had been seeing the lights. I’m a Meteorologist and have watched the skies for many years with a discerning eye and I’ve never seen anything like those lights before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79295.html](http://www.nuforc.org/webreports/reports/079/S79295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
