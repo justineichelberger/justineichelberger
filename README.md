@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manhattan (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A cluster of bright white lights sat in the sky until they moved away from one another in a hovering fashionI was outside of my house on my porch when I saw the UFOs in the West/Northwest skyline over a tree line.  The objects were bright white lights that seemed to flicker a green color every so often, but mainly looked white.  They seemed to sit in the sky without moving until they glided outward from one another in a fashion that I have never seen any other flying object copy.There were at least five objects that I saw.  Eventually they all seemed to have vanished and I and the rest of the onlookers had given up on trying to spot them.  After this I immediately called the hot line.Then about ten to five minuets after the disappearance of the objects, I went back outside to look again.  And there they were (seemed like less than before) spread across the tree line.  I then tried to drive and get closer to the objects but I had lost sight of them during my drive.  That is the extent of my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85892.html](http://www.nuforc.org/webreports/reports/085/S85892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Almost every other night, there will be 1-3 ufo's spotted from my balcony.  I have videos and pictures.  At first it will appear like a bright star and will twinkle.  As the night progresses it will then get larger and will become more round and will have flashing red and blue lights around the  circumference.  The object at times will move very subtle but most of the time will show up in the same place each time.((NUFORC Note:  We have requested that the source of the report share the photos with our Center, but have not seen them yet.  We suspect a possible sighting of Sirius in the southeastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124726.html](http://www.nuforc.org/webreports/reports/124/S124726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
