@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:59 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:32 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cylindrical object flying slowly north to south at arox 2000 ft, we (two of us) watched until it disappeard over the san gabriel mountains we could not see any wings or tail section lots of other air traffic as we are under L.A. international airport glide path.my friend said it was a fast moving blimp (denial)((NUFORC Note--This is an anonymous report.  No contact data was provided by the person who submitted the report.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11407.html](http://www.nuforc.org/webreports/reports/011/S11407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Plantation Key (FL) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was 11:33 PM on Wednesday 12/16/98 on our way home from Miami to Marathon Florida.  At about 89 mile marker,my wife said : Do you see that? She was looking out the very right side of the windshield. When she first saw the object it was very white and very bright. It was not as brilliant when i first saw it in the middle of the windshield. At first I thought it to be an airplane in trouble with it landing lights on , but what was troubling is that it looked like the lights were reflecting in a cloud or fog. It seemed to be coming more towards us,then started moving across our windshield to the left. A tractor trailer has stopped at the side of road and I pulled up ahead.I turned off teh engine and got out to see if we could hear engines,we heard nothing. It kept on going and it looked like it separated into at least 8 to 10 small white lights going in the same direction. My first thought was formation aircraft,then everything went dark over the ocean.I might add that it was very large and would think it was at an allitude of about 1 to 3 thoudsand feet. The dirction of travel was from northwest to southeast and then northeast when it disappeared. The night was clear cool, stars were out about 62 degrees. I will try to illustrate and mail to you a drawing of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05181.html](http://www.nuforc.org/webreports/reports/005/S05181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
