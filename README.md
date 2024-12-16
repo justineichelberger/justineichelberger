@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:59 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alabaster (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>3 orange orbs, moving like one solid object.  Visible for many minutes.  No noise at all.I reported this info to another site and saw your article in the Shelby County Reporter.  So I’m forwarding this to you.  I have worked at airports my entire working career and have seen all types of aircraft.  This event was stunning and highly unusual.Just before work around 10 pm, I went outside and observed 3 orange orbs moving closer to my location.  It caught my eye immediately.  They appeared to be in formation, but as it got closer, it turned.  It appeared the objects where in unison and possible the outer edges of a larger object.  I ran inside and got my spouse without saying anything.  We observed the orbs several minutes and tried to take several pictures.  The camera would not focus on object through the trees, winter time.  I then ran back in the house and got my daughter and her friend without saying anything.  They were stunned.  She got in her vehicle to follow the object but did not have success.  The orbs moved in from the northeast and turned east before going out of sight.  Absolutely no noise at all.  Objects moving against the prevailing wind and did not appear to change height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138913.html](http://www.nuforc.org/webreports/reports/138/S138913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cylindrical object flying slowly north to south at arox 2000 ft, we (two of us) watched until it disappeard over the san gabriel mountains we could not see any wings or tail section lots of other air traffic as we are under L.A. international airport glide path.my friend said it was a fast moving blimp (denial)((NUFORC Note--This is an anonymous report.  No contact data was provided by the person who submitted the report.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11407.html](http://www.nuforc.org/webreports/reports/011/S11407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
