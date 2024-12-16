@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:32 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:23 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Plantation Key (FL) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was 11:33 PM on Wednesday 12/16/98 on our way home from Miami to Marathon Florida.  At about 89 mile marker,my wife said : Do you see that? She was looking out the very right side of the windshield. When she first saw the object it was very white and very bright. It was not as brilliant when i first saw it in the middle of the windshield. At first I thought it to be an airplane in trouble with it landing lights on , but what was troubling is that it looked like the lights were reflecting in a cloud or fog. It seemed to be coming more towards us,then started moving across our windshield to the left. A tractor trailer has stopped at the side of road and I pulled up ahead.I turned off teh engine and got out to see if we could hear engines,we heard nothing. It kept on going and it looked like it separated into at least 8 to 10 small white lights going in the same direction. My first thought was formation aircraft,then everything went dark over the ocean.I might add that it was very large and would think it was at an allitude of about 1 to 3 thoudsand feet. The dirction of travel was from northwest to southeast and then northeast when it disappeared. The night was clear cool, stars were out about 62 degrees. I will try to illustrate and mail to you a drawing of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05181.html](http://www.nuforc.org/webreports/reports/005/S05181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wandering lights in the sky over Charlottesville, VASeveral flying lights were seen by three persons. The lights changed in color and intensity, although luminosity was maintained at comparable brightness to stars in the vicinity, over the course of the half hour in which they were seen, the objects also meandered across the sky, going various directions at most times, while stopping and staying still for more than five minutes at a time. The first light was observed heading SW, then NW, then N, then back to the south, and so on. Eventually, three of the objects made a triangular formation. Several attempts were made at photographic evidence, but the cameras in use were not powerful enough to pick up the lights clearly.  At some points, the lights moved fast enough to leave behind a slight tail of disturbance in the atmosphere. Several commercial planes were observed in the vicinity of some of the objects, but distance was not able to be judged without better instrumentation to be able to determine how close the planes were to the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60424.html](http://www.nuforc.org/webreports/reports/060/S60424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
