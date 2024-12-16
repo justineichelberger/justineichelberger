@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>It did not look of this worldObject was dancing in a clear sky and did not look like a plane or any other know celestial body. It was changing colors while rotating rapidly and looked like it was keeping it’s distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165890.html](http://www.nuforc.org/webreports/reports/165/S165890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>loud explosions by white star like lightI heard several loud explosions with the same interval of time between each. I went out on the porch and observed a white light which looked like a star. It was hard to judge it's distance but it exploded every 3-4 seconds and dimmed.I was looking east towards Santa Clara along Evelyn Ave.This same phenomena also happened on Feb. 7th 1991. This time at 22:30 (approx.) After 15-20 minutes a C-141 came from the north and flew around the area. I talked to a 7-11 cashier closer to the event who jumped under the counter he was so scared, this was several days later. Probably police reports filed on this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04500.html](http://www.nuforc.org/webreports/reports/004/S04500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
