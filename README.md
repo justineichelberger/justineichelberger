@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coleman (near) (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Near Coleman, TX... Orange lights off and on, with no soundOn the nights of Dec 15 and 16 we witnessed very strange orangish lights. While night hunting in rural Runnells County on the 15th I saw them only once and then on the 16th my son and I saw them as many as 8 different times between 630 pm and 730 pm.  The lights were at a low angle, approximately 30 degrees.  The lights were circular and would come on and go off and then another would come on in a different location.  It happened fast enough and over a distance large enough that it could not have been a plane.   We never saw the lights move, they only came on went off and then reappeared in another location. The lights were very bright, much brighter and larger than a star and even much brighter than Venus. It was hard to tell the distance, however they were below 30,000 ft as they were underneath the Cirrus  Toward the end of the sightings we noticed what seemed t! o be an increased number of aircraft flying into the area we had been seeing the lights. I’m a Meteorologist and have watched the skies for many years with a discerning eye and I’ve never seen anything like those lights before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79295.html](http://www.nuforc.org/webreports/reports/079/S79295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrollton (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 Lights In Northern Kentucky SkyWhile driving tonight noticed this event. In the western sky i saw 3 lights tonight.One was a plane high in the sky and 2 others were a brite lights white/yellow color lights.There was plane was moving west to east that had visible red/green nav lights i could see flashing, the other brightly lit objects did not. What was so unusual about the other 2 odd lights is that one stayed low n left to the plane while the plane was moving west to east.One light dipped quickly to the horizon then moved staight, in a line, slowly across the horizon line to the from the westline to the north line appox 40 deg.From 270 deg W to 310 deg W.There were 2 planets in the western sky that i notice for refeance that were in the background while i was observing the event. Mars & Jupiter?  I stopped, pulled over to look out the window without being behind glass in the car, and i still saw the lights in the sky.I pulled in my drive, went in, and went back inside, nothing to see in western sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60414.html](http://www.nuforc.org/webreports/reports/060/S60414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
