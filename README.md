@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fairfax (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Almost every other night, there will be 1-3 ufo's spotted from my balcony.  I have videos and pictures.  At first it will appear like a bright star and will twinkle.  As the night progresses it will then get larger and will become more round and will have flashing red and blue lights around the  circumference.  The object at times will move very subtle but most of the time will show up in the same place each time.((NUFORC Note:  We have requested that the source of the report share the photos with our Center, but have not seen them yet.  We suspect a possible sighting of Sirius in the southeastern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124726.html](http://www.nuforc.org/webreports/reports/124/S124726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hana (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Moving light chasing the ISS (?) and another falling from the Sky...What looked like the ISS space station at a low altitude was cruising across the sky at a pretty fast pace but there was another smaller craft that was also lit up but not as bright that was clearly following it and gaining on it.  It was getting closer to the larger possible ISS before they both disappeared behind the trees.  I was looking in an East direction towards the ocean.  This happened over the Lauhala forest between me and the sea when I saw it.  Neither had blinking lights.  But then out of nowhere another light started falling from the sky like a falling star from the recent meteor shower but then it started getting very bright glowing a brilliant white light and huge!  Then it got smaller and dimmer and dimmer and then appeared to start moving in a parallel direction the north and kept going. It never burned out and then it too disappeared over the trees.  The cows were going crazy mooing loud and non stop during this event and have since stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137827.html](http://www.nuforc.org/webreports/reports/137/S137827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
