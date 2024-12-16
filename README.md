@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hana (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Moving light chasing the ISS (?) and another falling from the Sky...What looked like the ISS space station at a low altitude was cruising across the sky at a pretty fast pace but there was another smaller craft that was also lit up but not as bright that was clearly following it and gaining on it.  It was getting closer to the larger possible ISS before they both disappeared behind the trees.  I was looking in an East direction towards the ocean.  This happened over the Lauhala forest between me and the sea when I saw it.  Neither had blinking lights.  But then out of nowhere another light started falling from the sky like a falling star from the recent meteor shower but then it started getting very bright glowing a brilliant white light and huge!  Then it got smaller and dimmer and dimmer and then appeared to start moving in a parallel direction the north and kept going. It never burned out and then it too disappeared over the trees.  The cows were going crazy mooing loud and non stop during this event and have since stopped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137827.html](http://www.nuforc.org/webreports/reports/137/S137827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Colton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>UFO Sighting in Inland Empire Sky. Flying Saucer Like Object With Blinking Lights Around It.My friend’s father was giving me a ride and it was around 9:20 pm when my friend’s mother (also in car) noticed an unknown lighted object in the sky towards west.  There were 5 people in the car including me, and we all saw the unknown object in the sky.  It was shaped like a flying saucer with blinking lights around it. It was hovering still for the 20 seconds that we got to see it.  I knew it was not an airplane because near it was an airplane and it was much smaller and the lights were different, the ufo looked bigger and closer.  We lost view of it because we were driving. We reached the house, which was not that far from the place we sighted it.  When we got out of the car to take a look it was not there anymore.  My friend’s mother went in the house and drew a picture of what she saw and it matched what we all saw.  The next day I told my food friend about my sighting and she told me that her friend also saw an unidentified flying object last night.  Her frien! d’s description matched mine and we both saw it at around the same time.  It was very noticeable and I’m pretty sure there must be a good amount of people who saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73714.html](http://www.nuforc.org/webreports/reports/073/S73714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
