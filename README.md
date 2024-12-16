@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:50 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Sunnyvale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>loud explosions by white star like lightI heard several loud explosions with the same interval of time between each. I went out on the porch and observed a white light which looked like a star. It was hard to judge it's distance but it exploded every 3-4 seconds and dimmed.I was looking east towards Santa Clara along Evelyn Ave.This same phenomena also happened on Feb. 7th 1991. This time at 22:30 (approx.) After 15-20 minutes a C-141 came from the north and flew around the area. I talked to a 7-11 cashier closer to the event who jumped under the counter he was so scared, this was several days later. Probably police reports filed on this one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04500.html](http://www.nuforc.org/webreports/reports/004/S04500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Guadalajara, Jalisco (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>5 huge ufos along the highway make the vehicles shakeMy sister was coming home at that hour from the town of Tlajomulco de Zuniga, you know that this state, Jalisco, is one of the 2 with more sightings in the country, like the case of the 300 objects that appeared a year ago over the city but that's another case (we have pics too).Well my sister was coming when she saw something through the left window of her pickup, it was a huge round, flat thing with rows of red, blue and yellow lights that was passing slowly at the left of her, it was so big that she describes as having the size of an apple (block of homes), behind the object 2 more were coming and at the other side of the highway 2 more, a total of 5 huge huge saucers.My sister and her friend who was driving behind her stopped ahead in the way, along with other people who also stopped, and took pics, she took several pics.Oh, I forgot to mention that at some moment the ufo crossed over the highway, at that moment my sister's pickup started to shake and losing control, everything messed, but she stepped on to avoid the vehicle of freezing or turning off. She came home later and was shaking in a state of shock.This happened last friday dec. 15th, but also saturday, my sister was coming back not that late, but earlier, from the same town and saw the objects again but were at a greater distance this time, she still took more pics that will transfer to me later.She estimated the altitude of the objects in 50 meters and the size in 100 meters diameter. We have lived so many cases that this is just one more, This state is the hottest for ufo events in the country.((NUFORC Note:  Date indicated by witness is flawed.  We have assigned the date of December 16, which is the date we think she may have intended to indicate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54052.html](http://www.nuforc.org/webreports/reports/054/S54052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
