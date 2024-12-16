@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Colton (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>UFO Sighting in Inland Empire Sky. Flying Saucer Like Object With Blinking Lights Around It.My friend’s father was giving me a ride and it was around 9:20 pm when my friend’s mother (also in car) noticed an unknown lighted object in the sky towards west.  There were 5 people in the car including me, and we all saw the unknown object in the sky.  It was shaped like a flying saucer with blinking lights around it. It was hovering still for the 20 seconds that we got to see it.  I knew it was not an airplane because near it was an airplane and it was much smaller and the lights were different, the ufo looked bigger and closer.  We lost view of it because we were driving. We reached the house, which was not that far from the place we sighted it.  When we got out of the car to take a look it was not there anymore.  My friend’s mother went in the house and drew a picture of what she saw and it matched what we all saw.  The next day I told my food friend about my sighting and she told me that her friend also saw an unidentified flying object last night.  Her frien! d’s description matched mine and we both saw it at around the same time.  It was very noticeable and I’m pretty sure there must be a good amount of people who saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73714.html](http://www.nuforc.org/webreports/reports/073/S73714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pico Rivera (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cylindrical object flying slowly north to south at arox 2000 ft, we (two of us) watched until it disappeard over the san gabriel mountains we could not see any wings or tail section lots of other air traffic as we are under L.A. international airport glide path.my friend said it was a fast moving blimp (denial)((NUFORC Note--This is an anonymous report.  No contact data was provided by the person who submitted the report.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11407.html](http://www.nuforc.org/webreports/reports/011/S11407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
