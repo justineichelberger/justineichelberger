@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 15 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i never believed in ufo's but this changed my point of view....My Chirstmas lights went out, so i went outside to check what was had happened to them... while putting the plug back in place i noticed a light on the side of my eyes... as i looked up i tought i saw a comet... seconds later still staring at the comet... it suddenly stops in the middle of the sky basicaly on top of me... at that moment the light changed from a flaming yellish to a whitish blue color.. seconds later a white beam of light looks over the North side and moves to the North-East side very slowly and then back to the North side again... then all lights go off... seconds later a tiny blue light starts glowing in the same place and growns into a bigger dot... the ufo moves a little to the South and blasts to the North leaving a thin white line across the sky for 5 seconds... *note* (all happened with no sounds at all)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54013.html](http://www.nuforc.org/webreports/reports/054/S54013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alabaster (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>3 orange orbs, moving like one solid object.  Visible for many minutes.  No noise at all.I reported this info to another site and saw your article in the Shelby County Reporter.  So I’m forwarding this to you.  I have worked at airports my entire working career and have seen all types of aircraft.  This event was stunning and highly unusual.Just before work around 10 pm, I went outside and observed 3 orange orbs moving closer to my location.  It caught my eye immediately.  They appeared to be in formation, but as it got closer, it turned.  It appeared the objects where in unison and possible the outer edges of a larger object.  I ran inside and got my spouse without saying anything.  We observed the orbs several minutes and tried to take several pictures.  The camera would not focus on object through the trees, winter time.  I then ran back in the house and got my daughter and her friend without saying anything.  They were stunned.  She got in her vehicle to follow the object but did not have success.  The orbs moved in from the northeast and turned east before going out of sight.  Absolutely no noise at all.  Objects moving against the prevailing wind and did not appear to change height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138913.html](http://www.nuforc.org/webreports/reports/138/S138913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
