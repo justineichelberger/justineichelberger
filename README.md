@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:15:23 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wandering lights in the sky over Charlottesville, VASeveral flying lights were seen by three persons. The lights changed in color and intensity, although luminosity was maintained at comparable brightness to stars in the vicinity, over the course of the half hour in which they were seen, the objects also meandered across the sky, going various directions at most times, while stopping and staying still for more than five minutes at a time. The first light was observed heading SW, then NW, then N, then back to the south, and so on. Eventually, three of the objects made a triangular formation. Several attempts were made at photographic evidence, but the cameras in use were not powerful enough to pick up the lights clearly.  At some points, the lights moved fast enough to leave behind a slight tail of disturbance in the atmosphere. Several commercial planes were observed in the vicinity of some of the objects, but distance was not able to be judged without better instrumentation to be able to determine how close the planes were to the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60424.html](http://www.nuforc.org/webreports/reports/060/S60424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver cigar shaped object with no wings that stopped and changed direction in mid-airHeading North on I-85 in Anderson County (near the Channel 4 Doppler Radar tower) I noticed a silver cigar shaped object in the North-Eastern sky (which was to my right while driving). There were a few cirrus clouds and mostly sunny. The object appeared to be moving North and I was gaining on it slightly. Then it started to turn slowly towards the West then South West and crossed over the interstate in front of me. I looked closely for wings but never spotted any even while it was turning. The sun reflected off the object. It finally came to a complete stop to my left. I stopped my car and watched it for several minutes. Finally, it started moving again in a South-South Western direction as if it were headed towards the mountains of GA. It took the object only about 20 seconds to go from it's stopped position to a small dot in the sky. I can only speculate at the distance. From where I was standing/driving the object appeared to be the size of my pinky fingernail. It was long and slinder but slightly oval. Clearly not a plane (no wings), not a balloon (too slinder and metalic-like). It had almost a chrome finish. I heard no sounds. It didn't change color only reflected the sunlight. No flashing lights. It traveled away until it became almost to difficult to find in the sky. The object left no trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41198.html](http://www.nuforc.org/webreports/reports/041/S41198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
