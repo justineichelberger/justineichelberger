@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 16 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Me and kid saw huge bubble like orbs around us and was moving and glowing.  Saw what looked like a person glowing too across the street.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144154.html](http://www.nuforc.org/webreports/reports/144/S144154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in  () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>rainbowish Orb leaving trail through clouds, seen from airplane windowIt was seen in the middle of the Pacific Ocean, in the middle of an hour or two into a flight from Phoenix to Honolulu. I saw it as an orb above the clouds, it had a thicker inner rainbow colored orb and a thinner outer orb rainbow ring around it. At first I thought it was the sun reflecting off the clouds, but I saw it leaving a perfectly straight lined TRAIL through the clouds.  It seemed to be going a bit slower than the plane we were on, as I couldnt see it anymore cause the plane window.  It didnt seem to zigzag just kept a straight line. I was on the right side of the plane a couple rows behind the wing.  I saw it for about 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48638.html](http://www.nuforc.org/webreports/reports/048/S48638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
