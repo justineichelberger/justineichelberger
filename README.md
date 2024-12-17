@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright red/orange lights moving in Salt Lake City sky December 17, 2017.At 720pm 12/17/17 I exited my apt building and immediately noticed a brightly glowing red/orange object in the sky due west at an angle of about 45 degrees.  Simultaneously noticed an object to the WNW at an angle of about 30 degrees, identical to the first, but not as bright. First (brighter) object began to move slowly east, the glowing aspect becoming brighter and sparking.  Attempted to take video with my camera, but as I was attempting to film, the object dimmed and faded from view when reaching about 90 degrees of angle (almost straight above my head.)  Sighting lasted no more than 30 seconds. Later, at aprox. 725pm, noticed an identical object due west in the sky at an angle of 30-40 degrees. Immediately told my friend to come observe it. It was bright, same red/orange glow, as we watched it moved due east slowly for less than a minute but more than 30 seconds, then the light faded rapidly to a very dull glow of the same color, then changed direction from due east to either due west or down from our perspective.  Watched it moving down or due west for aprox. 30 seconds, it's glow barely visible to the eye.  Friend and I stopped attempting to observe any more at 730pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137849.html](http://www.nuforc.org/webreports/reports/137/S137849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Eddystone (Canada) (MB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>Ball of Light - Eddystone, MBMy brother reported seeing a ball of light on the morning of 17 Dec 2006 at 5:30 AM in the vicinity of Eddystone, MB Canada. It was a clear night/morning. He saw it for about 1-2 seconds, but another witness travelling in a different vehicle saw it for a bit longer.My brother saw it for a couple of seconds, he presumed it to be about the size of a basketball and 75 feet away, "could've been bigger". It changed colours, from yellow to purple and there was a light trail from it (do not know how long) . He thought he saw something dangle from beneath it "like a wire". It travelled diagonally from the top of the treeline to a few feet off the ground then "just disappeared". They didn't stop to take a closer look (Why they didn't, I don't know)He said it "sorta travelled slowly". It was tough for him to understand what he saw as it was for a couple of seconds.I will say this about what the other witness said, but bear in mind this is my brothers word about it, and I haven't spoken to that witness yet. He saw it for a few seconds, but it came from the sky (how high or direction, I do not know)but it did change colours as it descended. From red/blue/white/purple etc. It changed frequently. It left a light trail.It travelled slowly then disappeared, just as my brother had said.I'm not sure what this could be, but I have another family member who has seen "an orb".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54193.html](http://www.nuforc.org/webreports/reports/054/S54193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
