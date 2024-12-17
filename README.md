@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Congerstone (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The sky was bright over the fields we could see the northern lights.To our right hovering in the air stationary, just hanging in the air for aproximately 5-10 mins very low just above trees shining a bright light was an object it was very difficult to see any shape, because the light was so bright. Then it rose slowly & gracefully into the air a considerable way (a few metres) and came overhead,very low and very quietly,gliding above us it seemed as though the engine had been turned off and it just glided above us above the village and disappeared out of view, we ran outside to watch as it went over, there were coloured lights blue,red yellow and white fairly dim now , we think it was a Diamond shape. Very strange. Second craft followed its path, think this was an aircraft noisier and more familiar shape.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26650.html](http://www.nuforc.org/webreports/reports/026/S26650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Belton (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately Every night for the past  - Every night for the past  minutes.</sub><blockquote><sub>If you go to the west of town almost to the edge look to the south west you will see blue white and now for the first time on 12/17/17 there is a dim red light.  I have seen jet fighters in formations going near one of them also one has flew over my house without sound.  Want to know what this is trying to find out but no help white lights are sharp fast blinking and random the blue are sometimes sharp and some are slow real dim the new red one is dim don’t know what it all means maybe someone has answeres out there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137841.html](http://www.nuforc.org/webreports/reports/137/S137841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
