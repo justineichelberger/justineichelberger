@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:27 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 lights dogfighting over SaskatoonI was driving home from Judo at about 9:10-9:15 pm from 12 km south of the city.  I was driving north into the city.    When I was approx 3-5 km from the city, I noticed 2 red lights moving vertically above Saskatoon basically directly in front of where I was driving.  As I was driving I was watching these 2 red lights dogfight over the city.  I was wondering why airplanes would fly like this over a city and at night.  As  I approached the city limits, I was stopped at a red traffic light.  I watched these 2 lights straighten out (formed up) and level out fairly high up.  All I could see was like 2 LED lights.  These 2 lights came towards my position in an S-curve and slowly moved over my car towards a ESE direction.  I rushed home but couldnt see anything becuase of city lights.  I did call the airport to report the situation but of course never received an answer.There was no sound...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28164.html](http://www.nuforc.org/webreports/reports/028/S28164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Latham (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large Strange Object in the Sky Above TreesMy brother and I took the dogs out in the evening and I looked up to the sky and noticed a foreign object. I shined my flashlight up towards the sky and saw a large diamond shaped object. It had colored lights around it's border and 2 (two) white spotlights on the front of the craft. The object turned around as if it were searching for the source of the flashlight.  The spotlights of the craft lit up the entire backyard as well as 2 of our neighbors yards and houses.  The craft was yellow in color. It turned back around after searching back for the source of the light and quickly disappeared into the night. The object was flying very low, just above the treeline in the back yard (approximately 50' off the ground).  The object was about the size of a baseball field, in length and width. It had a center hump on the object. When the object disappeared there was nothing more than a small cloud of smoke.  The object made no noise what so ever but when the spotlights on the object searched the grounds it made a "pshhh" sound.  The grass didn't even look green, it appeared dead from the brightness of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85969.html](http://www.nuforc.org/webreports/reports/085/S85969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
