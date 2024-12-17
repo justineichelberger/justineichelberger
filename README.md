@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bellmar (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>FOUR WHITE OBJECTS MOVING SLOWLY SW IN FORMATIONMY SON CALLED FROM BRIDGE FROM PHILADELPHIA THAT SHAPE IN SKY WITH FIRE.  I LIVE ONLY 2 MILES SOUTHWEST OF BRIDGE .MY WIFE AND MYSELF LOOKED SOUTH WEST AND SAW FOUR WHITE LIGHTS IN FORMATION MOVING SLOWLY SOUTHWEST AT ABOUT 45* AND WE WATCHEDMOVED TO30* SOUTH .THREE OBJECTS ON TOP ONEOBJECT ABOVE. ALL WERE TAPED WITH MY VIDEO CAMA((NUFORC Note:  Witness elects to remain anonymous; provides no contact information.  Possibly advertising lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41166.html](http://www.nuforc.org/webreports/reports/041/S41166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hovering over the side ro - Hovering over the side ro minutes.</sub><blockquote><sub>Driving along hwy 412 you in the sky it had 4 lights one on each side.  It just hovered with each light blinking one after another.  It was just there and it gave me a creepy feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144168.html](http://www.nuforc.org/webreports/reports/144/S144168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
