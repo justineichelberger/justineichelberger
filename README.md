@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Formation of 12 to 14 large birdlke objects going North to South over Downtown San JoseI saw the formation from a parking lot rooftop.At first glance they looked like a flock of birds,However after 4 or 5 seconds I noticed thy were NOT flapping thier wings, they were changing places very rapidly within the formation and were moving faster than birds fly.They were all the same size, 3 to 5 foot wingspan ,1.5 to 2.5 feet long,this is only a guess as for thier height I would guess around 800 or 900 feet,Note we had high clouds that morning and they were flying LOWER than the clouds'so if high clouds have an average ceiling then maybe someone could get a better idea how high they were. I have had an interest in UFO's for a long time and may have seen others before, as a result I ALWAYS carry binoculars 10/40 in my car. I quickly pulled them out,As I focused on them I realized they were NOT birds but some kind of small flying wings, gray colored against dark gray clouds. they were flying with great precision and never banked but remained perfectly horizontal while at the same time changing postions quickly and sort of rhythmically. They would change positions fly for a second,change positions fly for a second or 2 and change again.They would stay very close together the whole time and the formation was not perfect like geese fly. But kind of an arc at times almost as if they were playing with each other as thy flew. I watched untill they were gone, They were going North to South right over downtown area, just east of flight path of san jose airport.I think of myself as kind of a macho guy,I dont scare easily. but when I could not rationalize what I saw I found myself left with a creepy helpless feeling that these things are just flying were ever they want and no one is stopping them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33903.html](http://www.nuforc.org/webreports/reports/033/S33903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Polk City (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red glowing round object flew across the sky at a slow pace</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95310.html](http://www.nuforc.org/webreports/reports/095/S95310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
