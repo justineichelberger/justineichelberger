@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent circular Red glow moves slowly across the Oxnard sky lasting a minute or so.Last evening I noticed a round red glow.  It was coming from southwest sky.  At first I thought maybe it was a fireball or comet or meteorite.  But it had no tail and did not burn out.  It kept moving across the sky, right overhead and then proceeded to the eastern sky.  It was completely silent and moved slowly, enough time for me to yell out to my neighbors and have them too, witness this unusual event.  We all concluded it must be UFO.  It finally started to get smaller and appear to move outwards disappearing beyond the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95318.html](http://www.nuforc.org/webreports/reports/095/S95318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Mosheim (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red Oval object in the mountains of TennesseeI remember this very vividly since it occured around my birthday and my parents scoffed since it was before Christmas. I heard my Old English Sheepdog franticly barking and I veered out my window of my 3 story house and saw a red oval object hooving about 500 yards from my home over the pine forest on the back of our home estate. It  was hoovering for approximately 5 mins, then in snap propelled into the atmosphere in less than a span of time of 2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33398.html](http://www.nuforc.org/webreports/reports/033/S33398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
