@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Latham (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large Strange Object in the Sky Above TreesMy brother and I took the dogs out in the evening and I looked up to the sky and noticed a foreign object. I shined my flashlight up towards the sky and saw a large diamond shaped object. It had colored lights around it's border and 2 (two) white spotlights on the front of the craft. The object turned around as if it were searching for the source of the flashlight.  The spotlights of the craft lit up the entire backyard as well as 2 of our neighbors yards and houses.  The craft was yellow in color. It turned back around after searching back for the source of the light and quickly disappeared into the night. The object was flying very low, just above the treeline in the back yard (approximately 50' off the ground).  The object was about the size of a baseball field, in length and width. It had a center hump on the object. When the object disappeared there was nothing more than a small cloud of smoke.  The object made no noise what so ever but when the spotlights on the object searched the grounds it made a "pshhh" sound.  The grass didn't even look green, it appeared dead from the brightness of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85969.html](http://www.nuforc.org/webreports/reports/085/S85969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Titusville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>12/17/11 Orange/green fireball streaking from south to north, East coast of Florida, 1810 hrs E.S.T.At approx 1810 hrs, I was delivering a car to my neighbor.  I live on the East Coast of Central Florida, approx 9 miles west of Kennedy Space Center and the Atlantic Ocean.  In the corner of my eye, I noticed a bright orange streak out over the ocean (East of my location).  I then turned and directly watched this light continue from a south to north direction until it was out of my sight.  It began as an orange fireball, and rapidly changed color to a bright blue-green as it left my line of sight.  It was moving way too slowly to be a meteor, yet seemed rather fast to be an aircraft as I know one.  I'm assuming that it may have been an object falling from orbit.  I have spent quite some time in the desert and on the ocean, and this was extremely out of the ordinary, and was way too bright to be anything ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85917.html](http://www.nuforc.org/webreports/reports/085/S85917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
