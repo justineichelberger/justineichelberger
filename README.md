@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Polk City (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red glowing round object flew across the sky at a slow pace</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95310.html](http://www.nuforc.org/webreports/reports/095/S95310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright red/orange lights moving in Salt Lake City sky December 17, 2017.At 720pm 12/17/17 I exited my apt building and immediately noticed a brightly glowing red/orange object in the sky due west at an angle of about 45 degrees.  Simultaneously noticed an object to the WNW at an angle of about 30 degrees, identical to the first, but not as bright. First (brighter) object began to move slowly east, the glowing aspect becoming brighter and sparking.  Attempted to take video with my camera, but as I was attempting to film, the object dimmed and faded from view when reaching about 90 degrees of angle (almost straight above my head.)  Sighting lasted no more than 30 seconds. Later, at aprox. 725pm, noticed an identical object due west in the sky at an angle of 30-40 degrees. Immediately told my friend to come observe it. It was bright, same red/orange glow, as we watched it moved due east slowly for less than a minute but more than 30 seconds, then the light faded rapidly to a very dull glow of the same color, then changed direction from due east to either due west or down from our perspective.  Watched it moving down or due west for aprox. 30 seconds, it's glow barely visible to the eye.  Friend and I stopped attempting to observe any more at 730pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137849.html](http://www.nuforc.org/webreports/reports/137/S137849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
