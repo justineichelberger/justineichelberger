@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:13:06 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Mosheim (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red Oval object in the mountains of TennesseeI remember this very vividly since it occured around my birthday and my parents scoffed since it was before Christmas. I heard my Old English Sheepdog franticly barking and I veered out my window of my 3 story house and saw a red oval object hooving about 500 yards from my home over the pine forest on the back of our home estate. It  was hoovering for approximately 5 mins, then in snap propelled into the atmosphere in less than a span of time of 2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33398.html](http://www.nuforc.org/webreports/reports/033/S33398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 lights dogfighting over SaskatoonI was driving home from Judo at about 9:10-9:15 pm from 12 km south of the city.  I was driving north into the city.    When I was approx 3-5 km from the city, I noticed 2 red lights moving vertically above Saskatoon basically directly in front of where I was driving.  As I was driving I was watching these 2 red lights dogfight over the city.  I was wondering why airplanes would fly like this over a city and at night.  As  I approached the city limits, I was stopped at a red traffic light.  I watched these 2 lights straighten out (formed up) and level out fairly high up.  All I could see was like 2 LED lights.  These 2 lights came towards my position in an S-curve and slowly moved over my car towards a ESE direction.  I rushed home but couldnt see anything becuase of city lights.  I did call the airport to report the situation but of course never received an answer.There was no sound...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28164.html](http://www.nuforc.org/webreports/reports/028/S28164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
