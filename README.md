@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Mosheim (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red Oval object in the mountains of TennesseeI remember this very vividly since it occured around my birthday and my parents scoffed since it was before Christmas. I heard my Old English Sheepdog franticly barking and I veered out my window of my 3 story house and saw a red oval object hooving about 500 yards from my home over the pine forest on the back of our home estate. It  was hoovering for approximately 5 mins, then in snap propelled into the atmosphere in less than a span of time of 2 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33398.html](http://www.nuforc.org/webreports/reports/033/S33398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Manitou Beach (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Rescue attempt of three hikers on Mount Hood, Oregon. As a recovery of a hiker's body was being broadcast on CNN at 6:51pm ET a fireball was seen above and behind Mount Hood as Chinook Helicopter hovered over the peak of Mount Hood. The fireball appeared to be located behind Mount Hood and above the summit and was seen for a couple of seconds live on the CNN broadcast. The fireball appeared to be white in color and moved from left to right rapidly across the television screen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54043.html](http://www.nuforc.org/webreports/reports/054/S54043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
