@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:48 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Belton (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately Every night for the past  - Every night for the past  minutes.</sub><blockquote><sub>If you go to the west of town almost to the edge look to the south west you will see blue white and now for the first time on 12/17/17 there is a dim red light.  I have seen jet fighters in formations going near one of them also one has flew over my house without sound.  Want to know what this is trying to find out but no help white lights are sharp fast blinking and random the blue are sometimes sharp and some are slow real dim the new red one is dim don’t know what it all means maybe someone has answeres out there</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137841.html](http://www.nuforc.org/webreports/reports/137/S137841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Jonestown (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A rectangle of lights that floated across the sky.OK. This is strange. I went outside to say goodbye to my dauther-in-law and as I was coming back inside the house, I looked up to check the sky again and I saw another unusual looking sight. OK. Now this one was really strange. There was no sound, and I could acutally see a structure. There were 2 or 3 lights off to the right of the object that looked as if they were part of the thing, but  what held my attention was that the largest part of the object was shaped like a rectangle and was covered with white lights in 4 rows of 5 or 6 lights. This thing seemed to float rather than fly as it slowly crossed the sky. I know this sounds like a case of over imagination since I just reported another sighting, but if UFO data is to do us any good I guess we just have to report what we see to the best of our ability.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33885.html](http://www.nuforc.org/webreports/reports/033/S33885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
