@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:51 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The lights were kind of multiplying in what looked like a possible triangular pattern and then all of sudden disappeared.  They were yellow in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144170.html](http://www.nuforc.org/webreports/reports/144/S144170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two star-like lights chasing each other at an incredible speedI was in the parking lot of my office at Albany, CA, walking towards my car at around 8:00 PM on 12/17/2009.  I was facing north east when I saw two star-like objects just above the Berkeley hills.  I paused for awhile to look thinking that these maybe falling stars but the trajectory of the movements were about horizontal (zig-zagging smoothly) and one star-like object following (chasing?) the other.  These two star-like objects looked about 5-10x larger than an airplane in the night sky but moving much faster (maybe >> 20x ).  The objects were also much closer to the ground.  The objects were in the sky for about 5-10 seconds before disappearing in the horizon at a much faster speed.  The star-like objects' flickering “arms” were mostly white with a few red and blue.  I know how an airplane or helicopter looks like in the night sky and these star-like objects were very different.  These objects moved so much faster!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74155.html](http://www.nuforc.org/webreports/reports/074/S74155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
