@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 17 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Haven (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large wight orb moving fast across night sky from south to north, when the light came close to a plane the light whent out.We saw a large white globe, which from the ground appeared to be about a quarter inch or more in diameter.  This light had no flashing lights to indicate a plane or helicopter. Its white light was visible from any direction that we observed it from.  This object  was moving from south to north intersecting the areas normal air traffic into St. Louis, which is usually from the west or south west as the planes approach Lambert International Airport.  We observed the object as it approached a normal sized, flashing air craft coming into St. Louis, as this object neared the plane the light from the globe simply flashed out of existence.The light was brighter than a plane, space station, planet, star, or helicopter.  Their was no smoke trail to indicate a meter rite, and it was much to slow.  It had 360* light source no mater if viewed from front or back.  It passed in front of  us off the horizon by 18 inches in the night sky and their was no sound, nothing.  Their were no cars, or other things in the back ground.  We where NOT drunk.  Their was nothing to obscure our vision, though it was partly cloudy.  I was wearing  glasses but the rest of my family was not.  Nothing was in our ears.We where going to go look at Christmas lights.  When my brother pointed it out, it looked like nothing we have ever seen in the sky before.  As we watched the object came close to a plane and it was flying higher than the plane.  It had to be at least  3 to 4 times bigger than the plane.  When the plane got closer the lights blinked off.  The light was to bright to disappear behind a cloud and not seen again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85918.html](http://www.nuforc.org/webreports/reports/085/S85918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jeypore (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was time of sunset when i felt that some thing was flying in the sky.  Thought that it might be an aircraft but when I observed it closely then I found that i was like a big light flying towards the west from east (in direction).  I am still confused weather if it was a UFO or a Merkabah.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132028.html](http://www.nuforc.org/webreports/reports/132/S132028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
