@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:22 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. George (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>V shaped lights heading SW at high rate of speed.  No sound.I stepped outside and something caught my eye.  I looked upward and saw what looked like 5 faint lights in a V pattern moving at a very high rate of speed, direction SW.  This lasted about 2 or 3 seconds until I lost site of it over my house and trees.Absolutely no sound.  My first thought was a glider.It seemed to be low, maybe a few thousand feet, however, that would put rate of speed in excess of 1000mph, which I think would cause a boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131806.html](http://www.nuforc.org/webreports/reports/131/S131806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Randolph (NE) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two witnessees saw 3 bright incandescent colored balls of light in northeast Nebraska.Both witnesses looked to the sky at about the same time. We witnessed 3 large incandescent colored balls of light starting close to each other and then moving horizontally farther apart at the same rate, speed, and distance. We do not have a guess on their height relative to the ground; though each light appeared to be at exactly the same height. We witnessed this approximately 2 miles from what appeared to be the area below the lights. The lights were visible for a total of almost 5 seconds before they disappeared. We could not tell if they burned out or moved away but they disappeared over at time span of about 1 second; all at what appeared to be the exact same time.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60425.html](http://www.nuforc.org/webreports/reports/060/S60425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
