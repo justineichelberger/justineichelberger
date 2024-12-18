@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jeypore (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was time of sunset when i felt that some thing was flying in the sky.  Thought that it might be an aircraft but when I observed it closely then I found that i was like a big light flying towards the west from east (in direction).  I am still confused weather if it was a UFO or a Merkabah.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132028.html](http://www.nuforc.org/webreports/reports/132/S132028.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 Boomerang shaped craft flying in formationI was looking up at the full moon from a balcony on the 11th floor. I saw 3 flying triangles headed straight south as they were flying directly past the moon. They were shaped like boomerangs and made no sound at all as they flew past. There were large circular dim lights at each of the three points of the triangle. They were flying in a V formation. I observed the craft until they disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165905.html](http://www.nuforc.org/webreports/reports/165/S165905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
