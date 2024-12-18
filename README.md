@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:19 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big Huge Bright Light Seen Over By My Cousin's House In Orland ParkI was over at my Cousin's House for our family Christmas Gathering over in Orland Park.I was waiting for a taxi-cab to take go home that evening. (this was around 6pm Sunday evening). All of a sudden,  I happend to look out the window and then I saw this big huge bright light up in the sky!  It was NOT moving at all! It stood up there for about 15 minutes.  My taxi-cab had already came, and I was already gone. I was not too sure which way the front of my cousin's house was facing, because I only go there once a year for Christmas. Everytime whenever I go my cousin' house,  It is alway cloudy, cold and gloomy outside. I have not told anyone especially my cousins, because they were all to busy getting drunk by being stress out for a future planned wedding.However, I was not drinking, because I am NOT much of a drinker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48424.html](http://www.nuforc.org/webreports/reports/048/S48424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange spheres and slow moving stars.My grandma and my moms husband saw what they described as 3 orange spheres flying not that high over the Melbourne causeway.  I have 2 coworkers that have seen the same thing.  I never told them what my grandma saw till they told me what they saw so I know they are not making it up to jive me.  BTW both coworkers saw the orange spheres on different occasions both over the Indian river while crossing the causeway.  I listen to coast to coast and I notice them talking about the red fireballs over Florida and other parts of the country I'm convinced its the same phenomenon. I've never seen them personally but I have seen stars that move in the sky.  I can tell the difference between airplanes and UFOs because airplanes have some light blinking on them.  UFOs traditionally don't.  These things look exactly like stars and move in str8 lines and sometimes make sharp turns. Iv never seen them shoot off or anything, so I could be seein satellites.  They appear everyday I wo! rk at Patrick Air Force base at the chow hall and rite when the stars come out if you look up for a good 10 mins you'll start to notice it. I've shown other coworkers so this is not my eyes playing tricks. I see these star UFOs whenever I look up long enough at night time although I haven't been looking since early January. The orange spheres were 3 different occasions. This is not a joke I take this very seriously.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96835.html](http://www.nuforc.org/webreports/reports/096/S96835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
