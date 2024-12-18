@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:19 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:19 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting in Clearwater, FloridaI was looking in the sky at the stars when all of a sudden, what appeared to be a star began to move south. The lighted object was as big as a star appearing to be extremely high in altitude. It moved at a slow pace for about 20 seconds till it disappeared into the night. Around 4-5 minutes after my first sighting, myself and a friend were viewing the sky after i told him what i had observed, both of us were looking around the same spot in the sky when once again another lighted object started moving east at the same speed as the other object and was viewable for 1-2 min till it also disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54060.html](http://www.nuforc.org/webreports/reports/054/S54060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big Huge Bright Light Seen Over By My Cousin's House In Orland ParkI was over at my Cousin's House for our family Christmas Gathering over in Orland Park.I was waiting for a taxi-cab to take go home that evening. (this was around 6pm Sunday evening). All of a sudden,  I happend to look out the window and then I saw this big huge bright light up in the sky!  It was NOT moving at all! It stood up there for about 15 minutes.  My taxi-cab had already came, and I was already gone. I was not too sure which way the front of my cousin's house was facing, because I only go there once a year for Christmas. Everytime whenever I go my cousin' house,  It is alway cloudy, cold and gloomy outside. I have not told anyone especially my cousins, because they were all to busy getting drunk by being stress out for a future planned wedding.However, I was not drinking, because I am NOT much of a drinker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48424.html](http://www.nuforc.org/webreports/reports/048/S48424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
