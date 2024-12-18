@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Philadelphia (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft seen with lights on top and bottom.December 18, 2015    Sir:  About 17:35 CST, in the Northeastern quadrant of Neshoba county, Mississippi, I witnessed a craft of unknown size for about 2 minutes.  This was a little after sundown but still there was enough light for me to see my dog about 75 yards away.  I couldn't tell the shape because of the bright lights that were situated on the top and the bottom of the craft.  I watched it hover for the period of time stated and then entered my home to call for someone else to observe.  When I again exited my home the object was gone.  The appearance of the object, as far as I could see, was as though there was a straight line with three lights on top and three lights on bottom.  As I said, the lights were very bright and prevented me seeing any detail other than what has been stated.  From my position, I was looking approximately at a 30 degree angle and the object was about ¾  of a mile away.  After it was no longer in my view, about 7 to 10 minutes later,  a jet came from the north, heading in a southern direction.  To our NNE, about 50 miles away is Columbus Air Force Base.  To our SSE is the Meridian Naval Air Station, about the same distance.  I hope this helps.I have an MBA and a B.S. Degree in Secondary Education.  I was stationed at Redstone Arsenal, in Huntsville, Al as a meteorologist.  I used to own a Mercedes dealership.  I tell you these things to let you know that most people consider me sane.  Not that it should matter, I'm 66 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124742.html](http://www.nuforc.org/webreports/reports/124/S124742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Titusville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>flashing light seen and vidoe taped over Titusvlle florida for approximately 45 minutesMy wife came home from work at 21:03 hrs eastern and told me there was a stationary light flashing between red, electric blue, purple and bright white flashes. When I stepped on my porch and looked I could see the light while facing east south east looking toward the Kennedy space center I thought perhaps it was a helicopter or a plane or possibly a satellite. At approximately 21:25it started taking a more westerly movement with a more noticeable movement.  I am not sure what I watched but I was able to shoot approximately 4-6 minutes of video before my battery failed. I do have it saved on super 8 film.((NUFORC Note:  Sighting of Sirius, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67526.html](http://www.nuforc.org/webreports/reports/067/S67526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
