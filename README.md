@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kings Lynn (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>observed  UFO   entering   earths  timescale  via  opened   starlike-gate  then  watched  it  create  a  further  Portal-gate  to  leavwhilst  driving  pizza  delivery  van  down  serpentine  roadway  on  large  estate  observed  through  front  window  large  silver-star, approx  quarter  mile  away  hanging  in  the  clear  crisp  sky, quite  expressive  in  its  brilliance. Slowed  van  down  to  a  stop  and  switched  off  engine ( common  thing  to  do  as  a  UFO  Investigator). Observed  this  incredible  large  star  for  perhaps  a  minute  more,  then  without  any  other  present  phenomena  visible  the  star  went  out!  Not  unlike  watching  a  house  light-bulb  being  switched  off. I  then  wound  down  the  drivers  side-window  to  see  any  other  action  or  phenomena  which  might  occur. I  was  suddenly  rewarded  thus, " within  a  few  minutes  a  large  oval  shaped  craft  appeared  directly  above  me, approx  eighty-feet  in  the  air. I  observed  it  "quite  clearly" neither  afraid  nor  shaken  through  the  opened  window. The  length  was  approx  forty-feet  and  from  the  base  to  the  dome  shaped  aperture  at  its  top  it  was  ten-feet.  The  craft/object  was  moving  forward  at  less  than  5mls  per-hour. The  colour  was  a  dull  rusty-red  not  unlike  metal  looks  after  being  removed  from  a  forge  or  furnace  and  cooling  down. As  I  watched  a  rotation  of  orange  lights  or  ports  moved  around the  base  of  the  ship in a  anti-clock  direction. And  immediately  on  this  happening  I  clearly  saw  a  portal  or gateway  being  "opened"  into  spacetime  or  dimensional  time? the  space  immediately  in  front  of  the  craft  shaking  like  a  giant-mirror,  and  thence  the  craft  moved  slowly  into  this  created  portal  and  vanished. Obviously  the  star  first  observed  was  not  a  star  but  an  opened  portal,  and  the  orange-port  exhaust  light  was  emitting  a  unknown  field  of  energy  to  transpose  matter  and  open  a  new  gateway  from   earths  gravitational  matrix. (I  have  encountered  other  craft  at  less  than  ! twenty-f eet  away, both  cases  in  the  year  1983) and  a  clearer  more  precise  report  of  the  above  oval  craft was  given  to  MUFON. the  above  account  must  not  be  misconstrued  as  any  other  object  but  a  UFO! I  have  always  been  available  for  any  scientific  scrutiny/tests  to  prove  my  encounters  as  FACT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70503.html](http://www.nuforc.org/webreports/reports/070/S70503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johns Creek (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very bright light</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144127.html](http://www.nuforc.org/webreports/reports/144/S144127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
