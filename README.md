@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>two very bright lights in southern sky descended slowlyand dimmed to gray then back to bright and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05206.html](http://www.nuforc.org/webreports/reports/005/S05206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was walking east up Steiner st. in the Lower Haight district of San Francisco at about 11:59, when something to my left caught my eye. It moved very slowly and smoothly in the sky and made no sound. It was a deep orange color, and looked like it was glowing.  It was the same color as an orange street lamp, or similar to a fireball, but it was pretty stable looking.  It moved from east to west, then somewhat towards me and then it just stopped. It hovered for about a minute.  It was cloudy and drizzling so I assumed it was pretty low in the sky.  At first glance I thought it was a helicopter by the speed and way it was moving, but the fact that it didn't make any sound and there were no blinking lights, had me intrigued.  I watched it for about 2-3 minutes. It hovered in one spot, then appeared to dim, or ascend up into the clouds until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79299.html](http://www.nuforc.org/webreports/reports/079/S79299.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
