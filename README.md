@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was walking east up Steiner st. in the Lower Haight district of San Francisco at about 11:59, when something to my left caught my eye. It moved very slowly and smoothly in the sky and made no sound. It was a deep orange color, and looked like it was glowing.  It was the same color as an orange street lamp, or similar to a fireball, but it was pretty stable looking.  It moved from east to west, then somewhat towards me and then it just stopped. It hovered for about a minute.  It was cloudy and drizzling so I assumed it was pretty low in the sky.  At first glance I thought it was a helicopter by the speed and way it was moving, but the fact that it didn't make any sound and there were no blinking lights, had me intrigued.  I watched it for about 2-3 minutes. It hovered in one spot, then appeared to dim, or ascend up into the clouds until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79299.html](http://www.nuforc.org/webreports/reports/079/S79299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waynesboro (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 100.0 - 100.0 minutes.</sub><blockquote><sub>Two different types: one that flashes ...it almost looks like a star that's really close that appears and disappears, moves up and down and from side to side, takes off at highly rapid speed, and sometimes they disappear they appear in a completely different location, they color it flashes it a whiteish blue look similar color of a star on flashes...also they flashes are not consistant...also a ray of light..a beam of some short came out the side of one and then instantly they mulitplied...there was 5 to start with and end up be to May to count be cause they would appear and disappear but I know I seen at least 10 or more all at one time flashing together.Second type: large golf ball to basket ball sized bright orange glowing orbs or fireballs..... they appeared 3 in row when I first saw them diagnally....they dimmed disappeared and then reappeared in a triangle....the disappeared and came back only this time there was 7 or 8 of them and formed a prefect circle in complete unison with one another...then scattered from the circle moving swiftly around, up down, side to side.....  Then all but a few would disappear and the ones still visible where completely still just dimming off and on  Myself and a family member witnessed this as we where enjoying a cigarette on my front porch.  We started to witness this at about 7:15 pm...  I do not where glasses or contacts my other witness does...  There was no noise coming from these and weather was cold but no wind...  There was no smoke coming from these lights so there for it didn't leave any trail..  Neither of us have been drinking or on any drugs!!!!  This was real what we saw and can't be explained!!!  This happened on 12/18/2013 at 7:15 pm in waynesboro, ga</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105446.html](http://www.nuforc.org/webreports/reports/105/S105446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
