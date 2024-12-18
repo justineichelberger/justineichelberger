@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:19 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bolivar (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two craft chase over Bolivar.My wife and I were getting into the car to go looking at Christmas lights when we both noticed some unusual lights in the southern sky.  At first we thought they were planes because we get a lot of air traffic over us.  After watching these two crafts for about a minute we both realized they were not planes.The front craft appeared as a blinking light.  The second which was following close behind was two solid lights with a blinking one in front making a rather squashed triangular shape.  At first we assumed the second craft was a plane with wingtip lights.  But there was no sound, and it appeared to be flying very high.  For it to be a plane it would had to have been much larger than any planes we currently use.  The second craft appeared to be chasing the front one.  The front craft was keeping a steady pace towards the west, whereas the second craft would slow to a complete stop in mid air before resuming and getting right back to the same distance from the first.  This is what stood out at first. After a few minutes of this behavior the second craft came to a complete stop once again, but this time it turned in the air about 45 degrees.  Watching the lights on what I’ll call the wingtips and the flashing light in front we could clearly see it turning while stopped.  It did this a few times, turning south then back to the west before turning south finally and slowly flying off and disappearing before it reached the horizon.As this was occurring the first craft continued west but at a slower pace.  Once the second craft was gone the first craft’s light stopped blinking and became a very bright solid light.  This solid light would last for about 10 seconds before it would dim back to the blinking light. It did this about 2 times before another aircraft came into view from the west, at which point the first craft started to turn back towards the east.  It did the solid light to blinking light one more time then disappeared from view as the aircraft from the west got close to it.This took place over the course of about 10 minutes, on 12/18/12, at 7:15PM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95438.html](http://www.nuforc.org/webreports/reports/095/S95438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting in Clearwater, FloridaI was looking in the sky at the stars when all of a sudden, what appeared to be a star began to move south. The lighted object was as big as a star appearing to be extremely high in altitude. It moved at a slow pace for about 20 seconds till it disappeared into the night. Around 4-5 minutes after my first sighting, myself and a friend were viewing the sky after i told him what i had observed, both of us were looking around the same spot in the sky when once again another lighted object started moving east at the same speed as the other object and was viewable for 1-2 min till it also disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54060.html](http://www.nuforc.org/webreports/reports/054/S54060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
