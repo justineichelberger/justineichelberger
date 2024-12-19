@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.8 - 0.8 minutes.</sub><blockquote><sub>I saw the most awesome thing.  Glad there was someone with me.  It was huge.  Couldn't see the whole thing.  Bright strobing.  Could feel the light?  Colorful.  I drew a picture.  Never seen anything like it.  Weird.  Diamond strobing orbs?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115029.html](http://www.nuforc.org/webreports/reports/115/S115029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Plymouth Meeting/Conshohocken (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Triangular shaped unidentifiied object with green,red,whit light  hovering in sky in Montgomery county paObject only hovered and was triangular in shape with green and red lights ....object has now moved slightly and is still hovering but with white and green lights ...there are now almost a hour later a total of four with green and white and one with red litghts ..dogs began frantically barking provoking neighbors to come outside as well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151772.html](http://www.nuforc.org/webreports/reports/151/S151772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
