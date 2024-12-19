@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:09:38 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Joliet (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : 2 objects seen in clear sky hovering. seen while driving E on US 30. Object 1 appeared to 'float' around object 2. Glint from top of one attracted attention.2 objects appeared to be floating or hovering in the eastern sky. Approximate angular size was .1 degree. objects had a dull aluminum color on top. Bottom was solid black. Top was a little more deformed than a perfect circle, bottom also. one object was glinting the sun off the top of it, the other was hovering below it by approx 1 degree. Objects were observed for a period of travel of about 8 miles down US 30. Upon turning the went behind a large oak tree and then were unable to be located. Observer is well versed in astronomy and weather. And is familiar with weather ballons, many are launched from a near-by University. NOT a weather baloon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03079.html](http://www.nuforc.org/webreports/reports/003/S03079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.8 - 0.8 minutes.</sub><blockquote><sub>I saw the most awesome thing.  Glad there was someone with me.  It was huge.  Couldn't see the whole thing.  Bright strobing.  Could feel the light?  Colorful.  I drew a picture.  Never seen anything like it.  Weird.  Diamond strobing orbs?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115029.html](http://www.nuforc.org/webreports/reports/115/S115029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
