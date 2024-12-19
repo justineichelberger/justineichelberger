@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Graniteville (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>We were riding in our car and I saw a what looked like two stars.  But tonight it was cloudy and there were no stars visible.  The lights were also too bright to be any star.  The lights turned red and flashed.  Then it started to move at a high speed that no airplane could match. Nearest airport is small and would not have airplanes of this size.  If it was a bigger plane heading to the biggest airport in the area, it was heading far more east than the airport.  Too fast for a drone or helicopter.  We opened the car window, if it was a plane or helicopter we would be able to hear it.  But it was quiet.  Also, it was flying really low.  We saw it for about twenty seconds before it flew out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144132.html](http://www.nuforc.org/webreports/reports/144/S144132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Magnolia (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>I am located about 35 miles slightly northwest of downtown Houston, TX and about 12 miles directly east of Magnolia, TX.  I observed two objects in the western sky emitting different color light flashes.  These objects were stationery, then began movement.Looking to the western sky, I thought I saw a red flash.  I kept looking and saw two objects, both stationery, emitting blue flashes and occasionally a red flash.  I kept watching and noticed some movement in a back and forth direction, first to the east, and then back to the west.  After further observation,  I saw some very erratic movement by these two objects.  The object on the left moved in a southerly direction and then an easterly direction.  The object on the right moved first  northerly, and then began a circular motion.  During this circular motion it would make occasional very fast darts to the east and then back. These objects were very high in the sky.  The one on the left was as bright as a star, the one on the right somewhat dimmer.  These objects were way to high to be any kind of helicopter or other aircraft that I am familiar with.  After 50 minutes of watching this, i saw some kind of green flash of light go across the sky, much lower than these two objects.  At that point, I went inside my house.  I went back outside 12 minutes later, and the objects were no longer there. I am a 39 year old male.  I have a BBA in management and have worked for the same company in sales for 16 years. I have never seen anything before I believed to be a UFO and frankly did not believe in them.  Tonight I witnessed something that I can not explain.  Again, these objects were not any kind of commercial aircraft.  I do not believe any kind of military aircraft could make these erratic maneuvers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05202.html](http://www.nuforc.org/webreports/reports/005/S05202.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
