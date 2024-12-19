@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 18 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange spheres and slow moving stars.My grandma and my moms husband saw what they described as 3 orange spheres flying not that high over the Melbourne causeway.  I have 2 coworkers that have seen the same thing.  I never told them what my grandma saw till they told me what they saw so I know they are not making it up to jive me.  BTW both coworkers saw the orange spheres on different occasions both over the Indian river while crossing the causeway.  I listen to coast to coast and I notice them talking about the red fireballs over Florida and other parts of the country I'm convinced its the same phenomenon. I've never seen them personally but I have seen stars that move in the sky.  I can tell the difference between airplanes and UFOs because airplanes have some light blinking on them.  UFOs traditionally don't.  These things look exactly like stars and move in str8 lines and sometimes make sharp turns. Iv never seen them shoot off or anything, so I could be seein satellites.  They appear everyday I wo! rk at Patrick Air Force base at the chow hall and rite when the stars come out if you look up for a good 10 mins you'll start to notice it. I've shown other coworkers so this is not my eyes playing tricks. I see these star UFOs whenever I look up long enough at night time although I haven't been looking since early January. The orange spheres were 3 different occasions. This is not a joke I take this very seriously.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96835.html](http://www.nuforc.org/webreports/reports/096/S96835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ponte Vedra Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange balls of light, blinking, drifiting in formations.I was driving (at 10pm, Saturday, December 19th, on Solana Road (west) in Ponte Vedra Beach, Fl.  I looked up at the moon, and to the right I noticed a large group of orange lights.  I noticed that a group of maybe 5 lights were in a perfect, straight line.  Another group were grouped together like a triangle, and about 10 others were just spread out randomly.  Sometimes they were blinking, and sometimes disappearing.  After disappearing, they would reappear.  There were no other lights on them anywhere.   Some moved quickly around the others that were just drifting.  I pulled over and watched for a few moments, trying to get a video.  Nothing would show up on my phone so I drove home.  I told my boyfriend, and we drove back down the road and he was able to see about 3 of them coming up over a golf course.  Then they just disappeared.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124789.html](http://www.nuforc.org/webreports/reports/124/S124789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
