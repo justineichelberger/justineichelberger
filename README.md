@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>Dull bronze coloured alies who left sectional markings on my chest and triangular ones on my backI woke up to some loud noises early in the morning it was 3 o' clock exactly i went in to the guest room where heard it and there were three bronzed cloured creatures with very large torsoes and heads and small limbs. they seemed unaffected by my presence and then one latched onto my leg and all i felt was tiggeleing throuhout my boby i woke up at in my bed at 3 11 exactly and i had marking all up my chet shaped like a rectanlge divided into three sections.i couldnt walk for a couple of hours but later descorverd triangular marks on my back. I showed my room mate and he freaked out and left i havnt herd from him since. I cant even sleep and i am at my parents house who arsured me someone one on campus is messing with me but i know it not true. i took photos of them and have them saved on my computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48377.html](http://www.nuforc.org/webreports/reports/048/S48377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Graniteville (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>We were riding in our car and I saw a what looked like two stars.  But tonight it was cloudy and there were no stars visible.  The lights were also too bright to be any star.  The lights turned red and flashed.  Then it started to move at a high speed that no airplane could match. Nearest airport is small and would not have airplanes of this size.  If it was a bigger plane heading to the biggest airport in the area, it was heading far more east than the airport.  Too fast for a drone or helicopter.  We opened the car window, if it was a plane or helicopter we would be able to hear it.  But it was quiet.  Also, it was flying really low.  We saw it for about twenty seconds before it flew out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144132.html](http://www.nuforc.org/webreports/reports/144/S144132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
