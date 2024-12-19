@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:39 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bethel Park (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>On this foggy evening, we witnessed a very large aircraft make a low, nearly silent, L shaped turn at a very slow speed.L shaped flight.  Slow.  Slow Left Turn.  Very quiet for how low it was flying.  Very large aircraft.  Lights in front, left, right and rear.  Red light in rear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116106.html](http://www.nuforc.org/webreports/reports/116/S116106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huber Heights (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Entire family sees very large, stationary, bright light in the night sky which simply disappears all at once.While looking out of my front door, I noticed a very large and bright light within my peripheral vision.  At first, it slowly moved, but then seemed to stop and hover in the night sky.  Thinking that it would change, I stared for quite a long time after having called my husband and children to look as well.  My entire family was mesmerized at what they saw because of the brightness of it and yet it did not move.  We called our local Air Force base [Wright Patterson, Dayton, Ohio] in which the officer asked my husband if he had been drinking?  However, after much convincing, he then gave us 2 numbers to report a UFO.  And then after about an hour, the object simply disappeared with a quickness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131812.html](http://www.nuforc.org/webreports/reports/131/S131812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
