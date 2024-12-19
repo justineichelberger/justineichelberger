@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO realized it had been spotted.I had been doing night sky observations for little under a year with my interest in UFO sightings.  I haven't stopped scrutinizing every brightly lit star in the night sky that wasn't sharply light or was too large and seemed to be within the atmosphere.  Most of my observations of the stars that seemingly appear large also carry with them atmospheric haze as though they appear to be within the earths' atmosphere leaving me to believe they are not stars.  The one star that I found questionable always appears in the same spot in the night sky.I got off work at 2pm December 19th (Thursday) and went Christmas shopping with my wife.  It had been hazy weather through the week but on thursday I noticed we had clear weather.  We had been out shopping for around 6 hours before we decided to head home.  Around 8:20 to 8:30 we pulled into driveway of the apartment complex facing west.  I would guess that somewhere between south and southwest is where I originally spotted one of my stars of interest.  That star decided it wanted to put on a show when we came down the driveway that night.  I noticed it was lower, closer (brighter), and was brilliantly lit with changing colors.  As soon I saw it I told my wife to slow down before we park so I could point it out to her.  As soon as we both observed the star(ufo) it began to slowly move to the left (Southwest).  I asked my wife to circle the driveway so I could see what it was going to do.  As soon as it stopped moving we began to inch forward and we stopped to noticed that it began moving again slowly to the left towards the tree line behind the apartments.  Again it stopped.  We inched forward again slowly only to stop again to notice it moving slowly again almost as if in response to us noticing them.  It continued to move in the same direction right behind the trees and that was all we witnessed.  I'm expecting their return.  No contact yet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105638.html](http://www.nuforc.org/webreports/reports/105/S105638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Eleven bright, orange colored orbs. First four in a formation type pattern, the next seven in a straight line.All objects were sphere shaped, orange in color.  First two objects were side by side with a small space in between, the next two objects were following close behind and spread a little wider.  These objects were in a formation pattern. As they passed, they faded slowly one by one.  There was a slight gap and then the fifth orb appeared and (was following in the same path as the first four).  Followed by the seventh, eighth, ninth, tenth, and eleventh orb.  These latter orbs were in a straight line formation.  They would start bright far away and as they neared, they would fade.  The night was clear and moon/stars were visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105466.html](http://www.nuforc.org/webreports/reports/105/S105466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
