@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Gliding silver object there one second, gone the nextOn 12/19/03, at 11:00 a.m. in Austin, Tx. I was taking my daily walk.  It was a clear, beautiful, sunny day.  I felt compelled to look behind me; there was no one on the trail, but I looked up because my eye was caught by what I thought was a plane, but it didn't have the body of a plane.   It was at about 20 to 25,000 ft altitude.   The sun shone on it and there was a silver, metallic flash on the body.  I watched it gliding and in seconds it vanished into thin air, completely evaporated.  The sighting was of too short duration to determine the shape of the object. I knew I had seen an unidentified object.  I continued walking.  I subsequently counted 20 airplanes at approximately 30 to 35,000 ft altitude going towards or leaving Austin Airport.  Each one of them left contrails.   The object I saw had no contrails.    After counting the 10th plane, I saw, going in the opposite direction in a haphazard way, a tiny ball.   It was illuminated by the sun and completely disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33936.html](http://www.nuforc.org/webreports/reports/033/S33936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Multicolored large, bright  object  in Southeast sky over Lockport Illinois.There was a object hovering in the Southeast sky on Monday Dec 19 2005 over Lockport IL.  It was higher then an airplane but lower then stars.  It was quite large in relation to stars or planes.  It flashed blue, green, and white.  On the zoom lense of my video camera it looked like a ball of energy--with a center core of white light. (Like the toy they sell at the mall--the sphere where if you put your hand on it all of the light goes to your fingers).  We have hours of video tape and could not stop watching this mystery.  That night we also saw several red pin sized dots all over the sky.  We called the police and they could not explain what it was.  I would like to know what this is!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48404.html](http://www.nuforc.org/webreports/reports/048/S48404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
