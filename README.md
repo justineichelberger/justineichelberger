@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:39 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:38 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huber Heights (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Entire family sees very large, stationary, bright light in the night sky which simply disappears all at once.While looking out of my front door, I noticed a very large and bright light within my peripheral vision.  At first, it slowly moved, but then seemed to stop and hover in the night sky.  Thinking that it would change, I stared for quite a long time after having called my husband and children to look as well.  My entire family was mesmerized at what they saw because of the brightness of it and yet it did not move.  We called our local Air Force base [Wright Patterson, Dayton, Ohio] in which the officer asked my husband if he had been drinking?  However, after much convincing, he then gave us 2 numbers to report a UFO.  And then after about an hour, the object simply disappeared with a quickness.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131812.html](http://www.nuforc.org/webreports/reports/131/S131812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Joliet (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : 2 objects seen in clear sky hovering. seen while driving E on US 30. Object 1 appeared to 'float' around object 2. Glint from top of one attracted attention.2 objects appeared to be floating or hovering in the eastern sky. Approximate angular size was .1 degree. objects had a dull aluminum color on top. Bottom was solid black. Top was a little more deformed than a perfect circle, bottom also. one object was glinting the sun off the top of it, the other was hovering below it by approx 1 degree. Objects were observed for a period of travel of about 8 miles down US 30. Upon turning the went behind a large oak tree and then were unable to be located. Observer is well versed in astronomy and weather. And is familiar with weather ballons, many are launched from a near-by University. NOT a weather baloon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03079.html](http://www.nuforc.org/webreports/reports/003/S03079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
