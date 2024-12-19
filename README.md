@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Katy (TX) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Low and slow in the Houston night sky.The object appeared to be 1 to several thousand feet high, moving slowly without any noise. Shape was chevron with orange lights highligting the shape. It was a clear night sky and the orange lights were very, very dim and the craft did not stay in view very long. If the object were actually high in the sky, it would have been an enormous object. This occured while my 5 year old son was looking at the stars and wanted to know what that was. At first I did not see it but then I noticed the shape blocking the light of the stars. I am an ex-USAF pilot having flown the C-141B all over the world. This is my first experience with something I can't explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26712.html](http://www.nuforc.org/webreports/reports/026/S26712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Christiansburg (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Driving on 460 towards christiansburg from blacksburg.  passing the peppers ferry road exit.  Saw 4 white lights shape of a box.  Hovering left to right 4 times and flew off in the horizon.4 people in the car witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95354.html](http://www.nuforc.org/webreports/reports/095/S95354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
