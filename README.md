@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Multicolored large, bright  object  in Southeast sky over Lockport Illinois.There was a object hovering in the Southeast sky on Monday Dec 19 2005 over Lockport IL.  It was higher then an airplane but lower then stars.  It was quite large in relation to stars or planes.  It flashed blue, green, and white.  On the zoom lense of my video camera it looked like a ball of energy--with a center core of white light. (Like the toy they sell at the mall--the sphere where if you put your hand on it all of the light goes to your fingers).  We have hours of video tape and could not stop watching this mystery.  That night we also saw several red pin sized dots all over the sky.  We called the police and they could not explain what it was.  I would like to know what this is!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48404.html](http://www.nuforc.org/webreports/reports/048/S48404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Christiansburg (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Driving on 460 towards christiansburg from blacksburg.  passing the peppers ferry road exit.  Saw 4 white lights shape of a box.  Hovering left to right 4 times and flew off in the horizon.4 people in the car witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95354.html](http://www.nuforc.org/webreports/reports/095/S95354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
