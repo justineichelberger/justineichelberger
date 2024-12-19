@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>2 blue-lit conicle objects rotate around each other and then "morph" into 1 object and disappear.While I was out at my car on break from night shift I happened to look at the incredible stars. As I looked up I saw 2 objects that looked like conicle, blue-lit, smooth objects. The objects rotated around each other several times. I called over to several co-workers that were nearby. They also looked up and saw the objects. As we all stood there the objects seemed to "morph" into a single object. About 10 seconds later they disappeared completely from sight. None of the 4 of us could even fathom what the objects/object might have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33995.html](http://www.nuforc.org/webreports/reports/033/S33995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.0033333333333333335 - 0.0033333333333333335 minutes.</sub><blockquote><sub>THE OBJECT WAS LONG LIKE A AIRPLAIN , BUT HAD NO WINGS, ONLY SMALL PROTRUTIONS. IT WAS ALL BLACK , WITH NO LIGHT REFLECTION. NO SOUND. IT WAS ABOUT 1 MILE AWAY, LOW TO THE GROUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34118.html](http://www.nuforc.org/webreports/reports/034/S34118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
