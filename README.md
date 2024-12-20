@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I just read an article about lights seen in Cedar Rapids Iowa at 3:00 am of the 21st.  (Sic.  20th)http://www.kcrg.com/news/local/Astonishing-Lights-Reported-In-Sky-Over-Cedar-Rapids-184314161.html I also happened to see these lights and happened to be returning home from a photo shoot and have pictures of the Lights seen.  I'd assumed they were the northern lights.  According to the article they heard a sound also, which I did not hear.I seen them in Solon Iowa from times of 3:00-3:45.My email if you've any questions is ((e-address deleted))   Sent from my iPhone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95395.html](http://www.nuforc.org/webreports/reports/095/S95395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>5 amber  ufos were flying in weird formations over our heads.my friend and me witnessed 4 or 5 ufos shaped like cones without points.one traveled right over us. the object blinked a redish light. all the objects seemed to have an amber aoura around them. the object that passed above us had emitted a smaller bright object. two of the objects dissapeard from view and another traveled over a convenience store further down the road, we ran down the road but the time we got there the object was gone. before that we saw the same object flt in a strange formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34035.html](http://www.nuforc.org/webreports/reports/034/S34035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
