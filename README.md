@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Haysville (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They were both very big I think the 2 witneses thought the same thing  as me it was the most awsome and frightening night of my LIFE!!The U.F.O. was  a saucer that was on fire,looked like fire ball with big sparks coming off of it,other one was a sphere with smoke coming from it,sparking,and it was crash landing.The second one looked like it hit the woods or close to Buttler county.Also first one suspiciously didn't crah it landed!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48614.html](http://www.nuforc.org/webreports/reports/048/S48614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>huge blue comet like light falling to earthI was driving home from work.  I saw a huge blue light fall to the earth.  It was very large, looked like comet with a tail.  It scared me, because I was sure it would cause damage and I waited for the impact, but it never came.  ???  Did anyone else see it?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60443.html](http://www.nuforc.org/webreports/reports/060/S60443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
