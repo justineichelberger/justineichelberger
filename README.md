@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately still occuring - still occuring minutes.</sub><blockquote><sub>Three cone shaped lights rotating steadily every three seconds they meet in the center where another dimmer light is located.Laying down in bed messing with my phone then in the corner of my eye I see a light dipping in and out.  Of course I turn to my window to actually see what it is and well there are 3 cone shaped lights spinning in a full circle then then all meet in the center about every three or four seconds, in the center how ever is yet another light that is dimmer than the others.  The event is actually still going on as I type this, no sound or anything.  Funny thing is this is not my first encounter with this about two months ago there was a single spinning light that resembled what a medalion would look like if spun it always followed the same path at the same height.  Even before that how ever me and some friends saw what appeared to be to be like a Phoenix in the sky then it simply disappeared as some planes came by its loaction, not long after it randomly appeared again before rising steadily and disappearing in a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95359.html](http://www.nuforc.org/webreports/reports/095/S95359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Stockport (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>As I was making my home from some pre-christmas celebrations, I could make out a light above the fog.  It was jiggling about at break neck speed, so I was sure it was not a plane.  As I inspected closer I made out a driver, he looked like Greenback from Dangermouse, he flipped me off, and disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54101.html](http://www.nuforc.org/webreports/reports/054/S54101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
