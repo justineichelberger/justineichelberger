@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Emsworth (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Similar Slow Moving Crafts In The Sky.I was sitting on my porch when I looked up I saw a statinary object with blinking lights. After about 10 seconds it started slowly moving east. As I followed, it began moving faster. After it went out of sight, I looked into the western sky and saw 2 more objects at the same altitude with the same green red and white blinking light pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34048.html](http://www.nuforc.org/webreports/reports/034/S34048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I just read an article about lights seen in Cedar Rapids Iowa at 3:00 am of the 21st.  (Sic.  20th)http://www.kcrg.com/news/local/Astonishing-Lights-Reported-In-Sky-Over-Cedar-Rapids-184314161.html I also happened to see these lights and happened to be returning home from a photo shoot and have pictures of the Lights seen.  I'd assumed they were the northern lights.  According to the article they heard a sound also, which I did not hear.I seen them in Solon Iowa from times of 3:00-3:45.My email if you've any questions is ((e-address deleted))   Sent from my iPhone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95395.html](http://www.nuforc.org/webreports/reports/095/S95395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
