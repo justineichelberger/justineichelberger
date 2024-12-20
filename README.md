@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>UFO SIGHTING THAT MADE ME A BELIEVER & THERES MOREFirst I noticed a form of stars I never recognized shaped  in the form of a capital slanted "M".  I noticed not too long after that a light moving in the sky near it moving slowly from right to left but it had no flashing lights.  The course it seemed to be on didn't look as if it had any intentions on landing. I watched this object for at least a min or 2 when I went to reach for my phone.  I looked up after dialing a friend  & it disappeared.  I stared at the area to catch any sign of movement & there was nothing.  I went inside to tell a associate of mine about it then decided to go back out onto the porch to see if it returned.  I stood there for about 2-3 mins when I saw movement out the corner of my eye.  It seemed to be the same light because it was coming from the direction the first disappeared in.  The only difference this time is it gradually slowed down almost to a stop & when it picked up speed again it kind of went in a diagonal slant slowing, stopping & then going til it cloaked out near the M</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88151.html](http://www.nuforc.org/webreports/reports/088/S88151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Mexico City (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>clearly a flying suacer, solid, bright, silent , hovering at the top corner of a high rise building then flying away in an instant.Approximately Dec. 21, 1980 my sons Jason (age 7)  and Michael age 10) and I (36 yrs old at that time) looked up to the sky and saw a large, bright, flying saucer flying over the top of a large high rise building in Mexico City, Mexico.   We were heading home to our hotel while on a Christmas vacation. My husband was well ahead of us and although we screamed to the top of our lungs and jumped up and down to get his attention, did not believe us and never turned around to see it.  The “saucer” was very bright white, had many windows all the way around it, was very silent and  came from behind the building, hovered over us and the building and then proceeded to go very quickly back up and disappear. We were more excited than frightened, but it was also rather alarming because we had never seen a flying object move like that in terms of silence and speed.  It was very bright and made of a solid material.   The windows did have light in them, but we did not see any objects or living creatures inside the windows.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63209.html](http://www.nuforc.org/webreports/reports/063/S63209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
