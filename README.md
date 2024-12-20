@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mayville (ND) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Slow moving Ball of White Light with several different other colors attached above small town in NDThe town of Mayville is approximately 4 miles WSW (almost West) of my house as the crow flies. My driveway is .2 miles straight and the entrance faces Mayville. At 18:45 I went to walk to the mail box. Above the grain bin lights of Mayville, I noticed a Ball of White light with Red, Blue, and Green intermittent lights which weren’t blinking, just appearing then disappearing in a seemingly random pattern. At first I thought it may have been a Helicopter, no noise, it was just hovering. I then noticed 3 single engine prop planes (used extensively in the area for crop dusting). These 3 planes were coming from different directions. You could hear their engine noises. Their flight pattern suggested there was a destination – one was heading North, one heading East, the other heading South. Their moving lights and sound suggested they were close to Mayville at the normal altitude. The light I saw was moving slowly toward the West and in comparison to the Prop plane! s was extremely bright. After ruling out a helicopter, I thought it might have been a star. A star cannot move and the cloud cover was at first above the light then the light went into the cloud cover. You could see a ‘glow’ from the clouds. This was ruled out when it disappeared into the low flying clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86037.html](http://www.nuforc.org/webreports/reports/086/S86037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Emsworth (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Similar Slow Moving Crafts In The Sky.I was sitting on my porch when I looked up I saw a statinary object with blinking lights. After about 10 seconds it started slowly moving east. As I followed, it began moving faster. After it went out of sight, I looked into the western sky and saw 2 more objects at the same altitude with the same green red and white blinking light pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34048.html](http://www.nuforc.org/webreports/reports/034/S34048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
