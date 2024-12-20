@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>huge blue comet like light falling to earthI was driving home from work.  I saw a huge blue light fall to the earth.  It was very large, looked like comet with a tail.  It scared me, because I was sure it would cause damage and I waited for the impact, but it never came.  ???  Did anyone else see it?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60443.html](http://www.nuforc.org/webreports/reports/060/S60443.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Winston Salem (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Every Night, Multiple Sightings. Peacekeepers!Multiple peaceful flying craft witnessed that were not traceable on any of the flight reporting networks. These appear in many areas of the Sky, in various altitudes, and speeds. The physics and direction they fly in do not comply with standard aircraft. I have seen them as single craft at-a-time but many in the sky at once (up to 15 one night) on different flight paths. this morning there were 8-12 within a manner of minutes, one after another until one last one flew by and crossed paths with the last 2. Shortly after the sunlight broke, I witnessed 3 (three) man made airplanes all in “pursuit” but headed in the opposite direction from which the other craft were headed. I have honestly seen hovering or what looks like a star” nearly every single night since December 5, 2019. December 18, 2019 One flew low enough across Silas Creek Pkwy at Country Club Rd. Bridge that I saw the BEAUTIFUL multiple colored lights on it as he flew over with such clarity and wit! hin 50-75 feet above me. I have seen and recorded footage of all aside from the driving eyewitness near country club road...including two daytime “silver pill” shaped craft gliding across the skies at a high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151811.html](http://www.nuforc.org/webreports/reports/151/S151811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
