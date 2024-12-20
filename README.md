@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>5 amber  ufos were flying in weird formations over our heads.my friend and me witnessed 4 or 5 ufos shaped like cones without points.one traveled right over us. the object blinked a redish light. all the objects seemed to have an amber aoura around them. the object that passed above us had emitted a smaller bright object. two of the objects dissapeard from view and another traveled over a convenience store further down the road, we ran down the road but the time we got there the object was gone. before that we saw the same object flt in a strange formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34035.html](http://www.nuforc.org/webreports/reports/034/S34035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cool blue fast flying cross shaped machine doing unbelievable gymnastics in the low sky at sunset.This craft was the same color as the last one I reported to you.  It was the color of the blue part of the flame in your cigarette lighter.  The outside of the flame is orange red, but the inside of the flame is beautiful blue.  Just like this.This craft came closer to my house this time.  I am not sure it was the same type of craft I saw last time since this one had a head and a tail and seemed to be in the shape of a diamond, or cross.  It also had running lights on the outstretched wings and tail.I am reporting this sighting to you because no conventional aircraft could maneuver the skies the way this guy did.  Like my last report, the craft went around the mountain just north east of the Reagan presidential library in Simi Valley, CA.This time the craft was doing some very beautiful and tricky flying.  All of us saw it.  I called my roommate Alex so he saw it too.  It feels good that so many of us saw it in the back yard.  Alex and I were the only adults.  The rest were children ranging from 4 years to 12 years.It occurs to me that my grandson’s father works for a company that manufactures government drones not too far from this site and this may be a test run of one of their machines.  I only know that this thing moved very fast and circled the area of over 3 miles in seconds doing acrobatics whilst in flight.  It was cool.  I want one!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73749.html](http://www.nuforc.org/webreports/reports/073/S73749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
