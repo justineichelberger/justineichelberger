@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:13 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Aneta (by/near) (ND) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Coming from Grand Forks going west on highway 15. We were looking at Christmas lights when we noticed 5 white lights to the south of us in a circular position.These lights were big not like an airplanes.They flashed one at a time, when the last one came on the others disapeared.Then the lights disappeared.This was a moonless night and we didn't see what shape the object was that the lights came from.So as the lights dissapeared we looked for a sign to let us know our location and it said Aneta 3 miles.That's it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20971.html](http://www.nuforc.org/webreports/reports/020/S20971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Georgetown (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Less then a year ago I heard (felt,perceived), for lack of a better term something outside my bedroom in Georgetown Indiana.  I looked outside to see three saucer (dinner plate) sized UFOs hoovering about a foot off the deck.they were moving in a spinning motion it seemed ,though they spun at a rate in which its hard to say spinning with accuracy.  The one in the middle was slightly larger and had a very soft glow, luminance and the outside rim was flipping up and down intermittently, but there was no noticeable hinge or break in its solid form.my first thought was I wasn't seeing this and I looked away,on second glance I looked away and rubbed my knuckles into my eyes to "clear" them.on third glance I thought if these are moving then they must be displacing air.there was a weird distortion around them similar to heat rising from a road, but this was night and I only noticed this distorted air around these three objects, the larger one being in the middle with the other two on each side of it.only the one in the middle had a noticeable luminous glow.there were leaves on the deck approximately a foot under them,  and mere inches below the distortion.  My thought was they would be moving with these objects moving above them but they were absolutely still.i feel I must say that sometimes I am more brave then smart.if I believe people or animals to have been on the property I would investigate, sometimes running flat out to the potential threat to my home, family or pets.  I had an unexplainable dread,a terror wash over me and I backed myself out of the room trembling. I was stuttering and stammering unable to take my eyes from the bedroom door as I tried to speak when my fiance took note of my behavior and asked what was wrong in a concerned tone  .i had an image that kept playing over and over in my mind that also is inexplicable.  That image was of a snow owl with spread wings flying towards me over a snow covered area.  im not scared of owls  .has anyone had a similar experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158623.html](http://www.nuforc.org/webreports/reports/158/S158623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
