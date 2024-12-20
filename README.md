@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 19 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Florence Jct./Reymart (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While camping in the Cottonwood canyon Rd., along the gas line rd., I awoke to my dog growling and staring north.  I looked to see what he was staring at and seen 2 floating spheres that looked metallic.  It was as though these things were watching me.  I reached for my phone to get a pic, never taking my eyes off of them.  It was approximately 21:53, (9:53 pm), then they abruptly reversed toward the north at incredible speed, made a sharp turn on a dime and sped away to the east toward reymert, just south of the 60, towards superior.  They illuminated bright red upon turning north, one over the top of the other, and 25 to 30 ft. above the ground, hauling ass at unbelievable speed.  There was no sound at all.  Whatever they were, they were not of this world.  I believe these things were probes of some kind.  Just my belief.  I'm camping out for awhile hoping they come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131819.html](http://www.nuforc.org/webreports/reports/131/S131819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately still occuring - still occuring minutes.</sub><blockquote><sub>Three cone shaped lights rotating steadily every three seconds they meet in the center where another dimmer light is located.Laying down in bed messing with my phone then in the corner of my eye I see a light dipping in and out.  Of course I turn to my window to actually see what it is and well there are 3 cone shaped lights spinning in a full circle then then all meet in the center about every three or four seconds, in the center how ever is yet another light that is dimmer than the others.  The event is actually still going on as I type this, no sound or anything.  Funny thing is this is not my first encounter with this about two months ago there was a single spinning light that resembled what a medalion would look like if spun it always followed the same path at the same height.  Even before that how ever me and some friends saw what appeared to be to be like a Phoenix in the sky then it simply disappeared as some planes came by its loaction, not long after it randomly appeared again before rising steadily and disappearing in a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95359.html](http://www.nuforc.org/webreports/reports/095/S95359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
