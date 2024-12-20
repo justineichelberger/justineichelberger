@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:17 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Great Mills (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It seems both objects hovered over the elementary and high school that day, which are approx. 2 miles.My mother called me at approximately 11:19 am on 12/20/12, she was at the stop light up from the street of our house.  She looked accross the street to the elementary school, and said she could see what she thought was spaceships.  The next day my daughter was at school, and her friend told her he was walking outside of the high school that same day, and saw 2 spaceships.  I have a pic to prove, what they saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95420.html](http://www.nuforc.org/webreports/reports/095/S95420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange ball above Green Bay, WIThe object was an orange sphere emitting its own light and made absolutely no sound.  The object moved South, sharply turned East and went behind clouds.  Wind direction reported for the day was Southwest at 2 miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73746.html](http://www.nuforc.org/webreports/reports/073/S73746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
