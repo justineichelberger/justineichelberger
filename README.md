@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Palacios (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ufo in palacios tx plzz turn head to left or turn screen to left i recorded in landscape mode so u can see it better.on December 12/21/2013 at 6pm i seen some wierd crafts rising of the ground it was no helicopter or airplane it had bright red light with yellowish to it. they moved slowly at an angle then they started to rise up straight moving forward.  they look like they were rising from across the bay where i'm from there is a nuclear plant across bay so it kinda looked like they were rising from there i only got to record 4 but my friend seen more and he said that there was like 2 lines of 5 air crafts in a line following 1 another i did not get to record that because that happened before i got there.  like they said u have to see it to believe it and i'm 110% sure that there is alien around us.  so please bare with me as i recorded this video with my galaxy note 2 its not to good of camera but i hope ya'll see it good i was shaking a bit of excitement and nervous at same time so camera is shaking a bit and please excuse language as i did not planed this it just happened ! and i only got to record this Please rotate your screen or head to left so u can see it perfectly i recorded in landscape mode so turn head or screen side ways so u can see it good ounce again excuse language and thnxx for taking your time in reading this and looking at video  http://youtu.be/6VBBr9_1__A((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105485.html](http://www.nuforc.org/webreports/reports/105/S105485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Excelsior Springs (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Yellow sphere shot across sky.. no trail.Yellow sphere shot across the sky. In the western missouri area.  I saw it from my house and my friend saw it in the next town over.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95368.html](http://www.nuforc.org/webreports/reports/095/S95368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
