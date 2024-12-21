@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:16 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Satellite Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 barely visible Dark brown lights in triangle formation heading NE across Sat Bch Florida.Last night on December 22, 2011 at 10:55pm I was lying on my driveway admiring the stars when I saw three large dark brown orbs zip across the sky. If I hadn’t been looking in just the right spot I would have missed it. It flew across the entire horizon in about 5 seconds heading NE (30 degrees). I couldn’t determine wither or not it was three separate lights or a whole craft, I want to say that it was not a formation because I didn’t observe any stars within the possible area of the craft.The color of the orbs was more of a dark brown than a dark red. Determining the size of the craft was more difficult, from my perspective the craft was 1 1/2“ to 2” in size.  Regardless of the craft’s size and altitude it traveled at incredible speeds with no sound.  Human aircraft was in the area but I didn’t see any.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85995.html](http://www.nuforc.org/webreports/reports/085/S85995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I looked up and saw what looked like a column of discs flying silently in formation as I arrived home around 10:pm 12/21/03.I was arriveing home around 10:30pm from playing a gig at a christmas party when, as I'm walking toward my house from the car, I glance up to look at the stars because it was such clear sky, and I think I see something like three or four falling stars at once. As I start to look down again I do a double take and they're still there. I see these gray circle shaped objects moving across the sky from south west to north east approximately. They were completely silent from my perspective. They seemed maybe three times the diameter of Jupitor but not as bright. I'm not sure but they seemed to be in rows of 6-9 across moving in a column. Their speed was about the speed of a passenger jet comming in for a landing at Dulles Airport. I happen to live under flight path to and from Dulles. These craft, or whatever they were, seemed to follow that flight path. I have no idea what their altitude was. If I were to guess I would say maybe seven or eight thousand feet. I can't be sure though. To give you some idea of what it looked like to me, the first impression I had was that of a planetarium moving the lights across the sky. Eccept the circles positions relative to each other were not stationary. They sort of floated very slightly in relation to each other as they moved across the sky. I can't say how many because the column was there when I looked up. From what I saw it could have been anywhere for 15-1500.((NUFORC Note:  We do not know what the witness observed.  The report does not seem to us consistent with an observation of a flock of migratory birds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34053.html](http://www.nuforc.org/webreports/reports/034/S34053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
