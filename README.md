@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:16 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:01 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I looked up and saw what looked like a column of discs flying silently in formation as I arrived home around 10:pm 12/21/03.I was arriveing home around 10:30pm from playing a gig at a christmas party when, as I'm walking toward my house from the car, I glance up to look at the stars because it was such clear sky, and I think I see something like three or four falling stars at once. As I start to look down again I do a double take and they're still there. I see these gray circle shaped objects moving across the sky from south west to north east approximately. They were completely silent from my perspective. They seemed maybe three times the diameter of Jupitor but not as bright. I'm not sure but they seemed to be in rows of 6-9 across moving in a column. Their speed was about the speed of a passenger jet comming in for a landing at Dulles Airport. I happen to live under flight path to and from Dulles. These craft, or whatever they were, seemed to follow that flight path. I have no idea what their altitude was. If I were to guess I would say maybe seven or eight thousand feet. I can't be sure though. To give you some idea of what it looked like to me, the first impression I had was that of a planetarium moving the lights across the sky. Eccept the circles positions relative to each other were not stationary. They sort of floated very slightly in relation to each other as they moved across the sky. I can't say how many because the column was there when I looked up. From what I saw it could have been anywhere for 15-1500.((NUFORC Note:  We do not know what the witness observed.  The report does not seem to us consistent with an observation of a flock of migratory birds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34053.html](http://www.nuforc.org/webreports/reports/034/S34053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dunedin (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately persistent - persistent minutes.</sub><blockquote><sub>First noted craft hovering, then rotating white lights at a nearby location.While waiting at a light at SR5 80 and Pinehurst, I noted a large, dark deltoid shape with multiple lights hovering in the sky.  It reminded me of some craft I'd seen in UFO reports.I drove home, fairly nearby, and after stashing groceries decided to look for it again.  As I stood in my driveway I did not see the craft but did note a number of white lights rotating among themselves in the sky.  When I returned to my house several minutes later, the lights persisted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124792.html](http://www.nuforc.org/webreports/reports/124/S124792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
