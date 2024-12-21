@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Wethersfield/Hartford line (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular lights, hovering, no sound....I was with my wife,heading south, going to store in my auto.  noticed a bright white flash of light in sky the  about 6 city blocks from me  .thought it might be a low flying helicopter.proceeded south and noticed 2 yellowish orange lights where the initial flash came from.  I then pulled into store parking lot, almost under lights.grabbed my binoculars and got out of the car.looked up and could see nothing but blacker than the sky and still 2 lights.leaned down into car and said to my wife,do u see that?what the hell is that?  Looked up,now 3 lights in triangle shape, hovering...still no sound, and had a Feeling it or they seen me....whatever it was ,was big,based on light pattern,and i would say it was about 400 yards in the air,i am not positive, but i would say 3 or 4 football fields in the air.  still not seeing anything thru binocs but blacker than the sky triangle.  i put binocs in car, look up and its gone....do a 360 and the only thing i see is a small rectangle of! light as bright as the first flash i seen, heading north/ northeast and getting smaller and smaller until it disappeared from my view in a heartbeat. still dumbfounded....not a big UFO guy.  Didnt know who to report it too or if i should even bother.  But i cant stop wondering what this was.  can be reached by email provided if necessary.  thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139423.html](http://www.nuforc.org/webreports/reports/139/S139423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two Cone craft, 1 emitted beam, hovered over felid and pasture, then shoot back up  Was on my Ranch, when two, Fully white cone crafts came in view, one went over the west pasture, one over the feild, I snapped a few pictures, after about 5 minutes 1 emited a white light, then they both shoot back up. after reviewing the Pictures,  No of the crafts showed up in the pictures, also, two of my horses where never seen again((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79355.html](http://www.nuforc.org/webreports/reports/079/S79355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
