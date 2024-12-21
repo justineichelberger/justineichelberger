@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>hovering object flashing white then red light. no sound. medium altitude. second object just red. random movement. they would move then hover.  no helicopter could do that kind of movement or hovering without making a lot of noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131840.html](http://www.nuforc.org/webreports/reports/131/S131840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Toledo/Salkum (Between) (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>one of the ufo's did zig zag manuevers across the sky west of Mt Rainer and the other one stayed fairly stationary...the the one doing all of the zig zaging ..suddenly disappeared into the southern sky towards Portland ,or...then a minute or so later the other one disappeared behind it in the same direction..it was fairly dark..just before daybreak...appeared as bright oval lights high in the sky...wouldn't have thought too much about it except none of the aircraft I know of ...can go that quick accross the sky in a abnormal zig zap ...zip zip fashion ..then when I got to work in Portland,Or...the employee sitting next to me...told me he believed he saw a UFO over Beaverton, Or...around 8:30am this morning...so possibly could have been the same ones ???I work for ((company deleted)) and drive to Portland, Or everyday. Have lived at 123 n spencer rd, onalaska, wa for over 8years ..and this is the 2nd time I believe I have saw ufo's in this area. We live west of Mt Rainier and on the cowlitz river. It was too dark to get much of a description other than oval shape and bright lights...they were quite high in the sky It appeared to have some colored lights on the bottom other than the regular headlight appearing color</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11442.html](http://www.nuforc.org/webreports/reports/011/S11442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
