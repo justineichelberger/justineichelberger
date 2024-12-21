@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 20 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Corydon (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>White ball of light, erratic movement, sudden dissapearence.I saw a white ball of light moving up and down erratically just above the treeline while I was riding my bus to school. The object was moving fast and as I watched it, it sped up and dissapeared behind the trees for a interval of around 2 seconds. It reappeared then vanished. I watched for it to return but it didn't. Many craft of this kind are sen in my area. It's a phenomenon referred to as the "Corydon Lights". Many teachers at my school, among other adults, have actually talked about seeing them, they are popular enough to even be mentioned in a Topics class at my highschool.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54119.html](http://www.nuforc.org/webreports/reports/054/S54119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Satellite Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 barely visible Dark brown lights in triangle formation heading NE across Sat Bch Florida.Last night on December 22, 2011 at 10:55pm I was lying on my driveway admiring the stars when I saw three large dark brown orbs zip across the sky. If I hadn’t been looking in just the right spot I would have missed it. It flew across the entire horizon in about 5 seconds heading NE (30 degrees). I couldn’t determine wither or not it was three separate lights or a whole craft, I want to say that it was not a formation because I didn’t observe any stars within the possible area of the craft.The color of the orbs was more of a dark brown than a dark red. Determining the size of the craft was more difficult, from my perspective the craft was 1 1/2“ to 2” in size.  Regardless of the craft’s size and altitude it traveled at incredible speeds with no sound.  Human aircraft was in the area but I didn’t see any.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85995.html](http://www.nuforc.org/webreports/reports/085/S85995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
