@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Large shooting star over eastern skyWhile leaving a Christmas party (where neither I or my husband consumed alcohol), I looked to the eastern skyline and saw a shooting star larger than I have ever seen in my life.  It loked as if it had perhaps entered the atmosphere.  The head was colorful, purple and green.  The tail was yellowish like a "normal" shooting star.  I exclaimed my amazement, and my husband looked up in time to see the tail end of the streak.  I came home and checked the news to see if anything had crashed, but apparently not.  I love watching meteor showers, but this was like nothing I have ever seen in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41225.html](http://www.nuforc.org/webreports/reports/041/S41225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portales (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright neon green light lights up horizon.Heading East on I-70 towards Portales, NM, in pitch darkness, no oncoming traffic or any other vehicles on the road but our own 2 vehicles.  Suddenly, a bright neon green light that lit up the horizon appeared directly ahead of us off in the distance.  The light appeared neon green for about 5-7 seconds then turned into a bright white for about 3 seconds before completely diminishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116142.html](http://www.nuforc.org/webreports/reports/116/S116142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
