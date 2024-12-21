@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fairview (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO sightings in the eastern sky.In the eastern sky we observed a total of what appeared to be three ufo's that  changed in shape and size.  We documented this event via camcorder for approx. 1 hour 30 mins.  The largest ufo appeared yellowish in color around the perimeter and had a redish center.  The two smaller ufo's where mainly red in color and were only visible for a 10 min period. The objects often moved and changed shapes and sizes.  The larger ufo at times resembled the moon, other times it would appear to break apart into multi objects and other times it appeared to rotate into the shape of a half moon.  This sighting was clearly the most out of this world my family has ever had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41209.html](http://www.nuforc.org/webreports/reports/041/S41209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Strasburg (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>V Shaped Object Over Strasburg, VAArrived at my house around 9 pm just east of Strasburg, VA, when I noticed a series of lights coming over Signal Knob mountain.  The lights formed a triangle or "V" shape.  At first there were only 3 but then 2 additional lights turned toward the front of the object.  We watched the lights for several minutes, they were white, in a straight line, and moved silently and slowly.  The object was large, probably 1000 feet in length and was entering the Dulles flight path.  It soon turned and headed south and eventually faded out of sight.  A few minutes later, we saw 5 aircraft coming from Washington, DC, area at a high rate of speed directly toward where the object was heading.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141646.html](http://www.nuforc.org/webreports/reports/141/S141646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
