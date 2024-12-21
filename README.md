@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>starting shining extemely brightley then just shot offI Was in a park then a huge oval thing in the sky just lighted up for about 10 seconds then just shot off, when it was lighting up it was so bright it was like a sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48420.html](http://www.nuforc.org/webreports/reports/048/S48420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bear (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multiple sightings of a perfect circle of light that is replaced by three dimmer lights in an equilateral triangle.The night before my sighting, my sister told me of a peculiar event of her own. About a week before she had seen strange aircrafts about a half hour apart. She described each of the craft as a perfect circle of light that looked like an over-sized star or planet, which was moving strangely around the night sky. When she paid very close attention to it, trying to figure out what it was, the circle of light disappeared, and was replaced by three smaller, dimmer lights, which formed an equilateral  triangle, as if it were trying to look less bright. The three lights then got dimmer and dimmer, until they disappeared altogether.I was a little skeptical. I believed she saw something, but I thought she must have been mistaken, and that it was really just a helicopter. However, early the next morning, I went outside to go to the bus stop, and in the sky were two circles of light slowly moving in random directions. They were definitely not helicopters, or any other kind of aircraft that I've ever seen.One of the crafts disappeared while I had my eye on the second one. I stood staring at it for about a minute, and then I remembered that my sister had said that it seemed to retreat only when she really tried to figure out what it was. So I focused all my attention on it. Then, The craft spun to show a different side, which had three dim lights that formed and equilateral triangle. I was so in awe, that i didn't think to get out my camera, and all I could do was stare at it.The bus arrived, and so my sighting came to an end. I felt like I had been "visited," as crazy as it may sound, and I felt like it was because my sister tld me about her sighting. It was eerie.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61161.html](http://www.nuforc.org/webreports/reports/061/S61161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
