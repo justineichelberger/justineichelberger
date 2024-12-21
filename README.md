@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Very clear almost as if meant to be seen!Left half of cicular object in night sky among stars-seven lights in arc with two spokes-one in upper left quadrant and one in lower left quadrant.  It is in upper center of screen during TV show "Cougar Country" on NAT GEO WILD and due to repeat at 7AM Pacific time Dec. 28.  It occured for two seconds at the 27 minute 24 second to the 27 minute 26 second portion of program.  On television presentation of "Cougar Country" on NAT GEO WILD channel I saw left arc of circle in night sky-seven lights among stars with two spokes-one in upper left quadrant and one in lower left quadrant.  The sighting is for two seconds  at the 27 minute 24 second to 27 minute 26 second portion of program.  The program will repeat at 7AM Pacific time Sunday Dec. 28.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116162.html](http://www.nuforc.org/webreports/reports/116/S116162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>high speed cloud shape changing directionReport from West Palm Beach , Florida. Sighting  December 21,2007 17:20hrs.Cloud like object. I am a  60 year old business owner in WPB,FL. I was a Sgt. in USMC Air Corp.and know aircraft/atmospheric/astronomical events.I've seen aircraft on fire in the air, flare drops, rockets launch,blimps,meteors,comets, space debris ect.both day and night.My wife and I were driving home heading due west when I saw at our 12 oclock what appeared to be a small ,flattened oval shape, bright cloud about 50 degrees above the western horizon ,the sky was otherwise totally cloudless and blue, visibility unlimited.My second assessment was an aircraft and contrail at high altitude,  yet the shape just wasn't right.It was larger, brighter and more rounded at the front trailing to the rear but overall very short and unchanging in length or appearance.We were about 3 miles due west of Palm Beach International and a 737 which was climbing out on take off was of equal size .Meaning the cloud/object size was visually equal to the wingspan of the low flying 737, perhaps 3 inchs at arms length.The object was moving S and after 5 minutes was at our 8 oclock and dropping to 20 degrees above the horizon as we drove due west.I then watched the object move to the west of it trajectory as we were stopped at a long traffic light.I say move instead of turn because the object changed course to the west 20 degrees of view within 30 seconds but did not change shape, no curve to contrail,no change of aspect, just change of direction and location .It then dropped slowly below the horizon.to the SW.I judged its westerly turn as its view was briefly obscured by several concrete light poles at the intersection . We were stopped , watching through the drivers side window, the object began traversing from our left to right. First visible to the left of the poles then crossing behind and visable on their rightside. If it had not changed direction it would have simply settled below the horizon maintaining it movement to our left.Also the cloud appearance never changed, like a still photo of it moving accross the sky.Very strange event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60528.html](http://www.nuforc.org/webreports/reports/060/S60528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
