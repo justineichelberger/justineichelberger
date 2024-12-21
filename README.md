@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a dot in the sky moving slowly with my brother. We watched it move from northwest to northeast. Thought it was a satellite until it started changing direction. We saw 2 flashes/sparks come off of/towards it. One red tinted one white tinted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151800.html](http://www.nuforc.org/webreports/reports/151/S151800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Uncle and nephew have encounter with strange entity from glowing globe.I am a 43 yr old male, from ross co. ohio. I was  walking with ny nephew when we saw a bright light in the sky near our home.  It was following the hill that was located behind our house,then stopped and began to hover over a field on the hill.  We walked to the area carrying flashlights to find our way through the woods.  When we got to the field, we saw tht the light was above the treeline on the other side, and was fairly large.  We signalled the light with our flashlights and to our amazement, the light reacted by flashing, then changing shapes (pyramid,star,square-as if it was some kind of laser-light show). Then it returned to its circular shape and began to glow in a purple light, until the whole field was glowing purple also. We noticed what appeared to be some kind of entities coming out of the top of the globe, and they were gesturing at us with their arms. Then one came out of the globe completly and floated down until it stood in front of us.  It was shaped like a human, but was made completely of the purple light-like a hologram-and had no facial features, fingers on its hands, and wore a long robe. We tried to communicate with it to no avail, so I reached out my hand in a friendly gesture, and the being reached its hand out and put it on mine.  I felt no pressure on my hand, no feeling of a presence at all. We then noticed these four red blinking lights appear around the field, surrounding the field on each side.  One moved to the large  glowing purple globe then back to its position.  I had glanced up to see these lights and when I looked back at the being in front of me it was gone.  Apparently I had a lapse of memory once I touched the creatures hand, because I learned later from my nephew that the entity had floated back to the globe once the red light moved out of its position. I do not remember this happening. Once the being of purple light was gone we began to get very cold, and got a strange feeling of paranoia, like there was something else in the filed with us that we could not see.  So we went home rather quickly at this point. We found our dog hiding in the woods, it had ran off when the being floated down from the globe. I reported this  incident to MUFON, who sent mr hartinger from RUFOS and two other guys, to interview us. This incident was also published in the MUFON journal. Has anyone else ever had contact with this type of entity? Ive heard of the greys,blues,greens, but purple light???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46980.html](http://www.nuforc.org/webreports/reports/046/S46980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
