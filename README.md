@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:18 on 21 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two Cone craft, 1 emitted beam, hovered over felid and pasture, then shoot back up  Was on my Ranch, when two, Fully white cone crafts came in view, one went over the west pasture, one over the feild, I snapped a few pictures, after about 5 minutes 1 emited a white light, then they both shoot back up. after reviewing the Pictures,  No of the crafts showed up in the pictures, also, two of my horses where never seen again((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79355.html](http://www.nuforc.org/webreports/reports/079/S79355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Woodbury (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving to work today in Woodbury, Minnesota, and the sky was crystal clear. It was about 7:45am central time, and I was on freeway I-94 east looking at the sun rising when just to the left of the sun i saw a very bright "()" shaped object with a hollow center... It was extremely bright and vivid like a star. At first it was just outlines of that () shape which made me look closer because i have never seen anything like that with a "hallow."  I was trying to see which direction it was moving, and it looked like it was heading up at first, but as i kept looking it was heading downwards which made me wonder if it was a meteorite or something that entered our atmosphere.  But as it got lower it turned from the original hollow “()" shape to a solid circle.  That’s when I knew it was something weird, because there was no jet stream behind it or anything... and then it kind of hovered in place, and looked like a bright star. It then got ! really small like it was going further away from me, and then grew bigger a few seconds later like it was getting closer again. It was moving in all different directions; up, down, left and right…I knew this because I was measuring the gap between the object and the sun. It was early, so the sun was not harsh on my eyes.  I wanted to call the police or something but didn’t know who to call.  The only explanation I could think of for it being the “()" shape when i first noticed it, was if it was going at super sonic speeds into our atmosphere, giving that effect from such a far distance... I did not take a picture because it was too far away and would have just looked like a white speck on my camera phone.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95378.html](http://www.nuforc.org/webreports/reports/095/S95378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
