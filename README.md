@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw approx. 12-15 round white lights traveling in N/E in a straight line, spaced approx. the same distance apart. The objects appeared to be very high in the sky and moving very quickly. There wasn't any noticeable blinking lights that would typically be associated with regular aircraft, and there wasn't any sound. We are used to seeing planes in the area as we live in a flight path of O'hare Airport, but we've never seen anything like this before. We tried to take video from our cell phones but because of the night sky our phones weren't picking up the objects on video. We were able to get a few pics on our cell phone that showed some of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152323.html](http://www.nuforc.org/webreports/reports/152/S152323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Menifee (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Rocket or comet traveling fast northwest to south east. White bright with long sparkling tail as if something burning upThought it was a falling star or Comet, but it kept going. Had a long sparkling tail . Very white-bright, very fast traveling from Northwest to Southeast. Continued in same direction seemingly level across the sky until it was out of sight. When I saw it I asked the nearest stranger what it was, then everybody in the store parking lot looked up to watch it. Someone said it looked like a rocket.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124938.html](http://www.nuforc.org/webreports/reports/124/S124938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
