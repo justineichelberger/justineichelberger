@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orchard (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball that just disappearsWe were standing outside, looking at the stars and I was commenting on how low the clouds were blocking the view. We were looking in a north, northwest direction when a fireball appeared traveling northwest, almost in a slight angle. It was bright red with a long tail. As quickly as it appeared, it disappeared. It just went black. It didn't appear to have crashed into the ground as it went black above the horizon. It could have just disappeared in the clouds, but the clouds didn't seem to be that thick to me. It was an amazing sight and what perfect timing to be looking in that particular direction at that very second!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34074.html](http://www.nuforc.org/webreports/reports/034/S34074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw approx. 12-15 round white lights traveling in N/E in a straight line, spaced approx. the same distance apart. The objects appeared to be very high in the sky and moving very quickly. There wasn't any noticeable blinking lights that would typically be associated with regular aircraft, and there wasn't any sound. We are used to seeing planes in the area as we live in a flight path of O'hare Airport, but we've never seen anything like this before. We tried to take video from our cell phones but because of the night sky our phones weren't picking up the objects on video. We were able to get a few pics on our cell phone that showed some of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152323.html](http://www.nuforc.org/webreports/reports/152/S152323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
