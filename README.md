@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Astoria (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Eight small, silver- colored spherical objects over Columbia RiverI was talking on the phone, looking to the North, at the Columbia River.  I noticed several small, silver objects in the sky.  At first I thought they were balloons.  They were approximately as big around as a large pizza, from what I could see from 1/4 mile away.  The objects were round/spherical and silver.  Very shiny, the sun was out for a change and glinted off of them.  I think 3 of the objects were hovering or floating above the river/mooring basin. The height in the sky ranged from (guessing here,,,) 200 to 400 yards.  The original 3 came from the West. Then they were joined by 5 more.  These seem to have come from the East.  They hovered together.I watched the trees and the bushes.  There was not really much wind.  Not enough to make balloons move that rapidly.  I don't know how fast they moved, but it was rapid and kind of decisive.  I really thought they were balloons, did not pay a ton of attention until the group of 8 divided and 3 zipped over the hill, in a SW direction and the others zipped in an Easterly direction.  The movement of these objects was not a bobbing or weaving, slow motion, as a balloon would move when tossed by the wind.  It was decisive, quick.  Don't know what else to say except that I don't beleive they were balloons.((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20889.html](http://www.nuforc.org/webreports/reports/020/S20889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ramona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15:00 - 15:00 minutes.</sub><blockquote><sub>Update on last post same day same time.  It was a ballistic missile launched by the air force.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138013.html](http://www.nuforc.org/webreports/reports/138/S138013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
