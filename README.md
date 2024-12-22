@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Harlansburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was around 9:30 at night.  White lights coming out of the east sky.  No noise.  75 plus lights they disappeared in the moon light.  I looked in binoculars and noticed they were some sort of craft.  They were all spaced out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124911.html](http://www.nuforc.org/webreports/reports/124/S124911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw approx. 12-15 round white lights traveling in N/E in a straight line, spaced approx. the same distance apart. The objects appeared to be very high in the sky and moving very quickly. There wasn't any noticeable blinking lights that would typically be associated with regular aircraft, and there wasn't any sound. We are used to seeing planes in the area as we live in a flight path of O'hare Airport, but we've never seen anything like this before. We tried to take video from our cell phones but because of the night sky our phones weren't picking up the objects on video. We were able to get a few pics on our cell phone that showed some of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152323.html](http://www.nuforc.org/webreports/reports/152/S152323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
