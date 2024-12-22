@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw approx. 12-15 round white lights traveling in N/E in a straight line, spaced approx. the same distance apart. The objects appeared to be very high in the sky and moving very quickly. There wasn't any noticeable blinking lights that would typically be associated with regular aircraft, and there wasn't any sound. We are used to seeing planes in the area as we live in a flight path of O'hare Airport, but we've never seen anything like this before. We tried to take video from our cell phones but because of the night sky our phones weren't picking up the objects on video. We were able to get a few pics on our cell phone that showed some of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152323.html](http://www.nuforc.org/webreports/reports/152/S152323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large oval or triangular metallic object hovering in OKCI was driving southeast on NW Expressway at about 3:45 AM and to the East there was some object in the sky.  It appeared to be either oval or triangular in shape and was lightless. The only light that was present was the streetlights reflecting off of what looked like a metal hull.I kept going the same way until I came to a car stopped on the side of the road with two people standing outside staring at the object.  I stopped and got out and asked them how long it had been there and what it was, they said that it just showed up out of nowhere and they didn’t know what it was. After about 30 seconds of us standing there the object moved further east very rapidly until it was out of sight.  We decided to go further down the expressway to see if we could catch another glimpse of it. After about a mile it came into view again for about 1 minute before it flew off even faster than before and we lost all site of it.We talked about what we had seen for a couple of minutes and were honestly just wierded out by the situation.  We decided that there was no reason to call authorities so we said our goodbyes and headed our separate ways.This is not the first time that I have seen an object near or around NW Expressway but it is the first time that anyone else has seen in and it was bigger than ever before.  In all honesty I believe that it was some alien spacecraft, there’s no other way I could explain it.  This was definitely the strangest thing I have ever seen in my life. If anybody else saw this besides us I would love to know.  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67573.html](http://www.nuforc.org/webreports/reports/067/S67573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
