@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:22 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:26 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6 cigar shaped objects over VancouverThis sighting happened during a sunset with partly cloudy sky (low clouds in 6,000 feet level). The first pair consisted of 3 cigar shaped object were flying in and out of the  the clouds. They seemed to be a little bigger than 747 from that distance. The discribed objects had same size and same shape (this was proven when the picture of one of the objects was moved on top of the other ones which completely covered the other ones). These objects were flying near Vancouver International airport and over south vancouver near UBC. There were two pictures taken one 2 minutes before and another one 2 minutes after the sighting has occured and in none of these pictures there is any object of that sort visible. The next pair are moving over downtown vancouver. they are more like the cigar shaped object sighted in Iraq. After close look, there are some curved lines visible around each object.These lines seem to be related to the propulsion system of the objects. these objects were high above the clouds so there was a good chance for them to be above 6,000 feet. This second group was visible from above 6,000 feet, so they should a significant size. All the six objects were clearly in some sort of formation and they were going oppossit way, first pair to the south east and the second pair to the north west. There pictures avalible on request. During this sighting, there was no flight show of any kind and the cigar shaped objects were dangarously close to each other flying on top a populated area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41283.html](http://www.nuforc.org/webreports/reports/041/S41283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alamo (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very bright, white, light, sparatic movement horizontal to the horizon and then went vertical till it disappearedPlease call me, my husband and i are very nervous and still shook up over the event .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152465.html](http://www.nuforc.org/webreports/reports/152/S152465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
