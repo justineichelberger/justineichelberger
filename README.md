@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ramona (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15:00 - 15:00 minutes.</sub><blockquote><sub>Update on last post same day same time.  It was a ballistic missile launched by the air force.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138013.html](http://www.nuforc.org/webreports/reports/138/S138013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hemet and San Jacinto (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>12/22/2017, approximately 5:30 p.m :  Hemet, CA,  Two bright orbs traveled slowly from west to east, across the Hemet, CA dusk sky, one following the other. The orbs gradually disintegrated as they traveled slowly across the sky, leaving an enormous weird shimmery aura-like cloud around each orb.  As the orbs themselves slowly disintegrated, the clouds around each orb grew larger, the front one larger than the one behind.  The whole event took about ten minutes or so, the orbs ultimately leaving a huge jet stream type cloud in their wake.  Many people in my neighborhood saw this, and many took pictures.  I expect there is a down to earth explanation for this  phenomena, but what in the world are disintegrating guided missiles doing over the skies of Hemet, CA ?((NUFORC Note:  Rocket launch from Vandenberg AFB @ 5:26 p.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138011.html](http://www.nuforc.org/webreports/reports/138/S138011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
