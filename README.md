@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:06 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>The lights always seem to make all the neighborhood dogs bark. Also when the lights appear I get a massive headache and feel nauseous.I WAS WOKEN UP BY MY DOGS AND OPENED THE CURTAINS TO MY ROOM WIDE OPEN. IT WAS CLEAR SKIES AND THE MOON WAS BRIGHT,  I HAPPENED TO LOOK SOUTH EAST OF MY WINDOW AND TWO lighted OBJECTS MOVING UP AND DOWN AND SIDE WAYS.  I THOUGHT MY EYES WERE PLAYING TRICKS ON ME, SO I put my glasses on to take a better look and it was still moving around.  The left one was moving more then the right one.  I felt that I must be crazy, so I woke my boyfriend up and told him to look up towards the SE skies and he was looking at the the lights moving oddly as well.  He went back to sleep because he does not like to be woken up like that, but I kept looking at the lights until I fell asleep.  This has not been the first time I have seen lights move around like that.  About 2 years ago it happened similar like that but no one one believes me.  When this occurs I get a massive headache and feel nausea.((NUFORC Note:  Possible sighting of a planet??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138383.html](http://www.nuforc.org/webreports/reports/138/S138383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Dim Red glowing boomerang shaped craft looked as if it was hovering but moving forward fast not in a straight line,  As if flown like remote control helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116350.html](http://www.nuforc.org/webreports/reports/116/S116350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
