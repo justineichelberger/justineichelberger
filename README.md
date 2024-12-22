@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fast moving burning object.  Orange and white tail.Fast moving burning object.  Looked like a burning aircraft quickly descending in an arc as if it was going to crash.  Disappeared before i could take a picture.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124950.html](http://www.nuforc.org/webreports/reports/124/S124950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large, bright, green, fast moving object falling from the sky and suddenly vanishing before crashing.We were driving near the airport in Calgary, Alberta, Canada. On Airport Trail NE.  Direction east.  It was about 5:00 am.  Directly in front of us, but some distance ahead, and appearing suddenly, was a single large, bright, green object.  It was cylindrical in shape.  It was travelling straight downward and moving very quickly.It was travelling so rapidly that it appeared as though it was going to crash into the ground.  Instead, it suddenly vanished.The background was farmland.Myself (42, F) and my 13 year old son witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86011.html](http://www.nuforc.org/webreports/reports/086/S86011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
