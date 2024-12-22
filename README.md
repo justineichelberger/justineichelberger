@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:22 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Odd yellow light came closer and appeared to have a non-plane type movement, pulsed or had lights rotating around it.I was driving 10 miles west of Cedar City, UT at 7:05 in the evening.  Headed west and saw peculiar light in the SW sky.  Watched it, because it didn't look like a plane or planet. Developed a tail and thought it was a meteor.  But it didn't burn out, it kept going and getting closer.  As it became closer (heading towards east s/e) the tail was lights that revolved around the object or maybe the object seemed to "pulse".  The lights were multicolored and the object would disappear for periods. 5-10 seconds at a time.  Appeared to be beneath clouds, as I originally thought it might be going behind clouds.  Pulled over and shut off truck to get better look.  After disappearing and then reappearing 3-4 times it disappeared for good.  It was difficult to follow optically for some reason. Like it was shifting or out of focus. After I got home I could see no sign of it but another plane was moving in the same direction.  Couldn't tell what type of plane that was.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124937.html](http://www.nuforc.org/webreports/reports/124/S124937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>6 cigar shaped objects over VancouverThis sighting happened during a sunset with partly cloudy sky (low clouds in 6,000 feet level). The first pair consisted of 3 cigar shaped object were flying in and out of the  the clouds. They seemed to be a little bigger than 747 from that distance. The discribed objects had same size and same shape (this was proven when the picture of one of the objects was moved on top of the other ones which completely covered the other ones). These objects were flying near Vancouver International airport and over south vancouver near UBC. There were two pictures taken one 2 minutes before and another one 2 minutes after the sighting has occured and in none of these pictures there is any object of that sort visible. The next pair are moving over downtown vancouver. they are more like the cigar shaped object sighted in Iraq. After close look, there are some curved lines visible around each object.These lines seem to be related to the propulsion system of the objects. these objects were high above the clouds so there was a good chance for them to be above 6,000 feet. This second group was visible from above 6,000 feet, so they should a significant size. All the six objects were clearly in some sort of formation and they were going oppossit way, first pair to the south east and the second pair to the north west. There pictures avalible on request. During this sighting, there was no flight show of any kind and the cigar shaped objects were dangarously close to each other flying on top a populated area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41283.html](http://www.nuforc.org/webreports/reports/041/S41283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
