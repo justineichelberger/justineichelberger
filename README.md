@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bethlehem (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Hello, My wife and I been seeing these objects in the sky since last year , it started with just one now there are about 6 high in the sky at the same locations every night , they pretty much stay in one area , you can see blinking lights on them , they are in the sky for hours at a time we are so curious what this may be, I’m not saying they are ufo’s put something is in our sky’s every night hovering, I really would like somebody to come to our home to investigate this.   Please call</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151873.html](http://www.nuforc.org/webreports/reports/151/S151873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orchard (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball that just disappearsWe were standing outside, looking at the stars and I was commenting on how low the clouds were blocking the view. We were looking in a north, northwest direction when a fireball appeared traveling northwest, almost in a slight angle. It was bright red with a long tail. As quickly as it appeared, it disappeared. It just went black. It didn't appear to have crashed into the ground as it went black above the horizon. It could have just disappeared in the clouds, but the clouds didn't seem to be that thick to me. It was an amazing sight and what perfect timing to be looking in that particular direction at that very second!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34074.html](http://www.nuforc.org/webreports/reports/034/S34074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
