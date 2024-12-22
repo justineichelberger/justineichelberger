@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large, bright, green, fast moving object falling from the sky and suddenly vanishing before crashing.We were driving near the airport in Calgary, Alberta, Canada. On Airport Trail NE.  Direction east.  It was about 5:00 am.  Directly in front of us, but some distance ahead, and appearing suddenly, was a single large, bright, green object.  It was cylindrical in shape.  It was travelling straight downward and moving very quickly.It was travelling so rapidly that it appeared as though it was going to crash into the ground.  Instead, it suddenly vanished.The background was farmland.Myself (42, F) and my 13 year old son witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86011.html](http://www.nuforc.org/webreports/reports/086/S86011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Parma (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We just finished lunch and went back to work at the corner of Sarasota and Sun Haven Rd.  Looking up in the sky, I noticed what appeared to be jet exhaust expanding from a focal point.  It appeared to be  drawing an equilateral triangle with curves evenly spaced through it.  Maybe it was more of a cone shape, it's hard to describe.  Seconds later, a large section of a cloud started glowing radiated colors.  Then, a big white jumbo jet flew just above it and dispersed everything all over our heads.  I've reported this incident to numerous government agencies, politicians, FOX terrorist hotline, the airport.  I would love a legitimate response to all this.  Is this by any coincidence related to "A Path Where No Man Thought"?  I know one thing, it's still been unidentified.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83804.html](http://www.nuforc.org/webreports/reports/083/S83804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
