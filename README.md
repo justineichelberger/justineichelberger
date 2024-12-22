@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Defiance (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>There were 5 to 8 lights in a straight/diagonal line fading in and out and moved a bit Called a friend about 30 miles away and they could see it to</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151859.html](http://www.nuforc.org/webreports/reports/151/S151859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cedar City (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Odd yellow light came closer and appeared to have a non-plane type movement, pulsed or had lights rotating around it.I was driving 10 miles west of Cedar City, UT at 7:05 in the evening.  Headed west and saw peculiar light in the SW sky.  Watched it, because it didn't look like a plane or planet. Developed a tail and thought it was a meteor.  But it didn't burn out, it kept going and getting closer.  As it became closer (heading towards east s/e) the tail was lights that revolved around the object or maybe the object seemed to "pulse".  The lights were multicolored and the object would disappear for periods. 5-10 seconds at a time.  Appeared to be beneath clouds, as I originally thought it might be going behind clouds.  Pulled over and shut off truck to get better look.  After disappearing and then reappearing 3-4 times it disappeared for good.  It was difficult to follow optically for some reason. Like it was shifting or out of focus. After I got home I could see no sign of it but another plane was moving in the same direction.  Couldn't tell what type of plane that was.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124937.html](http://www.nuforc.org/webreports/reports/124/S124937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
