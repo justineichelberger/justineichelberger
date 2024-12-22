@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:28 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ovilla (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Strobing light in the sky over Ovilla, Texas.Around 11:30 pm on December 22, 2012.  My wife and I plus our son, his cousin, sister in law, and mother in law witnessed a strobing light through the clouds in a stationary position east from our back porch.  We watched the strobing light for a good 15 mins. It's cold outside so we all went back inside.  About 15 mins later we walked back outside and the strobing object had moved in our direction almost over our next door neighbors house.  The object was far up in the sky and you could tell it was huge cause the strobing light was massive that came off of it.  Then all of a sudden it disappeared.  Never in my life have I seen anything like this.  Just wish it wasn't so cloudy so I could see what it was for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95437.html](http://www.nuforc.org/webreports/reports/095/S95437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fast moving burning object.  Orange and white tail.Fast moving burning object.  Looked like a burning aircraft quickly descending in an arc as if it was going to crash.  Disappeared before i could take a picture.((NUFORC Note:  Re-entering space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124950.html](http://www.nuforc.org/webreports/reports/124/S124950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
