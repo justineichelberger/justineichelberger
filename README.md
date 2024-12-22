@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 22 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hemet and San Jacinto (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>12/22/2017, approximately 5:30 p.m :  Hemet, CA,  Two bright orbs traveled slowly from west to east, across the Hemet, CA dusk sky, one following the other. The orbs gradually disintegrated as they traveled slowly across the sky, leaving an enormous weird shimmery aura-like cloud around each orb.  As the orbs themselves slowly disintegrated, the clouds around each orb grew larger, the front one larger than the one behind.  The whole event took about ten minutes or so, the orbs ultimately leaving a huge jet stream type cloud in their wake.  Many people in my neighborhood saw this, and many took pictures.  I expect there is a down to earth explanation for this  phenomena, but what in the world are disintegrating guided missiles doing over the skies of Hemet, CA ?((NUFORC Note:  Rocket launch from Vandenberg AFB @ 5:26 p.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138011.html](http://www.nuforc.org/webreports/reports/138/S138011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hermiston (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange light flying over Hermiston, OregonWhile leaving a building in downtown Hermiston, Oregon, this evening, I saw a bright orange light in the north-northwestern sky. It was moving in a steady line, rising like an aircraft gaining altitude. The color of the light was not the standard aviation red, but an orange color, with a tinge of white, that flickered rather than strobed. It was not a color typically produced by electric lights or LED's. At first I thought it was Mars, but it was too bright and it was moving. About an inch behind it (from my perception) there was an intermittent white flash - a tiny light the size of a satellite, but following the orange light. As the orange light rose, it began to fade and eventually disappeared, as did the white light. I also caught a red light of the same size as the white light flash only once. This was a standard aviation/LED red and could have been an aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86006.html](http://www.nuforc.org/webreports/reports/086/S86006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
