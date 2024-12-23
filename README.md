@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright red ball of fire moving slowly across the sky, stopped and transformed into a red halo.My husband and I both watched an object in the sky last night at approximately 8:02 p.m. while out in our backyard with our dog in South Venice, FL.  It appeared to be a fireball (I only say a fireball because there was an obvious red ball of fire) slowly moving across the sky.  It was visible only at breaks in the clouds (which were many) so it was above the clouds.  My husband at first thought it was an airplane on fire and actually called me into the backyard to see.  We watched it move slowly for several minutes moving from south to north then it seemed to simply stop.My husband asked if I thought it had stopped and for about 2 seconds it seemed to be stationery. Then it suddenly developed a large red halo around it.  The fireball was no longer visible just the halo. It moved directly back from the way it came (from north to south and back toward us).  As it moved at a very fast pace the halo seemed to change in color from the bright red it started as to an orangish tint and then to a cream color.  It moved in a matter of less than 10 seconds from the north to our southern horizon with the halo growing large as it moved closer.  At the time it made it to the horizon just above the top of our trees in the south, the halo seemed to blow out and whatever it was simply disappeared.There was no sound at all during the entire process and there was nothing felt in the air although when the halo blew out it was almost like a visible sound wave that exploded.  It's just so hard to explain having never seen anything even remotely like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95467.html](http://www.nuforc.org/webreports/reports/095/S95467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brush Prairie (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Numerous close flying objects in night sky over PortlandAppeared to be just another satellite sighting, but it was followed by another close by.  Then a string of them could be seen, apparently all on identical trajectories.  No shape other than a single point of white light - no collision lights.  We saw numerous other aircraft each with their own collision lights at much lower altitudes.  Easy to discern them from these unknown objects.  It was one after the other all traveling from the SW heading over Portland then toward the NE where they entered a portion of the sky that was obscured by cloud cover and disappeared from view.  They were spread quite a bit apart from each other but have no way of determining how close they were to each other in any measurable way.  Wife saw them too. Never seen so many objects in the sky flying the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152081.html](http://www.nuforc.org/webreports/reports/152/S152081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
