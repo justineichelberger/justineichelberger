@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lenoir (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Bright blinking lights hovering over the blue ridge mountains.  This is not the first time. They do not appear every night.  Sometimes they'll skip a night or a few.  When they appear they hover in one place for awhile.  They'll move higher occasionally until we can no longer see them in the frame of the window.  They are usually gone by 11PM.  Viewed from the village of Cedar Rock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144097.html](http://www.nuforc.org/webreports/reports/144/S144097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We noticed about twenty lights outlining a triangular shaped objects, suddenly, the lights all disappeared at once.In the city of Nashville, Tennessee on the night of December 23, 2013, my brother and I were driving in his car.  As we looked out the front window of the car we both saw about twenty lights slowly moving across the sky maintaining the same distance apart from each other.At first we asked each other could twenty helicopters be flying in formation at night maintaining exact distances apart so much so they seemed to be almost somehow connected.Then we noticed the lights were outlining a “triangular shaped” object.After about 5 minutes, all the lights on the object just disappeared at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105523.html](http://www.nuforc.org/webreports/reports/105/S105523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
