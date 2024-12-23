@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The Saucer Tried To Land On Our Snow-Covered Field As We Crossed To Reach Our School.It was really scary, and I have tried to forget about it, but I have not been able to. I was only 10 years old at the time. I am 22 now, and have waied a long time to share my story.One darkish Winter morning, my mother and my father were walking my sister and I to school. Our school was fairly close to our old apartment building in Chicago on the Westside.To get to our school, you have to walk across a huge empty field. This field was covered with snow.Anyway, we were coming across the field,  a few other people were ahead of us. Then it happened.There was a SUPER loud crashing sound. Louder than anything I've ever heard. Later, I found out that this noise was heard all across Chicago, and some close cities. So you know it was LOUD! Then I saw a white round object that looked hard, hovering over the field. About as high as your average house. It was low enough to scare everybody on the field.There was a bright strip of light, coming from one side of the Saucer. There was a crazy beeping sound, and everybody on the field hit the ground. We covered our heads in the cold snow. We were scared.When we got back up, the object was gone, and the sky had gone back to being dark.Everybody was shaken up. Laughing about what we had just seen. We didn't know what to do, this was 1989.There was only 1 white spaceship. It never landed. But I believe that it was trying to land on our snow-covered field. But when they saw humans, they scared us, and left.I am now 22. I'm black. I'm in college. My father is now dead of a heart attack, he would be 44 in October. My mother is 44. She works at a hospital. She's the sweetest lady. My sister is 26. She graduated with a degree in pschology from a 4-year university.((NUFORC Note:  Date is approximate.  We will request other reports from the other witnesses.  We have received reports for other dates that are somewhat similar to this one, namely, from Traverse City, MI, and from northern California.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21796.html](http://www.nuforc.org/webreports/reports/021/S21796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Photo taken showing bright orange lights 6 in total  one moved back and forth rapidlyWe were watching a spectacular sun set and noticed some unusual lights .At first didnt think any thing of them until one of the lights travelled at a great speed from left to right.My wife quickly ran inside to get our camera(polaroid),while i stayed to watch.We took the photo and upon development noticed not only one light but a group of three light which seemed to move together.The photo showed about six lights.A report in the daily telegrapgh (sydney)four days later 12/27/00 prompted me to report this.The daily telegraph stated that on the evening of the 26th at approx.9pm abright orange light was seen by numerous witnessesin the state of NSW,it appeared to move up and down ,the bright light was visible for approx. 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15651.html](http://www.nuforc.org/webreports/reports/015/S15651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
