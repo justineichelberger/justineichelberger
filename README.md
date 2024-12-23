@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:25 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Toa Baja (Puerto Rico) () reported seeing craft that fit the description of some '' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>The Object was Trianglar in shape there was no sound are Lights. It moved slowly.and was only visible with the stars as a backround.I've got a trained eye, this object is not man made.((NUFORC Note:  Witness elects to remain totally anonymous.  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34448.html](http://www.nuforc.org/webreports/reports/034/S34448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small seemingly round object with red lights that streaked from the north horizon to the south horizon in a matter of 1 to 2 secondsOn the evening of December 23rd, 2019, right before sunset around 1625 my husband and I were standing outside when he looked up and noticed a small object in the north horizon hovering in the distance.  We stood watching it for about 10 seconds or more and the object continue to hover NOT moving up or down or side-to-side.  It seemed to be round  and had multiple red lights that flashed. Suddenly it shot across the sky in a straight line from the north to south along the horizon in a matter of 1 to 2 seconds making no sound whatsoever.  It then stopped and hovered in the southern horizon for about 5 more seconds and disappeared.  It definitely was not a plane and we tried to compare it to maybe a helicopter but there is NO WAY that even a helicopter could have moved that fast!  All our life  we have lived  in this area that has an Army, Navy and Air Force bases near by and see multiple types of aircrafts constantly.  But we have NEVER seen anything that even comes close to what we saw that night!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151969.html](http://www.nuforc.org/webreports/reports/151/S151969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
