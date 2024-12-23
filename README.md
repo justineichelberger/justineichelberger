@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Crossett (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I would like to know if anyone else has seen anything similar to this?A momentary string of lights appearing as glistening white Christmas light above the southern horizon.  I promise this is not a hoax; I just don't understand what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138126.html](http://www.nuforc.org/webreports/reports/138/S138126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Beckley (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Round in the front triangles in the back, white, with blue light on the outside.I was walking home from my grand parents and I was looking at the stars then a flash of blue light appeared and a flying object appeared from the light it stopped and hovered in the sky for a second then it flew off in a flash with the blue light and disappeared then I went into shock and told my mom what happend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152132.html](http://www.nuforc.org/webreports/reports/152/S152132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
