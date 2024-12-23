@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small seemingly round object with red lights that streaked from the north horizon to the south horizon in a matter of 1 to 2 secondsOn the evening of December 23rd, 2019, right before sunset around 1625 my husband and I were standing outside when he looked up and noticed a small object in the north horizon hovering in the distance.  We stood watching it for about 10 seconds or more and the object continue to hover NOT moving up or down or side-to-side.  It seemed to be round  and had multiple red lights that flashed. Suddenly it shot across the sky in a straight line from the north to south along the horizon in a matter of 1 to 2 seconds making no sound whatsoever.  It then stopped and hovered in the southern horizon for about 5 more seconds and disappeared.  It definitely was not a plane and we tried to compare it to maybe a helicopter but there is NO WAY that even a helicopter could have moved that fast!  All our life  we have lived  in this area that has an Army, Navy and Air Force bases near by and see multiple types of aircrafts constantly.  But we have NEVER seen anything that even comes close to what we saw that night!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151969.html](http://www.nuforc.org/webreports/reports/151/S151969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 bright lights horizontaly in a rowI had stepped out of my back door onto my porch, when I went to the steps I looked out past my tree and saw 3 very bright lights horizontally in a row over towards town. They looked like work lights, but they were way to high to be work lights. They were not very high above the trees and when I saw them, they did not appear to be moving. It was very cold and for what ever reason It did not occur to me they might not be of this world, until I read the report from Fort Bragg, and these were exactly what they described. I wish I had gone back out with my camera, maybe next time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161367.html](http://www.nuforc.org/webreports/reports/161/S161367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
