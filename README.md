@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Photo taken showing bright orange lights 6 in total  one moved back and forth rapidlyWe were watching a spectacular sun set and noticed some unusual lights .At first didnt think any thing of them until one of the lights travelled at a great speed from left to right.My wife quickly ran inside to get our camera(polaroid),while i stayed to watch.We took the photo and upon development noticed not only one light but a group of three light which seemed to move together.The photo showed about six lights.A report in the daily telegrapgh (sydney)four days later 12/27/00 prompted me to report this.The daily telegraph stated that on the evening of the 26th at approx.9pm abright orange light was seen by numerous witnessesin the state of NSW,it appeared to move up and down ,the bright light was visible for approx. 2 hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15651.html](http://www.nuforc.org/webreports/reports/015/S15651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Reykjavik (Iceland) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>sunlike sphereWe saw it flying from east to west on a slow speed then it changed course and went above the clouds.  It was like a big fireball orange/red, it was in our sight for about two minutes.  At first we thought it was a passenger jet on fire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95450.html](http://www.nuforc.org/webreports/reports/095/S95450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
