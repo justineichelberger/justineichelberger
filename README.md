@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:51 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Opp (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>brief star like light to the left of sundriving and saw star like object to the left of sun, exact time was not noted. Observed to the immediate left of the sun and appeared brighter but much smaller.  (comparable to the planets that were so bright in the early morning skies over the past several months.)  This was a day sighting however, and only saw for several seconds then it was gone.  Looked all around for it but did not see it again.  Did notice a thin clooud-like trail a good distance to the left that curved up and through an actual small cloud, and right above that cloud it ended. not sure if it was part of the cloud but it did not appear to be a typical cloud attribute, closest example is like a nike swoosh?  It did seem practical by its placement that it could have been created by what we saw. other wittness was wife.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95484.html](http://www.nuforc.org/webreports/reports/095/S95484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Canadian Lakes (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>light in sky ,no soundFast moving light towards west heading south in sky !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161278.html](http://www.nuforc.org/webreports/reports/161/S161278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
