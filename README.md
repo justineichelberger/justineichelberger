@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Christmas Valley (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Numerous lights  (looked like stars) moving from southwest to the northeast.Mostly in line but not all.Mostly evenly spaced but not exactly.Disappeared at a point in the sky.Moved about the same speed as a jet.Not sure how far away the objects were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152080.html](http://www.nuforc.org/webreports/reports/152/S152080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Low, loud, flat bottomed craft flew over my home.I noticed a very bright light in the sky, towards the direction of the city of Buffalo, which I think is West.  It would have been about 2 miles away and not very high in the sky, as it was at about the height of the radio/tv tower  on top of channel WIVB, which was to this light’s right.  It was stationary for several minutes, then started to move slowly.  It picked up speed, but not altitude.  It went over my house  and  In the direction of Tonawanda.  It had a flatish bottom and on one side of the bottom was a neon green light.  It made the sound of a loud vacuum, a pulsing sound.  Very unlike a plane or a helicopter.  It made a fast  circular maneuver and moved left and out of sight at an incredible speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116157.html](http://www.nuforc.org/webreports/reports/116/S116157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
