@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two beautiful color changing light spheres danced thru the sky.While driving from the beach on hiway 8, headed east,  I noticed what first looked like a shooting star, but kept going on to change from bright whitish to a beautiful lavendar shade. Next a second bright light appeared. The two sphere shaped glowing lites began to "dance" with eachother in the sky (not very high up.)  They swirled around almost like in crazy eight patterns.  They continuously changed colors from lavendar, to blue, to pink, as if going thru the whole color spectrum.After a few minutes of this dancing motion, one at a time they shot off in an arc into the distance and disappeared from my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86041.html](http://www.nuforc.org/webreports/reports/086/S86041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Christmas Valley (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Numerous lights  (looked like stars) moving from southwest to the northeast.Mostly in line but not all.Mostly evenly spaced but not exactly.Disappeared at a point in the sky.Moved about the same speed as a jet.Not sure how far away the objects were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152080.html](http://www.nuforc.org/webreports/reports/152/S152080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
