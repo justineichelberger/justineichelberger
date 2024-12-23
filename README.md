@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:05:33 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bear (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>15+ orange fireballs sequentially moving north at a moderate speed in Bear, DE.December 23, 2012 Bear, DE Route 1   I was driving south on Route 1 through Bear, DE and seen a string of orange lights moving across the sky. I pulled over and used my cell phone to obtain video of them.  They looked like orange orbs or flares but they wouldn’t ‘burn out’.  They moved gingerly across the sky in the same direction.  The lights were relatively low to the ground, maybe 1000ft in the air from the ground.The lights wouldn’t fall to the ground.  The lights did not spread or dissipate sporadically.  They seemed to just follow each other north across the sky; very intriguing.  I looked all around for some sort of explanation such as a fire or a plane but, there was nothing.  I could not explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95458.html](http://www.nuforc.org/webreports/reports/095/S95458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two beautiful color changing light spheres danced thru the sky.While driving from the beach on hiway 8, headed east,  I noticed what first looked like a shooting star, but kept going on to change from bright whitish to a beautiful lavendar shade. Next a second bright light appeared. The two sphere shaped glowing lites began to "dance" with eachother in the sky (not very high up.)  They swirled around almost like in crazy eight patterns.  They continuously changed colors from lavendar, to blue, to pink, as if going thru the whole color spectrum.After a few minutes of this dancing motion, one at a time they shot off in an arc into the distance and disappeared from my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86041.html](http://www.nuforc.org/webreports/reports/086/S86041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
