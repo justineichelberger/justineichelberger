@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We noticed about twenty lights outlining a triangular shaped objects, suddenly, the lights all disappeared at once.In the city of Nashville, Tennessee on the night of December 23, 2013, my brother and I were driving in his car.  As we looked out the front window of the car we both saw about twenty lights slowly moving across the sky maintaining the same distance apart from each other.At first we asked each other could twenty helicopters be flying in formation at night maintaining exact distances apart so much so they seemed to be almost somehow connected.Then we noticed the lights were outlining a “triangular shaped” object.After about 5 minutes, all the lights on the object just disappeared at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105523.html](http://www.nuforc.org/webreports/reports/105/S105523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>light streak in the morning sky that seemed to fall to the earth leaving a spectacular funnel like plume reaching high altitude.On 12/23/03 at about 7am pacific time my wife sat down with her morning cup of coffee and looked out our livingroom window. She observed a reddish streak of light at high altitude passing overhead in an easterly direction. It did not seem to be moving rapidly. She observed it awhile and when it seemed to fall downward in a rapid rate toward the cabinet mountain range she called out to me to come see something strange. I was upstairs on my computer and after she called me a second time I came to look. By the time I looked whatever was causing this effect had apparently fallen on the Montana side of the cabinet mountains and left the appearance of a very tight funnel at its base, very red near the bottom, that reached up to the upper atmosphere. My wife was never able to discern any object, such as an airplane, as this whatever steaked across the sky. As soon as I saw the funnel or plume I got my camera and began taking digital photos. The first exposure was at 7:15:17am and the last was at 7:26:30. I took 50 exposures. I had to leave for work after the last exposure and my wife said that by 9am the sky was totally clear.((NUFORC Note:  We have looked at some of what we believe are the photos described above, and our impression is that the object probably is a typical contrail.  Sandpoint is not far from a major east-west corridor for commercial aircraft heading to Chicago.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34394.html](http://www.nuforc.org/webreports/reports/034/S34394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
