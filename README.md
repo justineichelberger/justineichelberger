@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 bright lights horizontaly in a rowI had stepped out of my back door onto my porch, when I went to the steps I looked out past my tree and saw 3 very bright lights horizontally in a row over towards town. They looked like work lights, but they were way to high to be work lights. They were not very high above the trees and when I saw them, they did not appear to be moving. It was very cold and for what ever reason It did not occur to me they might not be of this world, until I read the report from Fort Bragg, and these were exactly what they described. I wish I had gone back out with my camera, maybe next time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161367.html](http://www.nuforc.org/webreports/reports/161/S161367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Montague (MA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow-moving orange ball of light observed by 2 adultsNote: Observer is a trained recreational airplane pilot.While driving in car with wife and infant son at approx. 20:00 heading south on a sparsely populated stretch of road, a bright, solid orange light was observed to the southeast.  It appeared to be an aircraft heading toward us with its landing light illuminated, though the light was orange and not the usual white.  Also, no green or red navigation lights, anti-collision lights, or rotating beacon was observed, making it immediately peculiar.  Altitude was unknown, though if it were a small aircraft, given the apparent size, the estimation would be 3-5,000’.The car was then stopped to make a more careful observation, at this point the object was no more than 3 miles directly to the east.  I alerted my wife who was behind my driver’s seat with the baby, and I rolled both of our windows down so that we each had the same vantage point.The object appeared very small, though its true distance was difficult to ascertain.  It appeared to be a solid ball of orange light, illuminating and extending outward from the leading edge of which was a fan-shaped swath of dimmer orange light that did not appear to be solid.  It was in the sky close to the bright, nearly full moon, which was partially visible from behind a broken layer of clouds covering approx. 80% of the sky.  The clouds were thin enough to be translucent to the light of the moon.The object was zig-zagging about very slowly, and was framed through the branches of a tall, bare tree which gave a reference point from which to gauge the object’s speed of movement.  As it began to move or rise away to the northeast, it faded into the clouds.  I immediately checked the iPhone app ‘FlightRadar24’, which displays a GPS-linked map with the surrounding civilian aircraft that have filed flight plans or are using FAA Flight Following.  Military aircraft are not displayed. METAR reports were then checked on the NOAA Aviation Weather Center website for the nearest reporting station not reporting clear skies (KCEF), 23 miles to the south.  The report was for a scattered layer of clouds at 12,000’ with a broken layer at 15,000’.A smartphone video was recorded for approx. 20 seconds, though the details previously mentioned are not as easily observable in the video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144096.html](http://www.nuforc.org/webreports/reports/144/S144096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
