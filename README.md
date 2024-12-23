@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brush Prairie (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Numerous close flying objects in night sky over PortlandAppeared to be just another satellite sighting, but it was followed by another close by.  Then a string of them could be seen, apparently all on identical trajectories.  No shape other than a single point of white light - no collision lights.  We saw numerous other aircraft each with their own collision lights at much lower altitudes.  Easy to discern them from these unknown objects.  It was one after the other all traveling from the SW heading over Portland then toward the NE where they entered a portion of the sky that was obscured by cloud cover and disappeared from view.  They were spread quite a bit apart from each other but have no way of determining how close they were to each other in any measurable way.  Wife saw them too. Never seen so many objects in the sky flying the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152081.html](http://www.nuforc.org/webreports/reports/152/S152081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>i was 9 or 10 years old and i was slideing down my driveway as i got up from my sled and started to walk back up the driveway a fireball the size of the house flew over heading north . i remember it well because of its size . fire was all around it and i compareed the size to a large cape. i rember running in the house and telling my family but they thought i was kidding. did any one see this and was it reported on the tv thanks dean burgess((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58929.html](http://www.nuforc.org/webreports/reports/058/S58929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
