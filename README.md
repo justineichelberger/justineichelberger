@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:45 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brush Prairie (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Numerous close flying objects in night sky over PortlandAppeared to be just another satellite sighting, but it was followed by another close by.  Then a string of them could be seen, apparently all on identical trajectories.  No shape other than a single point of white light - no collision lights.  We saw numerous other aircraft each with their own collision lights at much lower altitudes.  Easy to discern them from these unknown objects.  It was one after the other all traveling from the SW heading over Portland then toward the NE where they entered a portion of the sky that was obscured by cloud cover and disappeared from view.  They were spread quite a bit apart from each other but have no way of determining how close they were to each other in any measurable way.  Wife saw them too. Never seen so many objects in the sky flying the same path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152081.html](http://www.nuforc.org/webreports/reports/152/S152081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Monee (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Egg shaped Craft, Red, Very Fast, Flying North East.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79353.html](http://www.nuforc.org/webreports/reports/079/S79353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
