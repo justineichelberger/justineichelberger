@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:45 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:33 on 23 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Monee (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Egg shaped Craft, Red, Very Fast, Flying North East.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79353.html](http://www.nuforc.org/webreports/reports/079/S79353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bear (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>15+ orange fireballs sequentially moving north at a moderate speed in Bear, DE.December 23, 2012 Bear, DE Route 1   I was driving south on Route 1 through Bear, DE and seen a string of orange lights moving across the sky. I pulled over and used my cell phone to obtain video of them.  They looked like orange orbs or flares but they wouldn’t ‘burn out’.  They moved gingerly across the sky in the same direction.  The lights were relatively low to the ground, maybe 1000ft in the air from the ground.The lights wouldn’t fall to the ground.  The lights did not spread or dissipate sporadically.  They seemed to just follow each other north across the sky; very intriguing.  I looked all around for some sort of explanation such as a fire or a plane but, there was nothing.  I could not explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95458.html](http://www.nuforc.org/webreports/reports/095/S95458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
