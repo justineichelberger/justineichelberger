@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Round orange red base sphere silent about 30 feet diameter light was lumenated from object no single light NAV type.Slow moving from North to south parallel 1 mile from hwy 85 toward Crestview headed to Eglin AFB.  Was dull intense orange round sphere light was coming from object evenly-there were no lights that were individual light source such as NAV lights.  At the base of the object was intense red lumination-again all light was glowing with no conventional light source.  The object was about 200 feet directly above my location and was at least 30 feet in diameter.  The object had no sound at all no blinking light-light glowed from object orange on sphere and red on base.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105563.html](http://www.nuforc.org/webreports/reports/105/S105563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Inverness (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A multi colored brightly shining star it was not!It first appeared as a bright star in the night sky, but after closer observation & taking pictures & video we realised it was something more.  It was circular in shape & had multiple colors, from the video it was obvious that is was spinning & had a pattern to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67612.html](http://www.nuforc.org/webreports/reports/067/S67612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
