@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Canton (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 bright lights traveling south, Canton MI.At 8:30 pm on Christmas eve I was walking into my parents living room when a low bright light caught my attention outside of the sliding glass back door. I approached the sliding door suspiciously and witnessed 3 lights. These lights reminded me of candlelight. Together these objects moved synchronized in a triangle formation maybe 60 feet from each other and slowly.These lights were traveling south toward my parents’ home when I had seen them, maybe 1000 yards away. There was a lot of cloud cover. These objects were traveling silently below the clouds and perhaps only 150 yards in the air. My mother curiously went outside to closer examine what we were witnessing.  As these lights approached my location they abruptly stopped 50 yards from my home. As I was standing inside the home, pressing my face to the sliding door, looking straight up into the sky I could not see these objects and where they had stopped from that perspective.  I opened the door and stretched my body out and looked up to watch these objects rise into the clouds and leave.  They left one by one and I watched them rise into the clouds and could still see them until the light dimmed out completely... VERY WEIRD, I haven’t seen anything travel the way this did.I am a college student with 20/20 vision and I make every attempt to be objective. My mother is a house wife. This was a very chilling experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79404.html](http://www.nuforc.org/webreports/reports/079/S79404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Looked like a fiery fiery snowglobeIt was christmas eve 2011. I had come down to visit my family.  We were jingling bells for my nieces outside of their windows.  My father loves that. So as he was coming back to the car in the dark he looks up and screams, "Oh my god there they are!"   He signaled for my mother and I to get out of the car. At that point my brother comes out of the house along with his father in law.  My father(an ex pilot and a doctor) had spotted 5 orbs encircling eachother in a strange fashion and then traveling away from each other in random order each light slowly blinking off.  They moved slowly in circular fashion and silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96213.html](http://www.nuforc.org/webreports/reports/096/S96213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
