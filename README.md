@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:22 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Fairhaven (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Family was getting ready for midnight mass on December 24, 1970.  All bathrooms were taken with mothers and cousins doing their hair and fixing their dresses.   ((sentence deleted)) As I looked up, I was in shock to see the underbelly of a flying dark grey metallic disk, emitting a soft blue light over the house, around 15-20ft. above the house.  I quickly ripped up ran toward the front door, opened it, and grabbed my mother and grandfather who were the closest.  The craft started moving toward Little Bay over the water, and then two jets showed up from Otis Air Base at Cape Cod.  The saucer leaned to its side, the bottom became a firing ((sic.  feiry??)) white red and in a flash, it became a tiny white light in the starry sky. The two jets kept doing a circular pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133295.html](http://www.nuforc.org/webreports/reports/133/S133295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approximately 10:00 pm, saw a very large triangular (for lack of better word) shaped object traveling from southwest to northeast.  The object appeared transparent, but had points of red lights on corners of object (maybe 8-10 lights).  Not sure if they were blinking.  The object was moving very slowly, emitting no sound whatsoever.  We commented about the fact that we could see through the object.  Nothing solid.  Almost like a group of toothpicks put together with pin-points of red lights on each connection.  The object may have been less than 1000' high.  Hard to tell, but it was definitely not a formation of several objects higher in the sky.  This was very low in the sky.  I reported it to the Sheriff's department and they denied any other reports.  In 2001, another man described having seen the same object that night, and described it the same way to us.((NUFORC Note:  Date is approximate.  One of two reports from same source.  Please see other report from Ocala, FL, for 23DE87.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23462.html](http://www.nuforc.org/webreports/reports/023/S23462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
