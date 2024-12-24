@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:28 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Falling light outside of VancouverDriving home westbound on 119th St. It was a clear night and I noticed this bright white light in the sky ahead of me. It was difficult to judge the height of this light because I couldn't make out any object. Suddenly, the light dropped straight down out of the sky towards the ground where it disappeared (before actually reaching the ground). My mother was in a car in front of me. I called her when I got home asking if she saw anything on her way home. She described the same light to me. There was more detail in her description. She witnessed a "cluster of lights" that hung in the air, then suddenly fell towards the ground, whereupon they disappeared as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20893.html](http://www.nuforc.org/webreports/reports/020/S20893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A very large, dim, milky-white, round object, resembling a full moon, situated next to and on the left side of the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131869.html](http://www.nuforc.org/webreports/reports/131/S131869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
