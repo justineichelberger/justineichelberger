@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Inverness (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A multi colored brightly shining star it was not!It first appeared as a bright star in the night sky, but after closer observation & taking pictures & video we realised it was something more.  It was circular in shape & had multiple colors, from the video it was obvious that is was spinning & had a pattern to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67612.html](http://www.nuforc.org/webreports/reports/067/S67612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Metro Detroit (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>While driving on I-94 westbound headed towards Detroit on Christmas Eve I saw 3 orange lights in the sky, all on the same plane, level to each other.  I couldn't tell if they were moving and the light seemed constant, no flickering.  They were very high in the sky but not so high up that I could not see them clearly while driving.  The lights were spaced quite far apart. If they had been drawn on a flat surface each light was about 4 inches spaced apart in the sky from my perspective.  While looking at them and pointing them out to other people in my vehicle a very tiny white light began to drop from the orange light on the left side.  The light dropped like a grain of salt would straight down and I could not see what happened to it because of my view being blocked.  That's all the information I have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105990.html](http://www.nuforc.org/webreports/reports/105/S105990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
