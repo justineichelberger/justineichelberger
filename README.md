@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:55 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:22 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Santiago (Chile) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO Santiage, Chile 1989At first the object appeared to go up like a rocket, but then slowed down.  I watched it for awhile before actually getting my video recorder.The light went straight up in appearance and seemed to be a rocket.  It lasted a seemingly long time.  Then it hovered and moved relative to a planet or star.  It stayed that way for a long time, just moving slowly and eventually fading out but still moving.  It was the middle of the night, summer and hot.  The air was calm.  I looked out to the west and nearly straight up as that is the only direction the light travelled.I recorded 3 minutes of the light as it moved relative to a planet or start.  I have video available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88604.html](http://www.nuforc.org/webreports/reports/088/S88604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Fairhaven (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Family was getting ready for midnight mass on December 24, 1970.  All bathrooms were taken with mothers and cousins doing their hair and fixing their dresses.   ((sentence deleted)) As I looked up, I was in shock to see the underbelly of a flying dark grey metallic disk, emitting a soft blue light over the house, around 15-20ft. above the house.  I quickly ripped up ran toward the front door, opened it, and grabbed my mother and grandfather who were the closest.  The craft started moving toward Little Bay over the water, and then two jets showed up from Otis Air Base at Cape Cod.  The saucer leaned to its side, the bottom became a firing ((sic.  feiry??)) white red and in a flash, it became a tiny white light in the starry sky. The two jets kept doing a circular pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133295.html](http://www.nuforc.org/webreports/reports/133/S133295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
