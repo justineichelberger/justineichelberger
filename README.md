@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Center Valley (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was working last night in a group home and witnessed this while talking on the phone on the front porch of the home. I called my coworkers out and they witnessed it as well.  3 Large round objects flowed across the sky and shortly after a 4th one came by.  They hovered in a distance for seven or eight minutes before fading away. The objects were bright orange and red and may have been fireballs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79371.html](http://www.nuforc.org/webreports/reports/079/S79371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>Round orange red base sphere silent about 30 feet diameter light was lumenated from object no single light NAV type.Slow moving from North to south parallel 1 mile from hwy 85 toward Crestview headed to Eglin AFB.  Was dull intense orange round sphere light was coming from object evenly-there were no lights that were individual light source such as NAV lights.  At the base of the object was intense red lumination-again all light was glowing with no conventional light source.  The object was about 200 feet directly above my location and was at least 30 feet in diameter.  The object had no sound at all no blinking light-light glowed from object orange on sphere and red on base.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105563.html](http://www.nuforc.org/webreports/reports/105/S105563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
