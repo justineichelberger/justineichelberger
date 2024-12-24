@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:25 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:55 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Solid non flashing red lights under the clouds moving slowly in different directions yet staying together, could not tell if they turned off the  lights or just quickly zoomed away.  Have good pictures and when zoomed in you see bright yellow light with a red square light outline around them and the red corners do not touch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138074.html](http://www.nuforc.org/webreports/reports/138/S138074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Santiago (Chile) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO Santiage, Chile 1989At first the object appeared to go up like a rocket, but then slowed down.  I watched it for awhile before actually getting my video recorder.The light went straight up in appearance and seemed to be a rocket.  It lasted a seemingly long time.  Then it hovered and moved relative to a planet or star.  It stayed that way for a long time, just moving slowly and eventually fading out but still moving.  It was the middle of the night, summer and hot.  The air was calm.  I looked out to the west and nearly straight up as that is the only direction the light travelled.I recorded 3 minutes of the light as it moved relative to a planet or start.  I have video available.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88604.html](http://www.nuforc.org/webreports/reports/088/S88604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
