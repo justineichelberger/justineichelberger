@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three distant lights that appears to be aircraft on a collision course.  Two lights disappeared leaving one.headed into Fairbanks on Parks Hwy, saw three triangle-shaped lights--thought they were plane lights and planes were about to collide.  Two of the lights disappeared, but third light stayed one for quite some time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116297.html](http://www.nuforc.org/webreports/reports/116/S116297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Solid non flashing red lights under the clouds moving slowly in different directions yet staying together, could not tell if they turned off the  lights or just quickly zoomed away.  Have good pictures and when zoomed in you see bright yellow light with a red square light outline around them and the red corners do not touch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138074.html](http://www.nuforc.org/webreports/reports/138/S138074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
