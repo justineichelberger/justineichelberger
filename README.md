@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Four bright orange lights in a perfect square that was slowly drifting before separating and disappearing.My family and I were finishing Christmas Eve dinner when my aunt went to the car, ran back in, and said we had to come see something. In the sky were four bright orange lights, slightly larger than airplane lights or stars- the largest lights in the sky but very high up. The odd thing was that they created a perfect square that was drifting slowly through the air. We assumed they were part of one craft until they all began to drift off in other directions and quickly faded out. The fact that they kept the square formation so perfectly was what got everyone. Some neighbors down the street were watching, but we didn't ask them about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60551.html](http://www.nuforc.org/webreports/reports/060/S60551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my family and I were driving home from a Christmas eve at my dads house, when my wife said look at that.  To my utter amazement I saw 12 orange glowing balls in 2 wide formation 6 long 2x6  formation then they just faded out after 5 minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116330.html](http://www.nuforc.org/webreports/reports/116/S116330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
