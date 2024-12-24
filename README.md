@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:12 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in West Monroe (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Documented. The firefighters, State Police, and Sheriffs Office were called out to investigate a strange object in sky.Christmas Eve, 1992, by unknown amount of witnesses, there was was an object, disk shaped, flying over the tree tops. Public servants with it. This is documented in the NewsStar World Newspaper. They have copies of the report on file.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08194.html](http://www.nuforc.org/webreports/reports/008/S08194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fayence (France) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white lights (one at the time) switching on and off at an irregular fashion.  All atitudes above 10,000 feet  all directionsSince a couple of months I see bright white lights in the clear night skies over southern France.  From 22.00 hours onwards and from 10.000 feet upwards on different tracks and altitudes.  Their appearances are different from conventional aircraft moving along the sky since no strobe lights or anti-collision lights are visible (not even with binoculars magnifying 20 X) and no sounds are heard.  The lights are frequently switched on or off.  When off, you will see a small speck of light moving along.  Their speeds are that of a normal jet aircraft or slightly higher and they don’t seem to follow the normal air routes.((NUFORC Note:  We are uncertain as to the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92126.html](http://www.nuforc.org/webreports/reports/092/S92126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
