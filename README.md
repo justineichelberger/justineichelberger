@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approximately 10:00 pm, saw a very large triangular (for lack of better word) shaped object traveling from southwest to northeast.  The object appeared transparent, but had points of red lights on corners of object (maybe 8-10 lights).  Not sure if they were blinking.  The object was moving very slowly, emitting no sound whatsoever.  We commented about the fact that we could see through the object.  Nothing solid.  Almost like a group of toothpicks put together with pin-points of red lights on each connection.  The object may have been less than 1000' high.  Hard to tell, but it was definitely not a formation of several objects higher in the sky.  This was very low in the sky.  I reported it to the Sheriff's department and they denied any other reports.  In 2001, another man described having seen the same object that night, and described it the same way to us.((NUFORC Note:  Date is approximate.  One of two reports from same source.  Please see other report from Ocala, FL, for 23DE87.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23462.html](http://www.nuforc.org/webreports/reports/023/S23462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Las Marias () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I am in the military and know all form of aircraft recognition.This night we had partial cloud in low overcast. The revolving lights pass over my head at approximilly 100 to 200 feet above. The lights were roving, no sound. I was trained to see aircraft at night by scanning up, down, left, right. No visible image or edges. It pass over Las Marias Cemetery, wish is on top of a hill. It enters a cloud right over the cemetery. The revolving lights were apparent and the cloud was and hill top was bright as 100 Baseball Park lights were shining. I will point out this Christmas Eve. There was no game going on. I did notice a Cessna, white, single engine, Wings over body, was following, behind by 20 minutes. I would like to know who they were. I will again point out, I have been in the military for now, more than 20 years, I even been in Nevada desert, and I seen all aircraft from the military, even the Raptor before it came out in public.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  We do not know where Las Marias is.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62544.html](http://www.nuforc.org/webreports/reports/062/S62544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
