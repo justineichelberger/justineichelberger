@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:50 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:55 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>police searching for downed aircraft found nothing after neighbors reported debri falling from aircraft.I did not see anything.  Was listening to my police scanner and heard that police were looking for a possible downed aircraft that was sighted going from north to south and veering sharply east.  Home owner reported debri falling from aircraft.  Sky Harbor airport was contacted and knew nothing.  They were also contacting a missle base in Calif. to see if it was possibly a missle.  Last I heard was that nothing was found and it would be classified as "unidentified". It reportedly had flashing red lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15652.html](http://www.nuforc.org/webreports/reports/015/S15652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eden Prairie (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Comet- like object flying across skyMy son and I were stargazing and talking about our spiritual experiences and the meaning of Christmas. It was a clear, cloudless, moonless night. As we faced the west (with the big dipper behind us) both of us saw what at first seemed to be a slowly falling star coming from behind us moving slightly NW. But as it travelled in front of us, we could see it was flying, not falling, across the sky toward the horizon, from a higher altitude to a lower altitude (eg: cruising altitude to incoming altitude).  It was a round ball of white light followed by a tail (it was not connected to the light).  The tail had blue tint and was very long, appearing like a vapor.  The tail was the width of the light at the beginning and gradually fanned out about three times the width. It looked like a comet would look if my son and I were in outer space observing it from approx 1- 2 miles away. It made no sound, but both of us felt as if we heard something.  At the same time, we both admitted that we felt what we heard, as if it came from within us - my son articulated it best saying it was the "energy" of what we saw that affected our senses.  To me it felt/sounded like a whoosh. To my son, he sensed a rumbling.  The light and the tails intensified as it flew, seeming to glow. It did not fade or fall. It simply disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86067.html](http://www.nuforc.org/webreports/reports/086/S86067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
