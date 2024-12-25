@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grangeville (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>7-8 orange orbs moving in the southwest skySaw 7 or 8 orange spheres moving around in the southwest sky.  They appeared spread out when I first saw them.  They we're very bright and moved around each other i very quickly. They appeared to line up.  I ran inside to get someone else to look and they were gone when I came back out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105668.html](http://www.nuforc.org/webreports/reports/105/S105668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 incredibly bright amber lights seen over Burbank,CA on Christmas night 2007.On returning home from a family Christmas dinner, my wife and I parked in front of the house at approximately 11:15pm. Passenger side of the car was facing our house and drivers side facing across the street toward the neighbors. I exited the car on the driver’s side and something caught my eye at almost star level, very high in the sky. I saw three extrememly bright amber lights,first in a straight line formation, stacked on top of each other. The objects hovered around each other, moving as I describe in “slow motion”. They 3 lights floated out of the stacked line formation and made a circle type formation, then back into a slightly curved line. There was no noise coming from the objects at all. This was nothing like I had ever seen before. The objects or object didn’t move like any airplanes or helicopter that I have seen. The silence and “slow motion” movement  looked extremely fluid and bizarre. The objects were completely stationary in between these intervals of formation for seconds at a time. The objects did not move across the sky, but stayed in the same area for the entire duration of our sighting. My wife,nervous from my silence standing outside the car, remained inside the car, asking what I was seeing. I urged her to come out and take a look. She instantly was taken aback by the strange lights and told me to run in inside and grab the video camera. The objects were seen by us for about a minute or two before I got the camera and returned. There is where the video begins. The lights were stationary ,extremely bright and slowly went back into a straight line or up and down formation. When switching the camera to “night mode” and looking back up into the sky, we noticed the lights now formed a triangle. This triangle began to move slowly just slightly to the left. All of a sudden one of the lights faded out completely, then the second, then the third.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61423.html](http://www.nuforc.org/webreports/reports/061/S61423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
