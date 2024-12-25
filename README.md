@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:53 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pflugerville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A brilliant, slow moving light, sped up and disappeared!This was unlike anything I've ever seen! I was star-gazing when I noticed a very bright light. It was an odd blueish white, quite brilliant. It was steady and had absolutely no flicker to it. As I focused on it, I noticed that it was moving slowly, as I have seen satalites move in the past. Then it sped up and traveled a short distance and disappeared completely!  I have seen hundreds of falling stars, many satalites moving in the night sky and countless planes, but this was totally different. The movement coupled with the brightness of the object are outside anything I have ever experienced. I was in shock for quite a while and still shake my head in amazment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48492.html](http://www.nuforc.org/webreports/reports/048/S48492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>7 orange orbs flew across the sky one at a time in the same path, appeared out of nowhere, and faded away.On the evening of Christmas day I was told that I needed to quickly come outside. I saw a orange sphere traveling across the horizon from west to east.  The object made no sound at all and moved much faster than the wind could carry it.  It was moving slower than a plane but fast enough for me to tell that it was being propelled by something. after about 15 seconds it disappeared. Then another one appeared in the western part of the horizon.  It took the exact same path as the first orb, and faded away in the east.  I observed a total of 5 of these orbs traveling across the sky in the same way. The person who told me to come outside saw a total of 7 orbs.  There were a total of 4 people that witnessed this. It was the weirdest thing that I have ever seen. I have been trying to figure out what these were.  There is no possible way that these were Chinese lanterns.  They were moving way too fast, and they were following a straight horizontal path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86129.html](http://www.nuforc.org/webreports/reports/086/S86129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
