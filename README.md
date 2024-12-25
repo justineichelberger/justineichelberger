@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:53 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glace Bay (Canada) (NS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Looked like a bright star just to the left  of the little dipper. But when zoomed in  with a video camera,looked liked a planet,But the detail was very clear. It was grey with two large circles  in  it much like the shape of  the top of  a carnation milk can. There  was  a lot of  dark activity happening  in the top left,also little dark objects moving in and out of the  sphere.Could actually see the  surface,it was  that close,very detailed. i will be checking this  site to see if there is any similar sightings.((NUFORC Note:  Witness elects to remain anonymous, provides little information.  We presume the alleged sighting occurred somewhere in Canada, although witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26767.html](http://www.nuforc.org/webreports/reports/026/S26767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pflugerville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A brilliant, slow moving light, sped up and disappeared!This was unlike anything I've ever seen! I was star-gazing when I noticed a very bright light. It was an odd blueish white, quite brilliant. It was steady and had absolutely no flicker to it. As I focused on it, I noticed that it was moving slowly, as I have seen satalites move in the past. Then it sped up and traveled a short distance and disappeared completely!  I have seen hundreds of falling stars, many satalites moving in the night sky and countless planes, but this was totally different. The movement coupled with the brightness of the object are outside anything I have ever experienced. I was in shock for quite a while and still shake my head in amazment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48492.html](http://www.nuforc.org/webreports/reports/048/S48492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
