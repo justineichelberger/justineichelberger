@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Landover (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Five witnesses in the car saw 5 orange lights traveling together side by side.  They appeared to be gliding quickly but never changing or varying in speed from one another.  Each light, one by one, disappeared behind the clouds never to appear again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95512.html](http://www.nuforc.org/webreports/reports/095/S95512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Saint Louis Park (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 21:00 - 21:00 minutes.</sub><blockquote><sub>7-8 light floating up in western skies around 9:00 pm.1 by 1 it rise up and seems to be coming towards my way but then once they were all up in the skies, they started ok’ing together in formations and making a straight vertical pose and then it suddenly separated in different directions and disappeared with in seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144194.html](http://www.nuforc.org/webreports/reports/144/S144194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
