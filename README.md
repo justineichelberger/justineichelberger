@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I just flipped through a few photos I took on Christmas Day at Luna Mystica, an Airstream hotel near Taos, NM.  I noticed strange objects in the sky in one of the photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138084.html](http://www.nuforc.org/webreports/reports/138/S138084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grangeville (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>7-8 orange orbs moving in the southwest skySaw 7 or 8 orange spheres moving around in the southwest sky.  They appeared spread out when I first saw them.  They we're very bright and moved around each other i very quickly. They appeared to line up.  I ran inside to get someone else to look and they were gone when I came back out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105668.html](http://www.nuforc.org/webreports/reports/105/S105668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
