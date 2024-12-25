@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five strange red lights moved silently over Orange County on 12/25/13 at around 8:40 p.m.It was Christmas night 2013 around 8:40 p.m.  My parents and I saw five strange red lights appear on the horizon from the Southeast heading Northwest.  They flew in single file formation about 30-60 seconds apart.  They made no sound and had no strobes or other lights that you would typically find on commercial aircraft.  All five of the lights faded in a flickering manner and disappeared in the same location.  They appeared to be very high in altitude and might have been climbing at the time they disappeared. I've been watching aircraft fly over Huntington Beach at night for more than 30 years and I've never seen a set of lights like these from this location.  I'm also sure they were not Chinese lanterns because they covered too much distance in a very short period of time.  Their speed also appeared to be steady and it didn't appear to change.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105654.html](http://www.nuforc.org/webreports/reports/105/S105654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Taos (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I just flipped through a few photos I took on Christmas Day at Luna Mystica, an Airstream hotel near Taos, NM.  I noticed strange objects in the sky in one of the photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138084.html](http://www.nuforc.org/webreports/reports/138/S138084.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
