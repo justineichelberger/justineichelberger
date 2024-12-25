@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:27 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Close encounter experience.Close encounter experience. The date is exact, Christmas eve. The time and year are approximate but probably rather accurate. I remember falling asleep wondering what presents I might get. I would have been 6 years old or younger. Sometime very late in the night I was awoken by a sound. It may have been a whistling sound. Before I opened my eyes I wondered if it might be Rudolph the Reindeer. We had watched that show earlier Christmas Eve. When I opened my eyes I have the distinct memory that I knew that I would not be able to move or to speak and that to try would be useless. How did I have that impression when just waking up? I have always had the impression that something had happened previous to this that I have never remembered and that this is what caused me to just know this. When I opened my eyes I was amazed to see that our bedroom (me and my two brothers, each 1 and 2 years younger than me) was absolutely filled with hundreds or maybe even thousands of deep red, completely distinct, oval lights. They were each moving rapidly around the room in all directions. As I watched one group of lights I noticed that I could follow them along the floor, up on the wall and then over the ceiling. Whether they were projected from inside the room or projected in from the outside I could not tell. I looked across the room and my 5 year old brother was looking at me stunned and seeing the same things. I was very frightened by all of this and tried to move. When I did I was suprised that I could. So I then tried to scream out for my parents and again was suprised that I could make a sound. I immediately then jumped out of bed and ran towards the door screaming for help. Our parents room was across the hallway at that time and they met us in the hallway. I have also always had the distinct impression that someone, not my parents, told me thta night that I should always remember what had happened because they would return in the future and that it would be important to me and to everyone else. I could add more details later if necessary. I also reported the october 31, 1974 Illinois sighting at this website and the One in Genesee Depot, Wisconsin.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56905.html](http://www.nuforc.org/webreports/reports/056/S56905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 glowing "orbs" floating from W. Salem OR from the west headed north. Stopping mid flight then up into the clouds.West Salem OR Xmass night (25th) 730pm...from the west came 7 glowing (red/orange) spheres spaces 5-10 seconds apart, one after another.  They arced north, stopped, continued and ascended up into the clouds one by one.  No sound, quite bright, quite close...followed similar path, but different individual "behaviors"   Very slow, graceful and deliberate.  Amazing stuff!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95527.html](http://www.nuforc.org/webreports/reports/095/S95527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
