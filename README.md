@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:15 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:50 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ahmedabad-Vadodra Express Highway. Gujarat (India) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellowish-orange light(seems something was burning) observed in the EAST sky from Ahmedabad -Vadodra Express Highway, Gujarat,India.I was going from Ahmedabad to Vadodra by the Express Highway in the bus with all my friends on the College Picnic. On the way at 07.20 AM (indian standard time) we saw a yellowish orange light in the East when sun was still down.. There were no clouds around, it was a clear sky.  It was lookin as something is burning n moving at great speed but the source of the light was not seen.First that light was white in colour n then slowly turned to yellowish-orange n then after 4 to 5 mins of its observation it just disappeared from the sky without leaving any marks.   We observed it at around 40 to 50 degree angle from the ground.. n it was of the magnitude of -4 or -5.Before i could take its picture it disappeared. I couldnot make out what that object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48478.html](http://www.nuforc.org/webreports/reports/048/S48478.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>police searching for downed aircraft found nothing after neighbors reported debri falling from aircraft.I did not see anything.  Was listening to my police scanner and heard that police were looking for a possible downed aircraft that was sighted going from north to south and veering sharply east.  Home owner reported debri falling from aircraft.  Sky Harbor airport was contacted and knew nothing.  They were also contacting a missle base in Calif. to see if it was possibly a missle.  Last I heard was that nothing was found and it would be classified as "unidentified". It reportedly had flashing red lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15652.html](http://www.nuforc.org/webreports/reports/015/S15652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
