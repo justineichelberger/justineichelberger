@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>7 orange orbs flew across the sky one at a time in the same path, appeared out of nowhere, and faded away.On the evening of Christmas day I was told that I needed to quickly come outside. I saw a orange sphere traveling across the horizon from west to east.  The object made no sound at all and moved much faster than the wind could carry it.  It was moving slower than a plane but fast enough for me to tell that it was being propelled by something. after about 15 seconds it disappeared. Then another one appeared in the western part of the horizon.  It took the exact same path as the first orb, and faded away in the east.  I observed a total of 5 of these orbs traveling across the sky in the same way. The person who told me to come outside saw a total of 7 orbs.  There were a total of 4 people that witnessed this. It was the weirdest thing that I have ever seen. I have been trying to figure out what these were.  There is no possible way that these were Chinese lanterns.  They were moving way too fast, and they were following a straight horizontal path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86129.html](http://www.nuforc.org/webreports/reports/086/S86129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Londonderry (NH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three elongated craft with red lights on nose and tail and a orange strobe in the middle.Heading south on  Interstate Route 93,  my son and I noticed two cigar shaped craft, moving very slowly from the SW to the E  at about 8,000 feet high.  The craft had dull red lights on both ends with a strobing orange/white light in the middle.An additional third craft appeared behind the second craft forming a line of about three or four miles.  Each craft was separated by about a mile.   These craft were flying within three miles of the Manchester Air Port.We continued to drive south on Rote 93 and eventually lost sight of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124840.html](http://www.nuforc.org/webreports/reports/124/S124840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
