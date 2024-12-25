@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Star (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red lights in a round configuration hovering was not a drone nor an aircraftsaw red lights to the northwest of Star idaho it flew from west to northeast then stopped, hovered as though it saw me watching it.  was too high to be a drone I had to go inside when I came back out it was gone.  The lights were steady not flashing and appeared to be round in configuration I am a firm believer in UFOs being present as I also have experienced spirits of deceased individuals</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161324.html](http://www.nuforc.org/webreports/reports/161/S161324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glace Bay (Canada) (NS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Looked like a bright star just to the left  of the little dipper. But when zoomed in  with a video camera,looked liked a planet,But the detail was very clear. It was grey with two large circles  in  it much like the shape of  the top of  a carnation milk can. There  was  a lot of  dark activity happening  in the top left,also little dark objects moving in and out of the  sphere.Could actually see the  surface,it was  that close,very detailed. i will be checking this  site to see if there is any similar sightings.((NUFORC Note:  Witness elects to remain anonymous, provides little information.  We presume the alleged sighting occurred somewhere in Canada, although witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26767.html](http://www.nuforc.org/webreports/reports/026/S26767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
