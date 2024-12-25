@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 24 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jewell County (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Cattle Mutilation - December 2009This is one of two bull mutilation incidences in Jewell county.  The other was reported in early November 2009.   A copy of that article has also been submitted to NUFORC.Superior Nebraska Express Newspaper Article Dated December 31, 2009:((BEGIN TEXT OF ARTICLE))Another dead bull found; appears to have been mutilated   Another bull which may have been killed and mutilated has been found in Jewell County.   A few weeks ago a similar incident was reported to the Jewell County Sheriff’s office.According to Sheriff Dave Fullerton, the cause of the recent bull’s death has not been determined.  The animal was found and reported to the sheriff’s office last Tuesday by Jim Harris.  The bull was owned by Mike Harris but running in Jim Harris’ pasture.  It was found in a remote low area of a pasture located on 140 Road about one-third mile north of V Road.The bull was last seen by Jim Harris the prior Thursday afternoon so the time of death has been placed between that afternoon and its discovery the following Tuesday.According to Fullerton, the bull had one ear and other body parts cut off.  Since the bull was  lying on its right side, the sheriff could not see if the other ear of the right eye had been cut.  He observed, "There was blood around the eye, on the left side and indications that it was partly cut, in an attempt to remove it as had been done in the other bull mutilation."  Fullerton said the person or person’s responsible, did not finish cutting out the tongue, eye or eyes, as had been done in the other mutilation.  He noted, "Something may have interrupted whoever is responsible and caused them to leave the scene before they completed the act."Fullerton checked for tracks in the snow but could only find cow tracks.The bull thought to be mutilated a month ago was found in a pasture north of Burr Oak.  That animal belonged to William Wilson, Burr Oak.  Both bulls were black in color.Fullerton and the Jewell County Crime Stoppers ask if anyone has information as to who may have done this to call the Jewell County Crime Stoppers"((END TEXT OF ARTICLE))(NUFORC Note:  We express our sincere gratitude to the young woman in Columbus, NE, who took the time to locate, retype, and submit this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76683.html](http://www.nuforc.org/webreports/reports/076/S76683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 ships burning up.4 Alien craft in a V formation entered our atmosphere with what looked like fire trails behind them it was dark but they were bright red in colour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27902.html](http://www.nuforc.org/webreports/reports/027/S27902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
