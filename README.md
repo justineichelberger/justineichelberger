@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 aircraft with center orange lights, followed by 5 similar aircraft.Just got home from Christmas day with the grandkids, went outside to smoke a butt, when I saw two aircraft with orange lights just below the cloud deck.  No other Nav lights were visible, just a center orange light.  As they got close to flying over the house, the center lights were no longer visible.  My wife had just come outside and I was calling her over to look at these RQ-180 shaped craft flying eastward.  I could see their silhouette just below the clouds.  What was even more bizarre, they made no sound at all.  As I was calling my wife to come see the first two aircraft, she called my attention to 5 more orange lights flying from west to east in a relatively close formation.  The orange lights too extinguished as they approached the house.  Again, no sound what so ever.  I was in the Air Force and have seen many aircraft takeoff (F-4's, B-52's) but these aircraft can't sneak out of town.  F-4's are proof that if you put a big enough engine on an aircraft it can fly.  Westover AFB is to or north, and have seen F-15's and even Stealth fighters (at night) fly over, but again, these aircraft can't sneak out of town.  From the direction they were coming from it would have put them in the flight path of civilian aircraft from Bradley Airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124813.html](http://www.nuforc.org/webreports/reports/124/S124813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>police searching for downed aircraft found nothing after neighbors reported debri falling from aircraft.I did not see anything.  Was listening to my police scanner and heard that police were looking for a possible downed aircraft that was sighted going from north to south and veering sharply east.  Home owner reported debri falling from aircraft.  Sky Harbor airport was contacted and knew nothing.  They were also contacting a missle base in Calif. to see if it was possibly a missle.  Last I heard was that nothing was found and it would be classified as "unidentified". It reportedly had flashing red lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15652.html](http://www.nuforc.org/webreports/reports/015/S15652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
