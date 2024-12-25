@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 25 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 glowing "orbs" floating from W. Salem OR from the west headed north. Stopping mid flight then up into the clouds.West Salem OR Xmass night (25th) 730pm...from the west came 7 glowing (red/orange) spheres spaces 5-10 seconds apart, one after another.  They arced north, stopped, continued and ascended up into the clouds one by one.  No sound, quite bright, quite close...followed similar path, but different individual "behaviors"   Very slow, graceful and deliberate.  Amazing stuff!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95527.html](http://www.nuforc.org/webreports/reports/095/S95527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lights above the Estrella Mountains (Phoenix, AZ)At approx. 11:30pm I notice a light, located past and above the Estrella Mountains (Phoenix, AZ).  I had recently seen this object a few nights before, however due to Sky Harbor International Airport and the traffic pattern for the aircraft, I thought it was just another airplane.  This object didn't seem to move when looking at it from the distance where I was, however, when looking at the object through my telescope I noticed that the object would not stay stationary.  The object had Blue (Possibly Green) and Red lights, which you would believe to be the position lights on an airplane.  While watching the object it would move from side to side, normally if an aircraft turns the light on the wingtips would alternate to the other side.  This object did not.  There wasn't (at least from what I could see) any anti-collision or strobe lights on it, just the Blue and Red.  Luke Air Force Base is close to my home and other lights have been seen in the distance, South - Southwest of the airbase.  I have videoed some lights in the AZ sky however I was told that these lights are flares from the Air Force.  As for the lights seen, recently, I have seen it before.  Again, may be just another aircraft in the Phoenix sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26762.html](http://www.nuforc.org/webreports/reports/026/S26762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
