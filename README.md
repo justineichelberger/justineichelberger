@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alpharetta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four orange circular objects with triangle and lights at the topWe watched four glowing orange lights with coloring lights close to top of objects also had triangle at top of circle above colored lights..  They flew east with no sound.  They were bright orange in color...amazing and beautifully bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105614.html](http://www.nuforc.org/webreports/reports/105/S105614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>1 Bright Orange Fireball Looking Sphere In The Night SkyIt was December, 26, 2013 around 11:30pm when i was looking up at the North Star snapping pictures.  As I was taking pictures, the object was on my left from where i was standing and was moving to my right.  Then this object starting flying upwards for about 20 seconds and disappeared.  What i did noticeabout this UFO was that there was no strobe lights it was just one solid orange color it was glowing in the sky sort of like a shine from a fire but i doubted it was fire until investigated and seen recent reports of a mystical "ufo fireball" and then stated to believe that’s what i saw.  When i was snapping the pictures the object was in motion.  If you rewiew my pictures and zoom in on every picture you’ll see the orange orb.  On the pictures that show the tree was when the object was flying upwards, on these pictures i had the camera on slow shutter speed at 2 seconds i believe i took pictures of a UFO.  I would please like everyone to review my pictures and my report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106152.html](http://www.nuforc.org/webreports/reports/106/S106152.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
