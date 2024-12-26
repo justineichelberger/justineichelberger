@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Howards Grove (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 witnesss, soundless, constant speed/velocity, redish orange in color, 8-10 balls, about 800-1000ft up in the sky.My uncle happened to step outside and notice a bright red orange ball in the sky.  He called us out to look after about the third or fourth ball sailed across the sky right as another one appeared from the entry point.  We observed about 5-7 more balls go across the sky completely silent and constant in velocity.  They seemed to vanish after about 1-2 minutes in the sky and seemed to reappear as soon as the next one came out.  They cruised about 800-1000 ft above the ground.  We had 8 witnesses out at the time to view this odd, strange, ordinary event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95533.html](http://www.nuforc.org/webreports/reports/095/S95533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green Light/Orb in Northwestern Sky in Huntsville, Alabama.My wife and I were driving west on I-565.  I glanced towards the northwest and saw a green light/orb studded then rapidly shoot toward the ground.  It wasn’t at a high elevation either so I didn’t think it was a shooting star.  There is a US government arsenal and a NASA branch here.  However, this happened over a populated civilian area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138097.html](http://www.nuforc.org/webreports/reports/138/S138097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
