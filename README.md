@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:29 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 orange orbs or fireballs fly in formation over Seattle (Capitol Hill/Madison Valley) on December 26, 2011 at around 2:17 AM.Last night, as I was walking the dog, I noticed a single orange light coming towards me from the southwest and traveling overhead to the northeastern part of the sky.  At first I thought it was some kind of low flying plane or helicopter, but it was fuzzy in appearance and flaring outward in all directions. It moved slowly. Soon afterwards it flew directly over me, and behind the cloud deck off to the northeast. Next about 20 seconds later, I saw two more orange lights traveling in formation, heading on the same course as the first object.  The two objects appeared from the same direction, same course, same speed, and same altitude, flying in a single file pattern. As I tried to get a closer look at them, I noticed that each was a fuzzy, glowing, light orange ball or orb. They did not appear to have any solid noticeable center, and their outlines were faint and semitransparent (almost halo-like). These objects made no sound at all, had no beacons or flashing! lights on them, and just seemed to float along. Their speed would be equivalent to a small plane or helicopter. They were not moving very fast. But these lights were definitely not aircraft. I have no idea how large they may have been or how far away they actually were. What is interesting is that when the objects were directly overhead, I noticed a slight wobble and floating movement (strange propulsion), in which one of objects moved slightly away from the other one, slowing down for a moment and then speeding up again to meet back in formation with the other object.  After a few seconds they continued to travel at the same speed towards the northeast.  My thoughts were that these two strange orange orbs were following, or catching up with the first orange orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86099.html](http://www.nuforc.org/webreports/reports/086/S86099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maceio (Brasil) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flame red oval object moving fast on Maceio 26 Dec 2007 20:00 PM aboutI'm italian. I was at Hotel D'Anatureza (Blu Club Teorema) about 40 km from Maceio, Brasil. It was about 8 pm . I have seen an oval fire ball in the sky, moving orizontally (parallel to the ground). I remember that it was red (like fire) and white (like lights in the sky). The colour were intense and shining.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60612.html](http://www.nuforc.org/webreports/reports/060/S60612.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
