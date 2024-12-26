@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green Light/Orb in Northwestern Sky in Huntsville, Alabama.My wife and I were driving west on I-565.  I glanced towards the northwest and saw a green light/orb studded then rapidly shoot toward the ground.  It wasn’t at a high elevation either so I didn’t think it was a shooting star.  There is a US government arsenal and a NASA branch here.  However, this happened over a populated civilian area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138097.html](http://www.nuforc.org/webreports/reports/138/S138097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dnepropetrovsk (Ukraine) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two flying saucer type of objects sighted at night by two women in large city in Ukraine near Russian borderAbout forty minutes ago my Ukraine girlfriend living in Dnepropetrovsk, Ukraine was walking at night with her girlfriend and they spotted two UFO’s.  The time there was  eight twenty pm tonight, Dec. 26. I pressed her for information.   She said both of the flying objects were about two km above the and both were flying slow but the one in the rear was traveling slightly faster and it caught up with the one in front and together they continued slowly in the same direction.  I asked her if they had green red and white lights and she said no.  She said the color was pinkish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79380.html](http://www.nuforc.org/webreports/reports/079/S79380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
