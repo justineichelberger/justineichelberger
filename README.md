@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large orange oval, like a disc, moved very fast almost at impossible speeds.  It moved to the south and then disappearedOne week before this date I saw an oval white light in the sky and I went to get my roommate.  Once we both care out to see it was gone.  On December 26th 2019, I saw the exact same shape in the exact same spot.  I went to get my roommate again and we both saw it.  It looked about a mile away.  None of us could look directly at it, it was white and extremely bright.  After about 5 minutes the craft moved around a bit and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151999.html](http://www.nuforc.org/webreports/reports/151/S151999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving object, SE direction, definitely not a star, aircraft, or satellite.Slow moving object in the sky, appeared as a star, but didn't flash like a star usually does. Was moving in a SE direction.  Also wasn't flashing like an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116294.html](http://www.nuforc.org/webreports/reports/116/S116294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
