@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Batesville (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Mysterious Lights seen over field; Caught on Video.Approx. 2 miles off of Interstate 55 and exit 246 ("North Batesville"), numerous unidentified flying objects were seen.  Me and my Father were outside, and upon looking to the North (directly North), we noticed multiple lights over a vast field on the North side of Highway 35.  We immediately got our video camera and prepared to take video.  By the time we cut the camera on, and then got back outside to bein filming, the object(s) started moving.  They seem intelligent, as they began to span out as we started recording from our backyard.The objects move extremely fast and are much larger than an airplane.  The Panola County Airport is down the road a small distance and we see airplanes and helicopters all the time---  This was neither.  I have no knowledge of any aircraft that can go from a dead stand-still and move a couple miles within seconds.  And the G-Force would be unbearable, in my eyes.The objects also can stop on a dime and begin traveling in the opposite direction.  They are some form of intelligence.After getting a couple of video clips, the objects slowly vanished one by one.  They seemed to, flash and burn off.  It was at one point four different lights visible, all of which appear (through camera and binoculars) to blink a red, white, green/blue pattern.  The lights seem to move independently.  In addition, at the beginning of filming, we noticed a motor vehicle driver was stopped, facing North, on a road meeting Highway 35.  I believe he/she observed the lights also, but after a few moments, they left the scene going Westbound on Highway 35 towards Interstate 55. Last year near this time, we experienced the same lights, and their was atleast 4 witnesses at that point. We were unable to capture video last year, and are and were shocked we captured the clips this year. I'm not sure why the river and Sardis Lake seems to be a hot spot, but its obviously a lot of activity, from personal experience and from reading others reports after this event. Other notes...: There was no, I repeat NO noise from these objects. And no traffic on the Highway, other than the one driver who came from a nearby road. I cannot explain any of this. But I know what I saw, and so does my Father. And if you do not believe me, my video will prove, if nothing else, what we seen. But, our video nor my testimony can completely concrete what exactly was seen. It is vast possibilities, but low probabilities of anything other than, an extra-terrestrial of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105604.html](http://www.nuforc.org/webreports/reports/105/S105604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raleigh (13 miles SW of)(in-flight) (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On Saturday afternoon, December 26, 2020, Flt.#3763, en route from Columbia, SC, to Dulles International Airport, around 03:45 pm, at an altitude of 29,000 feet.I was a pilot flying, we saw an object (white or silver color, the approximate size of a football) for a fraction of a second (our airspeed was ~300 knots, suspected an object flew toward us), which flew front to back by our right side in very close proximity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161502.html](http://www.nuforc.org/webreports/reports/161/S161502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
