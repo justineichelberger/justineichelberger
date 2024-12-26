@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>1 Bright Orange Fireball Looking Sphere In The Night SkyIt was December, 26, 2013 around 11:30pm when i was looking up at the North Star snapping pictures.  As I was taking pictures, the object was on my left from where i was standing and was moving to my right.  Then this object starting flying upwards for about 20 seconds and disappeared.  What i did noticeabout this UFO was that there was no strobe lights it was just one solid orange color it was glowing in the sky sort of like a shine from a fire but i doubted it was fire until investigated and seen recent reports of a mystical "ufo fireball" and then stated to believe that’s what i saw.  When i was snapping the pictures the object was in motion.  If you rewiew my pictures and zoom in on every picture you’ll see the orange orb.  On the pictures that show the tree was when the object was flying upwards, on these pictures i had the camera on slow shutter speed at 2 seconds i believe i took pictures of a UFO.  I would please like everyone to review my pictures and my report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106152.html](http://www.nuforc.org/webreports/reports/106/S106152.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>every shape size form there here in Lancaster Californiaa ufo just passed my security camera going back and forth than up and gone this has been going on for some time now as in months if you live here in lancaster ca. hook up some security cameras point them up and down  up  if you don't see anything the first few hours keep moving them all angels all directions a lot of activity early morning sun rise and sun coming down make sure to have one pointing in your yard even inside the house i have one in all areas you will be very surprised to just how much activity is happening here in lancaster calif i get activity 24-7 from ufos flying in flying out spears shooting in the sky lasers probing my yard there a real high beam freakquency all around lancaster the clouds will try to hide a lot ' lots of bubbles floating in the air and big big bubbles shooting by just keep your cameras up all the areas i mentioned here . you need the cameras rolling a lot of it is not visible to the naked eye thats because of the high freakquency there using if your cameras seem like there in the twilight zone theres nothing wrong with them its the ufo's are your animals acting very strange they can hear whats going on when i'm checking the Characteristics of Object i'm talking about all of them they all do something different</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116284.html](http://www.nuforc.org/webreports/reports/116/S116284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
