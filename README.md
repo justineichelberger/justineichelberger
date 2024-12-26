@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Manhattan (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>North bound fireball in Thursday evening twilight skySubject: Just reporting:  I saw a very bright, apparent shooting star early this Thursday evening, 26 Dec. 2013 around 5:42 PM.  It was visible in the eastern sky, when viewed from the Zeandale Road area east of Manhattan.  It was traveling from southeast to North northwest.  It was on a fairly flat trajectory and visible for about 4 seconds.  The amazing part was the colorful display of some hues of green, red along with the normal bright white colors.  Did anyone else report seeing this apparent shooting star just around or after sun set time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105631.html](http://www.nuforc.org/webreports/reports/105/S105631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Temple City (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>maroonish orange sphere possibly fireball, completely still, very low, silentIt was the night of the Eaton Canyon fires. I can't remember exactly the date. My friend and I had just seen the fires heading north on the freeway towards my house. When we got there I got out of the passenger side of his car and shut the door. He started driving off headed west as i looked east. There was this gigantic silent maroon/orange/red ball/sphere/fireball thing just fixed in the sky not moving. It was quite low. I was frozen for a second in thought. I actually thought it to be the moon and some sort of apocalyptic thing, although it was not where the moon was supposed to be. I turned around to alert my friend, but he was pulling away. At that point I felt a great fear and kind of panic. I looked at it for another moment and then went into the house and kind of ignored my family. I regret deeply not staying out to watch it or alerting my family. I was seriously freaked out, though! I sat in my room and did just about anything to divert my attention from what i had just seen. Then at about 1:30 AM, i went outside and the moon was just how and where it should've been, which was northwest in the sky to where this very strange object was. I spent that night and the next two days silent and contemplative of it. Everything i could imagine it to be went through my head.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11922.html](http://www.nuforc.org/webreports/reports/011/S11922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
