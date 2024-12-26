@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Maceio (Brasil) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flame red oval object moving fast on Maceio 26 Dec 2007 20:00 PM aboutI'm italian. I was at Hotel D'Anatureza (Blu Club Teorema) about 40 km from Maceio, Brasil. It was about 8 pm . I have seen an oval fire ball in the sky, moving orizontally (parallel to the ground). I remember that it was red (like fire) and white (like lights in the sky). The colour were intense and shining.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60612.html](http://www.nuforc.org/webreports/reports/060/S60612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large orange oval, like a disc, moved very fast almost at impossible speeds.  It moved to the south and then disappearedOne week before this date I saw an oval white light in the sky and I went to get my roommate.  Once we both care out to see it was gone.  On December 26th 2019, I saw the exact same shape in the exact same spot.  I went to get my roommate again and we both saw it.  It looked about a mile away.  None of us could look directly at it, it was white and extremely bright.  After about 5 minutes the craft moved around a bit and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151999.html](http://www.nuforc.org/webreports/reports/151/S151999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
