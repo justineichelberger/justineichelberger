@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:29 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ransbach-Baumbach (Germany) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Oval accerlating to incredible speed.It appeared first on the east and headed to the mountain (Montabaurer Höhe) where it finally disappeared. It was first flying very slow (?) and then accerlated to incredible speed (it made about 3 km in 5 seconds). The sound was like from a jet, but very deep sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60500.html](http://www.nuforc.org/webreports/reports/060/S60500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas/Grant Counties (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At ten degrees above the horizon, above treeline on 200 ft. above sea level hills (70 ft. pine trees.)  Globular Orange fireball size at my position, the size of a dime at arms'length.  Object held level course at the speed of an airliner in daytime at level and constant flight.  After completing 3/4 of horizon from the SW to SE it developed a tail and then a second fireball of the same size.  Neither object being effected by gravity of headed downward.  Both proceeded over the horizon and out of sight.  At no time were red. green, white landing or strobe lights seen.  Only the orange tail to form the second fireball of the same size flying level courses in tandem.Please reference above report to 511508.hmtl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12040.html](http://www.nuforc.org/webreports/reports/012/S12040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
