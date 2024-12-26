@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:22 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:10 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raleigh (13 miles SW of)(in-flight) (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>On Saturday afternoon, December 26, 2020, Flt.#3763, en route from Columbia, SC, to Dulles International Airport, around 03:45 pm, at an altitude of 29,000 feet.I was a pilot flying, we saw an object (white or silver color, the approximate size of a football) for a fraction of a second (our airspeed was ~300 knots, suspected an object flew toward us), which flew front to back by our right side in very close proximity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161502.html](http://www.nuforc.org/webreports/reports/161/S161502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Seymour (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast-moving blue/ white light zoomed off.One fast-moving, blue/white light fell from the sky then zoomed off.  Very large and low flying.  Looked like a LED comet with no tail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138045.html](http://www.nuforc.org/webreports/reports/138/S138045.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
