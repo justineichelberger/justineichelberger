@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:39 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas/Grant Counties (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At ten degrees above the horizon, above treeline on 200 ft. above sea level hills (70 ft. pine trees.)  Globular Orange fireball size at my position, the size of a dime at arms'length.  Object held level course at the speed of an airliner in daytime at level and constant flight.  After completing 3/4 of horizon from the SW to SE it developed a tail and then a second fireball of the same size.  Neither object being effected by gravity of headed downward.  Both proceeded over the horizon and out of sight.  At no time were red. green, white landing or strobe lights seen.  Only the orange tail to form the second fireball of the same size flying level courses in tandem.Please reference above report to 511508.hmtl</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12040.html](http://www.nuforc.org/webreports/reports/012/S12040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mico (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formation around cloud over lake that disappeared and emitted small bright light.In the early morning hours of December 26th, 2009, I was driving home when I noticed that in the distance there was a large, elongated cloud that was illuminated in an odd way.Upon a second look at the cloud, I noticed that there were five lights surrounding the object in a circular fashion.  At first I thought that the lights were just a really clear constellation, but despite their brightness in comparison to other objects, they were also hazy as if each had a fog around them.Each time that I would look back at the cloud ( I was driving in the same general direction each time) I noticed that something about the formation of the lights would change.  For instance, there would be three lights in stead of five or one light instead of five.  Eventually, there were no lights left in the circular pattern around the cloud, and then the cloud seemed to become brighter than before.  By this time, I had pulled over at an overlook point which provided a decent view of a portion of Medina Lake and turned off the ignition, and I could see that the cloud that I had been watching was over the lake.  I watched as a bright, small line of white light stretched out in the center of the largest point of the cloud (the cloud was comparable in shape to a large turkey baster, with the activity taking place at the “bulb” of this cloud “turkey baster”).  The light was a perfectly straight line that then shrunk back to nothing.  At this time, I started my car and left! the scene and started driving again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73815.html](http://www.nuforc.org/webreports/reports/073/S73815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
