@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:25 on 26 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jamaica Estates (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>3 light blue lights circling and colliding at regular patterns and intervals in the sky starting at 8PM and still continuing 3 hours after.8:20 PM: It was at night, there were 3, very light, blue lights silently circling and colliding in the sky with regular patterns. They seemed to be moving from one side of the street to the other. I was walking with my mother and father and they seemed to follow us. They were circular lights that reflected off of the clouds. The lights were not very bright but easy to see in the dark sky. We walked from the garage to the front of the apartment and they seemed to follow us. Then, we went inside our house for about 10 minutes and then went back out to see if they were still there. We saw only one at this time circling alone above the garage. It could barely be seen. After about 10minutes, we went back inside. When I looked out the window all three lights came back and had moved once again toward the front of the apartment where my window was. There the three lights began circling and colliding again at regular patterns and intervals. Then after about 1hour, they disappeared from my view. It was too cold so i did not go out again to see where they were. I do not know how long the lights had been there previously to when I had seen them. update: 11:13 PM The three lights have once again been circling and colliding. They have not changed in color or shape. They continue to move steadily almost mechanically for hours now.((NUFORC Note:  Reports appears to us to be not inconsistent with an articulating advertising light.  Just a guess.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11481.html](http://www.nuforc.org/webreports/reports/011/S11481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright blinking white object in early morning western sky on 12/26/2020Early in the morning today (the 26th) when going to my car to get my morning coffee, I was able to see a very bright flashing white light in the western sky.  It was extremely bright when blinking, but when it wasn't blinking I could not see anything since it was still dark out.  It looked like a very bright pulsing star.  Plus was about 1 second on, 2 seconds off it seemed... also, object didn't move.. when I left to get a better view, I saw it one more time on the way to get coffee, then I lost it as it got bright out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161307.html](http://www.nuforc.org/webreports/reports/161/S161307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
