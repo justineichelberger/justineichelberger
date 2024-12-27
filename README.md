@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Outside of truth or consequences (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Cigar shape object that changed shape to a fish like object and others to appear to have landing legs.I saw an object hovering in the sky to the south while we were heading east on I 40 in  New Mexico that was shaped like a cigar then it appeared to look like a fish and then changed shape again with something hanging off one end of it then it went back to the cigar shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161418.html](http://www.nuforc.org/webreports/reports/161/S161418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in New London (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 99.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144275.html](http://www.nuforc.org/webreports/reports/144/S144275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
