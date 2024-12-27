@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green Glow emerges from Buffalo MountainWhile standing on top of the Radio Tower on Buffalo Mountain in the Tri Cities area (possibly Johnson City but also could have been Unicoi), I was taking pictures of the sunset over the Western Horizon.  Within one minute, I took roughly seven photos and two of the photos captured the same, unknown image.  None of the three people present saw anything with the naked eye and we did not notice the images until the following day.	The first photo taken at 16:55 & 38 seconds captured a very bright green glowing object that appeared to be illuminating from the trees, as if it were on the ground.  The bright green glow also appears to be surrounding a physical object which reveals a shadow below it.  The shape is truly unknown but appears to be a diamond or a T shape.The second image taken at 16:56 & 5 seconds captured the image closer to the camera and appears to be in front of the tree line closest to us in the air.  Oddly enough, this image does not reflect any solid shape or object.Including in report but might not be crucial to the event:  One of the people present was testing a new HAM Radio while on top of the tower.  He made a connection and was chatting with another licensed radio user while I took the photos.  During this time, there was about 20 seconds of radio disturbance and then went back to clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116441.html](http://www.nuforc.org/webreports/reports/116/S116441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Outside of truth or consequences (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Cigar shape object that changed shape to a fish like object and others to appear to have landing legs.I saw an object hovering in the sky to the south while we were heading east on I 40 in  New Mexico that was shaped like a cigar then it appeared to look like a fish and then changed shape again with something hanging off one end of it then it went back to the cigar shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161418.html](http://www.nuforc.org/webreports/reports/161/S161418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
