@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Peabody (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright object disappears.We were driving south on RT 128 in the Peabody/Lynnfield area at dusk when I looked up and saw a bright light that appeared to be a star. I followed it as we were driving and then I just didn't see it anymore. Didn't move or anything -- just disappeared. Then a bit down the road (about 1-1/2 minutes later) I saw what appeared to be a huge light, almost a very wide chemtrail just hovering in the sky and not moving. We were moving, of course, as we changed direction on the road, it shifted from one side of the sky to the other from our vantage point but the object never actually moved. I eventually didn't see it anymore.  It was the strangest thing I've ever seen because I've seem chemtrails and this didn't look like an ordinary one. By the way, the sky was very clear. In fact, I could see the crescent moon.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34161.html](http://www.nuforc.org/webreports/reports/034/S34161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green Glow emerges from Buffalo MountainWhile standing on top of the Radio Tower on Buffalo Mountain in the Tri Cities area (possibly Johnson City but also could have been Unicoi), I was taking pictures of the sunset over the Western Horizon.  Within one minute, I took roughly seven photos and two of the photos captured the same, unknown image.  None of the three people present saw anything with the naked eye and we did not notice the images until the following day.	The first photo taken at 16:55 & 38 seconds captured a very bright green glowing object that appeared to be illuminating from the trees, as if it were on the ground.  The bright green glow also appears to be surrounding a physical object which reveals a shadow below it.  The shape is truly unknown but appears to be a diamond or a T shape.The second image taken at 16:56 & 5 seconds captured the image closer to the camera and appears to be in front of the tree line closest to us in the air.  Oddly enough, this image does not reflect any solid shape or object.Including in report but might not be crucial to the event:  One of the people present was testing a new HAM Radio while on top of the tower.  He made a connection and was chatting with another licensed radio user while I took the photos.  During this time, there was about 20 seconds of radio disturbance and then went back to clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116441.html](http://www.nuforc.org/webreports/reports/116/S116441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
