@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:58 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Londonderry (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle of stationary lights that suddenly flew awayWe saw a stationary triangular shape in the sky with red, green, and white lights.  We assumed it was a plane at first because the Manchester airport is nearby, but as we passed it in the car, we started seeing it from different angles.  Then we assumed it was a tower or beacon, but we’ve lived there for years and knew nothing like that existed there.  When we realized it still wasn’t moving, we did a U-turn and pulled into a parking lot to look at it closer.  After a few seconds, it started moving away from us and eventually disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124802.html](http://www.nuforc.org/webreports/reports/124/S124802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>12/27/12- newyork, ny - 5:15pm reddish orange fireball just sitting there as i looked north toward empire state bldg - duration= 20secs12/27/12  Mr Davenport Thursday, Dec 27th 2012 around  5:15pm on my way to the 23rd street subway station, looked up in the sky to see a bright reddish orange fireball just sitting there.  It was  positioned exactly above 23rd street and 5th avenue, next to Madison Square Park!  There was cloud cover as it had been cloudy all day and was already dark.  Had about 20seconds to look and look again at this bright orange-red beaming from behind the clouds before going into the subway.  The  bright reddish-orange object/fireball/light did not move.  It was round in shape.Thought it was out of place since the sun sets all the way over by the river, 11th/12th avenues.   Also, I’ve never seen an orange-red moon.Looked around to see if anyone else was seeing this.  No one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95880.html](http://www.nuforc.org/webreports/reports/095/S95880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
