@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Weird lights over WinnipegIt was a cold winter morning around 3am. For those of you familiar with Winnipeg it occured in South St.Vital on Warde Ave and St.Annes Rd. I was the passenger in a friends car. As we were driving I looked to my right and noticed some bright lights over top of some houses. I thought about what I had seen and requested that we turn around and investigate. As we approached the object we noticed that it had 3 distinct lights in the form of a triangle. One on top and two to its sides. The lights seemed to have some color to them, at times I remember seeing hints of blue and red, but white was the most frequent. The object just seemes to hang there. It was no further away then 200 yards and was no higher than 50 ft. It hovered motionless for a few minutes. Meanwhile we were fiddling with the radio and flashing our headlights at it. Nothing out of the ordinary occured. Soon thereafter it proceeded top move in a South easterly direction. The lights were always visible. It seemed to move backwards. We proceeded to move east on the road we were on to try and intercept the object. We made it to a road which went North-South and turned south and then just stopped. The object was hovering over the road in front of us. Maybe 20-30 ft above the road and 200-300 yards away. It hovered, slowly moving backwards by some trees lining the road. At that point I rolled my window down and stuck my head out to listen....dead silence. There were no other cars on the road. We must have sat there 5 mins until it started to move in the direction in which it had come from. So we quickly turned around and headed down the same road we were on before only this time we were following a moving target. The lights were still visible at this point. The object seemed to accelerate quickly. We were doing about 80 -90 km/hr when it out accelerated us and vanished. I have never seen anything accelerate like that before. It was fast. I will never forget that night. We were 19 and 20 years old and we were not under the influence of any substanc! es. We w eren't tired and we definately were not dreaming.....Thanks for providing me with a place to post my encounter.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16436.html](http://www.nuforc.org/webreports/reports/016/S16436.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Braintree (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Craft with 5 rectangular openings that emitted white light seen in Braintree sky.At approximately 4:25am i spotted a bright object in the eastern sky kinda over Randolph, VT  AFter a min. it faded away and came back about a minute later.  I woke my friend and he saw it too.  He has seen these before so he went back to bed. I called my neighbors and they saw it too.  When i looked at it with binoculars i saw rectangular openings side by side, 5 of them, all of them emitted light; but the middle one emitted a bright white light. After watching the craft for several minutes i went to bed.((NUFORC Note:  One of three reports from same witness.  PD))((NUFORC Note:  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60591.html](http://www.nuforc.org/webreports/reports/060/S60591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
