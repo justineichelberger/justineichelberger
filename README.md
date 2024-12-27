@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 07:35-16:00 - 07:35-16:00 minutes.</sub><blockquote><sub>Strange Day of SightingsI took these photos starting early AM. At first I thought someone had been peering through my window prior to sunrise. Next on my way home from my parents I noticed what appeared to be two suns in the sky. When I got home I retrieved my camera to photograph them. When I went outside and looked to the sky there was an inverted rainbow in place of one of the suns. Could you possibly shed some light on these photos I've attached?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41471.html](http://www.nuforc.org/webreports/reports/041/S41471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 high intensity flashes of light in skyDriving north on St. Rt. 725 and seen 2 very bright flashes of light, which seemed to be originating in the dirction of beavercreek.  The best example I can give is to an electrical transformer blowing up (the way it lights the sky), but on a much bigger scale and was two around one to two second flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116279.html](http://www.nuforc.org/webreports/reports/116/S116279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
