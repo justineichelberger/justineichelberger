@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:07 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Imperial (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw two reddish orange orbs or objects come down from the clouds in Imperial, MO while driving north on I-55I was driving north on I-55 in Imperial, MO towards St. Louis, MO.  The sky was blue with a lot of scattered fluffy white clouds, temperature was warm for December-in the 50's. All of a sudden I saw two reddish orange round objects.  They kind of looked like fireballs, but were traveling together.  They came down from the sky, hovered, moved to the left together-then shot back up into the clouds.  I was just sitting there while driving, with my mouth open in astonishment!  I wondered what the other people thought if they just saw the same thing I had!  It definitely did not look like anything I had ever seen before, in broad daylight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86207.html](http://www.nuforc.org/webreports/reports/086/S86207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Just got this [5:16:36 PM] https://www.youtube.com/watch?v=_g8YbADR1r8&feature=youtu.be UFO flotilla over Philadelphia, PA, December 27, 2014.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116268.html](http://www.nuforc.org/webreports/reports/116/S116268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
