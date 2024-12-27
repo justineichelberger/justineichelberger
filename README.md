@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vandalia (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>"Star" moves after being stationary.I was walking across a field after dark after deer hunting. I stop frequently due to being overweight and look around.  During one of these stops I looked up overhead and to the northeast and watched an an aircraft flying from east to west.  Above it was a very bright light I thought was a star.  The light was stationary while watching the aircraft.  After a few minutes I started walking again.I got winded and stopped again a few minutes later and looked up to watch the aircraft and saw the "star" now moving at a good speed towards the southeast. I watched it til it faded from sight.  I have a set of Swarovski 10x binoculars(very good optics)and looked at the light thru them when I first saw it moving.  It was just a very bright white light with no shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106038.html](http://www.nuforc.org/webreports/reports/106/S106038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hull (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three orange/amber lights observed in Hull England on the 27th December 2007 at 21:25Observed three amber lights traveling across the night sky traveling from the southwest to the northeast no sound of aircraft engines, the sighting lasted about 4-5 minuets until disappearing in the distance</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60540.html](http://www.nuforc.org/webreports/reports/060/S60540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
