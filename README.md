@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Imperial (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>lights zig zagged repeatedly, then would brake. lights higher than aircraft fly.((NUFORC Note:  Report seems reminiscent of advertising lights, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15621.html](http://www.nuforc.org/webreports/reports/015/S15621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Alabaster (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 ufo's seen over mall in Alabaster, AlabamaI was sitting in a parking lot at Lowes. I saw objects in the sky moving. They hovered in the same spot for periods of time so I knew it was not an airplane. They moved up and down and sideways at lightning speed.An airplane was headed straight toward them through the clouds. Suddenly they flew up. Straight up very very quickly. After the airplane had passed they came back down. There is an airport here in Shelby County.At one point one of them fell downwards very quickly and the other one flew upward very quickly. They almost hit one another. the one on the right swiftly dogged the one on the left.I watched for 30 minutes and my neck began to hurt so I looked down to pick up my drink and when I looked up, they were gone.Also, when they would hover there were lights that came on around the bottom of the craft circulating. When they flew the lights went off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79392.html](http://www.nuforc.org/webreports/reports/079/S79392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
