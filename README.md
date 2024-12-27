@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:25 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:47 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 high intensity flashes of light in skyDriving north on St. Rt. 725 and seen 2 very bright flashes of light, which seemed to be originating in the dirction of beavercreek.  The best example I can give is to an electrical transformer blowing up (the way it lights the sky), but on a much bigger scale and was two around one to two second flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116279.html](http://www.nuforc.org/webreports/reports/116/S116279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Murphy (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>About 3 years ago right after Christmas I saw what I now believe to be a UFO. At  about 11:30 pm my brother and I were outside watching for shooting stars. One star appeared to get larger in diameter and was coming straight down. We both moved back in our  chairs  because it looked as if it were coming at us. Then it stopped and  went back up and got smaller and then  shot off to the south and then just disappeared. I was very fast may 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65707.html](http://www.nuforc.org/webreports/reports/065/S65707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
