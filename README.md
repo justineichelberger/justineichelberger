@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Braintree (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Craft with 5 rectangular openings that emitted white light seen in Braintree sky.At approximately 4:25am i spotted a bright object in the eastern sky kinda over Randolph, VT  AFter a min. it faded away and came back about a minute later.  I woke my friend and he saw it too.  He has seen these before so he went back to bed. I called my neighbors and they saw it too.  When i looked at it with binoculars i saw rectangular openings side by side, 5 of them, all of them emitted light; but the middle one emitted a bright white light. After watching the craft for several minutes i went to bed.((NUFORC Note:  One of three reports from same witness.  PD))((NUFORC Note:  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60591.html](http://www.nuforc.org/webreports/reports/060/S60591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Imperial (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>lights zig zagged repeatedly, then would brake. lights higher than aircraft fly.((NUFORC Note:  Report seems reminiscent of advertising lights, but that is a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15621.html](http://www.nuforc.org/webreports/reports/015/S15621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
