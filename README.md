@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Just got this [5:16:36 PM] https://www.youtube.com/watch?v=_g8YbADR1r8&feature=youtu.be UFO flotilla over Philadelphia, PA, December 27, 2014.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116268.html](http://www.nuforc.org/webreports/reports/116/S116268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lee (MA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low flying and slow moving (and quiet) jet shaped crafts with strange light configurations.My husband and I were in our car, heading westbound on Rt. 20.  In the sky in front of us, we saw two VERY bright lights....too bright to be stars or planets.  They were in perfect alignment...one above the other...but pretty far apart.  We continued to watch them as we were driving toward them.  They appeared to not be moving at first.  Then as we got closer, the bottom one veered off slightly toward the North, while the top one continued it's path overhead.  When we passed under it...I noticed it was moving very slowly.  It was shaped like a plane.  The configuration of lights were two square white lights in the front...two square white lights below them (like a box) and a red and a green light on either "wing" tip.  As we drove on...the other one passed overhead.  It was very similar to the first except for there were only 3 square white lights...in a "triangular" pattern with the same red and green light on each wingtip.  Could very well have been airplanes, but they seemed to be going extremely slow and for as low as they were flying, they were very quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48505.html](http://www.nuforc.org/webreports/reports/048/S48505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
