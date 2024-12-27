@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 27 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lee (MA) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low flying and slow moving (and quiet) jet shaped crafts with strange light configurations.My husband and I were in our car, heading westbound on Rt. 20.  In the sky in front of us, we saw two VERY bright lights....too bright to be stars or planets.  They were in perfect alignment...one above the other...but pretty far apart.  We continued to watch them as we were driving toward them.  They appeared to not be moving at first.  Then as we got closer, the bottom one veered off slightly toward the North, while the top one continued it's path overhead.  When we passed under it...I noticed it was moving very slowly.  It was shaped like a plane.  The configuration of lights were two square white lights in the front...two square white lights below them (like a box) and a red and a green light on either "wing" tip.  As we drove on...the other one passed overhead.  It was very similar to the first except for there were only 3 square white lights...in a "triangular" pattern with the same red and green light on each wingtip.  Could very well have been airplanes, but they seemed to be going extremely slow and for as low as they were flying, they were very quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48505.html](http://www.nuforc.org/webreports/reports/048/S48505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vandalia (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>"Star" moves after being stationary.I was walking across a field after dark after deer hunting. I stop frequently due to being overweight and look around.  During one of these stops I looked up overhead and to the northeast and watched an an aircraft flying from east to west.  Above it was a very bright light I thought was a star.  The light was stationary while watching the aircraft.  After a few minutes I started walking again.I got winded and stopped again a few minutes later and looked up to watch the aircraft and saw the "star" now moving at a good speed towards the southeast. I watched it til it faded from sight.  I have a set of Swarovski 10x binoculars(very good optics)and looked at the light thru them when I first saw it moving.  It was just a very bright white light with no shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106038.html](http://www.nuforc.org/webreports/reports/106/S106038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
