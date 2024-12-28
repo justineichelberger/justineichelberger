@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Truangle tracked for 20 minutes headed westAt approximately 17:35 on December 28th, 2020, I was heading home from Ham Radio Outlet on SW Pacific Ave in Portland OR on Tile Flat Rd westbound between SW Scholls Ferry Rd and SW Farmington Rd to my home in Forest Grove OR.  After passing the intersection with SW Clark Hill Rd I noticed what appeared to be three bright white lights appearing to mark the outside corners of a solid object at about 25 degrees above the horizon.  I would estimate the object to have had about 100 feet between each light on the bottom side.  There were more lights along one edge of the object.  I was unable to stop on that road to get any pictures.I turned onto SW Farmington Rd heading west.  I went through the intersection at SW Road Bridge Rd and could again see the object.  By this time, it had lowered to about 18 degrees above the horizon and was quite noticeably further from me and continuing to move slowly away.I turned onto Highway 219 northbound towards Hillsboro and drove for about 1 ¼ miles and was able to find a safe place to pull off the road.  The time was 17:48.  The object was visible about 8 degrees off the horizon just above the coast range mountains.  I was able to get a little over three minutes of video of the object.  The camera I used was unable to get a consistent clear image, but it appears to clearly show at least two of the three corner lights and a couple of the back edge lights.  The one closest to me was the brightest with the rest being visible, but dimmer.  I tried pointing to it for people driving by, but apparently I was unable to catch their attention to stop and view it.  After I stopped the camera, I tried to reach it with a 5 mA blue laser with no reaction.  I was able to see it periodically for about the next ten minutes as I continued on my way home, but then it disappeared below the horizon.  The sighting lasted from 17:35 to about 17:55.Below is as close a rendition as I could recollect.  Reflection on the incident reminded me that there were lights along one edge, but I cannot clearly remember the exact configuration of those lights. I believe they were round as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161577.html](http://www.nuforc.org/webreports/reports/161/S161577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Michigan (southeast portion) (in-flight sighting) (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fast moving light spotted from commercial jet.We were flying home from a trip to New York City and I looked out the window and I saw a very fast moving light with a trail of black smoke coming out the back of it. We watches it move up and down for about 5 to 10 mins and then it went down into the clowds and we lost sight of it but about 20 mins later we saw it come back up through the clowds and increes in speed untell we lost sight of it.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58375.html](http://www.nuforc.org/webreports/reports/058/S58375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
