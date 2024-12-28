@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Michigan (southeast portion) (in-flight sighting) (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fast moving light spotted from commercial jet.We were flying home from a trip to New York City and I looked out the window and I saw a very fast moving light with a trail of black smoke coming out the back of it. We watches it move up and down for about 5 to 10 mins and then it went down into the clowds and we lost sight of it but about 20 mins later we saw it come back up through the clowds and increes in speed untell we lost sight of it.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58375.html](http://www.nuforc.org/webreports/reports/058/S58375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>1 bright white and four smaller orange orbsI have been watching these lights in the sky for almost ten years, but this is the first time I have ever seen more than one at a time.  I went outside this morning at 3 AM EST and saw the main light first.  It is very bright and seems ‘lower’ than I’ve ever seen it.  There are “beams” radiating from it. It moves around slowly and looks like it’s part of a constellation at first.  It is VERY bright.  It is in the western sky.There are four more lights randomly placed in the same western sky.  They are smaller and appear orange.  They move around more noticeably than the centrally located white light.It is now 5:20 AM EST, and they are all still in the sky.  Normally, if I see a moving light it disappears after an hour or so.  Not this time.  I wonder why there is so much activity?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105586.html](http://www.nuforc.org/webreports/reports/105/S105586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
