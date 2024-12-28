@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116252.html](http://www.nuforc.org/webreports/reports/116/S116252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chattanooga (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four family members witnessed some 14-18 bright yellow/orange lights move slowly over cityWe live on the brow of a mountain that looks out over the city of Chattanooga, TN.  At about 9:30 pm my daughter, who is only 8 yrs old, was looking out our bay window and asked me to come look at this yellow/orange light in the sky.  I said, oh it's probably just a helicopter but as I pulled back the drapes to reveal the enitre line of sight from the window, I was astonished to see that the sky was full of them.The lights were clearly moving and all of them seemed to be moving in the same direction, across the mountain from the SouthWest heading NorthEast.  The mountain we live on is some 2300 in elevation and the lights were not too far higher than that, but clearly above the mountain, as they passed over the mountain.My father and his wife live next door and we called them to come out on the porch and look. They both witnessed the event as well.  My father (68) and myself (40) have lived on the mountain for most of our entire lives, on the brow of the mountain since 1980 and neither of us have ever experienced anything like what we saw.I have looked every night since and have not seen anything at all in the night skies other than distant planes and helicopters that rarely, if ever, come across the mountain.  Most all commercial flights into the city approach from the South (atlanta) and are visible way off on the horizon flying direclty north into the airport.I would be very interested in recieveing some feedback about what we experienced.  I will go on and say that since this night, we have been watching a lot of internet and TV shows about UFO sightings and we found out experience very similar to the "Lights Over Phoenix" experience.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87219.html](http://www.nuforc.org/webreports/reports/087/S87219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
