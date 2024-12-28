@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in League City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights and dark objects over League City, Texas.My family was driving home from dinner. My wife noticed a couple of orange light objects in the sky.  I slowed down and the pulled the car over and we all watched.  Two or three orange lights moved across the sky in a manner faster than an aircraft would but not too fast.  The lights moved toward each other and then one passed the other one.  They then seemed to stay in about the same relative location, what appeared flame like came out of both of them, they both moved directly upward until they could no longer be seen.  During this same time a couple of much larger, dark geometric shaped objects moved across the sky much lower.  They appeared to have mass and thickness.  These objects had no lights on them only appeared visible by the night sky.  The dark objects moved in the same direction as the lights from the southeast to the northwest.  The dark objects moved at a steady speed across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105564.html](http://www.nuforc.org/webreports/reports/105/S105564.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Apollo (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular craft can be seen at the intersection of Cherry Lane and Shellhammer Road Apollo PAMy girlfriends sister and her boyfriend first spotted three bright white lights that moved in a circular motion above a cemetary in West Labanon PA near Indiana 12/27/06. They studied it for a bit and when they got into their vehicle to drive away, it seemed to follow them. They came to my girlfriends house in Apollo 12/28/06 saying "you guys have to come see this". All four of us got into my truck to go check this out. Near the intersection of Cherry Lane and Shellhammer Road in a feild, we spotted the same image they had seen. Three lights moving in a circular motion. It was very creepy. All the dogs were barking hysterically. We looked away due to another car coming on the road, only to discover that the object was not there, but further away. The object seemed to dissapear rather slowly until there was nothing spotted.((NUFORC Note:  Possible advertising lights??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54196.html](http://www.nuforc.org/webreports/reports/054/S54196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
