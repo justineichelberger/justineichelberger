@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : We observed a 60-80 ft diameter metalic craft (disk shaped- flat on top) move by us at 70 ft high & 100 yards of dista-nce.The craft made no sound and was moving at approx 10 mph. The outside surface had a metalic appearence. Much like stainless steel. The underneath had many interweaved objects. They looked like pipes or metal counduits. The craft was moving over a parking lot that was illuminated by bright lights. The light intensity was magnified by the snow that was on the ground. The craft continued to move away at tree top level and move out of our line of sight. I have never seen a UFO since this incident in 1977.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02267.html](http://www.nuforc.org/webreports/reports/002/S02267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Highway 37 (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>A young man and companion were on Highway 37 between Sears Point and Vallejo, California, when they saw a "ring of lights" in the night sky.  It was "over the water to the east." (sic?)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01747.html](http://www.nuforc.org/webreports/reports/001/S01747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
