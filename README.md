@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Winter Park (just outside Orlando) (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large green fireball seen through clouds falling diagonally for 3 seconds and terminating in a flash of white light.I am not a trained observer, but I am an amature astronomer. I have seen many shooting stars, and this didn't look anything like a shooting star. This is the second green fireball I have seen falling. The last was in the first week of Nov. 98 and that sighting lasted for only a second. That fireball was clearly visible about 30 degrees above the horizon and large enough to see it's head and tail destinctively. Interestingly the tail flared out and was wider farther from the head of the fireball and much thiner near the head. However the last green fireball which I saw on the Dec. 28, 1998 could not be made out clearly because of a dark rainy sky. But I could see a large glowing green light falling in or just behind the clouds above and in front of me as I drove west on 50 outside of Orlando. The fireball *seemed* to have fallen well into the lower parts of the atmosphere when it terminated. Unfortuneatly I have no way of estimating how quickly it was moving or how far away it really was. It just seemed close. Compared to a shooting star it moved very slowly. And seemed to just be falling. After about 3 seconds it terminated with a brilliant flash which lit up the clouds in a white light. Though the fireball itself was green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07559.html](http://www.nuforc.org/webreports/reports/007/S07559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White bright streak like teardrop shape in clear blue skyIt was a bright white streak teardrop shape in the clear blue sky.  It looked as if it was not moving and it seemed far away because of that.  We viewed it for at least 15 minutes until we could not see it anymore.  It was bold not like a cloud or contrail.  The direction was west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105576.html](http://www.nuforc.org/webreports/reports/105/S105576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
