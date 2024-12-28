@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Apollo (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular craft can be seen at the intersection of Cherry Lane and Shellhammer Road Apollo PAMy girlfriends sister and her boyfriend first spotted three bright white lights that moved in a circular motion above a cemetary in West Labanon PA near Indiana 12/27/06. They studied it for a bit and when they got into their vehicle to drive away, it seemed to follow them. They came to my girlfriends house in Apollo 12/28/06 saying "you guys have to come see this". All four of us got into my truck to go check this out. Near the intersection of Cherry Lane and Shellhammer Road in a feild, we spotted the same image they had seen. Three lights moving in a circular motion. It was very creepy. All the dogs were barking hysterically. We looked away due to another car coming on the road, only to discover that the object was not there, but further away. The object seemed to dissapear rather slowly until there was nothing spotted.((NUFORC Note:  Possible advertising lights??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54196.html](http://www.nuforc.org/webreports/reports/054/S54196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : We observed a 60-80 ft diameter metalic craft (disk shaped- flat on top) move by us at 70 ft high & 100 yards of dista-nce.The craft made no sound and was moving at approx 10 mph. The outside surface had a metalic appearence. Much like stainless steel. The underneath had many interweaved objects. They looked like pipes or metal counduits. The craft was moving over a parking lot that was illuminated by bright lights. The light intensity was magnified by the snow that was on the ground. The craft continued to move away at tree top level and move out of our line of sight. I have never seen a UFO since this incident in 1977.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02267.html](http://www.nuforc.org/webreports/reports/002/S02267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
