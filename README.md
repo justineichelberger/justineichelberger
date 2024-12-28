@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hadera (Israel) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I sow about 3 or 5 dots of light in the sky for about 2 hours above the mediterranean seaI sow about 3 or 5 dots of light. at first a thought is bouts on water and than airplanes.  But the light from this dots blinked and it staid at the same size all the time.  but it did move up and down a little ... it didn't became closer and after about 2 hours  it just despaired.  it was at the beach, it was dark and no clouds, just very cold.  I remember it very good because I was there in my firs date ever, and the guy that was with me sow it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106529.html](http://www.nuforc.org/webreports/reports/106/S106529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Laredo (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Fiery object falling, breaks into 2 pieces, each dart toward opposite horizons.My dad and I were driving down Mines Rd toward the Columbia Bridge on our way to a hunting camp in Mexico.  While conversing, a bright fiery object appeared out of nowhere and seemed to be falling.  We asked one another, "Are you seeing that?"  After falling for about 7 seconds, it broke into two pieces, darting toward the horizon in opposite directions.To this day we still talk of this event and have no explanation for what was seen.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118801.html](http://www.nuforc.org/webreports/reports/118/S118801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
