@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:26 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Satellite Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Naked eye watching early morning sky finds Mars planetary movement vs.an unidentifiable object hovering like a helicopterNot sure if we are seeing Mars and effects of Earth's rotation, but very noticably bright flashlight type object with "hovering" movement resembling pendulum like left, up and right, almost helicopter like.  Object appeared at distance of 4 index fingers measured from ocean surface to air, and at last viewing over 2 hours had moved to position of 12 index fingers from ocean surface to air...now, at 6:15 appearing more as "bright morning star" or planet Mars...movement not as pronounced now as it was at first sighting.  During this two hour period also witnessed two falling stars, satellites and planes with distinctive qualities from this bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60539.html](http://www.nuforc.org/webreports/reports/060/S60539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately all night - all night minutes.</sub><blockquote><sub>UFO flying in the Orange county sky. Very slow moving, low noise level, low altitude, very  bright lights.  Have been flying since last night and into this morning over and over. Could not see the shape but big in size.  Was no airplane,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105551.html](http://www.nuforc.org/webreports/reports/105/S105551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
