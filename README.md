@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>1 bright white and four smaller orange orbsI have been watching these lights in the sky for almost ten years, but this is the first time I have ever seen more than one at a time.  I went outside this morning at 3 AM EST and saw the main light first.  It is very bright and seems ‘lower’ than I’ve ever seen it.  There are “beams” radiating from it. It moves around slowly and looks like it’s part of a constellation at first.  It is VERY bright.  It is in the western sky.There are four more lights randomly placed in the same western sky.  They are smaller and appear orange.  They move around more noticeably than the centrally located white light.It is now 5:20 AM EST, and they are all still in the sky.  Normally, if I see a moving light it disappears after an hour or so.  Not this time.  I wonder why there is so much activity?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105586.html](http://www.nuforc.org/webreports/reports/105/S105586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hadera (Israel) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I sow about 3 or 5 dots of light in the sky for about 2 hours above the mediterranean seaI sow about 3 or 5 dots of light. at first a thought is bouts on water and than airplanes.  But the light from this dots blinked and it staid at the same size all the time.  but it did move up and down a little ... it didn't became closer and after about 2 hours  it just despaired.  it was at the beach, it was dark and no clouds, just very cold.  I remember it very good because I was there in my firs date ever, and the guy that was with me sow it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106529.html](http://www.nuforc.org/webreports/reports/106/S106529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
