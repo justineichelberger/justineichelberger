@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:21 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grosse Pointe Park (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange colored circular objects flying in a line in Grosse Pointe, Michigan.I was outside barbecuing and looked up and saw around 30 low flying orange objects all flying in the same direction relatively close in proximity to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105543.html](http://www.nuforc.org/webreports/reports/105/S105543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kota Kinabalu/Sabah (Malaysia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny metallic object, disc shaped, silent and hovering.Shiny metallic object, disc shaped. silent. hovering above our local islands. it was quite close, since the islands are not far offshore. I couldn't quite estimate whether they were above the sea or the islands cos there was a building blocking and I was driving but I know that it was somewhere in between. It was quite big, maybe 50-80 meters? Some parts of the object were darker, but they still shined, the upper part of the craft was so shiny it kind of hurt to look at. It was there for quite a while but I only got to see it for a minute or so because i was driving. Later on that day I came back to look like an hour or so later, but it had already gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14585.html](http://www.nuforc.org/webreports/reports/014/S14585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
