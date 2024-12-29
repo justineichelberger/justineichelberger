@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:31 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bastrop (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SUMMARY:  due south of bastropA bright light was seen in the sky, and was thought to be a star until it started moving.  It moved back and forth, and up and down.  Sometimes it climbed in a diagonal course. The object also changed colors.  It went from blue to redto green. Later, WE briefly saw the same object again, but in a different part of sky.  I often look for such objects, but I've never seen anything quiet like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01915.html](http://www.nuforc.org/webreports/reports/001/S01915.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We saw about 15 lights in a straight line equal formation and moving in the same direction.  The we're moving at the same speed and then disappeared.  An aeroplane crossed 1 of the lights and the light was covered by the plane and then appeared again as the plane passed.  The lights had the same space between each 1 that appeared.  After about 10 mintues, all the lights disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151919.html](http://www.nuforc.org/webreports/reports/151/S151919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
