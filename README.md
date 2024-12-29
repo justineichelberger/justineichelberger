@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:57 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:19 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eatontown (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small reflective orb flying over monmouth county, nj followed by several military jets.This is my second time seeing this object. The first time was in the fall, same region, same time of day. That time also followed by military jets scrambled to the area.  This time I got it on camera and chased it for 30mins with my 6 yr old daughter. I added a filter to the beginning portion to add contrast but I also have a professional videographer enhancing the footage. You tell me what you think. I’ve asked experts and they said the most compelling part are all the military planes following it. Driving west on Eatontown blvd, I made a left on County road 547 and immediately spotted a bright reflective orb. I pulled into the parking lot of the park to capture footage and it was appearing and disappearing in the clouds. I got back on the road and drove towards Rt. 35 and spotted the object again immediately directly above a shopping center. My daughter and I also notices 7-8 fighter jets setting a perimeter in the sky around the object. We also spotted dark planes with flashing lights flying directly above the object. The object disappeared, I spotted it again with an orange reflection of the sunset a few mins later but I could no longer capture footage due to driving in traffic.https://youtu.be/MJFkD2ClbwU</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161541.html](http://www.nuforc.org/webreports/reports/161/S161541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Waterloo (south of) (IA) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>light moving oddly in straight line.it most resembled the report dated 12/79 ? about an orange color. it was orangish color but glowing. it first appeared in the n.w. as we drove north on a county road towards waterloo,ia. it remained to the left of us the whole time. i guess it was about 3/4 of a mile up in the air. it moved in a staight line toward the south and when we had driven about 2-3 min. at about 40 m.p.h we had to look out the back window to keep watching it. it didnt move according to normal "earth time". it seemed be slowly advancing but not "flying". i dont remember if it had a shape but it was huge and like i said glowing and orangish-red. kind of neon-like.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38212.html](http://www.nuforc.org/webreports/reports/038/S38212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
