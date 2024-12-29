@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:19 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Waterloo (south of) (IA) reported seeing craft that fit the description of some '' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>light moving oddly in straight line.it most resembled the report dated 12/79 ? about an orange color. it was orangish color but glowing. it first appeared in the n.w. as we drove north on a county road towards waterloo,ia. it remained to the left of us the whole time. i guess it was about 3/4 of a mile up in the air. it moved in a staight line toward the south and when we had driven about 2-3 min. at about 40 m.p.h we had to look out the back window to keep watching it. it didnt move according to normal "earth time". it seemed be slowly advancing but not "flying". i dont remember if it had a shape but it was huge and like i said glowing and orangish-red. kind of neon-like.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38212.html](http://www.nuforc.org/webreports/reports/038/S38212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Porstmouth (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three stationary lights clumped together.Red, green, and white flashing lights in the South East sky.  Witnessed by six people and lasting at least fifteen minutes, then it just disappeared.  This happend around 8:30 pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144225.html](http://www.nuforc.org/webreports/reports/144/S144225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
