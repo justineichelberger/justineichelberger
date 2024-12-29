@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hervey Bay (Australia) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slowly moving light that flared to 4 times its size then slowly dimmed down and dissapeared, travelling a total distance of approx 20 mA large light travelling for abot 30 seconds wich originaly looked like a satalite flared up to abot 4 times its size for about 15 seconds before slowly dying back down to what looked like small star, then it travelled accross the sky for about another 15 seconds getting dimmer before it vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54195.html](http://www.nuforc.org/webreports/reports/054/S54195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Belleville (ON) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>4 Greenish Blue Blob-Like Objects Flashing Low In Southern SkySometime between 23:00-23:59 I went outside for a smoke and looking South to SSW over the Bay and very low in the sky, I saw what looked almost like green to greenish blue scattered aurora borealis-looking blobs about the size in total of what'd amount to a small recreational boat, 3 to 4 of them in an almost diamond formation, each blob (btwn an orb and a disk, blurry edges) flashed in the same spot around 3 times each lasting about 3-5 seconds per flash and not in unison, and by the time I was intensely focused on it wondering what the heck it was (over the span of about 1 minute) they then disappeared and didn't reappear for the duration of my cigarette.It was about a pinky finger width up from the top of the tree horizon across the bay from me but it was between Belleville and Prince Edward County.It was silent, there was no noise at all unlike the hospital helicopter or aircraft I often see from Airforce Base.I haven't seen anything like that before actually, I'm not someone who writes these things ever, and have lived here 5+ years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161572.html](http://www.nuforc.org/webreports/reports/161/S161572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
