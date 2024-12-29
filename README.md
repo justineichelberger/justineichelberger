@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:16 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving home down 13th street, I saw a object hovering over 13th street very low, at first I could not tell how low as I was approaching it. It had a blue light then a red light then a blue light. That was all I could see of the object as I was appraching it at about 35 mph. I began to wonder what it was because it was so low and seemed to be hovering unmoving. I eventually ruled out plane because of the complete stillness of lights. I ruled out crane or building lights for low flying aircraft because there was nothing above two stories in a 10 block radius. I decided as I got closer it must be a hovering helicopter.I was coming up to the lights now and I could tell they were only about 6 stories high so I was expecting to see a helicopter. As I passed under the object I saw a greyish black boomerang shaped object.My mouth hung open and I said aloud to myself what in the #### is that! I could not stop in my tracks as there were cars behind me. I turned aff at the nest street came to a park postion and jumped out of my car. It was not longer then 30 seconds since I saw the object but it was gone . I jumped in my car after surveying the skyline went up to twelfth went up three blocks and came down thirtenth again.There was nothing above thirtennth or low flying craft anywhere that I could see. I came around again for a second pass and again nothing above thirteenth and nothing anywhere in the sky that I cold see except plane high above (very very high) I then realized something also paculiar about the obect although it had red an blue lights (which made me originally think it was normal air traffic )I realized at the third pass when I saw the other plane high up that the object I saw lights had never blinked once any of them. I had watched it for about 2 minutes coming up to it and not on light ever blinked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11510.html](http://www.nuforc.org/webreports/reports/011/S11510.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I COULDN'T BELIEVE MY EYESIT WAS A STRANGE ILLUMINATION OF LIGHT, BY IT BEING NIGHT TIME OUTSIDE IT WAS KIND OF HARD TO DETERMINE THE DISTANCE.BUT THE LIGHT EMMITED WAS NOT PROJECTED IN ANY DIRECTION IT WAS BRIGHT ENOUGH TO BE SEEN BUT NO FLICKERING ALMOST LIKE A GLOW. IT MOVED SLOWER THAN A LOW FLYING PLANE, IT MOVED AS IF IT WAS HOVERING SLOWLY FORWARD IT PASSED THROUGH THE CLOUDS . IT DIDN'T MAKE A SOUND AS IT ALMOST GOT OVERHEAD IT PASSED INTO ANOTHER CLOUD AND NEVER EMERGED OUT THE OTHER SIDE AS IT DID BEFORE. ABOUT 5 TO 7 MINS LATER WE OBSERVED SEVERAL SMALL PLANES RESEMBLING JETS. MAKING MULTIPLE PASSES OVERHEAD IN THE AREA WHERE WE LAST SAW THE OBJECT. THIS CONTINUED FOR ABOUT 30 TO 45 MINS THEN THE SKYS WERE CLEAR AGAIN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41298.html](http://www.nuforc.org/webreports/reports/041/S41298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
