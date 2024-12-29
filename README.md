@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:57 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Davenport (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was 21:30, when my sister, mom, and I were sitting in the living room.  My mom was watching some show on her laptop when she looked over.  She had noticed a bright, very bright red thing.  It was red like Rudolph's nose.  It was east looking over my neighbor's house.  We crowded around the window staring at it.  The object was higher than our neighbors', but just was there.  Not moving up or down but was just there.  We stared at it for 3:00 min., not doing anything, because we didn't know what we were looking at.“Take a picture.”  My mom said, quickly.  I snapped a shot with flash mode on, not realizing. I tried to get another picture, but it disappeared.  It like  began fading into the darkness of night.  The size you could tell was big</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131918.html](http://www.nuforc.org/webreports/reports/131/S131918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Eatontown (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small reflective orb flying over monmouth county, nj followed by several military jets.This is my second time seeing this object. The first time was in the fall, same region, same time of day. That time also followed by military jets scrambled to the area.  This time I got it on camera and chased it for 30mins with my 6 yr old daughter. I added a filter to the beginning portion to add contrast but I also have a professional videographer enhancing the footage. You tell me what you think. I’ve asked experts and they said the most compelling part are all the military planes following it. Driving west on Eatontown blvd, I made a left on County road 547 and immediately spotted a bright reflective orb. I pulled into the parking lot of the park to capture footage and it was appearing and disappearing in the clouds. I got back on the road and drove towards Rt. 35 and spotted the object again immediately directly above a shopping center. My daughter and I also notices 7-8 fighter jets setting a perimeter in the sky around the object. We also spotted dark planes with flashing lights flying directly above the object. The object disappeared, I spotted it again with an orange reflection of the sunset a few mins later but I could no longer capture footage due to driving in traffic.https://youtu.be/MJFkD2ClbwU</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161541.html](http://www.nuforc.org/webreports/reports/161/S161541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
