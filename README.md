@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:41 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ft. Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10:30 - 10:30 minutes.</sub><blockquote><sub>I walked  outside down my drive  way .and looked  up in the  sky.  And i see a big blue beam of light.  Looks like  a spot light but it not.  Its still in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151911.html](http://www.nuforc.org/webreports/reports/151/S151911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Davenport (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was 21:30, when my sister, mom, and I were sitting in the living room.  My mom was watching some show on her laptop when she looked over.  She had noticed a bright, very bright red thing.  It was red like Rudolph's nose.  It was east looking over my neighbor's house.  We crowded around the window staring at it.  The object was higher than our neighbors', but just was there.  Not moving up or down but was just there.  We stared at it for 3:00 min., not doing anything, because we didn't know what we were looking at.“Take a picture.”  My mom said, quickly.  I snapped a shot with flash mode on, not realizing. I tried to get another picture, but it disappeared.  It like  began fading into the darkness of night.  The size you could tell was big</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131918.html](http://www.nuforc.org/webreports/reports/131/S131918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
