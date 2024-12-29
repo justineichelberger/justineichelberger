@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I COULDN'T BELIEVE MY EYESIT WAS A STRANGE ILLUMINATION OF LIGHT, BY IT BEING NIGHT TIME OUTSIDE IT WAS KIND OF HARD TO DETERMINE THE DISTANCE.BUT THE LIGHT EMMITED WAS NOT PROJECTED IN ANY DIRECTION IT WAS BRIGHT ENOUGH TO BE SEEN BUT NO FLICKERING ALMOST LIKE A GLOW. IT MOVED SLOWER THAN A LOW FLYING PLANE, IT MOVED AS IF IT WAS HOVERING SLOWLY FORWARD IT PASSED THROUGH THE CLOUDS . IT DIDN'T MAKE A SOUND AS IT ALMOST GOT OVERHEAD IT PASSED INTO ANOTHER CLOUD AND NEVER EMERGED OUT THE OTHER SIDE AS IT DID BEFORE. ABOUT 5 TO 7 MINS LATER WE OBSERVED SEVERAL SMALL PLANES RESEMBLING JETS. MAKING MULTIPLE PASSES OVERHEAD IN THE AREA WHERE WE LAST SAW THE OBJECT. THIS CONTINUED FOR ABOUT 30 TO 45 MINS THEN THE SKYS WERE CLEAR AGAIN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41298.html](http://www.nuforc.org/webreports/reports/041/S41298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>bright green object speeding in the sky.Yesterday i was walking with my brother at 6:44 p.m. yesterday we saw a big, bright, round green object speeding past.  There was only one object and the night was cool and no cloud coverage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116187.html](http://www.nuforc.org/webreports/reports/116/S116187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
