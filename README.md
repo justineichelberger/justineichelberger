@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.01 - 0.01 minutes.</sub><blockquote><sub>My photo was taken 12-29-16 at 4:17 pm in the parking lot at the Norfolk Navy base in Va.  I was taking a photo of a group of helicopters and a bright light popped out of the clouds and I looked up and snapped this photo.  Then it was gone.  It is big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131940.html](http://www.nuforc.org/webreports/reports/131/S131940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A FIREBALL SIGHTING FROM THE SKY LOOKED LIKE A UFOWE SAW A ROUND WHITE FIREBALL FALL FROM THE SKY GOING SO FAST IT WAS UNBELIEVEABLE LOOKED LIKE IT COULD HAVE CRASHED BUT THERE WAS NO SMOKE OR ANYTHING AROUND</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26803.html](http://www.nuforc.org/webreports/reports/026/S26803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
