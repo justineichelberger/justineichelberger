@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kittanning (PA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Shooting star like a flare with a trail, traveling north to south and then it burned out.  Space junk?Shooting star was like a bright flare with a trail traveling North to South and burned out about two thirds of the way down.  Could this have been space debris?  It was a full moon and only one single time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73876.html](http://www.nuforc.org/webreports/reports/073/S73876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Davie (heading to Hollywood/Ft. Lauderdale) (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving on 595 from West to East, just passing the turnpike ramp; I saw what I thought was a bright star. Only it didn't &quot;twWhile driving on 595 from West to East, just passing the turnpike ramp; I saw what I thought was a bright star.  Only it didn't "twinkle" but it did have that star effect that emitted rays in a "T".I refocused by sight to make sure if what I was seeing, but to me at the time & I suppose my mind was trying to reason with what I was seeing, I saw the top portion of the object.   Seemed like a plane, since it had those red & green lights on the ends, but it then I start noticing that it also had light on top, that changed colors in a pulse of blue, green, red, purple.At this same time, the bright white light started to dim. I had to get my eyes back on the highway for a bit then I searched for it again but I couldn't find it again.  I scanned the area in the sky where I spotted it. I found it once more, only the light wasn't as bright & it didn't have that "T" of light rays. & since the light wasn't as bright, I could start making out the color of the object & more or less the shape.  It was a dark white/light gray in what seemed like a mini blimp or maybe it could have been blimp sized but really far.The final feature before it left was the "opening", as if the object open & closed like Pac-Man & the light was inside Pac-Man's mouth.  It did this only twice & it was gone, it was stationary the entire time. I couldn't find it again but I did search for it for about 30 mins</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131845.html](http://www.nuforc.org/webreports/reports/131/S131845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
