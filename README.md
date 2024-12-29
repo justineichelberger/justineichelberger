@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:26 on 28 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately all night - all night minutes.</sub><blockquote><sub>UFO flying in the Orange county sky. Very slow moving, low noise level, low altitude, very  bright lights.  Have been flying since last night and into this morning over and over. Could not see the shape but big in size.  Was no airplane,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105551.html](http://www.nuforc.org/webreports/reports/105/S105551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ft. Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10:30 - 10:30 minutes.</sub><blockquote><sub>I walked  outside down my drive  way .and looked  up in the  sky.  And i see a big blue beam of light.  Looks like  a spot light but it not.  Its still in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151911.html](http://www.nuforc.org/webreports/reports/151/S151911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
