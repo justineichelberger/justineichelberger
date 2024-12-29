@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Large "ball" of light separates into three smaller light objectsOn the evening of December 29, 2012, at approximately 5:50PM,I was walking my dog down our street, heading in a west-southwesterly direction.The sun was almost finished setting, and the sky was mostly clear.As I was looking up into the sky, which I regularly do when dog-walking, I noticed a "star" that was as bright as Venus, but in a different location. Venus, at that time of night, is almost directly due East. This "light" was on a south-southwest path in the sky...looking up, it was also about 70-75 degrees above the horizon.At first I thought it was coming towards me, and that the "big light" was the headlights of a jet.  Then I realized that it was going AWAY from me, and that the quality of the light coming from it was different to that of a jet headlight...more like it was lit from within.  With this understanding, the dog and I stopped in our front yard...I watched.As I looked on, the "light object" dimmed a bit, then, SPLIT INTO 3 separate smaller objects. Each one, though not as bright as the original, was also a "ball of light."As soon as they were clearly separated from one another, they took off in 3 different directions...1 took a more southerly route, 1 went straight forward for a second then shot straight UP, and the third one banked sharply to the right (my right) and headed on a north-northwest trajectory. The time that elapsed between separation and all 3 being no longer visible was about 15-20 seconds.As for a time frame, from first sighting to the end, the entire event lasted around 45 seconds to a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95825.html](http://www.nuforc.org/webreports/reports/095/S95825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orange Heights (near) (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange blinking lights and a huge triangle shaped craft.My girlfriend and I were driving home from St.Augustine when suddenly I noticed cluster of fast blinking lights in the sky at first I disregarded it as a plane until I noticed the speed and zigzag flying pattern of the object.  My girlfriend pulled over and we watched it until it disappeared behind a tree line and then about 2 minutes down the road we saw a large triangle shaped object much bigger than a commercial plane with bright non blinking white lights flying fast and low above the road in front of us and then it disappeared behind a tree line before disappearing all together.We were so blindsided by the event that we didn't even think about taking pictures.  Neither of us had ever had a experience before, but this is one we won't forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105728.html](http://www.nuforc.org/webreports/reports/105/S105728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
