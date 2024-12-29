@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 29 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orange Heights (near) (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange blinking lights and a huge triangle shaped craft.My girlfriend and I were driving home from St.Augustine when suddenly I noticed cluster of fast blinking lights in the sky at first I disregarded it as a plane until I noticed the speed and zigzag flying pattern of the object.  My girlfriend pulled over and we watched it until it disappeared behind a tree line and then about 2 minutes down the road we saw a large triangle shaped object much bigger than a commercial plane with bright non blinking white lights flying fast and low above the road in front of us and then it disappeared behind a tree line before disappearing all together.We were so blindsided by the event that we didn't even think about taking pictures.  Neither of us had ever had a experience before, but this is one we won't forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105728.html](http://www.nuforc.org/webreports/reports/105/S105728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ellicott City (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A green fireball going parllel to the horizon at about 20 degrees. It then seemed to burnout. I immediately thought of it as just a shooting star until my wife said she had seen the same thing, the night before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20936.html](http://www.nuforc.org/webreports/reports/020/S20936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
