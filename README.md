@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Courtenay (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mysterious green light in night skyI was sitting in my car waiting to pick someone up, when I glanced in the sky.  I saw a bright green light flying across the sky.  It looked to be a bit lower than what a plane would fly, and much faster. It went shooting across the sky for about twenty seconds then just dissapeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79486.html](http://www.nuforc.org/webreports/reports/079/S79486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Richmond (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two solid lights about 100 feet in the air over a field.Less than a quarter mile off the road to my left and no more then 100 feet in the air I saw two lights, one red one white, 10 to 20 feet apart.  They seemed to partially illuminate the object which appeared to be metallic. I rolled down my window and turned off the stereo to make sure I couldn't hear any helicopter blades.  I was driving home from work by myself at around 23:00 but there were other cars on the road that may have seen it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86321.html](http://www.nuforc.org/webreports/reports/086/S86321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
