@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:29 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:29 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Red, white and blue flashing lights in the Eastern sky above LoneTree, Colorado.I glanced out the window at the Eastern sky and saw a light flashing.  At first I thought it was a star but it was blinking too fast.  As I watched it longer, I saw that there were red, blue and white lights flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105759.html](http://www.nuforc.org/webreports/reports/105/S105759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright white light appeared in clear blue sky for about 30 seconds around 9 A.M.Second sighting in one week: I was driving my car in the parking lot at Sebring Square, going to the Bank of America. I saw a bright white light in the southern sky at about 40-45 degrees above the horizon--the same area where I saw it on Monday, 27 December 2004. The sky was not cloudy. The light looked as if the sun's light was being reflected off a metal object. Had it been night time, I would have thought it was the planet Venus, because that's what it looked like. I only saw it for about 30 seconds. About 1 minute later, I parked the car in the Sebring Square parking lot, got out of the car and looked for the object. I could not see anything in the sky.This time however, I saw a jet with a contrail flying northward about 20-30 degrees east of where I saw the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41306.html](http://www.nuforc.org/webreports/reports/041/S41306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
