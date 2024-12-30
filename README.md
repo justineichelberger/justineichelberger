@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:26 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>30 purple/orange, silent, "fireballs" flying side-by-side at three top level, then shoot up into space.30 purple/orange, silent, "fireballs" flying side-by-side at three top level, then shoot up into space</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146843.html](http://www.nuforc.org/webreports/reports/146/S146843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red-Orange fireball passing over Orlando on Dec 30th 2011On Dec. 30th 2011 at around 7pm in Orlando, FL. I spotted a bright round reddish-orange fireball around magnitude -15 about 1/3 the dia. of the moon traveling north at about 2,000 ft and 200 mph.  It stayed the same size, brightness and shape, the outer edges looked like it was flickering like a fire. I first thought it was a jet on fire and called my wife and daughter out to see it.  After watching it for a minute we reallized there was no sound, smoke or trail coming off of it. We got out two binoculars and could not see any more detail, we watched it for about four to five minutes heading north toward Sanford, slowly getting dimmer and finally disapearing into a cloudbank. We saw several Jets nearby making thier final approach into OIA Airport and could easly tell it looked quit a bit larger and was traveling opposite of the approach path.  We are avid astronomers and astrophotographers and we have never seen anything like this, we know what Iridium flares and such looks like.  It was by far the best thing we have ever seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86174.html](http://www.nuforc.org/webreports/reports/086/S86174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
