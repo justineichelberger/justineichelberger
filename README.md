@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:30 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white light moving downward south of Boise then leveling off.Looking south-southeast from North Boise, a bright white object fell from an angle of about 60 degrees to 30 degrees within 3 seconds then leveled off.  The object appeared to be moving away and to the west for about one second, then I lost view of it behind trees.  The object had the brightness comparable to a firework flare but did not either sparkle or change color.  The magnitude or brightness did not change as compared to a firework flare and decelerated and changed direction.  My best guess would be that it was south of the Boise metro area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73889.html](http://www.nuforc.org/webreports/reports/073/S73889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light in SW sky from Gresham, Oregon.Bright white light has been spotted about the same place in the sky SW, this is the second time we have seen it in the nights sky.  Took pictures this time and went out at 18:22 and light was gone.  The sky is clear and can see other stars in the sky, at first looks like a plane coming strait at us but have watched it for about 5 min. and it does not move.  It sits pretty low in the sky but I don't think it's in the Earth's atmosphere.  Am going to watch it until it goes away next time to see how it leaves.((NUFORC Note:  Sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131937.html](http://www.nuforc.org/webreports/reports/131/S131937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
