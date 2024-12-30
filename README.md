@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:33 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:56 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately We left - We left minutes.</sub><blockquote><sub>We spotted a ufo the day after my birthday in California (sandiego county)At 6:30 p.m. I witnessed something that I would only dream about.  I witnessed a bright white light moving passed other stars.  It was just as big as another star.  The only difference is that it did not flicker like a star.  I was the first to witness this, then my brother and finally my dad.  I lost contact when i got my dad to see it.  They say it zig zagged and was changing colors to a brilliant green and pink.  I didnt see it after i got my dad outside, but they both saw it.  We left because it was too cold.  This was witnessed when i stepped outside my porch to look at the stars looking for ufo's.  I should have at least taped this, but i guess i was too excited at the time...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26896.html](http://www.nuforc.org/webreports/reports/026/S26896.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Red, white and blue flashing lights in the Eastern sky above LoneTree, Colorado.I glanced out the window at the Eastern sky and saw a light flashing.  At first I thought it was a star but it was blinking too fast.  As I watched it longer, I saw that there were red, blue and white lights flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105759.html](http://www.nuforc.org/webreports/reports/105/S105759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
