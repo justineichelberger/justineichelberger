@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:28 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright orange glow illuminating south Douglas Pass north of grand Junction COEarly morning Dec 29, 2013 driving on hwy 139 heading south over Douglas pass and before we got to top I commented to my companion that it was beautiful as the sky was an orange color and illuminated the skyline with trees and mountain tops,  once we were on top we saw two separate lit up areas on top of ridges the one farther away was much brighter but both were deep orange also as we started up Douglas it was snowing but the sky was clear..  as neither of us are very familiar with area we took note of the glowing lights but only realized what we may have saw because of a group of about 15 sheriff and I assume undercover vehicles were at bottom of the south side of Douglas pass and had what appeared to be an antenne with a green light on top about 30 feet in the air as we continued down we stopped to look back to see if we could see what the lights were about but we saw nothing but black sky not even a glow in the canyon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105539.html](http://www.nuforc.org/webreports/reports/105/S105539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tatum (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>hovering object,circle of lights,in field that shot straight up and stopped 2 times then lights went out and object vanishedI was driving west toward Tatum New Mexico,about 8 miles east of Tatum and in a field off to my left or South in a field was circle of lights staying still off the ground about 60 ft.Thought the lights were lights of helicopter but had no strobe light like helicopter and it was staying very still not bobbing like a helicopter would do.Then this circle of lights shot straight up at a very rapid speed,straight up and stopped very fast about 2 miles up and stayed very still again.There was no strobe light like an aircraft usually has,just glowing circle of lights.Then this object shot up again  I would say about 8000 ft up and stopped rapidly and then this object got bright in intensity and then the lights just imploded and this thing was gone.Where this object was there is nothing but desert fields and only thing out there would be coyotes deer or cows.I had a feeling this object was watching me I was the only truck out on highway.I am a truck driver been one for 20 plus years and have driven many nites and I have never seen anything that was unidentified until now.I truly dont know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34497.html](http://www.nuforc.org/webreports/reports/034/S34497.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
