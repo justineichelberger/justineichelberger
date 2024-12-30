@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:33 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Bright light flew over 55 freeway in California, slowing trafficWas driving south on the 55 freeway near the 17th street exit, traffic slowed significantly as a large bright orange and white light passed over the freeway.When I returned home I checked online to see if there had been any planned rocket launches by Space X, or any reported sightings, but haven’t found anything, not even on social media.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138158.html](http://www.nuforc.org/webreports/reports/138/S138158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Fallbrook (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately We left - We left minutes.</sub><blockquote><sub>We spotted a ufo the day after my birthday in California (sandiego county)At 6:30 p.m. I witnessed something that I would only dream about.  I witnessed a bright white light moving passed other stars.  It was just as big as another star.  The only difference is that it did not flicker like a star.  I was the first to witness this, then my brother and finally my dad.  I lost contact when i got my dad to see it.  They say it zig zagged and was changing colors to a brilliant green and pink.  I didnt see it after i got my dad outside, but they both saw it.  We left because it was too cold.  This was witnessed when i stepped outside my porch to look at the stars looking for ufo's.  I should have at least taped this, but i guess i was too excited at the time...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26896.html](http://www.nuforc.org/webreports/reports/026/S26896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
