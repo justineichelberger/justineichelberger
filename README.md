@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:29 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Florence (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright spherical light hovering for long period of time and then suddenly moving very quicklyOn Tuesday, Dec. 30th around 8:30pm est. my wife mentioned to me that there was this strange light she had been watching for a while thru the glass storm door.  She said she had been watching it for 15-20 minutes already and it hadn’t moved.  I went and looked and sure enough it was there.  It was West or maybe just slightly South of due West, and about 15-20 degrees up.  I went outside and watched it for a few minutes trying to figure out what I was looking at.  We live near a regional airport, so I thought at first it was just a plane way off in the distance.  But after watching it for a few minutes, decided that it definitely wasn’t a plane.  It was a very bright light, and almost looked to be strobing it was so bright.  Occasionally it appeared to have red lights flashing across the bottom, but that may have been my eyes playing tricks on me after staring for such a long time.  I would say it was a good ways off, maybe 10-20 miles just guessing, but very hard to tell at night with nothing to reference it with.  My wife brought me my camcorder and I recorded it as well as I could.(very hard to hold it steady when zoomed in)  The image I got when zoomed in is very weird looking, but I’m not positive that the image is actually what the object looked like or if it is a result of digital optics through the night sky.(I’m far from an expert on this)  It finally moved a few times at a very high rate of speed, stopping for a minute or two each time before disappearing.  This is only the second time in my life that I have seen something in the sky that I couldn’t explain.  Both times I got the same ‘hair standing up on my neck’ feeling.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67760.html](http://www.nuforc.org/webreports/reports/067/S67760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Red, white and blue flashing lights in the Eastern sky above LoneTree, Colorado.I glanced out the window at the Eastern sky and saw a light flashing.  At first I thought it was a star but it was blinking too fast.  As I watched it longer, I saw that there were red, blue and white lights flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105759.html](http://www.nuforc.org/webreports/reports/105/S105759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
