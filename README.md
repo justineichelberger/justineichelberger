@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 30 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gresham (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light in SW sky from Gresham, Oregon.Bright white light has been spotted about the same place in the sky SW, this is the second time we have seen it in the nights sky.  Took pictures this time and went out at 18:22 and light was gone.  The sky is clear and can see other stars in the sky, at first looks like a plane coming strait at us but have watched it for about 5 min. and it does not move.  It sits pretty low in the sky but I don't think it's in the Earth's atmosphere.  Am going to watch it until it goes away next time to see how it leaves.((NUFORC Note:  Sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131937.html](http://www.nuforc.org/webreports/reports/131/S131937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Titusville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was out looking at what I thought was a extremely bright star but then tit moved.  It circled a few times, twinkling the whole time, then stopped moving and twinkling, then vanished, like a light just switched off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152130.html](http://www.nuforc.org/webreports/reports/152/S152130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
