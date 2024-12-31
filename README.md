@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Londonderry (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO's over Londonderry, New HampshireWitnessed a pair of Unidentified Flying Objects, reddish orange lights in nature, flying from a West to East direction.  They appeared to be silent, and less than a mile away.  Similar to a case I saw in Kelso WA a few weeks back.  Same lights, same fadeout effect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95708.html](http://www.nuforc.org/webreports/reports/095/S95708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coral Spring (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Redish color and also round hovering and moving very slowFirst three  were spotted forming a triangle.  Shortly after one disappeared, and to the right, three more appeared. then two more appeared.  About 5 minutes later other the house there appeared ten more all together. I took pictures and  a video as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95750.html](http://www.nuforc.org/webreports/reports/095/S95750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
