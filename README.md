@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pacifica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 orange bright lights appear from the west, hoover and then they all dissapear.Was out gazing at the stars on this clear night. I then gazed towards the north-western sky and began seeing what at first I thought was a plane coming from the west towards me.  Suddenl, that light, which was mostly orange & red began slowing down and came to a full stop.  Within some 15 seconds a second one approached and it too came to a stop at what appeared a safe distance from the first.  Then about 30 seconds later a third appeared and came to a stop down from the other two lights.  The three combined lights formed a perfect diamond.  Some 30 seconds or so later the first light started to become dimmer until it disappeared.  The two other lights did the same and also disappeared. Finally about a minute later a 4th light appeared and came to a stop at about the center of where the three previous lights had been.  It hovered there for a good minute before it too started to become dim and it too disappeared.My wife and son along with our granddaughter saw these lights.  They did not get to see the first three, but did see when the two were disappearing and also witnessed the fourth light.Anyone else witnessed this sighting this evening?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105789.html](http://www.nuforc.org/webreports/reports/105/S105789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Bay (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights seend by 3 people Over North Bay, OntarioI was going outside to have a smoke, when like I always do look up to look at the stars, when I saw a bright Orange light ( it had no sound)  So I knew right there it wasn't an airplane, then 3 seconds later 2 more appeared, they were going pretty slow, and they too had no sound.  I watched them for about 5 minutes and then all of a sudden they just disappeared ... I know what we saw wasn't no aircraft from this planet!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105836.html](http://www.nuforc.org/webreports/reports/105/S105836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
