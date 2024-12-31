@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:00 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:17 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spherical points of light disappearing at the same spot in the sky.Beginning approximately 1015 pm until approximately 1030 pm we observed orange colored spheres rising from the SE quarter of the sky to nearly overhead at which point these individually rising points of light simply disappeared at the same location in the sky. There were probably in excess of 10 of these items all orange in color except for the final one we observed, which was a ruby red in hue.  Perhaps these items were Chinese lanterns, perhaps not.  Their disappearance at the same spot in the sky seems inexplicable to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115415.html](http://www.nuforc.org/webreports/reports/115/S115415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The pyramid shaped like craft flew from the west to east.  it was very cloudy weather.  The craft was huge and bright with a amber color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131973.html](http://www.nuforc.org/webreports/reports/131/S131973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
