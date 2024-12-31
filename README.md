@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bay City (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four red, non-strobing lights, slowly moving across night sky.Saw the first one slowly moving across the sky and the disappeared into the low cloud coverage and the three more appeared in a line formation slowly moving and then eventually disappeared like the first one. They were red in color not changing just slowly moving.  We have low cloud coverage this night and I believe that's why they just seem to disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124988.html](http://www.nuforc.org/webreports/reports/124/S124988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Spartanburg (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO IN SC LOOKED JUST LIKE A PLANES FLASHING LIGHTS IN THE NIGHT SKYI WAS A TEENAGER. MY GIRL FRIEND AND I WERE PARKING. I NOTICED THAT HER SKIN STATED FLASHING WITH A GLOWING RED COLOR. WHEN I SAW IT I THOUGHT THERE WAS A FIRETRUCK PARKED BEHIND US. WE NOTICED MY SKIN WAS GLOWING TOO. MY CAR WAS BLACK INSIDE. NOTHING HAD THIS GLOW BUT OUR SKIN. WE NOTICE WHAT LOOKED LIKE A PLANE. IT HAD MULTICOLORED LIGHTS BLINKING ON IT. THE PLANE LOOKED NORMAL AND VERY FAR AWAY. THEN OUR SKIN STATED FLASHING BLUE. THIS TIME I JUST KNEW I POLICE. STILL THERE WAS NOTHING JUST THIS FAR AWAY PLANE. I TOLD HER I THOUGHT IT WAS A UFO. SHE SAID LET'S GO. I REALY JUST THOUGHT IT WAS A PLANE AT THAT TIME. MY CAR WOULDN'T DO ANYTHING. THEN WHAT I THOUGHT WAS A PLANE WAS ABOUT 10 FEET ABOVE MY CAR. I THOUGHT IT WAS GOING TO TAKE US AND THE CAR. IT JUST SIT THERE. LIGHTS WERE FLASHING BRIGHT FROM ALL AROUND IT. IT COULD HAVE BEEN DISK SHAPED. IF YOU SAW THIS THING IN THE NIGHT SKY. IT WOULD LOOK JUST LIKE A PLANE. BEFORE THAT DAY. I THOUGHT I WOULD LIKE TO SEE A UFO. I HAVE NEVER  BEEN THAT AFRAID IN MY LIFE. THEY COULD DO ANYTHING TO YOU.  WHEN IT LEFT. I WAS ABOUT AN HOUR LATE GETTING HER HOME. WHERE DID THE TIME GO? IT WAS NEWYEARS. WE DIDN'T DRINK OR DO DRUGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49365.html](http://www.nuforc.org/webreports/reports/049/S49365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
