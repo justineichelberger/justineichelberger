@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Big bright orange yellow ball moving from north to south, got smaller then disappeared.Big bright orange yellow ball moving from north to south, size of a basket ball, got smaller and smaller then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105824.html](http://www.nuforc.org/webreports/reports/105/S105824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cali (Colombia S.A.) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>One very big metallic UFO and 17 lights  near noon seen on the sunny sky on Cali-Colombia -12-31-99During aproximate 4 hours ,  17 spheric lights , as stars, were passing on the Cali City sky , routing SW to NE . The sky was absolutely clear and sunny.Thousands of people in supermarkets auto-parks and streets were capable to see the event. Suddenly, behind of a white and rounded cloud, one  metallic semi-spheric device appeared.Shape similar to a "samovar", with top and bottom plain , reflecting the cloud on his mirror surface.Positioned about 1,5 km. high on the floor, it seemed to have  about 100 mt. diameter. Without noise.It had a twisted movement on itself.The device had a thin aura , and emmited something as hot air. There were no lights on the device .Suddenly, after four hours, the 17 lights , and the "samovar " , dissapeared.On next day, none newspaper mentioned this interesting event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40785.html](http://www.nuforc.org/webreports/reports/040/S40785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
