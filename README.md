@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Florence (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Glowing Sphere over roof tops at Merrill Ranch in Florence AZDriving on our way home in the early evening on Hunt Highway southbound nearing the Florence Hospital. About 1.5 miles away after passing the butte formations, my wife and I immediately noticed a glowing orange-red “jelly bean” shaped sphere hovering over the southern end of Merrill Ranch Sun City residential development near the Police and Fire Station. We have a lot of air traffic in the area for PHX and nearby AZA. The AZA air traffic is mainly student pilots flying light aircraft at about 5,000 feet (night and day) right over Merrill Ranch and are easily heard from their engine noise and located with their lighting. So when we saw an aerial object not making any noise and stationary it has a high strangeness to us that cannot be ignored. The glowing sphere was so out of place due to its very low altitude, color and lack of noise such as a medical helicopter would make from the Hospital or an Army Helicopter from the nearby military reservation. Normally the Army Helicopters would fly much higher, i.e., 3-5,000 feet AGL. As I made a left turn eastbound off Hunt Highway to a side street. My wife reacted with mounting concern because the object was not moving and it seemed to get a little larger as we were closing distance to it.  So I slowed down to about 10 MPH and she rolled down her window and stared at it for about 30-40 seconds looking south and it was silently stationary at 75-100 feet above the roof tops. We noticed that there were a lot of dogs barking in the neighborhood. At the time we thought it was due to coyotes running through the neighborhood, but in hindsight it may be related to the observed object. At this point she had the only view of it and told me it decreased its color temperature to a dull rusty red color and then just disappeared.  We were 800 feet down range from its position and It seemed to notice that people were observing it. I have had a prior close encounter in November 2020 and this object may be the same one from November. I will report that separate. The weather at Merrill Ranch was clear skies, some low level dust/haze, cool temperatures in the upper 40’s with light and variable winds from the northwest at about 5-15 knots. I am a former U.S. Military Service Member with combat experience and my wife is a career management professional. The event left both of us with an uneasy feeing, that something so quiet could silently creep through a populated residential area virtually undetected.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161449.html](http://www.nuforc.org/webreports/reports/161/S161449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Londonderry (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO's over Londonderry, New HampshireWitnessed a pair of Unidentified Flying Objects, reddish orange lights in nature, flying from a West to East direction.  They appeared to be silent, and less than a mile away.  Similar to a case I saw in Kelso WA a few weeks back.  Same lights, same fadeout effect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95708.html](http://www.nuforc.org/webreports/reports/095/S95708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
