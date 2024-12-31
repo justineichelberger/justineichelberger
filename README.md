@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:18 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Bay (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange lights seend by 3 people Over North Bay, OntarioI was going outside to have a smoke, when like I always do look up to look at the stars, when I saw a bright Orange light ( it had no sound)  So I knew right there it wasn't an airplane, then 3 seconds later 2 more appeared, they were going pretty slow, and they too had no sound.  I watched them for about 5 minutes and then all of a sudden they just disappeared ... I know what we saw wasn't no aircraft from this planet!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105836.html](http://www.nuforc.org/webreports/reports/105/S105836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ephrata (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Blue/white dots appearing against black horizon3 lights in a triangle formation, ascending and descending, 90 degree turns at a high rate of speed. Also wave like movements.  This object was also here this morning before the sun came up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138186.html](http://www.nuforc.org/webreports/reports/138/S138186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
