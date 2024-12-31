@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>blazing red UFO spotted in the Northern California sky Dec 31,2012Walking home this evening in Berkeley, CA I observed in the sky what look like a plane flying in a blaze of bright red fire.  At first glance I thought why is this plane so red, then I notice that it began slowing down in way that seemed odd for a normal plane in flight across the sky and as the  blazing red plane became closer to view I saw a second plane coming clearer into view and then first plane began ascending higher into the sky.  I said to myself that it must be a helicopter until it became going further up into the sky than I had ever seen a helicopter ascend.I saw a neighborhood acquaintance that is in a wheel chair approaching and I called out to him to look up at what was happening.While we were watching the first plane ascend so high that it look like a red dot the second plane was moving up higher while moving in the direction of San Francisco it was at that time we could see a third plane approaching as if was on fire then all three were gone from view I was back into my apartment and the time was 11:50.I am so glad that I did not have that experience alone the two young men that so were also amazed at what we had just experienced.I had planed to visit with my friend and bring in the New Year with friends but I felt to hot inside and decide that I would return home after visiting only 10 minutes.  I cannot stress enough how glad I am that I had two people around me to witness this incredible sighting.You have any questions please contact me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95683.html](http://www.nuforc.org/webreports/reports/095/S95683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Big bright orange yellow ball moving from north to south, got smaller then disappeared.Big bright orange yellow ball moving from north to south, size of a basket ball, got smaller and smaller then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105824.html](http://www.nuforc.org/webreports/reports/105/S105824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
