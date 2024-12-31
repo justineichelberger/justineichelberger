@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The pyramid shaped like craft flew from the west to east.  it was very cloudy weather.  The craft was huge and bright with a amber color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131973.html](http://www.nuforc.org/webreports/reports/131/S131973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>New Year, New Sighting.I was at a new years party and I decided to go for a walk cause it was a rather boring party.  I walked up the street and looked at a street light but behind the street light I could make out 5 far away dots of light that moved uniformly up and then to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61943.html](http://www.nuforc.org/webreports/reports/061/S61943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
