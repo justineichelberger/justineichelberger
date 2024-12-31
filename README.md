@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>TRIANGULAR CRAFT MADE 90 DEGREE TURNSIsaw  a light approaching from about 5 miles away.After several minutes it looked like the end light on a plane.It executed a 90 degree turn and went directly over my head.I trained my binocular on it and I saw a light at each end and one in the center,It was a triangle about 2500 feet up.It executed another 90 and it went toward Ocklawaha area, It was silent.That night  my friends son saw it in the ocklawaha area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45440.html](http://www.nuforc.org/webreports/reports/045/S45440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Macclesfield (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 ornage lights-separate craft flying parallel,then disappearedTwo illuminated orange lights flying in unison over Macclesfield.  Sighting lasted approx 2 minuites.  Parallel flight path,then disappeared.  Witness uses to work as aero technitician in USA, now civil engineer & knew what to look for with aircraft.I am a complete novice, but knew it was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73891.html](http://www.nuforc.org/webreports/reports/073/S73891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
