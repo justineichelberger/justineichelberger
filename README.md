@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Times Square) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Disked shaped objects...3... over Time Square, New York.  Reported by Fox News. Objects were approx. 30 feet in dia., transillumated in a low hover seen between tall buildings.  Objects generated amazement, fear and a degree of panic...Fox News reported NYPD was on the way to investigate the people reporting the U.F.O. event. Fox News then cut away from their live coverage.  U.F.O. recored on hand held camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54604.html](http://www.nuforc.org/webreports/reports/054/S54604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bainbridge Island (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At 7:12pm on 1/1/99 I witnessed 3 objects over SeattleAt 7:11 on 1/1/99 I was watching TV when I momentarily glanced at the windows above my TV. I saw at first what appeared to be 3 planes over the horizon East of me, this being very strange to me because of the larger number than normal planes in that area. A minute later I glaned up again and noted that the 3 objects were not moving nor did they have flashing lights that all planes do. I watched in curiosity for at least a minute at the 3 unmoving objects when I called out to my dad to come look. Just Then the dimmer objects shot south at incredible speed sinking behind the trees in time for my father to see them for only a second. The remaining brighter one appered to flicker like candle but stll remain sationery for another minute before it also falowed the other two in a sloping soutward direction bu much slower. They were all orange in color and stood out from ordinary aircraft because of reconizable planes flying behind them and their movment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07599.html](http://www.nuforc.org/webreports/reports/007/S07599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
