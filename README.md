@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Weaverville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Unfortunately it has to be classified as a light in the sky.  But it was more then just that!I was standing on my porch looking west south west and observed a  large orange fireball in the western sky.  No tail but it appeared to be getting larger.  At first I thought I was observing a possible super nova or an atomic exposion in space.  I stepped inside and grabbed my binoculars and when I returned to the porch (5 seconds later) it was gone.  I stepped out in the yard and observed all the night sky and could not spot it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95733.html](http://www.nuforc.org/webreports/reports/095/S95733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>10 total craft spotted all orange fireball and all completely silent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95706.html](http://www.nuforc.org/webreports/reports/095/S95706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
