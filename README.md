@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 31 December 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cali (Colombia S.A.) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>One very big metallic UFO and 17 lights  near noon seen on the sunny sky on Cali-Colombia -12-31-99During aproximate 4 hours ,  17 spheric lights , as stars, were passing on the Cali City sky , routing SW to NE . The sky was absolutely clear and sunny.Thousands of people in supermarkets auto-parks and streets were capable to see the event. Suddenly, behind of a white and rounded cloud, one  metallic semi-spheric device appeared.Shape similar to a "samovar", with top and bottom plain , reflecting the cloud on his mirror surface.Positioned about 1,5 km. high on the floor, it seemed to have  about 100 mt. diameter. Without noise.It had a twisted movement on itself.The device had a thin aura , and emmited something as hot air. There were no lights on the device .Suddenly, after four hours, the 17 lights , and the "samovar " , dissapeared.On next day, none newspaper mentioned this interesting event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40785.html](http://www.nuforc.org/webreports/reports/040/S40785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Red and Green lights above Goose Creek, South Carolina, New Years Morning!Neighbors were setting off fireworks in celebration of New Years so my wife and I went to the front porch to watch.  We noticed this green/red light in the sky to the east. It looked to be two green lights side by side with a red light that pulsated slowly.  I set up an 8MP camera on a tripod and started recording.  Sometimes it appeared that the green lights were on top with the red at the bottom and sometimes this orientation changed - but the changes were very slow and difficult to notice with the naked eye.  Occasionally, the light would slowly drift to the south and then back to the north, returning approximately to its previous position.  After 8 minutes of recording, the green light turned off leaving only what appeared to be a pair of red lights and the light appeared to slowly descend until it was obscured by the tree line and out of sight.  20 – 30 seconds later, my wife noticed a red light of similar intensity moving north, but it was obscured by trees and other houses so we could only see little bits until it was out of sight completely. The recording is blurry – as they always are – it’s difficult to focus at an object in the night sky through such a tiny viewfinder.  The object appeared too steady to be a helicopter or any toy I’m familiar with.  There was a light breeze, so I think that would have caused a balloon to move.  No sounds from the object were detectable by me or my wife. I checked today – there are no towers or tall buildings in that direction, just 4 miles of residential neighborhoods and then wilderness for a hundred or so miles after that.  Just a really fun thing to see on New Years!((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105902.html](http://www.nuforc.org/webreports/reports/105/S105902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
