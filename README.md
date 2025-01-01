@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Midnight struck on new years and I walked outside to celebrate with my son and girlfriend. We see 3 orange/red globes hovering in an off shape triangle. They all slowly faded away without moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131965.html](http://www.nuforc.org/webreports/reports/131/S131965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grafton (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two friends and i saw 9-10 balls of light  forming a circle over the tree tops flying around on particular area in the distance.A friend and I were plowing a school parking lot on Millbury Sreett in Grafton. I was going about my business when my friend came running over to my tuck. I said whats wrong and he says "Tell me what that is." pointing to the sky over the treetops. I looked up and saw about 9-10 balls(The sight was so amazing i forgot to count) of light (whitish bluish mix similar to LEDS Just barely could see them though) in a perfect circle similar in size to a moon in the sky when the object was above the treetops. The balls of light were on the edge of whatever it was to form a circle so it appeared. It fluttered around like a frisby or like a leaf falling to the ground or something blowing in the wind (seemed unstable). It would dissapear into the trees then reappear above them for a few minutes at a time at treetop level. We at first thought maybe it's a toy or something but then it rose very slowly thousands of feet up into the cloud cover then came back down then dissapeared into the trees. We then were perplexed by it. We waited for it to come back up but it never did so we went back plowing. I again though on the opposite side saw it popback up and hover in the same area as did my friend. Then it slowly rose up into cloud cover then was faintly visible then dissapeared into the night. I attempted video of it on my camera phone but the light from the school blocked it out so the background just looks black. I know what a plane's lights look like I know what a satelite looks like it was not any of this. We didnt hear any propulsion system as well you could hear the rumbles of passing airliner or jets in the distance here and there but nothing sounded to be comming form the objects direction. I was just curious for an explantion if any on this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60616.html](http://www.nuforc.org/webreports/reports/060/S60616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
