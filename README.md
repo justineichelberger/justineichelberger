@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bromsgrove (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 orange shape objects travelling at approx 700mphSaw 2 orange quite large objects travelling at about 700mph from East to West. We lost sight as they went out of sight behind roofs.  Then 10 minutes later saw another 1 UFO.  I have video footage of it.  They went in a straight line.  It made no sound considering the speed it seemed to be travelling at</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73898.html](http://www.nuforc.org/webreports/reports/073/S73898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Times Square) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Disked shaped objects...3... over Time Square, New York.  Reported by Fox News. Objects were approx. 30 feet in dia., transillumated in a low hover seen between tall buildings.  Objects generated amazement, fear and a degree of panic...Fox News reported NYPD was on the way to investigate the people reporting the U.F.O. event. Fox News then cut away from their live coverage.  U.F.O. recored on hand held camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54604.html](http://www.nuforc.org/webreports/reports/054/S54604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
