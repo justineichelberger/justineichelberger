@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:31 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange lights in sky just after midnight on New Years Eve seen over Charlottesville, VA.We just saw something very strange.  Orange flying somethings. Not blinking and silent. At first we thought embers.  But they were large like planes.  And then they just disappeared. 2 at first, with one breaking away from the other and heading overhed and then they disappeared.  Then 2 more with one ahead and a little lower a few minutes later.  They both disappeared.  All were coming from the WNW going about East except for the one that turned to the ESE.  My husband tried called the non-emergency number to the 911 center and it said it wasn't working. We are baffled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105821.html](http://www.nuforc.org/webreports/reports/105/S105821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single object, glowing red, hovering in place with no nosie or movemrnt in the night sky.Single object was red in color.  Steady solid red color light.  It was not blinking like an aircraft  would.  It remained high over the town, below 10,000 feet would be my best guess.  It did not seem to move but hovered in place.  The duration was like 5 mins until it disappeared in the blacken sky.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106027.html](http://www.nuforc.org/webreports/reports/106/S106027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
