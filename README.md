@@ -214,7 +214,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:51 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:09 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 red fireballs sighted near Snake River Canyon rim.As I was headed home from work, I noticed a bright light in my front windshield in the upper right hand corner.  I pretty much paid no attention and figured it to be the usual aircraft with blinking lights.  After a moment I spotted another bright reddish light object below and to the left of the first one, just above the horizon, and continuing to follow the first object horizontally and then straight up into the sky.  I pulled the car over and observed them both for a few minutes.  The first one then accelerated a bit, and went straight up, thru, into and above the clouds..  I could see it all the way with light of the full moon above.  The second object followed the first one's course.I picked up my cellphone from the back seat, and tried to figure out who to call..shaking like a madman.  I then left the phone, went to the front of the car and 2 more objects appeared from behind a foreground hill-like mound, and they proceeded in a due line across, and just above, the horizon, from the  left to right.  At this time..with no luck.. I was pointing at the objects and trying to get vehicles passing to stop and observe.The third object followed the other 2 into the clouds, and he last one I watched, as it slowed to a complete stop and dimmed.All 4 of the red fireballs were moving on a Northeast to Northwest heading.  No sound, no smell; it was 17F degree according to my car gauge.  The night was clear and still below the cloud ceiling.  The objects were 1/10th to quarter mile away and were the size of a nickel held in hand at arm's length.  All of them were bright red/whitish in color with flame like streamers steamimg from the top and they had a revolving lighter red outer.I checked with the local TV  and newspaper media and no one else reported them,,as far as I know I am the only witness to the sighting.  I watched them for around 15 minutes.  This was on the old Jerome highway I mile west of the intersection where interstate 93 joins the old Jerome highway on the south side of road between there and the Snake River Canyon Rim.  Coincidentally, was just a few hundred yards south of the cell phone tower.((ADDENDUM FROM WITNESS))Hello Mr Davenport,The 4 objects were as large as a traffic control light when your stopped at it.  OR id say 10 times larger than Venus on a summer night.This is my 5th UFO I've seen in my life.  We use to sleep out and watch with intentions to spot something.  I personally believe at times (THEY)  pick and choose who (THEY) want to see them...3 times if sighted something with wish of that.  I don't think this is coincidence,, somehow (THEY) know what your thinking?Just a thought.Have a great day((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116612.html](http://www.nuforc.org/webreports/reports/116/S116612.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
