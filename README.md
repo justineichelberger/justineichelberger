@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:48 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two red and white cigar shaped craft seen flying at high rate of speed over Bremerton on New Years Day.Around midnight on Dec 31, 2015, witnessed two cigar shaped objects bright red on each end white in middle.  Hovered for 20 seconds then flew at very high speed towards north east and blinked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125034.html](http://www.nuforc.org/webreports/reports/125/S125034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Object was red,round and no sound flew for awhile the went in to the sky and vanishedWe saw a red light in the sky coming from what looked like the south it stayed for awhile we followed it thru the sky as it vanished up into the sky it got smaller and smaller. About 10 min later we say another do the same this one flew for a shorter time the went up into the sky and vanished. We where all going in side the I spoted another it did the same thing then vanished. I stayed around for awhile expecting to see more but that was it for the night.((NUFORC Note:  The witness indicates a time of "24:10" hours, which does not exist on the 24-hour clock.  Hence, we do not know whether the sighting occurred on Tuesday morning, or Wednesday morning.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20957.html](http://www.nuforc.org/webreports/reports/020/S20957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
