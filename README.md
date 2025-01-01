@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single object, glowing red, hovering in place with no nosie or movemrnt in the night sky.Single object was red in color.  Steady solid red color light.  It was not blinking like an aircraft  would.  It remained high over the town, below 10,000 feet would be my best guess.  It did not seem to move but hovered in place.  The duration was like 5 mins until it disappeared in the blacken sky.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106027.html](http://www.nuforc.org/webreports/reports/106/S106027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Midnight struck on new years and I walked outside to celebrate with my son and girlfriend. We see 3 orange/red globes hovering in an off shape triangle. They all slowly faded away without moving.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131965.html](http://www.nuforc.org/webreports/reports/131/S131965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
