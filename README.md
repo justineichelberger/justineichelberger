@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:25 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:28 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was celebreating with my friends, when I saw spheres flying around.  I was ontop of my friends building,  I can assure you that it wasn't a firework.  and I was not drunk.((NUFORC Note:  We presume the witness is alluding to a night time sighting, since fireworks aren't common at 12:00 p.m.. We have changed the time here.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12192.html](http://www.nuforc.org/webreports/reports/012/S12192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Delhi (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was evening time people outside by house were shouting ufo ufo.  I came out and saw triangle shape plane with disco lights all over its edges standing over my house. ((NUFORC Note:  Date may be approximate, although the source of the report does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86192.html](http://www.nuforc.org/webreports/reports/086/S86192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
