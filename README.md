@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:24 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Magnolia (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unidentified aircraft playing tag in the night sky over Magnolia, ArkansasDriving north on Hwy 79, between Emerson Arkansas and Magnolia, Arkansas. I saw a light in the sky. White and of the appearance of a landing light for an aircraft. Then I saw a second light come on very near and at the same altitude. Then I saw a third light come on very close to the other and in a straight line.  I thought of ECM flares. The lights then went off.  I could then see three flashing lights much like the strobes on standard aircraft.  One strobe light went east and one went west at very fast speeds.  If the altitude was 2,000 feet then the speed would have been around 500 mph.  I saw the strobes stop moving and reconverge on the first sight.  I then saw the strobes moving amost like playing tag. During the next five minutes I could see the "Landing lights" turn on and turn off at random times. I thought perhaps three helicopters playing tag with their landing lights.  They were much to fast for helicopters.  They were too manuverable for fixed wing aircraft.  I have spent a very long time in the USAF and am a current pilot of fixed wing aircraft. I have seen just about all known aircraft under all possible conditions.  I have not encountered this situation before.My work is sensitive and I would rather not submit my contact information.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54641.html](http://www.nuforc.org/webreports/reports/054/S54641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newburgh (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast moving light in later afternoon sky.I happened to look out my window and saw what I thought was a typical aircraft.  There was no sound, just a light.  It was traveling in a southernly direction at a very fast speed.  It disappeared into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125010.html](http://www.nuforc.org/webreports/reports/125/S125010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
