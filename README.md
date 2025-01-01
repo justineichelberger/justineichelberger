@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:29 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 round lights/balls seen, flashing/moving/disappearingWe were pulling off the free way and saw up in the sky a illuminated ball moving up and Down, I got out of the car and began filming.  At the same time 2 more objects appeared and they began interacting with each other almost like bouncing off of each other while flashing.  They were moving diagonally from each other, then the 2 round lights/spheres disappeared and the original ball flew up above us quickly.  After some time hovering above us (above plane altitude) it disappeared out of our atmosphere.  I have some poor footage of the sighting   :(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105887.html](http://www.nuforc.org/webreports/reports/105/S105887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In recent years past, I have noticed on two seperate new years eves a very strange and very bright red light.  I told my wife after watching the ball drop on t.v., lets see if the ufo is back.  Sure enough, we went out on our deck and as clear as the stars, we saw it again.  It was very high in the sky almost straight up.  It was a bright red cluster/round light.  Near the end of the sighting it flickered, faded out and disappeared.  It simply turns off.  Since it seems to reoccur on New Years, I wonder if it was a satellite.  However, it is so bright, it didn't move and just disappearing in thin air rules out sat, jet, plane or balloon.  Pretty trippy.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67802.html](http://www.nuforc.org/webreports/reports/067/S67802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
