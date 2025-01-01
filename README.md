@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:48 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Object was red,round and no sound flew for awhile the went in to the sky and vanishedWe saw a red light in the sky coming from what looked like the south it stayed for awhile we followed it thru the sky as it vanished up into the sky it got smaller and smaller. About 10 min later we say another do the same this one flew for a shorter time the went up into the sky and vanished. We where all going in side the I spoted another it did the same thing then vanished. I stayed around for awhile expecting to see more but that was it for the night.((NUFORC Note:  The witness indicates a time of "24:10" hours, which does not exist on the 24-hour clock.  Hence, we do not know whether the sighting occurred on Tuesday morning, or Wednesday morning.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20957.html](http://www.nuforc.org/webreports/reports/020/S20957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Aspen (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>New Years Eve Anomoly In Aspen, ColoradoThis was just after new years, us four were driving home from a party, and our car stopped working about 10 feet from the house.  Everything stopped when i turned they keys the car wouldn't make a noise.  It was very quiet and then we got out of the car and looked up. We saw two 15-20 feet long chevron shaped flying objects.  I was scared out of my mind. They were still were rimmed with blue and red and green and yellow lights.  It was a full moon and they had a distinct shape due to the bright sky of the full moon they were black but because of the lights, they kind of glowed they were moving slowly and down toward us.  Then something must have startled them but they moved north at a speed i have never seen anything go, and in a instant, the car turned back on, and the car alarm went off as well.My miles in my car are now set to zero, which is cool, but my radio doesn't work and neither does any of our cell phones.  I think there was some sort of magnetic force messing up our electronics.  Oh and my watch reset itself  too.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73968.html](http://www.nuforc.org/webreports/reports/073/S73968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
