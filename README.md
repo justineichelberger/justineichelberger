@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Scarborough (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Circular.  Not moving.  Bright.  I have a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125057.html](http://www.nuforc.org/webreports/reports/125/S125057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gaffney (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Shiny stationary object.  Military jets in the same airspace.Driving West and a shiny object in the sky caught my eye.  I first thought it was a reflection of a plane,  that then noticed the sun was due south of object and I was due east. The shininess dimmed and disappeared for a few minutes.  The object then reappeared in the same exact spot. I did not notice any movement from the object like I would an airplane. No chem trails around the object.  I noticed about 6 jets in close proximity of the object. Most of the jets were heading in the same direction as the object with one jet heading directly towards it.  The sky was clear blue with no clouds around. The object seem small or at very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138215.html](http://www.nuforc.org/webreports/reports/138/S138215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
