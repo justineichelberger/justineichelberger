@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:27 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Light on top left of moon, followed by white lights and jetsAs I was driving up to my sister's house, I noticed  the young moon was visible on the rest of the surface, so when my girlfriend and I arrived, we went to go look from the yard.   Suddenly we were amazed to find a flashing light to the upper left of the moon.  I am not talking about Venus to the lower right. We stared at this light flash red, white, then seem to flare a beam off either at or directly away from the moon, occasionally going out for a second at a time.After about 10 minutes of this we noticed a few jets flying excessively fast, and extremely loud.These were not commercial, and had strange/irrelevant flashing patterns. We watched them cross our visible sky within a minute and one in particular changed directions 3 times .Due north, due east, then due west.Right after this we saw several strange objects, planes or otherwise, all heading due north. We started looking to the south and saw two, non-blinking perfectly white circles. Going in straight lines, then vanishing. One went north east, and the first went north north-east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105956.html](http://www.nuforc.org/webreports/reports/105/S105956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in The M1 (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Radio Out Of Control, Car Disabled, Saucer Seen.We Were suck in a que due to a bus that had burned out on the M1.After the lorry had been moved and the cars started moving, our car wouldn't start.  The radio went mental and changed channels non-stop. We got out of the car to attempt to push-start it and I saw a disk shaped object in the distance almost directly above our car. Three minutes later we got the car started again after push-starting it, and drove home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68386.html](http://www.nuforc.org/webreports/reports/068/S68386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
