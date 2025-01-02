@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:30 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>a green fireball that moved quickly down and up and then across the sky before it disappeared.At about 10:15pm on January 2, 2007, i was driving home from work and in the clear northern sky i noticed a bright green fireball.  It was directly above a church and in the vacinity of Worcester Regional Airport.  When i saw it, it shot down diagonally to the right, then back up towards the right, and then shot straight across to the right and then disappeared.  It looked similar to a firework, but moved unlike any firework i have ever seen, and there was only one, so i ruled out any idea of a firework.  I also thought it may have been a shooting star, but this looked to be a little smaller than what the sun looks like, and again, it moved in ways i have never seen or heard a shooting star move like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54384.html](http://www.nuforc.org/webreports/reports/054/S54384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Campinas (Brasil) (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Eu estava com dois missionários de minha religião na rua de um bairro em Campias São Paulo Brasil em Janeiro de 2018 as 19h00 quando estávamos planejando onde iriamos, quando avistei 4 silhuetas no céu que surgiram do nada  e ficáram alguns segundos em vinha linha de frente e foram embora na mesma velocidade que surgiram, como um “flash." ((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143702.html](http://www.nuforc.org/webreports/reports/143/S143702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
