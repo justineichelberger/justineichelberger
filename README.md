@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 1 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>10 total craft spotted all orange fireball and all completely silent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95706.html](http://www.nuforc.org/webreports/reports/095/S95706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aegean Sea (Turkey/Greece) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1/2/2000  Aegean SeaI was on the Aegean Sea on a Renaissance Cruise ship, was out on my personal balcony looking at the sea and stars about 2 a.m.  I noticed 10-12 lights very high in the sky moving left to right.  The were moving at various speeds, slower and faster doing things that normal aircraft don't do.    It looked like they were playing tag even circling around each other, like an infinity symbol.  They also moved right to left.  After watching this for a few minutes I said to myself, okay, I am not seeing this. I went inside for a few minutes to calm down after what I had seen and knew absolutely I had seen something extraordinary,  went back out on my balcony, the craft were still out there. I had nothing to drink or anything else that would alter my perception.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37515.html](http://www.nuforc.org/webreports/reports/037/S37515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
