@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:28 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:51 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange star like UAP; not a star or planet.Woodland, Ca.  Friday, January 2nd, 06:16 hours.  Observed a stationary bright orange star like object in the morning sky due east at an inclination of approximately 35 degrees from the horizon.  After a couple of minutes the object faded slightly as it moved southward descending in elevation to a position just below its initial sighting and stopped.  The object then flared up and slowly faded till unseen.  Witnessed by myself and four others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116469.html](http://www.nuforc.org/webreports/reports/116/S116469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Shell Bluff (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw this bright object on a cold night while hunting.It was cold and clear. My son, his friend, and I went hunting that evening on a large farm in Burke County. We went into the woods around 3:00 that afternoon and had agreed to hunt until dark. Just after 6:00 that night, I walked to pick up the boys at the locations they were hunting. We then began walking back to my vehicle parked out in the center of an 800-acre field.As we walked, we were amazed at how clear the sky was. The stars were brilliant on this cold crisp night. My son and I always hunt with quality binoculars. My son was using Leica’s and I had a pair of Swarovski’s. We used them walking back to gaze at the stars. In this remote large field, it was dark. Light was absent from any streetlights, homes, or traffic. As we were getting closer the vehicle, I noticed what at first appeared to be a comet arching towards us from the horizon. It was traveling at a very high rate of speed, but had no trail behind it. We watched this brilliant shape travel from the horizon to directly over us. The speed that it traversed the sky was “comet-like”. The speed that it stopped directly over us was immediate. It stopped on a dime. All of us took turns with the binoculars looking at this stationary glimmering energy shape. It glimmered evenly and remained perfectly still in the exact position where it stopped. We watched it for about a minute, trying to understand what we were seeing. As we watched with binoculars, the object accelerated from zero to comet like speed at 90 degrees from the original flight direction. It was so fast; I had to lower the binoculars to keep up with the object with my eyes as it traversed the horizon and disappeared. Two teenage boys and I witnessed something. We only reported this to friends and family.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60236.html](http://www.nuforc.org/webreports/reports/060/S60236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
