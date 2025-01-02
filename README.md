@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:25 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small black object seen over Venice, FlSighting occured around 2:30 in the afternoon on January 2nd, 2006. I noticed a black speck in a relatively clear sky with some low cloud coverage. Object appeared stationary, no discernable movement was noticed; based upon the movement of the lower lying clouds, it appeared stationary. I observed said object for approximately 5 minutes before having to return to work. When I returned outside to look at it again, it was no longer there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48577.html](http://www.nuforc.org/webreports/reports/048/S48577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lipton (Canada) () reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red and white orbs in skyDrove toward lipton saskatchewan from fort quappelle Seen around 15 red and white orbs in the sky that seemed to come from one light then 15 come out and flew in different directions and disappeared then as we drove back from lipton (we were in lipton for about 5 min) seen the same thing happen red and a few yellow lights scattering in the sky my husband tried to get a picture but was to late but as he was taking his phone away from the windshield a red light came to the windshield and hovered beside the passenger side of the car for a second and disappeared it was the size of the palm of you hand</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86296.html](http://www.nuforc.org/webreports/reports/086/S86296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
