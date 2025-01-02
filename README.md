@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:28 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aegean Sea (Turkey/Greece) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1/2/2000  Aegean SeaI was on the Aegean Sea on a Renaissance Cruise ship, was out on my personal balcony looking at the sea and stars about 2 a.m.  I noticed 10-12 lights very high in the sky moving left to right.  The were moving at various speeds, slower and faster doing things that normal aircraft don't do.    It looked like they were playing tag even circling around each other, like an infinity symbol.  They also moved right to left.  After watching this for a few minutes I said to myself, okay, I am not seeing this. I went inside for a few minutes to calm down after what I had seen and knew absolutely I had seen something extraordinary,  went back out on my balcony, the craft were still out there. I had nothing to drink or anything else that would alter my perception.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37515.html](http://www.nuforc.org/webreports/reports/037/S37515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange star like UAP; not a star or planet.Woodland, Ca.  Friday, January 2nd, 06:16 hours.  Observed a stationary bright orange star like object in the morning sky due east at an inclination of approximately 35 degrees from the horizon.  After a couple of minutes the object faded slightly as it moved southward descending in elevation to a position just below its initial sighting and stopped.  The object then flared up and slowly faded till unseen.  Witnessed by myself and four others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116469.html](http://www.nuforc.org/webreports/reports/116/S116469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
