@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright flickering star shaped UFO over Meriden,CTMy husband & I have watched this  bright flickering star like object in the sky that has been reappearing for a month.  We have a very clear direct view of it in the sky from our living room window.. It stays stationary no sound has a slight flickering motion to it.  After watching it for approx. 15-30 mins it seems to slowly drop down from the sky & out of our view.. Have seen it only at night and its always in the same location of the sky each time we have seen it on these dates 1/2/2012,between 9 -9:15pm aprox.12/29/2011@10:00-10:15pm approx ,12/10/20111 11pm-11:15pm approx& 12/11/2011 2am-2:30am.. Its def not anything we have ever seen in the sky before  It looks like some kind of spaceship kind of object or 1 of those droid spy planes.. We are now going to invest in a telescope & videotape whatever it is next time if it shall return .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86315.html](http://www.nuforc.org/webreports/reports/086/S86315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw above a tree a flat object with lights that on the side, it was hovering for a minute then brightened up and sped up out of view.I saw behind a tree about 60 feet above was a lit up long flat disc shaped object.It hovered there for about a minute then procceded to move slowly along the row of trees getting higher and higher.  About 50 feet away it got lower and made a simaler sound to a boom of thunder and then it got lower and lower and zoomed off in the distance.  This took about 3 minutes then it was gone.Description of object: it lit up along the whole bottom edge.  The shape was like a flat disc and was ginormous and long.  Its pace had no stops and went smoothly.  When it was hovering it was still and the lights seemed dimmer than when it started to move.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138209.html](http://www.nuforc.org/webreports/reports/138/S138209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
