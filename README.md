@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edgewater (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright, flashing multi colored lights coming from object traveling across the skyOn January 3, 2021, at approximately 11pm I went to my bedroom windows to close the drapes for the evening when I noticed an object, approximately 35 degrees above the horizon, traveling in a Northeasterly direction in a straight, level path across the sky. This object was emitting bright, multiple-colored lights (white, amber, blue, red) in a very, very rapid sequence. Much faster than I’ve ever seen on a commercial, military or private aircraft. The object made no sound and due to the brilliant light it was emitting, I couldn’t determine its shape. The sky that night was crystal clear. I viewed this object for about 60 to 75 seconds. During that time, I scanned other sections of the sky to see if there were other aircraft in the area and I saw none. I live on the Mayo Peninsula in Maryland. Aircraft landing at BWI (Baltimore Washington International Airport) frequently travel over the peninsula on their approach. But not in the direction this object was traveling in. I’m a US Marine Corps veteran and a retired law enforcement officer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161639.html](http://www.nuforc.org/webreports/reports/161/S161639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was about 2 miles from the Casa Grande Airport.  I was facing West and that's when I noticed these lights bouncing around in the dark.  I immediately grabbed my binoculars, &I seen these lights spinning around in a circle.  It lasted about 10 minutes.  Jst as quickly as it appeared it went away.  The weird part was that it passed an airplane,  &I wonder if the airplane seen it as well?  How could one not have seen it while in the air?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86353.html](http://www.nuforc.org/webreports/reports/086/S86353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
