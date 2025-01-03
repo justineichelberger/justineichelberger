@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Over Doylestown,Pa.  a Large red fireball moving west to east in the sky, no sound,I am a nurse I work the 3-11:30pm shift I arrived home from work on 1/2/12 by 11:50pm and went inside my home. Just before 1:00am(now 1/3/12) my fiance ((male name deleted)) and I went out side with our 2 dogs for the last walk of the night.  We were on the side walk facing south when ((male name deleted)) said look up I looked up and this object that to us looked like a bright red fireball that flew from west to east in the sky,  it was large (the size of a full moon) but much closer, no sound.  We were able to see it for approximately 3 seconds before trees blocked the view.  It was a very clear quiet night.  The next day at work I was talking to another nurse and she was telling me how she was driving home from work on 1/3/12 and decribed the same fireball as we did, she said it was around 1am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86714.html](http://www.nuforc.org/webreports/reports/086/S86714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>These were 6 or 8 ORBS not just lights.I was letting the dog out for the night, when a coyote howl called my attention to the SE area.  In the night sky there were 6 to 8 ORBS reddish in color moving silently to the NNW. the were over the Tucson mid-town area.  Davis Monthan AFB is in that area.  I thought at first it was the Pima County Patrol aircraft (a turbo prop). However it was all red ORBS not red and green NAV lights nor did they blink.  Also, the Sherriff's aircraft has white strobes anti-collision markers.The object moved NNW then without a stop, retraced its path.  In a few more seconds it started straight UP.  It was a steady glide at no "Super sonic Speeds" just a fast rate until it was undiscernible from the stars.  It was a New or full moon and there was a reddish star or planet at the moon's 8 o'clock.I tried to make my own investigation and am not convinced that a "Drone Octicopter: was the object, because the ORBS didn't have border "FUZZ" as the lights in my area have, ie: stop lights, aircraft & tower markers.  Furthermore, the SCALES would not support a toy aircrafts size.  I had very good sight reference points.I tried to make a report to MUFON but they said " you have done your own research".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116594.html](http://www.nuforc.org/webreports/reports/116/S116594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
