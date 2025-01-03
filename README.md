@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Extremely loud noise hovering over our house for over 20 minutes.At around 4:10, I was woken up by my mother who was terrified about a strong noise outside.  I tried to brush it off as an airplane.  We live close to the airport, but the noise was more intense and seemed to get stronger but did not move away it simply hovered above our house for over 20 minutes.  It was a very strong noise that at times seemed to intensify it sounded as if a plain was lending on our house but it just hovered. We were too scared to venture outdoors.  I called 911 but was told it was not an emergency and they put on a recording directing me to call local authorities.  The noise was terrifying and unlike anything I had ever heard the sky was lit up but I could not tell if it was because of the moon which is waning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95770.html](http://www.nuforc.org/webreports/reports/095/S95770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I Went out to my back garden on this day and seen 3 like fire balls in  a single line , no Idea what they are i live near the airport so they can't be plans. please look at my photo's i've sent them in an e=mail Peter McCarthy....((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74528.html](http://www.nuforc.org/webreports/reports/074/S74528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
