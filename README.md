@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wakefield (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>A large disc shaped craft entered my field of vision and disappeared before i could observe further details.A relatively large, disc shaped craft, moving very fast at an approximate altitude of 2000 feet, crossed my field of vision and disappeared far before the horizon.  It was of a slight orange-red color and was far larger than any observed comet or meteorite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79514.html](http://www.nuforc.org/webreports/reports/079/S79514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>flash of light moving toward lake washingtonA single flash of light moving straight down toward lake washington. it was like it went into the lake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79512.html](http://www.nuforc.org/webreports/reports/079/S79512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
