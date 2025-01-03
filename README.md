@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was about 2 miles from the Casa Grande Airport.  I was facing West and that's when I noticed these lights bouncing around in the dark.  I immediately grabbed my binoculars, &I seen these lights spinning around in a circle.  It lasted about 10 minutes.  Jst as quickly as it appeared it went away.  The weird part was that it passed an airplane,  &I wonder if the airplane seen it as well?  How could one not have seen it while in the air?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86353.html](http://www.nuforc.org/webreports/reports/086/S86353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright flickering star shaped UFO over Meriden,CTMy husband & I have watched this  bright flickering star like object in the sky that has been reappearing for a month.  We have a very clear direct view of it in the sky from our living room window.. It stays stationary no sound has a slight flickering motion to it.  After watching it for approx. 15-30 mins it seems to slowly drop down from the sky & out of our view.. Have seen it only at night and its always in the same location of the sky each time we have seen it on these dates 1/2/2012,between 9 -9:15pm aprox.12/29/2011@10:00-10:15pm approx ,12/10/20111 11pm-11:15pm approx& 12/11/2011 2am-2:30am.. Its def not anything we have ever seen in the sky before  It looks like some kind of spaceship kind of object or 1 of those droid spy planes.. We are now going to invest in a telescope & videotape whatever it is next time if it shall return .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86315.html](http://www.nuforc.org/webreports/reports/086/S86315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
