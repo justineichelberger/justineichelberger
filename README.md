@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:16 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Debrecen () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulsing shiny orange orb fo about 2-3 min.Pulsing, shiny orange, a bit oval orb on the sky, moving away slow for about 2-3 min then gradually accelerating disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105999.html](http://www.nuforc.org/webreports/reports/105/S105999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Union City (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>me and a friend were target shooting and saw saw this thing in the skywhen we were checking the targets a crop duster flew over pretty close to us. that got are attention and we looked up.thats wheni noticed something in the sky. at first i thought it was a jet but i quickly realized it hod no wigs and was not moving as far as i could tell. i also noticed that there was no exahust of any kind. me and my friend looked at it for about 3 minutes and it very quickly started to grt further away.it didnt move across the sky it moved straight up untill we could not see it any more. minutes afterwards we saw about 6 jets which is unusual because as far as i know we dont have an airbase anywhere close. the jets seamed to be flying a equal distance apart and coverd a lage section of the sky.((We assume that the time indicated by the witness translates to 3:18 p.m., but we are not certain.  He may have meant to type 18:00.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11686.html](http://www.nuforc.org/webreports/reports/011/S11686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
