@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>flash of light moving toward lake washingtonA single flash of light moving straight down toward lake washington. it was like it went into the lake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79512.html](http://www.nuforc.org/webreports/reports/079/S79512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fluttering amorphous shape in night sky, transparent or camoflaged against stars and not movingThis is 3 years ago, and may have happened at any point in the first 3 months of 2001. It was late night and me and my friend were on a university campus in Birmingham. Neither of us was intoxicated in any way, and although my eyes are slightly less than perfect my friend had correct glasses and we both concurred in what we saw. At about a 60deg elevation I noticed an area of the sky (virtually cloudless - no clouds near event) where the stars appeared to be moving around in relation to each other, as if seen through a dynamic lens. What caught my attention was that a) it was a windy night and the object/region was barely moving relative to us or landmarks and b) the 'stars' refracted through the region were not accurate, that is not only the colour and luminance but the number of stars was different when the object cleared a section of sky. The slow movement of the region and the steady "pulsating" of its shape was entirely inconsistent with wind or thermal rising (I've been known to dabble in parascending and gliding - I know airborne objects). I remember observing the object for 20-30 seconds before mentioning it to my friend, in case I sounded stupid. When I directed his attention  to the area, he also remarked that it was not behaving like anything subject to the wind, or flight. The best way I can describe it is not as a craft or solid object, but as if an object roughly the shape of the familiar weather-map "cloud" was wandering about the sky, pretending to be transparent. Size and altitude are very difficult to quantify, but my best *guess* would be 2,000ft. The region was roughly the size of cigarette pack at arm's length. Plastic sheeting or other natural phenomena (with the possible exception of some sort of thermal or other atmospheric anomaly I'm not qualified to identify) was discounted by both of us in our conversation, for the reasons mentioned above and (I'm fairly sure) other reasons I can't readily recall. My recollection is crystal clear in that we both agreed it was unexplainable at the time and after watching it for a while, we said something along the lines of "Well, that was ****ing strange" and moved on to our destination with no explanation other than "we just saw a UFO". Only recently have I come across some vaguely similar sightings (there is one from a Sean Amundsen at the base of this page: http://www.rense.com/general50/whatthe.htm) and decided to document our sighting for posteriety. Sean's description of a "magic carpet" sums it up very well to me, although his sighting was in the day. Hope this tallies with something, or adds something to the field.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35891.html](http://www.nuforc.org/webreports/reports/035/S35891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
