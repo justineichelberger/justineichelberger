@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morgan Hill (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Strange noise, observed a long, spindle shaped, silver cigar object with greenish exhaust.A rather strange noise caught my attention as I was working in my yard.  I had a day off from work and I decided to work on our shed.  We appear to be in the flight path for the IFR approach into San Jose, CA International Airport, so I hear airplanes go over all the time.  We have a smaller airport very close and these smaller airplanes will fly over the house.  All of these flights appear to be at least 2,000 to 8,000 ft AGL.  As the strange noise became more evident I looked up and saw a long, thin, silver cigar looking object moving fast from south to north.  It appeared that it was using the same direction that the larger jets use for the approach into SJC.  I noticed a greenish plum of "smoke" coming from the end of the object.  The object moved quickly and was only in my sights for approximately five seconds.  The noise was like a faint blowing sound.  The object was just faint enough to be seen and there were no clouds in the sky that day.  ! It was a beautiful day.  As a 5k plus hour pilot I have seen strange things before; lightning coming out of the top of clouds, green objects shooting down toward the earth (meteorites), jets traveling very fast toward me and passing me within less than a mile.  I am very sure what I saw.  I have no need to make crazy stuff up.....I did find that someone else had seen something similar to what I saw but am not aware of his location.  It was on the internet.  Thank you for your website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106158.html](http://www.nuforc.org/webreports/reports/106/S106158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lafayette (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was at a friend’s house in Lafayette, Colorado, to watch the predawn Meteor Showers at 4:00am.  We were standing outside having a smoke and getting ready to light a fire when I looked up an saw what looked like a flock of geese (V shaped object at first) flying towards us at about 300-500 ft with no lights.I pointed out to her what I was seeing as it was approaching our direction at about 30-40 mph.  We were able to see directly underneath the ship and saw a gray triangle object that was completely silent. I started running after it between my friend’s house and the neighbor’s house to get a better look, and it disappeared directly in front of my eyes.The crazy thing is, later we saw other UFO’s flying around, but nothing as cool and clear and vivid as the first one. There’s a lot of UFO activity in that area.  Check it out for yourself.((NUFORC Note:  See second report from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67884.html](http://www.nuforc.org/webreports/reports/067/S67884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
