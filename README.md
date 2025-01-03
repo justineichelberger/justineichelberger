@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 62</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161653.html](http://www.nuforc.org/webreports/reports/161/S161653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Norwood (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighting and message from an alien commanderI couldn't sleep and went to my back door. I was wide awake as if it was day. I opened the door and looked at the sky. There were no clouds and Venus and the moon were visible. I was staring at Venus when a bright light appeared just above it. It was brighter than Venus and moved over next to moon. When the UFO came to a stop, I recieved a telepathic message from the ship. My mind seemed to "warp" from my body straight to the UFO. I could see everything along the way, including the sheer size of the UFO. The UFO had three engines, and dozens of side guns. What I saw was a warship, hiding behind our moon by the time my mind reached it. My mind entered its bridge and came to a stop. A tall lizard-like alien stepped out in front of me. It was wearing boots, a cape, and a kind of uniform. It had a number of badge-like items attatched to it's uniform, just like a Marine officer wears badges. It spoke in it's own language to me, while it held a device. My guess is the device translated what it spoke for me to understand. However, the only words translated were the last two. They were "not afraid." It nodded to me and walked back to the bridge. My mind began to leave the warship, while it began to turn away from the moon. The warship created a small wormhole, flew into it, and was gone. My mind returned to my body, and I closed the door. I went back to bed suddenly tired. Over the past three years, I have experienced telepathic messages from the same alien. These messages are actually part of the same message told to me three years ago. The messages include information on alien scouts on Earth exploring certain parts of the planet. Another part of the message said that they want Earth to be an ally with them. They are exploring our planet to spot possible defensive positions against another "alien threat" to both them and us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52254.html](http://www.nuforc.org/webreports/reports/052/S52254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
