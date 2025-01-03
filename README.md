@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw above a tree a flat object with lights that on the side, it was hovering for a minute then brightened up and sped up out of view.I saw behind a tree about 60 feet above was a lit up long flat disc shaped object.It hovered there for about a minute then procceded to move slowly along the row of trees getting higher and higher.  About 50 feet away it got lower and made a simaler sound to a boom of thunder and then it got lower and lower and zoomed off in the distance.  This took about 3 minutes then it was gone.Description of object: it lit up along the whole bottom edge.  The shape was like a flat disc and was ginormous and long.  Its pace had no stops and went smoothly.  When it was hovering it was still and the lights seemed dimmer than when it started to move.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138209.html](http://www.nuforc.org/webreports/reports/138/S138209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Extremely loud noise hovering over our house for over 20 minutes.At around 4:10, I was woken up by my mother who was terrified about a strong noise outside.  I tried to brush it off as an airplane.  We live close to the airport, but the noise was more intense and seemed to get stronger but did not move away it simply hovered above our house for over 20 minutes.  It was a very strong noise that at times seemed to intensify it sounded as if a plain was lending on our house but it just hovered. We were too scared to venture outdoors.  I called 911 but was told it was not an emergency and they put on a recording directing me to call local authorities.  The noise was terrifying and unlike anything I had ever heard the sky was lit up but I could not tell if it was because of the moon which is waning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95770.html](http://www.nuforc.org/webreports/reports/095/S95770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
