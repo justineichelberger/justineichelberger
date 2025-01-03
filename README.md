@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flashing light moving erraticallyAround 8:15 PM, more or less, on January 3, 2015, we noticed a white flashing light, like a strobe light in the night sky over Blackshear, Georgia.  The light had a star-like appearance. The light seemed to move erratically, in small jumps with components perpendicular to the direction of general motion, which was north to south.  It almost seemed as if the flashes were confined to a small area around the apparent center of motion.  The flashes got to about 25 degrees above the SSE horizon, and then swung back towards a generally northerly direction, moving with the same erratic motion.  When the flashes got to the northern part of the sky, the apparent source suddenly accelerated and disappeared in a northerly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116470.html](http://www.nuforc.org/webreports/reports/116/S116470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in not sure (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>large gliding triangular machine with beam over Texas skyMy kids and I saw a large triangle thing gliding over the sky. It was about as high as a low flying helicopter and had a bizarre reddish, or dark pink beam. I was driving from Houston to San Antonio on I-10 east when I saw a something (kind of like a glowing beam), totally strange slowly fading in and out and then I yelled at my kids to look as it passed over. We all were just in amazement as this triangular flew over us. There was a big rig and three other cars that all slowed down significantly just as we did. I would assume they all had witnessed the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48581.html](http://www.nuforc.org/webreports/reports/048/S48581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
