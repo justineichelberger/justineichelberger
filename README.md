@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 2 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Scottsdale (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Seattle UFO investigator called to relay two sighting reports from her mother in Arizona: 1)  Her mother observed two very bight, yellowish, balls of light in the sky over Scottsdale, AZ, to the north2)  Her mother, in Snowflake, AZ, had just witnessed a light blink on, move to northwest very fast, then blink out.  Witness telephoned her daughter to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01163.html](http://www.nuforc.org/webreports/reports/001/S01163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flashing light moving erraticallyAround 8:15 PM, more or less, on January 3, 2015, we noticed a white flashing light, like a strobe light in the night sky over Blackshear, Georgia.  The light had a star-like appearance. The light seemed to move erratically, in small jumps with components perpendicular to the direction of general motion, which was north to south.  It almost seemed as if the flashes were confined to a small area around the apparent center of motion.  The flashes got to about 25 degrees above the SSE horizon, and then swung back towards a generally northerly direction, moving with the same erratic motion.  When the flashes got to the northern part of the sky, the apparent source suddenly accelerated and disappeared in a northerly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116470.html](http://www.nuforc.org/webreports/reports/116/S116470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
