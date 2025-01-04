@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kidderminster (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>2 orange lights making sudden manouvres in the sky, seperating and rejoining.Looking east from an upstairs window i saw 2 feint, as if fuzzy, orange lights moving slowly upwards. I was watching with binoculars and noticed that one light appeared to have a small pin point light orbiting it. Both lights were offset from eachother at a 45 degree angle. Both lights rose up then turned very sharp left in an instant, travelled left for a while then turned sharply upwards again. Not travelling at great speed but were faster than the average aircraft that were in the sky at the time. After rising again for a short distance the light on the left turned sharp left and down 45 degrees. the light on the right turned sharp right and up 45 degrees. The left light then turned horizontal left and then tuned very sharp right and up and at high speed and raced to the other light as if it was trying to catch it up. It reached the other light and they both travelled at the same rate horizontally right but a short distance apart. They both then turned sharply upwards and kept going up until they began to fade and i could no longer see them. The speed and angles they were moving could not be done by an aircraft. When they made their turns is was as if they were hitting a barrier of some sort and bouncing off. Aircraft turns make a sweep and this did not happen at any time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41407.html](http://www.nuforc.org/webreports/reports/041/S41407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bluish/green fire ballI was driving west toward Hartford on Route 2-West.  I saw a bluish/green fireball with yellowish flames/tail flying east to west at what seemed to be warp speed.  It was flying horizontally, not like it was dropping out of the sky.  As I was watching it, it simply vanished, near the CT river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161475.html](http://www.nuforc.org/webreports/reports/161/S161475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
