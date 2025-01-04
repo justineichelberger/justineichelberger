@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:03 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:15 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warrensburg (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We stepped outside to talk and looked up in the sky and seen a very bright round light we thought it was a star till we seen blueish flashes come from it and it didn't move till a plane flew by then it moved upwards fast its now 9:25pm Jan.4.2016 and still in sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125105.html](http://www.nuforc.org/webreports/reports/125/S125105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Red lights in a triangle form close to the ground.  No sound.  Disappeared.  Going approximently 90-110 MPH.We were coming home from an AHS basketball game.  We were turning to our road to our house.  We do live close to the Abilene Municipal airport.  But owning a Piper Cub, I knew this was no earth plane.  To quiet.  It speeds past without a sound and goes on past the car and the ligjts disappeared.  It has took me a while to talk about this.  But I finally did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129511.html](http://www.nuforc.org/webreports/reports/129/S129511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
