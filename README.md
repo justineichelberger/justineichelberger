@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bouse (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Dad called me out to witness strange flashing blue and stationary amber lights he saw when going out to feed the goats.Night of January 4, 2001, Bouse Arizona....My dad had gone out to feed the goats, when he witnessed an uusual group of lights.  It was because of this that he called out for someone else to come out to see what he is witnessing. I grabbed my torch, thinking that a goat had got out, and ran out to where my dad stood.  I had no idea it was lights he wanted me to see. By the time I got to where my dad stood, most of the lights had goen, but then he pointed to the NE, towards "Butler Valley", which is about 10 or so miles away.  Where all of a sudden a bright amber light came on.  Stayed on for a few seconds, then went off.  As this light went off, two blue lights appeared, seemingly from nowhere, as if they were subterranean in origin.  These lights flashed a bright blue, and in between flashes, showed a medium blue.  One of the blue lights rose sharply to a medium altitude into the air, and then appeared to stop and hold it's position above the ground.  I then fixed my attention on this light.  This last blue light was heading Southward and could have been a few hundred yards off or so off the ground, as it flew at what could only have been at supersonic speed, which made a rumbling sound, just as if a train was passing by would.  After watching for about 10 seconds, I had to take care of something for my dad and when I returned it was all over. That's when dad and I went in to tell mom of what we saw and to call up to report this occurrance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15765.html](http://www.nuforc.org/webreports/reports/015/S15765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>It was 1 : 30 pm  me and my wife where standing outside of our apartment when we see 3 flying object very high in the sky  we stayed watching them for like a minute and a half during that time a guy on his bicycle was passing by and asked what we staring  at so we showed him he was surprised like we were. We start looking online to see if there was any reports  and we came across this site http://www.ufo-reports.com/ And we seen that on the first there was pictures and reports about  the same objects we seen  and they flying in the same formation . I don’t know what to think because it is so confusing the speed they were going the height unbelievable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67849.html](http://www.nuforc.org/webreports/reports/067/S67849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
