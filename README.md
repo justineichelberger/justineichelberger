@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:26 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:03 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bonner (MT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Light seen moving north east over I-90 at cloud level between Bonner and Potomac.Driving home between Patomac and Bonner I noticed a light in  the center of the sky it appeared to be at the same level of the clouds it looked like a pair of headlights and had the same affect that car headlights have in fog  when I saw it I pointed it out to my brother who saw it also for a brief moment before our vision was obscured by trees along side the road.  The lights had been headed towards us coming from the west headed north east, while we were headed south along the highway.  We watched and waited as we passed the group of trees along side the road looking for about where the lights should have been visable again but there was nothing.  I even slowed down to allow myself and my brother to see where it had gone but saw nothing.  When we first saw lights we could see they were moving but not very fast and not fast enough to have crossed the entire sky before having another chance to see it.  The light at the center was white and outwards farther f! rom the center it became more yellow and faded.  The shape was rough and not smooth.  Still not sure exactly what my brother and I saw but suspect it could have been a smaller plane with bright headlights?  I do remember having an eerie and uncomfortable feeling about being outside looking at the sky after getting home.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86374.html](http://www.nuforc.org/webreports/reports/086/S86374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warrensburg (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We stepped outside to talk and looked up in the sky and seen a very bright round light we thought it was a star till we seen blueish flashes come from it and it didn't move till a plane flew by then it moved upwards fast its now 9:25pm Jan.4.2016 and still in sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125105.html](http://www.nuforc.org/webreports/reports/125/S125105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
