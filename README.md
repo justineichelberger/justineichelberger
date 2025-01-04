@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>9 Orange Globes traveling in a V formation, not sound no blinking lights on a perfectly clear night.1/4/2014 at approximately 02:50. Atleast 9 orange globes flying at a high rate of speed in a V formation flying over Greensboro near Muirs Chapel Rd. and W. Market St.  Objects were traveling southward, towards Wendover Ave. and 40 West.  One of the globes was moving side to side, and forward and backward within the V formation but not travel outside of the interior of the formation.  There was no noise, and no blinking lights.  Color was very similar to sodium vapor street lights.  When I first saw it, the object appeared to have a rigid v shape.  As it aproached I was able to see the object moving within the V formation.  I've lived around Navy, Airforce, and Marine Corps instalations all my life an have never seen anything like it.  The light from the objects was really soft, there was no "twinkle".  It was a perfectly clear night without moonlight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106049.html](http://www.nuforc.org/webreports/reports/106/S106049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Red lights in a triangle form close to the ground.  No sound.  Disappeared.  Going approximently 90-110 MPH.We were coming home from an AHS basketball game.  We were turning to our road to our house.  We do live close to the Abilene Municipal airport.  But owning a Piper Cub, I knew this was no earth plane.  To quiet.  It speeds past without a sound and goes on past the car and the ligjts disappeared.  It has took me a while to talk about this.  But I finally did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129511.html](http://www.nuforc.org/webreports/reports/129/S129511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
