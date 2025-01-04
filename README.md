@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lovingston (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing green UFO in VirginiaI had been driving for about two minutes, there was no traffic as it was around 10:20pm. I caught a glimpse of a very bright green light delivering approximately double the luminescence of the north star, and was two or three times the size of the north star when comparing the two. The glowing object came from the top right portion of my wind-shield and swooped to the left high in the sky. As I followed the object it made a noticeable arching movement until it was nearly beside the north star, the it simply swooped downward like a slower moving falling star. The speed of the object was not as fast as what I can compare to a falling star, nor was it as slow as a plane or helicopter. The object was not blinking, just a constant and vibrant green glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86347.html](http://www.nuforc.org/webreports/reports/086/S86347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>9 Orange Globes traveling in a V formation, not sound no blinking lights on a perfectly clear night.1/4/2014 at approximately 02:50. Atleast 9 orange globes flying at a high rate of speed in a V formation flying over Greensboro near Muirs Chapel Rd. and W. Market St.  Objects were traveling southward, towards Wendover Ave. and 40 West.  One of the globes was moving side to side, and forward and backward within the V formation but not travel outside of the interior of the formation.  There was no noise, and no blinking lights.  Color was very similar to sodium vapor street lights.  When I first saw it, the object appeared to have a rigid v shape.  As it aproached I was able to see the object moving within the V formation.  I've lived around Navy, Airforce, and Marine Corps instalations all my life an have never seen anything like it.  The light from the objects was really soft, there was no "twinkle".  It was a perfectly clear night without moonlight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106049.html](http://www.nuforc.org/webreports/reports/106/S106049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
