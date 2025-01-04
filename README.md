@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One elongated, rectangular, drone-like UFO with red and green blinking lights traveling West well above the treeline.Moments after putting my car in park after coming home (having used no substances and being well rested), I glanced out of my window and saw one rectangular, drone-like object with red and green lights throughout the body traveling West well above the treeline.  Lights flickered but no quicker than the tick of a clock.  I opened my car door and refocused my eyes while standing and watched the craft travel at a constant speed until it was out of sight in the suburban landscape.  I could see one steady trail via the lights of the UFO.  Its shape was an elongated rectangle--perhaps a 1:4 ratio length to width traveling nose first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144287.html](http://www.nuforc.org/webreports/reports/144/S144287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arnold (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Static UFO deploying multiple UFO 'Scouts'?This was very odd.  My family and I were shopping in Gravois Bluffs (Feton,MO) and on our way home (about 6:30PM) we noticed in the sky many blinking lights in small groups in static formation (i.e. series of 3-5 lights in one area, not moving, but multiple groups).  As I watched these groups of blinking lights I then noticed lights deploying from those area one at a time.  Once deployed from those areas, they then took flight and then looked like normal airplanes at night (white/red lights).  The 5 or 6 deployed "planes" scattered and seemed to 'scout' the Fenton and Arnold areas.  When I arrived home (Arnold, MO), we still saw the "planes" flying around.  Then one came flying over our house fairly low.  This is when I started to get a little scared.  The plane was low enough to see the formation of the red/white lights.  The craft had 3 white lights in a triangular formation  with a flashing red light in the center.  There was no tail light.  It sounded li! ke a prop plane but for as low as it was, it should have been much louder.  After it passed over I then noticed another craft (same with white/red lights) hovering further south and at a much higher altitude. . but it was not moving.  It remained stationary.  After seeing all this, I started to feel very uncomfortable, and then went inside pretending I saw nothing.  Then, at about 1:00AM, I heard the loudest most annoying humming droning sound ever (as if 'something' very large was hovering nearby.  The hum echoed through the town and I never saw anything. . . but the noise was very clear.  Needless to say, I did not get much sleep last night.  If I see something activity again tonight, I'll have my phone ready to take pics.  Have  there been any similar reports?((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86334.html](http://www.nuforc.org/webreports/reports/086/S86334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
