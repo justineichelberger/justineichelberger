@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Steinhatchee (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was orangish reddish in color as if it were passing through the atmosphere.A craft at this height must have been massive.As I said above this large orangish reddish cigar shaped craft must have been thousands of feet up in the night sky the weather conditions were partly cloudy.It was about 9pm at night it seemed almost to hovered in one place then it was kind of one place then another thats about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12585.html](http://www.nuforc.org/webreports/reports/012/S12585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lovingston (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Glowing green UFO in VirginiaI had been driving for about two minutes, there was no traffic as it was around 10:20pm. I caught a glimpse of a very bright green light delivering approximately double the luminescence of the north star, and was two or three times the size of the north star when comparing the two. The glowing object came from the top right portion of my wind-shield and swooped to the left high in the sky. As I followed the object it made a noticeable arching movement until it was nearly beside the north star, the it simply swooped downward like a slower moving falling star. The speed of the object was not as fast as what I can compare to a falling star, nor was it as slow as a plane or helicopter. The object was not blinking, just a constant and vibrant green glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86347.html](http://www.nuforc.org/webreports/reports/086/S86347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
