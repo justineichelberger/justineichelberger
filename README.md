@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:15 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Red lights in a triangle form close to the ground.  No sound.  Disappeared.  Going approximently 90-110 MPH.We were coming home from an AHS basketball game.  We were turning to our road to our house.  We do live close to the Abilene Municipal airport.  But owning a Piper Cub, I knew this was no earth plane.  To quiet.  It speeds past without a sound and goes on past the car and the ligjts disappeared.  It has took me a while to talk about this.  But I finally did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129511.html](http://www.nuforc.org/webreports/reports/129/S129511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in McMinnville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately In Progress - In Progress minutes.</sub><blockquote><sub>Color changing object observed over/near cattle who were going crazy.The object was observed hovering south westerly from the back of my location - the first noticeable characteristic of the object was the color changing.  It would stay green for approximately 2 minutes, then flash red, orange, yellow, red and back to green and repeat.  After approximately 10 minutes of observation, the object started moving.  It would oscillate side to side, then gain altitude slowly, then rapidly lose altitude.  It would then move side to side by performing a half moon drop and then ascending.  There were also very rapid movements in angles and radii that are both mathematically and physically impossible for any known man made air craft to perform.  Also curious, at this hour, as the object moves, I can hear cattle mooing and doing what I can best describe as screaming.  I have experience with military and commercial aircraft, both rotary wing and fixed... and  have seen and reported objects like this for a few years now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86341.html](http://www.nuforc.org/webreports/reports/086/S86341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
