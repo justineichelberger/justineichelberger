@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bluish/green fire ballI was driving west toward Hartford on Route 2-West.  I saw a bluish/green fireball with yellowish flames/tail flying east to west at what seemed to be warp speed.  It was flying horizontally, not like it was dropping out of the sky.  As I was watching it, it simply vanished, near the CT river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161475.html](http://www.nuforc.org/webreports/reports/161/S161475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palm Beach Gardens (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5-8 reddish orange balls/circles in night sky over Florida.I was driving in my apartment complex with my mother after dropping my brother off at his apt when I seen a reddish orange light in the sky.  Then almost immediately more appeared there were three in a row vertically and one each on the left and right of the vertical line.  There may have been a couple more but I didn’t have time to count them all accurately.   They were stationary in the sky and seems to glow a bit.We stopped at the mail center and my mom got out of the car and I asked her what are those and that’s when she seen them as well. She said they weren’t moving and that she heard sirens. After we parked the car at our apt about a block away we got out and could still see a few of them but our vision was blocked by trees.I called my brother and told him to look out his balcony to see if he can see them.  He stated that he could and when entering his house he seen them as well but didn’t think anything of it at first.  My mother and I decided to walk to the gazebo down by the lake where there would be a better view.  My brother still on the phone with me decided to walk down to meet us.  He said that he could only see one or two and that one looked like it was going into the other.  By the time we got to the clearing they all disappeared.I’m not really certain what it was that we saw but I feel it could have been UFOs.  If anyone has alternative theories or know what they were that would be great to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144305.html](http://www.nuforc.org/webreports/reports/144/S144305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
