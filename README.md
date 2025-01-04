@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Strange lights over McChord AFB, Tacoma WAMy window in my bedroom faces to the south.  At around 11:45 on the evening of January 4th, 2007, I was just laying down for bed.  I happened to look out the window and spotted something that wasn't quite right.  My initial thought was that it was an airplane over McChord AFB.  We have constant overhead flights from the base.  After watching this object move slowly in a southeast direction towards or over McChord AFB I realized that it was not a normal craft.  This is what it looked like.Since it was dark and overcast I was not able to discern an actual outline.  The object was probably 7 or more miles away on the horizon but it was pretty good size.  There were dozens of white lights that were constantly flashing (twinkling) in rapid and non-uniform fashion.  It almost appeared like the lights were moving rapidly in a circular motion but I cannot say for sure.  All of the lights were white.  Every aircraft I have watched fly anywhere in the area would have no more than 7 or 8 lights (multi-colored) on it at any time and if they flashed it was in a constant rhythm.I watched this craft come to a stop and hover for about 30 seconds when every light shut off completely and it appeared to disappear.  I figured then that it was just something that could probably be easily explained and was turning to go back to bed.  After about 15 seconds of darkness the lights came back in the same position and the craft started to slowly move off in a southwesterly direction towards Ft. Lewis.  This lasted for about a minute when it sped off and winked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54826.html](http://www.nuforc.org/webreports/reports/054/S54826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds? - seconds? minutes.</sub><blockquote><sub>Took several photos with new camera (FujiFilm HS50EXR)at close to full zoom (approx 800mm) of rocky peaks about 1.4 km distant from my front porch.  Upon inspecting the photos, I found one to contain an unidentifiable object in the air above the ridge.The light was close to sunset, rendering the rock formations and the object reddish.  The ridge is sharp, the object is blurred, hence moving.  Being a pilot with more than the usual awareness of aircraft in the area, I was surprised at having neither seen nor heard an aircraft at the time I took the photos.  Other photos, taken seconds apart, but not of same location, show no such image.((NUFORC Note:  Source of report is experienced aviator.  However, we believe that the photo is of a bird in flight, and we suspect that it may have been a mourning dove.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106201.html](http://www.nuforc.org/webreports/reports/106/S106201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
