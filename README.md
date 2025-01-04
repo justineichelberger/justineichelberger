@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:47 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>9 Orange Globes traveling in a V formation, not sound no blinking lights on a perfectly clear night.1/4/2014 at approximately 02:50. Atleast 9 orange globes flying at a high rate of speed in a V formation flying over Greensboro near Muirs Chapel Rd. and W. Market St.  Objects were traveling southward, towards Wendover Ave. and 40 West.  One of the globes was moving side to side, and forward and backward within the V formation but not travel outside of the interior of the formation.  There was no noise, and no blinking lights.  Color was very similar to sodium vapor street lights.  When I first saw it, the object appeared to have a rigid v shape.  As it aproached I was able to see the object moving within the V formation.  I've lived around Navy, Airforce, and Marine Corps instalations all my life an have never seen anything like it.  The light from the objects was really soft, there was no "twinkle".  It was a perfectly clear night without moonlight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106049.html](http://www.nuforc.org/webreports/reports/106/S106049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One elongated, rectangular, drone-like UFO with red and green blinking lights traveling West well above the treeline.Moments after putting my car in park after coming home (having used no substances and being well rested), I glanced out of my window and saw one rectangular, drone-like object with red and green lights throughout the body traveling West well above the treeline.  Lights flickered but no quicker than the tick of a clock.  I opened my car door and refocused my eyes while standing and watched the craft travel at a constant speed until it was out of sight in the suburban landscape.  I could see one steady trail via the lights of the UFO.  Its shape was an elongated rectangle--perhaps a 1:4 ratio length to width traveling nose first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144287.html](http://www.nuforc.org/webreports/reports/144/S144287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
