@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orangevale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pulsing, changing colors, but relatively stationary in the NE sky, at about 30 degrees from horizon.The object was inverted triangular in shape, but changed to a long [vertical] tail, almost like a comet would leave.  It changed colors from red to purple to blue and green.  It pulsed as it changed colors.  It was in the North East sky, at approx. 30 degrees from the horizon.  Our sky was overcast, and there was a very light rain.  Local TV stations have received numerous reports, but are unable [at this time] to advise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125112.html](http://www.nuforc.org/webreports/reports/125/S125112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Colcord (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright white at the center blue light haze exterior, was about 50 Ft from my vehicle, if I had to guess the size 10-20 feet in diameter. The bottom was facing me, I could only see the light. The vehicle disappeared with a bright blue and white train behind it moving south west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161471.html](http://www.nuforc.org/webreports/reports/161/S161471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
