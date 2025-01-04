@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 3 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I Went out to my back garden on this day and seen 3 like fire balls in  a single line , no Idea what they are i live near the airport so they can't be plans. please look at my photo's i've sent them in an e=mail Peter McCarthy....((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74528.html](http://www.nuforc.org/webreports/reports/074/S74528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Harrisburg (NC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 00:02:00 - 00:02:00 minutes.</sub><blockquote><sub>Extremely brilliant multi-colored symmetrical light source no sound hovering 1.5 minutes low in sky moving off at moderate velocityAt about 23:20 on 1/4/05 while watching television in a darkened room I observed a brilliant yet seemingly distant light through the french door onto our deck. I initially discounted it as a helicopter or other aircraft as our home is frequently overflown by the Carolinas Medical Center helicopter and commercial and private aircraft from the Charlotte-Douglas International Airport (25-miles south) and the Concord Regional Airport (8 miles North).  Approximately 1.5 hours before this sighting a single low flying (<500 foot altitude) C-130 flew over at a rapid speed from east to west.  This overflight by C-130 military aircraft occurs on a limited frequency (4-6 times/year) always in the same direction.  This may be irrelevant but I thought it appropriate to include it.  After about 30 seconds the light became brighter and less distant prompting me to go out onto the back step.  The following is a description of what I observed:  In the WSW sky elevated at approximately 15 degrees from horizontal a radiant slightly pulsating symmetrical source of extremely brilliant light was visible. White, blue, green and yellow were the most noticeable colors of light emitted. The light was being emitted in all directions (object or light source appeared to have 3-dimensons). The axis of symmetry for the object was elongated along the vertical axis and compressed along the horizontal.  The light source seemed to stay in one position for about 1.5 minutes then moved off at a moderate velocity until no longer visible 30 seconds later. The size of the object at the distance viewed was approximately that of a Quarter held at arms length. No sounds of any sort were produced. No extraneous sounds from other sources (people, machines or animals) were noticed. It was very quiet. Weather: Slightly cloudy (altocumulus clouds in western sky)unusually warm 60 Deg F no wind. Bottoms of clouds lighted slightly by city lights in distance. Observer Location: Latitude 35 18' 11" N Longitude 080 37' 20" W   My Background: I am a 39 year old white male married with one child. I am a practicing Licensed Geologist in the state of North Carolina. I studied Engineering and Earth Sciences at the University of North Carolina at Charlotte Graduated in 1989.  I frequently telescope, search for satellites and meteor showers but have no particular interest in UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41387.html](http://www.nuforc.org/webreports/reports/041/S41387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
