@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0:30 - 0:30 minutes.</sub><blockquote><sub>Red lights in a triangle form close to the ground.  No sound.  Disappeared.  Going approximently 90-110 MPH.We were coming home from an AHS basketball game.  We were turning to our road to our house.  We do live close to the Abilene Municipal airport.  But owning a Piper Cub, I knew this was no earth plane.  To quiet.  It speeds past without a sound and goes on past the car and the ligjts disappeared.  It has took me a while to talk about this.  But I finally did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129511.html](http://www.nuforc.org/webreports/reports/129/S129511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red light dropping balls of light.On Jan. 5,  2012, at around 10:30pm, I saw a red object in the horizon (S.E.).  It was the size of a star but I could tell it was  move toward me so I watch it and as it drew closer, it began to drop things that appeared to be burning.  The falling objects fell and then disappeared.  Then, the object itself disappeared.  I went in the house and told my kids what I had seen.  Then, I went back out to see if I could see it again.  I didn't see it, but I did see another one exactly like it coming from the same direction and following the same path.  So I went in and got my coat and told the kids, "Here comes another one"!  My daughter came out and watch it with me.  This one came much closer, almost directly over my house and was dropping balls of light 5 or 6 times. Then, suddenly, it seemed to separate into several small objects and disappeared.  I would say the siting last approximately 15 min.  I called 911 and the police came out and said someone else had also seen it.  I don't know what it was, but I know it wasn't a plane of helicopter.  It didn't blink or make any noise that I could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86327.html](http://www.nuforc.org/webreports/reports/086/S86327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
