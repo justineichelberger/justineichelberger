@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red light dropping balls of light.On Jan. 5,  2012, at around 10:30pm, I saw a red object in the horizon (S.E.).  It was the size of a star but I could tell it was  move toward me so I watch it and as it drew closer, it began to drop things that appeared to be burning.  The falling objects fell and then disappeared.  Then, the object itself disappeared.  I went in the house and told my kids what I had seen.  Then, I went back out to see if I could see it again.  I didn't see it, but I did see another one exactly like it coming from the same direction and following the same path.  So I went in and got my coat and told the kids, "Here comes another one"!  My daughter came out and watch it with me.  This one came much closer, almost directly over my house and was dropping balls of light 5 or 6 times. Then, suddenly, it seemed to separate into several small objects and disappeared.  I would say the siting last approximately 15 min.  I called 911 and the police came out and said someone else had also seen it.  I don't know what it was, but I know it wasn't a plane of helicopter.  It didn't blink or make any noise that I could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86327.html](http://www.nuforc.org/webreports/reports/086/S86327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Orangevale (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Pulsing, changing colors, but relatively stationary in the NE sky, at about 30 degrees from horizon.The object was inverted triangular in shape, but changed to a long [vertical] tail, almost like a comet would leave.  It changed colors from red to purple to blue and green.  It pulsed as it changed colors.  It was in the North East sky, at approx. 30 degrees from the horizon.  Our sky was overcast, and there was a very light rain.  Local TV stations have received numerous reports, but are unable [at this time] to advise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125112.html](http://www.nuforc.org/webreports/reports/125/S125112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
