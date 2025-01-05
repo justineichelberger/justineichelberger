@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Alamosa (CO) reported seeing craft that fit the description of some '' over a period of approximately Not sure - Not sure minutes.</sub><blockquote><sub>I was awoken at 4:44 am on 1/5/18, I sat up in bed and had an overwhelming sense of being watched, after investigating my apartment and finding no one I noticed I could not find my dog, I then went to my bathroom and sat down on the toilet.  Suddenly I was nude standing in what seemed to be a large cavern, in front of me was a 30 ft wide infinitely tall windowless doorless tower with a light emmting from behind the tower, the color of this light was of a hue I have never seen and therefore makes it very difficult to discribe.  I can remember the way the floor felt on my bare feet, it was cold and damp and gritty.  Then I was suddenly in my bed again and in my clothes, wide awake the entire time. My wife who was asleep noticed nothing until I woke her up by grabbing hold of her and pulling her close to me.  I have had bouts of nausea off and on since and images of extraterrestrials make me very uncomfortable now.  To the point of causing  chills and anxiety.  The whole experience seems to have lasted a little over an hour according to the clock when I got up after the entire thing it was 5:59am.  Although the whole thing only seemed to last 10 to 15 minutes total time remembered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138286.html](http://www.nuforc.org/webreports/reports/138/S138286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Round Lake (IL) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two solid lights appeared out of nowhere, and moved across the sky, maneuvering relative to one another.  It was as if they were "playing tag" with one another.  Dianne watched them out one window, and when they suddenly moved out of sight, she went to wake her husband, and she went to another window.  The lights then changed from red to green.  They were not blinking.  One of the two lights acted like "the leader," with the other following its moves.  They circled very fast, stopped.  The first one then suddenly disappeared.  Then the second one switched on a very bright white light on its ventral side, making the object appear oval in shape.  The second object disappeared approximately 15 seconds after the white light was turned on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01157.html](http://www.nuforc.org/webreports/reports/001/S01157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
