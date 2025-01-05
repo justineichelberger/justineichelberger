@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 4 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately seconds? - seconds? minutes.</sub><blockquote><sub>Took several photos with new camera (FujiFilm HS50EXR)at close to full zoom (approx 800mm) of rocky peaks about 1.4 km distant from my front porch.  Upon inspecting the photos, I found one to contain an unidentifiable object in the air above the ridge.The light was close to sunset, rendering the rock formations and the object reddish.  The ridge is sharp, the object is blurred, hence moving.  Being a pilot with more than the usual awareness of aircraft in the area, I was surprised at having neither seen nor heard an aircraft at the time I took the photos.  Other photos, taken seconds apart, but not of same location, show no such image.((NUFORC Note:  Source of report is experienced aviator.  However, we believe that the photo is of a bird in flight, and we suspect that it may have been a mourning dove.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106201.html](http://www.nuforc.org/webreports/reports/106/S106201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Somthing in the eastern sky off SW FLORIDA    And it is not the airforce.Toomany people to knowObject tonight was of green,red,white.Only tnite the lights gave it a star shape.Itwas moving very slowly to the north. tonight is not the first time that Ihave observed these strange unexplainable nor have Ibeen alone.My parents have both seen them.I am college educated and 38 and aformer pilot as my father.We are not crackpots and thought all who claimed these sortof things were.I am both somewhat shaken and excited. Something is up out there and I would advise people to start watching the eastern sky in SW Fl between 2am and 6am.I am not saying anything because I know what my thoughts always were. I still think there are many out there who just need to get a life yet something has been going on up there.  I have observed some objects back in November that I find somewhat upsetting as a sane rational human.      SOMETHING IS OUT THERE AND IT DOES NOT SEEM TO CARE THAT WE KNOW IT.   Please contact me with info</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15769.html](http://www.nuforc.org/webreports/reports/015/S15769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
