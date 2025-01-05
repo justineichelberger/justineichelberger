@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was walking and saw a white circle of light shoot across the sky in a south east direction.  The sky was partially clear and it was about 3-4 times larger that the stars behind it.The sky was partially clear and I could see the moon and stars.  I saw a large white circular object shoot across the sky in a south east direction. It lasted for only a few seconds.  I thought it might be an airplane but there were no other lights with it.  It looked much larger than any meteor showers I've seen before.  It was about 3-4 times larger than the stars in the background and much brighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07649.html](http://www.nuforc.org/webreports/reports/007/S07649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was sitting on my front porch, when I witnessed two objects flying from south to north at an apparent high rate of speed, at about 50-55 degrees in the western sky.  There was absolutely no sound and they appeared as perhaps the brightness of an average star with a fuzzy-red quality to them.  Earth-bound aircraft must have strobe lights.  These had none.  One sped into view going in a straight line and, within one second, another followed even faster, catching up to the first one.  They then diverged from one another, making several immediate and instantaneous sharp angle turns.  This is something our aircraft cannot even come close to achieving.  It was as if they were doing aerial maneuvers in a somewhat playful way.  At one point it appeared like they might run into each other.  I cannot tell how fast they were moving because I do not know how far away they were.  One is a function of the other.  My best educated guess would be they were one mile away which would put their speed at something like 600 mph.  I base this on seeing airplanes flying at a given pace at 30,000 feet knowing they are moving at 500-600 mph.  However, they could have been 20 miles away putting their speed 20 times faster, or 12000 mph. Both scenarios are equally plausible.  The whole viewing lasted maybe 5-10 seconds and it was frustrating that I couldn't see it over and over again in a rewind/play/rewind fashion.  It leaves more questions than answers....Could these have been drones?  That thought entered my head but I've seen drone flight aerodynamic characteristics on line and there is no way they come close to what I saw....I was just lucky enough to have been looking at the right section of the sky at precisely the right moment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125493.html](http://www.nuforc.org/webreports/reports/125/S125493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
