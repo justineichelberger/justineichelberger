@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:03 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Holland (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>shadowy light ending as sphereSaw a shadowy light in southeastern sky from welsh mt. area.  Moved very fast back and forth a couple times, I thought perhaps it was a spotlight, but there was no trail.  Appeared again several time going back and forth, in comparison to an airplane light in the sky it was much, much larger.  Informed my husband and it took about 5 minutes or so till he saw it, this time it traveled differently, beamed across the sky and left a sphere light before disappearing.  I still saw it several more times within that half hour or more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60692.html](http://www.nuforc.org/webreports/reports/060/S60692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Four orbs in the sky.I was out working looked up in the sky as normal.  I saw what I that was plane or something.  Then realized there was no blinking lights.  Also our planes come from the South or South West.  These were coming from the East mountains.  I then took out my cell phone and started recording.  My camera quality was poor so it did not capture what I was seeing.  The colors red, orange, and purple. The orbs started off low then went higher.  They all went south then out of camera view the shot up out of sight.  I uploaded the video to youtube.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132046.html](http://www.nuforc.org/webreports/reports/132/S132046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
