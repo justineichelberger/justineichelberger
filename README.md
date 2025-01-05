@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Somthing in the eastern sky off SW FLORIDA    And it is not the airforce.Toomany people to knowObject tonight was of green,red,white.Only tnite the lights gave it a star shape.Itwas moving very slowly to the north. tonight is not the first time that Ihave observed these strange unexplainable nor have Ibeen alone.My parents have both seen them.I am college educated and 38 and aformer pilot as my father.We are not crackpots and thought all who claimed these sortof things were.I am both somewhat shaken and excited. Something is up out there and I would advise people to start watching the eastern sky in SW Fl between 2am and 6am.I am not saying anything because I know what my thoughts always were. I still think there are many out there who just need to get a life yet something has been going on up there.  I have observed some objects back in November that I find somewhat upsetting as a sane rational human.      SOMETHING IS OUT THERE AND IT DOES NOT SEEM TO CARE THAT WE KNOW IT.   Please contact me with info</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15769.html](http://www.nuforc.org/webreports/reports/015/S15769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in  () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Dear Sir/Madam,    The Dutch agency of unidentified objects did not respond yet to my question. The Dutch weather agency did and they never encountered such a thing and to their knowledge nothing should of been in the air here. I browsed the internet and more of such reports where reported (I only checked Dutch sites so far)    The past days we (neighbours and friends at our party) saw a kind of fireballs/lightballs in the sky. About 100 metres in the air in a constant direction on a constant speed (approximately 30 miles/50 kilometres an hour). Sometimes they changed course and speed. It does this in a manner so it could not be an air-balloon, helicopter or an airplane.Basically it kind of looks like a huge firefly or a constant fire of an airballoon.We are down to earth people and the fact that we nor anyone who saw the objects could identity it makes it strange. This is not a hoax or thrillseeking kind of story.Basically, could you please tell us what it could of been? We're guessing some kind of natural/geographical/etc. thing but seeing as how many reports I encounter about this, it is getting eery.Thank you in advance for your answer!    Kind regards,    F V  (from The Netherlands)    PS I sent this e-mail to various agencies and such in hopes of getting a well informed answer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60686.html](http://www.nuforc.org/webreports/reports/060/S60686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
