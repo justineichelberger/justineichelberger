@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Highland (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large glowing burning object which floated slowly at first in the upper atmosphere then glided to earth still on fire.We saw a large burning object on fire.  It burned bright orange floating slowly in the upper atmosphere, it was centered to the left of the moon.  As it came down it started to disintegrate, like a piece of paper on fire.  There was smoke and fire as it disintegrated.  As it came to earth I could see black smoke coming from the object and fire as well.  It didn't move fast, like a meter.  Saw no other reports on this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116534.html](http://www.nuforc.org/webreports/reports/116/S116534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Heard an aircraft heading northbound, but, noticed it was moving slow and low over the houses and did not sound like a helicopter or any kind of aircraft I've heard in my lifetime.  It almost sounded like a loud, huge fan.  It's rare to hear aircraft passing over this area.  I went to the window and noticed it had finally made its way over the house and it was flying too low.  It was a bright white, upright rectangular shape in the middle and two red lights on the side.  It was loud enough to drown out the sounds of a passing train, which is usually loud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106036.html](http://www.nuforc.org/webreports/reports/106/S106036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
