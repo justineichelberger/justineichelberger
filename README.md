@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orange sphere traveling east to west.  No sound.  We are located 26 miles north of Buckeye Az.  Object was about the size of a marble at arm's length.  Seeing friends off standing in the driveway facing north.I've seen a lot of meteors and they always have a tail/stream.  This was just orange fast moving object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152400.html](http://www.nuforc.org/webreports/reports/152/S152400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake Wylie (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>15-20 bright, red-orange lights moving from horizon to horizon over an 8 minute period.Tonight (05 January 2016), I observed 15 to 20 bright red-orange objects, transiting the night sky over Lake Wylie, SC.  They moved from horizon to horizon in a NNE to SSW direction, over a 5 to 8 minute period.  They appeared as bright red-orange dots, with irregular spacing along the line of flight, but all seemed be headed in the same direction, and at similar speeds.  No sound was detectable.I have never seen anything like this, but the closest thing would be red distress flares--but they don't transit horizon to horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125117.html](http://www.nuforc.org/webreports/reports/125/S125117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
