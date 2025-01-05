@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:33 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Navarre Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One passing bright light does a sharp 90 degree turn as another very bright pulsating  red,white and blue light sits stationary.My girlfriend and I were taking a drive down Navarre Beach heading west toward Gulf Breeze.We commented that the sky was very clear and noticed that there was very little ambient city light to prevent star gazing, so we decided to pull over and take a walk on the beach.I was telling her you can see satelites in orbit on nights like this and she said she had never seen one.Several seconds later she spots what looks like one coming from the west.We watched it come toward us for several minutes at a slow even pace.As it got directly over head it did a quick 90 degree turn to the north.She asked if that was normal and I said I said no.A few minutes later we were walking back to the car and we bumped into a man and his son looking up at the sky.They were watching a stationary pulsating light to the east.This thing was much brighter than a star or a planet and we watched it for about several minutes or so before deciding to grab a cup of coffee across the street at the local Tom Thumb.They were standing outside talking to a clerk about the lights as she explained she saw a flying black triangle with bright lights in the same area at 4:00 a.m. a couple a years previous.This is south of Hurlbert Air Force base(special operations)who knows what is going on out here.My guess is you won't here about it on Fox news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26950.html](http://www.nuforc.org/webreports/reports/026/S26950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was walking and saw a white circle of light shoot across the sky in a south east direction.  The sky was partially clear and it was about 3-4 times larger that the stars behind it.The sky was partially clear and I could see the moon and stars.  I saw a large white circular object shoot across the sky in a south east direction. It lasted for only a few seconds.  I thought it might be an airplane but there were no other lights with it.  It looked much larger than any meteor showers I've seen before.  It was about 3-4 times larger than the stars in the background and much brighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07649.html](http://www.nuforc.org/webreports/reports/007/S07649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
