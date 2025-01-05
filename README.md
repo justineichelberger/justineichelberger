@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Round Lake (IL) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two solid lights appeared out of nowhere, and moved across the sky, maneuvering relative to one another.  It was as if they were "playing tag" with one another.  Dianne watched them out one window, and when they suddenly moved out of sight, she went to wake her husband, and she went to another window.  The lights then changed from red to green.  They were not blinking.  One of the two lights acted like "the leader," with the other following its moves.  They circled very fast, stopped.  The first one then suddenly disappeared.  Then the second one switched on a very bright white light on its ventral side, making the object appear oval in shape.  The second object disappeared approximately 15 seconds after the white light was turned on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01157.html](http://www.nuforc.org/webreports/reports/001/S01157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was walking and saw a white circle of light shoot across the sky in a south east direction.  The sky was partially clear and it was about 3-4 times larger that the stars behind it.The sky was partially clear and I could see the moon and stars.  I saw a large white circular object shoot across the sky in a south east direction. It lasted for only a few seconds.  I thought it might be an airplane but there were no other lights with it.  It looked much larger than any meteor showers I've seen before.  It was about 3-4 times larger than the stars in the background and much brighter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07649.html](http://www.nuforc.org/webreports/reports/007/S07649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
