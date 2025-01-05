@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>While looking out of the window I noticed a very bright silver/white "round" light about the size of a pea at arm's lengthIt was around 3:45 AM Sunday morning when I first awoke.  Couldn't get back to sleep so got up and went to the kitchen and poured a glass of milk.  While looking aimlessly out of the kitchen window I noticed a very bright silver/white "round" light about the size of a pea at arm's length moving across my field of view (North) and traveling West.  As I watched, it paused for maybe 3 seconds, (thus eliminating the possibility of any aircraft) and then continued on its path.  I did not see where it went because trees hampered my view.  It appeared to be about 25 degrees above the horizon and checking Google Maps, maybe 400 feet from my home.  This is a semi rural area and the closest airport is Columbia Regional about 6 miles southeast.  Regional is closed at night.((ADDENDUM FROM WITNESS))It was mine.  I have to tell you that it put me on edge...it was too close.  I couldn't sleep for the rest of the night...last night want great either.  LOL!((END ADDENDUM))((NUFORC Note:  We express our appreciation to Mrs. Barb Becker, Director of the Missouri Investigators Group, for sharing the information about her personal sighting.  Website address is <http://ufomig.yolasite.com/>, and an e-mail address is <ufomig@yahoo.com>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106263.html](http://www.nuforc.org/webreports/reports/106/S106263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orange sphere traveling east to west.  No sound.  We are located 26 miles north of Buckeye Az.  Object was about the size of a marble at arm's length.  Seeing friends off standing in the driveway facing north.I've seen a lot of meteors and they always have a tail/stream.  This was just orange fast moving object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152400.html](http://www.nuforc.org/webreports/reports/152/S152400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
