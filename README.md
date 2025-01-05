@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Munising (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately thirty min - thirty min minutes.</sub><blockquote><sub>triangular UFO seen in munising, miit was triangular shaped object that was a darkish metalic color  it was moveing extremely fast then stopped and was hovering in mid air it started spinning , bright lights began to shine and there was a slight whirl wind spinning sound , then it was gone. it happened near the top of st martins hill. all of the witnesses including my self are perfectly sane. i work a nursing home, and my two friends work at timber products.((NUFORC Note:  We are uncertain as to whether the witness means 10:00 a.m., or p.m..  We will attempt to clarify that issue.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15767.html](http://www.nuforc.org/webreports/reports/015/S15767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We were walking home from blockbuster when we heard a huge roar over our heads.  We looked up and saw a chevron shaped object zip over our heads.  We faintly got a picture of the object with my camera phone (a RAZR to be exact).  But when we looked at it, it was all blotchy with white spots.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54704.html](http://www.nuforc.org/webreports/reports/054/S54704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
