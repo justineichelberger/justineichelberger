@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Austell (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>bright blue or white fireball flying at a high rate of speed. me and my boyfriend were heading to work when we saw the object in the sky. this happend on floyd rd in austell ga.bright ball in the sky that lit up the ground as it flew over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11692.html](http://www.nuforc.org/webreports/reports/011/S11692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Edgewood (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We do not know whether the witness means 06JA01, or the morning of 07JA01.  We will attempt to clarify the precise date and time.  PD))two orangeish red orbs floating slowly westI was watching tv and my brother came running in and told me to go out side,so i did and i saw two round orangeish red lights going west slowly.so he ran in got the camera and we got a 60 second shot of them.we went in his car and he called his friend he went outside and saw them too after a couple minutes they disapeard in the sky.It was a clear night with no clouds in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16070.html](http://www.nuforc.org/webreports/reports/016/S16070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
