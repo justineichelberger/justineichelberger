@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>It red or orange in color was dropping debris that looked like it was in fire.  (There was no tail.)  The debris fell straight down. It flew east to west in a straight line.  It looked as if it was orbiting not losing altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116546.html](http://www.nuforc.org/webreports/reports/116/S116546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madison Heights (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>all are welcomei often witness these sighs from my yard at night .i have known of these for a long time, stars are not always stars or planets as we belived. these  so called lights take formation as stars but they are not they move and communicate with some form of lights blinking and changing in color on occations    i know they are not here to do harm and i know that they are friendly. i have no fear . i have seen 6 to 10 of them in one night at times.  also not all crafts you think are planes are not.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67970.html](http://www.nuforc.org/webreports/reports/067/S67970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
