@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hartford (SD) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>orange glowing planet sized object on horizonJust west of Humboldt, SD as I was heading west from Hartford I saw a huge, bright, orange ball as big as the sun as it is setting for the evening, but this is at 10 minutes to midnight!!! Instead of getting out I decided to continue west to get to a higher point where I could take a picture and continued to watch it move from north to south along the horizon. By the time I reached the high point in the road it was gone, COMPLETELY!! Entire event lasted less than 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106086.html](http://www.nuforc.org/webreports/reports/106/S106086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Work in the Irving area, 4th floor, right at dawn, was watching the sun rise and formation of 3 to 4 craft we’re moving fast and low towards DFW airport.  Once they were out of sight, they briefly re-appeared performing large circles flying very fast.  Went for camera but they did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152390.html](http://www.nuforc.org/webreports/reports/152/S152390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
