@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homer (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floating pretzel shaped object over town, scanning laser8 year old daughter spotted a light in the sky while waiting for school bus and alerted me. We observed a faintly illuminated object of undeterminable size, floating or hovering overhead and slightly to the south.  We both agreed it was ‘pretzel’ shaped with a single amber light at or near the bottom center.  A green laser beam was seen scanning through trees and over buildings in the nearby vicinity.  Center of laser arc was definitely the floating object and nothing ground based.  No sound was detected from the object.  Object disappeared while I went to find more witnesses and the school bus approached.  Skies were clear, winds calm, suburban area at beginning of morning rush hour.  Stars visible, full moon had just set.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116530.html](http://www.nuforc.org/webreports/reports/116/S116530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>UFO / MISSLE SHAPEDWas walking dogs with my brothers wife, from over past the orange Grove hills a giant firey light came from the ground up into the sky which looked like a giant missle at first, we were freaking out thinking Iran launched an attack or something, the lights looked like it got bigger and coming like almost closer towards us and we got scared!  After that giant firey glow it looked like it was on fire like when an aircraft is entering the atmosphere, then after that firey glow was gone!! I panic to go get my Nikon P900 camera,  I don't have a tripod for it yet but I wanted to see what it was, when I came back outside my brothers wife said it disappeared, we talked and about 30seconds later, it like turned the cloak mode off and it was visible again.  I quickly tried to zoom in on it and I seen lights flashing 3-4 times and then it cloaked it self again totally!!  I wasn't zoomed in all the way and the craft looked flat in diameter, maybe could have been 50-75 feet long I'm not sure but it was distinguishable on the camera screen for those few seconds!!  I was freaking out and scared, I've seen many sightings but this was one was extremely different and scary I hope anyone else in Florida Polk County may have seen this and can relate to what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152364.html](http://www.nuforc.org/webreports/reports/152/S152364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
