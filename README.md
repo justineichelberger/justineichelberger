@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madison Heights (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>all are welcomei often witness these sighs from my yard at night .i have known of these for a long time, stars are not always stars or planets as we belived. these  so called lights take formation as stars but they are not they move and communicate with some form of lights blinking and changing in color on occations    i know they are not here to do harm and i know that they are friendly. i have no fear . i have seen 6 to 10 of them in one night at times.  also not all crafts you think are planes are not.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67970.html](http://www.nuforc.org/webreports/reports/067/S67970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homer (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>floating pretzel shaped object over town, scanning laser8 year old daughter spotted a light in the sky while waiting for school bus and alerted me. We observed a faintly illuminated object of undeterminable size, floating or hovering overhead and slightly to the south.  We both agreed it was ‘pretzel’ shaped with a single amber light at or near the bottom center.  A green laser beam was seen scanning through trees and over buildings in the nearby vicinity.  Center of laser arc was definitely the floating object and nothing ground based.  No sound was detected from the object.  Object disappeared while I went to find more witnesses and the school bus approached.  Skies were clear, winds calm, suburban area at beginning of morning rush hour.  Stars visible, full moon had just set.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116530.html](http://www.nuforc.org/webreports/reports/116/S116530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
