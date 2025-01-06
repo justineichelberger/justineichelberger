@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:27 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Warrenton (NC) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright lights and craft within a week.I drive through Warrenton NC for work.  On the 3rd and 4th I observered a large, stationary light hovering near the town.  It did not move and being a small town, there is no real reason for a helicopter to hover.  I had to make a stop and the object was gone on the Monday. That day it was stationary for at least twenty minutes.  It was very bright and not a star. It was not unlike other lights I have seen before that would dim and brighten and change colors.  This one only changed color slightly and it was not dramatic.  I had to make a quick stop and it was gone.  The next day I saw it but could not look at it for long due to trees and topography.The 6th I was driving through and glanced at the sky to look for it and did not see anything. Minutes later about twenty feet over the treeline and right over the road (and me), a chevron shaped craft flew over and continued over a field.  It did not make any noise. It had a small red light and a small white light on its right side.  That's it. I watched it go over the field. I was driving and it was so fast I did not get a picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79567.html](http://www.nuforc.org/webreports/reports/079/S79567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loudon (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very large, quiet, object with lights changing pattern was low to the ground went towards Knoxville, TN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132065.html](http://www.nuforc.org/webreports/reports/132/S132065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
