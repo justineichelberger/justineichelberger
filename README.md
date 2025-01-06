@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:22 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circle ufo with 4 bright white lights hovering over Albuquerque home while driving to workI was driving back from my house to work on my lunch break going towards Zuni and I noticed 4 Brighton lights ahead in a circle, At first I thought it was a airplane or aircraft but I knew it wasn’t when I got closer because It was just hovering overhead it did not move and it was just above a House The lights were brighter than anything I have ever witnessed in my life and I have always Believed in aliens but now I am a true believer I know what I saw and it definitely wasn’t an aircraft I was at a stoplight and I should’ve took a picture instead of called my wife I circled back down and it was gone Craziest thing I’ve ever seen because It was extremely low and hovering over a house</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152385.html](http://www.nuforc.org/webreports/reports/152/S152385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hereford Township (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>There is 2 lights hovering just about the tree line.  Upon flashing a spot light in the light balls directions, they seemed to approach slowly.  Coincidently, there are horses next to my property and they seem to be quite distressed.  The lights seem to be 1 to 2 miles away.  The light began as white, but have gradually began to blink blue and green.  Upon observation threw a pair of binoculars, the lights seem to be moving at a very fast rate of speed, but then hovering in place for some times.  My lights to my home flickered and then my flashlight would not turn on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125126.html](http://www.nuforc.org/webreports/reports/125/S125126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
