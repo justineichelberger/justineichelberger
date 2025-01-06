@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:50 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:55 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Edgewood (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We do not know whether the witness means 06JA01, or the morning of 07JA01.  We will attempt to clarify the precise date and time.  PD))two orangeish red orbs floating slowly westI was watching tv and my brother came running in and told me to go out side,so i did and i saw two round orangeish red lights going west slowly.so he ran in got the camera and we got a 60 second shot of them.we went in his car and he called his friend he went outside and saw them too after a couple minutes they disapeard in the sky.It was a clear night with no clouds in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16070.html](http://www.nuforc.org/webreports/reports/016/S16070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kalama (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extremely bright hovering light over I-5.Driving southbound on I-5, leaving Longview me and wife saw a extremely bright light hovering in a low position over the freeway we took the next exit to get a another look it was gone this was not a plane or helicopter it was a extremely intense ball of light hovering in one spot when we turned around there was nothing it was gone and it only took me 1 min to get to exit 32 where I could turn around.((NUFORC Note:  We have corrected the time and date above, to reflect a sighting at 1905 hrs. on January 06th, 2017, not 2016.  Source assures us that he is familiar with most celestial bodies…stars and planets…and that the object he saw was not either one.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132062.html](http://www.nuforc.org/webreports/reports/132/S132062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
