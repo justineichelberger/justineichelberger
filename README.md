@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denton (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Circular orange light fell from sky then disappeared.A friend and I were driving to get ice cream on highway 380, we had just passed TWU and were headed to Sonic right before you get to Loop 288.  We saw a light that looked orange and was circular shape make an arch as it flew slowly across the sky.  As it descended it looked like it was falling then abruptly it disappeared. It was strange and was definitely not a shooting star or a meteor because there was no tail.  After we got our ice cream we noticed five helicopters in the Denton area from various points across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95855.html](http://www.nuforc.org/webreports/reports/095/S95855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morgan Hill (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>1/6/14, 22:00, Morgan Hill, CA, sky lit up in a huge brilliant green light from the ground up, behind possibly several miles of hills.On 101 Freeway heading North from Morgan Hill towards Gilroy, just before getting to Cochran Road, behind the hills the sky lit up in a huge brilliant green light from the ground up.  It had to have covered several miles as the light flashed from behind several of the hills.  It happened twice within 10 seconds of each time the flash of light happened.  I wish I had been able to take a video of it with my cell phone but did not catch it in time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106143.html](http://www.nuforc.org/webreports/reports/106/S106143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
