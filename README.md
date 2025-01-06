@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hereford Township (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>There is 2 lights hovering just about the tree line.  Upon flashing a spot light in the light balls directions, they seemed to approach slowly.  Coincidently, there are horses next to my property and they seem to be quite distressed.  The lights seem to be 1 to 2 miles away.  The light began as white, but have gradually began to blink blue and green.  Upon observation threw a pair of binoculars, the lights seem to be moving at a very fast rate of speed, but then hovering in place for some times.  My lights to my home flickered and then my flashlight would not turn on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125126.html](http://www.nuforc.org/webreports/reports/125/S125126.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Cayman Island () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object came across 7 mile beach from ocean.  Stopped, then took off into space at high rate of speed.  Event reocurred a few mins later in same place and order.  Object appeared to be butterfly shape incased in orange orb and pulseating.  This report is from 2 Airline pilots with over 50 years of flying .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103488.html](http://www.nuforc.org/webreports/reports/103/S103488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
