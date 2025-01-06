@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed a formation heading south on 95 very bright light in sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152330.html](http://www.nuforc.org/webreports/reports/152/S152330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yellanhalli-643243 (India) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>star liked object moved quick ascending constantly n then vanished all of a sudden .i sighted a ufo in yellenally-643243 nilgiris district,tamil nadu , India today(06/1/2012) at around 7:30 pm...i got out to get some fresh air and happened to  look up at the sky at a clear sky n was looking at the orion's belt. i happened to see a bright light  and thought it must b a star...after a few minutes, i happened to see it move..it was moving on the south- east direction.it was moving quick . i had a second thought that it must b an aircraft.but i dd not see any strobe lights out of it...but just a plain bright white light.it had no possibilities of being a comet because there was no tail from the object.A satellite??...i dont know about that.all i know is that it had the freakiest motion i have ever seen.i flew really quick .In 5 minutes time, the light dissappeared gradually into the clear sky (not the horizon) at the point where i was looking at the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86399.html](http://www.nuforc.org/webreports/reports/086/S86399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
