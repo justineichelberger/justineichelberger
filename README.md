@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Cayman Island () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object came across 7 mile beach from ocean.  Stopped, then took off into space at high rate of speed.  Event reocurred a few mins later in same place and order.  Object appeared to be butterfly shape incased in orange orb and pulseating.  This report is from 2 Airline pilots with over 50 years of flying .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103488.html](http://www.nuforc.org/webreports/reports/103/S103488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Payette (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Third consecutive night of sighting.  Very active tonight.Third consecutive night of sighting, in addition to this morning at 0715.  Very active this evening.  Very pronounced zigzag motions, though not extremely abrupt. Object was higher in sky this evening at first sighting, ~35 deg inclination, and a bit further west of Northwest. Over the course of an hour, object dropped slightly, and moved somewhat north.  Again, lights are strobing between red, green, and white. Called Payette County Sherrif's Office, but no corroborating reports at this time.((NUFORC Note:  We observe that the motion described by the witness is consistent with how a star or planet would be seen to move in the northwestern sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15802.html](http://www.nuforc.org/webreports/reports/015/S15802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
