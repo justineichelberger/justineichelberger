@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 5 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fountain Valley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>cluster of glowing ufos in formation over Fountain valley at 5:45 PM Jan 5 2013I and my wife took pictures and video from our cell phones they appeared over the schools first credit union in fountain valley calif near brookhurst ave and ellis looks like they were coming from the direction of the ocean near huntington beach calif they were circular and looked almost like they were on fire but they were not they were glowing with a redish orange glow with a yellow center and floating upward, at first I wondered if we were witnessing a missle launch but their were no trails behind them and they were quite , moving on what appeared the same general direction.  Their were many of them probably over sixty in all , they came up in waves of about twenty at a time they continued upward and then changed to complete red when they were high up and then they took off real fast upward and vanished   I will send you what i was able to capture on my cell phones</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95832.html](http://www.nuforc.org/webreports/reports/095/S95832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Austell (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>bright blue or white fireball flying at a high rate of speed. me and my boyfriend were heading to work when we saw the object in the sky. this happend on floyd rd in austell ga.bright ball in the sky that lit up the ground as it flew over.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11692.html](http://www.nuforc.org/webreports/reports/011/S11692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
