@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:27 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Loudon (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very large, quiet, object with lights changing pattern was low to the ground went towards Knoxville, TN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132065.html](http://www.nuforc.org/webreports/reports/132/S132065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright glowing object left tracer mark as it sped offI was a taxi driver back in 1996, and i had just dropped passengers off it was very quiet no one on the road i was proceeding down the dual carriage way back to taxi base.I was smoking a cigarette at the time,and it was when i went to flick the ash out the window that something caught my eye above the airfield.It was a bright light shaped like a upside down diamond glowing like a larva lamp between purple and white, I thought i might be seeing things so i wound down my window to be sure it wasn't a reflection on the glass, I observed it for about 30 seconds then it took of at very high speed in the direction over Bulwell Nottingham it left a red/orange tracer mark as it sped off.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73852.html](http://www.nuforc.org/webreports/reports/073/S73852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
