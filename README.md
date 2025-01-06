@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westminster (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Five square lights in a V formation hovering above the cloudsOn 1/6/2020 I was at the Quality Inn and Suites in Westminster, Co and took several pictures of the sunset. Upon reviewing the photos there appear to be five square shaped white lights in a V formation hovering above the cloud line.  There is an obvious contrail through the clouds beneath.  In the photos taken directly after, within the same minute, the lights are no longer there. I am a local business owner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152836.html](http://www.nuforc.org/webreports/reports/152/S152836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Witnessed a formation heading south on 95 very bright light in sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152330.html](http://www.nuforc.org/webreports/reports/152/S152330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
