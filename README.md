@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morgan Hill (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>1/6/14, 22:00, Morgan Hill, CA, sky lit up in a huge brilliant green light from the ground up, behind possibly several miles of hills.On 101 Freeway heading North from Morgan Hill towards Gilroy, just before getting to Cochran Road, behind the hills the sky lit up in a huge brilliant green light from the ground up.  It had to have covered several miles as the light flashed from behind several of the hills.  It happened twice within 10 seconds of each time the flash of light happened.  I wish I had been able to take a video of it with my cell phone but did not catch it in time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106143.html](http://www.nuforc.org/webreports/reports/106/S106143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mumbai (India) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Kite shaped probe in the sky over Bombay, IndiaThere was a kite shaped object (slightly curved around edges) in the sky a few years ago. I do not remember the exact dates but it remained in the sky for about 3 to 4 days. The reason I am filling this in right now is because when this happened over 4 years ago when I was around 19, it did not seem as serious to me as it does right now. I was just watching a show on YouTube about alien sightings a couple of minutes ago. At one point they spoke of a probe that hovers silently in the sky and that virtually every country has reported such sightings. This is where it struck me that I have seen this myself and did not realise it well enough that I did.At first I thought it to be a kite. But it just stood there at one point in the sky for days and no stings appeared to connect it. This was very unusual for everyone I showed it to, but no one really gave it much importance. I observed it for all the days it remained in the sky and did not notice much change in the position of the object. I have filmed this object on my camcorder and am therefore reporting this. I would like to submit this video to the appropriate authority. However, I haven't seen this video since the incident took place. Just reviewed it a couple of times immediately after shooting it. The video is back home somewhere in the video collection of our family videos. I am currently studying away from home and dont have immediate access to the video, but i'm sure if the situation is serious enough, I can sit through all the tapes and find the one that has the footage.The video camera is a sony camcorder and had some 350x zoom or something and I tried zooming in as much as possible till it started getting very blurry and my hands were too shaky to remain steady at such strong zoom levels. It was during the day and the total video length must have been atleast a couple of minutes at all levels of zooming. It is a clear video as per whatever a normal camcorder at the time could handle. The day was clear as well so no cloudy distortions.Anyway, I don't know what to do beyond this reporting, so if important please let me know.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58440.html](http://www.nuforc.org/webreports/reports/058/S58440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
