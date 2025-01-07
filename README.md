@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Malmstrom AFB (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls Malmstrom AFB second time, possibly regarding second sighting.  She had called the night before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00249.html](http://www.nuforc.org/webreports/reports/000/S00249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO was SPYING on me form my backyard!!I was taking my dog outside when I noticed an odd white light coming from the north.  I shrugged it off as a plane since I live near an airport which made sense.  As I'm checking my dog I see the light again.  Since I also live near a major roadway I thought I was a car. So I dismissed it for a second time.  I continue to check my dog, making sure he's doing his thing. I see the light out of the corner of my eye, then it just straight up disappears! I look around for a few seconds and its gone.  I was about to go back inside my house but I see it once more.  It noticed that I noticed it. It flew away back to the north disappearing and reappearing 4 or 5 times off into the distance.  The craft obviously had some sort of advanced stealth technology.After more than a month of thinking about the situation that had happened that night I found out the craft was actually SPYING on me! I've been abducted 3 times.  So I wouldn't be surprised if this was actually another operation to capture me or they were just gathering surveillance. So far I've seen 6 or more craft in this region which is kind of odd for the area. But the city also has an Army National Guard base. This might explain all the activity but im not sure if that's the case. If I see any more odd craft in the area or at all I will report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153273.html](http://www.nuforc.org/webreports/reports/153/S153273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
