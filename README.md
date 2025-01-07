@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:52:00 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:27:02 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edgewater (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>red moving circle and glowing circle that followed me.one of them was glowing white.the other was red and going fast but neigther was blinking.the first one followed me and the other cause a very small puple light that reflected off the window.2 space caft were observed.both of them were circular and one was whiteish and glowing and the other was red.the backround of the first was the sun setting and it was huvering around my friends house.the other was in the night time sky with a house below it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54577.html](http://www.nuforc.org/webreports/reports/054/S54577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SAN ANTONIO (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>10-15 White, blue lights in linear formation traveling in San Antonio sky this morning.My husband was outside of our garage, I was about to step out into the garage. He told me to hurry up and look while pointing at the sky. It was early, the sky was still black, and clear except a few translucent, small clouds,and in that immediate area, not too many faint stars. There was a linear formation, perfectly straight,perfectly spaced, white blue lights traveling, maybe 10 to 15 lights in a row. They were not blinking at all. As I tried to record it with my phone, it started to go behind a small,transparent cloud. We thought I would be able to record it as soon as the front part, or leading lights passed to the other side, but it never did. It just seemed to disappear.  I don't know if it was our eyes, but we thought we could still see it, no longer moving, but extremely dimmed, in the cloud.... didn't see it again.This is the third time I have seen strange lights, but the first time in a linear formation...and all three times, I feel, "IT" seems to sense it is being noticed,  so it disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152375.html](http://www.nuforc.org/webreports/reports/152/S152375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
