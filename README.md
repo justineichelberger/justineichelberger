@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:01:09 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in West Hartford (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Trangular Craft SeenI was driving south on Trout Brook Drive in West Hartford CT around 10 PM on 1/7/2004 and I saw two very bright lights in the sky, hovering and moving slowly about 300 feet above the ground.  As an avid sky watcher, I am familiar with all of the planets and constellations and I know I did not mistake these objects for "Venus" or anything.  The moon was full, high in the sky and the sky was crystal clear.  I thought at first that they might be helicopters, but they were moving in a way that I have never seen a helicopter move...hovering slowly in a sort of circular motion  One of the objects started moving away and I lost sight of it, so I focused on the other.  I had to turn my car around and follow it and it turned from one bright object into a triangular shaped form with three white lights on each corner of the triangle and a few blinking red lights on it.  I pulled my car over to the side of the road, as did a bunch of other people to try to get a better look.  I rolled my window down to see if I could hear anything, but it was completely silent.  If it was a plane or helicopter, it was close enough where I would have definitely heard something.  At this point it was much lower, probably 75-100 feet off the ground.  It hovered and moved slowly and I continued to watch it for another couple minutes until it disappeared behind the tree line and I lost sight of it.  Because of the lighting on the ground, I had a bit of a difficult time trying to decipher the dimensions, but I would have to guess that it was about 20 to 25 feet in length and about 10 feet in height.  It looked like it was black, but being dark, I'm not completely sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34372.html](http://www.nuforc.org/webreports/reports/034/S34372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright round white-ish object north of allentown PADriving north on 476, daylight, 4:30pm, my friend sitting next to me in the car tells me to "look at that". At first glance I thought it could have been a meteor, but as I watched it, it did not move. The object was round, light yellow to white, it seemed to be at the height of a cruising altitude jet, but much larger than a jet (at that altitude a jet would look like a sewing needle with tiny flashing lights) this object seemed to be the size of a half dollar in comparison. The object was completely still for 20-30 seconds and then vanished (there were no clouds around the object when it did so). The object then reapeared about 40 seconds later, much further north, apearing smaller (dime size), was stationary ruoghly the same amount of time, then disapeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54618.html](http://www.nuforc.org/webreports/reports/054/S54618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
