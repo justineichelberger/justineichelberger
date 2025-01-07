@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright round white-ish object north of allentown PADriving north on 476, daylight, 4:30pm, my friend sitting next to me in the car tells me to "look at that". At first glance I thought it could have been a meteor, but as I watched it, it did not move. The object was round, light yellow to white, it seemed to be at the height of a cruising altitude jet, but much larger than a jet (at that altitude a jet would look like a sewing needle with tiny flashing lights) this object seemed to be the size of a half dollar in comparison. The object was completely still for 20-30 seconds and then vanished (there were no clouds around the object when it did so). The object then reapeared about 40 seconds later, much further north, apearing smaller (dime size), was stationary ruoghly the same amount of time, then disapeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54618.html](http://www.nuforc.org/webreports/reports/054/S54618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hephzibah (GA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mother and daughter witness six "yellow-white" lights descending in western sky.The mother called NUFORC to report the sighting.  She and her daughter had just witnessed six yellow, or white, lights, in 3 sets of two lights each, in a V-formation, descending vertically in the western sky. They said they would telephone the local military base, which also was located to the west of their location at the time of the sighting, to see if any pyrotechnic device had been launched there at the time of the sighting. NUFORC is awaiting a report from the witnesses, at the time of this writing.   PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27010.html](http://www.nuforc.org/webreports/reports/027/S27010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
