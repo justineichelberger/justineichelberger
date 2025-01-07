@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:23 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:52:00 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fair Oaks Ranch (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to San Antonio from Boerne in the dark early this morning, my wife and I both saw a &quot;hair-pin of bright lights&quot; -- peDriving to San Antonio from Boerne in the dark early this morning, my wife and I both saw a "hair-pin of bright lights" -- perhaps 25 or 30 white lights lined up perfectly.  My wife said, "It's like a diamond hair pin."  I looked up and thought it not any aircraft I could imagine (e.g. a massive military plane perhaps).  Does a B-52 have that many lights on its wings?  Maybe so.  It appeared to sit in one place in the sky for a short while, and the clear brightness of this row of lights reminded me of the comet Hale Bopp, which looked absolutely stationary in the night sky but was of course moving through space at an incredible speed.  That's how I "took" the sight once I knew it was no ordinary airplane.  In a way, it was quite beautiful and bright.  That's what it reminded me of but it was like a string of vanity lights -- straight as an arrow.  I first told me wife, "Maybe a meteor shower," which it might have been:! But the line of lights turned into a more vertical position to the ground, then instantly the lights got smaller (still lined up stiff as a pin), as if going away and great distance suddenly crossed; then it was gone.  It was very strange and "other-worldly."  Couldn't believe our eyes.  What was it?  I don't report things like this.  This was the strangest and most interesting phenomenon I've ever seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152417.html](http://www.nuforc.org/webreports/reports/152/S152417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edgewater (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>red moving circle and glowing circle that followed me.one of them was glowing white.the other was red and going fast but neigther was blinking.the first one followed me and the other cause a very small puple light that reflected off the window.2 space caft were observed.both of them were circular and one was whiteish and glowing and the other was red.the backround of the first was the sun setting and it was huvering around my friends house.the other was in the night time sky with a house below it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54577.html](http://www.nuforc.org/webreports/reports/054/S54577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
