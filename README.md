@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:23 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewiston (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>32 Satellites?Last night in northern Michigan it was a clear sky and I happened to look up at the moon, that’s when I noticed an extremely bright white light flashing with no sound, slowly moving across the sky to the northeast.  As I continued to watch the light, I noticed what appeared to be a satellite heading southeast.  Directly behind the first object, in single file, precisely spaced, followed a total of 32 objects.  Again, there was no sound, I assumed they were satellites.  Concerning, yet interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152411.html](http://www.nuforc.org/webreports/reports/152/S152411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fair Oaks Ranch (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to San Antonio from Boerne in the dark early this morning, my wife and I both saw a &quot;hair-pin of bright lights&quot; -- peDriving to San Antonio from Boerne in the dark early this morning, my wife and I both saw a "hair-pin of bright lights" -- perhaps 25 or 30 white lights lined up perfectly.  My wife said, "It's like a diamond hair pin."  I looked up and thought it not any aircraft I could imagine (e.g. a massive military plane perhaps).  Does a B-52 have that many lights on its wings?  Maybe so.  It appeared to sit in one place in the sky for a short while, and the clear brightness of this row of lights reminded me of the comet Hale Bopp, which looked absolutely stationary in the night sky but was of course moving through space at an incredible speed.  That's how I "took" the sight once I knew it was no ordinary airplane.  In a way, it was quite beautiful and bright.  That's what it reminded me of but it was like a string of vanity lights -- straight as an arrow.  I first told me wife, "Maybe a meteor shower," which it might have been:! But the line of lights turned into a more vertical position to the ground, then instantly the lights got smaller (still lined up stiff as a pin), as if going away and great distance suddenly crossed; then it was gone.  It was very strange and "other-worldly."  Couldn't believe our eyes.  What was it?  I don't report things like this.  This was the strangest and most interesting phenomenon I've ever seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152417.html](http://www.nuforc.org/webreports/reports/152/S152417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
