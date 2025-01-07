@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fairfield (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>bright circualr object appeared to rotate horizontallytime of sighting is an estimate. I saw a roundish object in the sky as I was entering a grocery store on Black Rock Turnpike. I stopped breifly to look at it longer. It looked as if it was rotating. it was either bright white or of reflective material. I would also estimate it's size to be about the same as a small plane. OTHER INFO: I'm pretty sure that this was the same object I had seen in this sky before. I was eating at a fast food place on the same street about a block away. I was able to monitor the object with my naked eyes for the duration of it's visibility. also in that sighting, it traveled slowly, stopped, changed direction then dissapeared. I am unable to tell you what day it was but it may have been early spring 2005 or 2004. I remember it was cold out.About me. I tend to be very observant. I spotted a cockrach at 20 feet while driving through D.C. if that makes sense to you. I always keep an eye open for something out of the ordinary. I am also a skeptic and look for possible explanations. this may have been a silver mylar party balloon and it was twirling up in the sky. but I think it was too big to be that. party ballons are 18" and this was much larger.I can't quite remember if it had a haze around it. I was hoping someone else spotted this thing, it was a busy afternoon.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  Possibly a celestial body??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48668.html](http://www.nuforc.org/webreports/reports/048/S48668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewiston (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>32 Satellites?Last night in northern Michigan it was a clear sky and I happened to look up at the moon, that’s when I noticed an extremely bright white light flashing with no sound, slowly moving across the sky to the northeast.  As I continued to watch the light, I noticed what appeared to be a satellite heading southeast.  Directly behind the first object, in single file, precisely spaced, followed a total of 32 objects.  Again, there was no sound, I assumed they were satellites.  Concerning, yet interesting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152411.html](http://www.nuforc.org/webreports/reports/152/S152411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
