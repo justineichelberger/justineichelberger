@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hephzibah (GA) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Mother and daughter witness six "yellow-white" lights descending in western sky.The mother called NUFORC to report the sighting.  She and her daughter had just witnessed six yellow, or white, lights, in 3 sets of two lights each, in a V-formation, descending vertically in the western sky. They said they would telephone the local military base, which also was located to the west of their location at the time of the sighting, to see if any pyrotechnic device had been launched there at the time of the sighting. NUFORC is awaiting a report from the witnesses, at the time of this writing.   PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27010.html](http://www.nuforc.org/webreports/reports/027/S27010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Aventura (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Whatever this was, we've never seen anything like itMy boyfriend and I both saw this object at the same time.  We were in our living room with the balcony open, taking advantage of the cool south Florida weather.  Our balcony faces south east, we are only a couple of miles from the beach.  There were scattered clouds and it wasn't completely dark yet but, close to it (approx. 6:30 PM).  The object was a round light and when it streaked across the sky it had a long white tail, it sort of pulsated an orange glow.  I would say the front part was about the size of an aspirin held at arm's length, plus the long cylindrical tail.  It was so bright it lit up the clouds as it moved through them.  It was a "wow!!!" moment, that's what we both said as we saw it. Interestingly on the following night, my boyfriend, my sister & I were sitting out on the balcony around the same time and we were pointing to the sky around the same area to show my sister where we saw the object and we saw another moving light, this time it was a lot higher up in the sky, not as close as the previous night.  All of us spotted it at the same time.  What are the chances of that happening 2 nights in a row?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87463.html](http://www.nuforc.org/webreports/reports/087/S87463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
