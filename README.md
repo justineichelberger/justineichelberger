@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw a bright object in high clouds, not moving, reflected light, then moved toward left, went out of my view.  Several minutes.Hello - I copied and pasted the series of facebook postings I wrote after I saw this. Hopefully, you will be able to follow.Looking at the clouds about 20 minutes ago 1:31 PM 1-7-15 and saw what looked like a light in the sky.  The clouds were bright, but the light looked like something reflecting the sun.  So of course I tried to zoom in. and I did.  See the next picture.What is this?  At first it was not moving, then it was. now I cannot see it.  I saw a tiny point of light in the sky above the clouds, and zoomed in like when I take pictures of the moon.  120 times.  Then, I opened the picture in paint and zoomed in to see it better.  No photoshop.  I wish I knew what is was.  It was still then moving to the left, and after a few minutes I could not see it anymore.You can't see it in the cloud picture, too far, but look at the middle of the picture, move to the right to the denser piece of cloud, it was right above that when I first saw it.Hi, can you look again at the pictures of the thing in the sky?  I am asking for everyone to repost it- someone out there may know what it is.  These are high clouds, a few planes flew by while I was watching the bright object--they were much lower and way faster.  This viewing lasted a few minutes, not seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116679.html](http://www.nuforc.org/webreports/reports/116/S116679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Malmstrom AFB (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman calls Malmstrom AFB second time, possibly regarding second sighting.  She had called the night before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00249.html](http://www.nuforc.org/webreports/reports/000/S00249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
