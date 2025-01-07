@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 6 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 7 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Work in the Irving area, 4th floor, right at dawn, was watching the sun rise and formation of 3 to 4 craft we’re moving fast and low towards DFW airport.  Once they were out of sight, they briefly re-appeared performing large circles flying very fast.  Went for camera but they did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152390.html](http://www.nuforc.org/webreports/reports/152/S152390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edgewater (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>red moving circle and glowing circle that followed me.one of them was glowing white.the other was red and going fast but neigther was blinking.the first one followed me and the other cause a very small puple light that reflected off the window.2 space caft were observed.both of them were circular and one was whiteish and glowing and the other was red.the backround of the first was the sun setting and it was huvering around my friends house.the other was in the night time sky with a house below it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54577.html](http://www.nuforc.org/webreports/reports/054/S54577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
