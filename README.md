@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A trangular craft with several, large, bright lights flew low and quick over the neighborhoodMy boyfriend was on his computer with no lights on in the room at the time.  The west facing window is directly behind his desk.  He saw bright lights and the motion sensitive outdoor lights in our neighborhood went on simultaniously. He opened the blinds and began to yell for me,  "..Come look! Hurry!"  I was too late to see it from the front (west) side of the house, so we went across to the east facing back door and we both observed the object travelling extremely low and quickly towards the southeast.It appeared triangular in shape with several large lights.  It seemed to be comparative huge to normal aircraft.  It was definitely not a helicopter, by the size, shape, and lack of sound.  He said he heard some sound from the object, but I did not.  If it were a helicopter it would have been very loud.  They vibrate the house.  We do not live in a flight path and do not usually see planes.  Aircraft from the Boulder Airport does not seem to take off or land over where our house is located.  The airport is north of our location. We just don’t see aircraft and neither of us have ever observed anything like it.  It happened too quickly to grab the camera phone.  We are scientists by nature, so we are just curious if anyone else reported the craft and if there is a valid explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74021.html](http://www.nuforc.org/webreports/reports/074/S74021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Maitland (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Formation of lights of varying degree.  Yellow to orange.  Moving slowly from west to east above all airplane traffic.  Have video from two cameras.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11626.html](http://www.nuforc.org/webreports/reports/011/S11626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
