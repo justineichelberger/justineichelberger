@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Maitland (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>Formation of lights of varying degree.  Yellow to orange.  Moving slowly from west to east above all airplane traffic.  Have video from two cameras.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11626.html](http://www.nuforc.org/webreports/reports/011/S11626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BIG, like a white floodlight, BRIGHT as a star, around this was a glass-like green bowl shape, with red spinning lights. hovering.January 8, 2011  Every night I go outside on my back porch to have a cigarette. In 2005 I saw 2 UFO’s hovering above Cape Coral /Fort Myers FL for about 40 min.Now last night my wife and I saw another UFO in the same exact spot 6 years later (1-7-2011). Not a cloud in the sky, a very clear night...It was about 4 a.m. and I watched it with binoculars for over 30 minutes.  It was hovering East/20°south at an angle of about 50 miles.  The middle of the craft was cone shaped, like a white floodlight, and was as BRIGHT as a star, and around this was a frosted glass-like green bowl shape, with red spinning lights.This thing was HUGE and had to be the size of a Wal-Mart, so there is no way that this “aircraft” could be man-made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79597.html](http://www.nuforc.org/webreports/reports/079/S79597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
