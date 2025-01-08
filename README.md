@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spencerville (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  81</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152810.html](http://www.nuforc.org/webreports/reports/152/S152810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>this report you may put in file 13, but before you do. Please take the time to read it. All that is in it is correct, I DONOT believe it all.  But I must be honest and share it. I have detect a ufo in the ground and it has been here a very long time. I have found only (1) thing that is evidence that the ufo was there. Over time what I found was that one ufo was only one of a number of them. because the metal is detect in complete shape I have to say that the metal was a alloy that was like ours  becouse any other metal would be found in pieces not complete like what was found.  I do not know why I found it but I did. becouse it is complete it is like a blueprint and you can tell how it would work . It being the large one is so large you would think that it would hold a lot of there poeple, but when you look at the print , you see that only the core of it would hold life. the outer part it like ballast tank, this allows it to go to the bottom of water. It has in the core (7) riser that lets it rise without vacum damage it. This design shows that they use all of nature to do things. What I see of there design, If they have it they use it. In march 0f 06 I saw one that was flying . It was only a cicle of light very bright< but looking at it this llght must be very cold to be this bright. becuase they donot have anything that donot use , why have the light. We donot think that they need light to see so WHY HAVE IT. I now know more about ufo,s then I need to know. but am having the same problem that most people have that has see them, Is it because we are unwilling to say that they were here and still here, I donot know but I am happly  to know that I have the luck to studies them, there is a lot to know but I understand you are not going to read it all. But I did share with you this fact. That is all I can do for you((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We are not certain what the report alludes to.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60083.html](http://www.nuforc.org/webreports/reports/060/S60083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
