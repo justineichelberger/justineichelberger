@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vail (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A fast moving red orange light flew in a straight line for about 3 or 4 seconds, then dissapearedIt was around 5:00 pm in Vail, Colorado when I saw a bright red circular shaped light moving for about 4 seconds through the sky. I could recognize the exact shape since it was all light. The color was a red with just a little orange. I was with my brother the moment I saw it and rapidly told him to look, but the craft had already dissapeared. It moved at a speed which was never as slow as a plane, it was also moving at a faster speed than a jet. I could say its speed was around half the speed of a shooting star. It moved in a straight line from left to right (from my point of view). It didn't make any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34933.html](http://www.nuforc.org/webreports/reports/034/S34933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in South Attleboro (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>SUMMARY:  At dusk on perfectly clear night saw large, blue bright disk fly vertically down and skim out over the earth. As it pulled out of its downward trajectory and moved away the light diminished. As a scientist, I have no explanation for this event.Beautiful light blue bright color.  When first seen at the higher end of its path it appeared slightly flatened top and bottom but, as it came down closer to the earth, it appeared perfectly round. As it turned flat to move parallel to the earth and away from me, there was no light seen on its edge. It moved and changed direction extremely fast. Object seen from Rt 95, 3 mi north of Rt 1A Jct while I wa traveling south at 60 mph and looking up towards the south east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01935.html](http://www.nuforc.org/webreports/reports/001/S01935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
