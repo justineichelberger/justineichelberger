@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Robertsdale (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>was walking home from school looked up and saw 3 red dots almost like fireballsi was walking home from school with my brother and i through a snowball at i was throwing a snowball at him and looked up and there was around 3 red dots just sitting in the sky around 30 to 40 seconds later the crafts seemed to just disappear i don't know if this will help but i figured i would report it any way</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138323.html](http://www.nuforc.org/webreports/reports/138/S138323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Very fast - Very fast minutes.</sub><blockquote><sub>Crafts zipping across the sky in Pittsburgh, Pa.I step out from my job and just happened to look up and saw a formation of about 4-5 crafts zip across the sky sort of like if birds flew by but much higher than birds fly.  The formation looked like a bird migration (diagonal) but I've never seen or heard of birds that glow in the dark.  It appeared as if the one on the rear of the formation started to break from the formation so they slowed down until it realigned and sped right back up.  I watched until I could not see them anymore.  The sighting lasted for about 30-45 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106116.html](http://www.nuforc.org/webreports/reports/106/S106116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
