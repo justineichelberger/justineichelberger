@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing white light, going kne way and then another very fast and erratically almos seen orange balls 01/04/19- missing time 2 adults one child 12/25/18 five minute drive took an hour and five minutes.  12 year old that is usually great at direction was even confused although it was not mentioned</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144361.html](http://www.nuforc.org/webreports/reports/144/S144361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Several orange spheres hovering over Hailey, Idaho.Heard a loud noise like a sonic boom, dogs went nuts barking.  So I went out the front door to see what was going on and up in the sky above Della and Carbonate mountains were about six orange spherical lights floating in the sky,  Called my wife to see the lights, was thinking maybe an aircraft had crashed due to the loud noise then realized the lights were hovering.  No noise at all.  Two larger than the other three or four.  They hovered for several minutes and then several of them moved off and faded away. The two larger orange lights hovered near each other and then moved in close to each other almost touching and then moved away - then they were gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106135.html](http://www.nuforc.org/webreports/reports/106/S106135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
