@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sioux Falls (outskirts of) (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular, 30- 40 seconds, multiple bright lights moving away slowly with no sound at all.I was just arriving out at the expo Building at the Sioux Empire Fairgrounds when I came around the corner and saw a low hover craft which I first thought was a helicopter from the near by Hospital.  This craft was making no noise and started to move away from the fairgrounds as soon as I turned the corner around the building to see it.  It moved very slowly away heading south easterly.  It slowly increased in altitude as it moved away.  I watched for several seconds in disbelief and had a very eery sensation come over me.  There were several lights on the craft, way more then an aircraft would have and they were so bright that it seemed to mask the actual shape of the object, though I concluded it was a triangular shape based on the points of the lights.  The lights were blue, red, and yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96576.html](http://www.nuforc.org/webreports/reports/096/S96576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vail (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A fast moving red orange light flew in a straight line for about 3 or 4 seconds, then dissapearedIt was around 5:00 pm in Vail, Colorado when I saw a bright red circular shaped light moving for about 4 seconds through the sky. I could recognize the exact shape since it was all light. The color was a red with just a little orange. I was with my brother the moment I saw it and rapidly told him to look, but the craft had already dissapeared. It moved at a speed which was never as slow as a plane, it was also moving at a faster speed than a jet. I could say its speed was around half the speed of a shooting star. It moved in a straight line from left to right (from my point of view). It didn't make any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34933.html](http://www.nuforc.org/webreports/reports/034/S34933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
