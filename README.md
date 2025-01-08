@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:22 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Vail (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A fast moving red orange light flew in a straight line for about 3 or 4 seconds, then dissapearedIt was around 5:00 pm in Vail, Colorado when I saw a bright red circular shaped light moving for about 4 seconds through the sky. I could recognize the exact shape since it was all light. The color was a red with just a little orange. I was with my brother the moment I saw it and rapidly told him to look, but the craft had already dissapeared. It moved at a speed which was never as slow as a plane, it was also moving at a faster speed than a jet. I could say its speed was around half the speed of a shooting star. It moved in a straight line from left to right (from my point of view). It didn't make any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34933.html](http://www.nuforc.org/webreports/reports/034/S34933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Nottingham (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 bright objects in sky fly in formation over White Marsh MDJan. 8th 2011 my younger son came home to show my video of some objects he and his friends had seen while walking back from the mall.  They saw 3 bright saucer shapes in a triangular formation flying across the sky very quickly.  He had recorded them on his phone.  He said they were traveling at such a high speed that he could only capture them for a short time before they disappeared out of the camera’s view point.  He was with 3 other boys who also witnessed this occurrence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79780.html](http://www.nuforc.org/webreports/reports/079/S79780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
