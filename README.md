@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately Very fast - Very fast minutes.</sub><blockquote><sub>Crafts zipping across the sky in Pittsburgh, Pa.I step out from my job and just happened to look up and saw a formation of about 4-5 crafts zip across the sky sort of like if birds flew by but much higher than birds fly.  The formation looked like a bird migration (diagonal) but I've never seen or heard of birds that glow in the dark.  It appeared as if the one on the rear of the formation started to break from the formation so they slowed down until it realigned and sped right back up.  I watched until I could not see them anymore.  The sighting lasted for about 30-45 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106116.html](http://www.nuforc.org/webreports/reports/106/S106116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trento (Mt. Palmis) (Italy) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Italian UFOWhilst on a school Skiing trip in Trento, Italy, myself, 8 other pupils, a skiing instructor and locals witnessed a ufo.  At the time we were skiing down mount Alpamis and had just reached th bottom of the mountain when a fellow student pointed out an aircraft which looked like an American stealth plane.  After a few seconds we realised the plane was travelling too slowly to be an aircraft as it seemed to be blown by the wind.  The object was around 0.5 km away from our position at the time.  All the students I was with at the time witnessed this, so did a skiing instructor and a few Italians too.  It seemed to be black/dark grey, with no lights and was not shiney. I estimate the object was the size of a small aircraft and was triangular with rounded off edges.  The next day our ski instructor was interviewed by the local police who told him it was most probably a kite or balloon, but admitted to him that in the past few monts there had been more than 14 sightings of the same description.  It was certainly not a kite as it did not weave around like a normal kite and it was certainly not a balloon as its altitude did not change and was too big.  The objects was at an estimated 400 ft above ground level and left no haze and made no noise, although during the event, a truck behind us was reversing and its sirens were going off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60789.html](http://www.nuforc.org/webreports/reports/060/S60789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
