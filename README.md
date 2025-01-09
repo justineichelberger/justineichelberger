@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oxfordshire (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A large orange ball of fire appeared in the sky from nowhere travelled horizontally and then faded.Today at 5.38pm I saw a bright orange coloured light in the sky, it looked like a ball of fire, while travelling northbound on the A34 near Botley, Oxford.The light seemed to appear from nowhere went overhead, we looked through the back windscreen watching the light travelling horizontally until it faded out of sight it seemed to be travelling at quite a fast pace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74026.html](http://www.nuforc.org/webreports/reports/074/S74026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Burlington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A stationary green light dove to the ground and disappeared.I was on the way to work and at mile marker 135, heading east on 85N.  To the ENE, I noticed a green stationary light that was brighter than any visible star, and was the only light in the sky in the pre-dawn.  As I was observing the light, it began to dive at an angle toward the ground at a high rate of speed, and faded very quickly to nothing as it neared the ground.  The entire experience lasted around five seconds and was over.  I do not drink or use recreational drugs, and was on my way to work when I saw it.  I’ve lived in four states on both coasts and this is the first object I’ve seen whose anomalous nature I’m confident enough to actually report.  I watch the sky often, as I am interested in astronomy and enjoy thinking about the cosmos, and I’ve never seen anything like this.  I would say it could have been a meteorite, but it started out stationary and was a bright green color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144400.html](http://www.nuforc.org/webreports/reports/144/S144400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
