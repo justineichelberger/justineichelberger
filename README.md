@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bloomingdale (IL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately once - once minutes.</sub><blockquote><sub>I saw a ship that i saw on tv a month ago, five states over from illinois.  its big stays dark for 7 seconds then a light turns silver making this short cylynder and the top looks like the top of a radio tower. It was right above walmart store,maybe this was their computer? seemed to pose no threat. some customers could see? are these ufo's dumb?  silent but stould still without moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161555.html](http://www.nuforc.org/webreports/reports/161/S161555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wheatland (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Large bright multicolored twinkling light just above western horizonMy family and I observed a large, bright whitish yellow multicolored (red, green, blue) twinkling light slightly above western horizon.  Light was too large for a star or planet.  It was not consistent with any known aircraft.  It hovered in the same spot for about 7 minutes then immediately disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95966.html](http://www.nuforc.org/webreports/reports/095/S95966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
