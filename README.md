@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Slow moving, low UFO seen in Medina, OH 01/09/21I was outside walking my dog in front of my house at about 9:30 at night. It was a very clear night. I was facing East looking up at the stars. All of a sudden it got eerily quiet. I notice that coming from the South heading North, going about 10 mph, is a dark ship about 200 yards above the ground and about 100 yards in front of me and my dog. There was no sound. No lights. It looked like there was a cloaking aspect to the ship... like it had the nighttime sky on the underside of the ship. But I could see the contours of the ship while it continued a perfectly steady speed due North. It had no wings. From my POV, it was a cigar shape about 200 yards long and about 30-40 yards tall.  No plane-like characteristics that I could see. It was hovering, no sound, going very very slow. I had a very bad feeling the whole time watching it. I watched it move from the South traveling North for about 20 seconds till it was out of my sight line due to trees and surroundi! ng homes blocking my view. I then immediately went inside the house and got my boyfriend, and we came outside to look for it but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161580.html](http://www.nuforc.org/webreports/reports/161/S161580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hutchinson (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Read Hutchinson News Kansas today front page on cattle mutilation happening in area again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125195.html](http://www.nuforc.org/webreports/reports/125/S125195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
