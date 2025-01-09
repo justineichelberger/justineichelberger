@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 8 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in South Attleboro (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>SUMMARY:  At dusk on perfectly clear night saw large, blue bright disk fly vertically down and skim out over the earth. As it pulled out of its downward trajectory and moved away the light diminished. As a scientist, I have no explanation for this event.Beautiful light blue bright color.  When first seen at the higher end of its path it appeared slightly flatened top and bottom but, as it came down closer to the earth, it appeared perfectly round. As it turned flat to move parallel to the earth and away from me, there was no light seen on its edge. It moved and changed direction extremely fast. Object seen from Rt 95, 3 mi north of Rt 1A Jct while I wa traveling south at 60 mph and looking up towards the south east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01935.html](http://www.nuforc.org/webreports/reports/001/S01935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Slow moving, low UFO seen in Medina, OH 01/09/21I was outside walking my dog in front of my house at about 9:30 at night. It was a very clear night. I was facing East looking up at the stars. All of a sudden it got eerily quiet. I notice that coming from the South heading North, going about 10 mph, is a dark ship about 200 yards above the ground and about 100 yards in front of me and my dog. There was no sound. No lights. It looked like there was a cloaking aspect to the ship... like it had the nighttime sky on the underside of the ship. But I could see the contours of the ship while it continued a perfectly steady speed due North. It had no wings. From my POV, it was a cigar shape about 200 yards long and about 30-40 yards tall.  No plane-like characteristics that I could see. It was hovering, no sound, going very very slow. I had a very bad feeling the whole time watching it. I watched it move from the South traveling North for about 20 seconds till it was out of my sight line due to trees and surroundi! ng homes blocking my view. I then immediately went inside the house and got my boyfriend, and we came outside to look for it but it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161580.html](http://www.nuforc.org/webreports/reports/161/S161580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
