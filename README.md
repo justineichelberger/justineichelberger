@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Piedmont (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange items in the air.As we drive down the highway, we see anywhere from 1-10 items flying up, left, right and disappearing and repearing.  Although it could have been a plane, we watched to make sure it wasn’t and the entire time we stayed and watch we could not make it out as any planes.  The direction is was flying wasn’t consistent with normal flying planes, they would fly towards one another glow and disappear and again repeat throughout us witnessing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144392.html](http://www.nuforc.org/webreports/reports/144/S144392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Marion (NY) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Young girl sees bright light streaming through bedroom window.  Sees 4' humanoid & weird lights in yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00314.html](http://www.nuforc.org/webreports/reports/000/S00314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
