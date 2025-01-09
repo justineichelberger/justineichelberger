@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in East Meadow (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My wife and I were getting ready to sleep and both of us heard this strange noise.  At first it was loud almost like an aircraft engine directly above us. Then it changed to a lower pitched sound and then after a few seconds it changed to a higher pitch, almost as if some thing was accelerating, then back to a low pitch before it beacame quite again. Immediately after that we heard a commercial aircraft in the distance which passed over our house as usual.  Not sure what it was but the sound was definitely coming from above and it came as suddenly as it stopped.  It did not sound like a vehicle or motorcycle we live on a fairly quiet street and now when cars pass by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54646.html](http://www.nuforc.org/webreports/reports/054/S54646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw 8 very bright orange orbs flying in formation and disappearing.Me and my dad were driving to grand Marais to do a job.  It was about 5:30pm when we saw the see bright glowing orange orbs in the sky.  I saw them first and mentioned it, and then they just disappeared.My dad thought it was just towers, and I argued with him.  About 2 min later he saw them again, then they disappeared again.  He started freaking out then we saw 2 more over the lake, so we pulled over to look, then they were gone.  Then we saw 2 more across the street opposite of the lake.  Then back over the lake we saw 4 of them flying in formation then it looked like 1 shot out of the other kinda like a missile, then they disappeared.  These orbs were over Lake Superior, along the north shore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116597.html](http://www.nuforc.org/webreports/reports/116/S116597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
