@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Southaven (MS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 BRIGHT WHITE ORBS THAT CHANGED IN FORMATIONAt the same exact time my daughter and I witnessed 5 radiating white/bright orbs of light in a formation in the north sky towards Memphis while we drove North on Airways Blvd. They first were vertical and stacked, slowly separating into a line with much more space between them. Then formed into V. We watched this for 20 minutes and tried to call our local news station from cell phones after looking up their numbers. I finally emailed one of the Memphis stations just to see if anyone else saw what we were seeing. I haven't heard anything back. It was something I've never seen. My daughter is 14 and it scared her. I am more amazed than anything.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67939.html](http://www.nuforc.org/webreports/reports/067/S67939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Piedmont (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange items in the air.As we drive down the highway, we see anywhere from 1-10 items flying up, left, right and disappearing and repearing.  Although it could have been a plane, we watched to make sure it wasn’t and the entire time we stayed and watch we could not make it out as any planes.  The direction is was flying wasn’t consistent with normal flying planes, they would fly towards one another glow and disappear and again repeat throughout us witnessing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144392.html](http://www.nuforc.org/webreports/reports/144/S144392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
