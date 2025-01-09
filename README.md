@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Libby (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright rotating green, red, yellow blinking lights, silentAt approximately 520 mountain time, my partner and I were driving home from the store.  A silver, metallic orb was suspended about 3 stories across the street from our house.  There were bright red, green, yellow blinking and rotating lights around the bottom of the orb.  We got out of our car and walked across the street to look at the orb, trying to identify if we thought it was a drone or some kind of satellite.  The object was hovering initially and then, without a sound, and very quickly began to move upward into the atmosphere and eventually appeared as if it had “star like” qualities, and then disappeared UP into space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152526.html](http://www.nuforc.org/webreports/reports/152/S152526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gladstone (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>green and white lights on an object that followed us then dissapeared when we reached a public placeI was driving down 152 highway, on the way back from the night deposit box at my bank, I Say this object in the sky, about 3 miles away, at first I Just saw red and thought it was a plane. Then it seemed like it noticed that I was watching it, and it fliped like it was flying at an angle, and was moving very fast twords my car. When it turned to its side it had green and almost white lights, but they weren't flashing, or blinking, like some people describe it. The best way that I can describe it is that the lights were almost dancing in the air, they just flowed. I pulled over to the side of the road to make sure that this was what I was really seeing, It flew so fast. I started to panic, because it was just myself and my three year old daughter in the middle of the night, and sped up to get to the nearest public place. The craft followed me all the way to Quick Trip, where I was going to get out of my car to look at it better, but when I got out it was gone. This was the neatest and scariest thing that I have ever seen in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54649.html](http://www.nuforc.org/webreports/reports/054/S54649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
