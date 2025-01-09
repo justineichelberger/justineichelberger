@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:33:33 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hutchinson (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Read Hutchinson News Kansas today front page on cattle mutilation happening in area again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125195.html](http://www.nuforc.org/webreports/reports/125/S125195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pottstown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Summary : multiple craft of various shapes. All with red & white lights, some pulsing, some strobe. Silent. Eventually chased off by jets. Movement from NE to SW, also changing altitude. Watched from outdoor open area for over an hour with no sounds at all until jets arrived. Craft had different shapes & sizes. Overall more than 20 individual craft. Hovering near nuclear power plant. Chase jets were probably from naval air station approx. 25 miles away. One may have been a stealth bomber.Observers a male, age 25 and female, age 32.  Local residents who first observed craft from an apartment, then outdoors in an open parking lot. Some shapes were not discernable, some were triangular. Some lights were strobe-like, others flashing in a mrrquee style around a central red light. Craft moved at various speeds, both vertically and horizontally. A lot of hovering, then movement from northeast to southwest. There was no noise at all. Height from ground was all but impossible to tell because fo different sizes. More than 20 craft were seen for well over an hour, from about 18:30 to 20:00. Couple observing craft were, sober, awake, and fascinated! They are both artists, both full time employees of graphics firm. They do not have access to internet, so I am posting for them as a friend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03032.html](http://www.nuforc.org/webreports/reports/003/S03032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
