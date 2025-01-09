@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Marion (NY) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Young girl sees bright light streaming through bedroom window.  Sees 4' humanoid & weird lights in yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00314.html](http://www.nuforc.org/webreports/reports/000/S00314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>The Seattle/ Issaquah object keeps coming at around 7:05-7:20 and I've seen it 3 times in the last week.I was driving I-90 west again, but I noticed the object before I got off the exit.  As I was driving, in the corner of my eye, I saw a bright light speeding in a half circle, like it was changing directions.  I automatically looked out my window and noticed that it was much closer to the ground almost as far down as an airplane would go.  The object looked like a hollow triangle with circle like bulbs on each point with bright yellow lights that alternated from yellow to red to stark white.  The object was heading towards Issaquah, Washington and it went out of my vision really fast.  After seeing that I was telling myself, "Okay, maybe i'm just tired" but when I got off exit 11 and when I was waiting for the stop light to turn green I saw the object speed back into my sight and then stopped.  Now this confirmed that I wasn't just tired because there is no way that an airplane could turn around that fast and just stop moving unless the pilot was on crack. Wh! en the light turned green and I took my left turn the object started to move again at a steady pace toward Seattle, Washington (opposite direction of Issaquah).  I decided to follow the object but it kept moving in random directions and I had to get to class so I turned my car around but when I looked in my rear view mirror the object was gone.  Whatever this is, I keep seeing it at around 7:05-7:20am randomly heading from Seattle going into the Issaquah area.  January 11, 2017, I saw it again while I was driving into school and couldn't get my phone out fast enough to capture a picture.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  For some reason, source of report indicates that the date of the alleged incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132128.html](http://www.nuforc.org/webreports/reports/132/S132128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
