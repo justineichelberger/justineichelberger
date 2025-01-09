@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three to four whitish/yellowish lights lit up sequentially over southern sky of Ridgecrest, California seen by 4 observersI was driving home from China Lake, California to my home in Ridgecrest, California on January 9, 2012 at about 6:03 pm and I saw a big, bright whitish/yellowish light appear about 20 degrees above the horizon in the southern sky.  Then a second bright light appeared diagonal to the upper left of the first light, then a third bright light appeared diagonal to the upper left of the second one.  The first one then went away and I saw another light appear diagonal and to the left of the third light. It was difficult to discern if the lights were moving closer, but for the most part it seemed they weren’t moving much, if at all.  A couple of seconds later, in order from right to left they went away...I pulled over on Mahan Street and rolled my window down to try and hear an engine or anything but I didn't hear or see anything then. I got home and when my husband pulled up ~5 minutes later, I was pointing out to him where and what I saw and my neighbor pulled in ! his driveway and asked if I had seen the UFO too...he described it EXACTLY the way I did. Then I found out my husband, right before he got home and after my sighting, had seen one bright light about 30 degrees above the horizon around 6:08 pm (he was going downhill into a dip on the same road) and the neighbor said he had seen that one too.  I posted my sighting on facebook and my friend who lives here in Ridgecrest said her Dad told her he had seen the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86460.html](http://www.nuforc.org/webreports/reports/086/S86460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bangalore (India) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.1666666666666665 - 2.1666666666666665 minutes.</sub><blockquote><sub>A BRIGHT LIGHT IN THE SKY FOR TWO MIN AND FINALLY IT BECAME INVISIBLECONE SHAPED OBJECT FOUND IN THE SKY FOR 2MIN AND THERE WAS AN ENORMOUS LIGHT IN THE SKY .IN THE BEGNING WE WERE AFRAID OF THAT LIGHT VERY MUCH. IT STARTED CIRCILING AROUND OUR LAY OUT TWO TO THREE TIMES.ONE OF MY FRIEND WENT TO CALL OTHERS BUT UPTO THAT TIME WHEN HE CAME BACK IT BECAME INVISIBLE. WE DO NOT KNOW WHAT WAS THAT BUT ONE OF MY FRIEND TOLD ME TO SEND EMAIL TO U THATS WHY I HAVE SENDED EMAIL TO U((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48654.html](http://www.nuforc.org/webreports/reports/048/S48654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
