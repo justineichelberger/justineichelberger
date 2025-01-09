@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:33:33 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:16:39 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pottstown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Summary : multiple craft of various shapes. All with red & white lights, some pulsing, some strobe. Silent. Eventually chased off by jets. Movement from NE to SW, also changing altitude. Watched from outdoor open area for over an hour with no sounds at all until jets arrived. Craft had different shapes & sizes. Overall more than 20 individual craft. Hovering near nuclear power plant. Chase jets were probably from naval air station approx. 25 miles away. One may have been a stealth bomber.Observers a male, age 25 and female, age 32.  Local residents who first observed craft from an apartment, then outdoors in an open parking lot. Some shapes were not discernable, some were triangular. Some lights were strobe-like, others flashing in a mrrquee style around a central red light. Craft moved at various speeds, both vertically and horizontally. A lot of hovering, then movement from northeast to southwest. There was no noise at all. Height from ground was all but impossible to tell because fo different sizes. More than 20 craft were seen for well over an hour, from about 18:30 to 20:00. Couple observing craft were, sober, awake, and fascinated! They are both artists, both full time employees of graphics firm. They do not have access to internet, so I am posting for them as a friend.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03032.html](http://www.nuforc.org/webreports/reports/003/S03032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Torrington (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Addendum to earlier report made on 01/09/15This is simply an addition or addendum to a report I made several days ago, I believe it was for 01/09/15.  After I filed the report I realized I made a mistake.  The craft was travelling from the northeast toward the southwest.  I believe I mistakenly wrote the southeast. That is error, it was going toward the southwest.  This is a very regular route for the many planes I see coming from Bradley Field in Hartford, so this might have been some sort of commercial or military craft, but it was quite spectacular and unlike anything I have ever seen, and I grew up around airbases, as my father was a aircraft radar technician by trade.I am also including a drawing I made in Paint. It will be obvious I am no artist, but it will give the rough idea.  I could not actually see any body to this craft, just the very bright and very beautiful lights.  Only the red light blinked, all other lights were steady.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116814.html](http://www.nuforc.org/webreports/reports/116/S116814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
