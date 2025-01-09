@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:20 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange fireball floated into sky and shot up and dissapeard near wpafb in fairbornWas looking out my bay window while closing the curtains when I noticed this big bright orange ball of light lift into the sky slowly and went above my house.  I ran to the other side of my house and out the back door to watch it as it climbed some distance into the sky and hovered for about 30 seconds.  It suddenly shot up into the air and the light got dimmer and dimmer until it was a pin point into the sky.  There was no noise coming from the object so I defiantly know it could have not been a helicopter or airplane.  Freaked me out.  I live right by wright pat air force base here in Dayton.   I am hoping that there is some explanation for what I saw tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106144.html](http://www.nuforc.org/webreports/reports/106/S106144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Fe Springs (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Sphere like glowing objects hovering and then traveling in an incredibly fast speed then vanishing.n the past 3 years i have seen, what i believe to be UFO’s.  ALL the one’s that I have seen have been in the city that I live in.  They have all been sphere like objects.  They just look like glowing balls of light.  The first one I have ever seen was like a red or almost pink looking glowing sphere.  The other two I have seen where white lights.  They all seem to have appeared right in front of my eyes.  And as soon as i would look they look as if they would travel in an extremely fast speed and disappear.  The last one I seen in September was the one that stayed hovering above my boyfriends house in Santa Fe Springs, CA, the longest.  It must have been around 4 seconds before it took off in a straight horizontal line.  This one didn’t take off as fast at first but then suddenly disappeared. Im pretty sure it was a UFO.   Actually I am very sure. It’s when i’m looking for them when I feel they show themselves to me for a reason.((NUFORC NOTE:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74433.html](http://www.nuforc.org/webreports/reports/074/S74433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
