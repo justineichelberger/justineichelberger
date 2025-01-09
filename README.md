@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:20 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Marion (NY) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Young girl sees bright light streaming through bedroom window.  Sees 4' humanoid & weird lights in yard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00314.html](http://www.nuforc.org/webreports/reports/000/S00314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange fireball floated into sky and shot up and dissapeard near wpafb in fairbornWas looking out my bay window while closing the curtains when I noticed this big bright orange ball of light lift into the sky slowly and went above my house.  I ran to the other side of my house and out the back door to watch it as it climbed some distance into the sky and hovered for about 30 seconds.  It suddenly shot up into the air and the light got dimmer and dimmer until it was a pin point into the sky.  There was no noise coming from the object so I defiantly know it could have not been a helicopter or airplane.  Freaked me out.  I live right by wright pat air force base here in Dayton.   I am hoping that there is some explanation for what I saw tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106144.html](http://www.nuforc.org/webreports/reports/106/S106144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
