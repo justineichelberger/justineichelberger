@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 9 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gladstone (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>green and white lights on an object that followed us then dissapeared when we reached a public placeI was driving down 152 highway, on the way back from the night deposit box at my bank, I Say this object in the sky, about 3 miles away, at first I Just saw red and thought it was a plane. Then it seemed like it noticed that I was watching it, and it fliped like it was flying at an angle, and was moving very fast twords my car. When it turned to its side it had green and almost white lights, but they weren't flashing, or blinking, like some people describe it. The best way that I can describe it is that the lights were almost dancing in the air, they just flowed. I pulled over to the side of the road to make sure that this was what I was really seeing, It flew so fast. I started to panic, because it was just myself and my three year old daughter in the middle of the night, and sped up to get to the nearest public place. The craft followed me all the way to Quick Trip, where I was going to get out of my car to look at it better, but when I got out it was gone. This was the neatest and scariest thing that I have ever seen in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54649.html](http://www.nuforc.org/webreports/reports/054/S54649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Saw two lights that were not planes.I was standing on my porch.  It was 1806hrs EST.  I am in Newark International’s Approach area.  Many planes fly over my house at very low altitudes, while others pass thru the area taking off to other destinations.  I was observing a plane at moderate altitude going into the airport heading east.  At the same time, much further away and off to the left, I saw a white ball of light.  This ball of light was about the brightness of any low star you can see on a night like this.  It moved consistently towards the east until it simply dimmed out of existence.  After the awe of seeing this, I continued to scan the sky from East to West then North.  I saw again another plane very high in the sky traveling west.  Again I saw another ball of light, which brightness measured to a dim star but was moving to the East.  This one I tracked across my horizon (which isn’t much because I lived in the suburbs) and watched it closely to make sure that it wasn’t my equilibrium! .  This ball of light passed constellations until it as well dimmed into the darkness of space.  This is my full account of the incident.  It is currently 1819hrs EST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74030.html](http://www.nuforc.org/webreports/reports/074/S74030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
