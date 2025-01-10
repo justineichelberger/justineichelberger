@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New Carlisle (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw two stationery lights hovering over an open field early in the morning sky.I was driving to school one morning through rolling praires along Highway 2 east en route to South Bend.  I noticed off to the left some lights in the sky. They appeared to be staionery over open field.  I kept my eyes focused on the two lights until I had passed.  The lights were side by side.  They were easy to see since the sky was dark at such an early hour.  They were so distinct.  They just sat there.  The lights were facing west and I was heading east.  I saw this twice.  I would say a week later possibly later.  The exact same thing.  Two stationery lights.  I had never been so awed.  There were no flashing lights, no random movemtents.  They looked like a set of head lights in the sky.  I have never seen anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16979.html](http://www.nuforc.org/webreports/reports/016/S16979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Victoria/Port Angeles (BC/WA) (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of lights in shape of Great Bear Star System moving west above Port Angelos.Was sitting on a seat overlooking Juan De Fuca Strait from Victoria.  Was looking towards Port Angelos and saw a configuration of lights moving west that was approximately in the shape of the Great Bear Star System.  This configuration of lights was moving towards the west at about 1 degree of angle per second and because it was directly over Port Angelos about 1 degree above the city center.  Because the whole configuration was moving in a united fashion with the shape of the configuration not changing I don't think I was confusing the lights with those of moving vehicles.  This lasted about 5 minutes and fortunately I had 8 power magnification binoculars with me so I checked by examining the configuration through my binoculars.Being very jubilant I proceeded back to my condo on the 23rd floor of Orchard House, Victoria, and went out on the balcony.  This was about 25 minutes later than the first sightings.  I sensed three consective flashes of light originating from the sky S.S.W. and about 30 degrees above the horizon.  I sensed at the same time as these flashes a subtle current going through my body.  Was expecting a ship to appear but was disappointed that one didn't.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24423.html](http://www.nuforc.org/webreports/reports/024/S24423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
