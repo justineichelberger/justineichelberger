@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four orange lights flying straight upIt was a partly cloudy night and my husband was taking the trash out to the garbage can when he spotted 4 orange circular lights in the sky flying straight up into the air.  They were traveling at a very fast rate to the south southeast of my location.  The airforce base and airport around here is to the west of where I live.  After some time of going straight up, they began curving slightly towards the left and started gradually disappearing.  They were moving so fast that by the time I ran inside to grab my phone to record video, there were only 2 dots left.  There was no sound, but my husband said he thought he saw black particles beneath the dots which made him think fireworks, but there were no explosions or sparkles of light normally associated with fireworks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125210.html](http://www.nuforc.org/webreports/reports/125/S125210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Guatemala () reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>in guatemala city the whole city saww it and lasted 3 hours the news broadcast got it on tape is a good tape it proofs it there were flying in the same area and at incredible speed. yellow lights ((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34423.html](http://www.nuforc.org/webreports/reports/034/S34423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
