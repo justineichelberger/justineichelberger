@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bude (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large black craft hiding within thick, dark cloudsDriving on the Red Post to Kilkhampton Road (Bude) at approximately 7.30-7.45 this morning I saw a huge black shape slowly come out of the clouds.  I could only see a small part of it but it was really big, then the clouds moved around it and covered it completely.  Just before it disappeared into the cloud it seemed to pixilate within  the clouds.  When I managed to stop I watched for a while but could only see dark thick clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152530.html](http://www.nuforc.org/webreports/reports/152/S152530.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Milford (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black triangle glider, forty feet offground, red, blue, green lights on bottom, moved slowly and quietly.Black kite figure, flying over tree tops. Red, blue, and green lights on bottom. moving slow like plane, in a straight path. very quiet. I was driving  uphill, when it came over the tree tops, 30 to 40 feet offground. I turned off my radio to hear what it sounded  like . but it was silent like a glider. It was black, like the nights sky. The sun set almost a hour earlier. Thought it was police plane, untill it matched other descriptions given by previous observers.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95923.html](http://www.nuforc.org/webreports/reports/095/S95923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
