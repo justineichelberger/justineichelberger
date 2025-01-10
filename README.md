@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New Carlisle (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw two stationery lights hovering over an open field early in the morning sky.I was driving to school one morning through rolling praires along Highway 2 east en route to South Bend.  I noticed off to the left some lights in the sky. They appeared to be staionery over open field.  I kept my eyes focused on the two lights until I had passed.  The lights were side by side.  They were easy to see since the sky was dark at such an early hour.  They were so distinct.  They just sat there.  The lights were facing west and I was heading east.  I saw this twice.  I would say a week later possibly later.  The exact same thing.  Two stationery lights.  I had never been so awed.  There were no flashing lights, no random movemtents.  They looked like a set of head lights in the sky.  I have never seen anything like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16979.html](http://www.nuforc.org/webreports/reports/016/S16979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Falling star like light object making erratic maneuversOn Saturday, January 10th 2009 at approximately 6:10pm in the early dark evening, I witnessed the following account. About a mile north before the city of Bountiful, Utah traveling south on I-15, I saw above me through the front windshield a bright white/yellow falling star traveling north to south my same direction. The “star” traveled quickly across the sky then “stopped in mid-air” over what appeared to be the ensign peak area between Bountiful and SLC.  This startled me and I said, “What the heck is that?”. No falling star here as the light then moved back north east over North Salt Lake and made a slow wide circling pattern as if it were going to land. At this point my wife said, “Maybe it’s a helicopter going to land”.  The light then traveled west quickly across the interstate and suddenly maneuvered straight up for about 300-500 feet over I-215 just south of the Legacy interchange. After that it traveled south towards the 7th north exit in west SLC desending at a high rate and disappeared from our site. I am a private pilot and aware of natural speeds and maneuvers a “normal” plane or helicopter would make, but this to me seemed to fast and erratic in behavior. My wife thought she could see blinking lights around the main light. I could not see position lights only the white/yellow light it emitted from all angles. Besides, this is controlled airspace, would Salt Lake Center allow this kind of evasive maneuvering?  I was curious to hear if anyone else saw what we witnessed so I called an FAA flight briefer and he gave me the number to this reporting site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68021.html](http://www.nuforc.org/webreports/reports/068/S68021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
