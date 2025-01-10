@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An oval object with lights very close to the FwyI was driving northbound I-45 fwy between Conroe and The Woodlands area. This big light right above me draw my attention, it was right above me maybe 1500 feet, I could distinguish the shape an oval shape with four rectangular shaped windows with brilliant colors. I grabbed my cell to call my daughter to tell her what i was seeing. Suddenly I lost sight of it and then I saw it again but it was on the right side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41465.html](http://www.nuforc.org/webreports/reports/041/S41465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chantilly (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approximately 20 orange lights in formation moving with no soundI was traveling south on Route 28 going approximately 60 mph when I noticed a non uniform string of bright orange lights stretching from East to West (toward Dulles International Airport). The lights were visible from my driver's door window, across my windshield, and through the passenger window.  The distance of this view was at a minimum 1 mile across. Because I was driving and did not stop, I could not ascertain the speed of the lights.Other vehicles had stopped on the road to look.  I thought they were helicopters, but when I opened my window, I heard no sound.I found many references on the internet to similar sightings in this exact area and in neighboring counties, some with photos that look exactly like the lights I saw.  Those descriptions also noted an absence of sound.((NUFORC Note:  We have corrected the date above to reflect a sighting in 2013.  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95918.html](http://www.nuforc.org/webreports/reports/095/S95918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
