@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:47 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chantilly (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Approximately 20 orange lights in formation moving with no soundI was traveling south on Route 28 going approximately 60 mph when I noticed a non uniform string of bright orange lights stretching from East to West (toward Dulles International Airport). The lights were visible from my driver's door window, across my windshield, and through the passenger window.  The distance of this view was at a minimum 1 mile across. Because I was driving and did not stop, I could not ascertain the speed of the lights.Other vehicles had stopped on the road to look.  I thought they were helicopters, but when I opened my window, I heard no sound.I found many references on the internet to similar sightings in this exact area and in neighboring counties, some with photos that look exactly like the lights I saw.  Those descriptions also noted an absence of sound.((NUFORC Note:  We have corrected the date above to reflect a sighting in 2013.  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95918.html](http://www.nuforc.org/webreports/reports/095/S95918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately i hour - i hour minutes.</sub><blockquote><sub>I looked at the sky outside on 1-10-2012 and to the west and south saw two sightings amongst a tremendous star filled sky.  The sightings moved a bit to the left than to the right than back to their original position.  Each seemed to have a small blue band of light cresenting up from it , then the light would disappear.  At one point early in the sighting I heard sounds that sounds similar to the sound that dolphines make under water.I watched the one in the west sky for an hour.  It at times had multiple small beams of light, hair thin , darting out from it, at one point it looked like a light show of color, then the colored lights would stop.  It would move a bit at times.  I am a teacher with a Master's degree in arts and psychology, I am 53 years of age and NEVER HAD ANY PSYCHIATRIC CARE. THIS WAS VERY REAL WHAT I SAW.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86662.html](http://www.nuforc.org/webreports/reports/086/S86662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
