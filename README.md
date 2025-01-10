@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:16 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:38 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Council Bluffs (IA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 57.0 - 57.0 minutes.</sub><blockquote><sub>the object darted around until it went over the horizoni was on my way home from the nearby industrial estate, when i noticed a extremely bright light in the sky, my dog Timmy, went inside the house when we got home obviously unerved by the goings on. the craft under the gaze of my binoculars, proceeded to grow in the sky, to the the point it resembled a large aircraft.  The terrain nearby was a flat grasssland and slightly marshy.  the craft started to dart around the sky in random directions until it finally disappeared over the horizon. I stayed out for a further hour, looking for it but it did not reappear. the next morning we (me and my dog) and we noticed strange burn like marks and a sulphorous smell was detected.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54670.html](http://www.nuforc.org/webreports/reports/054/S54670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two red lights on north Tempe horizon.Two red lights on the Horizon, I went inside to grab my buddy to show him and when I came back they were gone.  Direction was straight north from Tempe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116630.html](http://www.nuforc.org/webreports/reports/116/S116630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
