@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:38 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two red lights on north Tempe horizon.Two red lights on the Horizon, I went inside to grab my buddy to show him and when I came back they were gone.  Direction was straight north from Tempe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116630.html](http://www.nuforc.org/webreports/reports/116/S116630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Canaan (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White & Green Light formation west of Canaan, NH.At approximately 7:45pm, my wife called me out to the back porch, looking west from Canaan, NH, toward Lebanon, NH.  She pointed out 6-9 lights, seemingly stationary, possibly moving slightly in formation.  The lights were a mixture of white and green, and after a few minutes of hovering/floating in the same space over the horizon across the valley above the mountains in the distance (hard to tell how far, as it was otherwise dark around the object), all lights vanished at once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138344.html](http://www.nuforc.org/webreports/reports/138/S138344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
