@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jackson (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three lights in a triangular white ligt  formation without red flashing lights moving east to west  making no sound.Jackson, Mississippi near the intersection of North State Street and Presto Lane, It was a moonless sky before sunrise. At least I do not remember seeing the moon. Three white or yellowish white lights moving west to east in a triangular formation at an undeterminable altitude and velocity. There was no red flashing red light that is typically seen with aircraft at night nor was there a sound of a jet or propellor engine nor was there the choping sound of the rotary blades of a Heilocopter.  There was no apparent sound. The light formation was close enough so that if I extended my hand that the two outer lights cuold just be seen on th eouter edge of my index finger. The lack of red flashing lights is what captured my attention and inclined me to get a better look. I was indoors when I first saw it but I went out doors within less than a min of first seeing it and watched it move west disappearing into the western sky. When I got out doors It was still colse enough to still clearly make out three lights. severall mins later I saw an airplane moving in exactly the opposite direction with the typical red flashing ligt and propellor engine sound.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35395.html](http://www.nuforc.org/webreports/reports/035/S35395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four orange lights flying straight upIt was a partly cloudy night and my husband was taking the trash out to the garbage can when he spotted 4 orange circular lights in the sky flying straight up into the air.  They were traveling at a very fast rate to the south southeast of my location.  The airforce base and airport around here is to the west of where I live.  After some time of going straight up, they began curving slightly towards the left and started gradually disappearing.  They were moving so fast that by the time I ran inside to grab my phone to record video, there were only 2 dots left.  There was no sound, but my husband said he thought he saw black particles beneath the dots which made him think fireworks, but there were no explosions or sparkles of light normally associated with fireworks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125210.html](http://www.nuforc.org/webreports/reports/125/S125210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
