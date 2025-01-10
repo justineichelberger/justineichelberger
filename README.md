@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jarvisburg (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On the afternoon of January 10, 2016, I was on my way from my apartment to the store.  As I left My apartment, I  noticed that there was an almost “aspen”  blue sky  (unusual  for the area) and that that there was not one cloud in the sky anywhere.  As I pulled out of my driveway there was the short drive to a stop sign.  I live  in  a rural  area adjacent to the Outer Banks of North Carolina.  There  was no traffic to be seen…also not  unusual for my area and sparsely populated.  I looked across the highway to an uncultivated, empty field and as I glanced up I could see one cloud that was not moving.  It seemed to be cirrus type of cloud only very low in the sky.  I believe the cloud was  not more than 3000 to 4000 feet in elevation.  The bottom portion was thick and the top portion was wispier.  There was a section at the top that was empty of any cloud material and blue sky  could be seen clearly through it.I was immediately drawn  to this cloud.  I exited my car and leaned back on the front never taking my eyes off of the cloud.  I have no idea how I knew, but I was fully aware that there was an occupied object  of some type  seemingly “hiding” in that cloud.  I occurred to me that the object, which I could not see, must be giving off some type of electrical energy or radiation.  Why else would a person stand in the middle of the street in 30 degree weather  with no coat on.I watched this cloud, I think without blinking, for a good 7-10 minutes.  I knew something was going to happen…again, I am not sure how.  As if following my wishes, as I was cold and grew impatient  for the event I knew was going to come,  a silver/grey disk rose up in clear view.  Simultaneously, the object took  off  at a speed I can’t begin to explain.  Speed  like  that would kill a human.. the  G-force must have been off the chart.  I tracked it with my eyes, but at the speed it was traveling my eyes were not quick enough and for a moment, I lost track.  I kept my eyes steady and picked it up again and followed the object down range until it appeared  the size of a pinhead.  It headed up, punched through the blue sky and seemingly out of the atmosphere.  I was so close to this event  that I could see the craft was 25-35 feet in diameter.  Also, as it rose up and blasted away, it also took the cloud with it.  I looked back, stunned out of my mind, and there was nothing w! here the cloud had been.I never did go to the store.  I went straight  back to my apartment and felt that I had been jerked from the reality that  we all live in to another completely different place.  Little did I know that there was more to come.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143644.html](http://www.nuforc.org/webreports/reports/143/S143644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Bellside/Wishaw (UK/Scotland) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>large pink luminous globe ,bright flare close too moved at very low level silently((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18332.html](http://www.nuforc.org/webreports/reports/018/S18332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
