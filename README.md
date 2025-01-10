@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Canaan (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White & Green Light formation west of Canaan, NH.At approximately 7:45pm, my wife called me out to the back porch, looking west from Canaan, NH, toward Lebanon, NH.  She pointed out 6-9 lights, seemingly stationary, possibly moving slightly in formation.  The lights were a mixture of white and green, and after a few minutes of hovering/floating in the same space over the horizon across the valley above the mountains in the distance (hard to tell how far, as it was otherwise dark around the object), all lights vanished at once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138344.html](http://www.nuforc.org/webreports/reports/138/S138344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Jackson (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three lights in a triangular white ligt  formation without red flashing lights moving east to west  making no sound.Jackson, Mississippi near the intersection of North State Street and Presto Lane, It was a moonless sky before sunrise. At least I do not remember seeing the moon. Three white or yellowish white lights moving west to east in a triangular formation at an undeterminable altitude and velocity. There was no red flashing red light that is typically seen with aircraft at night nor was there a sound of a jet or propellor engine nor was there the choping sound of the rotary blades of a Heilocopter.  There was no apparent sound. The light formation was close enough so that if I extended my hand that the two outer lights cuold just be seen on th eouter edge of my index finger. The lack of red flashing lights is what captured my attention and inclined me to get a better look. I was indoors when I first saw it but I went out doors within less than a min of first seeing it and watched it move west disappearing into the western sky. When I got out doors It was still colse enough to still clearly make out three lights. severall mins later I saw an airplane moving in exactly the opposite direction with the typical red flashing ligt and propellor engine sound.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35395.html](http://www.nuforc.org/webreports/reports/035/S35395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
