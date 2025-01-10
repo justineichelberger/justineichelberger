@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:47 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately i hour - i hour minutes.</sub><blockquote><sub>I looked at the sky outside on 1-10-2012 and to the west and south saw two sightings amongst a tremendous star filled sky.  The sightings moved a bit to the left than to the right than back to their original position.  Each seemed to have a small blue band of light cresenting up from it , then the light would disappear.  At one point early in the sighting I heard sounds that sounds similar to the sound that dolphines make under water.I watched the one in the west sky for an hour.  It at times had multiple small beams of light, hair thin , darting out from it, at one point it looked like a light show of color, then the colored lights would stop.  It would move a bit at times.  I am a teacher with a Master's degree in arts and psychology, I am 53 years of age and NEVER HAD ANY PSYCHIATRIC CARE. THIS WAS VERY REAL WHAT I SAW.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86662.html](http://www.nuforc.org/webreports/reports/086/S86662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Williston (seen from; to NE) (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 bright orange lights above horizon with possible smoke trail above them appeared stationaryBright orange/yellow lights.  One just above horizon, the other about 20-25 degrees above the first.  Possibly my imagination, moon light playing tricks, but it looked like a light trail of smoke above the lights.  They appeared stationary, then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67958.html](http://www.nuforc.org/webreports/reports/067/S67958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
