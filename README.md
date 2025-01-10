@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Guatemala () reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>in guatemala city the whole city saww it and lasted 3 hours the news broadcast got it on tape is a good tape it proofs it there were flying in the same area and at incredible speed. yellow lights ((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34423.html](http://www.nuforc.org/webreports/reports/034/S34423.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bude (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large black craft hiding within thick, dark cloudsDriving on the Red Post to Kilkhampton Road (Bude) at approximately 7.30-7.45 this morning I saw a huge black shape slowly come out of the clouds.  I could only see a small part of it but it was really big, then the clouds moved around it and covered it completely.  Just before it disappeared into the cloud it seemed to pixilate within  the clouds.  When I managed to stop I watched for a while but could only see dark thick clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152530.html](http://www.nuforc.org/webreports/reports/152/S152530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
