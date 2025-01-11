@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:32 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my husband noticed three bright lights in the formation of a triangle just sitting in the sky. We thought they were stars and as we kept looking they slowly disappeared.  It wasnt a gradual disappearance as if they were flying away like an airplane.  Almost like a light dimming out.  No sound and no blinking lights like an airplane and no movement.  Our dog was barking from the backyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152544.html](http://www.nuforc.org/webreports/reports/152/S152544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball, falling from 15 to 20 degrees above the horizon in a straight line to the horizon from my view, leaving a trail.I was driving northeast of Las Vegas, NM, a few miles out of Las Vegas and driving northeast and heading for Colorado Springs, Colorado.  I had just put in gas in while on the southwest side of Las Vegas, NM, at 21:30 hours.  At approximately 21:50 hours, about 15 to 20 degrees above the horizon to the north, looking through my windshield, I saw bright green light appear, and it made a straight line to the horizon leaving a trail.  It startled me and I thought someone had set a single 'roman candle' off and it was falling back to earth.  It was so bright and so distinct, it looked as if it were right beside the road near me, and I looked for cars or people as I went by.  I did not see anyone in the area.  And I did not suspect this being a 'atmospheric' event.  There were several aircraft visible in the night sky before and after the event; even though there was a full moon it was very, very distinct.  I would suspect someone on those airplanes also saw the event.  A few minutes later, while listening to the Russ Johnson show on KOA in Denver, I realized this event was visible in many other states, and described as traveling 'north to southeast.'  From my point of view, it was coming directly down in a straight line, so it must have been moving North to South.  One caller commented it landed in the 'Texas Panhandle.'  No, as I was way north and west of the Texas panhandle, and it did not go overhead!  As I stated above, it appeared to fall straight down from a position 15 to 20 degrees above the horizon, directly north of my position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15900.html](http://www.nuforc.org/webreports/reports/015/S15900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
