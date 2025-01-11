@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball with flaming tail shooting across mid-sky.We were walking near the WA Correction Center, facing about 70* E, with a full moon at mid-sky just to our right.  At the same level as the moon, from left to right a large fireball with a flaming tail went across the sky.  The flaming tail kept breaking apart.  The fireball and tail were bright orange with a bright yellow ring around the fireball.  We thought it might be a satellite breaking apart in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132129.html](http://www.nuforc.org/webreports/reports/132/S132129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Streaking yellowish greenish light from south 4 seconds with giant bright blue flash, no soundOn January 11, 2014 at approximately 1:45 am, in eastern ottawa (capital of Canada).  My spouse and I were walking on a suburban street, the sky was cloudy, temperature was -6 celsius, we both saw a yellowish greenish light to the south just streak across the sky above us, for 4 seconds, then a very bright blue flash, with NO sound.  No abnormal weather conditions, no planes, not even a flight path over that end of the city.  Never seen anything like that in my life.  Not a meteor for sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106423.html](http://www.nuforc.org/webreports/reports/106/S106423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
