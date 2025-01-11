@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:48 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bolton (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circular changing lights.Letting the dog outside, I noticed an unusually large 'star' in the sky.  When I focused on the light, I could tell the light was changing colour.  Going from white, to red, to blue.  I used binoculars to get a closer look, finding it was a round object and seemed to have the coloured lights going in a circular motion.  I watched the lights for half an hour, and there was no movement.  Keeping in mind the earth rotates 17 km every minute, there was no shift of location or disruption of lights.  To make sure it wasn't just me seeing the changing lights, I had my mother and brother look through the binoculars.  Both saw exactly what I just described above.This is the second time I've witnessed a sighting, and reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125222.html](http://www.nuforc.org/webreports/reports/125/S125222.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball with flaming tail shooting across mid-sky.We were walking near the WA Correction Center, facing about 70* E, with a full moon at mid-sky just to our right.  At the same level as the moon, from left to right a large fireball with a flaming tail went across the sky.  The flaming tail kept breaking apart.  The fireball and tail were bright orange with a bright yellow ring around the fireball.  We thought it might be a satellite breaking apart in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132129.html](http://www.nuforc.org/webreports/reports/132/S132129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
