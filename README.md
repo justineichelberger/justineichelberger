@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 21:45 - 21:45 minutes.</sub><blockquote><sub>Looked up to the Northen sky and saw a set of 9 orange pulsating Balls, as soon as those 9 disappeared a second group of 9 appeared.Bright orange Balls, in 2 different sets.  Each set consist of 9.  First spoted in the Northeastern sky.  After first set of 9 disappeared a second group of 9 came from the Southwest and moved towards the Notheastern sky.  Moving slower than a plane but a steady movement.  Objects seam to pulsate increasing and decreasing in size.  Do have second group of 9 on video.  One witness saw two a few months ago.  Coming from the south heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15923.html](http://www.nuforc.org/webreports/reports/015/S15923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'pyramid' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : Right when me and my friend left  my house we saw a bright green glowing object that looked like a 4 sided pyramid then after about 2 min it took off straight into the sky leaving a yellow trail behind it.Same as above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02045.html](http://www.nuforc.org/webreports/reports/002/S02045.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
