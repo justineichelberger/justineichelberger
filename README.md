@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 10 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bridgend (UK/Wales) (YT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was around 06:50 and as I carry out my morning routine,  I went out the back garden to have a cigarette when the object caught my eye.  At first I thought it was an airplane slowly spinning out of control, but as I kept watching it, I could vaguely see a centre light with what looked like 3 other lights spiralling around it.  It reminded me of a fidget spinner sort of thing.  It was gliding through the sky then took a curved right turn before disappearing.  It lasted for about 5 minutes,  I tried to capture photo evidence with my phone but with it being dark with some light pollution I was unable to get a shot of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152527.html](http://www.nuforc.org/webreports/reports/152/S152527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>UFO Santa Ana ,CA 01/11/09On January 11,2009 I went to throw the trash when a bright object caught my attention,look like a big star in the sky but not until it moved very fast across the sky like a comet with a small glowing tail and then stopped. At this time I started yelling to my wife to come outside and then my folks woke up thinking something had happened ,when they came outside my reaction and there reaction was shock. It looked like one of the brightest star in the sky moving vary odd and very fast from one angle to another. When I called my older brother and told him I am seeing a UFO he told me I was on drugs but I just had to convince him to come see it for them self, meanwhile my folks were very nervous and exited at what they were witnessing.The object looked oval and very bright but when my brother arrived he was wordless he then immediately took his camera and we stared filming the objects they were moving so fast that it was hard for us to zoom in so we had to go on ! top of the roof were we can get a better view,we filmed it about 35min but whats weired was that when we filmed it there was two oval objects that you can clearly see in the video and they seemed to be following each other, after some attempts to call local news we saw and heard helicopters and or local helicopters. When the helicopters got close to the objects they seem to dive down and never came up again.But they showed up almost at the end of the video witch we later posted a 3min video of the UFO objects .To this day it was a unfortgatable occurrence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71416.html](http://www.nuforc.org/webreports/reports/071/S71416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
