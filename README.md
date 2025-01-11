@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Downer (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent, five-sided, ufo orange, circle on bottom.While driveing east we watched a orange light hover very high over a group of radio antennass.  So high, I thought it was the space station.  Then it suddenly flew straigt represent us and directly over us.  It flew in front of the moon and had five straight sides with a small light at each point, and a big glowing orange light on the bottom center.  It was silent.  Then took off fast to the north until it was out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116798.html](http://www.nuforc.org/webreports/reports/116/S116798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we were sitting in back of house about 7:00 pm there started a many circle caravan traveling from southwest to eastnorth about 36 inches apart but continuely travleling one right after the other , it lasted about 15 minutes they left nothing else was seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152540.html](http://www.nuforc.org/webreports/reports/152/S152540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
