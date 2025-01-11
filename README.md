@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green fireball, falling from 15 to 20 degrees above the horizon in a straight line to the horizon from my view, leaving a trail.I was driving northeast of Las Vegas, NM, a few miles out of Las Vegas and driving northeast and heading for Colorado Springs, Colorado.  I had just put in gas in while on the southwest side of Las Vegas, NM, at 21:30 hours.  At approximately 21:50 hours, about 15 to 20 degrees above the horizon to the north, looking through my windshield, I saw bright green light appear, and it made a straight line to the horizon leaving a trail.  It startled me and I thought someone had set a single 'roman candle' off and it was falling back to earth.  It was so bright and so distinct, it looked as if it were right beside the road near me, and I looked for cars or people as I went by.  I did not see anyone in the area.  And I did not suspect this being a 'atmospheric' event.  There were several aircraft visible in the night sky before and after the event; even though there was a full moon it was very, very distinct.  I would suspect someone on those airplanes also saw the event.  A few minutes later, while listening to the Russ Johnson show on KOA in Denver, I realized this event was visible in many other states, and described as traveling 'north to southeast.'  From my point of view, it was coming directly down in a straight line, so it must have been moving North to South.  One caller commented it landed in the 'Texas Panhandle.'  No, as I was way north and west of the Texas panhandle, and it did not go overhead!  As I stated above, it appeared to fall straight down from a position 15 to 20 degrees above the horizon, directly north of my position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15900.html](http://www.nuforc.org/webreports/reports/015/S15900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rahway (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vertical hovering Cylindrical shape object seen in Rahway New Jersey.I observed a vertical cylinder shape object hovering a few hundred feet above ground. It didn’t move for about a minute then it started moving horizontally then dropped altitude, hovered for another minute then began moving upwards. I took three pictures of it and decided to drive a few blocks to see if I can get a better look at it. After driving three blocks I lost sight of it and never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161592.html](http://www.nuforc.org/webreports/reports/161/S161592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
