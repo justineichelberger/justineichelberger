@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Bangor (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three orange spheres located in upstate N.Y.At 23:00 Wednsday night I was traveling south on a side road in a rural area where there are no lights on the road.  As I was driving I saw One orange sphere as big as a middle size ball in the sky,  Trying to watch it as it just hovered there and drive to I spotted another one come out behind the orange sphere ( thats what it looked like).  Then as I was entering my sisters drive way I got out of the car and there was three exactly the same color and size.  Then they all three just dissapired. I stayed out side for another 10 min and didn't see any more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86543.html](http://www.nuforc.org/webreports/reports/086/S86543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Cambridge (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright amber/orange spherical light moving erratically at nightAmber/orange spherical light that moved erratically from a distance of approx. 400 metres away at about 500 to 1000 feet altitude towards me. It was off to my right above the terraced houses of an inner city area of Cambridge, England.  On a still windless night with low cloud and drizzle there was no noise. The movement was sometimes quite quick and at other times it remained still for minutes. At the time I was arriving home at ((address deleted)) Road in the east of the city and was looking upwards over roof tops in the direction of the suburb of Cherry Hinton.  I could not take my eyes off the object for fascination until it moved out of sight becoming too low over the houses to the south for me to continue watching it. I had been drinking alcohol during the evening but have no doubt that my senses were not being deceived.  It was a very sobering experience.  I have told very few people about the incident in the intervening years for the reason that I do not wish to seem like I am making up a fanciful story. I record in your form above the date of 11/11/1974.  In fact I cannot recall the exact date but it was in the early hours of a Thursday morning between November, 1974 and February 1975.  Maybe this will be of interest to somebody.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16516.html](http://www.nuforc.org/webreports/reports/016/S16516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
