@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:32 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighting Replicated in West Nashville, again.Pick a clear night to go out to the location detailed below and see for yourself.  I see this thing almost every time I've ran on this track and cannot explain what it is.  Good luck, people.  (probability of sighting is extremely high in my experience.)  6506 Harding Pike, Nashville, TN 37205, USA Latitude : 36.08XXXX| Longitude : -86.89XXXX  2200 Nightly   Warning:  going onto the property is against the law and there will be a security guard lady to tell you that if you are not slick.  It is private property.  This is not a hoax so please moderator people, do not flag it as such.(For more information on sightings,see my original post entitled:  Sighting replicated two nights in a row in West Nashville. 11/14/14.)((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116669.html](http://www.nuforc.org/webreports/reports/116/S116669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my husband noticed three bright lights in the formation of a triangle just sitting in the sky. We thought they were stars and as we kept looking they slowly disappeared.  It wasnt a gradual disappearance as if they were flying away like an airplane.  Almost like a light dimming out.  No sound and no blinking lights like an airplane and no movement.  Our dog was barking from the backyard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152544.html](http://www.nuforc.org/webreports/reports/152/S152544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
