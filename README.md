@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>20 red/orange lights rising up in the sky for short time then disappeared.About 20 red/orange lights up there rising up together.  We ran in to put the dogs in, came back out it was all gone??????((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106223.html](http://www.nuforc.org/webreports/reports/106/S106223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sun Valley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>4 round orange lights over 170 fwy north bound in San Fernando Valley, CaI was driving on the 170 fwy going North between Sherman Way and Roscoe Blvd exits Saturday night when I looked up in front of me and noticed 4 orange round lights.  At first I thought they were airplanes but noticed that they were still and it seemed like the distance between each was accurately measured, very precised.  They weren't too close to each other but not too far either.  Airplanes do not travel like that.  I asked my husband and brother in law to look closely since I had slowed down my speed to 30 mph and had a line of cars behind me.  They too agreed those lights looked strange.   We remained quiet all the way home and have not discussed it since.  If someone else saw these lights the same night and place, please post about it.  I would like to know we weren't the only ones that saw them that night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106281.html](http://www.nuforc.org/webreports/reports/106/S106281.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
