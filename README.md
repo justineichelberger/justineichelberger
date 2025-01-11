@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Rahway (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vertical hovering Cylindrical shape object seen in Rahway New Jersey.I observed a vertical cylinder shape object hovering a few hundred feet above ground. It didn’t move for about a minute then it started moving horizontally then dropped altitude, hovered for another minute then began moving upwards. I took three pictures of it and decided to drive a few blocks to see if I can get a better look at it. After driving three blocks I lost sight of it and never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161592.html](http://www.nuforc.org/webreports/reports/161/S161592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several orange lights moving about each other across the sky, but as a pack and then disappeared.I am a police officer and was on duty when my radio operator sent me a message in my squad computer indicating they were receiving numerous 911 calls about lights in the sky and ufo's in my area that I was working and asked if I could see anything.  I was on a traffic stop at the time and was stationary, when I looked into the north east sky and saw very clearly, 4 orange, bright lights that formed a diamond or box shape.  The lights were constant, not flickering, and were drifting to the east. The lights then drifted together as a unit either behind a cloud or they just went out because it appeared as though they kind of fizzled out like a flare going out or as if they were going behind cloud cover.  Immediately after this event, I scanned the sky looking for additonal objects and noticed a cluster of 9 additional lights that again, were moving in a pack but these lights were moving independant of each other and creating different geometric shapes.  I had a pair of field glasses in my squad and viewed the lights. I was unable to see any structure between the lights or anything hanging or connected to them.  Over the course of about 10-15 minutes, this cluster of lights which seemed to rotate and move about each other, drifted east in the sky never gaining or losing altitude and when it reached the same spot as the first cluster, the lights all one at a time seemed to "burn out".  Traffic was heavy and there was alot of noise at my location (perryville rd at newburg rd looking northeast) so I could not hear any noise that these objects may have been making.  The objects moved slow like they were drifting.  I had my radio operator contact the airport to verify if these objects were visable on radar and the airport indicated they could not detect anything in that area.  After the event, I spoke with another officer who also saw them and was about 4 miles north west of my location and he explained that he saw the same series of events but to the south which indicates the lights passed between us somewhere! between Springbrook rd. and Newburg rd. from the north to south and traveled in an eastward dirction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15901.html](http://www.nuforc.org/webreports/reports/015/S15901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
