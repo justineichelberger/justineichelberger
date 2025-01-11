@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:36 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:48 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mooresville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My neighbor asked me to come outside to look at something in the sky.  We both witnessed a slow moving light (blue in color) traveling slowly toward the SSW.  As it approached the horizon, it began to flash slowly but regularly and eventually disappeared over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144432.html](http://www.nuforc.org/webreports/reports/144/S144432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bolton (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Circular changing lights.Letting the dog outside, I noticed an unusually large 'star' in the sky.  When I focused on the light, I could tell the light was changing colour.  Going from white, to red, to blue.  I used binoculars to get a closer look, finding it was a round object and seemed to have the coloured lights going in a circular motion.  I watched the lights for half an hour, and there was no movement.  Keeping in mind the earth rotates 17 km every minute, there was no shift of location or disruption of lights.  To make sure it wasn't just me seeing the changing lights, I had my mother and brother look through the binoculars.  Both saw exactly what I just described above.This is the second time I've witnessed a sighting, and reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125222.html](http://www.nuforc.org/webreports/reports/125/S125222.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
