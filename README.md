@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Falmouth (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large orange ball moves and hovers above house.-January 11, 2014I was sitting outside smoking a cigarette and I was looking at the sky, (mostly the clouds moving as it was a windy evening.)  I saw this large round orange ball and at first I thought it may be the full moon, although since the sighting, I've learned that we didn't have a full moon that night.  It was a little larger than a full moon would've been, and it was bright orange.  At first the clouds were moving in front of it, and then it started moving to my right across the sky.  Its movement was slow and steady unlike that of a shooting start or meteor.   It was much too large to be an airplane.   When it had moved to my right for some time it slowed and hovered in the sky.  Then it looked as if it rose up into the sky quickly and disappeared.  This disappearance was much quicker than the slow movement across the sky. I didn't hear any sounds during the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106253.html](http://www.nuforc.org/webreports/reports/106/S106253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately ? - ? minutes.</sub><blockquote><sub>While taking out the garbage thursday night, I saw two groups of bright amber lights hanging in the sky on the east side of Rockford, high over the vacinity over Perryville Road. Thinking they were helicopters, flying in two random formations, I stopped to observe them for a couple of minutes. They were not flashing lights, but very intense and didn't seem to be moving. I also noted a plane or helicopter with flashing lights to the north approximatly 1-2 miles, and since it was cold and damp and I was not wearing a jacket, I returned to the warmth of my home. The next evening a friend related he'd seen them as well. They were remarkably similar to the in color and intensity to the lights used to light I-90, which was 1/2 mile behind me in the opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15957.html](http://www.nuforc.org/webreports/reports/015/S15957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
