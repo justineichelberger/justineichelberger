@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Storrs (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disk with spokes of lightCircular disk angled with face visible from my perspective, illuminated with glowing pattern of lights spreading like spokes from the center.  The lights pulsated red and green with the top section of spokes red and the bottom section green.  I was woken up by a sound like a helicopter and thought that’s what I was seeing, but it remained in the same relative place for some time and the lights did not behave like any aircraft I’ve seen before.  It was reminiscent of a drone in some ways but definitely much larger.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144450.html](http://www.nuforc.org/webreports/reports/144/S144450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sebastian Inlet (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Nearly 100 Starlike &quot;Lights&quot; moving rapidly in a straight line formation and then disappearing.We were on the beach near the Sebastian Inlet in Florida around 6:50pm Jan 20th 2020 and looked up and there was about a 100 "Stars?" "UFOs?" all moving in a straight line formation, all spaced apart equally, they all moved to certain spot in the sky and literally just disappeared as they moved towards that part of the sky (they were coming from the west and going east over the ocean...you could see Orion Constellation to the south of where they disappeared).You could clearly see them, they were definitely out in space so you couldn't make out an exact shape they looked like stars (lights) but they were definently moving pretty fast. I have never seen anything like this this was a massive phenomenon we actually watched it happen for about 20min.Also, noticed on Youtube there were 2 other sightings uploaded in Cocoa Beach and Near Miami Florida around the exact same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152534.html](http://www.nuforc.org/webreports/reports/152/S152534.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
