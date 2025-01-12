@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball seen in CT skyI was walking with me dog around 5:10 when something caught my eye. I looked up and saw a fireball fly across the sky.  I'm not sure how close it was, but it was close enough where I could see pieces and sparks fly off of it.  A tree branch obstructed my view as it continued through the sky, so I ran past the tree.  Even though this only took a few seconds, the fireball was gone.  There were no buildings or anything in the way to block my view after I got around that tree, so I'm not sure where it went.  From where I was, I could see sparks and what looked like smaller pieces come off of it so it must have been pretty close.  My dog's ears perked up, and she sniffed the air and pulled at the leash and jumped up.  I did not hear a noise with it, but she must have either been able to hear it or she saw it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106235.html](http://www.nuforc.org/webreports/reports/106/S106235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pinar del Rio (Cuba) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object was moving east at low speed and soundlessI was coming home aproxx 12:30 am walking, when i spotted lights coming from the west, first i thought it was a plane, then i realized it was approaching very slowly, i continued walking for a half block more, then i stopped to look up while the object was crossing the avenue some 100 mts over my head, there was not traffic at all, so i could clearly listen there was not a sound, the object seems to have triangular shape, with three white lights at each point and a red one in the center, it was heading east completely noiseless and very slowly, planes go much faster and you can hear the noise they make, i just look at it until it dissapeared behind the roof of the houses, as planes lights denotes the colour of the aircraft and sometimes the name of airline, this "thing" seems very dark colour.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46584.html](http://www.nuforc.org/webreports/reports/046/S46584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
