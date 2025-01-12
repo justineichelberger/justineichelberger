@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:23 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Mojave Desert (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Stationary object in the Desert sky accelerates away at incredable speed.On or about 01-12-95 at 1:00 AM, I was camped out in a place East of Ransberg California, in the Mojave Desest.  I was doing the usual thing before turning in, which was searching the skys for anything unusual. There was an object that was brighter than most in the sky, directly above me. The object was stationary and did not change in shape or brightness.  My scanning of the skys contiued for about 45 minutes when suddenly the brighter object, directly above begain to move and excelerate Westward. As it excelerated, the object appeared to asend, as it was moving away.  It took no more that a two seconds to fade out of sight. I got the feeling, either I or the area was being observed.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59977.html](http://www.nuforc.org/webreports/reports/059/S59977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Alma (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately night - night minutes.</sub><blockquote><sub>a strange ball of fire, like after burners.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74071.html](http://www.nuforc.org/webreports/reports/074/S74071.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
