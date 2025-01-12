@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lady Lake (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately CURRENT - CURRENT minutes.</sub><blockquote><sub>Object was stationary, then moved slowly to the soutwest from its original tposition then hoveredThis, the second siting in this area.  Several lights including flashin light moved slowly essentially east to west the southerly where it remains stationary and has been for past 15 minutes.  Could not see shape, only a circle of lights on the suspected perimeter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61068.html](http://www.nuforc.org/webreports/reports/061/S61068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Single perfect sphere of white light in clear blue sky over Hudson River.  It soon dipped down behind low-hanging cloud formation below, and did not reappear.  At first I guessed that it was a reflection off a plane (2 airports are nearby), but I don’t see how that’s possible because the sun was behind it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138422.html](http://www.nuforc.org/webreports/reports/138/S138422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
