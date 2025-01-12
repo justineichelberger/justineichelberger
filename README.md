@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange red fireballs go slowly across vancouver sky, caught on videoRed and orange fireballs with a glowing type haze around it.  Started from north and traveling south very slow the proceeded upward disappearing at a very high point, it was one about every 30 sec.  We did video this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95932.html](http://www.nuforc.org/webreports/reports/095/S95932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 7:45 am, my dad and I were leaving our house to take my children to school.  One of them points up to the sky and says &quot;Hey! CooAt 7:45 am, my dad and I were leaving our house to take my children to school. One of them points up to the sky and says "Hey! Cool! Look at that plane!"  We all looked and saw an airplane leaving a contrail lit up by the rising sun.  It was amazingly defined, you could see both lines in the contrail.  Then as my dad was driving after we pulled out of our drive, I kept watching this contrail and noticed a disturbance in part of it and pointed it out to him and that's when we both saw an orb-like white thing next to the contrail.  The disturbance I can only describe as it looked like it was almost swirling!  The orb was too big to be a star. From my perspective it looked like it was right by the contrail.  It moved in a figure 8. I noticed it looked as if one side of the contrail was straight as normal while the other made a curvy wwww-shaped line the whole length of it.  All of a sudden, the contrail started dissipating! Almost instantaneously! It was then the orb thing made a 90 degree turn and shot off so fast I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125230.html](http://www.nuforc.org/webreports/reports/125/S125230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
