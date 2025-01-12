@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>At 7:45 am, my dad and I were leaving our house to take my children to school.  One of them points up to the sky and says &quot;Hey! CooAt 7:45 am, my dad and I were leaving our house to take my children to school. One of them points up to the sky and says "Hey! Cool! Look at that plane!"  We all looked and saw an airplane leaving a contrail lit up by the rising sun.  It was amazingly defined, you could see both lines in the contrail.  Then as my dad was driving after we pulled out of our drive, I kept watching this contrail and noticed a disturbance in part of it and pointed it out to him and that's when we both saw an orb-like white thing next to the contrail.  The disturbance I can only describe as it looked like it was almost swirling!  The orb was too big to be a star. From my perspective it looked like it was right by the contrail.  It moved in a figure 8. I noticed it looked as if one side of the contrail was straight as normal while the other made a curvy wwww-shaped line the whole length of it.  All of a sudden, the contrail started dissipating! Almost instantaneously! It was then the orb thing made a 90 degree turn and shot off so fast I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125230.html](http://www.nuforc.org/webreports/reports/125/S125230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO spotted in air past DFW airport---not a plane or hot air balloonMy daughter and i were traveling east on Illinois Ave across spur 408--when she spotted a very large round-oval shaped craft hovering over the skyline right below some clouds to the north. It was too large to be an airplane, and it didnt move for about 5 minutes---it just hung in the air and when we stopped to continue to look at it---it just took off straight into the sky-not like an airplane or a hot air balloon. It seemed to be in the Plano area or past DFW airport. It didnt have any lights flashing--it was just a very massive object hovering in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60842.html](http://www.nuforc.org/webreports/reports/060/S60842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
