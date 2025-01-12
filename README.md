@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:23 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Alma (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately night - night minutes.</sub><blockquote><sub>a strange ball of fire, like after burners.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74071.html](http://www.nuforc.org/webreports/reports/074/S74071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange red fireballs go slowly across vancouver sky, caught on videoRed and orange fireballs with a glowing type haze around it.  Started from north and traveling south very slow the proceeded upward disappearing at a very high point, it was one about every 30 sec.  We did video this .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95932.html](http://www.nuforc.org/webreports/reports/095/S95932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
