@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>CRAFT HOVERING IN WEST SEATTLE WITH CHANGING LIGHTSI saw a bright white light in the sky next to the moon.  It was standing in one spot over five minutes, then started to use only red for one minute.  Then red and white with a blinking pattern for five minutes. The lights would go all off and reappear with the red, white, and greenish blue flashes, scrolling around.  The scrolling lights helped show the shape of the craft.The craft would hover, then went north, came to the original spot, then moved west. Came back to original spot and hovered again.I still couldn't believe what I was seeing till a air plane showed and flew under the craft.  The craft held still and I know it is not another air plane because of the size, lights and movement was not the same... and a air plain wouldn't fly under a helicopter.After 30 minutes staying in see able location the craft finally decides to move south east towards downtown Seattle where I saw a lot of airplanes surrounding the craft.I was thinking maybe they are trying to figure what was gong on.  The craft continued to head south east.. and vanished.  My fiance took a video from his cell phone and it shows how it was hovering and showing some of the colors.I HAVE NEVER SEEN A AIR PLANE OR HELICOPTER CHANGE DIRECTIONS WITHOUT TURNING AROUND... JUST SAYING :)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86535.html](http://www.nuforc.org/webreports/reports/086/S86535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Mojave Desert (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Stationary object in the Desert sky accelerates away at incredable speed.On or about 01-12-95 at 1:00 AM, I was camped out in a place East of Ransberg California, in the Mojave Desest.  I was doing the usual thing before turning in, which was searching the skys for anything unusual. There was an object that was brighter than most in the sky, directly above me. The object was stationary and did not change in shape or brightness.  My scanning of the skys contiued for about 45 minutes when suddenly the brighter object, directly above begain to move and excelerate Westward. As it excelerated, the object appeared to asend, as it was moving away.  It took no more that a two seconds to fade out of sight. I got the feeling, either I or the area was being observed.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59977.html](http://www.nuforc.org/webreports/reports/059/S59977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
