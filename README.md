@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pinar del Rio (Cuba) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>the object was moving east at low speed and soundlessI was coming home aproxx 12:30 am walking, when i spotted lights coming from the west, first i thought it was a plane, then i realized it was approaching very slowly, i continued walking for a half block more, then i stopped to look up while the object was crossing the avenue some 100 mts over my head, there was not traffic at all, so i could clearly listen there was not a sound, the object seems to have triangular shape, with three white lights at each point and a red one in the center, it was heading east completely noiseless and very slowly, planes go much faster and you can hear the noise they make, i just look at it until it dissapeared behind the roof of the houses, as planes lights denotes the colour of the aircraft and sometimes the name of airline, this "thing" seems very dark colour.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46584.html](http://www.nuforc.org/webreports/reports/046/S46584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It appeared to be cascading down the tree outside, a huge fir with a slanting shape. The object curled down in puff-like shapes of smoke(?) and then stopped, a round shaped appeared and glowed colors of blue and green then the glowing stopped and it seemed to disappear in a fast straight line away into the night. my reaction was simple, another UFO, oh, one of those...that's different from others that I've seen...esp. just right outside my window...I love it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21064.html](http://www.nuforc.org/webreports/reports/021/S21064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
