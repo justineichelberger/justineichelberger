@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 11 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately ? - ? minutes.</sub><blockquote><sub>While taking out the garbage thursday night, I saw two groups of bright amber lights hanging in the sky on the east side of Rockford, high over the vacinity over Perryville Road. Thinking they were helicopters, flying in two random formations, I stopped to observe them for a couple of minutes. They were not flashing lights, but very intense and didn't seem to be moving. I also noted a plane or helicopter with flashing lights to the north approximatly 1-2 miles, and since it was cold and damp and I was not wearing a jacket, I returned to the warmth of my home. The next evening a friend related he'd seen them as well. They were remarkably similar to the in color and intensity to the lights used to light I-90, which was 1/2 mile behind me in the opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15957.html](http://www.nuforc.org/webreports/reports/015/S15957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caruthersville (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Floating blinking red and yellowish orange lights in Southeast Missouri near Hwy 412I was driving home from a friends house. When I notice on a overpass about a half mile ahead, a round almost oval yellowish orange light the size of a beach ball.  With two smaller blinking red lights on both sides of the yellowish orange light. At first glance I thought it was a 18 wheeler because how high the red lights were from the road.  But after staring at the lights for 20 or 30 seconds I notice a black shadow above the orange light. The sky was a dark gray-purple which made it possible for me to see the black shadow.  Under the black shadow and yellowish orange light I could the glow of street lights on the other side of the overpass.  That's when I realized it was not on the road, it was above the road and could not have been an 18 wheeler.  Then the lights shifted to the left behind a tree line and out of my sight.  When I got to the overpass there was no lights or shadow to be found.                </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86562.html](http://www.nuforc.org/webreports/reports/086/S86562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
