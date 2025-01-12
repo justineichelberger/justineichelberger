@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO spotted in air past DFW airport---not a plane or hot air balloonMy daughter and i were traveling east on Illinois Ave across spur 408--when she spotted a very large round-oval shaped craft hovering over the skyline right below some clouds to the north. It was too large to be an airplane, and it didnt move for about 5 minutes---it just hung in the air and when we stopped to continue to look at it---it just took off straight into the sky-not like an airplane or a hot air balloon. It seemed to be in the Plano area or past DFW airport. It didnt have any lights flashing--it was just a very massive object hovering in the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60842.html](http://www.nuforc.org/webreports/reports/060/S60842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Arlee (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A flash above mountains and went from bright to dull several times; looked with telescope and definate object-tried to photograph.The flash was directly above mountains to the west.  The flash would get really bright and then slowly fade away and get bright again. Several times, randomly.We watched it for 20 mins and it remained there going off and on.  We looked at it with telescope and it was a definite object.We got our camera and would see the bright flash in view finder and took the picture but it would be total black-tried 3 times when it was bright. Immediately after third time the light zoomed off and left a glowing aura in the sky for a few mins after it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67988.html](http://www.nuforc.org/webreports/reports/067/S67988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
