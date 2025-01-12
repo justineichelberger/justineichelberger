@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Syracuse (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Nine orange lights ascending into western sky over Antelope Island1/12/13 at approx 1230am I was on my back porch looking up at the stars.  It was partially cloudy with several clear spots.  South west from my location a large orange light ascending straight up into the sky caught my attention.  After several seconds, it seemed to flicker out.  Just then 2 more came from the same spot as the first.  When the fourth came up, I ran upstairs to wake my husband.  I opened the blinds just as the fifth and sixth came up.  Then three more, one after another appeared, traveling the same path.  They all came from the same place, ascended straight up, then either disappeared into the clouds, or just disappeared.The objects initially looked like a rocket being launched from the ground.  They never went back down, just up.  I could not make out the shape other than maybe round or oval, they were just large, bright, very orange lights traveling at a fast and steady speed. They clearly came from the exact same place.The objects seemed to have come from the area of Antelope Island, maybe even south west of that.  I heard no noise coming from them when I was outside, and I have never seen planes or jets that were bright orange and silent.  I don’t know what they were.  I only hope someone else may have seen them too.  Maybe there were more than the nine I saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95927.html](http://www.nuforc.org/webreports/reports/095/S95927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Storrs (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disk with spokes of lightCircular disk angled with face visible from my perspective, illuminated with glowing pattern of lights spreading like spokes from the center.  The lights pulsated red and green with the top section of spokes red and the bottom section green.  I was woken up by a sound like a helicopter and thought that’s what I was seeing, but it remained in the same relative place for some time and the lights did not behave like any aircraft I’ve seen before.  It was reminiscent of a drone in some ways but definitely much larger.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144450.html](http://www.nuforc.org/webreports/reports/144/S144450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
