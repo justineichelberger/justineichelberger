@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:05 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:30 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  74</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152818.html](http://www.nuforc.org/webreports/reports/152/S152818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A large object, engulfed in flames, chillingly drifts along Rancho Cucamonga foothills.I stepped out to my car to grab some items and my attention was instantly drawn to the northern foothills, a solid mass engulfed in flames was drifting in a slow upward ascend.  It seemed huge, like the size of a mini van.  Judging by the foothills in the background, it had to have been a couple thousand feet climbing to the upper atmosphere, where it gently faded into nothing.  We noticed it re- ignited about a mile east, for a minute or so, then it disappeared when commercial aircraft was near its proximity.  I still have the chills going through my body from seeing that..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116681.html](http://www.nuforc.org/webreports/reports/116/S116681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
