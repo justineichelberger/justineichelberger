@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wapakoneta (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>trianglular crafts in a triangle formation over wapakoneta, ohiothe triangular objects flew around in a triangle pattern and began to zig zag back and forth. they began to spin around before beginning to speed away in a flash of light. they were very noisy, sounding somewhat like a frieght train. seconds prior to the sighting an airplane flew over followed in the same path by the crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61135.html](http://www.nuforc.org/webreports/reports/061/S61135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 teardrop shaped crafts hovered in the sky changing colorThere were 3 teardrop shaped crafts hovering in the sky. I saw them when I was doing some star gazing from inside of my house. I was looking out the window when I saw the three ships hovering for 3-5 minutes changing color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21408.html](http://www.nuforc.org/webreports/reports/021/S21408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
