@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Flash of light that lit entire nighttime sky, traveling West to East.  Followed by a power flicker of at least 25 miles.Clear skies for Thursday night January 12, 2012 in Saratoga, CA.  I was outside on the phone talking to a friend who lived approximately 25 miles north in San Mateo and was inside their house.  Suddenly, I saw a flash of light across the sky almost instantaneous coming from a Western direction across the sky towards the East.  The light was so fast that while I saw it I thought it was lightning but while the light flashed I reminded myself that we had unseasonably hot and clear weather with no rain for a month.  Then once the light flash ended, all the lights flickered, street lights, neighbors house lights and inside lights and even our own house. I was talking on the phone while I witnessed this and said I saw a light flash across the sky and the lights just flickered off. My friend on the phone said that while I said this, their house lights flickered off and then on again.  I would have thought this was nothing but a power spike, except that I saw the light a! cross the sky flashed in a flick of an eye.  There was no object, just a flash of light across the entire sky as thought it was coming from the West (Pacific Ocean or San Francisco) area.  The entire moment from the light across the sky to then the electrical energy bleep lasted 3-4 seconds. If you blinked, you would have missed the light across the sky.  The electrical outage came after the light, and was a longer bleep.  This happened again approximately 30-45 seconds later.  However, this time the flash of light was barely noticeable and the power flicker only hit the street lights.  I do not live near any electrical power center or any large electrical wires. What was odd is that 25 miles north my friend experienced the same thing, but did not see the light flash because they were indoors.  There were no forms of evidence such as pictures, except that my friend witnessed the electrical outage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86582.html](http://www.nuforc.org/webreports/reports/086/S86582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball seen in CT skyI was walking with me dog around 5:10 when something caught my eye. I looked up and saw a fireball fly across the sky.  I'm not sure how close it was, but it was close enough where I could see pieces and sparks fly off of it.  A tree branch obstructed my view as it continued through the sky, so I ran past the tree.  Even though this only took a few seconds, the fireball was gone.  There were no buildings or anything in the way to block my view after I got around that tree, so I'm not sure where it went.  From where I was, I could see sparks and what looked like smaller pieces come off of it so it must have been pretty close.  My dog's ears perked up, and she sniffed the air and pulled at the leash and jumped up.  I did not hear a noise with it, but she must have either been able to hear it or she saw it as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106235.html](http://www.nuforc.org/webreports/reports/106/S106235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
