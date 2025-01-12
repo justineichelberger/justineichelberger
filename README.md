@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:05 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caruthersville (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Floating blinking red and yellowish orange lights in Southeast Missouri near Hwy 412I was driving home from a friends house. When I notice on a overpass about a half mile ahead, a round almost oval yellowish orange light the size of a beach ball.  With two smaller blinking red lights on both sides of the yellowish orange light. At first glance I thought it was a 18 wheeler because how high the red lights were from the road.  But after staring at the lights for 20 or 30 seconds I notice a black shadow above the orange light. The sky was a dark gray-purple which made it possible for me to see the black shadow.  Under the black shadow and yellowish orange light I could the glow of street lights on the other side of the overpass.  That's when I realized it was not on the road, it was above the road and could not have been an 18 wheeler.  Then the lights shifted to the left behind a tree line and out of my sight.  When I got to the overpass there was no lights or shadow to be found.                </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86562.html](http://www.nuforc.org/webreports/reports/086/S86562.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  74</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152818.html](http://www.nuforc.org/webreports/reports/152/S152818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
