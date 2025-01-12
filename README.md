@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:30 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:14 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A large object, engulfed in flames, chillingly drifts along Rancho Cucamonga foothills.I stepped out to my car to grab some items and my attention was instantly drawn to the northern foothills, a solid mass engulfed in flames was drifting in a slow upward ascend.  It seemed huge, like the size of a mini van.  Judging by the foothills in the background, it had to have been a couple thousand feet climbing to the upper atmosphere, where it gently faded into nothing.  We noticed it re- ignited about a mile east, for a minute or so, then it disappeared when commercial aircraft was near its proximity.  I still have the chills going through my body from seeing that..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116681.html](http://www.nuforc.org/webreports/reports/116/S116681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights near downtownI was driving northbound on highway 99 towards downtown Sacramento at about 5:55 pm on Saturday January 12th.  There was some cloud cover and could not see any stars.I noticed the lights directly in front of my car there were 2 at about 20-25 degrees above the horizon and a third a little farther away at between 15 degrees above horizon.The lights seemed odd to me as there were no  FAA lights. They alternated red and orange. The lights seemed to be moving southbound in my direction.  Two of them went directly over my car, the other was to my right (east) of my car.  The one to the right was the brightest of the three.I did not know if there was any noise as I was in my car with the windows up.  There was also some cloud cover, and the lights were below the clouds.I would be willing to speak to an investigator, if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95975.html](http://www.nuforc.org/webreports/reports/095/S95975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
