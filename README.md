@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 12 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sebastian Inlet (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Nearly 100 Starlike &quot;Lights&quot; moving rapidly in a straight line formation and then disappearing.We were on the beach near the Sebastian Inlet in Florida around 6:50pm Jan 20th 2020 and looked up and there was about a 100 "Stars?" "UFOs?" all moving in a straight line formation, all spaced apart equally, they all moved to certain spot in the sky and literally just disappeared as they moved towards that part of the sky (they were coming from the west and going east over the ocean...you could see Orion Constellation to the south of where they disappeared).You could clearly see them, they were definitely out in space so you couldn't make out an exact shape they looked like stars (lights) but they were definently moving pretty fast. I have never seen anything like this this was a massive phenomenon we actually watched it happen for about 20min.Also, noticed on Youtube there were 2 other sightings uploaded in Cocoa Beach and Near Miami Florida around the exact same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152534.html](http://www.nuforc.org/webreports/reports/152/S152534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Trenton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I noticed lights traveling from the south to the Northeast. They were single column and were passing between the Pleiades star cluster and Taurus the bull.I got a hold of the people around me and had them look.  Then approximately 7 people have seen the lights. I made a phone call and call my wife that was located 10 miles away and she also confirmed the lights from a different location.  A few of us have never seen anything like .  They were not flashing any color. No green or red. Just a Amber light on each one.There were over 100 of these lights flying in practically single-column.Also while looking around the sky we also saw moving Amber lights but we're not flying in formation just as individuals</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152541.html](http://www.nuforc.org/webreports/reports/152/S152541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
