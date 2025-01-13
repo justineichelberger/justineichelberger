@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:49 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodland Township (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light with flashing lights hovering over rte 72, lt began following me.  Scared tried to get away. Finally it stopped, and disappI was driving by myself on rte 72 at approximately 1:47 note it was dark and no one on the road, when I immediately looked into my rear view window because a bright light came into my view.  At first I thought it was a car.  Then I watched it rise up from the trees with multiple lights flashing.  An instant of fear came over me.  The object started following me.  Fear to get away,  I drove faster, it then stopped following me.  And rose up and disappeared.  I experienced that it took forever to go down this road.  I no it never takes that long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125291.html](http://www.nuforc.org/webreports/reports/125/S125291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Jackson Heights (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>10 spherical objects..traveling together..almost identcal...saw about 10 spherical object all traveling north  ...red light on right side...blue on left...white-greenish light in center...objects seemed to hover and move slowly...at one point some of them seemed to reach a certain point...when the white light in the center of the objects would get more intense...for a few seconds and then dim...the objects didnt move fast..when i first saw them , i thought they were stadium lights...until i realized there were no stadiums in that area..also that they were moving...after these objects had left , what seemed to be smaller passenger-type plane followed these objects ....then one with a round radar thing on top followed...then a large triangular plane followed....also one with many white lights came...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21427.html](http://www.nuforc.org/webreports/reports/021/S21427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
