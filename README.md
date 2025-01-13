@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:49 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Montgomery (near) (AL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>((NUFORC Note:  Date unknown.  We will attempt to determine it.  If anyone knows the date of the sighting, please contact our Center, and we will include the date.  PD))Star Trek Actor Sees UFO In Alabama.In the biography of DeForrest Kelley, who played Dr. Leonard McCoy on the original Star Trek series called "From Sawdust To Stardust" by Terry Lee Rioux from Pocket Books on page #87, is a report of a UFO.  Here is the report as quoted from the book:  "Many years later, Kelly confessed that they saw an unidentified flying object while driving across country.  He said he was riding in the back of the car;  they were entering Alabama when they saw it. 'This object came by at a tremendous rate of speed at a very low altitude...around 700 or 800 feet...it looked to be about 65 feet in length.  It was a long, cigar-shaped object with green and blue flames coming out of its side.'  There was a soft sound like a missile, it had a red taillight flashing, and it had no wings.  Once in Montgomery, the trio (DeForrest Kelley, his wife Carolyn, and Superman actor George Reeves) found a newspaper that carried stories of the sightings.  Even when Kelley told the story decades later, he did not mention Reeves by name.  He quietly guarded the old friendship, and, besides, some things were just too fantastic to believe."  For further information on this story, refer to the Carolyn Kelley interviews:  "My Real-Life Encounter With A UFO," National Enquirer, January 13, 1987.   Carolyn Kelley and friends corroborate the story, and the Enquirer was accurate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47139.html](http://www.nuforc.org/webreports/reports/047/S47139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodland Township (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light with flashing lights hovering over rte 72, lt began following me.  Scared tried to get away. Finally it stopped, and disappI was driving by myself on rte 72 at approximately 1:47 note it was dark and no one on the road, when I immediately looked into my rear view window because a bright light came into my view.  At first I thought it was a car.  Then I watched it rise up from the trees with multiple lights flashing.  An instant of fear came over me.  The object started following me.  Fear to get away,  I drove faster, it then stopped following me.  And rose up and disappeared.  I experienced that it took forever to go down this road.  I no it never takes that long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125291.html](http://www.nuforc.org/webreports/reports/125/S125291.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
