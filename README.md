@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Malone (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange glowing lights in triangle formation3 fireball like glowing lights in a triangle shape.  These lights would intermittently change position with the other lights in a ''whirling'' motion.  Left as quickly as it was spotted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86724.html](http://www.nuforc.org/webreports/reports/086/S86724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 adjacent yellow orange lights with large space between move across sky before vanishing CLEARLY VISIBLE!Albuquerque NM I-25 Southbound 7:00pm (Sharp) Mountain Time 1/13/16.	   Heading south on the freeway I saw two adjacent lights flying west directly ahead in my line of sight while driving.  The lights did not blink and seemed to be part of the same craft though no actual body of the craft was visible only two round lights travelling together at the same speed no sound.  Within a matter of seconds the lights dimmed out of sight and for the remainder of my 15-minute drive along the freeway where I have a open view of the sky, the lights did not reappear.Approximately two years ago I had an encounter with a UFO while driving with two friends maybe around 8:00pm.  Two adjacent lights dim yellow-orange, hovering somewhat close to the ground in an area with absolutely no tall buildings.  They were solid in color and did not blink such as a plane does. As we turned the car back to get a better look they had vanished.Further Description:   	Lights seemed to be about the height of a helicopter •	Traveled short distance before disappearing •	Traveled in straight line •	Faster than a helicopter •	Yellow orange, resembled the brightness of a plane in the distance •	DID NOT BLINK AT ALL!! Which I assume violates FAA regulations •	Several blinking aircraft in the vicinity •	Space between lights must have been massive, larger than a blimp  As the lights dimmed out of sight I would compare it to a falling star as it dies smoothly fading out of sight.The lights must have been attached to the same craft that was not visible or hidden by the night.The space between the lights could’ve held a blimp between them but traveled too fast.Distance from UFO was not clear since no actual body was visible. Either way the space between the lights is unexplainable, much too large for any aircraft of my knowledge. The lights were so clear from the freeway, many others must have seen.Background: 20-year-old college student, male, and understands very clearly what planes, helicopters, blimps, satellites, meteors, and weather balloons look like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125254.html](http://www.nuforc.org/webreports/reports/125/S125254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
