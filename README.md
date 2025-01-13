@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fairfield Bay (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Six lights that blinked on and off and suddenly disappeared seen near home near Fairfield Bay, ArkansasI saw six white lights all in aligment with each other.  They blinked off and then came back on.  Object appeared stationary and made no noise. The second time lights blinked off their was a whooshing noice and the lights disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152583.html](http://www.nuforc.org/webreports/reports/152/S152583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gallatin Gateway (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three orange lights in triangular formation moving east to west, with some sort of plane following it closely.My husband called me outside to look at something tonight.  There was a regular airplane with blinking navigation lights, and then in front of it was a triangle shaped craft with 3 orange lights moving from east to west.  The airplane appeared to be following the UFO, and was east of the UFO as they traveled west.  We could hear the engines from the regular airplane, which was obviously some sort of jet, but not from the UFO.  The UFO appeared to be larger than the plane.  They were still flying in a westerly direction.  Not sure if this was some sort of military operation or if it was an actual UFO with a plane following it to see what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116694.html](http://www.nuforc.org/webreports/reports/116/S116694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
