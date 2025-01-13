@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Jackson Heights (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>10 spherical objects..traveling together..almost identcal...saw about 10 spherical object all traveling north  ...red light on right side...blue on left...white-greenish light in center...objects seemed to hover and move slowly...at one point some of them seemed to reach a certain point...when the white light in the center of the objects would get more intense...for a few seconds and then dim...the objects didnt move fast..when i first saw them , i thought they were stadium lights...until i realized there were no stadiums in that area..also that they were moving...after these objects had left , what seemed to be smaller passenger-type plane followed these objects ....then one with a round radar thing on top followed...then a large triangular plane followed....also one with many white lights came...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21427.html](http://www.nuforc.org/webreports/reports/021/S21427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Estacada (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>While traveling east on local Rd around 7-5 minutes before 2: PM.  Just passing an intersecting rd I believe.  I was looking at the moon above the horizon.  Maybe 10 degrees south or to the right of the moon almost the same horizontal elevation as the moon.  Something tubular or cigar shaped, looked almost stationary with no lateral movement.  But maybe rotating was light in shading, color blind, so can’t tell, but if to guess a tan color.  Like flares on satellites it got brighter and at one point looked like a light shining like a spotlight.  Then dimmed and disappeared.  Scanning the sky’s I lost sight of it and then it caught my eye again.  Didn’t appear to move, but I was driving.  Drove the rest of the way to my house and looked up and saw the flash which seemed to last for several seconds.  Then lost sight of it, not to see it again.  Also, there were four jets flying at high altitude, one was flying to the east of the craft flying north to south.  Another was to t! he west and flying about east to west.  The third, was first and it appeared to alter its path around the objust, it was south of the object flying south to north and if not altering course, may have intercepted the object.  A fourth, was a couple minutes behind the third and followed the same path but according to the condensation trail which faded quickly, altered path at a earlier space.  Could have been a radiation detection balloon, but never saw one of those before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144553.html](http://www.nuforc.org/webreports/reports/144/S144553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
