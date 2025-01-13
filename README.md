@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Sighting of small white orbs high over Phoenix.While waiting for the light rail in downtown Phoenix, I looked up and saw a small speck (whitish dot) in the sky above but slightly northwest of Phoenix.  Altitude was hard to judge, but could have been from 15,000MSL to 50,000MSL(?) ((not knowing its true size, it is very hard to determine altitude.  But it was not low.  By my eyesight it looked as if it was one or two (or maybe three whitish dots).))  It did not move as an aircraft would, it stayed within a very small area within space. I took two pictures with my phone (not video though) and when expanded there showed three whitish orbs (very small) in two different formations.  This was all against a clear blue sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125276.html](http://www.nuforc.org/webreports/reports/125/S125276.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Black River Falls (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright gold objects flash and disappearLooking west we entered a Walmart parking lot and saw a very bright gold object in the dark evening sky.  It flashed and then disappeared.  It reappeared and the second time there were two objects very bright gold in color.  They flashed and then disappeared.  Two minutes later we saw another object with the same description.  It flashed and disappeared.  About two minutes after that we heard a very loud jet in the air flying overhead.  We could not see the jet since it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125252.html](http://www.nuforc.org/webreports/reports/125/S125252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
