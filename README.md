@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:46 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:19 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plymouth (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 105.0 - 105.0 minutes.</sub><blockquote><sub>4large orbs and 2 small spent 1hour 45 minutes searching land and estuary near Plymouth and Devonport nuclear Submarine Base in Devon.my brother woke me this morning and said he could see UFOs I ran downstairs, by then he had seen 4 circular craft, one had lowered itself over a field several miles away we think over Cornwall and the whole field had been illiminated in the dark. they seemed to cloak themselves only being visible for short times. Two smaller coloured craft came away from the motherships and kept descending as if looking for something and also took semicircular jumps from one area to another. I grabbed my camcorder and went to my sons bedroom window  as I filmed the smaller craft tweo of the larger  orbs started to appear and move upwards at this point they made my camera zoom out and I had to physically zoom in again they then made  the picture defocus but they are visible for a short while. my tape was almost out but I got several lights at intervals then they would disappear behind the hills. The large orbs were very light the smaller ones looked orange and blue. They moved huge distances more quickly than any aircraft could and quite effortlessly. Trying to stop me film amazed me totally. At 9amm we saw the last light in the sky they seemed to be moving further away but I will look again tonight. During this time I had to get a handicapped child off to school so I kept coming back and catching glimpses of the lights as they searched for something.I live near Devonport Nuclear Submarinr base and they may have also bee dippiong down into the water. This was a fantastic experience which will stay with me forever i only wish i could have seen all that my bother saw, but I have a small amount on tape to keep for posterity and prove that I didn't imagine it even if people don't believe me, I know! I work for Cancer Research UK and I am the mum of 3 children, I am 51 years old and my brother is 55 we have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41494.html](http://www.nuforc.org/webreports/reports/041/S41494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Black River Falls (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright gold objects flash and disappearLooking west we entered a Walmart parking lot and saw a very bright gold object in the dark evening sky.  It flashed and then disappeared.  It reappeared and the second time there were two objects very bright gold in color.  They flashed and then disappeared.  Two minutes later we saw another object with the same description.  It flashed and disappeared.  About two minutes after that we heard a very loud jet in the air flying overhead.  We could not see the jet since it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125252.html](http://www.nuforc.org/webreports/reports/125/S125252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
