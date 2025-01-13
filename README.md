@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Indian Harbour Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Reddish Orange Orb like sphere seen flying in different directions and then disappearingMy daughter, my wife and I were standing in our garage that faces west with the door open and we witnessed a fireball like sphere that was pulsating and changing from Orange to Red.  The wind was out of the NE at 10-15mph and it flew NE, E, West before disappearing. It was about 100-200 feet above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96559.html](http://www.nuforc.org/webreports/reports/096/S96559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Citrus Heights (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Three lights in atriangle shape flew across the sky below the cluds heading northeast over Citrus Heights.There were three very distinct bright lights flying in a triangle shape. There formation would change shapes from a triangle to a line and back. They were flying from the southwest to the northeast. It was cloudy but they were flying below the clouds. Finally one by one the lights slowly went out. I couldn't quit tell there speed but it didnt seem to be to fast. It lasted between eight and ten minuts. This was the second time two of my friends had seen these lights. They saw it sometime in early 2000. None of my friends cell phones worked when this happened. They called aand all they could hear was there own voice talking back. About a minute after the lights dissapeared a helicopter headed towards the general area of the crafts, if this is relavent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48715.html](http://www.nuforc.org/webreports/reports/048/S48715.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
