@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sutherlin (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Fireball in sky - Fireball in sky minutes.</sub><blockquote><sub>I was driving home from work tonight going northbound and it was very dark and there was light fog.  On the right side of the freeway, I seen a bright red ball pretty big coming from lower part of the sky going Horizontally across to the left side.  It had like a lighter red following tail following behind it.  I don't know if it was a falling star or a meteor, for I never seen either.  I do know it was red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125259.html](http://www.nuforc.org/webreports/reports/125/S125259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Thee orange light flying in triangle formation with fourth light behind.My husband,daughter were walking in our neighborhood.  We noticed 3 orange lights in triangle formation flying from southern sky towards us level.  At first they looked like helicopter lights.  However, as they neared us, one at a time each light headed straight up and disappeared.  4th light followed closely behind the three and like the first three, flew up and disappeared.  Lights did not blink and there was no sound.  Had enough time to discuss what we saw and disappointed that none of us had a cell phone to capture it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116695.html](http://www.nuforc.org/webreports/reports/116/S116695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
