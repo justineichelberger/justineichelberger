@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ackerman (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>A bright light hovering in the southwestern sky.I woke up around 1:00 A.M. last night.  For some reason I glanced out the window, and noticed a large bright star and it caught my attention.  It was blinking with different color lights; through a pair of binocs you could hardly look at it, it was so bright.  Well i noticed it moved then stopped. It would hover then move again.  It didn't seem to have any set direction.  I woke my brother up and he was stunned at what we were watching.  While we were watching my dad heard the commotion, and being a skeptical man, he was dumbfounded at the object.  This object was in the southwest sky.  We couldn't hear any noise from it.  The object continued this for a couple hours until I went back to sleep.  If anyone could please tell me what this may of been I'd be obliged.  It was quite an alarming thing to watch it hover then move then hover again.((NUFORC Note:  Possible sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74075.html](http://www.nuforc.org/webreports/reports/074/S74075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Electra (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Silver oval craft seen near Electra, TexasConditions: Clear, 50 deg. F Time: 4:28 pm Location: Wilbarger Co., Texas  I was driving home from work SE bound on US HWY 287 about 3 miles NW of Electra, Texas, when I saw a very bright shiny ovoid shape back to the south (right side of HWY). I'd guess it to be about 0.5 miles away and maybe 2-3 thousand ft. high. The craft was hovering in place but as soon as I locked my gaze on it, it fell with dazzling speed towards the ground at about a 45 degree angle. Then it completely disappeared. I don't mean moved out of sight, I mean it was like someone switched off a light bulb! It flat out disappeared!  As I was watching, it suddenly reappeared est. 1/4 mile north from where it disappeared, now flying slowly at about 1000 ft. off the ground back across the left side of the highway heading due north, it then fizzled and sparked (electrical short?) and completely disappeared again. I'd say the first sighting lasted about 4 seconds and the last maybe 2 seconds. I never saw it again.This was very, very strange! I know it was no airplane, weather balloon, or space debris because of the controlled movements and the disappearance/reappearance. Other planes were flying, leaving plain vapor trails, this left no vapor trail at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68004.html](http://www.nuforc.org/webreports/reports/068/S68004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
