@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Black River Falls (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright gold objects flash and disappearLooking west we entered a Walmart parking lot and saw a very bright gold object in the dark evening sky.  It flashed and then disappeared.  It reappeared and the second time there were two objects very bright gold in color.  They flashed and then disappeared.  Two minutes later we saw another object with the same description.  It flashed and disappeared.  About two minutes after that we heard a very loud jet in the air flying overhead.  We could not see the jet since it was dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125252.html](http://www.nuforc.org/webreports/reports/125/S125252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Indian Harbour Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Reddish Orange Orb like sphere seen flying in different directions and then disappearingMy daughter, my wife and I were standing in our garage that faces west with the door open and we witnessed a fireball like sphere that was pulsating and changing from Orange to Red.  The wind was out of the NE at 10-15mph and it flew NE, E, West before disappearing. It was about 100-200 feet above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96559.html](http://www.nuforc.org/webreports/reports/096/S96559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
