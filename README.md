@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 37</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161811.html](http://www.nuforc.org/webreports/reports/161/S161811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hampstead (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Light In Sky Over Rockingham County, NHwoke at 4:30am and was sitting at my kitchen table working on my computer. At or about 5:20am I looked out of my kitchen window, wich extends from top of ceiling to about 1 foot from floor and about 6 feet wide and faces west with a 90 degree viewing angle west to south and ground to ceiling level. I looked south and noticed a very bright light in the sky at about 70 degrees in the air from ground surface. Distance and height of the object is not known. I thought to myself "thats a really bright start". About 30 seconds after noticing the light an aircraft moved in the direction of the light coming from an easterly direction proceeding west at a steady speed (possible proceeding to Manchester Airport). I'm positive it was an aircraft - it had a single white light and a flashing red light on and off every 1 to 2 seconds - and was moving in a steady horizontal dirction going west. The light faded and then vanished. It did not move east, west, or north. I looked around for other stars in the sky and could only see one or 2 stars so I suspected cloud cover had obscured my view. Its now 5:55 am and the light has not come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60802.html](http://www.nuforc.org/webreports/reports/060/S60802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
