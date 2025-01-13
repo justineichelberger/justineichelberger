@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 13 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Thee orange light flying in triangle formation with fourth light behind.My husband,daughter were walking in our neighborhood.  We noticed 3 orange lights in triangle formation flying from southern sky towards us level.  At first they looked like helicopter lights.  However, as they neared us, one at a time each light headed straight up and disappeared.  4th light followed closely behind the three and like the first three, flew up and disappeared.  Lights did not blink and there was no sound.  Had enough time to discuss what we saw and disappointed that none of us had a cell phone to capture it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116695.html](http://www.nuforc.org/webreports/reports/116/S116695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two amber colored lights south of Estrella Mountain Ranch, W of Estrella Mtns. A cell phone call to my wife following in another car confirmed she saw same lights. Similar to lights seen Mar. 7, 1997 in same area.My wife and I were driving separate cars home together on Estrella parkway which heads south at the point where I saw two amber lights through trees and low on the horizon over the area of Rainbow Valley south of Estrella Mountain Ranch. They appeared to be dropping below the crest of the hill up which we were travelling. As we arrived at the intersection of Elliot and Estrella Parkway they dropped below our line of sight into the area of Rainbow Valley. The area is southwest of the Estrella mountains. They lights were seen intermittently as we traveled from the beginning of the Estrella Mountain Ranch property until the intersection of Elliot and Estrella.  A time of about 5  minutes and a distance of several miles. I spoke to my wife by cell phone and she confirmed that she too saw the lights.  She thought they might be flares.  I had seen similar lights about 6 days before the March 13 PHX event in the same general area. I have reported that event in a separate correspondence with Peter,q.v. These lights are similar to those described and observed by others in the March 13, 1997 10 PM event over the Estrella Mountains.  The observer is a court reporter, a MUFON member and, a private pilot since 1949 with 30 plus years as a flight crew member with a major airline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07589.html](http://www.nuforc.org/webreports/reports/007/S07589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
