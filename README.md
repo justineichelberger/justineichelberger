@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:50 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jasper (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>12 small constant lights moving west in the southern sky. One light turned quickly Eastward. Another light turned South and went straight down. 2 minutes later a very bright red yellow white light appeared in the southern sky, 2 seconds later 3 more identical lights appeared horizontally for about 4 seconds then all dissapeared. 2 minutes later another identical bright light appeared lower and slightly east from the first sighting for about 4 seconds. 3 minutes later same bright lights appeared in the western sky for approximately 3 seconds then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152597.html](http://www.nuforc.org/webreports/reports/152/S152597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Underhill (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of unidentified orange-red lights seen in the northern Vermont sky.Saturday – January 14, 2012 @ approx. 18:00-18:05 HH North Underhill, Vermont Weather conditions: Clear to partly cloudy, calm, very cold 0 to -5°F   I arrived home at around 5:30PM and was in and out of the house unloading my car.  Around 6:00 PM I went outside to my deck to get firewood and noticed 3 dull orange-red lights, solid not blinking, fairly high in the northeast sky.  Triangular pattern 2 on top 1 below, all moving differently, up and down, side to side, fairly slowly.  I assumed they were helicopters or planes but as I watched them their movements were not consistent with a plane, maybe a helicopter.  They seemed to be a fair distance away, not overhead.We have a large government artillery range about 10 miles south of me so it’s not uncommon to see helicopters flying at night.As I watched them, suddenly, a cluster of the same type of lights appears west of the lights I just described, in the north sky, very low on the horizon.  The cluster had probably 8-12 lights and was in an ellipse type random formation and they all appeared at once.The first set of lights didn’t surprise me that much but when I saw this second group I was very puzzled, it was like nothing I had ever seen before.  I called my neighbor who lives +/- 600’ south of me and told her to go outside.  She said she could see the 3 up high but I think my house was in the way of the large cluster.  As I was talking to her the larger cluster was fading in and out, always visible and very bright at times, they were visible for a couple minutes and they didn’t move up or down, they seemed to stay in one place.  Then they all just faded away and disappeared.The color of these lights were nothing like I’ve ever witnessed before orange-red, almost rust color.  Not blinking but they kind of twinkled.  As I watched them, stars were visible but I believe there was also some thin cloud cover because the stars were not bright like they would be here on a clear night.I live in a fairly remote area with minimal light pollution and I didn’t hear any noise associated with what I saw.A friend checked the notice to airman and temporary flight restrictions for our area and there were none.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86596.html](http://www.nuforc.org/webreports/reports/086/S86596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
