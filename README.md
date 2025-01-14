@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright oscillating light in the SW sky.  hovered at approximately 10k AGL, then leftA bright white, slowly oscillating (white to slight red then blue) stationary light that appeared to be approximately 10,000 feet AGL.  Was not able to observe during object departure but moments ago while writing this i went to look again and it is gone.  We observed a few aircraft in the normal PDX approach vectors and there could be no mistake this was not an airplane, helicopter, or balloon.  We also compared the object to the many visible stars and the object clearly stood out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68030.html](http://www.nuforc.org/webreports/reports/068/S68030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Eatonville (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>Light in the sky hovers for 75 minutes, changes color then disappears!I had arrived to my home at precisely 7pm on the night of January 14th, 2009 and upon exiting my vehicle I noticed to the west of me a very bright yellow-ish ball of light low in the sky.  It was easily the brightest object in the sky and the sky was very clear and I could see many stars and even the faint milky way, since there isn't much city light to diminish the view of the stars where I live.  I was not aware of any planetary sightings during this period, and was most certain that what I had spotted was not a plane or satellite, I watched closely and made a call to my ex-wife who lived on the other side of town.  She went outside and spotted the object as well, noting as I did that it moved in an ever so slight wobble.  Being that it was around 29 degrees outside, she went back in to her home.  I stayed out side and watched this object float around the general area that I had initially spotted it in for 75 minutes.  It's movement varied from random wobbles to slow vertical movement.  There were approx. 18 aircraft that traveled in the visual area of this object and as these aircraft flew through my view ( I kept constant watch of the object.) the object would move in a seemingly defensive direction, but not drastic in relative distance.  At 20:15 the light very slowly began to fade until I was able to discern a somewhat shape of a disc and from where the light appeared to emit, the color turned from yellow to red then the object completely disappeared.  I did shoot 35 seconds of cell phone quality video.  You can not see the stars or planes that were flying by, but clearly see the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68041.html](http://www.nuforc.org/webreports/reports/068/S68041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
