@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At 08:30 on wednesday 1/14/2004 I observed a burning object streaking over the skies of K.C.,Mo. on a security camera that was pointed at our boiler stack in an easterly direction. I zoomed in on it and it was black and had the shape of a rocket with flames starting at the nose of the vessel and continued up both sides of the vehicle. We watched it for about 4 minutes until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34736.html](http://www.nuforc.org/webreports/reports/034/S34736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Broadway (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately still in sight - still in sight minutes.</sub><blockquote><sub>3or more from different locations seeing red and green blinking object since 6pm and still in the skyFirst saw its in fulks run with a friend at 6:15 and still in the sky after 7hrs visible in Broadway too which is 10miles from first sight has red and green lights flashing and slowly looks to be changing shape it has to be big there's even friends on Facebook telling me they seen I showed another friend when I got back he couldn't explain it either its not a satellite not a plane I seen planes go by it its way bigger looked thru a scope but the red and green light was to bright to see object itself but still looks different every few minutes its crazy I want answers this shit is crucial we want to know what you find out I tried to video tape it but my phone couldn't pick it up on it but I can say there's a few of us that will tell you what w saw</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96022.html](http://www.nuforc.org/webreports/reports/096/S96022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
