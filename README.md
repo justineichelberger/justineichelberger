@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright oscillating light in the SW sky.  hovered at approximately 10k AGL, then leftA bright white, slowly oscillating (white to slight red then blue) stationary light that appeared to be approximately 10,000 feet AGL.  Was not able to observe during object departure but moments ago while writing this i went to look again and it is gone.  We observed a few aircraft in the normal PDX approach vectors and there could be no mistake this was not an airplane, helicopter, or balloon.  We also compared the object to the many visible stars and the object clearly stood out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68030.html](http://www.nuforc.org/webreports/reports/068/S68030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 bright and colorfull objects hovering in formation over Sinclair Inlet (Bremerton WA)Me and my girlfriend (im 22, she's 21) were driving to the movies from Gorst WA heading North on Highway 3. We both looked over to the North East over Sinclair Inlet and saw 3 objects all in formation above the water. They were in a row over the Navy shipyard in Bremerton. They were all standing still. They all had a white light coming from the top and what looked like a red and blue light on the bottom. They had a round/saucer shape. As we drove North to Silverdale, the trees finally were blocking our view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54749.html](http://www.nuforc.org/webreports/reports/054/S54749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
