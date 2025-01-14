@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quebeck (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Clear sky daytime sighting of black triangle moving at extreme speed with loud sound and no contrail.Daytime Sighting, Clear Skies. Black Triangle was spotted flying East to West at extreme speed.  No contrail.  No Exhaust.  Altitude and size impossible to estimate because of lack of reference points.  However the object was clear enough to clearly discern triangular shape.  Triangle was not equilateral but more of a Isosceles triangle, longer front to back than wide.  One or two vertical tails might have been present, but due to shortness of sighting this can not be confirmed.Additional details:  Walked outside to have smoke.   Heard strange loud sound filling the air that is very hard to describe.  Sounded like a very low pitched droning sound.  Similar to a tornado warning siren winding down, but much lower pitched.  Sound had no directionality at all.  Looked up trying to discern source of sound and spotted triangle.Triangle was moving at extreme speed and was over horizon in less than 5 seconds.  Called for son who was inside house, but triangle was long gone before he made it out the door.   However the droning sound was still very noticeable.  He heard the sound before it dissipated, but never saw the object.Apparent course of object from my perspective appeared to be about 275-290 degrees true.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86576.html](http://www.nuforc.org/webreports/reports/086/S86576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Silverdale, Washington: erratically moving white lights reflecting off clouds and moving at lightening speed for over one hour.Three to four white lights appeared in the sky ans moved across clouds in an erratic and circular manner and extremely fast. The circular lights reflected against clouds but disappeared in cloud breaks, suggesting they were beamed upward, possibly from some form of powerful laser light. My wife and I both witnessed the event and would wish to know whether the lights were from earth or elsewhere. This will highly influence our decision to barbeque outdoors in future. We can live with the bears but not with ETs, and if its a human with some Chinese made laser gadget, we would like to give the bears his address. We are former diplomats who spent thirty seven years abroad. I saw these lights once before in Kandahar, Afghanistan in 2004.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86590.html](http://www.nuforc.org/webreports/reports/086/S86590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
