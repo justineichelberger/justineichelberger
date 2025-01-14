@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dayton (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw a bright green, cigar shaped object streak across the sky and veer off course.Was traveling east on highway 60 right outside of town.  Something caught my eye to my left.  I, at first, thought it could be a shooting star, but it was bright green and cigar-shaped.  It was going straight the seemed to veer off course.  It was very unusual not shall of light like a star would be.((ADDENDUM FROM WITNESS--TEXT OF ORIGINAL REPORT))Saw a cigar shaped, bright green light streak across the sky and veer from a straight path.Was traveling east on highway 60 right outside the city limits. I caught a glance of something I thought could be a shooting star but as I looked closer, it was bright green and cigar shaped not shall of light.  It also seemed to veer off a straight course, not like a star.  It also had a strong tail of the same color. It was very unusual.()(END ADDENDUM))((ADDENDUM #2))It was close so it appeared bigger than a star or planet in the night sky but not as big as a  full moon, I would say the size of a crescent moon would be my guess((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125273.html](http://www.nuforc.org/webreports/reports/125/S125273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leesburg (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>large bright light with orange glow around outside silently flew @ treetop level S.W.of hghwy 19S.I was taking my dogs outside for a break and was standing on the road in front of my house when I felt like I should look behind me,my dogs suddenly ran out of the darkness and set on my feet. I looked behind me and saw a brilliantly lighted object crossing the night sky just above the tree tops.  The center was a radiant white light, the outside ring had an orange color.  There was no sound.  The object moved smoothly, quickly and silently across the sky.  It moved in a S.W. direction from highway 19 S.,it appeared to be about 300 feet away and it appeared to be bigger than---I don't know--bigger than a helicopter--it disappeared behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68032.html](http://www.nuforc.org/webreports/reports/068/S68032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
