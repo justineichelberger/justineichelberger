@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Deerfield Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three oval objects glowing red and orange - sail across the sky silently heading east to westWe looked up in the sky to the east and saw 3 elongated disc shaped objects with a red and orange glow going from east to west slowly in the sky.  At first I thought they were Chinese floating lanterns like in the movie Tangled (Disney) but said to myself they were moving too fast and up too high but still below the low cloud levels of the night and it wasn't windy.  Then someone said they were night time parachuters or parasailers - but they wouldn't do that at night unless it was military and we did not hear any motor or engine sound nothing.  And it definitely was not a plane or helicopter or fireworks.  We all came to the conclusion that they had to be a UFO.They sailed silently across the sky lit with red and orange lights seemingly going faster and higher as they head further west.  Once they lined up perfectly 3 across but that could have been due to the angle we were looking at, then the one to the left faded.   I think it got concealed above the clouds.  Then the one to the right disappeared a few seconds later, then the center one just got further and further away seemingly going faster heading west still lit until it faded assuming due to range.  The center one did not fade into the clouds or over the horizon, it just faded into a clear patch of sky while heading west.  This is my account others may be different but to me and others present this definitely was a UFO (remember the objects was unidentifiable).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79689.html](http://www.nuforc.org/webreports/reports/079/S79689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dayton (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I saw a bright green, cigar shaped object streak across the sky and veer off course.Was traveling east on highway 60 right outside of town.  Something caught my eye to my left.  I, at first, thought it could be a shooting star, but it was bright green and cigar-shaped.  It was going straight the seemed to veer off course.  It was very unusual not shall of light like a star would be.((ADDENDUM FROM WITNESS--TEXT OF ORIGINAL REPORT))Saw a cigar shaped, bright green light streak across the sky and veer from a straight path.Was traveling east on highway 60 right outside the city limits. I caught a glance of something I thought could be a shooting star but as I looked closer, it was bright green and cigar shaped not shall of light.  It also seemed to veer off a straight course, not like a star.  It also had a strong tail of the same color. It was very unusual.()(END ADDENDUM))((ADDENDUM #2))It was close so it appeared bigger than a star or planet in the night sky but not as big as a  full moon, I would say the size of a crescent moon would be my guess((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125273.html](http://www.nuforc.org/webreports/reports/125/S125273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
