@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Manchester (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO - Solid White, Cigar Shaped, No Sound, Daytime Sighting with video!Jan. 14.2012 @ 3:41 PM  I was right around the corner from my house at a little market when I first spotted this object.  It looked like it was barely moving and lower than where a plane would be.  I jumped in my car and drove home fast, ran in grabbed my camera and yelled to my husband hurry come look at this.It made no sound what so ever, it looked very white and cigar shaped, when I first spotted the object it was flying much lower and extremely slow if at all, then it went straight up, and continued to move slow (enough time for me to capture this video) and then took off in about 2 sec across the sky out of my vision.  Later on we heard what sounded like a jet or 2 heading in that direction.  Sorry, it's a bit shaky.  I was excited and also, I couldn't see the object on the camera screen so I used the tree branches as a reference.   Just lucky I caught it at all!  Very excited about this!   I did get overly excited and tried to switch the camera to picture mode because I wasn't sure it was able to capture it in video mode (I could not see the object on my screen) and I just wanted some sort of proof.  The pictures didn't come out that great it looks like a long dot even though I was zoomed in all the way, plus this thing was gaining speed and poof it was gone!  The video is now on Youtube title (UFO Jan. 14, 2012 3:41 PM in TN.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86581.html](http://www.nuforc.org/webreports/reports/086/S86581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>We all saw 6 different crafts with lights.  All were moving extremely slow.  1 craft was lower than the others and the lights were brighter.  This craft had very bright lights that were blue, white and red.  The other craft's lights were not as bright and only red and white.  All were spaced great distances apart in the sky, but all moving slowly.  We observed several planes fly by the crafts over 2 hours, but got too cold so we went inside.  We called different people we knew and told them to go outside and look.  They all saw the crafts too.  I tried to report it to the news paper, but the guy didn't seem interested.  They are still out there now if you want to look.((NUFORC Note:  Possible twinkling stars???  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54748.html](http://www.nuforc.org/webreports/reports/054/S54748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
