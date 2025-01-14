@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 14 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leesburg (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>large bright light with orange glow around outside silently flew @ treetop level S.W.of hghwy 19S.I was taking my dogs outside for a break and was standing on the road in front of my house when I felt like I should look behind me,my dogs suddenly ran out of the darkness and set on my feet. I looked behind me and saw a brilliantly lighted object crossing the night sky just above the tree tops.  The center was a radiant white light, the outside ring had an orange color.  There was no sound.  The object moved smoothly, quickly and silently across the sky.  It moved in a S.W. direction from highway 19 S.,it appeared to be about 300 feet away and it appeared to be bigger than---I don't know--bigger than a helicopter--it disappeared behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68032.html](http://www.nuforc.org/webreports/reports/068/S68032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At 08:30 on wednesday 1/14/2004 I observed a burning object streaking over the skies of K.C.,Mo. on a security camera that was pointed at our boiler stack in an easterly direction. I zoomed in on it and it was black and had the shape of a rocket with flames starting at the nose of the vessel and continued up both sides of the vehicle. We watched it for about 4 minutes until it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34736.html](http://www.nuforc.org/webreports/reports/034/S34736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
