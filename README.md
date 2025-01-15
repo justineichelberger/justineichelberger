@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Amherst (Canada) (NS) reported seeing craft that fit the description of some 'Formation' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>Seven to nine lights moving slowly around one another in more of a vertical formationWas driving in a car with my friend's friends (I was visiting from out of town) when I saw a cluster of seven to nine lights in a vertical formation, a bit like an enlongated oval.  They were moving slowly around each other in no particular pattern.  I yelled "ufo" and pointed to them, but everyone just said "yeah, we know, they've been there for days".  I tried to find out more information but no one wanted to talk about it.  I couldn't believe their reaction; nor understand it.  It's been many years since that happened.  I don't know the exact month or day.  Even the year is in question.  It could have been late 1980 or early/mid 1981.  I've never forgotten that incident, however and have often wondered if the source of those lights had been discovered.  Could it have been weather balloons, satellites?  If they had been there for days and those people in the car had known of them, then others in that town must have seen them too.  I looked all through your data base but didn't find anything reported that was similar either in Nova Scotia or around the same date.  Have never seen anything since and would like to hear of any similar sightings.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20561.html](http://www.nuforc.org/webreports/reports/020/S20561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Shooting star like thing came down UFO appeard with a gold glowI was driving down the road,something caught my eye then i look up and see a shooting star like thing come shooting down from the left then as i watched it go across the sky it all of the sudden was gone and i look and see this black object glowing gold and it just took off an vanished,its like it wasnt a shooting star it was the craft going at a fast speed and just all of the sudden stopped and my eyes werent quick enough to catch it stop so quick then its like it took off not left not right but straight ahead of me it was gone in the snap of my fingers, Always wanted to see a ufo,but im actually pretty shocked and find it hard to believe seeing something like that and how quick it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79725.html](http://www.nuforc.org/webreports/reports/079/S79725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
