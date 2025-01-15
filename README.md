@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Huge wing shaped object, translucent white, moving very fast with no soundA huge wing shaped object (boomerang shaped). Could'nt really tell how high it was travelling as it was white in colour but very translucent. This made it differcult to tell how wide it was, but if I had to guess I would say about 2000ft up & 200-300ft wide. The object was travelling very fast with no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41537.html](http://www.nuforc.org/webreports/reports/041/S41537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Amherst (Canada) (NS) reported seeing craft that fit the description of some 'Formation' over a period of approximately I don't know - I don't know minutes.</sub><blockquote><sub>Seven to nine lights moving slowly around one another in more of a vertical formationWas driving in a car with my friend's friends (I was visiting from out of town) when I saw a cluster of seven to nine lights in a vertical formation, a bit like an enlongated oval.  They were moving slowly around each other in no particular pattern.  I yelled "ufo" and pointed to them, but everyone just said "yeah, we know, they've been there for days".  I tried to find out more information but no one wanted to talk about it.  I couldn't believe their reaction; nor understand it.  It's been many years since that happened.  I don't know the exact month or day.  Even the year is in question.  It could have been late 1980 or early/mid 1981.  I've never forgotten that incident, however and have often wondered if the source of those lights had been discovered.  Could it have been weather balloons, satellites?  If they had been there for days and those people in the car had known of them, then others in that town must have seen them too.  I looked all through your data base but didn't find anything reported that was similar either in Nova Scotia or around the same date.  Have never seen anything since and would like to hear of any similar sightings.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20561.html](http://www.nuforc.org/webreports/reports/020/S20561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
