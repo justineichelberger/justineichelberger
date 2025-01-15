@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:24 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Etna (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 lights changing position in a horizontal line in the sky and would also disappear and then reappear.Saw three lights in sky.  Each were changing positions in a horizontal line in the sky.  Would disappear, and then reappear, seconds later.  The lights were orange.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116727.html](http://www.nuforc.org/webreports/reports/116/S116727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Christmas lights, spot lights through the clouds, cruising crafts, hovering crafts with lights showering down.Again, I was looking out my front window facing north, I spotted the same light I saw the night before, this time I got out my bonoculars, what I saw really scared me, the object looked like a christmas bell all lit up in red, green, yellow, blue, at first I thought someone shot off fire works, it was cascading down, all these colors, like a waterfall, all blinking, I could not believe it, then I saw another ball of light approach it and go off, I looked at this one and it looked like a lit up satalite dish, and another looked like one of those electric balls in novelty shops that light up and when you touch them the electricity moves, I went to the back of my house, there were low clouds, through them were spot lights circuling round and round, through the top, lots of them, I got really upset and drove to my parents, I showed it to two neighbors who brushed it off as helicopters or planes, denieal, my father was in bed and my mother, who is elderly, could not see clearly though the bonoculars, but will look again tonight to see them, they were there this morning too, I leave work at 6:30 am, I really need to speak to someone, it is very disturbing, we are not nere any airport or flight pattern and these things are very busy and keep going back to the same spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48725.html](http://www.nuforc.org/webreports/reports/048/S48725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
