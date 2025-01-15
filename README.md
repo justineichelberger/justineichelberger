@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chillicothe (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>lights was dashing around in the sky very fastI was taken out the trash at night and I looked up into the sky and I was looking southwest and I saw these lights just dashing around very fast.  They went from one side of the sky to another side. Then they would go away and then come back.  From where I was they was many miles away because I just barly seen them.  I brought out a camrea and they did not even pick up on it.  They went from the southwest to south to southeast.  I do know that in the area the lights was dashing around in about 80 miles south there was a atomic plant.  I stayed outside until I could no longer see them.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45770.html](http://www.nuforc.org/webreports/reports/045/S45770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A spinning lighted low down circle UFO.I saw 1 ufo. It was really late at night and there was this small object in the sky. It had multi color flashing lights, and it was moveing right over my house, maybe 3000 feet up. It moved around slightly, then decended down to maybe 1000 feet above my house. The lights were realy big and they were flashing on off on off. The object then began to spin a aproximately 5 miles per hour. This object was huge maybe the size of 3 or four busses across. After hovering for about 10 minuets, the object shot up in a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14944.html](http://www.nuforc.org/webreports/reports/014/S14944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
