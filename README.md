@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:27 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Ojai (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>In 1987 a UFO passed a few feet above our car near old Creek Road in Ojai, CA.Some time in 1987 my wife, childeren and I were driving home at night along Old Creek road in Ojai California. I was shocked to see a glowing object pass a few feet above our car. I was so socked I woke my wife and childeren but they never got a chance to get a look at it. Although it was just a few seconds, the object appeared to be emitting a faint red light and I could see it rotating (reminded me of the rotating craft in Close Encounters of the Third Kind movie) as it went over the hills. Strangest thing I've ever seen in my life, I'll never forget it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33710.html](http://www.nuforc.org/webreports/reports/033/S33710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Anjean (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>We were standing by our car parked at Anjean, WV, waiting for my brother after a good day of ruff grouse hunting.  The first saucer came out of little clear creek into big clear creek and stopped about 15 feet off the ground while hovering for a couple of minutes about 150 feet from our location.  Then another saucer followed and stopped about 10 feet above the first one.  Both craft were identical (30 ft in diam and 10 ft high) being silver clad with large (3-4 sq-ft lights) around and encircleing the perimeter of the craft. The lights were impressive as they were very bright red, blue, and yellow lights.  This was a very beautiful sight to behold.  After a few minutes, the craft moved up big clear and over the mountain at the head of the hollow while our bird dogs (english setters) barked at them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68442.html](http://www.nuforc.org/webreports/reports/068/S68442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
