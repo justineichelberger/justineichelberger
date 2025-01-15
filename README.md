@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Dodge (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was watching out my window as I usually do because I see them every night.  We were watching four bright lights apeard hot pink and we watched it for about 5 mins and couldent see</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96005.html](http://www.nuforc.org/webreports/reports/096/S96005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>strange brightwhite w/red luminous " ufo " vanished right before me and leave's the strangest smoke .......  I've ever seen .It was a very clear and cold January latenight .  When i'd stepped out to close my gate someone had left open .  And just as i was about to go back inside .  I'd noticed a very bright white light low in the western night sky .  At first ,  I'd thought it was just a jet .  But with my mini binocular i just happen to have in the pocket of my fleece pullover .  I soon seen ,  it was no jet plane .  This craft was circular in shape .  Perhaps 30-40 ft. around with a Garnet Red luminous ring from top to bottom around the craft .  It looked to be part of the craft which was heading my way .  Just then i'd called out to a friend of my .  Who was inside my house to come check this out .  As he stepped out to see what was up ,   I just handed him my mini binocular's and said ,  " check it out " .  We both got a good close look at the craft heading from west to east .  As we stood watching ......  the craft began to slow then stopped .  A plume of smoke cloa! ked the craft ......  perhaps ,  so was not too see it ?   Once the craft began to moving eastward for a moment ,  then stopped again .   Once again it cloaked itself w/ a plume of smoke .  Both time's the plume of smoke  was the same shape as the craft itself .  As we stood passing the binoculars back and forth trying to determine just what is we're looking at .  The craft began to move  ( actually float )  passing right thru the plume of smoke that cloaked east bound .   It didn't get far ......  before it made a sharp righthand .  Still floating and now heading south ........  Vanished .  And was gone ,  only the star's in the clear cold nightsky were visible .  Where the craft had just been .   But the strangest thing other the craft itself .  Was those 2-plume's of what I thought to be smoke .  They both began stretching out first flat and then apart .  To the point of a fine Cat Whisker .  I can't quite recall ever seeing smoke as I know it .  Act in this manner .....! ..  I know what is wasn't that cold January night ......  I sa! w .  Per haps those of you who take from my  UFO Report and other's  .  Can come up with .......  Just what it was ,  I saw . Good Luck !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94208.html](http://www.nuforc.org/webreports/reports/094/S94208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
