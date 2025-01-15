@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright orange fireball sightingLooked out window and noticed a very bright orange fireball moving slowly northbound. Stopped for a couple seconds, and then proceeded towards me and slowly became larger and brighter.  It then shot up rapidly towards space and disappeared.((NUFORC Note:  We have amended the date of the sighting above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116741.html](http://www.nuforc.org/webreports/reports/116/S116741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Loud cycling noise followed by multiple helicoptersI was just outside and heard a strange noise from above.  I looked up but could not see whatever was making the noise because of low clouds.  It sounded kind of like a car alarm but a lower pitch.  The noise was cycling and constant as it passed overhead and to the south.  Minutes after, I heard a helicopter pass overhead, then two more off in the distance to the east and a finally fourth coming from the north.  They formed up in a line abreast and began what seemed like a "sweep" in a northwest direction and turned southeast.  They are probably visible in the sky as I type this.  The helicopters have to be related to what I heard.  The only other time I saw so many helicopters was durning coverage of OJ Simpson in the Ford Bronco speeding down the 91 fwy.  They were media copters getting the scoop. Going to check the TV and see if there is a car chase or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74097.html](http://www.nuforc.org/webreports/reports/074/S74097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
