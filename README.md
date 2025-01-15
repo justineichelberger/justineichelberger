@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Cairo (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Silent Triangle viewed for half an hour.During the twilight hour in the middle of winter 1975, my mother came in to the trailer home we lived in and asked me to come outside and "look at something". I went with her to the end of our driveway and she pointed east. At the end of the dead end street we lived on there was a line of bare trees that bordered the entire trailer park where we lived. Above these trees I saw a huge triangular black shape that seemed to be floating very still and silent. On each corner of this shape small white lights glowed dimly. As we looked at this shape , my mother kept trying to question what it was, saying things like 'thats not a plane, is it?'.. 'is that a blimp?'.. ' what is that?'.My mother knew a lady in the park that had many cameras and we went to ask her to come out to photograph this thing.The woman became angry and refused to come and see the shape and told us to go away. We returned to our house and the shape had slowly drifted south from where we first spotted it. The air temperature was very cold and there were no other people around to alert them to this shape. The shape continued to move south and we watched it until it was no longer visible. I guess the most unsettling things about this sighting were that it was so silent and so slow in moving. Given that we lived in a mountainous and remote area it was shocking to see this perfect triangle floating above the woods.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34985.html](http://www.nuforc.org/webreports/reports/034/S34985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in New Church (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>WHITE LIGHTS BLINKING IN A SPHERICAL SHAPE, STATIONARY OVER FIELD. TRANSPARANT OR REFLECTING. WHEN IT MOVED, IT SPED SOUTH AT SPEEDS OVER 65MPH. FLEW OUT OF SIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11830.html](http://www.nuforc.org/webreports/reports/011/S11830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
