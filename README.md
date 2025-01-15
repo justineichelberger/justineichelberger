@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Millsboro (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 lights in square formation in sky and small triangular craft seen at close rangeThe night started as quite a few had in the past weeks since Dec. 26 1996. I'd see 4 lights (not sure of size or shape), high in altitude forming a square. On all of the nights i'd see them (this was third night), planes and helicopters would be flying around too, they'd fly up to a craft and quickly turn and fly away. The crafts themselves made no noise and had white and light greenish-blue lights. On this particular night, the last sighting i had of them, they showed up around 6 pm EST and were there till about 8 pm EST. At approximately 8 pm, a small triangular craft flew right over the roof of my house. The roof is about 30 feet high, plus there is a chimney adding about another 10 feet, the craft just grazed it. It flew relatively slowly from the back of the house forward (heading north) and turned up and disappeared as soon as it cleared the roof. It was only about 15 feet from the nose to rear, if that, and had slightly rounded edges. It made no noise and the entire bottom was covered in small, irregularly sized and shaped lights in the same white and light greenish-blue of the other crafts. Their placement and shapes reminded me of a mosaic. I didn't see the top or sides of the craft. After the triangular craft flew over, the 4 crafts in the square formation were gone as well.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26902.html](http://www.nuforc.org/webreports/reports/026/S26902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Live Oak (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO SIGHTING THATWAS GONE IN A FLASHTHE UFO WAS HUVERING IN ONE SPOT(WAS STILL).  THERE WERE THREE LIGHTS IN A ROW ON THE SIDES OF THE SAUCER.  THERE WAS ALSO A LIGHT ON TOP.  AS I STOOD THERE STARING AT IT,  IT SEEMED AS THOUGH IT WAS GETTING CLOSER AND LARGER.  I COULD ONLY SEE THE OUT LINE,  I COULDN'T REALLY SEE A COLOR- IF IT WAS A COLOR IT WAS A DARK ONE. IT ALL HAPPENED IN LESS THAN A MINUTE, I WENT TO GRAB THE CAMERA AND IT WAS GONE WITH OUT A TRACE.  WHEN I FIRST SAW IT I SAW LIKE A TRAIL OF SMOKE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21445.html](http://www.nuforc.org/webreports/reports/021/S21445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
