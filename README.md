@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:23 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cathedral City (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very big craft came right out of fog no lights  no noise just moon light shining off of the craft went right back into fog.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144544.html](http://www.nuforc.org/webreports/reports/144/S144544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Morganza (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was leaving work and on my way passing St. Johns Church heading towards Margaret Brent, there's a small straight away and is an open field so you can see the stars.  I happened to look up and stare for a moment at the stars and noticed one the stood out the most.  So I kept checking on it every few seconds and it always kept getting my attention.  So when passing by the hills store there's a farm like a little bit passed it and I happened to slow my car down to look at it and then noticed how it was moving faster than any normal plane that I see and then as k kept looking at it I watched it just zip off and didn't see it anymore.  The object was far away enough where I couldn't see what it actually looked like but from my location it was green no blinking lights and round and moved at very high speeds.((NUFORC Note:  We spoke via telephone with the witness, and he provided us with additional information.  The date is approximate, but he reports that the sighting occurred in "mid-January."  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125689.html](http://www.nuforc.org/webreports/reports/125/S125689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
