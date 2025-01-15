@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Live Oak (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO SIGHTING THATWAS GONE IN A FLASHTHE UFO WAS HUVERING IN ONE SPOT(WAS STILL).  THERE WERE THREE LIGHTS IN A ROW ON THE SIDES OF THE SAUCER.  THERE WAS ALSO A LIGHT ON TOP.  AS I STOOD THERE STARING AT IT,  IT SEEMED AS THOUGH IT WAS GETTING CLOSER AND LARGER.  I COULD ONLY SEE THE OUT LINE,  I COULDN'T REALLY SEE A COLOR- IF IT WAS A COLOR IT WAS A DARK ONE. IT ALL HAPPENED IN LESS THAN A MINUTE, I WENT TO GRAB THE CAMERA AND IT WAS GONE WITH OUT A TRACE.  WHEN I FIRST SAW IT I SAW LIKE A TRAIL OF SMOKE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21445.html](http://www.nuforc.org/webreports/reports/021/S21445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Alturas (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>SUMMARY:  pink/reddish glow with a gray round craft there was only one. It swayed back and forth and dissappeared.Jan. 15, 1997 approx. 5:30pm pacific time cloudy sky.  I was laying on my trampoline in my back yard when I saw a light which at first I thought was the sunset but it was the wrong direction for the sunset.  Then I saw a craft in the middle of the glow.  It just swayed back and forth. Then it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01947.html](http://www.nuforc.org/webreports/reports/001/S01947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
