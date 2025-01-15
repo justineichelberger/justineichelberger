@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Loud cycling noise followed by multiple helicoptersI was just outside and heard a strange noise from above.  I looked up but could not see whatever was making the noise because of low clouds.  It sounded kind of like a car alarm but a lower pitch.  The noise was cycling and constant as it passed overhead and to the south.  Minutes after, I heard a helicopter pass overhead, then two more off in the distance to the east and a finally fourth coming from the north.  They formed up in a line abreast and began what seemed like a "sweep" in a northwest direction and turned southeast.  They are probably visible in the sky as I type this.  The helicopters have to be related to what I heard.  The only other time I saw so many helicopters was durning coverage of OJ Simpson in the Ford Bronco speeding down the 91 fwy.  They were media copters getting the scoop. Going to check the TV and see if there is a car chase or something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74097.html](http://www.nuforc.org/webreports/reports/074/S74097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I had just moved to Muldrow, OK. and had guests from Weatherford, OK there. We turned on the 10PM news, and the announcer was saying that hundreds of people were out in the streets in Ft. Smith watching strange lights.  We immediately went outside and could see them. They appeared a lot like the moon, except about 1/3 smaller, and of course there were several of them. They were all round, and the same size. It was a perfectly clear night. They would be perfectly still,and then move slowly, or sometimes very rapidly. They appeared to be about 2,000 to 3,000 ft. altitude, and we could hear nothing, absolutely no noise. We watched them for 10-15 minutes until we got too cold.  I now live back in Central OKLA and there's a book in our local library which details this very sighting.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42427.html](http://www.nuforc.org/webreports/reports/042/S42427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
