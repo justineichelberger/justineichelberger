@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Shooting star like thing came down UFO appeard with a gold glowI was driving down the road,something caught my eye then i look up and see a shooting star like thing come shooting down from the left then as i watched it go across the sky it all of the sudden was gone and i look and see this black object glowing gold and it just took off an vanished,its like it wasnt a shooting star it was the craft going at a fast speed and just all of the sudden stopped and my eyes werent quick enough to catch it stop so quick then its like it took off not left not right but straight ahead of me it was gone in the snap of my fingers, Always wanted to see a ufo,but im actually pretty shocked and find it hard to believe seeing something like that and how quick it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79725.html](http://www.nuforc.org/webreports/reports/079/S79725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houghton Lake (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rendezvous of 2 white lights, followed by enormous, pulsing light rings.I noticed a bright white, smallish blob of light traversing the night sky, at high altitude, traversing the sky from east to west.  It caught my eye, because objects at that altitude do not more that quickly.  It was not moving at an ASTOUNDING rate of speed, but it was moving too fast for the average jet operating at that altitude, so it caught my eye.  As I watched it cross the sky I noted that it seemed to be heading for an identical small blob of light that was STATIONARY, situated at the same altitude, due northwest.  I watched this drama unfold, as the objects seemed to be heading for a rendezvous.  They finally met, and seemed to form a larger blob of light, though there was some separation between them.  Then the pulsing rings of light began, light pulses that were slow, forming vast concentric and expanding rings around the center of the two objects.  There would be a huge flash, followed by an expanding light-ring that filled perhaps 1/16 of the sky.  As one light ring dampened out, the process would repeat.  At this point, I dashed in the house to get my wife to come see.  She also saw the light-ring phenomena.  Finally, the light rings stopped, and the two bright blobs of light simply disappeared.  Again, this event was not reported on in the local papers, in spite of the fact that this was a HUGE phenomena.  I thought it could have been some kind of USAF operation, perhaps an exercise in signalling, but nothing was ever reported.  The date is very approximate -- it could have been anytime between December `1999 and January 2000.((NUFORC Note:  Date is approximate.  One of two reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32580.html](http://www.nuforc.org/webreports/reports/032/S32580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
