@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in South Gate (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large Object hovering over house with flashing lights that were turning.I was getting ready to go to bed and playing around with my cousins and siblings ( I was 11 years old) when I looked out the window of my bedroom and I saw a very large object hovering over the house behind the apartment building we lived in, it had lights in the middle of the object that were flashing and the middlw was turning while the top and bottom of the object were stationary it hovered for about 15 sec. and then went up into the sky and disappeared. This happened around jan. of 1985 in South Gate, Ca. on Dearborn ave. I'm not possitive of the date.((NUFORC Note:  Source of report indicates that date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58832.html](http://www.nuforc.org/webreports/reports/058/S58832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Huge wing shaped object, translucent white, moving very fast with no soundA huge wing shaped object (boomerang shaped). Could'nt really tell how high it was travelling as it was white in colour but very translucent. This made it differcult to tell how wide it was, but if I had to guess I would say about 2000ft up & 200-300ft wide. The object was travelling very fast with no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41537.html](http://www.nuforc.org/webreports/reports/041/S41537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
