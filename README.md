@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I had just moved to Muldrow, OK. and had guests from Weatherford, OK there. We turned on the 10PM news, and the announcer was saying that hundreds of people were out in the streets in Ft. Smith watching strange lights.  We immediately went outside and could see them. They appeared a lot like the moon, except about 1/3 smaller, and of course there were several of them. They were all round, and the same size. It was a perfectly clear night. They would be perfectly still,and then move slowly, or sometimes very rapidly. They appeared to be about 2,000 to 3,000 ft. altitude, and we could hear nothing, absolutely no noise. We watched them for 10-15 minutes until we got too cold.  I now live back in Central OKLA and there's a book in our local library which details this very sighting.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42427.html](http://www.nuforc.org/webreports/reports/042/S42427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Cairo (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Silent Triangle viewed for half an hour.During the twilight hour in the middle of winter 1975, my mother came in to the trailer home we lived in and asked me to come outside and "look at something". I went with her to the end of our driveway and she pointed east. At the end of the dead end street we lived on there was a line of bare trees that bordered the entire trailer park where we lived. Above these trees I saw a huge triangular black shape that seemed to be floating very still and silent. On each corner of this shape small white lights glowed dimly. As we looked at this shape , my mother kept trying to question what it was, saying things like 'thats not a plane, is it?'.. 'is that a blimp?'.. ' what is that?'.My mother knew a lady in the park that had many cameras and we went to ask her to come out to photograph this thing.The woman became angry and refused to come and see the shape and told us to go away. We returned to our house and the shape had slowly drifted south from where we first spotted it. The air temperature was very cold and there were no other people around to alert them to this shape. The shape continued to move south and we watched it until it was no longer visible. I guess the most unsettling things about this sighting were that it was so silent and so slow in moving. Given that we lived in a mountainous and remote area it was shocking to see this perfect triangle floating above the woods.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34985.html](http://www.nuforc.org/webreports/reports/034/S34985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
