@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coolidge (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving home southbound on arizona blvd in Coolidge az looked to my right and saw 7 orange lights four on the bottom 3 on the top at first I thought they were helicopters but then the whole bottom row of four disappeared leaving three I quickly called my girlfriend and told her to go outside there are lights in the sky but from where we live you can't see them so we drove to a deserted area and observed these lights above what looks like to be casa grande I called the UFO center to see if there were other incidents of this occurring and there was I wasn't the only one seeing this! these were not stars people nor planes nor helicopters they looked to be pulsating when one would disappear another would show up as one light then break into two or three more lights very fascinating to me . Sadly I was unable to take pictures but my eyes will be in that direction for the next couple of nights to see them dance in the sky again and this time maybe capture so! me photos!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95988.html](http://www.nuforc.org/webreports/reports/095/S95988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Big Horn Mountains (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Straight line of 15 - 20 slow moving, silent, lighted objects flew over the Big Horn Mountains towards a red star, combined then vanishA line of slow moving lighted objects flew in a straight line over the big horn mountains towards a red star. Once to that point they all seems to combine together into one or flew into a carrier and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152647.html](http://www.nuforc.org/webreports/reports/152/S152647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
