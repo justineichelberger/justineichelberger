@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kawartha Lakes (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Light followed by pulsating red glowAt approximately 3:00 am we were awaken by a very bright flash in the sky and bang ... When we looked out the window we could see a pulsing red glow on the south east side of canal lake to what would be the Hwy 48 and Bolsover road area.  The glow continued and pulsed for approximately 10-15 min then stopped.  The power had gone on and off... I went to the balcony and could hear a pulsating sound in the distance...  It had looked like something was on fire in the distance... We assumed it was possibly a pole or electrical fire of some kind...  We drove over to the area to check the area but no signs of fire or electrical issues in the area…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125300.html](http://www.nuforc.org/webreports/reports/125/S125300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mentor on the Lake (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silently streaked in, did a figure 8 at the same speed and kept going in the same direction.On 1/16/99, I was standing on my back patio which is nestled between 2 buildings. I have about a 20 degree view of the sky. At approximately 16:00 hours I witnessed an object, round or spherical, glowing what looked like a light neon blue. As it (glided) into my field of view at a high rate of speed, it did what I could only describe as a horizontal figure 8. As it came out of the manuver, it continued in the same direction until out of my view. The speed never seemed to change and the moves were very smooth. All looked very unatural. No sounds were heard and no trails were seen even though other aircraft in the sky were leaving trails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06131.html](http://www.nuforc.org/webreports/reports/006/S06131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
