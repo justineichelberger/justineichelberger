@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:17 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Chesterfield (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were looking up into the East Southeast Sky from North Chesterfield when we saw what looked like a string of 5 red lights heading east.  The were evenly spaced and moving at the exact same speed.  The second light looked like it could have been a commercial craft, but that doesn't explain the one in front of it and the three behind it.  For a sense of scale, if the second craft was the size of a commercial aircraft, then they were each about a football field apart.  All of the other lights were too small to be a commercial craft.  They did blink red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106385.html](http://www.nuforc.org/webreports/reports/106/S106385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodside (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>An enormous purple/indigo oval shaped light seen peering through the clouds.My girlfriend pointed out an odd color in the sky.  As I observed the area, I saw a light, purple or indigo color, that was fading in and out through the clouds.  We decided to walk towards the shape, in a North East direction  to get a better view and as I kept watching, it appeared to be a large oval shape the size of my hand at arms distance.  We stopped by the Brooklyn Queens Expressway at 65th Street near a park where where our view was unobstructed and at that point we saw a airplane fly under it.  It was a mesmerizing sight to see the plane fly under the object, but have none of the blue rays reflect on it, which led me to believe the object was very far away.  Another exceptional observation was to consider the scale of the shape compared to plane.  The plane appeared to be the size of an ant compared to the object which gave me a sense that the shape was a lot further and a lot larger than the plane.  Soon after the plane flew by, the object disappeared.((NUFORC Note:  Advertising lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125311.html](http://www.nuforc.org/webreports/reports/125/S125311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
