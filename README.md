@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:08 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cary (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 Triangluar hovering craft with synchronized lightsMy husband and I were driving at approximately 6:30pm, 1/17/14,  ((sic.  1/16/2014)) in Cary, North Carolina, in our car and noted 5 or 6 bright white lights in a diagonal and evenly spaced formation across the sky while we were driving.  After a couple of minutes, one light changed to red and was blinking.  Then the lights one by one turned to red and they moved in formation to the West and went lower in altitude and hovered in a horizontal line formation.The objects were hovering very low, and I rolled down the window and they were close enough that I could see the bottom of a triangular craft each with one bright white light and a red light.  They were very quiet, but I could hear a dull vibration sound that seemed to be coming from the objects.  The objects moved away after a few minutes and began to synchronize red lights one after another.  In about 2 minutes they moved away and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106369.html](http://www.nuforc.org/webreports/reports/106/S106369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>6 orange lights above tree tops.Me and my fiance were on our way home from dinner heading east on Midway road in Bolivia, NC, when we both spotted 6 orange round lights above the tree tops.  At the time neither of us knew that we had saw it until we both reacted to when it disappeared off in the distance.  At that time we both saw each others reaction and both knew what we had seen. Does anyone know what this might be??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106373.html](http://www.nuforc.org/webreports/reports/106/S106373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
