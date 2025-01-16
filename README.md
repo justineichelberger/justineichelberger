@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in brunswick (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately drive-by - drive-by minutes.</sub><blockquote><sub>huge triangular object with red pulsating lightsOn Friday Jan. 16th 2009 I was driving on I-95 north heading to Savannah GA coming from Florida. I'm not positive on what town I was in but I was not in GA for too long before the encounter. It was close to 8 o'clock pm maybe a few minutes past. There was a pack of 18 wheelers 1/4 mile in front of me and a group of about 15 cars 1/2 mile behind me. I looked up and saw something out of the ordinary. On I-95 there are towers with red flashing lights and are triangular in shape. The object I saw was very similar but had to have been at least 300 yards long. The object was about 50 feet high give or take. The whole object was straight and flat, there were no curves of any sort. It was shaped like a wedge with 4 lights on each side and 3 in the back all evenly spaced and rectangular in shape. Also there were lights in the top but they were only turning on and off. The lights on the corners wrapped around both sides. All the lights were red. The lights on the bottom were pulsating from dim to bright and the lights on the top were turning on and off all at the same time. The side walls of this object seemed to be metal. The only thing I can relate the look to is the movie "Hitch Hikers Guide to the Galaxy". I am 100% positive that I saw what I saw, first of all I drove under it on the highway and second the group of cars that were behind me had slowed down considerably when they had gotten in view of it. I hope that another witness finds this website to validate my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68139.html](http://www.nuforc.org/webreports/reports/068/S68139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Oglethorpe (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a descending "set" of white airplane type lights visible for 3 or 4 seconds and then vanishing before reaching the horizonwe were headed west on hwy 2 in our car....the sky was already dark...about 7-7:30 pm....we were looking toward lookout mtn (in the vicinity of covenant college)...what i thought i saw was a descending "set" of lights, similar to an airplane, but mostly white (i don't think there was any other color) and a little bit larger than what would appear on a plane.....just over the horizon of the mountain....as it descended (very rapidly), my thought was to say, "look!...that airplane's going to hit the mountain!"....but then the lights seemed to "vanish" before reaching the horizon and i wondered if it was some sort of "shooting star".....it lasted several seconds however, and seemed somehow a little different than shooting stars normally appear.....((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79704.html](http://www.nuforc.org/webreports/reports/079/S79704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
