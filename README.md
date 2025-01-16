@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Southgate (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>3 blinking lights shaped as a triangle over southgate michiganHello, I seen 3 blinking lights non of which looked like a planes. The lights would flicker on and off then get a glowing look. On the other side of the sky there were lights that were shape into different shapes and designs one of which looked like a spacecraft. Today 1/17/07 I've seen 3 triangle shape object and 2 formation objects flying side by side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54800.html](http://www.nuforc.org/webreports/reports/054/S54800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cary (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 Triangluar hovering craft with synchronized lightsMy husband and I were driving at approximately 6:30pm, 1/17/14,  ((sic.  1/16/2014)) in Cary, North Carolina, in our car and noted 5 or 6 bright white lights in a diagonal and evenly spaced formation across the sky while we were driving.  After a couple of minutes, one light changed to red and was blinking.  Then the lights one by one turned to red and they moved in formation to the West and went lower in altitude and hovered in a horizontal line formation.The objects were hovering very low, and I rolled down the window and they were close enough that I could see the bottom of a triangular craft each with one bright white light and a red light.  They were very quiet, but I could hear a dull vibration sound that seemed to be coming from the objects.  The objects moved away after a few minutes and began to synchronize red lights one after another.  In about 2 minutes they moved away and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106369.html](http://www.nuforc.org/webreports/reports/106/S106369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
