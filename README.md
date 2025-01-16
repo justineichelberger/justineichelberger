@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:42 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:39 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately manhattan - manhattan minutes.</sub><blockquote><sub>4 bright orange blur lights moving in the sky like 4 flars with no smoke try to take pictures but any they disapeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79706.html](http://www.nuforc.org/webreports/reports/079/S79706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>A strange bright sphere was moving in all directions but in short bursts, a beam of light came out of the object and it dissapeared.I saw a bright ball in the north east night sky.  It moved back and forth and up and down in quick short bursts. then what looked to be a beam of light comeing from the strange object, every thing wierd stopped happening to it and it started heading up and east. after a few hours of watching it vannished. this was no airplane or heli.  if you guys recognize this type back if you can, and tell me what is going on. thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86651.html](http://www.nuforc.org/webreports/reports/086/S86651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
