@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Oglethorpe (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a descending "set" of white airplane type lights visible for 3 or 4 seconds and then vanishing before reaching the horizonwe were headed west on hwy 2 in our car....the sky was already dark...about 7-7:30 pm....we were looking toward lookout mtn (in the vicinity of covenant college)...what i thought i saw was a descending "set" of lights, similar to an airplane, but mostly white (i don't think there was any other color) and a little bit larger than what would appear on a plane.....just over the horizon of the mountain....as it descended (very rapidly), my thought was to say, "look!...that airplane's going to hit the mountain!"....but then the lights seemed to "vanish" before reaching the horizon and i wondered if it was some sort of "shooting star".....it lasted several seconds however, and seemed somehow a little different than shooting stars normally appear.....((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79704.html](http://www.nuforc.org/webreports/reports/079/S79704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boaz (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round object appeared in the sky opend parichuted out thn turned into a small plane then vanishedthe craft was white at first then it had deffernt colors they huverd then the top seemed to open up then it looked like something poked its head out,then the arms rasied then it looked liked it perishuted out of the circle and it looked like it just came down for aways then it looked like it changed into a small plane and then it dissaperd, i have a vido tape of it .if i can get info. about where to send the tape where it can be obserserved i will send it ,the tape will explain what i said but better,seen more of them but did not tape them .     p.s.thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27102.html](http://www.nuforc.org/webreports/reports/027/S27102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
