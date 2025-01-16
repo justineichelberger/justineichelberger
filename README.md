@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving under a strange hovering craft looking like a triangle plane.We were driving home and the craft just hovered over the highway for at leats 5 minutes. i noticed it then my wife finally said something about it not moving just hovering. we both thought maybe it was a plane heading towords us. then we finally drove under it and past it and it nevere moved we got some pictures of it but they never showed up on camera. then we finally could pull off the highway and we turned to seeit and we couldnt find it naymore. we noticed other car looking at it too because they slowed down and sworved just like we were doing. From a distance it loked like an airplane it had a triangle look form a distance and once upon it it looked like a flying triangle hovering. Teh lights were redish and white lights. just like a plane but none were flashing or like landing lights. me and my wife are not really believers in UFO but this was somehting very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54788.html](http://www.nuforc.org/webreports/reports/054/S54788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tifton (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In response to your request, I filled in the date above. I do not knowif there are other witnesses. But the thing that I saw surely was seen by others but this is a rural area and people are not likely to come forward. I still have not discussed this with anyone. I have one question for you? Are these things able to disolve or maybe cammouflage themselves at will and in midair? Because this one did. When it dissappeared those three times that what it seemed to do and on the third time it didn't come back. This was the first time that I have ever seen anything that I couldn't rationalize to myself. I've never seen aything like this before in my life. Also one other question, are these things always silent, because this one was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11719.html](http://www.nuforc.org/webreports/reports/011/S11719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
