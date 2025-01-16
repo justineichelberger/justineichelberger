@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Menifee (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>spere light ball dimming out then pulsating an tranforming to plane lights an moving north west when noticed. same thing i saw on jan 1Stepped outside to look in the sky, been interested in ufos since I saw one on new years same one tonight I pulsighting light sphere looks way smaller an farther awway on camera, but it was bright an big then dimmed out an small.  Going back an forth dimming out.  Then turned into a planes lights to fool me while taking pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106392.html](http://www.nuforc.org/webreports/reports/106/S106392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving under a strange hovering craft looking like a triangle plane.We were driving home and the craft just hovered over the highway for at leats 5 minutes. i noticed it then my wife finally said something about it not moving just hovering. we both thought maybe it was a plane heading towords us. then we finally drove under it and past it and it nevere moved we got some pictures of it but they never showed up on camera. then we finally could pull off the highway and we turned to seeit and we couldnt find it naymore. we noticed other car looking at it too because they slowed down and sworved just like we were doing. From a distance it loked like an airplane it had a triangle look form a distance and once upon it it looked like a flying triangle hovering. Teh lights were redish and white lights. just like a plane but none were flashing or like landing lights. me and my wife are not really believers in UFO but this was somehting very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54788.html](http://www.nuforc.org/webreports/reports/054/S54788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
