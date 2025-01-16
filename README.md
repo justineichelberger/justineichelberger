@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boaz (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round object appeared in the sky opend parichuted out thn turned into a small plane then vanishedthe craft was white at first then it had deffernt colors they huverd then the top seemed to open up then it looked like something poked its head out,then the arms rasied then it looked liked it perishuted out of the circle and it looked like it just came down for aways then it looked like it changed into a small plane and then it dissaperd, i have a vido tape of it .if i can get info. about where to send the tape where it can be obserserved i will send it ,the tape will explain what i said but better,seen more of them but did not tape them .     p.s.thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27102.html](http://www.nuforc.org/webreports/reports/027/S27102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue light moving erratically over South San FranciscoI live in the Outer Richmond District in San Francisco (8 blocks from Ocean Beach) where I have a vantage point overlooking South San Francisco.  I was standing on my apartment building roof smoking at night when I spotted a bright blue light moving erratically in the sky above the South San Francisco area (I think).  It was hard to pinpoint its exact location as the fog was steadily increasing and gradually obstructing my view, but it was located not too far from the coast.  If I had to guess, I’d say it was flying/hovering about 200-400 feet from the ground.  Since it was hard to tell where the light/orb was coming from, it was hard to judge its speed as it moved from side to side and up and down in a somewhat erratic fashion.  It didn’t seem to be moving at a tremendous speed, but if it was indeed above South San Francisco, I’d guess it was moving at varied speeds, crossing a mile or two in about 5-10 seconds (again, very difficult to judge).   It would move one direction, slow down, and move the other direction in no apparent pattern, sometimes gaining some altitude, sometimes descending.  There was never a sudden jolt in speed.  There didn’t seem to be any other lights and I didn’t notice a spotlight coming from it.  I’m not aviation expert, but it didn’t seem to behave like a helicopter.  I watched it for about 5 minutes then it seemed to descend and disappear.  I went back inside and looked out my window with the same viewpoint and about 10 minutes later saw it emerge again.  I then went back out on my roof and watched it for another 5 minutes until the fog became heavy enough to completely block my view of it.  I don’t believe it was blinking, but its luminosity seemed to vary - but I attributed this to the fog.  Very weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79714.html](http://www.nuforc.org/webreports/reports/079/S79714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
