@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glenpool (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Several diffrent colored lights in the sky.I was driving to a local store, when I saw straight in front of me several lights that where like glitter falling in the sky.  Then they all seem to stop the glittery effect and change to a very bright white light, they stayed that way for several seconds, then changed again.  Some where a pulsing red light, somewhere pulsing green light, and some where a less bright white pulsing light.They all took off in different drections some faster then others.  I got to see one with a green light to the right of me pretty close and it seemed to be a triangular shape.  As I keep driving they seem to have turned all lights off instead of flying off out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106375.html](http://www.nuforc.org/webreports/reports/106/S106375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Old Bridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGULAR WITH 8 BRIGHT LIGHTSI WAS OUTSIDE MY HOUSE SMOKING A CIGARETTE. I HEARD A NOISE THEN I LOOKED UP AND SAW A CRAFT OF SOME SORT WITH EIGHT BRIGHT LIGHTS.IT LOOKED ABOUT 1 MILE AWAY IN THE SKY AND IT STAYED STILL FOR A MINUTE OR TWO THEN IT TOOK OFF VERY FAST.I STAYED OUT THERE FOR A WHILE HOPING THAT IT WOULD COME BACK.I SAW IT PERFECT THE SKY WAS CLEAR!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60935.html](http://www.nuforc.org/webreports/reports/060/S60935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
