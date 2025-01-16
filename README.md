@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mentor on the Lake (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silently streaked in, did a figure 8 at the same speed and kept going in the same direction.On 1/16/99, I was standing on my back patio which is nestled between 2 buildings. I have about a 20 degree view of the sky. At approximately 16:00 hours I witnessed an object, round or spherical, glowing what looked like a light neon blue. As it (glided) into my field of view at a high rate of speed, it did what I could only describe as a horizontal figure 8. As it came out of the manuver, it continued in the same direction until out of my view. The speed never seemed to change and the moves were very smooth. All looked very unatural. No sounds were heard and no trails were seen even though other aircraft in the sky were leaving trails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06131.html](http://www.nuforc.org/webreports/reports/006/S06131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Oglethorpe (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a descending "set" of white airplane type lights visible for 3 or 4 seconds and then vanishing before reaching the horizonwe were headed west on hwy 2 in our car....the sky was already dark...about 7-7:30 pm....we were looking toward lookout mtn (in the vicinity of covenant college)...what i thought i saw was a descending "set" of lights, similar to an airplane, but mostly white (i don't think there was any other color) and a little bit larger than what would appear on a plane.....just over the horizon of the mountain....as it descended (very rapidly), my thought was to say, "look!...that airplane's going to hit the mountain!"....but then the lights seemed to "vanish" before reaching the horizon and i wondered if it was some sort of "shooting star".....it lasted several seconds however, and seemed somehow a little different than shooting stars normally appear.....((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79704.html](http://www.nuforc.org/webreports/reports/079/S79704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
