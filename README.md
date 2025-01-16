@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:08 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>6 orange lights above tree tops.Me and my fiance were on our way home from dinner heading east on Midway road in Bolivia, NC, when we both spotted 6 orange round lights above the tree tops.  At the time neither of us knew that we had saw it until we both reacted to when it disappeared off in the distance.  At that time we both saw each others reaction and both knew what we had seen. Does anyone know what this might be??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106373.html](http://www.nuforc.org/webreports/reports/106/S106373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glenpool (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Several diffrent colored lights in the sky.I was driving to a local store, when I saw straight in front of me several lights that where like glitter falling in the sky.  Then they all seem to stop the glittery effect and change to a very bright white light, they stayed that way for several seconds, then changed again.  Some where a pulsing red light, somewhere pulsing green light, and some where a less bright white pulsing light.They all took off in different drections some faster then others.  I got to see one with a green light to the right of me pretty close and it seemed to be a triangular shape.  As I keep driving they seem to have turned all lights off instead of flying off out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106375.html](http://www.nuforc.org/webreports/reports/106/S106375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
