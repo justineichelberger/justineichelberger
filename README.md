@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 15 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in New Church (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>WHITE LIGHTS BLINKING IN A SPHERICAL SHAPE, STATIONARY OVER FIELD. TRANSPARANT OR REFLECTING. WHEN IT MOVED, IT SPED SOUTH AT SPEEDS OVER 65MPH. FLEW OUT OF SIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11830.html](http://www.nuforc.org/webreports/reports/011/S11830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in North Chesterfield (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I were looking up into the East Southeast Sky from North Chesterfield when we saw what looked like a string of 5 red lights heading east.  The were evenly spaced and moving at the exact same speed.  The second light looked like it could have been a commercial craft, but that doesn't explain the one in front of it and the three behind it.  For a sense of scale, if the second craft was the size of a commercial aircraft, then they were each about a football field apart.  All of the other lights were too small to be a commercial craft.  They did blink red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106385.html](http://www.nuforc.org/webreports/reports/106/S106385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
