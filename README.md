@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Old Bridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGULAR WITH 8 BRIGHT LIGHTSI WAS OUTSIDE MY HOUSE SMOKING A CIGARETTE. I HEARD A NOISE THEN I LOOKED UP AND SAW A CRAFT OF SOME SORT WITH EIGHT BRIGHT LIGHTS.IT LOOKED ABOUT 1 MILE AWAY IN THE SKY AND IT STAYED STILL FOR A MINUTE OR TWO THEN IT TOOK OFF VERY FAST.I STAYED OUT THERE FOR A WHILE HOPING THAT IT WOULD COME BACK.I SAW IT PERFECT THE SKY WAS CLEAR!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60935.html](http://www.nuforc.org/webreports/reports/060/S60935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately current - current minutes.</sub><blockquote><sub>Rainbow light in sky above PhoenixMy fiancee was walking the dog and called me outside to look at very bright multi-colored sparkling light in sky. After taking a look at it, I ran and grabbed the binoculars and we both looked at it and it seemed to be emitting a rainbow of constant clear true colors of red, green, blue, white and yellow. The lights seemed to be coming from  a diagonal line off one side of the craft, but the shape of the craft was hard to see, since small and at a great distance in Southwest sky about 45degrees above the horizon. Very very bright, and never seen any star in that location prior to this.We watched it for several minutes starting from him viewing it at about 3:45 and still present as of this writing in same location in sky, but seems to have been moving very very slowly Northwest.((NUFORC Note:  We spoke at length via telephone with this witness, and we found her to be quite  serious-minded and credible.  We explored whether the witnesses might be observing the star, Sirius, which is quite prominent in the southern sky during the winter months.  She looked again on the following night, and asserted that the object was not visible on that date, seemingly ruling out a star.  PD))((ADDENDUM FROM SAME WITNESS))Follow-up to initial sighting at 04:00 on 01/16/05, upon checking after turning in intial report object was gone at 04:19 a.m. from our visible location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41531.html](http://www.nuforc.org/webreports/reports/041/S41531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
