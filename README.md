@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lansdowne (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My husband called me outside to see something he thought strange, so I came out to see a straight line of non-blinking single lights moving in a straight line across the sky but as we watched them go across the sky,all disappeared, one by one, at a certain point in the sky, so after it stopped, we looked around for more and we could see only a few others spaced apart along the western horizon like some sort of perimeter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152707.html](http://www.nuforc.org/webreports/reports/152/S152707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A student employee from KRUA radio station at the Univ. of AK called to enquire about the calls received about two glowing, moving,lights over the Inlet that night.  They received 20-25 calls, including a call from the FAA.  Good consistency between the reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00288.html](http://www.nuforc.org/webreports/reports/000/S00288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
