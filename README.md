@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:24 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:51 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Helsinki (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Space Craft UFO seen on field for 15.sec.Me And My Friend were walking our dogs outside we were on a open field and suddenly lights appeared and the dogs started to bark the lights were coming from the sky and all we could see was this bright light upon us it was like somekind of spotlight it lasted for about ten seconds and then something happened and the light went off we could see the hole "craft" the dogs stopped barking and the craft went away with great speed and flames what were blue (maybe gas powered) me and my friend were totally shocked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41548.html](http://www.nuforc.org/webreports/reports/041/S41548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Circle moving fast left trail of light about twice the size of the full moon.large circular object  going in pathways of a triangle and then cross cutting diagonally two times then disappeared 5 minutes later the object was back and went in the same pathway but to take off very fast and leave a trail of light behind.  I might have seen 2 crafts there was another craft same shape but with colors after the first one left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79724.html](http://www.nuforc.org/webreports/reports/079/S79724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
