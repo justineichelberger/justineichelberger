@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>I was approached while driving to E. R. Bright lights flagged me down. I pulled over and took videoMy curiosity was drawn to follow and discover our ancestral DNA's origen sequence of evolutionary transition formation of recognition status of awareness in the developing Concious I have a form of direct visual contact on a 24/7 anytime anywhere I can in real time interact with the micro dust particles that form our inviorment and everything we see and don't see. How ever I believe I see everything even things I'm not sure why I'm being showed such as judgment of godly Concious forms lining up. They are celestial bodies such as earth crown of gold and king drape scared with the markings of it's development and charactor. Anyway the ufo us not ufo as we have been conditioned to perceive. They are us. They are our ancestors in there fully developed form of origen within there inviorment. They are not extraterrestrial. They are in there origen godly concious</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165742.html](http://www.nuforc.org/webreports/reports/165/S165742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ranburne (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 3 bright orange lights in the night skyI saw 3 lights when I was on a hill driving.  I thought they were street lights, but noticed they were actually very low in the sky.  They were bright orange, with no trails. They were in a formation like the upper left quadrant of a circle,  I lost sight of them briefky and the formation had changed to the lower right quadrant of a circle.  They were close to the northeast of the city.   I lost sight of them for 5-10 minutes and there were then only 2, in a flat line to the far southeast of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116765.html](http://www.nuforc.org/webreports/reports/116/S116765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
