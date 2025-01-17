@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Meteor like fireball witnessed on a clear sunny midafternoon.While horseback riding in south Phoenix near Baseline Road at 32nd Street I witnessed an orange fireball descending in the southern sky.  It appeared to be traveling in a southeasterly direction and disappeared behind South Mountain.  It was very similar to seeing a meteor on a dark night, but occurred in midafternoon on a clear sunny day.  Space debris?  And no, I had not been drinking or engaging in other mind altering activities.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68092.html](http://www.nuforc.org/webreports/reports/068/S68092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was laying in balboa park looking at the early morning stars and at about four fifteen am i saw a very fast streak across the sky it seemed to fast for a plane and it was not moveing towards the earth so it seemed   the object was moveing in a north westerly way after i saw this fast streak i saw for new stars twinkel so it seemed like they were star  and they twinked and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68487.html](http://www.nuforc.org/webreports/reports/068/S68487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
