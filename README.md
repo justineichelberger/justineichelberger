@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 16 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ft. Oglethorpe (GA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a descending "set" of white airplane type lights visible for 3 or 4 seconds and then vanishing before reaching the horizonwe were headed west on hwy 2 in our car....the sky was already dark...about 7-7:30 pm....we were looking toward lookout mtn (in the vicinity of covenant college)...what i thought i saw was a descending "set" of lights, similar to an airplane, but mostly white (i don't think there was any other color) and a little bit larger than what would appear on a plane.....just over the horizon of the mountain....as it descended (very rapidly), my thought was to say, "look!...that airplane's going to hit the mountain!"....but then the lights seemed to "vanish" before reaching the horizon and i wondered if it was some sort of "shooting star".....it lasted several seconds however, and seemed somehow a little different than shooting stars normally appear.....((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79704.html](http://www.nuforc.org/webreports/reports/079/S79704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Leyland, Lancashire (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Video film taken of daylight object with fire and smoke contrail, moving upward at 30 degrees. Object was circular shaped.This sighting is accompanied with video confirmation, and still frame captures.An object (1) was sighted that first appeared to be a conventional aircraft. Witness got his digital Sony video camera and shot film of the object. There was a fire and smoke contrail for a period of time. This stopped briefly, and the object was more clearly seen to be NOT a conventional craft. The oval shaped object began to flutter for a few seconds, then a large puff of smoke was observed, and then the fire reignited. The contrail again disappeared, and the object was more clearly seen. The entire path of the object was upward at an angle of about 30 degrees, moving from north to south. The object was approximately 1 1/2 miles from the observers, the sky was mostly clear. The original digital video film is available, as are still frame captures, and enhancements, which clearly show a classic UFO shape. Images available on website.((NUFORC Note:  At the date of this writing, the images cannot be accessed on the website indicated to us.  We will try again at a later date.  Some of the still images posted are ambiguous, we believe.  They could be short contrails behind distant jets, but that theory may be disposed of, once we have been able to view the video clips.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27176.html](http://www.nuforc.org/webreports/reports/027/S27176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
