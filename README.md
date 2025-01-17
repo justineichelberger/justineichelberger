@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:45 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A student employee from KRUA radio station at the Univ. of AK called to enquire about the calls received about two glowing, moving,lights over the Inlet that night.  They received 20-25 calls, including a call from the FAA.  Good consistency between the reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00288.html](http://www.nuforc.org/webreports/reports/000/S00288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>I was approached while driving to E. R. Bright lights flagged me down. I pulled over and took videoMy curiosity was drawn to follow and discover our ancestral DNA's origen sequence of evolutionary transition formation of recognition status of awareness in the developing Concious I have a form of direct visual contact on a 24/7 anytime anywhere I can in real time interact with the micro dust particles that form our inviorment and everything we see and don't see. How ever I believe I see everything even things I'm not sure why I'm being showed such as judgment of godly Concious forms lining up. They are celestial bodies such as earth crown of gold and king drape scared with the markings of it's development and charactor. Anyway the ufo us not ufo as we have been conditioned to perceive. They are us. They are our ancestors in there fully developed form of origen within there inviorment. They are not extraterrestrial. They are in there origen godly concious</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165742.html](http://www.nuforc.org/webreports/reports/165/S165742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
