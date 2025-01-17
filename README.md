@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Auberry (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unusual fireball seen going across the skyOn the night of 17 Jan 2012, I was outside, opening an outdoor faucet as it was to be below freezing. While walking back to my house, I looked up and noticed a strange fireball going from Southeast to Northwest.  It was strange in that it was bluish-white, unlike normal meteors one sees in a meteor shower, or a regular fireball.  The object was about the size of a asprin tablet held at arm's length, and the fireball itself was egg-shaped.  The trail was much, much longer than a normal fireball, and had the same color as the object itself.  It crossed the sky in about one minute, and did not fade or otherwise lose shape or color as it crossed the sky, only doing so when it was over the NW horizon.  As if it was going from point A to point B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87125.html](http://www.nuforc.org/webreports/reports/087/S87125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Erie (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 39</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161810.html](http://www.nuforc.org/webreports/reports/161/S161810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
