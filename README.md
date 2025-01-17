@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:51 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Circle moving fast left trail of light about twice the size of the full moon.large circular object  going in pathways of a triangle and then cross cutting diagonally two times then disappeared 5 minutes later the object was back and went in the same pathway but to take off very fast and leave a trail of light behind.  I might have seen 2 crafts there was another craft same shape but with colors after the first one left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79724.html](http://www.nuforc.org/webreports/reports/079/S79724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thorp (7 miles north of) (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red Flashing pulsating lights 2-300 feet suspended in the dark sky.Object was 2-300 feet suspended above the road.  The location was Shiner Drive & HWY 73.  It was dark out.  One end of the object was flat shaped with 2 red pulsating lights on each corner that would alternate.  The opposite end had 1 dim headlight.  It seemed to be the size of a semi-truck but I could not make out the shape because I was driving South on HWY 73 and it was pitch black out.  At first I thought it looked like it could be a cell tower but the nearest tower is 7 miles away.  I looked back when I got 1 mile down the road and it was still suspended in that same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144637.html](http://www.nuforc.org/webreports/reports/144/S144637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
