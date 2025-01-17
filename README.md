@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:45 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Orange Grove (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>strange yellow 2 x 4 shaped object floating off the groundLet me first say I 'm not the kinda guy that wants to be admitting to something like this.  Just a hard working countryman.  But my sister made me do it (write this).  This is a second time this object has been seen.  I would describe it as a 2 x 4 (board) shape about 3-4 feet tall and yellow. Coming home late (on the first siting) one night, pulling into the drive way, I see this thing in my back yard.  I just drove into the yard (I live in the country on large acreage).  It darted back and forth, with no legs or arms just floating off the ground. I couldn't keep up with it in my pick up, it was to fast. I called my sister hoping she wouldn't think I was crazy but, I just needed to tell someone.  All I know is I was a pretty freaked out man.  Then having almost forgotten about it 4 months later...my fiance calls me and tells me of what she encountered on her way to work yesterday.  Seeing something a ways down the road in front of her was this same type of thing.   As she was crying telling me about it, that it was yellow and in the shape of a 2x4 board about the height of her small SUV.  She thought she was going to hit it as it floated (kinda hovered) into the middle of the road.  She said it like vaporized as her car passed threw it. My fiance is an ((deleted--professional)) and to her everything is either black or white (there is no gray area)   Please tell me someone else has really seen this type of thing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54831.html](http://www.nuforc.org/webreports/reports/054/S54831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A student employee from KRUA radio station at the Univ. of AK called to enquire about the calls received about two glowing, moving,lights over the Inlet that night.  They received 20-25 calls, including a call from the FAA.  Good consistency between the reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00288.html](http://www.nuforc.org/webreports/reports/000/S00288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
