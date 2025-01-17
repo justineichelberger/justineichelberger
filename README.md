@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Erie (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 39</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161810.html](http://www.nuforc.org/webreports/reports/161/S161810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Multiple, white, sphericle craft pretending to be stars that stay still sometimes & move other times over Casper, WyCraft that resemble Round balls of white light observed in different parts of the sky over the city.  They resemble stars, but are not because they float around in different directions at times & then go back to being still.  They sometimes flash all the colors of the rainbow but the color is only viewable with a telescope or binoculars. This movement is hard to spot with no refrence of a stationary object, (like tree limbs or a house overhang) between us & the objects to gauge their movement & ensure it wasn't our eyes playing tricks on us.  We then brought out a powerfull 280-X telescope which revealed their movement. There is no manmade aircraft in my mind that can be manned & perform the same movements whithout turning the pilot into hamburger. That being said, I was enlisted in the Navy on an airbase & know what high performance aircraft can do & have never seen anything like this level of performance.  We used a very powerfull green laser to signal to on! e of the UFO's. After that, it began moving more and also moved more towards us, but then stopped moving & stayed stationary. They had been seen by us for over a month almost nightly before the said date.  Sometimes up to ten craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79782.html](http://www.nuforc.org/webreports/reports/079/S79782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
