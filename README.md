@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbia (KY) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I would like to respond to a sighting that was posted here in 2000 from someone in Columbia, Kentucky.  I read the post and knew finally that I wasm t crazy.  This very same night I too witnessed a UFO.  It was of a triangular shape and it hovered over three houses in the Hovious Ridge area of Columbia, KY.  I am unsure if this was one of your houses or not?  I was leaving a friends house and as I was pulling out of the drive onto the road the object appeared hovering over these houses.  My legs and feet began to tremble and I just stopped.  I watched it and was afraid to go any further as I knew once I went down the ridge there would be no houses and I would be all alone.  I sat there watching it for approximately 2 or 3 minutes and my heart just raced.  It appeared to be of a triangular shape in the front with all types of different colored lights.  It just sat there hovering.  Watching me.I could barely breathe.  Then suddenly it took off like the speed of light over the trees and towards Green River Lake.  It was beautiful to watch.  Then all my fear just left me.  And I went on home.  I hope that the person who posted back in 2000 comes back and reads this.  Columbia is a small town and i'm sure we are not the only ones who witnessed something dramatic that night.  I think people are just too afraid to say anything about it.  Like, I was.((NUFORC Note:  We presume the witness meant to enter a date from the year 2000.  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32185.html](http://www.nuforc.org/webreports/reports/032/S32185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Joppatown (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ISS live feed images.I saw this object while viewing the ISS live feed, taking several screen shots.  If you look close you can see a smaller craft in front of it and a trail through the clouds behind it. I sent the images to NASA, asking what it was, and they responded by giving me a different email address to send it to, but they did give me a case number.  I have re-sent the images twice to the new email they gave me, but have yet to hear anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125959.html](http://www.nuforc.org/webreports/reports/125/S125959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
