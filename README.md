@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Newbury Park (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle UFO moving low across the sky a little before mid-day.It was early in the day and my bird had flown away so i woke my friend up that was sleeping over to come out back with me to see if we could spot the bird flying around and go after it. After looking for 10 minutes we hadn't seen the bird, but as i was looking to the ocean(West) and my friend was looking the opposite direction(east) when he says "dude look at this shit" so i turn and i see it. Above the 101 Freeway, not that high up in the sky, low enough to get a very very nice view of it, was a triangle shaped craft. It was not a solid triangle, there was nothing in the middle. Just the shape of a triangle, and each corner has a piece that stuck straight up. The craft was silent, small planes frequently fly over my house sometimes lower than this and you can hear them so well they shake the windows of my house. This craft produced no sound and just "glided" smoothly across the sky heading north. It had a gray color, and shined a tiny bit when the sun hit it right, but not like a normal, it just looked different the way the light reflected. I was going to run for the camera but it was heading towards two small hills that would obscure it from view in a matter of seconds so we just watched it cruise on by and dissapear behind the hills. Later on, about 20 minutes later a third friend arrived and we told him what happened, so we went out back again to look for my bird a little more. We ended up going onto my roof with a pair of binoculars and scanning the sky for my bird.I looked up and saw a small white dot, not moving, just sitting there, directly above the area we had seen the triangle craft earlier. When focused on in the binocluars it looked like a silver metal orb, but it was so high in the sky that no detail could be made out. All three of us saw this second object, and it remained there for 15 minutes or more until it finally moved away in the same direction that the triangle craft had went earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68132.html](http://www.nuforc.org/webreports/reports/068/S68132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tunica (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>We were going to tunica to gamble at the casinos when my aunt said look at that alien craft,it hovered for a couple seconds with one bright light Blinking in the center with colorful lights circling the white light, then it just poofed out of space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150826.html](http://www.nuforc.org/webreports/reports/150/S150826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
