@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ione (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Redish-Orange object falling ne to sw in souther sky south of Sullivan Lake, Ione, WaOn 20110118 at approximately 22:07 (Pacific Time) while looking south-south west from a location just south of Sullivan Lake (NE of the town of Ione, WA) I observed what most likely was a Meteor passing from the north east to the south west.  The object went just below the three stars on Orion's belt downward at about a 45 degree angle.  The object was left a reddish-orange streak in the sky.  I make this report even though it probably was a meteor just to help document this "UFO".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79727.html](http://www.nuforc.org/webreports/reports/079/S79727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Easton (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A big flash of white light by the moon followed by a very bright light that skipped across the sky then faded to black.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106407.html](http://www.nuforc.org/webreports/reports/106/S106407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
