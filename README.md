@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Willits (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>fireballs in the sky over Willits Ca.Dark night and it looked liked like fire in the sky. several balls of fire.  One seemed to be larger like a short stick on fire.  They looked to be very high up in the sky. They slowly burnt out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106400.html](http://www.nuforc.org/webreports/reports/106/S106400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small, circular objects floating in a chevron pattern (12 formations total) in a NNE direction over the Lakewood, CO area.I witnessed the first shape flying in NNE direction.  It appeared to be approx. 50 ball-shaped objects floating in a chevron pattern.  They were about 500-800 ft. in the air and going at a rapid speed.  I called my husband out to see it and within a minute, we saw another object, but sightly shorter follow the same path.  Over a period, we witnessed a total of twelve in all.  The objects appeared to be lit, but it is unclear whether they were just reflecting the light fron the ground. They all followed the same flight path and never moved out of the chevron shape although a few would lag back for a second or two.  There usually about 30-40 balls per string.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34540.html](http://www.nuforc.org/webreports/reports/034/S34540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
