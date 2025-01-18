@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tunica (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>We were going to tunica to gamble at the casinos when my aunt said look at that alien craft,it hovered for a couple seconds with one bright light Blinking in the center with colorful lights circling the white light, then it just poofed out of space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150826.html](http://www.nuforc.org/webreports/reports/150/S150826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nephi (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green orb seen in my back yardI was letting my dogs out through my back door (facing south) like I do every morning. Both the main door and screen door have a glass pain on the top half. I opened the main door and before I opened the screen door I looked up into the sky to the south. There was a huge bright green orb that illuminated the whole sky. It seemed like the sun had already come up even though it was only 6:10am. It was about 10 stories high flying through the air like a shooting star but slowly. As soon as it registered what it was in my mind, it completely disappeared and the sky went black. There was nothing in the area it could have flown behind (trees, mountains, buildings etc.) I continued to let me dogs out to use the bathroom and they seemed to be on high alert while being outside. They have returned to normal since then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161717.html](http://www.nuforc.org/webreports/reports/161/S161717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
