@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 17 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was laying in balboa park looking at the early morning stars and at about four fifteen am i saw a very fast streak across the sky it seemed to fast for a plane and it was not moveing towards the earth so it seemed   the object was moveing in a north westerly way after i saw this fast streak i saw for new stars twinkel so it seemed like they were star  and they twinked and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68487.html](http://www.nuforc.org/webreports/reports/068/S68487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My friend and I were on the porch facing Northeast at around 1 am, when all of a sudden all of the street lamps went out and the sky lit up with a few blue-green and red flashes.  I pulled my phone out to record a video, but it didn't happen again.The lights flashed like heat lightning would, but it wasn't a white light.  It was a blue-green flash and then a red flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116762.html](http://www.nuforc.org/webreports/reports/116/S116762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
