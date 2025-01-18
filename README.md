@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:32 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New River (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Artificial sounding triangular aircraft circling overheadNew River, Arizona.  Yesterday afternoon I kept hearing what sounded like a small aircraft flying above our house.  It sounded strange, so I went outside to take a look.  What I saw was a triangular craft with a long forward fuselage and what looked like canards at the forward end of the craft.  I would estimate the size to be about that of a Lear jet.I grabbed my camera and snapped several pics before it disappeared in the distance, only to return a few minutes later and I was able to take a few more shots of it before it headed towards a cloud in the distance and vanished.The enlarged the photos to get a better idea of what the craft looked like, and was surprised to see that it had no visible propellors or jet engines.  The strange thing about the sound it made was that it seemed so artificial, like a recording.  The sound also seemed to trail the craft by several hundred feet and the aircraft was not moving any faster than a typical single-engine airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116829.html](http://www.nuforc.org/webreports/reports/116/S116829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sterling Heights (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Orange fiery ball of light moving back and forth then shoots away in a flash and leaves a fiery trail just as airplane would leave a trIt appeared out of know-where and just moved back and forth and was really high above and in a flash it went straight and slightly vertical and dissapeared in a flash and left a fiery orange trail behind it for a 2 second duration.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138454.html](http://www.nuforc.org/webreports/reports/138/S138454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
