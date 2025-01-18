@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hampton Bays (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange orb moving oddly low in the sky, two additional orbs appeared behind it forming an elongated triangle.Big orange orb moving just above the tree tops along the beach coast (West to East). The movement looked as if it were riding ripples of a wave. Very low in the sky. When it got to be directly in front of me (over the Hampton Bays Coast Guard Station and less than a mile away) , two additional orbs appeared simultaneously behind it forming an elongated triangle. An additional orange orb from the ocean side and a red orb from land side. It then moved in formation as an elongated triangle through the treetops out over the ocean. Could not have been more than a couple hundred feet up and never made a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162162.html](http://www.nuforc.org/webreports/reports/162/S162162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Red Lodge (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw 30 dots of light traveling one after the other from the south west to the north east. Possibly satellites traveling in a line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152748.html](http://www.nuforc.org/webreports/reports/152/S152748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
