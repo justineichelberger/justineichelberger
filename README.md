@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auckland (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A light in the sky over Auckland ,New Zealand. Changing direction from left to right at 45 degree angles. Quite stunning to watchOn saturday evening I went outside onto the deck and was observing the clear sky over Auckland as I do from time to time, after 5 minutes or so of looking I saw what I thought was a shooting star going across but then to my amazement it changed direction suddenly on about a 45 degree angle to the left for approx two seconds then went straight for another two seconds then it changed direction on a 45 degree angle to the right and continued this staggered movement until it went out of sight. I can only drscribe it as being a light and unable to distinguish any shape being it was so far away which is why I first thought it was a shooting star. I was totally flabbergasted seeing something in the sky changing direction suddenly to the left straitening up and then altering it's path to the right and doing it at random again and again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68077.html](http://www.nuforc.org/webreports/reports/068/S68077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Willits (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>fireballs in the sky over Willits Ca.Dark night and it looked liked like fire in the sky. several balls of fire.  One seemed to be larger like a short stick on fire.  They looked to be very high up in the sky. They slowly burnt out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106400.html](http://www.nuforc.org/webreports/reports/106/S106400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
