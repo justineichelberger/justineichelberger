@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nephi (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green orb seen in my back yardI was letting my dogs out through my back door (facing south) like I do every morning. Both the main door and screen door have a glass pain on the top half. I opened the main door and before I opened the screen door I looked up into the sky to the south. There was a huge bright green orb that illuminated the whole sky. It seemed like the sun had already come up even though it was only 6:10am. It was about 10 stories high flying through the air like a shooting star but slowly. As soon as it registered what it was in my mind, it completely disappeared and the sky went black. There was nothing in the area it could have flown behind (trees, mountains, buildings etc.) I continued to let me dogs out to use the bathroom and they seemed to be on high alert while being outside. They have returned to normal since then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161717.html](http://www.nuforc.org/webreports/reports/161/S161717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in La Jolla (On I-5 at Gillman Road Exit) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>u.f.o. siting in la jolla, californiaI was driving on the CA-5 interstate highway and i was on my way to dinner in Los Angeles.  At that point on my drive, I was in La Jolla, California.  I looked up in the sky, and hovering above the hill to the right of me was a U.F.O.  It was enormous. There was no loud sound, because i opened my window to see.  But because of the traffic i had to keep moving with the traffic.  I thought at first that the large object was a blimp and that i was mistaken or perhaps that it was even a plane. But the object was extremely low to the ground and hovered over a local neighborhood.  It was almost a circular shape, but hard to tell because I was trying to look up and out of my windshield in my car.  The U.F.O. had 3 blue light that were placed on the edges of the object and one small red light in the center. This object was way too low to be a plane and was moving very slow in a forward motion, but going south in san diego, while i was going north. I was only able to see the objct for about 1.5 to 2 minutes since i had to pass it in the car.  I was stunned.((NUFORC Note:  We just spoke with this witness via telephone, and she sounded quite sincere and credible to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27188.html](http://www.nuforc.org/webreports/reports/027/S27188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
