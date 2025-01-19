@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:07 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lewes (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Heading south on Route 1 toward Lewes, Delware, I observed 4 solid red lights in a chevron formation.  They did not move, remaining stationary for approx. 45 seconds, and then faded away, as if turning down a dimmer switch.  A few seconds later, the same formation appeared in the opposite quadrent of the sky, remained lit for about 45 seconds, and again dimmed.  The distance between the two points would have been far too great to have been traversed by a conventional craft.  Shortly after the second appearence, a formation of 8 US figther jets approached the area where the lights had appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41589.html](http://www.nuforc.org/webreports/reports/041/S41589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beach Lake (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Movement of three from a delta pattern to a line of three.To begin; the objects that were seen were first in a delta type formation. One at the top of the delta and the other two to the lower left and right but very closely positioned. The colors appeared to be very bright white, green, and red,flashing in a rotating pattern around each object. This observation occured at first slowly and then with a rapid move the objects separated into a line of three, with the center object slighty higher up from the other two. The objects spaced themselves across the horizon equal distant from each other with the exception of the center object which remained higher up on the horizon. This all occured in the Eastern sky. The most predominate celestial object at the time was the constallation Orion to the upper right of all the objects. Once the ojects placed themselves you could observe the blinking light pattern. The only change observed from this point was the light pattern, it went from a delta pattern to a vertical pattern. The objects as observed seemed to get more distant in the sky as time move on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48769.html](http://www.nuforc.org/webreports/reports/048/S48769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
