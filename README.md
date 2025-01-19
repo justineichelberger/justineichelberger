@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mechaniscville (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It moved slow with 9 bright white lights made no sound and was low to the ground with triangular shapeWell me and my friend were sitting outside of one of our other friends house waiting for him.  As we were sitting there we looked over the tree-line and we saw something moving really slow (I'm guessing about 15 MPH).  It was a trianguler shape it had 9 bright white lights, it made no sound at all it was very low to the ground maybe 1/4 in the air.  Me and my friend watched it until it was un-seeable from where we were standing.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39314.html](http://www.nuforc.org/webreports/reports/039/S39314.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We do not have aircraft that fast which can turn so sharplyTaking garbage out to the bins and looked to the sky as it was clear. There was a plane overhead to my left then three other objects which I thought were initialy planes tracked along the same flight path but seemingly higher. after only a few seconds it was obvious that the three new object were far faster than the aircraft and they were not flashing, at this point one of the light changed direction very dramatically 60-70 degrees and disapeared towards the horizon the other two swept around on a much more circular path and followed.Thirty seconds later the fouth craft came overhead and from behind me on a direct "chasing" path towards the first three, the speed was simmmilar to that you would see on a shooting star excepting it did not burn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48768.html](http://www.nuforc.org/webreports/reports/048/S48768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
