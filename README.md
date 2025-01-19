@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We do not have aircraft that fast which can turn so sharplyTaking garbage out to the bins and looked to the sky as it was clear. There was a plane overhead to my left then three other objects which I thought were initialy planes tracked along the same flight path but seemingly higher. after only a few seconds it was obvious that the three new object were far faster than the aircraft and they were not flashing, at this point one of the light changed direction very dramatically 60-70 degrees and disapeared towards the horizon the other two swept around on a much more circular path and followed.Thirty seconds later the fouth craft came overhead and from behind me on a direct "chasing" path towards the first three, the speed was simmmilar to that you would see on a shooting star excepting it did not burn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48768.html](http://www.nuforc.org/webreports/reports/048/S48768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>HOVERING white light.The present writer was walking west on Cortland which is a street on the south side of Bernal Hts.,in San Francisco(in CAlif),at slightly after 6pm,PST.I was gazing at the planet venus,somewhat lazily,and my gaze wandered,until a starlike object appeared.The sky was dark out,on this Jan.19,2001.This light was an intensely white one about the brightness of venus.Comparing the known time of events and looking back mentally,I estimate the timing of this sighting to be about 25 seconds long.It then blacked out.It was hovering-no movement.It also was silent. It was roughly between Jupiter and Venus and at an altitude of about 45 degrees.That was the last I saw of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16518.html](http://www.nuforc.org/webreports/reports/016/S16518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
