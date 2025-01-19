@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Four balls of white light dance in Ocala night skyI regret not reporting this sighting sooner, but I didn't know one could report such things until I heard of this website yesterday; oddly, someone else apparently had a similar view of the phenomenon I witnessed last January.  Around 11 PM, I let my dogs out for a final time for the night; I looked up into the sky, as I do every night, and saw odd white circles of light in the SW sky. I live in the NW area of Ocala FL and the lights were clearly west and south of my house. Honestly, I feel a little silly telling this, but it was quite amazing to witness: The four white circles flew in bizarre, clearly geometric patterns, seeming to "smack" together and become one larger ball of light and immediately disperse into four separat balls of light. It was like a dance--a square dance, one might say--where the four couples turn and return.  I couldn't believe my eyes and looked for a ground source of light, but there was none. The sky was clear, and it was easy to see them.  They flew in ways no normal craft can fly, faster than I can describe, stopping cold and turning back over and over again. Another metaphor I might use to describe this is to picture them as large white billiard balls smacking together and breaking into varied patterns, stopping, turning back and smacking together again.  There was absolutely no sound at all, just light. I watched them for about half an hour.  I realized I should perhaps be frightened of this odd sighting, but curiously, I felt elated; they seemed joyful somehow. I'm sure it's ridiculous, but I sensed they were flying this dancing pattern just for fun.((NUFORC Note:  Possible sighting of advertising lights?  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44677.html](http://www.nuforc.org/webreports/reports/044/S44677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.333333333333333 - 6.333333333333333 minutes.</sub><blockquote><sub>Rhode Island, Providence, Nantucket, 19th January - formation flying craft of ther skyWe were driving home from a meeting of our local sports club when 4 bright lights passed in front of us, above us, following the path of the highway.  At first we thought they were aircraft but then we realised there was no noise and they seemed to be dancing around each other.  Then one of them suddenly changed direction instantly and flew off behind the tree line.  The others stopped, wiggled a bit in the air and then disappeared as if covered by cloud.  Birds looked quite confused.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68150.html](http://www.nuforc.org/webreports/reports/068/S68150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
