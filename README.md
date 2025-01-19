@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:44 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We do not have aircraft that fast which can turn so sharplyTaking garbage out to the bins and looked to the sky as it was clear. There was a plane overhead to my left then three other objects which I thought were initialy planes tracked along the same flight path but seemingly higher. after only a few seconds it was obvious that the three new object were far faster than the aircraft and they were not flashing, at this point one of the light changed direction very dramatically 60-70 degrees and disapeared towards the horizon the other two swept around on a much more circular path and followed.Thirty seconds later the fouth craft came overhead and from behind me on a direct "chasing" path towards the first three, the speed was simmmilar to that you would see on a shooting star excepting it did not burn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48768.html](http://www.nuforc.org/webreports/reports/048/S48768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sphere shaped object with aura at sunsetMesa, AZ  Thursday, Jan 21, 2021 @ 5:40, 5:42 and 5:43 (mountain standard time)  After reviewing live photos taken of the sunset, observed a sphere with an aura in 2 of the three pictures. A jet also in one of the 3 photos dwarfed the sphere object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161731.html](http://www.nuforc.org/webreports/reports/161/S161731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
