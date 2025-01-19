@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 18 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hampstead/Plaistow (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle object seen by 2 peopleI could not believe my eyes, this thing in the sky appeared out of nowhere it was looking at me as if i were about 6 feet from it, i was driving down a main road and it appeared to the right side of my window as if it were following me and then dissapeared, again i looked around and there it was just looking as if it was not moving at all in the sky this time it was farther away it was shaped like a triangle and i could only see a black and grey color. I stopped on the road to try and get a better look and i could see it hubbering over the same spot and then out of nowhere this thing vanished. I read the paper the next day and a man who was an airplane pilot reported the same incident to the newspaper, no one believed me then when i saw that someonelse had seen this odd object i felt like i had someone out there that saw it too.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50174.html](http://www.nuforc.org/webreports/reports/050/S50174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Elsmere (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Greenish light splits into 2 with a yellowish glow.I looked up as I was walking and noticed the stars and a greenish colored light streaked acrossed my view and broke into 2, it had a slight yellow color to it also.It only lasted 2 seconds at most, no sound was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106477.html](http://www.nuforc.org/webreports/reports/106/S106477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
