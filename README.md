@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Bern (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately unk - unk minutes.</sub><blockquote><sub>Lights in the night skyJust came back in, witnessed 3 lights high in the sky around the 10 o'clock position. They did not appear to be moving, their were only 3, I know I had heard about people reporting satellites in the sky, but when I checked the web the ones they were reporting were a string, and according to the pictures there were a lot more than just three. That's the only reason I am reporting these. They did not appear to be moving at all. I had to come in, they may be gone now.   I went back out, could barely make them out some lights clouds in the sky. Took a small movie and picked up other lights, they appear to be blinking, and possibly moving farther away. I checked the aircraft radar for the US and nothing was flying even close to my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161692.html](http://www.nuforc.org/webreports/reports/161/S161692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small Metallic Disc Sighted in Denver, CODriving eastbound on Hampden Ave. (Hwy 285) in Denver,Co. As I was approaching the Federal Blvd. exit, a flash caught my eye. A small (6-12 ft.) wide classic shiny disc was flying northbound across the horizon.  I followed it with my eyes for a moment and then it just disappeared into thin air, which was pretty amazing.  I scanned the sky to see if maybe I had just lost it for a moment an at the same time was fumbling form my phone to take a shot in case I found it again.  As I scanned I noticed a dark helicopter in the vicinity flying low at about the same elevation the craft was at.  The helicopter was quite a distance off from the craft but it gave me the creeps as I am a UFO enthusiast and realized the implications.  In no way did I leave the house today wishing to sight a UFO, I am far too intelligent for hoaxes and am a true believer so would never tarnish the subject.....Extra terrestrial??  Not enough time to give a 100% thumbs up on this...I have never se! en a UFO before this day....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96035.html](http://www.nuforc.org/webreports/reports/096/S96035.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
