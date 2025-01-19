@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Skegness (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Triangle formation of lights rotating in North Eastern Sky, England, United Kingdom.I was observing the evening sky to the North West, when above me I noticed an odd formation of stars in a triangle formation. They were dull in colour and not recognisable to me as any known stars. After a few seconds, no more than 10, they rotated in formation and their luminosity grew to a bright blue glow and then proceeded to move east across the sky. They proceeded slow at first before surging to a great speed, so great that after a total of no more than 20 seconds they dissapeared off beyond the visable horizon. There were other 'normal' aircraft in the vicinity, yet this 'object' was far higher in altitude and the manouvering of it was like no other. I have never seen anything like this before in my life both personally, and professionally as an aerospace engineer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48783.html](http://www.nuforc.org/webreports/reports/048/S48783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange ball of light over Lake Baldwin.  We pulled over.  There were allay three people recording.  It was stationary and large.  Suddenly it turned diffused... as though it were surrounded by clouds or some, but there wasn't a cloud near it.  Then it simply disappeared...blipped out of the sky as though it were extinguished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138476.html](http://www.nuforc.org/webreports/reports/138/S138476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
