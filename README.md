@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 19 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.333333333333333 - 6.333333333333333 minutes.</sub><blockquote><sub>Rhode Island, Providence, Nantucket, 19th January - formation flying craft of ther skyWe were driving home from a meeting of our local sports club when 4 bright lights passed in front of us, above us, following the path of the highway.  At first we thought they were aircraft but then we realised there was no noise and they seemed to be dancing around each other.  Then one of them suddenly changed direction instantly and flew off behind the tree line.  The others stopped, wiggled a bit in the air and then disappeared as if covered by cloud.  Birds looked quite confused.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68150.html](http://www.nuforc.org/webreports/reports/068/S68150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mountain Grove (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange lights in sky over Mtn Grove Mo.I was coming home from work when I saw two large orange colored balls of light in the sky. I was on my cellphone talking to a friend who only lives five miles north of me. I told him and he ran outside his house and started looking up in the sky towards the north. What we both saw then is so far unexplainable. We both watched as the two objects would jump,bounce,and dart back and forth from each other. Then as suddenly as they apeared they were gone seconds later they reapeared movieng very quickly towards the north west. We also saw more lights appear and disapear in the same manner all together we saw as many as eight in a perfect row at one time. Now I have seen plenty of airplanes at night and I know these were no planes or for that matter weather ballons. So what were they?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48779.html](http://www.nuforc.org/webreports/reports/048/S48779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
