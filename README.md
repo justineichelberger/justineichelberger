@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  76</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152965.html](http://www.nuforc.org/webreports/reports/152/S152965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my Friend were sitting on our balcony just on our phones when we look up straight forward you can see across Lackland Air Force base San Antonio Texas a disc/circle like air craft hovering over base for about 5-10 seconds just there while I started to record it just stayed blinking with red lights all around the craft about 300ft from our second floor about 8 minutes before I also Caught the same craft or possibly can b more than one hovering over my building for about 13-15 seconds then it vanished off like It went “zoom” or just the speed of it leaving was so fast it was gone in about a second I also saw in the video that same exact object that was by my building Or like I said possibly more than one had stayed in the video seconds later when zooming in pictures it’s really clear I can see what everyone says “ufo or disc” like figures from what I have captured on video so clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156792.html](http://www.nuforc.org/webreports/reports/156/S156792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
