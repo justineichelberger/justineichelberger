@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1951, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>01/20/51     Palm Springs CA     light     hour and a half     bluish-white light of worm-like shape        04/09/06Edmund C. Jaeger, a well-known naturalist and reliable observer, records an unusual event in his field notes: On January 20, 1951, at 04.30, he wakes in Palm Springs, California, to see a bluish-white, needle-shaped object in the western sky at about 30 degrees. This is between the constellations Leo and Cancer. As he observes the object for the next hour and a half, it develops a head and a tail and goes through various worm-like shapes.  He comments: "I never before heard or saw anything like it."  A writer of books on natural history, Jaeger was a scientist and a reliable observer. I am writing a book about him and would very much like to comment on this anomalous event.  The curious thing is that I could find no witnesses, no newspaper accounts, or other record of the event. May I have your guidance and comment on this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50060.html](http://www.nuforc.org/webreports/reports/050/S50060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbus (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular craft seen by three females.I was driving in a vehicle with two of my friends both female.  I was riding in the passenger seat.  While looking out my window I noticed a blinking object moving very fast towasrds us.  We were on gravel roads outside town near a gas station called Lakw Stop.  My friend decided to pull over in the station and we all got out.  By that time the object was directly over us and was only about 200 ft. up.  It made no sound but the bottom was lit with alternating red, oarnge, and white lights.  I then began to get hystericle and told my friends to get back in the car.  We spend to town and the aircraft followed us about a mile away and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22156.html](http://www.nuforc.org/webreports/reports/022/S22156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
