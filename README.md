@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Big bright stagnant light in the sky.Light in the sky, looked as if it was a star VERY close to earth but it was much closer than a star could be, very big light, stagnant.  Know with 100% certainty that it was not a plane.  My 3 year old even knew there was something odd with it.  Have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106513.html](http://www.nuforc.org/webreports/reports/106/S106513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was taking my two children to their mother’s house in Chandler for the weekend.  My daughter is 14 my son is 11.  It was 10:30 pm and we were traveling east on Elliot rd between Dobson and Alma School.Just north of Elliot at roughly 400 feet were three circular orange globes.  Two were at 400 feet one was another 100 feet or so above the two.  I knew immediately it was a technology that officials claim doesn’t exist.We drove back and forth doing several u-turns while I told the kids, "I told you UFO’s were real."If we went more than a block or so from the spot next to the road where they were hovering they looked like stars.  At one point while heading back west on Elliot my daughter said, "Oh dad they are real close to the ground.  OHHH DAD they’re right there, I’m scared."All of the other cars were oblivious and obviously were not seeing the objects.  I would have missed them as well except at the exact moment that we were in the spot where they were visible my son asked me, "Is it a new moon tonight?"  So at that moment I looked up and made the initial sighting.On our last pass I had an image of seeing myself from their perspective in my mind and I blurted out, "It’s a father with his two kids."  The moment I said that, the globe that was hovering higher floated up at a 90 degree angle, then instantly shot west at a 45 degree angle, then stopped in a position that made it look like a star.  We then left for their mothers as my daughter had become frightened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86929.html](http://www.nuforc.org/webreports/reports/086/S86929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
