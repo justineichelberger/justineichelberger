@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kailua-Kona (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright fire ball cfrossing the sky blueish/green with a tail.we were driving on the road when it came from atop the mountain down to the ocean in an east to west manner.  it was so close to the earth brighter thatn anything i have ever seen.  it was blueish/green and had a long tail.  I though it must have landed on the ground, but my friend thought it was heading towars the ocean.  Maybe it was a meterorite or comet or something. It was very weird.  I do spend quite a bit of time looking at the sky, and consider myself familiar with most of the regular things in the sky...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15999.html](http://www.nuforc.org/webreports/reports/015/S15999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Shasta Lake (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>There was a white dot traveling very fast, zipping from one point to another very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27746.html](http://www.nuforc.org/webreports/reports/027/S27746.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
