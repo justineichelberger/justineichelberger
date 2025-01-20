@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:25 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:34 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Columbus (NE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular craft seen by three females.I was driving in a vehicle with two of my friends both female.  I was riding in the passenger seat.  While looking out my window I noticed a blinking object moving very fast towasrds us.  We were on gravel roads outside town near a gas station called Lakw Stop.  My friend decided to pull over in the station and we all got out.  By that time the object was directly over us and was only about 200 ft. up.  It made no sound but the bottom was lit with alternating red, oarnge, and white lights.  I then began to get hystericle and told my friends to get back in the car.  We spend to town and the aircraft followed us about a mile away and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22156.html](http://www.nuforc.org/webreports/reports/022/S22156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West Kilbride (UK/Scotland) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Creamy yellow oval pulsing and hovering over Law hill in west kilbride, Scotland.I have a great view of Law Hill in West Kilbride from my bedroom and I got into bed one night, and saw a kind of creamy yellow oval hovering above the hill. I would say that it was glowing, and the light pulsed. There weren’t any flashing coloured lights. It lasted a couple minutes so I tried taking a picture but the flash reflected of the Glass in the Window. I didn’t see it fly away, the Oval stopped glowing and I couldn’t see it. We’ve seen strange stuff in West Kilbride before, once, we were on our way to the Library and a middle-aged man was screaming and pointing to the sky, saying he’d seen black objects hover in the sky and then fly off. He was sure that they weren’t planes or Helicopters but he was defiantly convinced they were alien.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61224.html](http://www.nuforc.org/webreports/reports/061/S61224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
