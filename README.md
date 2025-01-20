@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Big bright stagnant light in the sky.Light in the sky, looked as if it was a star VERY close to earth but it was much closer than a star could be, very big light, stagnant.  Know with 100% certainty that it was not a plane.  My 3 year old even knew there was something odd with it.  Have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106513.html](http://www.nuforc.org/webreports/reports/106/S106513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 22:00-22:30 - 22:00-22:30 minutes.</sub><blockquote><sub>Sighting and dreams.I live in an urban environment and some really strange things have happened to me.  One night while I was walking home I saw this strange aircraft flying it looked like some kind of airplane.  I thought nothing at first, but that night I had this strange dream of the same aircraft and then I felt in my dream that I was in some sort of calm feeling and a bright light.  Then in my dream I saw these people but they were naked and they didn’t have any genitals just these holes instead.  I woke up and I didn’t think much of my dream but I kept on having the same dream.  One time when I woke up I felt sort of like a strangely pleasing feeling.  That is all that has happened with these occurrences.  I am not sure what these things are really real or if these things happened or were just a dream. I am not sure if it’s aliens or my imagination but the dreams seem to feel frighteningly real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96434.html](http://www.nuforc.org/webreports/reports/096/S96434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
