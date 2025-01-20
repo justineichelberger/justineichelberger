@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:35 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sanford (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>the greenish object ?steaked down from the sky moving slower than a falling star looked like a injured aircraft but firey or glowinggreenish blue in the front of the object orangish sparks and or flames coming from behind .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79793.html](http://www.nuforc.org/webreports/reports/079/S79793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Poughkeepsie (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Alien ship appears near synagogue.I was walking from my car to my synagogue to go to religious school when I saw a giant bright saucer emitting strange lights in the sky. It also was flashing from blue and green and sending laser lights to the ground. It then emitted a humming sound. I do not know what happened next because I had to go in to get to class, but about 30 seconds after I went in, I heard a louder humming noise and a crash outside. I did not see anything else because I was inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74307.html](http://www.nuforc.org/webreports/reports/074/S74307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
