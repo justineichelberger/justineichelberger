@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rising Fawn (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>UFO sighting for 14 nights in a row.I observed the same extremely bright object in the southern sky for the past 14 nights in a row. The first time my wife and I noticed it, it appeared to be landed on a deserted mountain range. We saw it move slightly to the left, right, up, and down. Ever since 1/20/12, I have seen it in the same region of the sky, or if cloudy or raining, it appears upon this same mountain range, sometimes motionless until after dawn. I have ruled out the typical planet theory. This object moves in such a way to blend in with the stars. But if you watch it for any length of time, you can tell it is indeed moving in an unnatural way. Because it varies slightly in location, I have determined that it has to be within the atmosphere and fairly close. The unique aspect of this object is its appearance for this many consecetive nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86988.html](http://www.nuforc.org/webreports/reports/086/S86988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Big bright stagnant light in the sky.Light in the sky, looked as if it was a star VERY close to earth but it was much closer than a star could be, very big light, stagnant.  Know with 100% certainty that it was not a plane.  My 3 year old even knew there was something odd with it.  Have never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106513.html](http://www.nuforc.org/webreports/reports/106/S106513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
