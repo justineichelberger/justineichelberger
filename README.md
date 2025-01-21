@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>slow moving orange fireball picked up on videoI was changing then bindings of my snowboard in the livingroom of my residence.  Something out the window caught my eye. Thinking it was an aircraft from Toronto Pearson Airport I resumed working on the board.  Upon taking a second glimse, I realized that it was pretty strange, I grabbed my digital video camera and taped the object by hanging dangerously outside my second story window.  I managed to get a couple minutes of footage.  What I saw seemed to be a slow moving fireball. There were no common green, red, blue or clear aircraft navigation lights.  This was a fire orange colour that seemed constant. I was wondering if maybe it was an aircraft in trouble.No reports yet of any. This object moved form the Western sky to the south.  I ran outside to get more footage.  Any way I called police asking if there were any reports of aircraft trouble but they could not help. Oh well.  Anyways, I thought I would see if there was any way iIcould report this strang incident.  Pretty amazing!  This does not seem to different to your report on the main page with the orange glow that was also picked up on video.  Thanks. ((initials deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16001.html](http://www.nuforc.org/webreports/reports/016/S16001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Weippe (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 lights seen flyin in different uniformity patterns at night.Three red blinking lights were first observed in a straight line from right to left.. In front of them were three bright white lights in the same exact distance and pattern from the red ones..  Object(s) were moving from west to east and flying towards me.. Unable to judge height or distance in the air as it was dark with a few stars showing but being over the town the building lights were making it harder to see.  The object(s) were moving slowly towards me and off to my left.  I called over a local official who was across the street and he witnessed them as well and was not able to identify them either.  We then watched them change pattern and closed formation and moved more towards the south..  After about 2 minutes they again changed pattern to where they were flying end to end (white/ red, white/red and white/red) and began moving in a easterly direction again. We observed them for about another 2 minutes until they moved out of our view. The official then g! ot into his vehicle and followed them. Unknown what he found after that.These object(s) were in a square, diamond, and rectangle and then in a straight line pattern while maintaining the uniformity in all patterns… Also noted was there was absolutely no sound.No pictures were taken but 5 sketches have been drawn as best as I can remember.Weather:  about 28 degrees, clear skies with some stars, some light haze at first when noticed the object then it moved into clearer skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116885.html](http://www.nuforc.org/webreports/reports/116/S116885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
