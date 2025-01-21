@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 20 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 22:00-22:30 - 22:00-22:30 minutes.</sub><blockquote><sub>Sighting and dreams.I live in an urban environment and some really strange things have happened to me.  One night while I was walking home I saw this strange aircraft flying it looked like some kind of airplane.  I thought nothing at first, but that night I had this strange dream of the same aircraft and then I felt in my dream that I was in some sort of calm feeling and a bright light.  Then in my dream I saw these people but they were naked and they didn’t have any genitals just these holes instead.  I woke up and I didn’t think much of my dream but I kept on having the same dream.  One time when I woke up I felt sort of like a strangely pleasing feeling.  That is all that has happened with these occurrences.  I am not sure what these things are really real or if these things happened or were just a dream. I am not sure if it’s aliens or my imagination but the dreams seem to feel frighteningly real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96434.html](http://www.nuforc.org/webreports/reports/096/S96434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Surf City (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pulsing multicolored lights which appeared to outline a relatively large craft or crafts at low altitude at Topsail Island.Driving home from work, an object was initially sighted approximately 1 mile south of the Surf City stoplight. Since we are in a MOA, I initially dismissed it as a military craft, and thought it might be an osprey  ((Note:  A type of VTOL aircraft.  PD)) since the lighting was unfamiliar and quite peculiar. I stopped along the road and noted that it was silent and in my estimation within 300 feet of the ground. Assuming military origin (however quite puzzeled at the lack of sound and the unfamiliar flashing light pattern), I proceeded home a couple miles southward and as I was unloading groceries noted with suprise that it had appeared over the ocean in front of our home. I immediately retrieved my 4.0 megapixel ditigal camera and took a number of pictures as it moved away. Visually, I noted pulsing very bright red, white, yellow, (green?) and occasionally blue lights. I was unable to discern a readily discernable pattern but got a sense that there was some sort of regularity to the pulsations. It was moving to the northwest at what I would estimate to be approximately 30 to 40 knots. I judged it to be one to two hundred feet across. The vertical dimension was unclear except that it appeared less thatn the horizontal. Within a minute or two, it disappeared behind (below) the island's northern horizon of trees and houses (estimating) approximately 0.5 to 1 mile distant. The most interesting aspect of this sighting was that the recorded images had a characteristic luminous multi-directional, sinous, plasma-like blurred trail which we did not visualize. Also, blue objects appeared and disappeared in what seemed to be random intervals in proximity to the object, at variable distance and position. Low clouds were present and no outline could be discerned. The images speak for themselves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41597.html](http://www.nuforc.org/webreports/reports/041/S41597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
