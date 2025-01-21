@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Longview (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The lights were in a straight line up and down and I was having north and they were moving West the lights one of each color, white, red, green and blue all about 2-3 inches apart in the sky.  The moon was out because it was a blood moon last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144607.html](http://www.nuforc.org/webreports/reports/144/S144607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Object moving erratically in 5-10 degree radial patch of night sky recorded above SE Michigan, other sky objects moved predictablySingle small very bright object in the southern sky above southeastern Michigan-–observed and recorded by a scientist moving around a small radial area of the night sky (a 2-dimensional radial area approximately 5-10 degrees in diameter) located about 5 degrees above the horizon.  Moves in an erratic manner not consistent with any known planetary object in motion or manmade aircraft or spacecraft trajectory.  Luminosity consistent with a near atmospheric object.  Movement of the bright object is not a consequence of atmospheric conditions or of intrinsic sensory/motor tremor or micro-movements, as “naturally-occurring” near space manmade satellites or far space stellar objects near this object moved in known, predictable patterns and were also recorded.  Since I do not believe in UFO’s, is this possibly a new class of drone?  (funded by the Defense Advanced Research Agency (DARPA?)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144609.html](http://www.nuforc.org/webreports/reports/144/S144609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
