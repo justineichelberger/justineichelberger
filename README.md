@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Surf City (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pulsing multicolored lights which appeared to outline a relatively large craft or crafts at low altitude at Topsail Island.Driving home from work, an object was initially sighted approximately 1 mile south of the Surf City stoplight. Since we are in a MOA, I initially dismissed it as a military craft, and thought it might be an osprey  ((Note:  A type of VTOL aircraft.  PD)) since the lighting was unfamiliar and quite peculiar. I stopped along the road and noted that it was silent and in my estimation within 300 feet of the ground. Assuming military origin (however quite puzzeled at the lack of sound and the unfamiliar flashing light pattern), I proceeded home a couple miles southward and as I was unloading groceries noted with suprise that it had appeared over the ocean in front of our home. I immediately retrieved my 4.0 megapixel ditigal camera and took a number of pictures as it moved away. Visually, I noted pulsing very bright red, white, yellow, (green?) and occasionally blue lights. I was unable to discern a readily discernable pattern but got a sense that there was some sort of regularity to the pulsations. It was moving to the northwest at what I would estimate to be approximately 30 to 40 knots. I judged it to be one to two hundred feet across. The vertical dimension was unclear except that it appeared less thatn the horizontal. Within a minute or two, it disappeared behind (below) the island's northern horizon of trees and houses (estimating) approximately 0.5 to 1 mile distant. The most interesting aspect of this sighting was that the recorded images had a characteristic luminous multi-directional, sinous, plasma-like blurred trail which we did not visualize. Also, blue objects appeared and disappeared in what seemed to be random intervals in proximity to the object, at variable distance and position. Low clouds were present and no outline could be discerned. The images speak for themselves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41597.html](http://www.nuforc.org/webreports/reports/041/S41597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Skokie (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Still - Still minutes.</sub><blockquote><sub>As I'm driving to pick up my husband from work I notice everyone stopping their car to take pictures of this reddish orange sphere was darker In the center.  Started from afar then was getting closer, I left just for a minute or two and when I went back it was gone.((NUFORC Note:  Witness submits several very good photos.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125385.html](http://www.nuforc.org/webreports/reports/125/S125385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
