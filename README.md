@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lompoc (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw one yellow light that dimmed out and then it came back with 2 more, finally a last one came and they faded out one by one.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116894.html](http://www.nuforc.org/webreports/reports/116/S116894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two mulicolored Ufo's over Madera, CaliforniaI live in Mariposa, and last night, Jan. 21 2014, I saw two lights in the direction of Madera.  They looked like those stars that shine blue, red and white.  The one on the left was higher than the one on the right.  I ran into the house and grabbed my binoculars.  The one on the right was higher in the sky, they were moving very slowly.  I watched some more and the one on the left started heading south at a fast rate of speed.  The other one was slowly lowering and then took off in the same direction, also very quickly.I live on a mountain and this is one of many weird things I've seen in the sky, along with the commercial jets and other conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106559.html](http://www.nuforc.org/webreports/reports/106/S106559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
