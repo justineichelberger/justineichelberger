@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Richmond (City of) (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>8-10 lights flying in circle formation during lunar eclipse.I was outside viewing the lunar eclipse around midnight.  To the south of the moon I saw movement and there were approximately 8-10 faint white lights in a circle.  There were some clouds so maybe they were behind them.  They were really high in the sky and I thought from their angular shape they were birds at first.  They flew in formation and each light peeled away from the ring and made a spiral in the sky, like drawing a number 9, then disappeared.  It all happened within a minute or so.  I kept looking to see if I could see them again, but they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144604.html](http://www.nuforc.org/webreports/reports/144/S144604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lamprechtshausen (Austria) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>A circular light (pale blue in color) was sighted by myself and one friend on the evening of 21 January 2012.  We was walking on a path surrounded by fields just a little west of Lamprechtshausen.  The first thing we saw was a light in the distant sky that was slowly getting bigger.  Of course, at first we didn't think anything of this as for all we knew it could have been a helicopter.  Then, after 10-20 seconds my friend said "that helicopter is very quiet.  Perhaps it is a specialised military helicopter that is to be used by the military".  Then a few seconds later we both noticed that the colors of the lights were also quite odd to belong to a helicopter.Within 20-30 seconds after we noticed the colours of the lights on the 'helicopter' was strange, it flew almost directly over us. Instead of being a helicopter, it was just a ball of light.  It made no sounds and the size of the light was getting bigger and smaller (pulsing?).  It was as fast as a helicopter or small plane, and about as big as an auto.  It was about 200 meters in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86806.html](http://www.nuforc.org/webreports/reports/086/S86806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
