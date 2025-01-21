@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:16 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:18 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fishersville (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the craft was larger than a helicopter and oval shaped grey with spinning colored lights and followed beside my car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152955.html](http://www.nuforc.org/webreports/reports/152/S152955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large silent object that landed and seemed to hover and make fast turns!!My fiancé was driving me home after she had gotten off work when I noticed a large bright object in the sky.  We had just passed smith springs road were it intersects with murfresboro road driving away from downtown Nashville.  I was in the passenger seat and saw it to the left and in front of the car. At first I thought I was looking at a helicopter as the object seemed to hover.  But, as we drove closer I could see that the object was long and flat on the bottom and far to large to be a helicopter.Once we made it to our turn at nashboro blv, we could see the object quite clearly and noticed that it had begun to move slowly.  Once we turned from murfresboro on to nashboro blv., the object passed over our car slowly and making no noise at all.  The object was low enough that if I had been on the roof of a nearby house I could almost have touched it.  After it passed over our car we watched it descend into a near by field.We drove around trying to get a better view of where it had landed but were unable to see more then a bright glow from the road.  Neither of us were willing to get out of the car and trek through unknown fields to find it so we drove around hoping we could get a better view.  After about 10 minutes of driving up both smith springs and nashboro blv we saw the craft shoot back into the sky at a steep angle.  After it took off we followed it until the object turned around and a plane passed over us a few seconds later. We made a u-turn at bell road back onto smith springs to follow both the plane and the object.We lost sight of the plane and never saw it again but we did find the object again flying low and parallel to murfresboro road.  We followed it down murfresboro till it came to a halt in the air and then a few moments later it turned and headed back the other way towards nashboro blv again.  Making another u-turn we followed the object turning off murfresboro and back onto nashboro blv. There it traveled straight down nashboro blv and I snapped a few pictures while driving after it. After about 3 minutes the object turned sharply around an came over our car once again.  It was silent and fast and quickly was out of sight seeming to descend again. After this we lost sight of the object and were unable to find it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68177.html](http://www.nuforc.org/webreports/reports/068/S68177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
