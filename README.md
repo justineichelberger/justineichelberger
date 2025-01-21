@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Siler City (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving down Epps Clark Road before coming to a stop sign at silkhope Lynley Mill Road in Siler City North Carolina at approximately at 4:30 p.m. Tuesday January 21st 2020 I seen a metallic and silver objects in the air less than 15 ft it was big it was enormous it looked exactly like two plates over each other and it had metallic and silver and he had writting on itthat I never seen before in my life  I proceeded to get out of my car I was going to try to take a picture of The Craft that I seen my phone had 80% and it completely powered off I had good service and I had 80% on my phone and after I try to take a picture of it it completely vanished there's no way I could have been a weather balloon could be a airplane a jet helicopter it had no sound with it so big I'm surprised the siler city  or other airports didn't pick it up on radar or or militiary either on one else was around I do do drugs or drink at all this craft was out of this word nothing like on tv when I was trying thread w! as was on craft it getting hard to read like I shouldn't seen thos at all</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152785.html](http://www.nuforc.org/webreports/reports/152/S152785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>slow moving orange fireball picked up on videoI was changing then bindings of my snowboard in the livingroom of my residence.  Something out the window caught my eye. Thinking it was an aircraft from Toronto Pearson Airport I resumed working on the board.  Upon taking a second glimse, I realized that it was pretty strange, I grabbed my digital video camera and taped the object by hanging dangerously outside my second story window.  I managed to get a couple minutes of footage.  What I saw seemed to be a slow moving fireball. There were no common green, red, blue or clear aircraft navigation lights.  This was a fire orange colour that seemed constant. I was wondering if maybe it was an aircraft in trouble.No reports yet of any. This object moved form the Western sky to the south.  I ran outside to get more footage.  Any way I called police asking if there were any reports of aircraft trouble but they could not help. Oh well.  Anyways, I thought I would see if there was any way iIcould report this strang incident.  Pretty amazing!  This does not seem to different to your report on the main page with the orange glow that was also picked up on video.  Thanks. ((initials deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16001.html](http://www.nuforc.org/webreports/reports/016/S16001.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
