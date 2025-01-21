@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:24 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was watching the moon from my daughter's bedroom window, this served as the monitor. My nieces and nephews were assigned an astronomy project, it was city-wide,  and the subject was to study the different phases of the moon. Heavy cloud cover the night before had hidden the moon, also there were no entries on my calendars for a moon viewing. I awoke early, it was a cold, crisp, clear morning. I was restless, I always look out the window. The moon was the biggest that i had ever remembered, it looked as if there was a red spot on it, I got my binoculars but couldn't make out the spot. Anyway, dawn was approaching, the rays of the sun were visible, thought I was going to see the moon and the sun in the same frame. As i was watching the rays of the sun come up, a cigar shaped thing, moving extremely fast, came up from either a stationary position or a hovering position, and flew right across the face of the moon at a 45 degree angle. I thought, you've just seen a ufo. I called my father and told him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28813.html](http://www.nuforc.org/webreports/reports/028/S28813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw 5 red lights hoovering/moving slowly in the sky that I'm convinced were not normal air crafts.I was driving through a residential neighborhood and turned to my right to see 5 strange red circular lights hoovering about 0.5-1 mile away.  They were too far apart to make up one gigantic object, so I would say they were 5 individual crafts either moving slowly or hoovering in one spot.  They seemed to be observing and had no sudden movements.  They made a noise that wasn't quite like an aircraft, but a strange hum as I opened the window. I also saw another car with two people stopped and look at the objects.  As I began driving and got onto another street, I saw another car parked observing the objects.  The red circular lights went from five, to three, to one, then vanished completely 2 minutes after I encountered them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106554.html](http://www.nuforc.org/webreports/reports/106/S106554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
