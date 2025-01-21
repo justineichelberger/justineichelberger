@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Milo (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>twin tails, changed trajectoryNoticed a short, wedged shaped contrail in the s.w. sky. I thought it looked "wrong", as it appeared to be vertical in the sky rather than running horizontally as you would expect from an airplane moving through the sky. I grabbed  my field glasses and was able to focus in on the object, a sphere shaped gray rock with what looked like ice crystals on the surface.  The contrail was actually a twin tailed gaseous substance coming off the backside of the object.  These tails appeared to swirl and "boil".  The object was moving so slowly and was so low in the sky that all three of us were able to track it as it moved across the sky sharing the field glasses between us.  It changed trajectory twice. The first was a change in altitude and the second was when it turned towards us and we could see it head on.  This view showed a round ball of roiling fire.  We watched it until we couldn't anymore.  This object appeared as what one would think an art! ist rendition of a comet would look like as it moved through space.  Except it wasn't outer space. It was thousands of feet lower than a passenger jet that was flying overhead and just to the north at the same time as the object in the sky.  Because of the incredible detail we saw with field glasses and the extremely slow movement across the sky, we are having a time trying to wrap our brains around what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106600.html](http://www.nuforc.org/webreports/reports/106/S106600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Holly Hill (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While my wife and I were sitting in our screen room around 18:40 tonight, I looked out to the north west and saw some lights (orbs?) moving just above the tree line.  They were moving West to east.At first I didn't think much of it as we are near the flight path of the Daytona International Airport.  However these lights were brighter and they did not blink like planes do when they are flying.I paid more attention to these bright orbs and they were moving from west to east at a steady speed when the first group of 5 suddenly disappeared.  The next group of 3-4 did exactly the same and disappeared in the same spot.  Two more groups of 3 or 4 followed that pattern.I couldn't tell if they made a sound as there is a lot of noise from traffic etc in this area.  Note:  I have seen Chinese lanterns and these were not moving in the same way or at the same speed.  Also there was very little wind at ground level.  The first group of 5 were positioned with one in each corner and the last one in the center and they maintained these place locations until they disappeared.I tried to video tape this event but did not catch them through the screen and due to their speed, did not want to miss them by taking time to get outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132261.html](http://www.nuforc.org/webreports/reports/132/S132261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
