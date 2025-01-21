@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Siler City (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving down Epps Clark Road before coming to a stop sign at silkhope Lynley Mill Road in Siler City North Carolina at approximately at 4:30 p.m. Tuesday January 21st 2020 I seen a metallic and silver objects in the air less than 15 ft it was big it was enormous it looked exactly like two plates over each other and it had metallic and silver and he had writting on itthat I never seen before in my life  I proceeded to get out of my car I was going to try to take a picture of The Craft that I seen my phone had 80% and it completely powered off I had good service and I had 80% on my phone and after I try to take a picture of it it completely vanished there's no way I could have been a weather balloon could be a airplane a jet helicopter it had no sound with it so big I'm surprised the siler city  or other airports didn't pick it up on radar or or militiary either on one else was around I do do drugs or drink at all this craft was out of this word nothing like on tv when I was trying thread w! as was on craft it getting hard to read like I shouldn't seen thos at all</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152785.html](http://www.nuforc.org/webreports/reports/152/S152785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lamprechtshausen (Austria) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>A circular light (pale blue in color) was sighted by myself and one friend on the evening of 21 January 2012.  We was walking on a path surrounded by fields just a little west of Lamprechtshausen.  The first thing we saw was a light in the distant sky that was slowly getting bigger.  Of course, at first we didn't think anything of this as for all we knew it could have been a helicopter.  Then, after 10-20 seconds my friend said "that helicopter is very quiet.  Perhaps it is a specialised military helicopter that is to be used by the military".  Then a few seconds later we both noticed that the colors of the lights were also quite odd to belong to a helicopter.Within 20-30 seconds after we noticed the colours of the lights on the 'helicopter' was strange, it flew almost directly over us. Instead of being a helicopter, it was just a ball of light.  It made no sounds and the size of the light was getting bigger and smaller (pulsing?).  It was as fast as a helicopter or small plane, and about as big as an auto.  It was about 200 meters in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86806.html](http://www.nuforc.org/webreports/reports/086/S86806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
