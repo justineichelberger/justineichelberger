@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Holly Hill (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While my wife and I were sitting in our screen room around 18:40 tonight, I looked out to the north west and saw some lights (orbs?) moving just above the tree line.  They were moving West to east.At first I didn't think much of it as we are near the flight path of the Daytona International Airport.  However these lights were brighter and they did not blink like planes do when they are flying.I paid more attention to these bright orbs and they were moving from west to east at a steady speed when the first group of 5 suddenly disappeared.  The next group of 3-4 did exactly the same and disappeared in the same spot.  Two more groups of 3 or 4 followed that pattern.I couldn't tell if they made a sound as there is a lot of noise from traffic etc in this area.  Note:  I have seen Chinese lanterns and these were not moving in the same way or at the same speed.  Also there was very little wind at ground level.  The first group of 5 were positioned with one in each corner and the last one in the center and they maintained these place locations until they disappeared.I tried to video tape this event but did not catch them through the screen and due to their speed, did not want to miss them by taking time to get outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132261.html](http://www.nuforc.org/webreports/reports/132/S132261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Richmond (City of) (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>8-10 lights flying in circle formation during lunar eclipse.I was outside viewing the lunar eclipse around midnight.  To the south of the moon I saw movement and there were approximately 8-10 faint white lights in a circle.  There were some clouds so maybe they were behind them.  They were really high in the sky and I thought from their angular shape they were birds at first.  They flew in formation and each light peeled away from the ring and made a spiral in the sky, like drawing a number 9, then disappeared.  It all happened within a minute or so.  I kept looking to see if I could see them again, but they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144604.html](http://www.nuforc.org/webreports/reports/144/S144604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
