@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mariposa (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two mulicolored Ufo's over Madera, CaliforniaI live in Mariposa, and last night, Jan. 21 2014, I saw two lights in the direction of Madera.  They looked like those stars that shine blue, red and white.  The one on the left was higher than the one on the right.  I ran into the house and grabbed my binoculars.  The one on the right was higher in the sky, they were moving very slowly.  I watched some more and the one on the left started heading south at a fast rate of speed.  The other one was slowly lowering and then took off in the same direction, also very quickly.I live on a mountain and this is one of many weird things I've seen in the sky, along with the commercial jets and other conventional aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106559.html](http://www.nuforc.org/webreports/reports/106/S106559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Springfield (VT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>saw triangle over head lights on points, whirring soundMy UFO sighting occurred in January of 1983 or 1984.  There was snow on the ground.  I believe it was between 6: 00 or 7:00PM.  The location was Taylor Drive in Springfield, Verrmont.I had eaten dinner with my parents and as I walked through the garage and onto the driveway I stopped in my tracks.  Over my head was a large object, triangular in shape, with colored lights on the points of the triangle.  I wanted to run back into the house to get my parents but I couldn’t move.  I was totally engrossed, enthralled, in awe;  I don’t have the all-encompassing adjective to describe what I was seeing.  The object seemed to be stationary and was making a low whirling noise, not loud just constant.I don’t know how long I stood there but I believe it was a little less than a minute.  The object started to go straight up and began moving in a circular motion with the lights blurred.  At this point I was able to move and I ran into the house to get my parents.  They saw the object flying away.  We watched as it flew in a northerly direction.  As it flew, the snow turned orange beneath it.After we had somewhat calmed down I left to go home.  As I pulled onto the street, a very big fireball went past me and kept going in the direction of the original object.  It also caused the snow to turn orange beneath it.We called the local police and they referred me to a place in Denver.  I left a message but no one got back to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163445.html](http://www.nuforc.org/webreports/reports/163/S163445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
