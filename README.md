@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lamprechtshausen (Austria) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>A circular light (pale blue in color) was sighted by myself and one friend on the evening of 21 January 2012.  We was walking on a path surrounded by fields just a little west of Lamprechtshausen.  The first thing we saw was a light in the distant sky that was slowly getting bigger.  Of course, at first we didn't think anything of this as for all we knew it could have been a helicopter.  Then, after 10-20 seconds my friend said "that helicopter is very quiet.  Perhaps it is a specialised military helicopter that is to be used by the military".  Then a few seconds later we both noticed that the colors of the lights were also quite odd to belong to a helicopter.Within 20-30 seconds after we noticed the colours of the lights on the 'helicopter' was strange, it flew almost directly over us. Instead of being a helicopter, it was just a ball of light.  It made no sounds and the size of the light was getting bigger and smaller (pulsing?).  It was as fast as a helicopter or small plane, and about as big as an auto.  It was about 200 meters in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86806.html](http://www.nuforc.org/webreports/reports/086/S86806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in El Tanque de La Fortuna (Costa Rica) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red/Blue/Bright White flashing lights near Arenal Volcano, Costa RicaAt 3:00 A.M., I got up from bed to go to the bathroom.  The window is frosted glass and I noticed a flashing.  I went into the living room and saw alternating red, blue, and white lights. The white light was very very bright. I was looking west.  The lights seemed to be to the north (right) of the Arenal Volcano.  It was hard to tell if they were actually to the North of Arenal Volcano or perhaps between me and the volcano but to the right. I watched for about 5 minutes from the living room and then went back to bed. I live near the Arenal airport, but its a daylight only strip.  No lights.I have noticed aircraft at night but to the east of my home.  Probably on their way to San Jose Costa Rica. I am a retired Registered Nurse (Masters Degree).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86751.html](http://www.nuforc.org/webreports/reports/086/S86751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
