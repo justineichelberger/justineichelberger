@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vacaville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw 5 red lights hoovering/moving slowly in the sky that I'm convinced were not normal air crafts.I was driving through a residential neighborhood and turned to my right to see 5 strange red circular lights hoovering about 0.5-1 mile away.  They were too far apart to make up one gigantic object, so I would say they were 5 individual crafts either moving slowly or hoovering in one spot.  They seemed to be observing and had no sudden movements.  They made a noise that wasn't quite like an aircraft, but a strange hum as I opened the window. I also saw another car with two people stopped and look at the objects.  As I began driving and got onto another street, I saw another car parked observing the objects.  The red circular lights went from five, to three, to one, then vanished completely 2 minutes after I encountered them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106554.html](http://www.nuforc.org/webreports/reports/106/S106554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Milo (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>twin tails, changed trajectoryNoticed a short, wedged shaped contrail in the s.w. sky. I thought it looked "wrong", as it appeared to be vertical in the sky rather than running horizontally as you would expect from an airplane moving through the sky. I grabbed  my field glasses and was able to focus in on the object, a sphere shaped gray rock with what looked like ice crystals on the surface.  The contrail was actually a twin tailed gaseous substance coming off the backside of the object.  These tails appeared to swirl and "boil".  The object was moving so slowly and was so low in the sky that all three of us were able to track it as it moved across the sky sharing the field glasses between us.  It changed trajectory twice. The first was a change in altitude and the second was when it turned towards us and we could see it head on.  This view showed a round ball of roiling fire.  We watched it until we couldn't anymore.  This object appeared as what one would think an art! ist rendition of a comet would look like as it moved through space.  Except it wasn't outer space. It was thousands of feet lower than a passenger jet that was flying overhead and just to the north at the same time as the object in the sky.  Because of the incredible detail we saw with field glasses and the extremely slow movement across the sky, we are having a time trying to wrap our brains around what we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106600.html](http://www.nuforc.org/webreports/reports/106/S106600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
