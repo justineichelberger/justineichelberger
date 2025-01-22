@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw various small flying disks traveling together and that looked very much like toys.The sighting happened today during traffic hours in a very busy avenue.  I first saw a small flying saucer that looked very much like a toy.  The center circle moved rapidly, but the outer disk did not move.  It had a blue blinking light bulb on each side of the outer disk and I noticed that the direction of the object was well centered to the lights.  That is, that the lights were always on the side of this flying object as if they were the wings of a plane. I immediately thought it was a remote control toy but what really caught my attention is that this one flying saucer was followed by another one, and another one after that, etc.  There were about 5 or 6 of them flying together one after the other.  They were going slow, at about 25 miles per hour and bordering the backyards of the houses that were parallel to this avenue.  They were flying parallel to the avenue. At this point, I still thought they were kids playing from the backyards, but when I noticed these disks were not turning around, I realized it had to be something else.  They kept on going along the avenue. Two of them went up and moved slightly to the right and I was able to keep them in sight until they were two microscopic dots in the sky.I know that someone else must have seen it because this happened in the middle of Miami during traffic hours.  The objects were small, about the size of a large round pizza which led me to believe immediately that it had to be a toy.  I can’t imagine that it could be used for traveling.  I have never heard of such small size aliens.  I imagine that they could be used to scan an area, etc.  All I know is that they were small; they traveled at a steady pace and about 25 miles per hour and very close to the trees.  They were gray in the center section which spinned and black on the outer disk with blue blinking lights.I still find it difficult to imagine they were space crafts because they really looked like a toy.   However, I can’t explain how they were able to travel for such a long distance, especially the two crafts that went up in the sky until they became unnoticeable.  I am still shocked and would love to understand what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54888.html](http://www.nuforc.org/webreports/reports/054/S54888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Moreno Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>it left at a high speed and it was not that far from the ground, like height of a BIRDit was round it had lights around it AND The LIGHTS CHANGED YELLOW and white it was a rounded dark craft with visible lights. There was only one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44700.html](http://www.nuforc.org/webreports/reports/044/S44700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
