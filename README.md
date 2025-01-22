@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Farmington Hills (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 144</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161870.html](http://www.nuforc.org/webreports/reports/161/S161870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I witnessed a large, dark rectangular craft with at least 7 very bright white orb-ish lights hovering low in the sky over Tucson around 11:00 PM on Tuesday, January 22nd.I was driving North toward the Catalina Mountains when I turned my gaze to the left and was startled by an intense set of lights on a large, pitch-black object which appeared to be within 5-6 blocks West of my intersection.  I was startled by how large the object appeared to be compared to usual aircraft, how close it appeared to me, the intensity and unique semi-linear organization of the lights, and by the fact that the craft appeared to be stationary in the sky.  It was lower than a helicopter would typically be, but was larger and flatter than a helicopter.I immediately pulled over with the intent of getting a picture.  Once I was stopped and facing the object straight on, I noticed the rectangular shape and what appeared to be a projection on the far dorsal surface, with some of the lights set further back on the craft than others (in contrast to the semi-linear arrangement of my initial perspective).  Within about 3 seconds of me getting a good look at it from this view, it began a Southeast descent at only about 10mph faster than what I'd expect from a typical aircraft.  At this point I considered that perhaps it was just a helicopter, but I did not hear any sound as it descended and the shape of the object was more bizarre from the sideview, appearing wide across and essentially flat.  One light flashed a couple of times at a quick/strobe-like rate while the others were larger, had a slightly more yellowish hue, and remained constant.I turned my car back around the way I'd initially come, to try and follow it, but by the time I had stopped at a stop sign and turned South, it had gone.  This seemed unusual to me because my view of the horizon was fairly good, and at the speed I had seen it travelling (55 miles at most) I fully expected to still see it after the ~5 seconds it took to get my car reoriented, but I saw no trace whatsoever.No one in surrounding cars seemed to see it, but I did feel uncomfortable with how low and near me it seemed, and I got the impression that it "responded" to me pulling over to face it because it had been hovering in the same spot while I was watching it while still driving, but started descending/moving away a very short time after I pulled over.  The only other thing I can think to note is that there had been a power outage 4-5 hours prior in that area, including outage for the traffic lights of the intersection I was at when I saw the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144632.html](http://www.nuforc.org/webreports/reports/144/S144632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
