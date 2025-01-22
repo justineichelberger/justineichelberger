@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 21 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Newburgh (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge object hovering over New York1/22/2008  My husband is a Truck Driver. We were traveling on I-84 heading East in New York. Both him and I saw a set of four very large lights about five miles away? before the toll bridge crossing over I-87. We did'nt think much about it except that it was strange. They did not move. Than seemed right after that this THING was hovering right above us! When we got close there were a lot more lights! It seemed to be surrounded with bright white lights. The shape was that of an OVERSIXED STEALTH, maybe 10 times bigger. It seemed to span across the entire Interstate. This was nothing like we have ever seen. Since we drive a Semi Truck we could not get a better look or stop. If we could have stopped I would have taken a picture. If anybody driving that way at around that time seen this thing, could you please post it. Maybe you could describe it better from a car. It really was amazing !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61092.html](http://www.nuforc.org/webreports/reports/061/S61092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately Current - Current minutes.</sub><blockquote><sub>The Department of Positive Out of Body PossibilitiesThis is not a normal sighting, as you are use to hearing about. It goes far deeper than that.It's more like a vision, from internal thought.My inner thoughts have figured out a way. How we can communication with afterlife people, in a way that can be measured for free!  I would like to be contacted by an investigator, and given the chance to explain my description better.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68192.html](http://www.nuforc.org/webreports/reports/068/S68192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
