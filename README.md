@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:26 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately Current - Current minutes.</sub><blockquote><sub>The Department of Positive Out of Body PossibilitiesThis is not a normal sighting, as you are use to hearing about. It goes far deeper than that.It's more like a vision, from internal thought.My inner thoughts have figured out a way. How we can communication with afterlife people, in a way that can be measured for free!  I would like to be contacted by an investigator, and given the chance to explain my description better.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68192.html](http://www.nuforc.org/webreports/reports/068/S68192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>transparent teardrop/bauble UFOI was driving along in my car to attend an interview at Ford car dealership, on Ashton Old Road, Ashton-Under-Lyne, Manchester, England.  It was a really really clear bright day (crsip and cold) but not a cloud in the sky and really really clear, (which is unusal for Manchester anyway!-and we had had nothing but bad weather recently.  But this morning was really clear blue sky (not one single cloud in the sky). Anyway i am driving up and glanced up to admire the glorious blue cloudless sky, when i noticed (as I am looking through my windscreen (towards my left hand side in the sky) the shape of a transulent/transparent, what i can only describe as tearshaped object in the sky.  It reminded me of a Christmas bauble/decoration.  You could clearly see this thing in the sky at first i though it was a hot air balloon, but it was see through, but you could clearly see the outline!  i couldnt comment how far up/the distant in the sky (same as planes - but i would say that size wise it would be about the size of 4/5 jumbo's.  Obviously i was driving but kept looking up to see that it was there and it was for at least a good two minutes or two.  I arrived at my desination and turned left of the Ashton Old Road, and when i pulled up and got out of my car, it was gone!!! -   Couldnt belive what i saw, as like i said it was such a clear day/sky - and it was so obvious/prominent</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16219.html](http://www.nuforc.org/webreports/reports/016/S16219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
