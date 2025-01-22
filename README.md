@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Babenhausen (Germany) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A Flash of light that lit the ENTIRE sky. It was NOT lightning !!!Standing in formation, 84 soldiers all witnessed a flash in the sky. The sky was clear and NO lightning was present although it could have just been an electrical disturbance in the atmosphere but I'm not really certain. The ENTIRE sky lit up. Usually when lightning bolts strike you can see a path but this was NOT a lightning bolt. The flash appeared for 2 seconds and vanished.All the soldiers in formation just looked at each other and scratched their heads.Although the area is in the flight path of aircraft landing at Frankfurt Internantional Airport, there were NO aircraft in the area at the time of the flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34635.html](http://www.nuforc.org/webreports/reports/034/S34635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tallmadge (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extremely bright cigar shaped craft over Tallmadge, Ohio.It was about 6:45pm on Saturday, January 22, 2011.  My mom and I were driving home.  We were about a minute from our house when we saw a cigar shaped craft.  At first my mom was trying to figure out what kind of aircraft it was because it had so many lights.  It had one flashing red  light on the bottom of the craft but was flying extremely low and the craft had lights all along the side of it that were extremely bright.  They resembled windows or panels.  We stopped thinking it was a commercial plane because of the extremely low altitude it was flying at, and how bright it was.  The craft was flying too extremely  low to be a plane.  When we rounded a corner, I continued to look at it through the back window. As I was looking it completely stopped mid-flight.  It sat for approximately 1-2 seconds and then made what looked like a complete ninety degree turn.  I’ve never seen a commercial plane or any plane at all fly that low and certainly none of them are capable o! f stopping mid air.  We also never noticed any sound coming from the craft which doesn’t make sense considering how low it was flying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79801.html](http://www.nuforc.org/webreports/reports/079/S79801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
