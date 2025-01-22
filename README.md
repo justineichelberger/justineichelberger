@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately still image - still image minutes.</sub><blockquote><sub>Wierd shape in the middle of the picture.I took a still image using a demo security camera and a capture card. I did not notice this odd shape in the middle of the picture until about a month later. I believe in ufo's but have never seen one. I swear this is authentic and I would just like to have a professional opinion. This picture is of the port of Vancouver from my office where we specialize in the import, sale, and assembly of Digital Video Recorders, video capture cards, and CCtv cameras. The equipment used was a CC-51 camera with a 4.5-10mm auto iris lens and a PV-04 video capture card. Let me know what you think.((NUFORC Note:  We have viewed the image, which appears quite indistinct.  It is little more than a dark blob in the photo.  We do not know what the object is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23518.html](http://www.nuforc.org/webreports/reports/023/S23518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Maltby (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3+ - 3+ minutes.</sub><blockquote><sub>Gov. Drone r/g lights silent. 600 Ft elevation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161724.html](http://www.nuforc.org/webreports/reports/161/S161724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
