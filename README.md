@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:48 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Centreville (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As we were waitng for my husband to come home, my daughter and I looked out the window and saw a mysterious flying object.  It is grayish color and flying in front of our house.  More like a big plate with red flashes underneath it!  I was staring at it for a good 5-10 seconds and forget to capture it fast!  And then it disappeared, really quick!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125400.html](http://www.nuforc.org/webreports/reports/125/S125400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Dunkeld (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was star gazing and after seeing a shooting star, I turned and saw something high in the atmosphere.I thought I would share with you a recent sighting I had whilst staying at a friends place in the victorian country side.I had just left my friends home to go to the caravan that she had set up for me to stay in while I was visiting as I had not had the chance to view the night sky so clearly in years I spent some time gazing up at the stars. The property was in Dunkeld which is about 3 hours from Melbourne and was  in sight of the Grampians (which is a series of Mountains with very dramatic rock formations on them).I had a good torch which I was using to send beams up into the sky,  as I have always been a believer in Ufos since my first sighting as a child on the great Australian Bite.... I turned around and saw a object high in the atmosphere that was just hovering near to where I was standing. I shone the torch in its general direction and flicked the torch on and off a few times.The object proceeded to descend towards where I was standing. I did start to worry that maybe it was not the best of ideas to try it as you never know... It was about twice the height of the house when it was just hanging there I could see that it was a metallic grid like pattern underneath with a faint reddish glow.  I was thinking about calling out to my friend and her boyfriend to come and see but I wanted to observe it for as long as I could. I am not sure how it changed but the next moment I saw it had a Pyramid shape and glowed a faint golden colour. I saw 2 spots of light one was red and one was green on the  bottom part of the Ufo.I called out to my friend and by the time she and her Boyfriend had come outside it had moved about 1 kilometre down to near the neighbours house ( Being on a rural property).They both saw it as a series of bright lights zig zagging in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36063.html](http://www.nuforc.org/webreports/reports/036/S36063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
