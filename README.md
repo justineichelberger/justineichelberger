@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:09 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:56 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Rockaway (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 green lights climbing then hovered for several minutes2 green lights flying  southwest & stopped to hover for several minutes & flew away.  Within a minutes, the lights showed up again and hovered in same place before descending behind a house.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116876.html](http://www.nuforc.org/webreports/reports/116/S116876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Coventry (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Intense bright red light appeared in chester county french creek areaWe were comming back from walmart in morgantown on RT.23 past elverson. Right before the dealership on the left hand side, my girlfriend which was driving seen a streak of light in the sky. All of a sudden it started glowing red, and got brighter and brighter.This object got so bright im sure it was seen from a 30 mile radius if it was high enough, which i beileve it was. Brighter then any star/plane/flare. It lasted about 15 seconds, and then dimmed..... and got behind some trees, and it looked like it was moving. By the time we past the trees, it was gone. I looked all around and seen other aircraft in the area, so im sure it will be reported.It was not your normal deep red aircraft light.... it was metallic looking and was intense. I know others have seen this, I hope it is reported other then me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79803.html](http://www.nuforc.org/webreports/reports/079/S79803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
