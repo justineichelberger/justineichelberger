@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Moreno Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>it left at a high speed and it was not that far from the ground, like height of a BIRDit was round it had lights around it AND The LIGHTS CHANGED YELLOW and white it was a rounded dark craft with visible lights. There was only one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44700.html](http://www.nuforc.org/webreports/reports/044/S44700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately on going - on going minutes.</sub><blockquote><sub>NASA photo's show ufo behind the shuttle Columbia STS-107 Day 7 2/22/03I have pictues((NUFORC Note:  Pictures accompanied the report.  They appear ambiguous, to us.  We may post them later.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27628.html](http://www.nuforc.org/webreports/reports/027/S27628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
