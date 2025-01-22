@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Costa Mesa (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately on going - on going minutes.</sub><blockquote><sub>NASA photo's show ufo behind the shuttle Columbia STS-107 Day 7 2/22/03I have pictues((NUFORC Note:  Pictures accompanied the report.  They appear ambiguous, to us.  We may post them later.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27628.html](http://www.nuforc.org/webreports/reports/027/S27628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bellflower (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three sphere shapes hovering in triangle formation, that dropped flames and disappeared.THIS is what it looked like! It was in the NORTH sky I live in BELLFLOWER CALIFORNIA This date was 1/22/07 It was a clear night I could see stars and planes.THE formation HOVERED in space and did not move. ON January 22 at 9- 9:30 PM Pacific time, I saw three lights ORANGE red in color. They where in a TRIANGLE formation.There were 3 orange reddish shapes ROUND, in a TRIANGLE FORMATION.Within five or more minutes one by one they started to SHOWER flames or smaller orange DOTS from each one. ONE BY ONE.ONE would drop the flames or whatever they were and then disappear. The other two did the same thing.I called the airport to report it and they said it was probably something FALLING into the atmosphere or a COMET SHOWER! IT WAS NOT! I am not sure what it was.I live between the 91 freeway and the 105 freeway on Highway 19, which is LAKEWOOD blvd. I am not good at SPACE coordinates.So I hope you can get an idea of what I saw and where by my descriptions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54905.html](http://www.nuforc.org/webreports/reports/054/S54905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
