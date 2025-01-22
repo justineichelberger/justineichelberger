@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:56 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Coventry (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Intense bright red light appeared in chester county french creek areaWe were comming back from walmart in morgantown on RT.23 past elverson. Right before the dealership on the left hand side, my girlfriend which was driving seen a streak of light in the sky. All of a sudden it started glowing red, and got brighter and brighter.This object got so bright im sure it was seen from a 30 mile radius if it was high enough, which i beileve it was. Brighter then any star/plane/flare. It lasted about 15 seconds, and then dimmed..... and got behind some trees, and it looked like it was moving. By the time we past the trees, it was gone. I looked all around and seen other aircraft in the area, so im sure it will be reported.It was not your normal deep red aircraft light.... it was metallic looking and was intense. I know others have seen this, I hope it is reported other then me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79803.html](http://www.nuforc.org/webreports/reports/079/S79803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dalzell (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO?? Dalzell, South CarolinaThis is the third night this week we have seen these UFOs. Except this time there was 6 and not one like the last two nights. There was also something different this night as well because we had done strange phenomena like weird bangs, shuffling along the side of our house and then what appears to be interference within the video recording itself. There is the main UFO or orb followed one by one by 5 smaller colored light UFOs or orbs. 1 orange, 2 white light, 2 red light, and 1 blue light.  The blue light only appears after the ground phenomenon around us which also captured in video. Below is the link to the YouTube video. I recommend turning up the volume and pull up the big screen because this is just beyond anything I can describe in words. I’ve never seen anything like this and 3 nights in a row has me on edge. https://youtu.be/DttBu7_hnvU  Thank you, take care  Ariane Willians</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152845.html](http://www.nuforc.org/webreports/reports/152/S152845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
