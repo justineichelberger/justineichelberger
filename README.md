@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Appleton (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Ball of light in the sky was falling to the ground.I was riding my bike and while I was doing that I was looking up at the sky.  It was nice and clear, for the most part.  I was clearly looking at the Big Dipper, then when I went to put my head down to look at the road, I realized a star was falling, but when I started to turn like when a airplane is about to crash...you know know doing circles because it can't go straight.  It was going down to my right side the it made a sharp left turn then just dropped all the way down to the point I couldn't see it because of the houses.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125402.html](http://www.nuforc.org/webreports/reports/125/S125402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Whitley (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Green light in sky.It was on 1/22/15 around 7am, my husband and I were heading down IN 14 east towards Fort Wayne, Indiana.  Between the county line of Kosciusko and Whitley county.  I was watching the fields off to the right looking for deer.  I noticed a green light in the sky.  I didn't think nothing of it until we passed a large areas of trees and was wide open to some fields.  Not really moving fast just a steady moving.  It was above the large power line but lower than the clouds.  At first, I thought it was a plane but the longer I looked at it the less it had the attributes of a plane.  There was no blinking lights.  No red or white lights.  I thought how strange that a plane so low in the sky.  As my husband drove on, he asked what I was staring at.  I explained to him a green object in the sky.  He kinda poked down and looked over, as we kept driving down IN 14, I watched it slowly glide across the sky behind us.  A few hours later on the ride home we passed the same field and we looked around, thinking a tower of some sort or lights on top of the power lines, but we could see nothing. Just a house and power lines then open fields.  I'm not sure what we saw.  It just seemed a little odd to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116887.html](http://www.nuforc.org/webreports/reports/116/S116887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
