@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oviedo (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orb that accelerated very quicklyMy name is ((name deleted)) and I am an 18 year old highschool student.  I currently live in oviedo Florida and I witnessed a UFO tonight at 9:35pm on a Thursday.  My girlfriend and I were saying goodbye out in my drive way and that's when I saw a bright orangish red light rise from behind my neighbors roof.  It was very bright and I could not see any detail if the object.  It rose up to what appeared as about 10 feet above the home.  It slowly moved right then stopped and remained still for a good minute.  Just as we went to record what was happened it began drifting away and then sped off away from us and became a little orange dot then eventually disappeared.  There was no noise associated with this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106594.html](http://www.nuforc.org/webreports/reports/106/S106594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The UFO was completely illuminated by light and spunned extremely fast.  It's shape was of a saucer and it hoovered slowly over the city as if it were looking for something or just plainly sightseeing. We were in our car and started following it at one point we came so close to it (about a 3 block distance) that there is no doubt in our minds that this was a UFO.   It then started to fly a little faster and started going eastward towards San Bernardino, it became hard for us to continue following it, and unfortunenately we didn't have a camera with us to prove to anyone that we did see this. It was an ahhhing experience and has erased any doubts in our minds that they do exist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11791.html](http://www.nuforc.org/webreports/reports/011/S11791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
