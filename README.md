@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Westwego (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Was observing a weird rainbow color near the sun. Took a few pictures. In two pictures show a black shape in the sky.  Others show the rainbow spot that moved locations in 3 min time frames. One photo shows a ball of light and a portal looking light around it.  Also, an airplaine making a perfect square around the city kept passing near by trying to cover the area with those smoke lines as you can see one of the smoke lines passing through the sun in one picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138664.html](http://www.nuforc.org/webreports/reports/138/S138664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a black triangle fly low with a red light on bottom with two blinking ones on each side.I have seen this triangle 3 times!  It is Black.  It makes a noise and its triangular with a red light in the middle with two blinking lights on each side.  I called my mom and when it picked up i heard some type of foreign language that was very smooth but electronic. I am dead serious.  I freaked out.  Also the triangle came back then left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116908.html](http://www.nuforc.org/webreports/reports/116/S116908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
