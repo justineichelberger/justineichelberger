@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ellisville (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 objects flying in a straight line all 7 had 3 triangular red lights.Walked outside around 8 pm.  It was a slient and calm night.  After about 30 seconds of being outside we heard a loud fading in and out engine sound.  Like nothing that I have heard before.  It sounded nothing like a plane or helicopter.  After hearing the sound we both looked up and seen 7 unidentified flying objects flying perfectly in a straight line.  All 7 crafts had 3 red lights in the shape of a triangle.  The crafts were also flying very slow.  I would say they were about 3,000 feet above.  Watched them passed over for about 2 minutes.  Then they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107205.html](http://www.nuforc.org/webreports/reports/107/S107205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Reamstown (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Lights in the skyI had just woke up. I looked out my window of my back door. It was at 2 o'clock west in the sky. It was clear and dark that morning. I didn't have my glasses on. I could see the lights all in a row it looked like a plane in the dark. It sat there for a moment then started to move. I heard no sound. It was red, green and amber lights. As it moved away like a plane would. I saw a airplane fly close by to the lights. This plane continued over my home. I did hear the second plane. I wished I would of had my glasses and a pair of binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34653.html](http://www.nuforc.org/webreports/reports/034/S34653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
