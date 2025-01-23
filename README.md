@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The UFO was completely illuminated by light and spunned extremely fast.  It's shape was of a saucer and it hoovered slowly over the city as if it were looking for something or just plainly sightseeing. We were in our car and started following it at one point we came so close to it (about a 3 block distance) that there is no doubt in our minds that this was a UFO.   It then started to fly a little faster and started going eastward towards San Bernardino, it became hard for us to continue following it, and unfortunenately we didn't have a camera with us to prove to anyone that we did see this. It was an ahhhing experience and has erased any doubts in our minds that they do exist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11791.html](http://www.nuforc.org/webreports/reports/011/S11791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Napa (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange glowing glob of light shifting shapes like a lava lamp one night while driving.This was an extremely bizzarre sighting.  And ironically happened just days after another sighting I had.  I was driving to my fiance's place after getting off work one night and was driving North on Jefferson St. approaching the Lincoln Ave. intersection, when this weird sight, off to the left and up a little, caught my attention.  It was an orange glowing mass a few miles away that was shifting shapes.  Smaller masses would break off and re-join the glob of light.  It was like watching the wax in a lava lamp do it's thing in fast forward.  As soon as I got a good look at it it faded away.((NUFORC Note:  Date is approximate.  One of five interesting reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31898.html](http://www.nuforc.org/webreports/reports/031/S31898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
