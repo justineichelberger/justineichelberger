@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 22 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Four gold fireballs moving across the sky in a line over Highlands County, FLI saw 4 gold fireballs go straight across the sky.  Not upwards like a firework would be.  It was one fireball, then a little further over, another, then another further over and then the last one.  There was a slight trail between each fireball.  It all disappeared after that.I was just laying on the couch and for some reason I saw a light through the doorwall and I think that's what made me sit up and look outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54889.html](http://www.nuforc.org/webreports/reports/054/S54889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St.Regis (Canada) (PQ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A glowing greenish ball of light  falls out of the night sky.We were standing outside on the porch.Suddenly my niece said "whats that"?  and I turned and looked and saw a glowing greenish ball of light descending. It disappeard behind an island on the St.Lawrence river. I thought it landed on the island or just on the other side of the island on the river. It was still visible behind the leafless trees and then it was gone.It was a little smaller than the moon. It disappeared directly under the north star. When we first seen it, it was like 30 degrees above the horizon and going down at a 45 degree angle from west of the north star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27278.html](http://www.nuforc.org/webreports/reports/027/S27278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
