@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Memramcook (Canada) (NB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circle with red dots in Memramcook, NBCircle shape with red lights all around.  Stayed in the same place for 40 minutes then moved slightly before disappearing.  Plane passed right next to it while it was not moving.  Witnesses has lived in the same place for close to eight years and have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152837.html](http://www.nuforc.org/webreports/reports/152/S152837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Alma Center (WI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was coming home from work.  It was very cold and the night or morning sky was clear.  For the past two mornings just before sunrise I have been seeing a brightly colored moving object off to the west. I thought it was a plane or something but this morning I found out different! It was out this morning and it was closer to me and appearing and disappearing but moving toward me.  It came to about 100 feet of my car and stopped.  I could not beleive what I was seeing!  I got out of the car and saw a craft, green in color with a large  frosted white dome on top of it.  It was hovering about 20 feet off the ground.  I could see movement in the dome shape fixture on top but saw only vauge shapes but there was very definately something or someone in this object. I got in my car and drove off at high speed as I was very scared.  The object made a swing above me and moved off to the east at a very high speed.  I know I saw this this morning and am very puzzled on what this could be.  I thought his would be the place to report this.  I will make a drawing and send it if you like.  Thanks for listening to my case.((NUFORC Note:  We would very much like to look at an illustration of the object sighted.  We will request a copy from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27220.html](http://www.nuforc.org/webreports/reports/027/S27220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
