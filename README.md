@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Niles (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Just throwing this out there, at approx 6:09pm eastern time january 23rd, 2016, my wife and i were driving home from niles michigan to dowagiac michigan.  I noticed that as the full moon inched above the treeline, the moon appeared very large.  I made comment about wanting a telescope to view it.  Minutes later I saw a black line crossing the face of the moon.  The line covered approx 5% of the visable moon, refrencing the moon to a clock, the line began at 10 o'clock and move toward the 4 o'clock position.  The "front" of the line was rounded.  i pointed it to my wife.  She stated that from the angle and its position it was not a powerline.   We watched as we drove, the line completly crossed the moon's face and seconds afterward the "tail" appeared moving from 10 o'clock to the 4 o'clock position.  The line remained straight the entire time and moved in uniform speed.As the tail moved away from the moon's face it disappeared.  My wife and i began rationalizing what we just saw trying to explain it away, but could not.  A few minutes later, the line reappeared at the 1 o'clock position.  The size had not changed and the angle it traveled across the moon face was the same.  This time it decended from 1 o'clock to its original position between 10 and 4. It only covered the right half of the moon during this transit.  When it reached its original position between 10 and 4, it exited via the 4 o'clock position.Once we lost sight of the silhouette second time, it never returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125465.html](http://www.nuforc.org/webreports/reports/125/S125465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright  Light Fading in and Out in Southwestern part of the skyI saw a bright light in the sky toward the Southwest. It was about ten times brighter than any star in the sky that night and about 5 times larger. It would go from being extremely bright and fade to almost no light.The object was orange in color. At one point I went inside for a couple minutes and came back out and it was gone. I later came out about 5 minutes after that and it had reappeared. It continued to fade from bright to dim. It was closer than a star yet further than an airplane. An airplane flew underneath the object in the sky and the object didn't seem to be much further than the airplane. I have no idea what this is but I know it is something I can not explain nor have ever seen.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68207.html](http://www.nuforc.org/webreports/reports/068/S68207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
