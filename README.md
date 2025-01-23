@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in St.Regis (Canada) (PQ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A glowing greenish ball of light  falls out of the night sky.We were standing outside on the porch.Suddenly my niece said "whats that"?  and I turned and looked and saw a glowing greenish ball of light descending. It disappeard behind an island on the St.Lawrence river. I thought it landed on the island or just on the other side of the island on the river. It was still visible behind the leafless trees and then it was gone.It was a little smaller than the moon. It disappeared directly under the north star. When we first seen it, it was like 30 degrees above the horizon and going down at a 45 degree angle from west of the north star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27278.html](http://www.nuforc.org/webreports/reports/027/S27278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kaufman County (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My wife and I were returning home when we saw a bright light in the western sky that remained in the same place for approximately 30 mnOn 01/23/2009 at approximately 20:45 hours my wife and I were returning home when we saw a bright light in the western sky.  The light was very low compared to the height of most air craft in the area.  We continued to watch the light as we drove home and the light continued to remain in the same place.Once we arrived home, I walked to the pasture, with my wife and continued to watch the light for several more minutes.   My wife grew bored and went into the house.  I continued to watch the light for about 15 to 20 more minutes until clouds moved in around the light and the light grew dimmer, due to the clouds.  I continued to watch the light until it faded away.The light did bob in the air and I guess it to have been ten to fifteen miles away.  While watching the light, I saw two air craft fly past the light, although the air craft appeared to be further away from me.  The size of the light was difficult to determine given the distance although it did appear to be as large as a normal commercial plane, although the light was very bright, brighter than what I would expect to see and have seen in the past on commercial planes.  I did not see any wings, flashing lights or any other indicator that would have made me think it was a plane, besides the fact it remained in the same place for about 30 minutes.I was standing at 32degrees 39’07.61”N and 96degrees 17’27.92”W, looking almost due west.  The light was visible just over the trees and as stated previously, much lower than any aircraft I have seen in the past.I attempted to contact the Naval Air Station and the Dallas Fort Worth International Airport, both to no avail.  I am not a UFO buff, not even sure that I buy into the whole UFO thing, although I know that what I saw and watched for quite some time, was not normal and did not act like any aircraft I have ever seen in this area or any other area.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68208.html](http://www.nuforc.org/webreports/reports/068/S68208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
