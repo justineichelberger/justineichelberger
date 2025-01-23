@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object moved from South to North, at the speed of a plane.Appeared metallic. Saucer shaped, but about as tall as wide.About pea-sized, at arm's length.The single object was first spotted from moving car. It crossed over the road and was watched for 2 to 3 min.from outside car, until it was obscured by buildings as it moved near the horizon. Object moved steadily, at moderate speed from approximately South to North. Object appeared dull silver in color.Its shape was like two cones, joined at the rims, but with the tips truncated, so that it appeared somewhat saucer-shaped, but about as tall as it was wide. Several short, dark rods were seen near the bottom, arranged radially, with respect to the center of the object. At its largest, the object probably appeared about the size of a large pea, held at arm's length.The weather was overcast, the light level rather low.Two witnesses are retired merchants, the other a writer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11787.html](http://www.nuforc.org/webreports/reports/011/S11787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Streetly (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright green flashing object similar to a shooting star but not.I can not say it was a UFO or not it was a bright green strobing light flying very fast across the sky on a clear night.I know it wasnt a firework or a shooting star as i have seen these on numerous occasions.It only lasted about 10 seconds then was gone much like a shooting star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74162.html](http://www.nuforc.org/webreports/reports/074/S74162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
