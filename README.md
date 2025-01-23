@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:18 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:33 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 unmoving orange lights seen SW of Maricopa, Az.Two bright orange light seen to the SW of the Maricopa/Phoenix area.  Distance unknown.  Size and shape of object unknown.  One was lower and to the side of the other.  Would occasionally disappear, perhaps due to cloud cover.  Did not appear to move at all.  Seen while driving SSW on state route 347 towards Maricopa, Az.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106591.html](http://www.nuforc.org/webreports/reports/106/S106591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Linden (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Very, very large array of lights rectangular in shape moving through the night skyAs I do everyday, I go to my back bay window of my two story mountain home to check out the current weather.  It is still the dead of night at this time of year as the sun will not peak over the mountain for another hour or more.  I immediately noticed a light to the west.  It was much larger than any thing I have every seen in the sky and was a a very strange shape.  For reference, the lights of an airliner would be the size of a pencil eraser in the night sky.  This object was the size of a match book.The way it moved, it appeared to be a solid object but unlike anything I have ever seen.  It was rectangular in shape but made up of only lines of light.  Take a match book layed on it's long side and draw 8 evenly spaced lines from top to bottom.  That how it appeared in the night sky except only the lines were visible and the lines bowed ever so slightly from end towards the middle.  Again, this thing was huge in the night sky.  The shape never varied as it moved the 10 to 15 miles until it faded from view.It was about a mile or so west of my house when I first saw it and it moving steadily due west. It was hard to estimate the altitude but at least 3 or 4 thousand feet as it easily cleared the far mountain peaks.  It was so big I was able to follow it much further than a standard airliner.  I get a few airliners, a verity of small private aircraft and a few helicopters through the local air space.  I have no idea what it could have been or where it could have come from.  I only know it was huge, completely silent, and a solid object that moved on a straight fixed coarse at a steady speed through the area.I had the window open and it made no noise and I live in a place where you can hear a pin drop.  I was an air traffic controller in the service and have seen most every thing that flys including blimps.  I have no idea what this could have been and can't understand how something this big could be airborne.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116914.html](http://www.nuforc.org/webreports/reports/116/S116914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
