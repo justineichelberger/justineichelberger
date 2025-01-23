@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:25 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright  Light Fading in and Out in Southwestern part of the skyI saw a bright light in the sky toward the Southwest. It was about ten times brighter than any star in the sky that night and about 5 times larger. It would go from being extremely bright and fade to almost no light.The object was orange in color. At one point I went inside for a couple minutes and came back out and it was gone. I later came out about 5 minutes after that and it had reappeared. It continued to fade from bright to dim. It was closer than a star yet further than an airplane. An airplane flew underneath the object in the sky and the object didn't seem to be much further than the airplane. I have no idea what this is but I know it is something I can not explain nor have ever seen.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68207.html](http://www.nuforc.org/webreports/reports/068/S68207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hilo (HI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>amber light over Hiloorange/amber light in the sky over Hilo moving slowly, no sound, not like plane or heli; flashing reddish then more orange amber; not like any plane, maybe somebody in an ultralight rigged with lights?  Similar to the Kihei posting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86796.html](http://www.nuforc.org/webreports/reports/086/S86796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
