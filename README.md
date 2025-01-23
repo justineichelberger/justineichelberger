@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:33 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Linden (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Very, very large array of lights rectangular in shape moving through the night skyAs I do everyday, I go to my back bay window of my two story mountain home to check out the current weather.  It is still the dead of night at this time of year as the sun will not peak over the mountain for another hour or more.  I immediately noticed a light to the west.  It was much larger than any thing I have every seen in the sky and was a a very strange shape.  For reference, the lights of an airliner would be the size of a pencil eraser in the night sky.  This object was the size of a match book.The way it moved, it appeared to be a solid object but unlike anything I have ever seen.  It was rectangular in shape but made up of only lines of light.  Take a match book layed on it's long side and draw 8 evenly spaced lines from top to bottom.  That how it appeared in the night sky except only the lines were visible and the lines bowed ever so slightly from end towards the middle.  Again, this thing was huge in the night sky.  The shape never varied as it moved the 10 to 15 miles until it faded from view.It was about a mile or so west of my house when I first saw it and it moving steadily due west. It was hard to estimate the altitude but at least 3 or 4 thousand feet as it easily cleared the far mountain peaks.  It was so big I was able to follow it much further than a standard airliner.  I get a few airliners, a verity of small private aircraft and a few helicopters through the local air space.  I have no idea what it could have been or where it could have come from.  I only know it was huge, completely silent, and a solid object that moved on a straight fixed coarse at a steady speed through the area.I had the window open and it made no noise and I live in a place where you can hear a pin drop.  I was an air traffic controller in the service and have seen most every thing that flys including blimps.  I have no idea what this could have been and can't understand how something this big could be airborne.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116914.html](http://www.nuforc.org/webreports/reports/116/S116914.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object moved from South to North, at the speed of a plane.Appeared metallic. Saucer shaped, but about as tall as wide.About pea-sized, at arm's length.The single object was first spotted from moving car. It crossed over the road and was watched for 2 to 3 min.from outside car, until it was obscured by buildings as it moved near the horizon. Object moved steadily, at moderate speed from approximately South to North. Object appeared dull silver in color.Its shape was like two cones, joined at the rims, but with the tips truncated, so that it appeared somewhat saucer-shaped, but about as tall as it was wide. Several short, dark rods were seen near the bottom, arranged radially, with respect to the center of the object. At its largest, the object probably appeared about the size of a large pea, held at arm's length.The weather was overcast, the light level rather low.Two witnesses are retired merchants, the other a writer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11787.html](http://www.nuforc.org/webreports/reports/011/S11787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
