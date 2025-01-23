@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a black triangle fly low with a red light on bottom with two blinking ones on each side.I have seen this triangle 3 times!  It is Black.  It makes a noise and its triangular with a red light in the middle with two blinking lights on each side.  I called my mom and when it picked up i heard some type of foreign language that was very smooth but electronic. I am dead serious.  I freaked out.  Also the triangle came back then left.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116908.html](http://www.nuforc.org/webreports/reports/116/S116908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in White Plains (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Strange Flying Triangled shaped objectI was sitting in my classroom in school looking out a window when I saw a strange flying triangled 'thing' in the air. It wasn't flying that high, but I,m sure I would have heard a sound, which I did not. It was not to big and not to small. It flew in the sky and out of sight. It was moving pretty fast. Then about 10 minutes later a saw something similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34656.html](http://www.nuforc.org/webreports/reports/034/S34656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
