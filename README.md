@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 23 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright lights in front of the dark body of the object with perhaps windows over the lightsI am not exactly sure of the shape.  There were bright lights in front of what appeared to be the body of the plane or object, and perhaps windows.       My husband and I were on our way to Gainesville, Florida, on our morning commute at the time.   I thought I could see a wing of the plane or ship behind the lights, but my husband could not tell.  It was hard to tell the exact shape.    It began as a bright light in the early morning distant sky, which we thought was just an aircraft.   Suddenly it started moving towards us and came right over the top of our car, and stayed very briefly, then took off.   There was no noticeable noise.    I kept wondering if anyone else on the road with us could see the thing.    I called the FAA in Atlanta, I believe, and they recommended I call air traffic control in Jacksonville to see if anything had been reported.    No one offered any explanation.    I have never seen anything like this again.   I mentioned this experience to someone I was working with at the time, and she told me she had seen a very similar object over a shopping center in Boca Raton one evening.    I would just like an exlanation for what we saw, if that is possible.    My husband and I are both baby boomers, in our late fifties, or early sixties, and while we do enjoy science fiction, we are not making this up.    We are both college educated,  and we just do not understand what we saw.   My husband felt at the time this must have been a military test plane, but the way this object moved,     I just don't think so.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42398.html](http://www.nuforc.org/webreports/reports/042/S42398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ridgefield (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>eating dinner and noticed a light hovering 5 miles away. It was not moving it just hovered thier.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible sighting of celestial body, or landing light on a distant airliner.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54907.html](http://www.nuforc.org/webreports/reports/054/S54907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
