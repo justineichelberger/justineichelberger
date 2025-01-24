@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:50 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>star that moves, fades, changes into multiple lightsI have seen this many times.  First time, I thought it was a star, then realized it was a little too low, too bright, and was moving, floating alongside my car.  When I stopped, it came to a stop in front of me.  When I made a right turn, and stopped and looked in front of me, there it was again.  I would return to the spot I saw it the first time, and it was gone; then return to the spot it was the second time and it was gone.  Sometimes I saw it vaporize like a cigarette ash, an orange/brown fading light, in an arc that fades.  Sometimes, I see in the place it was before it disappeared, and not moving, appx 4 lights, 2 red and 2 white.  So...it looks like a star that moves ... then changes to appear like an airplane that doesn't move.  Once, it flew directly over me when I was standing outdoors, no sound.  This started appx june 2013.  The star was in the same place nightly, usually appeared before dusk, and slowly sunk below the horizon around 10 pm.  I noticed it t! he first time when it first 'followed' my car and stopped in front of me when I stopped in june 2013.  It was in the north west sky, same spot, until recently.  I noticed around end of december it wasnt there anymore.  Then, a few days ago, as I was driving, there it was in a different direction.  I turned right into a parking lot and got out, looked up, and saw, in front of me, again, as if it was changing direction to stay in front of me, what was 2 red and 2 white lights, hovering, not moving, as if it had morphed into an airplane camoflage, then faded away.  It hasn't been in the NW sky since end of december 2013.This sounds like same thing Ive read in several other posts ... has there been an explanation posted anywhere?((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106906.html](http://www.nuforc.org/webreports/reports/106/S106906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Simsboro (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multicolored lights seen in Eastern sky in North LouisianaIn the southwestern sky, I noticed a twinkling.  Too vivid to be a star/planet, too high in the air to be a cell tower, too many colors flashing to be an aircraft.  The only device I own that could be used to view more closely was the scope on my .22 rifle. I can only describe what I saw as a seemingly multi-colored array of sparks and/or electricity, but maintaining an almost nautical star shape. It was very difficult to see, even with the scope but actually appeared larger to the naked eye. I've never seen anything like that in all my 33 years, and my girlfriend saw it as well.  We are ufo cynics, so this sight was a bit unsettling.((NUFORC Note:  Possible sighting of Sirius, we would guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86799.html](http://www.nuforc.org/webreports/reports/086/S86799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
