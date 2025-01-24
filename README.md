@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three bright lights appear in the shape of an equilateral triangle.At approximately 7:18pm on January 24th, 2012 my mother and I were driving down Old Evans RD, towards Bobby Jones Hwy.We saw a stationary grouping of lights (larger and brighter than stars) in the area of sky on our right side. The lights were in an equilateral triangle formation and not moving at all. After only a few moments, perhaps 45 seconds, one of the lights went away; it appeared to have been turned off.  It reminded me of how a bulb still glows slightly for a split second once it has been shut off.  After about 5 seconds, the remaining two lights went out at the exact same time (and in the same "slow" manner).The lights were not seen again.bright flash in bellingham area.A flash of light lit my whole house. My dog freaked out.  At the same time a friend who lives 15 miles away witnessed this same light and his dog freaked out aswell.  I was wondering if anyone else noticed this.  I have never seen a UFO and don't nessasarly beleive in them, but I can not think of another explaination.  My girlfriend has witnessed a similar occurance.  Winter lighting???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86813.html](http://www.nuforc.org/webreports/reports/086/S86813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kelso (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to Kelso Exit 39 thought it was paper lanterns in the sky.  Orange in color.  Moving higher in elevation growing brighter and then dimming randomly.  Then they disappeared all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106664.html](http://www.nuforc.org/webreports/reports/106/S106664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
