@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>CylnderNoted an odd object in the sky.  A cylindrical object, which appeared white, but seemed translucent was seen with no clouds in the sky at all.  The object moved fast initially then slowed down for a little over 3 minutes.  The object then rapidly gained velocity and streaked across half the sky in about 20 to 30 seconds.  The object didn’t just drop in altitude since the size decreased as it was moving across the sky.  The object was extremely bright in the noon day sun.  Not the entire cylinder just a line that went down the entire body length.  Basically the closest part to my eye.  The object was brightest when it was highest in the sky.  When it made its closest approach to the sun overhead it was difficult to look at, I needed to squint.  As the object traveled away from the sun the object became less brilliantly lit up, in fact dramatically.The object appeared to pass over a 737 as it was travelling the 737 visually appeared about 10 millimeters long for reference.  I have no idea how close it passed by.  I couldn’t make out if the object had any wings.  The cylinder appeared to be about 1 unit in diameter and 15 units long.I just want to know if anyone else noticed this object, as well if anyone could identify the object as a known aircraft.  Does this object relate to any anomalous weather behavior.  If someone knows something please post.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54912.html](http://www.nuforc.org/webreports/reports/054/S54912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Walked outside & the object caught my attention.  I live behind Oceana Air Base (US Government owned), so my 1st thought was it was probably an airplane.  I could see that it was a very bright white light that had flashing red lights & what appeared to be blue flashing lights also.  It was relatively stationary.  I am about 5 miles away & only had my phone, so no photos unfortunately.((NUFORC Note:  We suspect a "twinkling" star, and perhaps Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125427.html](http://www.nuforc.org/webreports/reports/125/S125427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
