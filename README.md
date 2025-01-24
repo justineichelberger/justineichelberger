@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:57 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Simsboro (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multicolored lights seen in Eastern sky in North LouisianaIn the southwestern sky, I noticed a twinkling.  Too vivid to be a star/planet, too high in the air to be a cell tower, too many colors flashing to be an aircraft.  The only device I own that could be used to view more closely was the scope on my .22 rifle. I can only describe what I saw as a seemingly multi-colored array of sparks and/or electricity, but maintaining an almost nautical star shape. It was very difficult to see, even with the scope but actually appeared larger to the naked eye. I've never seen anything like that in all my 33 years, and my girlfriend saw it as well.  We are ufo cynics, so this sight was a bit unsettling.((NUFORC Note:  Possible sighting of Sirius, we would guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86799.html](http://www.nuforc.org/webreports/reports/086/S86799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Glowing white lite shoots across sky and makes sudden U turns and spirals.Went for a walk around my neighborhood before bed.Very white and glowing like, with a color similar to a white LED.  First I saw what I thought was a shooting star fly behind a tree as I just caught a glimpse.  From the same direction a few seconds latter another one came across the sky which I first expected to be a shooting star.  It shot across the sky and then made a hair-pin 90 degree turn followed by an L turn heading away from me with a little bit of a spiral and faded out. It made very fast and sporadic movements with an incredible speed and sudden changes of direction. It moved kind of like and insect but it was very brite and kind of made me think of a firefly.Really unlike anything I have seen and did not seam at all like an aircraft of any kind. I also could not tell how close it was or its relative size and distance. It was no closer than 350 feet but may have been much further.  It was also strange that when I first saw what I thought was a shooting star I was looking for what I thought was a second shooting star as if I expected it before it appeared again in its spectacular yet surrealism.  It also was not defined like a shooting star but more glowing like but unmistakable and bright it is appearance but very soft on the eyes.  It also looked like a mix between an electrical spark, a shooting star and an orb or what I would best describe as glowing white light.  I always thought a UFO would be more clearly defined as a light that looked like a large star with more linear movements.  This was more difficult to define or to relatively grasp.  Its movements were also graceful yet complex.I have no idea how to explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86797.html](http://www.nuforc.org/webreports/reports/086/S86797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
