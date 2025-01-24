@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:57 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Florence (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright orange like fire balls cruising across the sky with no sound.  One was close enough that there should have been a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116943.html](http://www.nuforc.org/webreports/reports/116/S116943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Simsboro (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multicolored lights seen in Eastern sky in North LouisianaIn the southwestern sky, I noticed a twinkling.  Too vivid to be a star/planet, too high in the air to be a cell tower, too many colors flashing to be an aircraft.  The only device I own that could be used to view more closely was the scope on my .22 rifle. I can only describe what I saw as a seemingly multi-colored array of sparks and/or electricity, but maintaining an almost nautical star shape. It was very difficult to see, even with the scope but actually appeared larger to the naked eye. I've never seen anything like that in all my 33 years, and my girlfriend saw it as well.  We are ufo cynics, so this sight was a bit unsettling.((NUFORC Note:  Possible sighting of Sirius, we would guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86799.html](http://www.nuforc.org/webreports/reports/086/S86799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
