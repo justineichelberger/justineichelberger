@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright green mass of lightMy friend saw a green cigar shaped light on a cloudy night. She called me and our other friend out. We all watched it for 5 minutes as it dissapeared and reappeared a couple of times, remaining at the same spot. The green light was incredibly bright and of a color very phosphoric. It did not have any source or a tail. It was just like a mass of green light on the sky. It was quite high, probably as far as Venus. We weren't able to see it again, as it got cloudier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34673.html](http://www.nuforc.org/webreports/reports/034/S34673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brunswick (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright solid white light in sky that vanished.While Driving on Route One towards Bath, Maine, we saw a bright white lite to the East hovering in the sky for approximately 5 minutes.  It was a very clear crisp night, the  lights, did not flash they where solid bright white and it was stationary...the lights where brighter than the space station.We both noticed it and mentioned it to one another and while we where looking at the object the light disappeared.  The object just vanished from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138584.html](http://www.nuforc.org/webreports/reports/138/S138584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
