@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish orange fireball hovering just above the trees for about three minutes.On the aforementioned date and time, my mother and myself witnessed a fireball in the sky hovering just above the trees.  There was one object, circular shaped and red-orange in color.  It hovered in one spot, then appeared to stretch out like an oval.  It then moved to the right/east about 50 feet.  It appeared to grow brighter.  After about two minutes it moved away. It seemed to have left a black spot in the area where it hovered in the sky.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86866.html](http://www.nuforc.org/webreports/reports/086/S86866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cudahy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately CONTINUOS - CONTINUOS minutes.</sub><blockquote><sub>APPEARING LIKE A DAY TIME STAR MOVING VERY SLOWLYSEEN IN THE NORTH WEST SKY LOOKING UP AT APPROXIMATELY 45 DEGREES.A VERY SMALL FLICKERING LIGHT, VARYING INTENSITY AT TIMES DISAPEARING.MOVING HORIZONTAL RIGHT TO LEFT AT THE SAME SPEED THAT YOU WOULD SENCE A STAR MOVING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54918.html](http://www.nuforc.org/webreports/reports/054/S54918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
