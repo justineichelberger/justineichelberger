@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Walked outside & the object caught my attention.  I live behind Oceana Air Base (US Government owned), so my 1st thought was it was probably an airplane.  I could see that it was a very bright white light that had flashing red lights & what appeared to be blue flashing lights also.  It was relatively stationary.  I am about 5 miles away & only had my phone, so no photos unfortunately.((NUFORC Note:  We suspect a "twinkling" star, and perhaps Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125427.html](http://www.nuforc.org/webreports/reports/125/S125427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object obseved for a few seconds...Then Disappeared!I was driving in my car with my daughter and saw a really bright light in the sky. It was big and it flickered. It was greenish white. It was falling towards the ground fast, and I originally thought that it must be a aircraft falling out of the sky but then it just disappeared. It was oval shaped, it was white with a greenish tint to it. I stopped the car and asked my daughter if she sees this and she said yes she did. we got out of the car and looked over a block wall expecting to see something crashed, but there was nothing there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61191.html](http://www.nuforc.org/webreports/reports/061/S61191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
