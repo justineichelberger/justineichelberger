@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Glowing white lite shoots across sky and makes sudden U turns and spirals.Went for a walk around my neighborhood before bed.Very white and glowing like, with a color similar to a white LED.  First I saw what I thought was a shooting star fly behind a tree as I just caught a glimpse.  From the same direction a few seconds latter another one came across the sky which I first expected to be a shooting star.  It shot across the sky and then made a hair-pin 90 degree turn followed by an L turn heading away from me with a little bit of a spiral and faded out. It made very fast and sporadic movements with an incredible speed and sudden changes of direction. It moved kind of like and insect but it was very brite and kind of made me think of a firefly.Really unlike anything I have seen and did not seam at all like an aircraft of any kind. I also could not tell how close it was or its relative size and distance. It was no closer than 350 feet but may have been much further.  It was also strange that when I first saw what I thought was a shooting star I was looking for what I thought was a second shooting star as if I expected it before it appeared again in its spectacular yet surrealism.  It also was not defined like a shooting star but more glowing like but unmistakable and bright it is appearance but very soft on the eyes.  It also looked like a mix between an electrical spark, a shooting star and an orb or what I would best describe as glowing white light.  I always thought a UFO would be more clearly defined as a light that looked like a large star with more linear movements.  This was more difficult to define or to relatively grasp.  Its movements were also graceful yet complex.I have no idea how to explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86797.html](http://www.nuforc.org/webreports/reports/086/S86797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three bright lights appear in the shape of an equilateral triangle.At approximately 7:18pm on January 24th, 2012 my mother and I were driving down Old Evans RD, towards Bobby Jones Hwy.We saw a stationary grouping of lights (larger and brighter than stars) in the area of sky on our right side. The lights were in an equilateral triangle formation and not moving at all. After only a few moments, perhaps 45 seconds, one of the lights went away; it appeared to have been turned off.  It reminded me of how a bulb still glows slightly for a split second once it has been shut off.  After about 5 seconds, the remaining two lights went out at the exact same time (and in the same "slow" manner).The lights were not seen again.bright flash in bellingham area.A flash of light lit my whole house. My dog freaked out.  At the same time a friend who lives 15 miles away witnessed this same light and his dog freaked out aswell.  I was wondering if anyone else noticed this.  I have never seen a UFO and don't nessasarly beleive in them, but I can not think of another explaination.  My girlfriend has witnessed a similar occurance.  Winter lighting???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86813.html](http://www.nuforc.org/webreports/reports/086/S86813.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
