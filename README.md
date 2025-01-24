@@ -214,7 +214,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:22 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:35 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Aragon (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Flashing red light in night sky followed by 2 jets.Dog was barking so I looked out to see 2 red flashing lights over tall pine trees, so my fiance and I went outside.  We then witness a flashing red light only being followed by what appeared to be a jet.  We watched until we could no longer see it. 30 seconds and another jet came over following the same path as the first 2, only this craft was very loud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138578.html](http://www.nuforc.org/webreports/reports/138/S138578.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
