@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 24 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cudahy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately CONTINUOS - CONTINUOS minutes.</sub><blockquote><sub>APPEARING LIKE A DAY TIME STAR MOVING VERY SLOWLYSEEN IN THE NORTH WEST SKY LOOKING UP AT APPROXIMATELY 45 DEGREES.A VERY SMALL FLICKERING LIGHT, VARYING INTENSITY AT TIMES DISAPEARING.MOVING HORIZONTAL RIGHT TO LEFT AT THE SAME SPEED THAT YOU WOULD SENCE A STAR MOVING.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54918.html](http://www.nuforc.org/webreports/reports/054/S54918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pipe Creek (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>light with red flame from the bottom appeared in the western sky and hovered for long time southwest of San Antonio Tx.A bright light falling like a shooting star at halfspeed appeared in the sky southwest of San Antonio it hovered for a long time and i thought maybe my eyes had played a trick on me and that it was just a star or a planet i went back to what i was doing after a while i noticed it had moved froms its original location.  As i watched it it started to move out and then come back toward me. I went and got my binoculars and realized it had a red flame-like light originating from the bottom of the light and it would pulse. I watched for a longwhile and showed my wife and a friend after a while it slowly faded off to the west and dissappeared.  There was no noise that i could hear and all the dogs in the area were barking the whole time. It was'nt a helicopter or a satilite or anything I've ever seen((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68225.html](http://www.nuforc.org/webreports/reports/068/S68225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
