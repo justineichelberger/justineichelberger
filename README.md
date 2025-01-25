@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:12 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Three red dots weavingwhen i come home from hockey late at night i like to look at the stars when on this paricular night i saw three red dots weaving through each other and eventually out of sight before it vanished i yelled to my mom and she got a glance of it she doesn't want to believe it but i believe it was not a regular event. the red dots were moving and stoping at a pace impossible for a regular air craft to do.((NUFORC Note:  Date is approximate.  Source elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25093.html](http://www.nuforc.org/webreports/reports/025/S25093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Corning/Redding/Richfield (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Three bright lights seen in many Californai townsI saw the three lights from many different towns in the Californi valley, the witnesses included me, siblings, parents, and grandparents.  We saw them at first around 6:00PM and they were three circular lights that flew in circles, the two dimmer ones followed the brighter one and they were going pretty fast.  They went in the same path untill around 9:30 when the two brightest ones dissapeared. The dimmest one kept going for about ten more minutes befor dissapearing.  We know they wern't planes or anything like that becuase we went to different towns to make sure and they were always there and we were to far away for them to be search lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27295.html](http://www.nuforc.org/webreports/reports/027/S27295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
