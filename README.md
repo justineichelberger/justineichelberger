@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Webster Groves (St. Louis) (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>estimated 200ft above ground actual shape was two cylinders attached by a wing-like "thing"  one cylinder was larger than the other.  White in color  dissappeared when I took a second look.((NUFORC Note:  Flaw in date.  We have assigned an arbitrary date above.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68454.html](http://www.nuforc.org/webreports/reports/068/S68454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dover (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dropping lights catch the eye.My wife and two boys, one 7 yrs and one 8 months, and I, were on our way to mother-in-laws house for the wife's Birthday party.  Long and winding roads, through alot of hilly areas.  I took notice of it first, at first it looked like a radio tower with one light at the top, white light with a slight out of focus haze.  And also another light just above and to the left, wasn't sure if I thought it was a star or what.  Then as I looked at it right before my eyes a light of the same size and shape dropped out of the bottom of it, went straight down, and we started on a patch of road that led us by some leafless trees, but we 3 all seen it.  My wife I believe only seen one drop, because of driving and watching the road, but I kept turning and watching.  I seen three lights drop in a vertical strait line, then the light that was above and to the left seemed to move strait about what I origanally thought was a tower light.  They started getting close to each other, the lower one did not seem to drop in height but the one above did.  Then we went around a corner and came back around again after passing a few trees and the lights had vanished.  I never seen the ligts hit the ground or what exactly happened to them that dropped.  It was a creepy feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21557.html](http://www.nuforc.org/webreports/reports/021/S21557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
