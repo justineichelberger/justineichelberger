@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Yankton (SD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>large metal structure suspended in the air and fleet of aircraft around it and interacting with it, and beaming light to the ground.We were traveling west on highway 46 from Beresford, SD and witnessed a large solid structure suspended in the sky.  Upon driving closer to it, there appeared to be some sort of tether attached to another body, or as if it were a bridge between two ships.  Some sort of aircraft seemed to be going between the two bodies, back and forth as well as around th structure. the lights coming from this aircraft shone on the flat surface of the structure and around it.  It appeared to be somewhere in the sky south east of  the intersection of highway 46 and  highway 81.  The aircraft traveling between the massive metal structures also interacted with the ground, hovering probably 100 ft and beaming light to the ground. the structure that appeared  to be tethered to the large metal structure was cloaked in a dark cloud, but lights traveled between them.  What was unclear was its intention: it hovered above the sky as the small aircraft traveled around it and possibly was transmitting data, delivering something, who knows.  We also witnessed "nothern lights" while this was occuring in the south sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96092.html](http://www.nuforc.org/webreports/reports/096/S96092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Queen Charlotte Island (BC) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On a Alaska night flight from Seattle to Juneau AK. Midway in the flight my daughter ask me what was outside the window ,I look of in the distance and said it was a light.  My 16 year old daughter said NO and pointed to the wing area of the airplane and said that.  I was speech less and shock. I pull out my phone and took video while my daughter took pictures.  After 2-3 min I decided to tell flight attendants.  When the flight attendant arrived at my seat she looked out the window and yes something is out there. She later ask the pilot who said it could be a another airplane or a UFO.  I don't know if the pilot was joking.  We landed at the Juneau airport with no other sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159083.html](http://www.nuforc.org/webreports/reports/159/S159083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
