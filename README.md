@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:16:49 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights as many as three moving rapidly leaving a sparkle reflection.If you u see a triangle,imagine a red light at one of the ends blinking and going to each end of the triangle in slow motion, leaving a slowly fading sparkling red reflection.  in a silent dark sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132307.html](http://www.nuforc.org/webreports/reports/132/S132307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anthony (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>SAW A WHIT DOT TAKE SHAPE OF A SAUCER FLOAT THERE FOR A SECOND AND THEN TAKE OFF INTO THE CLOUDSOn 01/25/2008 I was driving East on Hwy. 225 (Old Jacksonville Rd.) at aproxamatly 10:50 pm. A dime sized white light appeared in the sky. I thought it was a star but then it grew in size and changed its shape it resembled a salad plate in its new size and shape. It made the gauge cluster in the car I was driving go dim. This encounter lasted for about 30 seconds before the object sped off  high into the sky in a easterly direction into the clouds of the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61244.html](http://www.nuforc.org/webreports/reports/061/S61244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
