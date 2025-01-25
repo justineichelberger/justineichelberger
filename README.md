@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:39 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireballs seen over Vancouver Island.I was out on my south facing deck, having a cigarette. I looked up at Jupiter, only to see due east of jupiter, in the southwestern sky, I watched something that could have been a rocket firetrail heading in a a southwest direction away from Victoria. I called out my room mates boyfriend to see waht I was looking at. We both watched two smaller fireballs flash brightly then both fell, one on each side of the craft. To me it looked like when the space shuttle takes off and then drops its solid fuel boosters. The third trail of fire just kept going and faded off into the night sky. I figuree it was some form of rocket, but is was after midnight, and odd time to do any missile testing, and what kind of military craft drops two rockets off, and where could this have taken off from...???  DO you know...have any other people that saw the same thing? idf you could shed a little light on what I may have seen, please let me know. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41627.html](http://www.nuforc.org/webreports/reports/041/S41627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in West Tawakoni (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ENORMOUS GLOWING LIGHT OVER WEST TAWAKONI SUDDENLY JUST VANISHESLARGE BRIGHTLY GLOWING OBJECT. TOO LARGE TO BE AIRPLANE. SO BRIGHT IT GAVE OFF A HALO LIKE EFFECT. COULD'NT MAKE OUT A CLEAR SHAPE DUE TO BRIGHTNESS, BUT IT DID SEEM TO BE POINTED ON BOTTOM SUCH AS AN UPSIDE DOWN TRIANGLE. WATCHED IT FOR ABOUT 10 MIN. AND THEN IT JUST DISAPPEARED, MUCH LIKE TURNING OFF A LIGHT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54958.html](http://www.nuforc.org/webreports/reports/054/S54958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
