@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilbraham (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Are there LED powered spotlights?I was driving home 100% sober, I was traveling NW, and I saw between 8-12 lights that looked spotlights, the problem that I have was that there was no expansion of the light beam and it was brighter in intensity the higher in the sky.  The lights were equally spaced  and appeared to be in a straight line or file. I first observed then to my left and when I finished driving the lights were to the right of me; I was traveling on a mostly straight road.  The closest I can come to explaining this is that maybe there's new LED spotlights that I have never heard of or seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96096.html](http://www.nuforc.org/webreports/reports/096/S96096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Filion (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 32.0 - 32.0 minutes.</sub><blockquote><sub>dimond shaped object in michigans huron county sky.the object was in the west sky, it was west above the horizon. the color of the object looked like a brite white lite at first, after taking a closer look at it it had a red streak in it.the object made very slight movement from right to left and up and down,but it stayed hovering in the same spot for a long time.it appered to me that it was about 5 miles away. it was very clear that night. the object was about as brigt as a full moon,brighter than any star in the sky, brighter than any plane that has ever been seen.the last five min. it was visable it very slowly moved west till it got below the horizon. as it moved west it changed colors like a orange color.this was truly a amazing sight.((NUFORC Note:  We suspect Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16052.html](http://www.nuforc.org/webreports/reports/016/S16052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
