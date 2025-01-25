@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft above field outside NYC, black torpedo glowing lights, flashed then disapeared.My friend and I were driving just outside the city, on our way to New Jersey. It was already dark. All of a sudden, a craft moved across a field, above the tree leve. It was shaped like an elongated torpedo. My friend, who's brother is in the air force, said he thought it might be a fighter plane, but when the object turned and we saw it in profile we realised it was no plane. It was a bluish black, very dark, and not all that far away from us. About as far as you see a plane thats comming in to land, in fact. Of course, we were shaken. The object made a whirring noise, like that of a chopper but not as mechanical. A purr, almost. The object had greyish lights where you may see cockpit windows on a regular plane. Also, they wern't so much eminating light as just glowing. There lights lit up, and then the craft disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41652.html](http://www.nuforc.org/webreports/reports/041/S41652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Webster Groves (St. Louis) (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>estimated 200ft above ground actual shape was two cylinders attached by a wing-like "thing"  one cylinder was larger than the other.  White in color  dissappeared when I took a second look.((NUFORC Note:  Flaw in date.  We have assigned an arbitrary date above.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68454.html](http://www.nuforc.org/webreports/reports/068/S68454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
