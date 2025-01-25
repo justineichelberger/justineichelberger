@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:16:49 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Corning/Redding/Richfield (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Three bright lights seen in many Californai townsI saw the three lights from many different towns in the Californi valley, the witnesses included me, siblings, parents, and grandparents.  We saw them at first around 6:00PM and they were three circular lights that flew in circles, the two dimmer ones followed the brighter one and they were going pretty fast.  They went in the same path untill around 9:30 when the two brightest ones dissapeared. The dimmest one kept going for about ten more minutes befor dissapearing.  We know they wern't planes or anything like that becuase we went to different towns to make sure and they were always there and we were to far away for them to be search lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27295.html](http://www.nuforc.org/webreports/reports/027/S27295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Compton (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights as many as three moving rapidly leaving a sparkle reflection.If you u see a triangle,imagine a red light at one of the ends blinking and going to each end of the triangle in slow motion, leaving a slowly fading sparkling red reflection.  in a silent dark sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132307.html](http://www.nuforc.org/webreports/reports/132/S132307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
