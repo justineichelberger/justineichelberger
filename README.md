@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Queen Charlotte Island (BC) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On a Alaska night flight from Seattle to Juneau AK. Midway in the flight my daughter ask me what was outside the window ,I look of in the distance and said it was a light.  My 16 year old daughter said NO and pointed to the wing area of the airplane and said that.  I was speech less and shock. I pull out my phone and took video while my daughter took pictures.  After 2-3 min I decided to tell flight attendants.  When the flight attendant arrived at my seat she looked out the window and yes something is out there. She later ask the pilot who said it could be a another airplane or a UFO.  I don't know if the pilot was joking.  We landed at the Juneau airport with no other sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159083.html](http://www.nuforc.org/webreports/reports/159/S159083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Eugene & Salem (between; on I-5) (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving North on I-5 between Eugene and Salem, Oregon I saw 2 large crafts emerge from clouds and fade into the horizonI was driving North from Eugene to Salem, Oregon on I-5.  It was a very gray day with large poufy clouds of various shades of gray scattered across the sky.  As I was watching the road ahead, something caught my eye and caused me to look up at the clouds ahead of me.  That is when I saw a huge craft emerge from a large cloud.  The craft was gray and seemed to reflect the clouds around it, almost as a camouflage. There seemed to be 4 large “bays” or “windows” vertically from top to bottom of the craft From my perspective, the craft was trapezoid shape with the top and bottom parallel and the leading edge tapered.  It was larger at the top and tapered down.  I did not see the trailing edge as a second craft emerged and obstructed the trailing end of the first craft.  The trailing end of the second craft remained obstructed by the cloud, I assume it looked similar to the tapered leading edge.  Both crafts hung in the sky for a few seconds then just seemed to fade away into the clouded horizon.  I heard no sound other than the sound of the highway, nor did I see any lights. I believe this occurred on January 25, 2019.  I left Eugene around 2:45pm and arrived at my destination in Salem about 4pm.  This occurred somewhere along the drive and the craft seemed to be miles ahead of me but that type of distance is difficult to judge, for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149453.html](http://www.nuforc.org/webreports/reports/149/S149453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
