@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:47 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle of lights in odd, very spread out formationWas walking our dog, looking up I saw a formation of 3 lights in a triangle formation in the distance, there was about a visual inch between the lights.  They were blinking, I thought they might be jets in the distance, but as I have thought about it for over 18 hours it may have been other-worldly.  They were in the north of the city traveling east along treetop level per my perspective.  The top light was ahead of the bottom one and the bottom one was ahead of the back one which formed an  obtuse triangle.  Being that far apart at that distance would make them several miles apart in the formation, which I think is strange for any jet formation, they were going about the speed of a commercial jet, not fast as if military and I did not hear a the jet engine.  There were no wild movements nor disappearances.  Also, as far as I could tell they blinked at pretty much the same interval.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132310.html](http://www.nuforc.org/webreports/reports/132/S132310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trabuco Canyon (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White Orbs 50-100 in front of Saddleback Mountain in Trabuco Canyon CAAt 3:30 p.m. pacific time I set out to walk the dog. There was a winter storm system coming through the area causing very strong winds. The sky to the east had dark clouds. The sky to the west was clear and sunny. I was looking to the east to the top of the Saddleback Mountain ridge. In front of the dark clouds were these white orbs. At first I thought I was looking at a flock of sea gulls but then I realized they were too big to be birds because I was far away from the top of the mountain. Also I realized they weren’t really flying in a flock type of formation. They were kind of circling or swirling. They were definitely separated from one another and moving in synch with one another but they weren’t going horizontal. There were anywhere from 50 to 100 I think. I stood for a few more seconds trying to register what I was witnessing. I started to walk down the street toward the mountain hoping to get a better look and maybe film it. After another second or t! wo some started to disappear and re-appear. They kind of flickered in an out but not quickly. It was a slow flicker. Then almost all of them disappeared at once. Three to five were left and they formed a V shape for a second or two and then disappeared together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161775.html](http://www.nuforc.org/webreports/reports/161/S161775.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
