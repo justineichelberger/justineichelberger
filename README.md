@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kintnersville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I took my dog out, and up in the sky in one direction was a &quot; Christmas tree like image with many colors, red , white and green stI took my dog out, and up in the sky in one direction was a " Christmas tree like image with many colors, red , white and green stood out the most, but also dark blue, it was flying to the right slowly, as crazy as it sounds it looked like an upright Christmas tree flying, saw another to the left flying in the opposite direction, Crazy but true and of a good size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144666.html](http://www.nuforc.org/webreports/reports/144/S144666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireballs seen over Vancouver Island.I was out on my south facing deck, having a cigarette. I looked up at Jupiter, only to see due east of jupiter, in the southwestern sky, I watched something that could have been a rocket firetrail heading in a a southwest direction away from Victoria. I called out my room mates boyfriend to see waht I was looking at. We both watched two smaller fireballs flash brightly then both fell, one on each side of the craft. To me it looked like when the space shuttle takes off and then drops its solid fuel boosters. The third trail of fire just kept going and faded off into the night sky. I figuree it was some form of rocket, but is was after midnight, and odd time to do any missile testing, and what kind of military craft drops two rockets off, and where could this have taken off from...???  DO you know...have any other people that saw the same thing? idf you could shed a little light on what I may have seen, please let me know. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41627.html](http://www.nuforc.org/webreports/reports/041/S41627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
