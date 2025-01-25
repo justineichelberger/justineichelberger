@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rosedale (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Odd sounds and unknown object sighted from tree stand while deer huntingOn Jan. 25, 2018, Location 2 miles north of Rosedale, MS, on hwy 1.  Hunting season was open, I parked my truck on west side of hwy 1 an hour before daylight.  I walked to my stand which is 15 ft tall.  climbed to the stand and sat there for 30 to 35 minutes.  At this time I was hearing branches breaking and shuffling in the leaves but was unable to see what was in front of me.   But 15 minutes before sunrise something flew no more than 15 feet above my head, it had no noise whatsoever but I knew it was there.  Right at sunrise I saw it.  A triangle shaped ship unlike I’ve ever seen.  The size of it comparing it to the moon would fit just inside the moon radius.  Then I realized that it had landed and the sounds that I heard around me could have been something else but deer.  As if they or it was checking me out before sunrise.  I walked thru the woods to investigate what I had heard in the woods and found no sign of deer tracks in the vicinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138636.html](http://www.nuforc.org/webreports/reports/138/S138636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161763.html](http://www.nuforc.org/webreports/reports/161/S161763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
