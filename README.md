@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver objects falls in orlando sky 1/25/13My friend and i were sitting outside by his pool when he asked me did i see that thing falling.  It took me a second but i saw something silver that was in a controlled fall.   I could tell it was "flipping" as it fell because it would reflect light like it was twinkling.  It didn't fall at a normal rate but looked very controlled almost like it was floating down.  My friend and i watched it for about 5 minutes until it disappeared behind the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96129.html](http://www.nuforc.org/webreports/reports/096/S96129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kintnersville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I took my dog out, and up in the sky in one direction was a &quot; Christmas tree like image with many colors, red , white and green stI took my dog out, and up in the sky in one direction was a " Christmas tree like image with many colors, red , white and green stood out the most, but also dark blue, it was flying to the right slowly, as crazy as it sounds it looked like an upright Christmas tree flying, saw another to the left flying in the opposite direction, Crazy but true and of a good size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144666.html](http://www.nuforc.org/webreports/reports/144/S144666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
