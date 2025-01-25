@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161763.html](http://www.nuforc.org/webreports/reports/161/S161763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Yankton (SD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>large metal structure suspended in the air and fleet of aircraft around it and interacting with it, and beaming light to the ground.We were traveling west on highway 46 from Beresford, SD and witnessed a large solid structure suspended in the sky.  Upon driving closer to it, there appeared to be some sort of tether attached to another body, or as if it were a bridge between two ships.  Some sort of aircraft seemed to be going between the two bodies, back and forth as well as around th structure. the lights coming from this aircraft shone on the flat surface of the structure and around it.  It appeared to be somewhere in the sky south east of  the intersection of highway 46 and  highway 81.  The aircraft traveling between the massive metal structures also interacted with the ground, hovering probably 100 ft and beaming light to the ground. the structure that appeared  to be tethered to the large metal structure was cloaked in a dark cloud, but lights traveled between them.  What was unclear was its intention: it hovered above the sky as the small aircraft traveled around it and possibly was transmitting data, delivering something, who knows.  We also witnessed "nothern lights" while this was occuring in the south sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96092.html](http://www.nuforc.org/webreports/reports/096/S96092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
