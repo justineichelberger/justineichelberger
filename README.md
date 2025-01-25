@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Avondale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>seven or eight white and red lights wink out starting at outer edges till it was gone.While walking dogs, heading south I saw seven or eight lights in a row, some were red, but mostly white. They winked out 2 at a time starting at the outer edges till there was one left and then it winked out. The width of the lights looked like it was atleast twice as wide as an airplane. It was headed south toward Estrella Mountains. I see airplanes constantly flying in this area and know that couldn't have been a plane.It was amazing. The altitude appeared lower than the usual planes flying by. I saw this just over the roof of the houses 1/16th of a mile south of me. Object looked like it was about two miles away possibly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21552.html](http://www.nuforc.org/webreports/reports/021/S21552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft above field outside NYC, black torpedo glowing lights, flashed then disapeared.My friend and I were driving just outside the city, on our way to New Jersey. It was already dark. All of a sudden, a craft moved across a field, above the tree leve. It was shaped like an elongated torpedo. My friend, who's brother is in the air force, said he thought it might be a fighter plane, but when the object turned and we saw it in profile we realised it was no plane. It was a bluish black, very dark, and not all that far away from us. About as far as you see a plane thats comming in to land, in fact. Of course, we were shaken. The object made a whirring noise, like that of a chopper but not as mechanical. A purr, almost. The object had greyish lights where you may see cockpit windows on a regular plane. Also, they wern't so much eminating light as just glowing. There lights lit up, and then the craft disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41652.html](http://www.nuforc.org/webreports/reports/041/S41652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
