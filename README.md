@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 25 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dover (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dropping lights catch the eye.My wife and two boys, one 7 yrs and one 8 months, and I, were on our way to mother-in-laws house for the wife's Birthday party.  Long and winding roads, through alot of hilly areas.  I took notice of it first, at first it looked like a radio tower with one light at the top, white light with a slight out of focus haze.  And also another light just above and to the left, wasn't sure if I thought it was a star or what.  Then as I looked at it right before my eyes a light of the same size and shape dropped out of the bottom of it, went straight down, and we started on a patch of road that led us by some leafless trees, but we 3 all seen it.  My wife I believe only seen one drop, because of driving and watching the road, but I kept turning and watching.  I seen three lights drop in a vertical strait line, then the light that was above and to the left seemed to move strait about what I origanally thought was a tower light.  They started getting close to each other, the lower one did not seem to drop in height but the one above did.  Then we went around a corner and came back around again after passing a few trees and the lights had vanished.  I never seen the ligts hit the ground or what exactly happened to them that dropped.  It was a creepy feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21557.html](http://www.nuforc.org/webreports/reports/021/S21557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I have a UFO picture in my camera.Saturday, January 26, 2013. I was taking pictures to the full moon late in the afternoon today after the Gasparilla parade at Ballast Point Park near the bay of Tampa, Fl.  It was about 7:15 pm. The first picture I took I felt like an excessive flashing like.  It showed a disc shape object over the sea in the bay.  I shoot my camera twice more but it was nothing. I saw nothing with my eyes but the image was in my camera.  The disc looks like a coin with relief details in the surface. It is clear without the zoom. It was big taking the moon as referenced in the picture, but I cannot tell about the size.  It looks silver and bright in the image.  I was shock after I realized what it was in my camera.  A was with a friend of mine who saw my reaction.  The sky was clear and there was no noises.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96107.html](http://www.nuforc.org/webreports/reports/096/S96107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
