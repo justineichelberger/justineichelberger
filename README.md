@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object seem to be a unusually bright light, what I thought might be the north star.  Light was almost 3 times as bright.  Observing it for a few hours, it noticiably had a slow decend to it before it was no longer visible.  There were also other verified military aircraft or what seemed to be flying within it vicinity thoughout what seemed to be a decending craft or light of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132324.html](http://www.nuforc.org/webreports/reports/132/S132324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kenner (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately night sky - night sky minutes.</sub><blockquote><sub>bright light in the sky with green and red lights next to it.  Rotating clockwise in one spot. like it hovering in one location.  the green and red light next to it.  wasn't there 10 min and now it there.((NUFORC Note:  Possible sighting of Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132317.html](http://www.nuforc.org/webreports/reports/132/S132317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
