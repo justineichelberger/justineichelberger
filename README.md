@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball Frequesntly Seen In Antioch CAThe instances of this fireball are becoming frequent in our area. My fiance and I have witnessed this fireball about 5 to 7 times now. I have filed a report on here once already for an event on 01/18/02. The same type of fireball object travelling across the sky, this time from east to west. Tonights siting, the object was moving extremely fast. I estimate about 500 NMPH. Altitude is too hard to determine at night. Also this siting tonight was not dropping sparks as the other sitings have done. This is driving us crazy trying to figure out what it is. But, since it is un-identified by us, we consider it a UFO.((FOLLOW-UP MESSAGE FROM WITNESS))Peter,Thanks for responding. My Fiancé and I saw this again tonight and we think we have determined it to be a type of flare. Tonight when we saw it, it seemed to fizzle out and we could see an object floating down thanks to the moon light we have tonight. I guess our only real mystery is who is sending a flare up on a regular basis. Thanks again and if we ever do encounter anything that can not be explained, we will be sure to let you know, not to mention check your website now and then for some interesting sightings.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21556.html](http://www.nuforc.org/webreports/reports/021/S21556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Took place in under a second, drone-like, traveling potentially 100-300 mph, extremely bright, covered in lights.Event took place in under 1 second.  I was the only witness.  Can't confirm this was a UFO, but not sure what else it could be.  The best explanation I can describe is this: Walking down a street on Cal Poly State University, took a right into a courtyard/grassy area between the Math/Science buildings, and almost immediately I saw what looked like a large drone (although couldn't tell what size or how far away it was), completely covered in bright, LED-like lights traveling at an insane speed (maybe 100-300 mph?), and within split seconds it vanished/faded away.  I had no drugs in my system, had sufficient sleep the night before, and I cannot imagine this was simply a hallucination.  I can't imagine this is simply a drone because what would explain the insane speed, vanishing, and no one else in sight?  It was 6:35 PM and completely dark outside.  The only other thing I could think of was maybe I looked at a streetlight for too long and it took a second for ! my eyes to adjust to the dark again, but I tried experimenting with this after the fact without any success.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161774.html](http://www.nuforc.org/webreports/reports/161/S161774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
