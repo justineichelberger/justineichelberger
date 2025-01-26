@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Branford (CT) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>shiny object in the skyI was driving home and noticed a very shiny, reflective, round object in the sky...it caught my attention so I made sure to keep my eyes on it since it didn't appear to be a plane. It seemed to stay in one place, hovering, then it began a rapid decent at an angle. Once it reached the midpoint of the horizon, it disappeared. I thought about calling the news papers in case there was a crash somewhere, but I'm not sure if it would do any good. **i can be contacted if necessary via email only</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16053.html](http://www.nuforc.org/webreports/reports/016/S16053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rowlett (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>burnt-orange, amber colored luminescent object traveling at high rate of speed makes instant 90 degree turnAt about 8:10PM last Friday night, as I was standing outside talking with my cousin on a  beatiful, moonless, crystal-clear night, I just happened to look up and notice an unusual object traveling through the sky.  At first sight, I thought maybe it was an airplane but upon further examination it clearly wasn't an airplane.  I think my first words where "what kind of airplane is that?" or "what the heck is that?" as I pointed the object out to my cousin. The object appeared burnt-orange or amber in color.  There were no distinguisable lights or strobes on this object as you would see on an airplane or helicopter.  The whole object appeared to be dimly illuminated and slightly shimmering or hazy.  Although the object seemed fairly close, the manner in which this object was illumination made it very difficult to determine exactly what shape it was.  I would have to identify it as triangular shaped and it appeared to have a flat bottom surface. When we first saw the object it was just slightly in front of us and traveling away from us in an east, northeast direction.  At one point, as the object was moving away, i thought the back of the object seemed to have the shape of a boomerang with the ends pointing down.  The object was traveling in a very smooth, fluid-like motion and was completely silent.  It was also traveling deceptively fast too.  Upon first sight the object was roughly the size of the finger nail on my pinky finger held at arms length but in about 5 seconds it had traveled far enough to appear as a mere point of light.  As we were both watching this thing in disbelief and trying to figure out what it was it instantly shifted directions and was heading north for about 1 second the shifted directions again and was heading east for about 1 more second until it vanished from sight.  I have never seen any plane or helicopter on television or in real life that could change directions so rapidly.  We were both completely awestruck by what we witnessed that night and I have been thinking about it o! n a dail y basis ever since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16123.html](http://www.nuforc.org/webreports/reports/016/S16123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
