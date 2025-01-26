@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yorba Linda (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball falling to earth, stops mid fall, hovers and then engages in horizontal movement, disappearing and then reappearing.My husband and I were driving west bound on Alta Vista Rd. in Yorba Linda at about 6:00pm PST. In the sky ahead was a bright, glowing light falling toward earth with a bright tail of light/fire. First we thought that it was a falling star, but both of us realized quickly it was far too large and too close to the earth for that.  We said to each other, "its going to crash into the earth". Then it stopped falling and hovered.  The tail of light extinguished and the main ball of light remained very bright. It faded in and out and then traveled horizontally very quickly. It would dissappear and then suddenly reapper a few miles to the side.  And then dissappear and reappear back in the original place.  Another glowing light seemed to be circling around it in a wide pattern. Both very bright lights, brighter than airplane headlights. Farther away from these two was another light.  It was blue and very small. It seemed to be circling these in a very wide pattern and we thought it to be airplane watching the phenomenon. But, soon afterward thought it too was related to the UFO.  We didn't pull over and kept driving toward them, but, they got lower to the horizon and we lost sight of them behind trees as the road we were on dipped. When we got back to an unobstructed spot, the lights were gone. The event lasted about 5-10 minutes. Despite the highly visible, quite spectacular display in the night sky, not one report of it could be found on news stations or in the OC Register. We ourselves called into FOX and left a voice mail about the sighting.  No one ever called us back.  In discussing it's location, we estimate that it was approximately 50 miles away whichi would make it over LA County even though we were seeing it from Orange County. There was! a storm coming in that night and the glowing orbs seemed to be near the edge of the cloud bank that could be seen far off toward western horizon toward downtown L.A.We originally logged this on another UFO reporting website, HBCC Run by Brian Vike, on 1/26/08.  We saw that many others also logged this same sighting on that website as well.  Background on us:  I am a licensed psychologist and have my own practice and my husband is a vice president in a computer voice over IP company.  We are both in our mid forties.  Our 5 year old son was in the back seat of our truck with us at the time.  I don't know if this sighting changed anyone else's lives that witnessed it, but it sure changed mine for the better.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79288.html](http://www.nuforc.org/webreports/reports/079/S79288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hickory (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object seem to be a unusually bright light, what I thought might be the north star.  Light was almost 3 times as bright.  Observing it for a few hours, it noticiably had a slow decend to it before it was no longer visible.  There were also other verified military aircraft or what seemed to be flying within it vicinity thoughout what seemed to be a decending craft or light of some sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132324.html](http://www.nuforc.org/webreports/reports/132/S132324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
