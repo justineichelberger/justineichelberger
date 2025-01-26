@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hamilton (New Zealand) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO sighted South Waikato area New Zealand by twelve independent reports to Auckland Observatory at same timeWas first sighted whist travelling in car seemed to be following vehicle drove off main road to farm road and got out of car still visible about 250feet in the air . UFO lights 12off were spinning orbitally in both directions. Two male passengers of car shouted beam us up, girl passenger was a bit scared decided to drive off . UFO followwed till back on main road then shot off. Sighting was verified after enquiry with Auckland NZ observatory that eleven other sightings had been lodged the same evening in the same area. No sound from UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16097.html](http://www.nuforc.org/webreports/reports/016/S16097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fireball Frequesntly Seen In Antioch CAThe instances of this fireball are becoming frequent in our area. My fiance and I have witnessed this fireball about 5 to 7 times now. I have filed a report on here once already for an event on 01/18/02. The same type of fireball object travelling across the sky, this time from east to west. Tonights siting, the object was moving extremely fast. I estimate about 500 NMPH. Altitude is too hard to determine at night. Also this siting tonight was not dropping sparks as the other sitings have done. This is driving us crazy trying to figure out what it is. But, since it is un-identified by us, we consider it a UFO.((FOLLOW-UP MESSAGE FROM WITNESS))Peter,Thanks for responding. My Fiancé and I saw this again tonight and we think we have determined it to be a type of flare. Tonight when we saw it, it seemed to fizzle out and we could see an object floating down thanks to the moon light we have tonight. I guess our only real mystery is who is sending a flare up on a regular basis. Thanks again and if we ever do encounter anything that can not be explained, we will be sure to let you know, not to mention check your website now and then for some interesting sightings.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21556.html](http://www.nuforc.org/webreports/reports/021/S21556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
