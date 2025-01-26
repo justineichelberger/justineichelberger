@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:30 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I have a UFO picture in my camera.Saturday, January 26, 2013. I was taking pictures to the full moon late in the afternoon today after the Gasparilla parade at Ballast Point Park near the bay of Tampa, Fl.  It was about 7:15 pm. The first picture I took I felt like an excessive flashing like.  It showed a disc shape object over the sea in the bay.  I shoot my camera twice more but it was nothing. I saw nothing with my eyes but the image was in my camera.  The disc looks like a coin with relief details in the surface. It is clear without the zoom. It was big taking the moon as referenced in the picture, but I cannot tell about the size.  It looks silver and bright in the image.  I was shock after I realized what it was in my camera.  A was with a friend of mine who saw my reaction.  The sky was clear and there was no noises.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96107.html](http://www.nuforc.org/webreports/reports/096/S96107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marysville (WA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange metallic aircraft that distorted photos near Marysville.The aircraft was an orange, metallic, oval shaped cone.  It was hovering near Marysville, and heading toward a mountain.  During the experience the aircraft shined brightly and was now white and harder to see.  It was not in the shape of a plane.  It wasn't a plane because it was hovering and slightly angled itself to go lower than went straight again.  I will still send pictures but I couldn't see the aircraft in the photo and the photos were distorted in some ways.  I was in the car ask it could be a car reflection but I will send it anyways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116982.html](http://www.nuforc.org/webreports/reports/116/S116982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
