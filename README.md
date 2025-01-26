@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Took place in under a second, drone-like, traveling potentially 100-300 mph, extremely bright, covered in lights.Event took place in under 1 second.  I was the only witness.  Can't confirm this was a UFO, but not sure what else it could be.  The best explanation I can describe is this: Walking down a street on Cal Poly State University, took a right into a courtyard/grassy area between the Math/Science buildings, and almost immediately I saw what looked like a large drone (although couldn't tell what size or how far away it was), completely covered in bright, LED-like lights traveling at an insane speed (maybe 100-300 mph?), and within split seconds it vanished/faded away.  I had no drugs in my system, had sufficient sleep the night before, and I cannot imagine this was simply a hallucination.  I can't imagine this is simply a drone because what would explain the insane speed, vanishing, and no one else in sight?  It was 6:35 PM and completely dark outside.  The only other thing I could think of was maybe I looked at a streetlight for too long and it took a second for ! my eyes to adjust to the dark again, but I tried experimenting with this after the fact without any success.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161774.html](http://www.nuforc.org/webreports/reports/161/S161774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kenai (AK) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright Red and Orange Egg shaped crafts flying about 500 feet, 6 in a row, no sound whatsoever,  lights were not blinking, 20 below outside, very odd, the they took off at high rate of speed after moving very slowly, about 2 minutes later, there were 2 more, couldn't believe what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152897.html](http://www.nuforc.org/webreports/reports/152/S152897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
