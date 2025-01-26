@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>White discs converging into one and changing shapes, disappearing, then reappearing separated.A co-worker and I were sitting in my car at lunch (12:30 PM EST).  Off to the southeastern part of sky, we notice bright white dots or discs.  Converging together.  Separating, then disappearing.  It look like a white webbing that constantly changed shape.((NUFORC Note:  Witness has forwarded a high-qality video, which indicates a white "clump," moving across a clear blue sky.  We will post the video, at a later date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132312.html](http://www.nuforc.org/webreports/reports/132/S132312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hamilton (New Zealand) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO sighted South Waikato area New Zealand by twelve independent reports to Auckland Observatory at same timeWas first sighted whist travelling in car seemed to be following vehicle drove off main road to farm road and got out of car still visible about 250feet in the air . UFO lights 12off were spinning orbitally in both directions. Two male passengers of car shouted beam us up, girl passenger was a bit scared decided to drive off . UFO followwed till back on main road then shot off. Sighting was verified after enquiry with Auckland NZ observatory that eleven other sightings had been lodged the same evening in the same area. No sound from UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16097.html](http://www.nuforc.org/webreports/reports/016/S16097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
