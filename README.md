@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Basking Ridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On January 27, 2015, at 6:50 PM, I was driving west on Spring Valley Blvd. in Basking Ridge, NJ, in the direction of my home.  Just under the low cloud cover, I observed a very large, black triangular object with flashing red, white and blue lights.  It was moving at a very high speed and was not making the sounds that a low flying airplane would.  I kept losing it among tall trees and houses, but I did follow it long enough (and saw it enough times) to see it make a sharp turn downward and to the left, all the while its lights flashing brightly and appearing to alternate in color from red to white to blue.I parked in front of my house and ran from my car just as the craft disappeared from view above and behind the trees of the Bonnie Brae School.  The area was completely silent and there were no other witnesses.  I looked for the craft to reappear and sadly was not able to get any photos of it.  Due to the shape, the changing color of the rapidly flashing lights and the silent, sharp turns it took, I was completely sure that what I saw was not an airplane.  I am wondering if any other Basking Ridge area residents saw what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117002.html](http://www.nuforc.org/webreports/reports/117/S117002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue U.F.O. over American Fork Utah.My friend and I were just exiting a restaurant when we looked up to see a disk shape object with blue lights on it.  The blue lights went in a circle and then formed a cross through the center of the object.  At three of the edges of the cross were red blinking lights and on the fourth edge an orange blinking light.   My friend and I promptly checked our watches when we realized it was a U.F.O. to determine if we were to experience "missing time".  Unfortunately this phenom did not occur. We stood and watched the craft head south.  There were several people in the same parking lot watching as well.  No one had any idea what it was.   After a few minutes we hopped in our car and on the way home I called Peter Davenport and reported the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86883.html](http://www.nuforc.org/webreports/reports/086/S86883.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
