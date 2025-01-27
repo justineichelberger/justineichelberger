@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Scary Situation Over The Hudson.Large triangle shaped U.F.O.hung over the Hudson River For about two minutes.It seemed to be searching for something,because there was a light-blue beam coming from the middle of it.When I went to pull out my camera,it slowly lowered itself into the water.Many people saw this object besides me.((NUFORC Note:  Witness describes self as "medical student."  We will request reports from other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34706.html](http://www.nuforc.org/webreports/reports/034/S34706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palm City () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>round metallic object in daylightI was sitting outside my house facing south, I looked up into the blue sky and saw a round metallic object.  I quickly grabbed my phone to try and get a picture but when I looked back up I couldn't see it anymore so I just aimed at the sky and started clicking then looked to see if I got anything.Well I did in the bottom left corner of 1 of the pictures hopefully I'll be able to send it to you.((NUFORC Note:  We have looked at the photo, and all we see in the photo is a tiny, blurry, "smudge," located in the lower left hand part of the photo.  This is not enough information for anyone to be able to conclude that the object is a "bona fide" alien space craft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116996.html](http://www.nuforc.org/webreports/reports/116/S116996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
