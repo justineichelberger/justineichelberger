@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Las Cruces (on Interstate 10,west of) (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Driving west on I-10 in N.M. we watched a HUGE object hover without moving for about 2 hours.Driving west on I-10 through NewMexico 2 friends and I watched a VERY HUGE black frisbee shaped object hovering in one place for about 2 hours. I estimated the object to be about twice as big as Tampa Stadium. We pulled over and got out to see if we could tell if it was moving,because we were doing 85 across the desert and it was hard to judge it while we were moving.  We stood there for about a half hour looking,pointing and basically freaking out on the fact that we were seeing something that was very obviously way too huge to be man-made. It was a couple thousand feet up in the air and a few miles from us to the south. We saw other cars pull over and other people were standing on the roadside watching it to. We got back on the road and we watched it until dark. We first saw it between 4pm & 5pm. We basically drove INTO and OUT OF sight of the object. We watched it for THAT LONG!!!! While we were getting further into dusk, almost dark, we saw tiny lights in random patterns begin to blink. The lights were not bright at all, but they were visible after it was dark. I was on my way to a trade show in L.A.,coming from florida. The date was tuesday,Jan.27th 1998. I am giving this report on monday,Aug.17th 1998,because I have looked in all of the UFO sighting report sites on the net and I have not found one single report of this event that I and at least 8 other people witnessed. We even saw a plane flying in the area. Are there any other people who saw this too????????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04384.html](http://www.nuforc.org/webreports/reports/004/S04384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Basking Ridge (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On January 27, 2015, at 6:50 PM, I was driving west on Spring Valley Blvd. in Basking Ridge, NJ, in the direction of my home.  Just under the low cloud cover, I observed a very large, black triangular object with flashing red, white and blue lights.  It was moving at a very high speed and was not making the sounds that a low flying airplane would.  I kept losing it among tall trees and houses, but I did follow it long enough (and saw it enough times) to see it make a sharp turn downward and to the left, all the while its lights flashing brightly and appearing to alternate in color from red to white to blue.I parked in front of my house and ran from my car just as the craft disappeared from view above and behind the trees of the Bonnie Brae School.  The area was completely silent and there were no other witnesses.  I looked for the craft to reappear and sadly was not able to get any photos of it.  Due to the shape, the changing color of the rapidly flashing lights and the silent, sharp turns it took, I was completely sure that what I saw was not an airplane.  I am wondering if any other Basking Ridge area residents saw what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117002.html](http://www.nuforc.org/webreports/reports/117/S117002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
