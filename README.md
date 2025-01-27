@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 26 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Summit (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 large bright orange lightsI was going home from work and it was a clear night.  It was then I noticed a single orange light that was twinkling like a star.  This light at first looked like maybe Mars in the low horizon, but it was to large for that. I continued to drive looking at the light for about 3 mins.  I passed a group of trees which blocked my view for about 3 secs. and the single orange point of light was no longer at the horizon, instead it was nearly above me but this time it was 2 seperate bright orange lights.  It was moving very fast from due south to north.  I stop my truck and rolled the window down.  There was no sound coming from it. There were no other lights on it except for the 2 bright lights which continued past me until it went past a large group of trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54966.html](http://www.nuforc.org/webreports/reports/054/S54966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Richibucto (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>low hovering ufo in richibucto, new brunswick, canadaOn january 27, as me and my friend were walking downtown we noticed an orange-ish coloured metallic craft in the sky, it seemed to be quite low for any aircraft, probably around 150-200 feet up.The craft was some sort of orange colour and it had a almost oval shaped cockpit dome that seemed to be very dark, almost as if it was tinted.When we first saw the ufo it was somewheres around the wharf and stayed motionless for the whole sighting until we walked by a store and lost sight of it for about 20 seconds.  Once past the store the ufo was nowheres to be seen, the sky was completely clear and we never heard a sound from the craft whatsoever.Ive have spent alot of time around aircrafts in my life, and still ive never seen anything like this, its impossible that it was some sort if glider because whatever was in the sky was motionless and there is not any propelled aircraft that does not make any sound. so if you guys could take a look at this case you might make a finding because this area is quite active with ufo sightings, usually during the afternoons.I didnt get the chance to take any pictures, but im not making up stories, this is the real deal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86868.html](http://www.nuforc.org/webreports/reports/086/S86868.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
