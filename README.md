@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:25 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tazewell (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A light shot across the sky heading north, it was the fastest thing I ever saw.A light Shot across the sky heading north the fastest thing I ever saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61258.html](http://www.nuforc.org/webreports/reports/061/S61258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Las Cruces (on Interstate 10,west of) (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Driving west on I-10 in N.M. we watched a HUGE object hover without moving for about 2 hours.Driving west on I-10 through NewMexico 2 friends and I watched a VERY HUGE black frisbee shaped object hovering in one place for about 2 hours. I estimated the object to be about twice as big as Tampa Stadium. We pulled over and got out to see if we could tell if it was moving,because we were doing 85 across the desert and it was hard to judge it while we were moving.  We stood there for about a half hour looking,pointing and basically freaking out on the fact that we were seeing something that was very obviously way too huge to be man-made. It was a couple thousand feet up in the air and a few miles from us to the south. We saw other cars pull over and other people were standing on the roadside watching it to. We got back on the road and we watched it until dark. We first saw it between 4pm & 5pm. We basically drove INTO and OUT OF sight of the object. We watched it for THAT LONG!!!! While we were getting further into dusk, almost dark, we saw tiny lights in random patterns begin to blink. The lights were not bright at all, but they were visible after it was dark. I was on my way to a trade show in L.A.,coming from florida. The date was tuesday,Jan.27th 1998. I am giving this report on monday,Aug.17th 1998,because I have looked in all of the UFO sighting report sites on the net and I have not found one single report of this event that I and at least 8 other people witnessed. We even saw a plane flying in the area. Are there any other people who saw this too????????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04384.html](http://www.nuforc.org/webreports/reports/004/S04384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
