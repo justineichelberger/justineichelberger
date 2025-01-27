@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>According to the speed and the trace ther moved, they should not be airplane.Two light high in the sky, from North east flying to the south west direction, one is white, one is orange like color. Speed much much fast than airplane, white light go straight, orange one zigzag like chasing the white light and closing up to the white light. No sound in this early morning can be heard. So fast and so dark, don't have a change to take picture or video.((NUFORC Note:  Witness does not indicate a correct date for the incident.  We have assigned an arbitrary date above, based on the limited information provided by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49020.html](http://www.nuforc.org/webreports/reports/049/S49020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 bright red lights ascending form horizon in the western sky.I was moving some things outside when I looked to the western sky and noticed 3 bright red lights ascending into the sky from the horizon when the lead light went out about 80* overhead. Followed by the remaining 2 going out at lower heights.  Then a few seconds later 2 more rose from the horizon to blink out a little lower down, followed by a 6th light that blinked out a little closer to the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125488.html](http://www.nuforc.org/webreports/reports/125/S125488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
