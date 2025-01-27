@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brighton (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Foreign lights in the skyAround 11:05 PM on 1/27/2007, we spotted a bright light. We figured it was just a satellite, but as we researched what satellites looked like, we quickly they didn’t have red, blue and green lights flickering in them. We tracked for about four hours and it was moving relatively fast across the sky. The first time we saw, it was straight ahead and upwards out of a window, and by the time we looked at it for one last time, we had to go half way down our driveway to the right. That was when we saw two more lights, exactly the same as the first, in a triangle formation. All of these lights were four times bigger than the stars around them and much brighter. The last time we looked at it was at 3:30 AM on 1/28/2007.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  We suspectthat the witnesses were not viewing UFO's.  Possible celestial bodies.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54989.html](http://www.nuforc.org/webreports/reports/054/S54989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright ball coming from large star.On January 27, 2016, at around 6:00p.m., my brother-in-law called me and told me to look toward the East for a bright star that was twinkling a lot.  I walked outside, looked to the East and saw a large, bright star changing from white to blue to red.  My brother-in-law said he thought he saw what were spotlights coming off of it for a brief moment.  Then I saw a bright ball, smaller than the star, shoot away from it, change directions and then the bright ball was gone.  I kept going outside all night to look at it and never saw anything else coming from the “star.”((NUFORC Note:  We suspect the object may have been a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125487.html](http://www.nuforc.org/webreports/reports/125/S125487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
