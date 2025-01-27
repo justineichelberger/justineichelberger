@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Four pairs of orbs went W-E in 6 mins then turned SE.  Cell phone images or video.  Story appeared in local paper and on TV.  Jet described as military was taking same path but local radar showed only a commercial jet at 37,000'.  These objects traveled 15 mi in 6 mins in 4 prs, so this would be very fast, too fast for jackolanterns which would take 15-20 for each pair.  Was investigated by colleague for the MADAR Center at Newburgh.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139462.html](http://www.nuforc.org/webreports/reports/139/S139462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Scary Situation Over The Hudson.Large triangle shaped U.F.O.hung over the Hudson River For about two minutes.It seemed to be searching for something,because there was a light-blue beam coming from the middle of it.When I went to pull out my camera,it slowly lowered itself into the water.Many people saw this object besides me.((NUFORC Note:  Witness describes self as "medical student."  We will request reports from other witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34706.html](http://www.nuforc.org/webreports/reports/034/S34706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
