@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palm City () reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>round metallic object in daylightI was sitting outside my house facing south, I looked up into the blue sky and saw a round metallic object.  I quickly grabbed my phone to try and get a picture but when I looked back up I couldn't see it anymore so I just aimed at the sky and started clicking then looked to see if I got anything.Well I did in the bottom left corner of 1 of the pictures hopefully I'll be able to send it to you.((NUFORC Note:  We have looked at the photo, and all we see in the photo is a tiny, blurry, "smudge," located in the lower left hand part of the photo.  This is not enough information for anyone to be able to conclude that the object is a "bona fide" alien space craft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116996.html](http://www.nuforc.org/webreports/reports/116/S116996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brighton (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Foreign lights in the skyAround 11:05 PM on 1/27/2007, we spotted a bright light. We figured it was just a satellite, but as we researched what satellites looked like, we quickly they didn’t have red, blue and green lights flickering in them. We tracked for about four hours and it was moving relatively fast across the sky. The first time we saw, it was straight ahead and upwards out of a window, and by the time we looked at it for one last time, we had to go half way down our driveway to the right. That was when we saw two more lights, exactly the same as the first, in a triangle formation. All of these lights were four times bigger than the stars around them and much brighter. The last time we looked at it was at 3:30 AM on 1/28/2007.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  We suspectthat the witnesses were not viewing UFO's.  Possible celestial bodies.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54989.html](http://www.nuforc.org/webreports/reports/054/S54989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
