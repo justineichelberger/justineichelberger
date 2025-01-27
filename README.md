@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:23 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Richibucto (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>low hovering ufo in richibucto, new brunswick, canadaOn january 27, as me and my friend were walking downtown we noticed an orange-ish coloured metallic craft in the sky, it seemed to be quite low for any aircraft, probably around 150-200 feet up.The craft was some sort of orange colour and it had a almost oval shaped cockpit dome that seemed to be very dark, almost as if it was tinted.When we first saw the ufo it was somewheres around the wharf and stayed motionless for the whole sighting until we walked by a store and lost sight of it for about 20 seconds.  Once past the store the ufo was nowheres to be seen, the sky was completely clear and we never heard a sound from the craft whatsoever.Ive have spent alot of time around aircrafts in my life, and still ive never seen anything like this, its impossible that it was some sort if glider because whatever was in the sky was motionless and there is not any propelled aircraft that does not make any sound. so if you guys could take a look at this case you might make a finding because this area is quite active with ufo sightings, usually during the afternoons.I didnt get the chance to take any pictures, but im not making up stories, this is the real deal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86868.html](http://www.nuforc.org/webreports/reports/086/S86868.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Athens (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>oval shaped, bright lights, brighter then street lights, disappeared as fast as appeared.I went outside to smoke before I went to bed.  I sat down in my chair and was playing on my phone.  I then saw a weird light shining brighter then the street lights.  I looked up and there was oval shaped object about 30 or 40 ft.  Above my home, more so over the street then my home.  It was huge, maybe 60ft. in diameter.  It had lights around the edges of it and a larger, brighter light in the center of it.  It  stayed there for a few seconds and then was gone just as quick as it appeared.  When I came back inside, my lights were flickering and my TV was off completely and it was on when I went outside</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106698.html](http://www.nuforc.org/webreports/reports/106/S106698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
