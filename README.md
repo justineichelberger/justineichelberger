@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Leavenworth (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was an orange ball, circle type, it glowed somewhat. It seemed to be a circle with something above it that seemed to be either carrying it.I went outside to watch the stars as I talked on the phone to my friend. It was about 7:40pm. Janurary 27th of 2000. It was a clear evening, there were many stars out, no moon. I looked up and to my right I saw the object slowly moving towards me. It was a fire orange type of circle. I noticed that it had something attatched to it at the top. That part was not lit up. I could barely make it out. I told my friend, who lives across the highway from me to go outside and look up and see it. She went out and right away noticed it also.  We both watched it together while talking on the phone. It moved slowly for a few minutes and then it stopped. It stood still for about 2 minutes. At that time I noticed that it seemed to spark off a little and I thought I might have seen a red tail. My friend thought she saw that too. But it was only for a second, and then I thoguht I saw it again, just for a second. Then it started to fade out and move slowly towards the east. It almost disappeared to where I could barely make it out, but I strained hard to watch it. It lit up a little more and I watched it move across the sky very slowly. It seemed to move from side to side and it seemed to be moving down a little to where the mountain was. Then I could not see it any longer. I then told my husband to go out and see if he could see anything and by then he could not, it was no longer in the sky or in eye site. I witnessed this object for about 10 minutes. I have seen this before on three other occassions. The first time I saw it was two years ago. Then on this new years eve, while I was outside watching the fireworks, I saw two of them. I was very afraid all of the times that I saw these. I am the type of person that is realistic, and down to earth but I know what I saw did not sit well with me. I was frightened. I don't think this was a man made thing at all. My instinct tells me that it was something very unusual. I really just would like to know what I saw. I don't know if it was a satelite or what.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11812.html](http://www.nuforc.org/webreports/reports/011/S11812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>According to the speed and the trace ther moved, they should not be airplane.Two light high in the sky, from North east flying to the south west direction, one is white, one is orange like color. Speed much much fast than airplane, white light go straight, orange one zigzag like chasing the white light and closing up to the white light. No sound in this early morning can be heard. So fast and so dark, don't have a change to take picture or video.((NUFORC Note:  Witness does not indicate a correct date for the incident.  We have assigned an arbitrary date above, based on the limited information provided by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49020.html](http://www.nuforc.org/webreports/reports/049/S49020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
