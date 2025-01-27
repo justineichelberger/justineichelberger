@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mumbai (India) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Unknown object clicked along with ISSI was clicking pictures of the ISS.  When I checked the pictures at home, there was this object below the ISS some distance away.Only in one picture (Number 320)  Can’t see it in others.Want to know what it is…..?????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125467.html](http://www.nuforc.org/webreports/reports/125/S125467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mexia (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>flaming ball of fireTuesday morning on a clear day I was on my way to work with my two girls to pick up my cousins little girl.  When we pulled up to the house we saw an orange round fireball, it was almost like it was on fire.  I then turned and asked my girls if they see what I see, they said "Yes."  So when my cousins little girl got into the car I asked her if she could see it, she said "Yes."   We thought for sure that a plane was on fire until we saw a military jet flying north turn and chase the object.  We followed them until they both vanished in the clouds.((NUFORC Note:  We wonder whether the witnesses might have been looking at a contrail behind a high-altitude airliner, which was being brightly illuminated by the rising sun.  Such events are reported to our Center on a frequent basis.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34804.html](http://www.nuforc.org/webreports/reports/034/S34804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
