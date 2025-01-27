@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mays Landing (NJ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Picked my 12 yrs old son up from friends, driving down dark road and both of us were startled by a chevron shaped yellowish light streaking in a 90 degree vertically down, which gave us the impression it went into the Atlantic Ocean just off coast.  I have NEVER seen a meteor this yellow and traveling in a straight down linear motion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132332.html](http://www.nuforc.org/webreports/reports/132/S132332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bald Knob (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Out on run at 7:45PM, looked up and saw 5-10 objects in the sky moving like a group of fireflies. A red cloud formed sighting.I was out on my nightly run, when reached the parking lot of the high school and stopped to take a breath, and noticed moving objects in the sky.  I only saw them for maybe 10 seconds and they were moving like fireflies, but you could tell that they were far away.   I believe that they were white or yellowish colored.  I think that there were anywhere from 5-10 of the possible UFO’s.  I do remember seeing a small reddish colored cloud just after I saw the objects disappeared.  I remember having a shrunken feeling when I saw them, but that might be irrelevant.  I don't know what direction i was facing but I was at the corner of Hendrix st. and N. Hickory st.Turns out a few of my other friends saw them too. One claimed to have called.((NUFORC Note:  We spoke with this witness, and she seemed to us to be serious-minded and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79855.html](http://www.nuforc.org/webreports/reports/079/S79855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
