@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Briarwood (Queens) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>shiny metallic red top in Briarwood,NY 5-10 min.While walking my dog in the local park at Briarwood, NY., I looked up at the sky to check on hawks that often fly in my area.  Just as I looked up, I saw this UFO which was circular and flying tilted.  I saw the top, which was a rich red, the body was metallic.  I saw it straighten itself, and since it was sunny, the reflection of the Sun on its body was well reflected on its body.I watch it fly over head for approximately ten minutes.  A hawk flew overhead at tree height and distracted me.  When I focused on the craft again, I saw it for a second, and it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61264.html](http://www.nuforc.org/webreports/reports/061/S61264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Bright star looking light moving erratically.  Small movements but quite noticeable.  Up down sideways zigzag.  Some movements bigger than others.  Verified by multiple neighbors asked to "come look the sky".Looking west from NE Columbia.  Started high in the sky within 15 min it has sunk much lower.  It is ongoing.  Moving to much to be a star, not enough for a helicopter.  However, the brightness can be compared to looking at a helicopter search light head on a few miles away.((NUFORC Note:  We suspect a sighting of a star, possibly Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116999.html](http://www.nuforc.org/webreports/reports/116/S116999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
