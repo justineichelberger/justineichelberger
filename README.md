@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue U.F.O. over American Fork Utah.My friend and I were just exiting a restaurant when we looked up to see a disk shape object with blue lights on it.  The blue lights went in a circle and then formed a cross through the center of the object.  At three of the edges of the cross were red blinking lights and on the fourth edge an orange blinking light.   My friend and I promptly checked our watches when we realized it was a U.F.O. to determine if we were to experience "missing time".  Unfortunately this phenom did not occur. We stood and watched the craft head south.  There were several people in the same parking lot watching as well.  No one had any idea what it was.   After a few minutes we hopped in our car and on the way home I called Peter Davenport and reported the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86883.html](http://www.nuforc.org/webreports/reports/086/S86883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Four pairs of orbs went W-E in 6 mins then turned SE.  Cell phone images or video.  Story appeared in local paper and on TV.  Jet described as military was taking same path but local radar showed only a commercial jet at 37,000'.  These objects traveled 15 mi in 6 mins in 4 prs, so this would be very fast, too fast for jackolanterns which would take 15-20 for each pair.  Was investigated by colleague for the MADAR Center at Newburgh.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139462.html](http://www.nuforc.org/webreports/reports/139/S139462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
