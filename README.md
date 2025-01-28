@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:16 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Livingston (AL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>shiny cigar object in sky in daylight, with airplane keeping paceI saw a cigar object clearly as it was daylight.  It was a shiny, silver or aluminum colored, object.  An airplane was a short distance away from it in the sky.  They were both going in a western direction.  The plane looked like it was keeping pace with the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61328.html](http://www.nuforc.org/webreports/reports/061/S61328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shippensburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four large white lights on bottom flew directly overhead.I do not know if what I saw was from somewhere other than earth or not, I only know it was unidentifiable by me.  I have searched everywhere and cannot find an explination for it.  My incident happened as follows:  I parked my car and got out to walk into work.  I immediately saw a very large, white static light coming out of the west.  Too large and bright for anything I had ever seen before.  I don't know how far away it was when I first saw it, but, I knew it was coming right at me.  I kept walking through the parking lot towards the door because I was a little scared.  As it got closer I could see a slow blinking green light on the left (if I would have been in the craft it would have been on the right) and slow blinking white light on the right.  It then went directly over my head.  There were four large static bright round white lights underneath.  They almost looked as though each of the lights were made up of two half round lights.  The lights were positioned like there would have been one in each corner of a rectangle.  I could not see the shape of the craft.  I was desperately trying to, but between the  bright lights from the craft and the light at the door I was standing at I couldn't see a shape.  Plus it was also completely cloudy that morning so there was no light above it.  There are large trees there, probably 60 to 70 feet tall.  I estimate the craft to have been 700  to 800 feet up.  It was not flying high.  What freaked me out most was the lack of noise.  It was a very soft sound of air moving as it flew above me.  As it moved away, I saw a slow blinking red light.  It moved in a straight line towards the east.  It never made any erratic moves.  That's what I saw and I would love to know what it was.  I can't stop thinking about  it.((ADDENDUM FROM WITNESS))Four large white lights on bottom flew directly overheadThis is an addendum to the report I submitted around 10:15 this morning (1/28/16).  This was not a small object like a toy drone.  I estimate by the height it was flying and the space between the four lights that it had to be at least 50 feet long and 25 feet wide, at least where the lights were mounted.  How much bigger than that it was, I don't know because I couldn't see a shape.  Please if you have any questions or  know what this was please email me.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125536.html](http://www.nuforc.org/webreports/reports/125/S125536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
