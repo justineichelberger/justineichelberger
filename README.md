@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reedsville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange rotating bright light appears, disappears, and re-appearsMy fiance saw a strange light out of our living room window and told me to come and look because it was extremely bright.  I looked and saw this really bright light.  My camera is dead, so we looked at it through the scope of his rifle.  It was crescent shaped and appeared to be moving, as the light was brighter at times.  I could see it above the trees and power lines in the field beside our house.  Then suddenly it disappeared, only to reappear a few minutes later only dim, which we assumed meant it was farther away from us.  I got the feeling though, when i was looking through the scope, that it was looking at me. The bright light seemed to focus on me for a few minutes.It is back again : 4:50 on the opposite side of the tree.  And is gone again:4:55</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79720.html](http://www.nuforc.org/webreports/reports/079/S79720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I was looking at what I thought were 2 birds flying from the SE.  (I live 2 blocks from the water; Clear Lake, Gulf of Mexico).  The flight pattern resembled birds flying around each other.  As they got closer, it was apparent that they were not birds.  There were 2 spheres flying around each other, on a rotating axis.  As they flew over me, the axis became perpendicular with the ground.  At that point, they were in a rotating pattern, alternating there rotation 180 degrees, back and forth, all the while, traveling in a straight line from the SE.The sighting lasted approximately 45 seconds to 1 minute.  Line of sight was approximately 160 to 170 degrees.  The size of the objects I would compare to a common Frisbee at 100 ft.  The 2 objects were black in color, and identical in size to each other.I am ex USAF. I have lived in this area for the last 10 years.  My proximity to Johnson Space Center (NASA) and Ellington Field has afforded me the opportunity to see most all normal activity in the area.  (T-38s, F-14s etc.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74226.html](http://www.nuforc.org/webreports/reports/074/S74226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
