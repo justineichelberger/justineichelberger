@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 27 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reykjavik (Iceland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Saucer shaped object appears on picture, while not noticed when picture was taken.Object on picture not noticed when picture was taken.  Picture is taken towards west-northwest and the moon had gone down a couple of hours earlier.  Looks like a lens reflection from a lightpost, although the lightposts in the picture appear of different shape.  Also looks like a flying saucer from movies in the fifties.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68733.html](http://www.nuforc.org/webreports/reports/068/S68733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sanford (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 420.0 - 420.0 minutes.</sub><blockquote><sub>Tetrahedron orb flashing colors, hovers, changes shapes and directions over my field nightly many pictures and videosm sending a video from January 28, 2001 at approximation 6:33pm taken in front of my home. I have over a year of video and pictures of strange hovering objects that change shape and color over the field in front of my home that I have seen during the day and night as well as many witnesses. I would like someone to investigate. I believe it is not of this world and I have never witnessed anything like this until I moved to this location. I have seen up to 7 at a time near my home. Usually it is only one or two objects and they seem to communicate to each other.They are very strange in shape like a tetrahedron shape and flash different colors but also change shape into some kind of orb. It is hard to explain. I have pictures of the same object that looks very different in each picture. I have had one get so close that it made me nervous and I ran back to my front porch. It was approximately 100 feet away. I feel as if it is observing me at times. It will stay hovering quietly over the field as long as I stand there watching and recording. When I look for them they are usually there unless the weather is bad. Please respond and help me get this looked into. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161854.html](http://www.nuforc.org/webreports/reports/161/S161854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
