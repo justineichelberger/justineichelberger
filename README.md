@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lyndeborough (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object was flashing and could not be seen with the naked eyeOn this night I was using my telescope and looking at the stars. At about 8:00pm I noticed a flashing light in my line of sight in my telescope. I watched it for a few mins. I then took my eye from the eye piece to look at it without the telescope. I scanned the sky and could not see it with my naked eye. I looked back in the eye peice and followed the object with the telescope. I could not make out a shape. It flashed a white light constantly and did not change color or direction and moved from the southeast to the north northwest. I tried to see it with my naked eye again and could not see the object.I noticed a plane to the east and could see it with my naked eye. I followed the object until it passed behind the trees. I scanned the sky for more than 2 more hours hopeing to catch sight of any thing else. I told my parents about it. I am a welder by trade and work for a major construction company.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43160.html](http://www.nuforc.org/webreports/reports/043/S43160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Video taken by a witness:  http://youtu.be/iQ2ht9sxNfk  Around 7:15 PM, 4 others and I witnessed 2-3 glowing orbs over Mesa/Salt River Reservation in Arizona.  As I watched in awe, it looked like energy was charging up and the orb was flashing various colors, then my camera got blurry and the focus stopped working. It almost seemed as if it were some sort of energy like pulse.  The orbs aligned into triangular formations as well as a line.  Previously to starting video there was 4 orbs that moved fast across the sky in a way that I could only say compares  to a star realigning In the sky.  At the end the orbs grew closer and combined into one orb that ended up fading out and slowly grew harder to see.  I don't know what this was, but I have never seen ANYTHING like it before.  In person the light coming off of it was powerful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117038.html](http://www.nuforc.org/webreports/reports/117/S117038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
