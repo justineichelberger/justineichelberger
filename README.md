@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:20 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Orrington (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Looked like a blue to green gas flame dropping from the sky from South to North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117020.html](http://www.nuforc.org/webreports/reports/117/S117020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately most of the night - most of the night minutes.</sub><blockquote><sub>About an hour before my fiance had brought me out to see something… I noticed what felt like a small tremor or vibration that went through everything including myself.   We summed it up to be a train or something.  About an hour later, like I said, I followed my fiance outside to see 11 Bright beams of light coming up from the ground and straight up into the atmosphere.  One very strong large beam and ten smaller, then one separate large beam of light and smoky stuff about six yards in front of us forming and dissipating into the sky.  The others were seemingly very far away, but still very unusual, and had a definite hazy quality about the air that surrounded them.  They were very straight in nature, they were not conical.  Each end appeared the same width.  Though, as I said before, there was one larger, thicker, brighter, one.  I did consider that it could be weather-related.  I've lived in three states where it snowed, and I have never seen anything like this.  There was snow on the ground, but nothing coming down at that time.  Seemed very "rapture-like" in nature.  Almost cliche.  They remained in the sky until we stopped checking on them or later, which was sometime around 3am.  So over 6.5 hrs...  Sadly we could not get a photograph, as the lighting and distance were not suitable.  The lights ran NW to NE.  One witness was NE of us, but closer to the lights in relation.  He reported seeing the same thing.  I am a professional artist and if you would like a copy of the rendering, please email me at ((e-address deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106750.html](http://www.nuforc.org/webreports/reports/106/S106750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
