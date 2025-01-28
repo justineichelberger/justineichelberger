@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>On January 28, 2008 at approxmently 0955, I was driving north on A1A from Sunrise Blvd to 2100 block of Ft Lauderdale, Fla.  It is a clear blue sky day and the highway is next to the Atlantic Ocean.  The ocean was calm and less than 12in waves crashing the shore.  Out to sea, I could see three large freighters anchored off of Port Everglades, approx three miles off shore. Some small recreational boats numbering less than 5 were crossing the horizon heading north and south and out to sea to weed line for fishing. Out to the NE I would guess approxmently 7 to 10 miles I could see two very large standing tall white cylinders and two to three white cubes next to the cylinders.  It looked like tall buildings out in the ocean; I would say that they were 8 to 12 stories high and 4 stories wide. The 2 to 3 cubes were ½ the size.  There are no oil rigs off of Broward County; this was not a ship, a cruise ship, boat, and water spout or condominium refection from the shore line.  I don’t know what it was, but it was out there, on the ocean like a city on the sea.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61267.html](http://www.nuforc.org/webreports/reports/061/S61267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reedsville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange rotating bright light appears, disappears, and re-appearsMy fiance saw a strange light out of our living room window and told me to come and look because it was extremely bright.  I looked and saw this really bright light.  My camera is dead, so we looked at it through the scope of his rifle.  It was crescent shaped and appeared to be moving, as the light was brighter at times.  I could see it above the trees and power lines in the field beside our house.  Then suddenly it disappeared, only to reappear a few minutes later only dim, which we assumed meant it was farther away from us.  I got the feeling though, when i was looking through the scope, that it was looking at me. The bright light seemed to focus on me for a few minutes.It is back again : 4:50 on the opposite side of the tree.  And is gone again:4:55</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79720.html](http://www.nuforc.org/webreports/reports/079/S79720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
