@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Middleton (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Five red-orange lights, three of which were in triangle formation, over Middleton, IDAt about 10:00 pm mountain time in Middleton, ID, my wife and I witnessed a strange sight in the sky.  Five reddish orange, circular lights were seen with three of them appearing in a rather big triangle pattern.  They seemed to pulse faintly and moved too slowly and smooth for it to be anything we would recognize as being normal.  The lights hovered for a while in the distance, never really moving, and slowly blinked out one at a time over a 2-3 min period.  The night sky was relatively clear and the objects were clearly something strange to us.  I obviously found it strange enough to report it to somebody and hope someone finds interest in this as I have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86891.html](http://www.nuforc.org/webreports/reports/086/S86891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbiaville (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright silver sphere pulsating with colored streamers.Round, apparently spherical in southwest night sky.  Brighter and larger than any other object in the sky other than the moon.  Pulsating silver, with blue, red, yellow and green streamers floating away from it.  Observed with binoculars, it had grid-lines all over the silver area and pulsating colors were more visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117060.html](http://www.nuforc.org/webreports/reports/117/S117060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
