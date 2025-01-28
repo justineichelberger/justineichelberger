@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two men were playing tennis, when one drew the attention of the other to a very bright object moving very rapidly across the morning sky at a very high angular velocity.  They estimated its altitude at 25,000 feet or greater.  The object was as bright "as a magnesium flare, was very thin in appearance, but it appeared to have no wings.  It flew with a wobbling motion.  One of the observers is a pilot, with a great deal of experience around aircraft under varied conditions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00297.html](http://www.nuforc.org/webreports/reports/000/S00297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rio Rico (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>u.f.o's in rio rico AZit was a cigar shaped object gliding across the mountainz behind my house i also realized it did not make any noise of engines or anything and im quite familiar with all the aircraft sounds that pass through here and there was some type of greyish clouds surrounding the aircraft looking more like a shield type of mist</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68303.html](http://www.nuforc.org/webreports/reports/068/S68303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
