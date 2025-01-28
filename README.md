@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:18 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:05 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Two lights over Punta Gorda, Florida.Violet/bluish lights slowly falling from sky from the northeast to the southwest in Punta Gorda, Florida.  They were falling toward the Gulf of Mexico.  First one around 6:45 PM, the next one followed around 30 seconds later.  They did not have a trail behind them like most meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106738.html](http://www.nuforc.org/webreports/reports/106/S106738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over Phoenix again& again.On wed, the 28 of jan, my band was playing at a rv resort in mesa az.After the first set my wife & I went outside for some fresh air.These huge lights appeared rather suddenly in the south eastern part of the sky.My uncle lives about 15 miles from the rv resort,& he's told me about those wierd reddish/goldish lights,he keeps seing west of his residence.These lights were almost the size of the moon.Igrabbed the pentax 35 mil, camera& snapped the last 2 pictures on that roll.What came out on film is a little spooky.THESE lights were very bright but on the 2 pictures they appeared as black spots in the sky.I want you  folks to see these pics.If you need the negatives, you can have those to.According to my uncle these lights appear frequent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34938.html](http://www.nuforc.org/webreports/reports/034/S34938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
