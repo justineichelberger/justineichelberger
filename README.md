@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morristown (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately most of the night - most of the night minutes.</sub><blockquote><sub>About an hour before my fiance had brought me out to see something… I noticed what felt like a small tremor or vibration that went through everything including myself.   We summed it up to be a train or something.  About an hour later, like I said, I followed my fiance outside to see 11 Bright beams of light coming up from the ground and straight up into the atmosphere.  One very strong large beam and ten smaller, then one separate large beam of light and smoky stuff about six yards in front of us forming and dissipating into the sky.  The others were seemingly very far away, but still very unusual, and had a definite hazy quality about the air that surrounded them.  They were very straight in nature, they were not conical.  Each end appeared the same width.  Though, as I said before, there was one larger, thicker, brighter, one.  I did consider that it could be weather-related.  I've lived in three states where it snowed, and I have never seen anything like this.  There was snow on the ground, but nothing coming down at that time.  Seemed very "rapture-like" in nature.  Almost cliche.  They remained in the sky until we stopped checking on them or later, which was sometime around 3am.  So over 6.5 hrs...  Sadly we could not get a photograph, as the lighting and distance were not suitable.  The lights ran NW to NE.  One witness was NE of us, but closer to the lights in relation.  He reported seeing the same thing.  I am a professional artist and if you would like a copy of the rendering, please email me at ((e-address deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106750.html](http://www.nuforc.org/webreports/reports/106/S106750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lyndeborough (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The object was flashing and could not be seen with the naked eyeOn this night I was using my telescope and looking at the stars. At about 8:00pm I noticed a flashing light in my line of sight in my telescope. I watched it for a few mins. I then took my eye from the eye piece to look at it without the telescope. I scanned the sky and could not see it with my naked eye. I looked back in the eye peice and followed the object with the telescope. I could not make out a shape. It flashed a white light constantly and did not change color or direction and moved from the southeast to the north northwest. I tried to see it with my naked eye again and could not see the object.I noticed a plane to the east and could see it with my naked eye. I followed the object until it passed behind the trees. I scanned the sky for more than 2 more hours hopeing to catch sight of any thing else. I told my parents about it. I am a welder by trade and work for a major construction company.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43160.html](http://www.nuforc.org/webreports/reports/043/S43160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
