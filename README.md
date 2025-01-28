@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:18 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sanford (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 420.0 - 420.0 minutes.</sub><blockquote><sub>Tetrahedron orb flashing colors, hovers, changes shapes and directions over my field nightly many pictures and videosm sending a video from January 28, 2001 at approximation 6:33pm taken in front of my home. I have over a year of video and pictures of strange hovering objects that change shape and color over the field in front of my home that I have seen during the day and night as well as many witnesses. I would like someone to investigate. I believe it is not of this world and I have never witnessed anything like this until I moved to this location. I have seen up to 7 at a time near my home. Usually it is only one or two objects and they seem to communicate to each other.They are very strange in shape like a tetrahedron shape and flash different colors but also change shape into some kind of orb. It is hard to explain. I have pictures of the same object that looks very different in each picture. I have had one get so close that it made me nervous and I ran back to my front porch. It was approximately 100 feet away. I feel as if it is observing me at times. It will stay hovering quietly over the field as long as I stand there watching and recording. When I look for them they are usually there unless the weather is bad. Please respond and help me get this looked into. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161854.html](http://www.nuforc.org/webreports/reports/161/S161854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Two lights over Punta Gorda, Florida.Violet/bluish lights slowly falling from sky from the northeast to the southwest in Punta Gorda, Florida.  They were falling toward the Gulf of Mexico.  First one around 6:45 PM, the next one followed around 30 seconds later.  They did not have a trail behind them like most meteors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106738.html](http://www.nuforc.org/webreports/reports/106/S106738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
