@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Floating Amber Lights Above City, Seen Multiple Times.Saw three floating amber/red lights over the city.  All were arranged in a perfectly straight line, evenly spaced.  They rose slowly and disappeared.  Approximately two minutes later saw two more lights rise from what looked like behind the trees and disappear as the first, only these did not rise up they went in a NW horizontal direction.Saw the same thing last Sept. but there were 50-100 of them, and they went straight up in bunches and disappeared.NOTE: I do not smoke or drink, neither do any of the people who saw them with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86890.html](http://www.nuforc.org/webreports/reports/086/S86890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tempe/Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 bright circular lights in sky over South Phoenix.Live in Tempe, looking toward S. Phoenix, 4 very bright lights in a line (bottom to top), not moving.  Planes in distance passed by.  I have photos.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Witness does not send photos, and we have no way to contact him/her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125508.html](http://www.nuforc.org/webreports/reports/125/S125508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
