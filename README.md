@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tempe/Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 bright circular lights in sky over South Phoenix.Live in Tempe, looking toward S. Phoenix, 4 very bright lights in a line (bottom to top), not moving.  Planes in distance passed by.  I have photos.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Witness does not send photos, and we have no way to contact him/her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125508.html](http://www.nuforc.org/webreports/reports/125/S125508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Florala (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 objects.  first object was miles apart from the other two.  it just flew from the southeast to the north west, until no longer visible.  The other two well to the North East of Florala seem to complete a full long circle flying pattern but then some what stopped, shifted or like slid in an instant change going from north to east.  It then completed the circle pattern and flew off north East till out of sight.  All 3 objects had the same series and sequence of white blinking lights.  There were no signs of red or green lights as on aircraft or helicopters.  It would flash 3 times in an interval then go dark for about ten seconds and repeat.  There were no visible distinction of an object shape, just lights and no sounds.  No other aircraft sounds were heard in this time frame or helicopters.  Florala is used by Fort Rucker for training flights, but no helicopter noises were heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117032.html](http://www.nuforc.org/webreports/reports/117/S117032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
