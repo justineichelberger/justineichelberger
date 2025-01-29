@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:48 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:24 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Umatilla (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>4 silent fiery lights heading towards Ocala National Forest NNW from Umatilla Jan 29th 2016 at 1845Looking in a NNW direction towards the Ocala National Forest, I witnessed four orange fiery lights that appeared to be heading towards my direction.  At first I thought it was a plane about to crash and that all four engines were on fire and it appeared to be dropping downwards and then I realized it was actually pulling upwards and away. There was absolutely no sound coming from the object and it appeared that the lights were like engines on fire.  It was very close to our location and yet it was not making any sound what so ever.  The far right light went out first.  The other three fiery lights went out at the same time within a micro second of the first.  I then witnessed two planes following each other to the west and turning quickly to the east in a formation that is not normal with the flight patterns of other planes in this area as if they were following something.  I knew that they were planes because of their flashing white lights.  The large opject that I witnessed did not display any flashing lights of any kind.  Only helicopters would fly like that and there was not a sound in the sky to indicate that was what the two flashing lights were.  Dogs in the neighborhood were barking continually which made me go out to look at what was going on.  The sky was completely clear at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125514.html](http://www.nuforc.org/webreports/reports/125/S125514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Victor (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large light and expelled 2 smaller round lights,2 sm descended to the ground the large moved slow over the barn and moved out into the dark. darkness.Large round light suddenley appeared just above the barn. Seconds later from a third of the way up from the bottom a small round light ejected out to the side and stopped. Moved slowley at a 45% angle toward the ground. A second round light repeated the first. When they were out of sight and near the ground, suddenley the large light immediately soared to the roof of the barn and only a small part of it extended above the barn rood. It set silently, then moved ever slowly sideways, as it ap-proached the barn edge what should have extended past it was black, only a lessor part of the light was visiable. When it was tatally past the barn there was no light. Total silence.during the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06996.html](http://www.nuforc.org/webreports/reports/006/S06996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
