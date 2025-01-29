@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 28 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rio Rico (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>u.f.o's in rio rico AZit was a cigar shaped object gliding across the mountainz behind my house i also realized it did not make any noise of engines or anything and im quite familiar with all the aircraft sounds that pass through here and there was some type of greyish clouds surrounding the aircraft looking more like a shield type of mist</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68303.html](http://www.nuforc.org/webreports/reports/068/S68303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Camano Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object in the sky emitting light trail unaccompanied by jet.Last time, I wasn't sure if it was a UFO, but this time, I got a real picture.  I was burning some wood on the farm, and then I noticed a small contrail in the sky.  I thought, hmm, okay I will take a picture.  I took one, the trail was small.  Then I took another, then it was slightly bigger.  I watched it until it seemed to go away behind trees or leave the atmosphere, but I did see the aircraft seem to stop moving or slow down.  I couldn't see it for a long time.  When I looked at my phone and zoomed in, there seems to be a sphere aircraft of some kind at the end of the trail.  Can you guys examine it too see if it.((NUFORC Note:  We believe a contrail behind a jet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117037.html](http://www.nuforc.org/webreports/reports/117/S117037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
