@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:21 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Camano Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object in the sky emitting light trail unaccompanied by jet.Last time, I wasn't sure if it was a UFO, but this time, I got a real picture.  I was burning some wood on the farm, and then I noticed a small contrail in the sky.  I thought, hmm, okay I will take a picture.  I took one, the trail was small.  Then I took another, then it was slightly bigger.  I watched it until it seemed to go away behind trees or leave the atmosphere, but I did see the aircraft seem to stop moving or slow down.  I couldn't see it for a long time.  When I looked at my phone and zoomed in, there seems to be a sphere aircraft of some kind at the end of the trail.  Can you guys examine it too see if it.((NUFORC Note:  We believe a contrail behind a jet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117037.html](http://www.nuforc.org/webreports/reports/117/S117037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in East Greenwich (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SUMMARY:  I witnessed a UFO which may be of the Lazar"Sport Model" variety when I was leaving work to drive home.The UFO was circular in shape, with three distinct propulsion units on the bottom,and several red rectangular lights around the perimeter.  I witnessed this UFO when I was leaving work to drive home.  It was travelling in straight lines, forming a triangular pattern, approximate airspeed was about 150 MPH as far as I could tell.  I had the impression that it was of the type described by Bob Lazar, UUP/element 115propulsion. After approximately 5 minutes,the UFO sped away to the north.  I believe that I was in some kind of mental contact with the occupants of the craft at the time,as the triangular course seemed to circle directly around me also. I am currentlyworking on some sketches of the craft, bu tI thought it important to report the event as soon as possible.  I will email the sketches in JPEG format as soon as they are complete.Perhaps they were interested in this location because it is in proximity to several of our National Guard military installations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01968.html](http://www.nuforc.org/webreports/reports/001/S01968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
