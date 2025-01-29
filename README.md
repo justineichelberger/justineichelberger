@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:21 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:48 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in East Greenwich (RI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SUMMARY:  I witnessed a UFO which may be of the Lazar"Sport Model" variety when I was leaving work to drive home.The UFO was circular in shape, with three distinct propulsion units on the bottom,and several red rectangular lights around the perimeter.  I witnessed this UFO when I was leaving work to drive home.  It was travelling in straight lines, forming a triangular pattern, approximate airspeed was about 150 MPH as far as I could tell.  I had the impression that it was of the type described by Bob Lazar, UUP/element 115propulsion. After approximately 5 minutes,the UFO sped away to the north.  I believe that I was in some kind of mental contact with the occupants of the craft at the time,as the triangular course seemed to circle directly around me also. I am currentlyworking on some sketches of the craft, bu tI thought it important to report the event as soon as possible.  I will email the sketches in JPEG format as soon as they are complete.Perhaps they were interested in this location because it is in proximity to several of our National Guard military installations.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01968.html](http://www.nuforc.org/webreports/reports/001/S01968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Umatilla (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>4 silent fiery lights heading towards Ocala National Forest NNW from Umatilla Jan 29th 2016 at 1845Looking in a NNW direction towards the Ocala National Forest, I witnessed four orange fiery lights that appeared to be heading towards my direction.  At first I thought it was a plane about to crash and that all four engines were on fire and it appeared to be dropping downwards and then I realized it was actually pulling upwards and away. There was absolutely no sound coming from the object and it appeared that the lights were like engines on fire.  It was very close to our location and yet it was not making any sound what so ever.  The far right light went out first.  The other three fiery lights went out at the same time within a micro second of the first.  I then witnessed two planes following each other to the west and turning quickly to the east in a formation that is not normal with the flight patterns of other planes in this area as if they were following something.  I knew that they were planes because of their flashing white lights.  The large opject that I witnessed did not display any flashing lights of any kind.  Only helicopters would fly like that and there was not a sound in the sky to indicate that was what the two flashing lights were.  Dogs in the neighborhood were barking continually which made me go out to look at what was going on.  The sky was completely clear at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125514.html](http://www.nuforc.org/webreports/reports/125/S125514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
