@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Covina (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a cluster of 3 bright lights in southeastern sky. They were red, green and white. It was dusk and I could see no structure but the lights abutted one another in a triangular format.  When first sighted, it was motionless.  It then suddenly descended straight down at a VERY high speed.  I assumed that I would hear a crash.  A minute or so later, it ascended to the precise same spot. It hovered there for a minute or so, then repeated the same rapid descent.  I did not see it again.  No sound and no other sighting. I did not get any any video or photos.  There was no trail.  The entire event was about 5 minutes.((ADDENDUM FROM WITNESS))I will do some checking for others who may have seen it.  It descended and ascended so fast that it was hard to believe.  No acceleration.  From zero to full speed instantly.  However, at that time of day, others would have seen it.  I will report back if I find any corroborating reports.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117041.html](http://www.nuforc.org/webreports/reports/117/S117041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bloomingdale (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange white lights seen on object in sky.I saw something unusual on my drive home from work tonight.  I work near O'Hare in Chicago, and live underneath one of the flight paths, so I'm accustomed to seeing aircraft in the sky.  In addition, I've been a life long aviation enthusiast, so I often watch the sky's. This evening I saw a light pattern that I've NEVER seen on a commercial or military aircraft. I was heading westbound on Lake St. in Bloomingdale IL, and had just past Bloomingdale Ave.  I noticed what at first I thought to be a plane in the sky, on final approach to O'Hare, heading in a north easterly direction.  However, the object caught my eye, because of the flashing lights that it was producing.  I saw what initially appeared to be wingtip landing lights, except that they were flashing in an alternating pattern.  I found this unusual, because I've never seen a commercial airliner "flash" it's landing lights like this. I also observed a smaller, flashing red light on top of the object.  Then, as I'm pondering this, all of the sudden, four to five more white lights illuminate sequentially from right to left along the same horizontal plane between what I considered the "wing tip" lights and they began to flash intermittently as well!  That is something that I have NEVER seen a commercial  airplane do!   At this point, I was paying so much attention to the object that I decided to pull off and turn around before I hit another vehicle on the road.  However, by the time I did so, I had lost sight of it, and could only see "normal" air traffic in the pattern.((NUFORC Note:  We spoke with this witness via telephone, and he seemed to us to be unusually eloquent and credible.  We suspect that he is a very good witness.  We have estimated the time of the sighting, and assigned an arbitrary time.  The witness could not enter a time in our Online Report Form, and have it function normally.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55024.html](http://www.nuforc.org/webreports/reports/055/S55024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
