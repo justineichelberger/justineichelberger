@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was having a smoke,  I looked up into the sky  and saw an unusual light East North East.  From where I live in Arlington, the UFO appeared over Darington, WA, ((to the northeast))The craft moved very slow,  away from our perspective.  I ruled out a plane or chopper.  The craft moved quite slow.  Lights moved around the craft.  I got out the binoculars  and showed my wife and kids.  I may be wrong in understanding what it was we saw,  however,  "it falls under the catagory of UFO as I understand it....  Maybe some kind of military OP. going on?  ((names deleted))   Arlington, WA  98223</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55029.html](http://www.nuforc.org/webreports/reports/055/S55029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Beech Grove (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>low flying slow moving, had red and white lights.I was asleep when I awoke and saw an unusual bright light flickering from my window.  I sat up and saw a low flying aircraft, too low to be an airplane.  Reminded me of the height a motorized glider would fly.  I normally can hear when planes or helicopters go over the house, but this made no sounds.  There were red and white lights around it.  The white lights were bright and solid, the red ones flickered.  The aircraft didn't move fast, just slow and steady across the sky, appeared to come from over by 465 W and headed over the closed St. Francis Hospital.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106745.html](http://www.nuforc.org/webreports/reports/106/S106745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
