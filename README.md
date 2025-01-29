@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Black rotating or shape shifting object sores through clear day sky.I noticed this black three dimensional object floating across the sky.  There was zero clouds in the sky, and it was right before dusk.  The object was very clear to see, about 100% visibility.It looked triangl-er in shape at first, but with flat edges connecting it, not points like a regular triangle.  It seemed to be rotating at a constant pace.  Either that, or it was shape shifting.It was moving pretty slow, felt like 5mph. It had to be about 300-500 feet in the air, could be more.  The object seemed to resemble the size of a large storage truck, could’ve been bigger.  The object made zero sound, and had no lights on it. It was definitely too big to be a drone, and kept it’s pace until I was unable to see it anymore.  From where I first saw it, to where I couldn’t see it at all, would make me believe it was not being controlled by a remote from the ground.I was only able to capture this on my mobile phone device (13MP Camera), which isn’t capable of shooting great quality video from that far away.  I was fortunate to even capture what I captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138748.html](http://www.nuforc.org/webreports/reports/138/S138748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oceanside (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular floating metalic ball over Oceanside, CA.Noticed a metallic looking object floating in the sky, heading east from west, clear blue sky, little bit of wind, maybe 1000 feet high guesstimate, maybe 10 feet wide guesstimate.  No sound or fumes.  It could be a Mylar Balloon floating but not sure, and don't think so, so took a couple of pics.  Object drifted behind the big tree, then never reappeared. Strange.My wife and I have also seen many lights in the night sky over the past month.  Some are a brilliant flash of light, size of a distant star.  Some flash 3 times and then disappear. This is all happening over southern California, near Marine base, Camp Pendelton, Oceanside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132378.html](http://www.nuforc.org/webreports/reports/132/S132378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
