@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:24 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Victor (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>large light and expelled 2 smaller round lights,2 sm descended to the ground the large moved slow over the barn and moved out into the dark. darkness.Large round light suddenley appeared just above the barn. Seconds later from a third of the way up from the bottom a small round light ejected out to the side and stopped. Moved slowley at a 45% angle toward the ground. A second round light repeated the first. When they were out of sight and near the ground, suddenley the large light immediately soared to the roof of the barn and only a small part of it extended above the barn rood. It set silently, then moved ever slowly sideways, as it ap-proached the barn edge what should have extended past it was black, only a lessor part of the light was visiable. When it was tatally past the barn there was no light. Total silence.during the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06996.html](http://www.nuforc.org/webreports/reports/006/S06996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tacoma/Graham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I was driving down a back road out here and all the sudden on my left driver side I saw up in the sky a BRIGHT light MOVING very FAST and in one direction...at first I thought..OH shooting star..then I realized it was UNDER the clouds...it was very fast and a bright WHITEISH blue... COULDN'T see the shape because everything was blocked by the light it gave off..I got a good look so I know it wasn't a man made craft or a shooting star..so that leaves one option...UFO... BEINGS NOT FROM HERE!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152947.html](http://www.nuforc.org/webreports/reports/152/S152947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
