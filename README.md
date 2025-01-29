@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Meteor or space junk?  There have been several articles on the internet about a possible sighting of a fireball or space junk seen over San Diego county and Los Angeles county after 10:00pm on Wednesday night 29 January 2020.  I live in San Diego.  I did not see the event after 10:00pm; but I thought i would mention there was an earlier event around 8:10pm the same night.  It also was either a large meteor or space junk?  The street I live on runs north-south.  As I was walking south a large meteor was seen while looking down the street to the south?  I didnt think much about it; butI did have the thought that it seemed to be coming down slower than most meteors. I know the approxiate time because I texted my Dad at 8:17pm that I had juist seen a meteor.  Anyway, thought I would mention this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152974.html](http://www.nuforc.org/webreports/reports/152/S152974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>fairly bright lights 8 or 9 circling  chaoticly yet defined forming a line once north to south another time west to east exactly given that the city of houston is not positioned exactly north/south like    the objects were as a reflection over the clouds with a light green color 2 or 3 of them were constantly circling around and the others were alligned and from time to time they all would become one bright light then  moving away in a line again or moving chaoticly the space between lights was not the same from one to the next   later the light of all in one started blinking turning off and on  when a helicopter passed by they stoped for a while and then appeared again shortly after</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34753.html](http://www.nuforc.org/webreports/reports/034/S34753.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
