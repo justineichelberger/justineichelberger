@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>fairly bright lights 8 or 9 circling  chaoticly yet defined forming a line once north to south another time west to east exactly given that the city of houston is not positioned exactly north/south like    the objects were as a reflection over the clouds with a light green color 2 or 3 of them were constantly circling around and the others were alligned and from time to time they all would become one bright light then  moving away in a line again or moving chaoticly the space between lights was not the same from one to the next   later the light of all in one started blinking turning off and on  when a helicopter passed by they stoped for a while and then appeared again shortly after</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34753.html](http://www.nuforc.org/webreports/reports/034/S34753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisburg (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Dimly-lit objects seen racing over north carolina skyClear, star-filled sky. Was outside in the driveway smoking a cig, looking at Orion.  I observed two oval/rice-shaped objects moving at a high speed, south to north, in a straight and parallel formation.One of the objects accelerated a short distace ahead, and the other caught up immediately. When the second object "caught-up" with the other, the first again accelerated to what would appear to be the same distance ahead of the other.  The second object again "caught-up" to the first.  Both flight-paths were side-by-side and looked almost like they were on "rails".  This was all within a few short seconds and both objects were moving continuously fast the whole time.  Faster than a jet seen from the NE sky shortly thereafter.  They were last seen leaving over the northern horizon.Both objects were identical and had well-defined edges.  Silvery and white.  Not brilliant, almost "dim"  They had defined edges were to "perfect" to be a shooting star.  The intensity of the lights never changed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79875.html](http://www.nuforc.org/webreports/reports/079/S79875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
