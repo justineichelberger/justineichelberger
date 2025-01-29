@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisburg (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Dimly-lit objects seen racing over north carolina skyClear, star-filled sky. Was outside in the driveway smoking a cig, looking at Orion.  I observed two oval/rice-shaped objects moving at a high speed, south to north, in a straight and parallel formation.One of the objects accelerated a short distace ahead, and the other caught up immediately. When the second object "caught-up" with the other, the first again accelerated to what would appear to be the same distance ahead of the other.  The second object again "caught-up" to the first.  Both flight-paths were side-by-side and looked almost like they were on "rails".  This was all within a few short seconds and both objects were moving continuously fast the whole time.  Faster than a jet seen from the NE sky shortly thereafter.  They were last seen leaving over the northern horizon.Both objects were identical and had well-defined edges.  Silvery and white.  Not brilliant, almost "dim"  They had defined edges were to "perfect" to be a shooting star.  The intensity of the lights never changed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79875.html](http://www.nuforc.org/webreports/reports/079/S79875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edinburg (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At about 7:40pm a cigar shaped object at a great distance started doing zig-zags, before joining 5 or more objects.I was walking towards the science building in my University, and took a shorcut through a small field in between sidewalks. At this moment I started glancing as the stars and the moon, as it is at its brightest today.  I first noticed a very small, faint cigar shaped object going by at a relatively steady speed in between two stars, my first thought was it being a satellite, and instantly told my girlfriend who was walking with me to look upwards, she had some trouble seeing it as the object was relatively above us, and there were no objects in the ground to help give an idea of its precise location.  After a few seconds she managed to get a small look at it, before her eyes gave way and got teary, making her look away and loose sight of the object.  It was at this time that I first noticed a very disturbing behavior in the object as it made a very small zig zag across the sky, and then proceeded to join about five or so objects in a kind of formation, these! other objects appeared to have suddenly emerged as this happened or maybe my sight was so fixed upon the amazing maneouver the  first object had just made. All the objects dissapeared within a couple of seconds and then suddenly reappeared for a few seconds more before I lost sight of them for good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74233.html](http://www.nuforc.org/webreports/reports/074/S74233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
