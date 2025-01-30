@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:15 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:55 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Apopka (Orlando) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright flashing light high in the sky moving fastWe were outside taping random items at dark when a plane went overhead so we taped it. While looking in the sky I saw a white light flashing up really high in the sky, I thought it was a star at first. Then it started moving across the sky, within a few minutes it was on the other side of the sky, looking like it was about to circle us. It hovered and then zoomed off at the very beginning. The light would flash, we didn't see it for a few seconds and then it would come back. There was no noise at all. We have a few seconds of it on tape, when we could catch it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27416.html](http://www.nuforc.org/webreports/reports/027/S27416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Alanson (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was walking by the sliding glass door of my house when something caught the corner of my eye out in the snow covered field behind my house.  Normally I see various green bushes in the field, however this time one in particular caught my eye.  When I stopped to look directly at it it looked as if it was a normal bush.  However when I caught the correct angle it started to shine a brighter green and took a disk shape.  After looking at it quite sometime, I went to go invenstigate.  The moment I opened my door I heard a sound like that of clinking chains,followed by that of a wind-up eletrical whirring.  The bush disappeared, a saucer took shape and as I stared at it there was a brilliant green flash that blinded me for about 5 mins afterwards.  When I regained my vision the bush was gone, leaving no trace of having ever been there.((NUFORC Note:  We have no way of knowing whether this is a serious report.  It arrived from a party who called our Hotline, and whose call we suspected was intended as a prank.  We cannot be certain as to the reliability of the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106777.html](http://www.nuforc.org/webreports/reports/106/S106777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
