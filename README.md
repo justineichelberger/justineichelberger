@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hazle Township (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Green lights in a line in Northern sky.Northern sky.  Not sure of distance of object or altitude from viewing location.  Viewing angle with respect to ground was approximately 30 to 45 degrees for elevation.  Six to seven green colored lights in what appeared as a line with a slight angle.  Eastern end appeared elevated compared to Western end.  Small white objects coming from ground direction to green lights very fast.  Repeating randomly.  Green light luminance varied with light clouds passing in front.  Two green lights on opposite end were brighter than middle lights.  Object was stationary for at least eight minutes.  Tried video but was only able to capture small portion.  Object too faint to pickup on phone camera.During this same time period looked to be a green colored meteorite or other bright object came from Southern direction to Northern direction in Eastern sky above horizon.  High velocity and flashed out.  Had a quick dissipating trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144718.html](http://www.nuforc.org/webreports/reports/144/S144718.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO investigator relays sighting report.  It occured either 30JA96, or 31JA96. Two women "near Spangler Road" witness two very bright white lights located "25 degrees above the horizon."  Suddenly, the two objects "approached each other," then a third similar (?) object was seen to approach the first two. No sound was detectable from the women's vantage point.((NUFORC Note:  We express our gratitude to Ron Wright, MUFON Investigator in Oregon, for investigating and reporting this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01327.html](http://www.nuforc.org/webreports/reports/001/S01327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
