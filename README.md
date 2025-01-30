@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Greenwich (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two hovering black disk's, no lights. Seen by 2 people and photographedI was driving down the the highway when I saw two hovering black disk's out the passenger window.  I told my boyfriend to look and he grabbed a series of pictures showing the objects stading still in the sky (hovering).  They were circular and had no lights, they were hovering next to eachother but one higher in the air at a slight diagonal angle. We took the next exit and headed towards where we saw them,  Over the West Greenwich Dunes.  We had lost them in the trees after taking the exit and by the time we reached the area they were previously above, they were gone.  We also noticed a Helicopter moving towards the dunes as we were trying to drive there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106831.html](http://www.nuforc.org/webreports/reports/106/S106831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kenosha (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Watched a stationary bright light that disappeared instantly, like a light bulb turned off.I saw a bright light in direct Southern sky.  Thought it was a airplane but it wasn't moving in any direction, then i assumed it was a Star although i didnt see any others, and felt it was to bright.  After watching it for 3 to 4 minutes it was gone, just like a bright light bulb being turned off.  I have no idea what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117095.html](http://www.nuforc.org/webreports/reports/117/S117095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
