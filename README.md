@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:47 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Muscat (Oman) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Possible UFO sighting in Oman (Arabian Gulf)after doing some search on the internet about what I've captured on my iPhone in Oman ( Arabian Gulf), i discovered that there’s something strange that is appearing in the photo i captured during the rising of the moon in the evening of 30 January 2021 at 19:38 and I thought to share it with you for your valuable comments to reach for explanation. I tried to challenge myself that it could be anything of what usually ufologists first think, like nature effects or some reflections, drone etc ... I found it well shaped and doesn’t look like falling or crashing. It clearly looks as if it’s under full control, no conventional engines or propellers, nicely shaped in angles with what looks like hexagonal cabins with some shadows inside!! No sound no lights. I searched the shapes of UFOs and nothing looked like this one however there’re some few rectangular shaped  I haven’t seen anything!! I just discovered the object when reviewing the photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161968.html](http://www.nuforc.org/webreports/reports/161/S161968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wanaque (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw an extremely pulsing large light over the Wanaque reservoir</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152978.html](http://www.nuforc.org/webreports/reports/152/S152978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
