@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO investigator relays sighting report.  It occured either 30JA96, or 31JA96. Two women "near Spangler Road" witness two very bright white lights located "25 degrees above the horizon."  Suddenly, the two objects "approached each other," then a third similar (?) object was seen to approach the first two. No sound was detectable from the women's vantage point.((NUFORC Note:  We express our gratitude to Ron Wright, MUFON Investigator in Oregon, for investigating and reporting this sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01327.html](http://www.nuforc.org/webreports/reports/001/S01327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mason (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Triangular Cluster of white lights with flashing white lines.It was a cluster of blinking dots in the western sky. There were flashing white lines that intersected the blinking stars. There were approximately 10 white dots in triangular clusters and at least 40 white lines appeared. The observer is a 29 year old Army Veteran. He called the local observatory and was told there was nothing supposed to be in the sky that night. He also noticed a fuzzy aura surrounding the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46209.html](http://www.nuforc.org/webreports/reports/046/S46209.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
