@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:15 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New Wilmington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An airplane like object was witneesed in the sky but the lights were positioned incorrectly.  Upon slowing down to get a better look the craft began to glow and then suddenly diappeared.Myself(the driver) and 3 others were driving back to college in my car when a supposed airplane was seen in the sky.  The airplane was being discussed because the lights were in the wrong position and were slightly brighter than normal.  I then began to decrease my speed to get a better look at the object which was then observed was more circular in shape.  This cause me to then stop the car entirely on the road and to attempt to get out to see it better.  As we stopped the shape then began to have a glowing nimbus around it and promptly diappeared.  We all sat in shock none of us believed what we saw.  Upon arriving back at campus we asked the other cars who were ahead of us if they saw anything as well but they only remembered seeing a plane in the same spot we say the unidentified object disappear from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11847.html](http://www.nuforc.org/webreports/reports/011/S11847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Apopka (Orlando) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright flashing light high in the sky moving fastWe were outside taping random items at dark when a plane went overhead so we taped it. While looking in the sky I saw a white light flashing up really high in the sky, I thought it was a star at first. Then it started moving across the sky, within a few minutes it was on the other side of the sky, looking like it was about to circle us. It hovered and then zoomed off at the very beginning. The light would flash, we didn't see it for a few seconds and then it would come back. There was no noise at all. We have a few seconds of it on tape, when we could catch it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27416.html](http://www.nuforc.org/webreports/reports/027/S27416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
