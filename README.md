@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A silver cylinder hovering in the sky near Oceana Naval Air Station.While driving west on I 264 near Oceana NAS, I saw a long silver sylinder sitting horizontally and motionless in the sky.  I thought that's wierd when I realized it fit a ufo description of a silver cigar shape object. The top and bottom were straight and each end was slightly rounded.  There was a clear reflective highlight from the sun that ran the length of the object.  I noticed the traffic slowed down.  Other drivers must have also seen it. It was a clear sunny day at about noon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16466.html](http://www.nuforc.org/webreports/reports/016/S16466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hazle Township (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Green lights in a line in Northern sky.Northern sky.  Not sure of distance of object or altitude from viewing location.  Viewing angle with respect to ground was approximately 30 to 45 degrees for elevation.  Six to seven green colored lights in what appeared as a line with a slight angle.  Eastern end appeared elevated compared to Western end.  Small white objects coming from ground direction to green lights very fast.  Repeating randomly.  Green light luminance varied with light clouds passing in front.  Two green lights on opposite end were brighter than middle lights.  Object was stationary for at least eight minutes.  Tried video but was only able to capture small portion.  Object too faint to pickup on phone camera.During this same time period looked to be a green colored meteorite or other bright object came from Southern direction to Northern direction in Eastern sky above horizon.  High velocity and flashed out.  Had a quick dissipating trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144718.html](http://www.nuforc.org/webreports/reports/144/S144718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
