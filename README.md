@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Browning (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two white lights traveling in unison die outSaw 2 white lights spaced what looked like about two feet traveling at a slight downward angle. Pointed it out to my girl and then they died out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86919.html](http://www.nuforc.org/webreports/reports/086/S86919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jerusalem (Israel) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>In early evning light the craft appeared black.  At first I was not sure if I was looking at winged aircraft or helicopter.  What caught me attention was that it was moving rather quickly but able to execute very sharp and quick moves.  It was flying toward me briefly, then started to ascend straight up. This ascent continued for about 20 minutes until I could no longer see the craft.  I saw no wings, propellers or exhaust.  During that time a commercial jet aircraft flew by but the UFO was far above so I don't know if the aircraft pilot saw what I saw.It was early evening in Jerusalem.  Object appeared to be black at the time, but that could be due to light conditions.  Object appeared to be round saucer with a small cap on top.  It caught my attention because of the fast but maneuverable manner in which it flew.  I then realized that it was neither plane or helicopter.  I was facinated by the way it ascended straight up until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10147.html](http://www.nuforc.org/webreports/reports/010/S10147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
