@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 29 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Edinburg (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At about 7:40pm a cigar shaped object at a great distance started doing zig-zags, before joining 5 or more objects.I was walking towards the science building in my University, and took a shorcut through a small field in between sidewalks. At this moment I started glancing as the stars and the moon, as it is at its brightest today.  I first noticed a very small, faint cigar shaped object going by at a relatively steady speed in between two stars, my first thought was it being a satellite, and instantly told my girlfriend who was walking with me to look upwards, she had some trouble seeing it as the object was relatively above us, and there were no objects in the ground to help give an idea of its precise location.  After a few seconds she managed to get a small look at it, before her eyes gave way and got teary, making her look away and loose sight of the object.  It was at this time that I first noticed a very disturbing behavior in the object as it made a very small zig zag across the sky, and then proceeded to join about five or so objects in a kind of formation, these! other objects appeared to have suddenly emerged as this happened or maybe my sight was so fixed upon the amazing maneouver the  first object had just made. All the objects dissapeared within a couple of seconds and then suddenly reappeared for a few seconds more before I lost sight of them for good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74233.html](http://www.nuforc.org/webreports/reports/074/S74233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New Wilmington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>An airplane like object was witneesed in the sky but the lights were positioned incorrectly.  Upon slowing down to get a better look the craft began to glow and then suddenly diappeared.Myself(the driver) and 3 others were driving back to college in my car when a supposed airplane was seen in the sky.  The airplane was being discussed because the lights were in the wrong position and were slightly brighter than normal.  I then began to decrease my speed to get a better look at the object which was then observed was more circular in shape.  This cause me to then stop the car entirely on the road and to attempt to get out to see it better.  As we stopped the shape then began to have a glowing nimbus around it and promptly diappeared.  We all sat in shock none of us believed what we saw.  Upon arriving back at campus we asked the other cars who were ahead of us if they saw anything as well but they only remembered seeing a plane in the same spot we say the unidentified object disappear from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11847.html](http://www.nuforc.org/webreports/reports/011/S11847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
