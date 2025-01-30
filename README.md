@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Man and wife were driving north on I-95 and observed what he thought was a "landing light" in the clear night sky, which  appeared to be "pointed" at him.  Then he witnessed a second light, more orange, and smaller than the first, which faded from view in about 5 seconds after first being observed. The pair of lights then appeared to split into two and continued flying to the southeast, one above the other now.  They then appeared to fade out rapidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00296.html](http://www.nuforc.org/webreports/reports/000/S00296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Henrico (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Eyewitness lights in the sky that hovered far above a house through my woods I have seen similar events on different days. This one did appear a bit different in shape. I was able to see airplanes going by as well it lasted for about 30 minutes I videotaped several videos and took photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161860.html](http://www.nuforc.org/webreports/reports/161/S161860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
