@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wanaque (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Saw an extremely pulsing large light over the Wanaque reservoir</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152978.html](http://www.nuforc.org/webreports/reports/152/S152978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very large white saucer, chased by B-52 near Wright Patterson Air force base.UFO REPORTING DOCUMENT  First, I was informed of your website by an older broadcast of Coast to Coast.Now this event happens many years ago, but I believe it is still note worthy.Now this was my first encounter but not my last. I had two more sightings about 10 and then 12 years later. But that is another story.Now a brief background on location and time frame.  Now the sighting.  It took place in late January or early February of 1968-or 1969.  I had just received a telescope for my birthday (01/18).  I don’t remember if it was my 12th or 13th birthday.  But at that time I had know knowledge of UFOS, and this memory has been burned into my brain for over 45 years.  You already know that I live in Dayton, Ohio.  At that time my house was as the crow flies about 5 miles from Wright Patterson Air force base.  Now this was the time when Wright Pat was still a SAC base.  We had B-52s Fly over the house every day.  It was there approach pattern for landing.  Sometimes so close off the deck you could see the rivets on the plane.The sighting took place between 11 pm and 1:00 am.  My friend and I were out in the backyard with my new Telescope.   Directly due east there was a very large, almost pure white saucer-shape craft.  It was hovering on the horizon at just above tree top level.That would place just east south East of Wright Pat.  It was moving very slowly, heading South East.  Now it was big, hard to judge size, but at least as long as a football field maybe bigger. It was as bright as the brightest full moon you have every seen.  Except three very light gray porthole looking discoloration marks on the bottom.  These were evenly spaced.  Now here is the kicker. Just as we saw this object, a B-52 comes flying over the house with its landing gears down.  It is on final approach, most likely not more than 1000 feet or so off the deck.  It just clears the house, landing gears go up and it powers up.  Let me tell you know it when a B-52 starts to accelerate.  Now there approach pattern was at a North East heading.  This B-52 banked hard and tried to get up behind the craft.  I don’t know how close it got maybe a mile or two.  The B-52 is behind the craft just as it disappears behind some trees.  We run down to the corner of the block, it appears the B-52 is closing! than ZIP the craft went almost straight up and out of sight in about 2 seconds. B-52 fly’s around for 15-20 Minutes.  Then it is gone from sight.  The next day in the Journal Herald news paper there was a small paragraph saying about 200 people reported an unidentified object in the sky.  I have never been able to find this report going over micro film.  But it is hard if you can’t nail down at least a pacific week or so.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98374.html](http://www.nuforc.org/webreports/reports/098/S98374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
