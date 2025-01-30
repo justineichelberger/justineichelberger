@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mason (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Triangular Cluster of white lights with flashing white lines.It was a cluster of blinking dots in the western sky. There were flashing white lines that intersected the blinking stars. There were approximately 10 white dots in triangular clusters and at least 40 white lines appeared. The observer is a 29 year old Army Veteran. He called the local observatory and was told there was nothing supposed to be in the sky that night. He also noticed a fuzzy aura surrounding the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46209.html](http://www.nuforc.org/webreports/reports/046/S46209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Burnaby (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Leaving car to enter house and looked up to 80 degrees to see 4 lights on bottom of   craft plus two strobes on pos. wings.All lights were white ,two in front and two in rear but spaced further apart not including the strobes.THIS Object was traveling north.Other object was a plane for reason that it had usual colored lights and was traveling NW. THE f irst object was half a hand at arms length.The object could have been a plane but the light pattern seemed not common.IT was travelling about 150mph.It sounded like piston engine but could have been other object.AS I SAY I would not report this but for the fact of the light pattern of all white lights. THE object appeared to be 10,000 ft. approx. It was partially foggy at the time.((NUFORC Note:  Date is approximate.  We do not understand how many objects the witness describes here, but it appears to be two separate objects.  We observe that the descriptions are not inconsistent with typical aircraft.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21742.html](http://www.nuforc.org/webreports/reports/021/S21742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
