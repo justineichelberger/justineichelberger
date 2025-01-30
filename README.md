@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:55 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:47 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Alanson (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was walking by the sliding glass door of my house when something caught the corner of my eye out in the snow covered field behind my house.  Normally I see various green bushes in the field, however this time one in particular caught my eye.  When I stopped to look directly at it it looked as if it was a normal bush.  However when I caught the correct angle it started to shine a brighter green and took a disk shape.  After looking at it quite sometime, I went to go invenstigate.  The moment I opened my door I heard a sound like that of clinking chains,followed by that of a wind-up eletrical whirring.  The bush disappeared, a saucer took shape and as I stared at it there was a brilliant green flash that blinded me for about 5 mins afterwards.  When I regained my vision the bush was gone, leaving no trace of having ever been there.((NUFORC Note:  We have no way of knowing whether this is a serious report.  It arrived from a party who called our Hotline, and whose call we suspected was intended as a prank.  We cannot be certain as to the reliability of the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106777.html](http://www.nuforc.org/webreports/reports/106/S106777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Muscat (Oman) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Possible UFO sighting in Oman (Arabian Gulf)after doing some search on the internet about what I've captured on my iPhone in Oman ( Arabian Gulf), i discovered that there’s something strange that is appearing in the photo i captured during the rising of the moon in the evening of 30 January 2021 at 19:38 and I thought to share it with you for your valuable comments to reach for explanation. I tried to challenge myself that it could be anything of what usually ufologists first think, like nature effects or some reflections, drone etc ... I found it well shaped and doesn’t look like falling or crashing. It clearly looks as if it’s under full control, no conventional engines or propellers, nicely shaped in angles with what looks like hexagonal cabins with some shadows inside!! No sound no lights. I searched the shapes of UFOs and nothing looked like this one however there’re some few rectangular shaped  I haven’t seen anything!! I just discovered the object when reviewing the photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161968.html](http://www.nuforc.org/webreports/reports/161/S161968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
