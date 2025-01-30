@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:55 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Captured an object that came into view on the far right.I was taking pictures of a cloud formation and an object came into view on the far right and then vanished.  Object appeared to be a black metallic color, flying casually right to left.Shape of object was similar to a rectangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138773.html](http://www.nuforc.org/webreports/reports/138/S138773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About 7:00 PM I spotted a home plate shaped object in the sky.  all the corners had pulsing lights. They did not pulse at the same time.  As I watched a rocked was shot from the home plate shaped object at a high rate of speed  and moving to the north.  This rocket changed color from red to green as it moved and the disappeared.All this took place in about 60 seconds.The time was 7:00 pm or 7:30 pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152980.html](http://www.nuforc.org/webreports/reports/152/S152980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
