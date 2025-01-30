@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Leeds (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two amber lights traveling northAt 05:45 heading south on rt.106 through Leeds noticed bright object in south east sky, at my 10 0'clock position.  Object was very bright, too bright for a star, and appeared as two fixed amber lights side by side.  Object was moving in a north direction. I pulled over by some corn fields to watch as object continued to move. from time to time it appeared to stop. then object went black after a couple of seconds object reappeared but as a single white strobe flashing quickly.  It continued north.  I watched it for another 5 minutes, then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152958.html](http://www.nuforc.org/webreports/reports/152/S152958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Biloxi (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Odd objects flying at the same pace in no particular formationI was walking on a track at Keesler AFB and I saw these odd shaped objects flying over me.  I thought birds at first, but when they continued on there was no wings flapping and they moved at the exact same speed.  I've never seen drones fly this close together either.  No sounds were coming from these objects.  One object was in the front, maybe 10-12 in the cluster and then 3 staggered following the cluster.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161851.html](http://www.nuforc.org/webreports/reports/161/S161851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
