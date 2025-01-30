@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Biloxi (MS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Odd objects flying at the same pace in no particular formationI was walking on a track at Keesler AFB and I saw these odd shaped objects flying over me.  I thought birds at first, but when they continued on there was no wings flapping and they moved at the exact same speed.  I've never seen drones fly this close together either.  No sounds were coming from these objects.  One object was in the front, maybe 10-12 in the cluster and then 3 staggered following the cluster.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161851.html](http://www.nuforc.org/webreports/reports/161/S161851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Man and wife were driving north on I-95 and observed what he thought was a "landing light" in the clear night sky, which  appeared to be "pointed" at him.  Then he witnessed a second light, more orange, and smaller than the first, which faded from view in about 5 seconds after first being observed. The pair of lights then appeared to split into two and continued flying to the southeast, one above the other now.  They then appeared to fade out rapidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00296.html](http://www.nuforc.org/webreports/reports/000/S00296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
