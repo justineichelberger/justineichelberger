@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 30 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Jerusalem (Israel) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>In early evning light the craft appeared black.  At first I was not sure if I was looking at winged aircraft or helicopter.  What caught me attention was that it was moving rather quickly but able to execute very sharp and quick moves.  It was flying toward me briefly, then started to ascend straight up. This ascent continued for about 20 minutes until I could no longer see the craft.  I saw no wings, propellers or exhaust.  During that time a commercial jet aircraft flew by but the UFO was far above so I don't know if the aircraft pilot saw what I saw.It was early evening in Jerusalem.  Object appeared to be black at the time, but that could be due to light conditions.  Object appeared to be round saucer with a small cap on top.  It caught my attention because of the fast but maneuverable manner in which it flew.  I then realized that it was neither plane or helicopter.  I was facinated by the way it ascended straight up until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10147.html](http://www.nuforc.org/webreports/reports/010/S10147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two stationary dots in the vicinity of the moon.Hello Peter,  I've heard you on Rense several times. 7:10 AM, I am in Snohomish.  Looking at the waning crescent moon in the south-southeastern sky, at 1-1/2 fingerwidths out at the 7 o'clock position is a dim dot, I presume Venus.  Three fingers east of this dim dot is a much brighter dot, stationary now for at least 15 minutes.  Possibly an unusual planetary configuration...? --I tried taking a photo with my cellphone, and the bright dot is visible in it. There is also in the photo a chemtrail running near the bright dot and a second about equally bright dot near the first one, neither of which is visible to the naked eye. --7:19 now, and both "dim Venus" and the bright dot are still visible in the dawn light. --7:26, the bright dot is still visible.  Could it be that the bright dot is Venus and it just happens to be extraordinarily close and/or bright, and the dimmer visible dot is another planet which just happens to be by coincidence very close to ! the moon?((NUFORC Note:  Planets, Venus and Jupiter??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144720.html](http://www.nuforc.org/webreports/reports/144/S144720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
