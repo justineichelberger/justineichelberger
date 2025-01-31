@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Standish (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately still there - still there minutes.</sub><blockquote><sub>one bright round light with 4 moving fashing objectsComing home from dinner my wife noticed a bright light in the sky that she thought was a airplane. As we drove we noticed 4 other flashing objects moving in the sky and changing directions. The objects from the ground appeared to all be in the same area as the bright light. When we got home,about 3 miles later, the bright light was still in the same place and just one of the four flashing moving objects could be seen. It's almost 24:00 now and within the last half hour the bright light has moved west a long distance and is still visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34802.html](http://www.nuforc.org/webreports/reports/034/S34802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small Blue Orb traveling east from Magnolia to Queen Anne VERY slowly.  A plane had flown by and it got real close.  Shortly after plane, it took off rapidly heading towards Lake Union.  Bright Blue Orb.  No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144733.html](http://www.nuforc.org/webreports/reports/144/S144733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
