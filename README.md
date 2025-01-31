@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conestoga (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange lights moving slowly across the sky in formationNumber of objects and time are approximate.  My 14 year old son crashed through the front door after coming from a neighbor's house, yelling "Mom, come quick, you have to see this!"  I went outside with him and saw around seven orange lights in a straight line slowly moving across the sky.  More of them appeared from the western horizon.  They seemed to be in groups.  The first set was in a straight line.  The second set was formed more like a triangle.  The next set was another straight line.  The last one to rise was actually red, not orange.  One of them completely disappeared (from the triangle formation), which made me think they could have been some sort of fireballs; however, they moved very slowly and did not have fireball tails.  It was too late to have neighbors come out but we got my 13 year old son to come out and see them as well.  The phones on our cameras couldn't capture them and we had no charged cameras or camcorders available.  I kept searching (am still searching) the local news but have not seen any reports on this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106835.html](http://www.nuforc.org/webreports/reports/106/S106835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some '' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Woman reports seeing silver, flashing object below clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00298.html](http://www.nuforc.org/webreports/reports/000/S00298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
