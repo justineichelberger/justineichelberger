@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:12 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:01:14 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Auburn (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright light hovering in one place over the western sky for a long time it than it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34803.html](http://www.nuforc.org/webreports/reports/034/S34803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fleet of Ornage UFO's crossing into FLL airport aproach pattern.One on my Many Federal jobs is to monitor ATC approach control for FLL.  This is at 120.7 MHZ (AM).  In case a plane crashes or something.So (of course), at 9: 10 PM, a fleet of a dozen or more Orange UFO's decided to fly into their IFR landing approach pattern for runway 9-L!  The pilots and the tower were going nuts ! Um, the UFO's were at about 3,000 feet at 350 knots.  Headed northwest.About 2 miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106870.html](http://www.nuforc.org/webreports/reports/106/S106870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
