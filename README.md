@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Black Triangular Craft over AZ Cardinal Stadium.Black triangular craft with 4 white lights spotted flying North bound over the Arizona Cardinal's stadium.((NUFORC Note:  We are unsure as to whether the sighting was in the morning, or the evening.  We have attempted to contact the witness via telephone, but unsuccessfully, to date.  PD))((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138666.html](http://www.nuforc.org/webreports/reports/138/S138666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dunedin (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White and a red sphere over Clearwater FLMy brother and I witnessed two spherical lights, one white and one red, swoop down across the sky in the south from right to left at a high rate of speed. We lost sight of them after they passed behind a tree. The red sphere was behind and to the left of the white one as if flying in formation. They moved from SW to NE and began flying upward just before our view was blocked by the tree. We both lost sight of them at that point.  The spheres appeared to be about twice the size of the star Betelgeuse which was visible at the time. The sky was clear. We didn’t hear any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79898.html](http://www.nuforc.org/webreports/reports/079/S79898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
