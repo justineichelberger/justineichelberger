@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hackettstown (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>circular object with 3 white rotating lights.I was looking out my window because I noticed the weather was strange with high winds. Saw a circular shaped object above treeline with 3 white rotating lights facing me then just disappeared.   Saw several other strange lights darting at a high rate of speed over the mountain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117067.html](http://www.nuforc.org/webreports/reports/117/S117067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hackberry (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observatory in the SkyMe and my boyriend was heading to store before it closed approximately at 9pm. When we reached to stop sign at hwy 27 there was a strange blue ball type light coming from the west (where we have a goverment oil reserve) heading straight to us.  I kept asking my boyfriend, "what is that, what is that?"  I got my phone and reached out the window and started snapping pictures.  It appeared to reach the Hwy an seemed like it stalled a moment as if it were watching us and turn right running along side of the road heading south to the gulf of mexico, at this point it seemed to have a dark formation triangle like with a circle of lights that were vertical in shape, there was no noise, it was pretty low but not low enough to get a positive look.  It was not going that fast but was steady pulling away from us as we reached the store it crossed over the Hwy still heading south but had left the curvy roadway and was flying (floating like) over pasture and marsh area's.  I called my girlfriend  who lived in the area it appeared to be passing but she did not see anything.  It disappeared into the night.  The pictures are crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70945.html](http://www.nuforc.org/webreports/reports/070/S70945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
