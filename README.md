@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Henderson (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Black triangle with bright lights at the corners and the turbine sounds but very very slow almost hoveringTraveling north east at about 7:30 p.m.   From Henderson towards Owensboro on highway 60.  Noticed a very bright light to the east headed toward my direction which was very low in the sky and seem to be hovering.  Kept watching it as I was driving and pulled over a few minutes later because it seemed to be coming directly toward us. got out to watch it was going very very slow to be a plane.  It went right directly above us at that point you could see one light in the front two lights in the back in the form of a triangle and there was no tail behind the two lights at all.  It seemed to be black because I can see the outline and I could tell that it was trying to her shaved because there is no tail nothing hanging out behind the two lights in the back and there was nothing extending past the front light.  It continued southwest just had a very very slow speed I could tell it was not a helicopter because there was no sound of a helicopter there was the sound of a turbine, but like I said, it was very very slow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117127.html](http://www.nuforc.org/webreports/reports/117/S117127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pink light in sky making light orbs you could only see flying in the clouds.Late January 31, 2019, I was walking my dog with my family I love to look up at the sky and I saw a big pink light in the sky it flashed and light orbs kept circling it and at first there was about 3 and whenever the pink light flashed more light orbs came out of it and started circling under the clouds you couldn’t see it outside of the clouds the air was crisp not cold but the air felt weird the vibes were off I recorded it with my phone after 10-20 minutes the pink light was over my house and just disappeared it vanished me my daughter and fiancé all saw it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144745.html](http://www.nuforc.org/webreports/reports/144/S144745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
