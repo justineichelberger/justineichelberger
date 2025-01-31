@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:47 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Prospect (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>1.31.2020 Approximately 9:30-10  While driving home fom work, headed east near lost creek lake on hwy 62,  I noticed what I thought was an airplane next to the big dipper. Two flashing white lights with a stationary red light in the middle.  As I drove further it had not moved and there were three more above it.I started driving slowly so I could watch the lights.  I was coming up towards the brigde and the rock slide area and had to pay attention to the road.After I passed the rock slide area and the gorge I spotted the lights again.  I could see two more to the north and 8-10 towards the south.I found a clear area to pull over and try to take photos and video with my cell phone, but could not see anything with it.  It is a galaxy s7.I tried to call my husband to go outside and look too but later learned his phone had died and was unable to answer. I heard a noise from across the road and became spooked so I drove home.I again lost sight of the lights as I turned onto the Prospect access road.When I arrived home I brought my husband outside but we could not see anything, we could see the big dipper and to the north clearly but trees blocked our south view.It is a possibility that these may have been drones or a military exercise as there are often exercises performed up in our mountains and we have the air force base just over the mountains in Klamath Falls.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152988.html](http://www.nuforc.org/webreports/reports/152/S152988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milford (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw many bright objects which appeared to be the same size and traveling fast at the same altitude high in the sky going westward.The event happened I believe on Jan 31, 2012. I’m pretty confident of the date because I had taken a photo from my phone that same morning of (what I thought to be) very strange cloud formations – I have since found out this particular formation is called Altocumulus undalatus.That evening I had taken my dog out for the last time before bed.  It might have been 11pm or later – I don't recall the exact time.  I was standing on my deck outside and looked up towards the sky.  I remember it being a bright night. I remember seeing the outline of the clouds very clearly.  That strange cloud formation was still apparent that evening.  The event I witnessed was what I thought to be many, many planes flying in the same air space. The sky was covered with the clouds however, I could see these bright objects (non-flickering)between the cloud openings.  These bright objects were moving fast in a westward direction.   I thought to myself what on earth is this all about.  I’ve never seen anything like it.  I disclose it now because it’s been on my mind. I’m thinking what I saw was just too weird.To recap, I saw many objects which appeared to be the same size and traveling at the same altitude high in the sky going westward.  These objects were bright and moving fast.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87950.html](http://www.nuforc.org/webreports/reports/087/S87950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
