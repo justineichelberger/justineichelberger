@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:23 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:20:12 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Wolfeboro (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>our house faces a strand of large pine trees...my mother was sitting on the right had side of our living room i was sitting  across the room from her with a window to my left...she "yelled" look at that light...i just had to turn slightly to look out the window...about halfway down (for lack of a better description) the trees was a large bright red light rather oval..it was just floating down...i had time to leave the living room to go to a bedroom to the right of the living room to look at another angle...and the light was still just floating down..we both then went back to the living room and opened the front door...i had turned the volume off the tv...about a mile straight thru the trees is a rather good size lake and it looked like the light was landing there...if it had been a plane in distress we would have heard something...the light finally disappeared from sight...like it had landed...after debating what to do...i did call the local police just in case it was  a small plane in distress landing on the frozen lake...about 30 minutes later an officer did come to the house to take a statement...he asked me if i had ever seen shooting stars...etc...which of course i have when he asked me to approximate the size i told him from where i stood it was the size of his cruiser...he raised his eyebrows and said if it was a meteorite and it had hit someone would have heard it...the dispatcher had called the bangor me int'l airport and the manchester nh airport to see if any small planes had disappeared from radar...over the years we have seen strange lights in the sky this time of year...but never so vivid and such a bright red...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34821.html](http://www.nuforc.org/webreports/reports/034/S34821.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Auburn (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bright light hovering in one place over the western sky for a long time it than it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34803.html](http://www.nuforc.org/webreports/reports/034/S34803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
