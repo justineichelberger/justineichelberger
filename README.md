@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>dark oval object photographed in daytimeI was driving home from getting Preliminary site photo for another investigation, which is why I had my camera, I spotted a dark oval object near my home in the sky. I snapped one photo(attached) from my car and hurried home to get the object on video but it was no longer visible.((NUFORC Note:  We express our gratitude to Mr. Kim Shaffer, MUFON Assistant State Director for Tennessee, for this report with NUFORC.  Mr. Shaffer can be reached at <shaffer56@earthlink.net>.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34797.html](http://www.nuforc.org/webreports/reports/034/S34797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Black Triangular Craft over AZ Cardinal Stadium.Black triangular craft with 4 white lights spotted flying North bound over the Arizona Cardinal's stadium.((NUFORC Note:  We are unsure as to whether the sighting was in the morning, or the evening.  We have attempted to contact the witness via telephone, but unsuccessfully, to date.  PD))((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138666.html](http://www.nuforc.org/webreports/reports/138/S138666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
