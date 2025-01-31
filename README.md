@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Shawnee (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The Oklahoma infinite vanishing star trainSeveral hundred lights in a straight line evenly spaced looked like a space train that lasted for many minutes and also had other objects observing this and then they vanished straight above us and it was utterly amazing sensation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153015.html](http://www.nuforc.org/webreports/reports/153/S153015.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Prospect (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>1.31.2020 Approximately 9:30-10  While driving home fom work, headed east near lost creek lake on hwy 62,  I noticed what I thought was an airplane next to the big dipper. Two flashing white lights with a stationary red light in the middle.  As I drove further it had not moved and there were three more above it.I started driving slowly so I could watch the lights.  I was coming up towards the brigde and the rock slide area and had to pay attention to the road.After I passed the rock slide area and the gorge I spotted the lights again.  I could see two more to the north and 8-10 towards the south.I found a clear area to pull over and try to take photos and video with my cell phone, but could not see anything with it.  It is a galaxy s7.I tried to call my husband to go outside and look too but later learned his phone had died and was unable to answer. I heard a noise from across the road and became spooked so I drove home.I again lost sight of the lights as I turned onto the Prospect access road.When I arrived home I brought my husband outside but we could not see anything, we could see the big dipper and to the north clearly but trees blocked our south view.It is a possibility that these may have been drones or a military exercise as there are often exercises performed up in our mountains and we have the air force base just over the mountains in Klamath Falls.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152988.html](http://www.nuforc.org/webreports/reports/152/S152988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
