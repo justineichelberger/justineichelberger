@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hillsboro (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Balls of light were noticed around 8pm.  It was noticed that these balls of light were moving and moving in a straight line.  The balls were starting to be counted by the property owner.  The balls moved fast, at the same pace, was spaced out the same amount of space, and new balls kept showing up on the end of the line.  There were 35 balls of light counted and an unknown amount before the counting started.  After 20 or so minutes, the straight line of lit balls moving in a straight line, dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153006.html](http://www.nuforc.org/webreports/reports/153/S153006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Round metallic object flying high in sky with no sound and no vapor trial.My friend and I saw a round metallic object fly across the sky at about 4:30 PM eastern time over Gastonia, NC. It was flying high in the sky above the cloud level moving northwest at a high rate of speed. It made no sound. It had no vapor trial. It had a shiny metallic surface that reflected the sun light. It was perfectly round.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34819.html](http://www.nuforc.org/webreports/reports/034/S34819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
