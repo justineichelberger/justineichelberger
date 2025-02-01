@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The CNN Film footage of the Shuttle Before the Break up.On 2/1/03 at 9am CST I was watching CNN and they were showing Mission Control when they first lost contact with the Shuttle.Around 9:25-9:35 am CST the first film footage was being shown and It definitely showed a object behind the Shuttle before it the Shuttle started to break apart.Within the hour that segment of that particular film footage was not being shown anymore.I have no idea what it was,but it was there and to this date I have not heard anyone talking about it  till I read it here on your site.Also I do have it on VHS.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27687.html](http://www.nuforc.org/webreports/reports/027/S27687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Adamsville (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>5 identicle slow moving large disks took 20 minutes to drift across skyi observed 5 objects flying very slowly across the sky. at first i believed them to be airplains with very short vaper trails. then realized that explination didn't make sence because a plane would move faster then that and create a longer vapor trail with no dispursement of vapor. they seemed to be flying in a pattern, all going the same way, however the pattern seemed to wide for normal airplain pattern. Objects were to far apart. Also, if there were 5 planes in the air that close there should have been some noise, there was no sound. Late afternoon, clear sky, watched for 15 to 25 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41728.html](http://www.nuforc.org/webreports/reports/041/S41728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
