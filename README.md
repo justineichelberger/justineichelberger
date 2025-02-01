@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Cordillera de los Andes (Coya Rancagua) (Chile) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Estabamos con un amigo en el interior de nuestra carpa, contando chistes y hablando de cualquier cosa, cuando de repente una gran luz acompañada de un sumbido ilumino todo el interior de nuestra carpa. Quedamos inmoviles, sin habla, muertos de miedo, ya que en el lugar que estabamos era imposible ver algo asi. Ahora, el supuesto ovni no lo vimos, pero fue algo que no comentamos mas hasta el dia de hoy.  Al otro dia, al bajar hacia Coya por un rio, encontramos a una persona que creimos que estaba muerta en el rio, no nos quisimos acercar, nos dio miedo y al llegar a Rancagua dimos aviso a carabineros. Al otro dia aparecio en las noticias(tvn red ohiggins), que habian encontrado carabineros a una persona que buscaban hace tres meses.  Mas informacion no tengo , es todo lo que se. Mi nombre es((Nombre delteted)), estudio Ingenieria comercial en la Universidad de Concepcion, Concepcion,Chile.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04080.html](http://www.nuforc.org/webreports/reports/004/S04080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Long Sutton, Lincolnshire (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Flying Ferris WheelWhile waiting at traffic lights, I noticed what looked like a grey ferris wheel appear from a cloud and then fly into another cloud.The object was at 2000m.It travelled at 600-700mph.It was as large as a mid-sized jet airliner such as a Boeing 757.It was slate grey.It made no sound.It emitted no light.It was not like any aircraft I have ever seen due to it's shape and there was something strange with the way it flew, but I can't put my finger on it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We are uncertain as to whether this is intended as a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68380.html](http://www.nuforc.org/webreports/reports/068/S68380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
