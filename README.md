@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Detroit (metro area) (MI) reported seeing craft that fit the description of some '' over a period of approximately 1-2 Months - 1-2 Months minutes.</sub><blockquote><sub>Detroit UFO Flap of February 1978This report is of a historical nature.  I want to emphasize that I did not witness a UFO during the time period described. Back in 1978, when I was in high school, I vividly recall a major UFO Flap that occurred in February and March of that year. My friends and I were very excited by it because almost every day there were reports on the local news and radio about another UFO sighting. Some of them were quite spectacular.  However, this major UFO flap seems to have been forgotten in the UFO literature, so I did some research at a local university library of The Detroit News from that time period. I was disappointed that only one article was written during that time. The article has been sent electronically via email. It discusses some of the UFO sightings, but not all of them.  The one I remember most distinctly occurred during afternoon rush hour.  The local television news reported that many witnesses reported a low flying UFO buzzed down the I-96 expressway in Brighton, over hundreds of cars. Apparently, many people got out of their cars to get a better look.  This occurred a week or two before the report about the UFO following the park rangers, which is in the article. I asked a coworker if they remembered the flap.  He said that he did. Surprisingly, he went on to explain that his father was a narcotics detective for the Detroit Police Force and that one of his father’s friends flew the police helicopter. During the time period in question, the Detroit Police helicopter pilot stated that a UFO followed his helicopter. He tried to lose it but could not. I wonder how many other incidents like this may have occurred that were never reported. I will continue to inquire regarding this interesting time period.  Perhaps other readers of your website remember this flap also and can add further details or historic sources.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55967.html](http://www.nuforc.org/webreports/reports/055/S55967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in DeKalb (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Original sent to me that I in turn enhanced.  Picture taken with a cell phone while someone was on break at the DeKalb Forge Company.  I worked at the DeKalb Forge for about 3 years and lived in the neighborhood for about 15 years.  I climbed that water tower in the background of the photo when I was in my teens.  The person who took the picture didn't see the UFO when the picture was taken and later noticed it.  Feel free to post this picture.  I believe that the photo is most likely authentic, not photo shopped.  Sent from phone to phone to me.  Thanks.((NUFORC Note:  We spoke via telephone with the individual who submitted the report, and who forwarded the photos.  He sounded to us to be quite sincere about the event.  We have requested that the person who took the photo submit a report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107233.html](http://www.nuforc.org/webreports/reports/107/S107233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
