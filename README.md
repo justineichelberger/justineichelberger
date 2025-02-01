@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:44 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>30 to 40 lights foming a V shape flying at high speed, observed over Sterling VA on Super Bowl night 2009Clear night, went out to the deck, and looked up to see the stars.  A friend came out behind me for a cigarete smoke. Out of nowhere about 30 to 40 flying objects (lights)appeared.  The formation had a V shape, flying fast and close to each other.  My friend thought they were birds (geese) but I know they were not.  They were not airplanes or helicopters or jets.  As of right now (2/2/09) something tells me the we witnessed something that could be UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68397.html](http://www.nuforc.org/webreports/reports/068/S68397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Yucca Valley/Morongo Valley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I just seen this thing flying in the air I took some pictures and I took pictures of the helicopter chasing it, I can't remember the date it happened just the month and year It is hard to remember even to this day I still feel like I need to forget about the whole thing, if I'm not looking at the pictures I forget about it!((NUFORC Note:  Date is approximate.  Witness forwards photos, which we may post to our site.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34410.html](http://www.nuforc.org/webreports/reports/034/S34410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
