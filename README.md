@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 hovering lights above Lake Washingtonafter driving around Bellevue for awhile, we stopped on top of Somerset hill and were checking out the view. IT was about 5:45am. We look out over lake Washington and hanging in the air are 3 bright lights in a triangle. They just hovered there, not moving for about 5 minutes or so. Then the lower left one started to move off towards Tukwilla, couple minutes later the top one moved off and then finally the third one moved off, all pretty slow and very smooth, not like hellicopters.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56172.html](http://www.nuforc.org/webreports/reports/056/S56172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hillsboro (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Balls of light were noticed around 8pm.  It was noticed that these balls of light were moving and moving in a straight line.  The balls were starting to be counted by the property owner.  The balls moved fast, at the same pace, was spaced out the same amount of space, and new balls kept showing up on the end of the line.  There were 35 balls of light counted and an unknown amount before the counting started.  After 20 or so minutes, the straight line of lit balls moving in a straight line, dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153006.html](http://www.nuforc.org/webreports/reports/153/S153006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
