@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 orange lights over Datona Fl.I was walking my dog when I seen a bright orange light north of me, while watching it there were 4 more Behind it and not going very fast.  There was no sound !  There were 2 small aircrafts, one on the south side of the lights, and one off on the distance which I could hear as they passed by!  They looked to be going north/east toward the ocean!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125711.html](http://www.nuforc.org/webreports/reports/125/S125711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>30 to 40 lights foming a V shape flying at high speed, observed over Sterling VA on Super Bowl night 2009Clear night, went out to the deck, and looked up to see the stars.  A friend came out behind me for a cigarete smoke. Out of nowhere about 30 to 40 flying objects (lights)appeared.  The formation had a V shape, flying fast and close to each other.  My friend thought they were birds (geese) but I know they were not.  They were not airplanes or helicopters or jets.  As of right now (2/2/09) something tells me the we witnessed something that could be UFOs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68397.html](http://www.nuforc.org/webreports/reports/068/S68397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
