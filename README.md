@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fountain Hills (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately Unk - Unk minutes.</sub><blockquote><sub>Orb over Fountain Lake.I took a picture of the sun raising over Fountain Lake with my iPhone 6.  When I posted the picture To Facebook, I noticed the blue/greenish orb to the south of the sun.  I am not aware of any tall features in that area of the park that would reflect the sun, so thought I'd send it to you.((NUFORC Note:  We suspect the small green orb is a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117086.html](http://www.nuforc.org/webreports/reports/117/S117086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Cone' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cone object with Red and Green lights found near Grand Junction desertOn the evening (11 pm) of 2/1/2013 in the vicinity of D1/2 road & 32 road in Clifton I was parked stationary for about 10 minutes while waiting for my son to come out from a friends home.  I was looking at the stars as it was a clear night.  While gazing upward a red flashing light caught my attention and I started looking at it.   I first thought it was an airplane but as I continued to look at it, the light continued to flash red but didn't move along the horizon as a plane would.  Then it disappeared from that spot and literally jumped to another spot.  Still flashing red light but now I'm seeing sporadically flashed of green below the red light.  At this point it jumped to various potions in the sky around the same vicinity that I originally viewed the light. I was very interested in what this was, but my son had come out to the car by then and we went along our way but I did share with him what I'd just seen minute earlier.  From D 1/2 road and 32 road we! headed to I-70 to get to our hotel on I-70 headed west to Horizon Drive in Grand Junction.  As we approached the Horizon Drive exit, my son says,  "Mom, there it is," and points directly to the driver's side window or to the south side of I-70 headed west.  There I looked to see a very large cone shape with rotating red lights at the top of the cone and green strobing lights underneath that were blinking and and circulating as well as moving up and down as like a spring coiling and recoiling.  The object seemed huge to me, the cone being as big as maybe a 15-20 story building.  There was also some sort of mist or cloud around the outer edges of the cone.  I wanted to continue looking at this but I had to direct my attention back to the road as we immediately exited the interstate and parked as fast as possible, but once we had gotten out of the car, the object was gone.  I have never encountered anything like this but my son had been telling me for about four years that he and two of his friends had seen this before but not experiencing it myself, I couldn't wrap my head around it until now.  I'm still rewinding my memory to try and visualize it again.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96196.html](http://www.nuforc.org/webreports/reports/096/S96196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
