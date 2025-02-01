@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Round metallic object flying high in sky with no sound and no vapor trial.My friend and I saw a round metallic object fly across the sky at about 4:30 PM eastern time over Gastonia, NC. It was flying high in the sky above the cloud level moving northwest at a high rate of speed. It made no sound. It had no vapor trial. It had a shiny metallic surface that reflected the sun light. It was perfectly round.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34819.html](http://www.nuforc.org/webreports/reports/034/S34819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stormville (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dagger-like triangle with red lights all along the dagger shape moving slowly, hovering briefly then rising into cloud no sound.I was outside of my house looking at the sky to see how the weather was looking when I saw a dart like triangle with red lights slowly heading east over my house.  The craft was moving very slowly and hovered once making no sound at all.  It rose into the cloud cover and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117103.html](http://www.nuforc.org/webreports/reports/117/S117103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
