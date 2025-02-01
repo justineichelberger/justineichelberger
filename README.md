@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 31 January 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a grey rectangular patch against blue sky, thru binoculars.While watching an ultra light aircraft demonstration, using binoculars, I saw almost directly overhead a light grey rectangular shape against the blue sky. I was looking almost straight up. The rectangular shape had clearly defined edges. The long part of the rectangle was oriented east/west. I looked back at the shape several times in the next few minutes. I always located it quickly in the same spot. It looked like a patch on the sky. There were other spectators around, but none with binoculars. I didn't mention it to anyone, because the demonstration had everyone's attention. After a few minutes, I became very concerned that there was going to be a violent accident with the ultra light aircraft, because the pilot was trying aerobatics in the flimsy craft. I left in my vehicle. I have never mentioned this incident to anyone, nor have I ever again seen anything similar. I am a 69 year old retired banker, a former computer progammer and I was a control tower operator in the Air Force in the late 1940's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03573.html](http://www.nuforc.org/webreports/reports/003/S03573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 orange lights over Datona Fl.I was walking my dog when I seen a bright orange light north of me, while watching it there were 4 more Behind it and not going very fast.  There was no sound !  There were 2 small aircrafts, one on the south side of the lights, and one off on the distance which I could hear as they passed by!  They looked to be going north/east toward the ocean!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125711.html](http://www.nuforc.org/webreports/reports/125/S125711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
