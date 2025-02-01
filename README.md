@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Been watching this all night with binoculars.  Multi colored if you’ve ever seen fireworks  when they explode in the night sky and make a big round series of lights.  It looks like that only permanent.  Very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144751.html](http://www.nuforc.org/webreports/reports/144/S144751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Crown Point (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The CNN Film footage of the Shuttle Before the Break up.On 2/1/03 at 9am CST I was watching CNN and they were showing Mission Control when they first lost contact with the Shuttle.Around 9:25-9:35 am CST the first film footage was being shown and It definitely showed a object behind the Shuttle before it the Shuttle started to break apart.Within the hour that segment of that particular film footage was not being shown anymore.I have no idea what it was,but it was there and to this date I have not heard anyone talking about it  till I read it here on your site.Also I do have it on VHS.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27687.html](http://www.nuforc.org/webreports/reports/027/S27687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
