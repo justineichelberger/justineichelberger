@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:31 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw some object in the sky move very slowly that was not a plane or a star.We're not sure if it is a craft or some object in the sky. My g/f and I were in bed when I looked out the window (in the South West direction) and saw this flashing object in the sky, about the size as any star looks from here. Except it was moving very slowly. Somtimes it would move "less slow" and other times it would just seem to come to a halt. We are sure it moved though. I have it on camera. At one point it seems to have something "break off" of it. Every once in a while it appears to turn to red from blue for short periods of time. We are sure it is not a plane, and we are sure it is not a star in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34815.html](http://www.nuforc.org/webreports/reports/034/S34815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gillette (WY) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Been watching this all night with binoculars.  Multi colored if you’ve ever seen fireworks  when they explode in the night sky and make a big round series of lights.  It looks like that only permanent.  Very, very odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144751.html](http://www.nuforc.org/webreports/reports/144/S144751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
