@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 1 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Randolph (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>extremely fast UFO stopping dead still in mid air with two smaller similar UFO's following then,vanished in the blink of an eyeFor some reason I feel it necessary to share this UFO information which I witnessed in the winter of 1966. For the most part I have kept this information to myself.I was home on leave from the Navy in February 1966.  I had just left my girlfriends house at about 0100 hours in the morning.Driving east on state route 224  where I connected to state route 44  going northbound through the small town of Randolph, Ohio.  This is a rural area and I was the only vehicle on the road at that time of the morning.  There was snow on the roadway and ground which my headlights lit up in front of my vehicle.All of a sudden in the black night sky I observed this egg shaped object through my windshield.  It came out of the night sky from the east.  It was the most amazing thing I have ever witnessed.  This UFO came into view with the speed that nothing on earth could match.  As it came into view it stopped just as fast in mid air right over the road I was traveling on.  Seemed as if it had spotted me and stopped to take a look.  It was only stationary for what seem like five/ten seconds.  Then, with the same blazing speed from a standing stop it took off toward the west and was gone in a split second.This egg shaped object was out in front of me and was just above the tree top level.  I would estimate it was down range from me about a mile.I observed the UFO was the color of a red hot poker with the yellow, almost white hot color, being in the center.  The blue color being on the outer areas with the red and green colors being closer to the center.  Now here is the odd thing.  This UFO had two other smaller ROUND objects following it and they were the same color.  It appeared as if the smaller objects might have been attached. The smaller objects were approximately at a 45 degree angle to the rear of the larger UFO.  The smaller narrower part of the egg shape was the rear of this UFO which, of course pointed east.I was not drinking nor do I drink.  I finished my enlistment in the Navy.  Upon returning home I went to college obtaining my Masters Degree in Education an I'm a retired police officer after twenty plus years of service.I know what I saw that night many years ago was REAL.  I'll never forget it.  What ever it was is not of this world.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65176.html](http://www.nuforc.org/webreports/reports/065/S65176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fountain Hills (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately Unk - Unk minutes.</sub><blockquote><sub>Orb over Fountain Lake.I took a picture of the sun raising over Fountain Lake with my iPhone 6.  When I posted the picture To Facebook, I noticed the blue/greenish orb to the south of the sun.  I am not aware of any tall features in that area of the park that would reflect the sun, so thought I'd send it to you.((NUFORC Note:  We suspect the small green orb is a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117086.html](http://www.nuforc.org/webreports/reports/117/S117086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
