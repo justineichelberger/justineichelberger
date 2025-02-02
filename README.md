@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Essex (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>MY DAUGHTER LIVES 5 MILES SOUTHWEST OF THE SMALL TOWN OF ESSEX ONT. SHE WALKED INTO HER KITCHEN OVER TO THE SINK AND HAPPENED TO GLANCE OUT HER WINDOW. THERE ARE TWO FIELDS BETWEEN HER FARMHOUSE AND THE NEIBOROUGH(ABOUT 1/4 MILE)SEPERATED BY A DIRT ROAD. WHAT SHE SAW WAS THREE SMALL DAZZELIGLY BRIGHT LIGHTS THAT WERE CLOSE TOGETHER ABOUT 20 FT. ABOVE THE GROUND ABOUT 30 FT. INTO THE FIELD NORTH OF HER MAIN ROAD.BELOW THESE BRIGHT LIGHTS, CLOSE TO THE GROUND WAS FAIRLY NARROW BUT VERY WIDE BAND OF RAINBOW COLORED PASTEL LOOKING LIGHT, THAT SEAMED TO FLOW FROM LEFT TO RIGHT.WHAT EVER IT WAS SEEMED TO KNOW SHE WAS LOOKING AT IT BECAUSE IT STARTED FLOATING ACROSS THE DIRT ROAD AND ACROSS HER FIELD TOWARDS HER HOUSE. SHE WAS FROZEN TO THE SINK WITH FEAR. SHE COULD NOT MAKE OUT ANY SHAPE BECAUSE OF IT BEING SO DARK AND THE LIGHTS BEING SO BRIGHT. BUT SHE FELT THAT IT WAS HUGE. FIFTY FEET WIDE OR SO BY 20 FT TALL.SHE HEARD NO SOUND. ALL OF A SUDDEN THE LIGHTS WENT OUT AND THE THING WAS GONE.THIS IS NOT THE END OF THE STORY. SHE TOLD HER LAND LADY ABOUT THE EVENT THE NEXT MORNING ON SAT. FEB. 03/02 AND HER LAND LADY TOLD HER THAT HER AND HER HUBAND(THEY LIVE TO THE EAST SIDE AND BEHIND MY DAUGHTER)SAW THE SAME THING IN THE MID 90'S SHORTLY AFTER MOVING THERE, WHICH LEFT WOVEN CROP CIRCLES IN THE SUMMER WHEAT FIELD.THE FARMER THAT OWNED THE (SAME FIELD MY DAUGHTER FIRST SAW THE LIGHTS IN)PLOUGHED UP THAT FIELD 2 DAYS LATER.THIS GETS INTERESTING. ON SUNDAY NIGHT, TWO DAYS AFTER MY DAUGHTER'S EXPERIENCE THE LAND LADY WENT TO THE BARN TO FEED HER ANIMALS AND NOTICED LIGHT COMMING INTO THE BARN WINDOW. WHEN SHE LOOKED OUT SHE SAW THE SAME THING MY DAUGHTER HAD SEEN, BUT IT ONLY HAD TWO LIGHTS ON TOP THAT SHE COULD SEE. THIS TIME THE LIGHTS WERE FARTHER BACK IN THE FIELD. THEY TOO STARTED MOVING TOWARDS HER BARN AS IF KNOWING SOMEONE WAS WATCHING THEM. SHE ABSOLUTELY FREAKED OUT AND RAN TO THE HOUSE TO CALL 911. THREE ESSEX POLICE CARS RESPONDED TO THE CALL. THEY COULDN'T FIND ANYTHING, BUT TOLD HER TO HAVE A CAMERA READY AND TO CALL RIGHT AWAY IF IT RETURNED. AFTER THE POLICE LEFT SHE CALLED MY DAUGHTER(WHO SAW THE POLICE CARS)AND TOLD HER THAT THE "THE BASTARDS ARE BACK".SHE THEN TOLD HER WHAT HAPPENED.THIS IS NOT A HOAX AND IS TOLD TO YOU EXACTLY AS IT WAS TOLD TO ME..THANK YOU.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21733.html](http://www.nuforc.org/webreports/reports/021/S21733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in White River (South Africa) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star like strand of lights moving south to north soundlessly and slowly clearly visible with naked eye</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153000.html](http://www.nuforc.org/webreports/reports/153/S153000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
