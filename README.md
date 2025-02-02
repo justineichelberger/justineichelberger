@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Charlottetown (Canada) (PE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>fireball over charlottetownI was outside having a cigarette on our back patio, when I saw what looked like a fireball shoot across the sky horizontally.  The object was in the southern sky travelling in a eastern direction, and it was pretty low between 500 and a 1000 feet aprox.  The object also left a very long vapor trail behind it which hung in the air for aproximatly 20 minutes and had alot of sparks coming from behind it.  I'm pretty sure this wasn't a meteor cause it was so low and it made no noise at all.  I called my dad out right away and he saw the vapor trail left behind and he also couldn't believe it made no sound.  I sure someone else must have seen this object, and I'd like to know if they did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34868.html](http://www.nuforc.org/webreports/reports/034/S34868.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Eau claire (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>circlure object with very bright lights.i was driving home this morning i noticed some lights ahead i slowed down and the image appeared ciclure and metallic. there were lights that seemed to rotate and the craft had a kinda mirror effect to it. i was about 50 feet away from it.it shot straight up very fast and then was gone. there seemed to be a kind of electric charge in the air.i am not sure what it was but it was nothing i have never seen before. i am a 31 year old female and i have little to no information on ufo's so i could be wrong with what i thought it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21642.html](http://www.nuforc.org/webreports/reports/021/S21642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
