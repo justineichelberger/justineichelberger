@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:29 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:17 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Hartford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately months - months minutes.</sub><blockquote><sub>Two sets of blinking lights in the sky.  Can be seen on clear nights.I have seen a blinking light in the sky during many nights.  I have pointed it out to many of my friends and they all see it too.  There are 3 different colors that it blinks rapidly.  Red, White, and Blue.  Just recently I was able to see the lights very well in the clear night and I looked at it with binoculars and was able to see it a little clearer and it is definetly blinking white blue and red.  I had my friend look at it too and she saw it in the binoculars as well.  Then I looked up the street that we were standing on and there was another blinking light off in the distance that wasn't moving either.  The lights were both staying in the same places for the whole entire night and I can go out on a clear night and point them out to anyone who might be able to explain what it is.  If there is someone that I can contact to investigate these strange lights please email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41741.html](http://www.nuforc.org/webreports/reports/041/S41741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Formation flight of military C-17 transports, flying at approximately 1,500 feet.))o Jumbo Jets flying low and slow.At 19:49 I was driving a Metro bus on NE 143 ST, making a left onto 30 Ave NE. While waiting at the stop sign to make the turn, I saw two large airplanes traveling east over the NorthCity area, coming towards LakeCity. After I made the turn onto 30 AV NE I tried to keep an I on them as they where flying VERY low and very close together, one following the other. Both planes had numerous lights on. When they got over LakeCity they banked to their right, about 90deg. It was not a sharp bank but a slow bank over a few miles, where they then continued south out of my view. In this area we see a lot of planes flying low due to the numerous large airfields around. I have just never seen two large plane in this close a formation this low before. If I had to make a guess as to altitude I would say between 1500 and 3000 feet max. Distance between planes 1/8 of a mile. I am making this report because I was listening to Peter on Art Bell's Wed., night show when he reported this. Since I saw the two objects that where reported, I thought I would say what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11859.html](http://www.nuforc.org/webreports/reports/011/S11859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
