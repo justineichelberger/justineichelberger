@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:34 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Martinsville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>very low silent and moved very slowly and stoped sometimes to hover</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50866.html](http://www.nuforc.org/webreports/reports/050/S50866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cancun (Quintana Roo) (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two bright lights zigzaging over CancunAt approximately 1:53am on Saturday Feb. 2nd, my friend and I were sitting on our balcony at the Barcelo Tucancun looking at the stars.  Suddenly what appeared to be two shooting stars dropped out of the sky, then quickly made a right angle.  They were moving very quickly one on top of each other and then starting chasing each other in a zigzag pattern as if either fighting or playing.  The most dramatic event was when the one literally reversed and went around and underneath the other; and then they both flew away.  We then woke our other two friends up and at approximately 3am; we then saw a varying times within a 20 minute period; three quick shooting objects of light (almost like shooting stars but they clearly were not).  Just to be clear, we witnessed this sighting completely sober.  We had not been drinking and were clear minded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61493.html](http://www.nuforc.org/webreports/reports/061/S61493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
