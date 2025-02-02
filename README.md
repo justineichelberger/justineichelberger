@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Seattle/Belfair (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Huge, bright orb in sky over Seattle in 1960s.This happened between 1964 and 1967. It was before the sun came up and through the trees at Belfair near Hood Canal there was a huge sun like object low in the sky, perhaps to the west.  It did not move and I watched it until daylight when it just faded away into the sky.At that time Frosty Fowler has doing his radio show from the Seattle Space Needle and he commented on it several times. Thousands of people must have seen it. Frosty wroked for KING radio so maybe you can track him down. After all these years I'm not certain of the date it happened but it was scary.((NUFORC Note:  Date is approximate.  We would welcome other reports from residents in Washington State who might have seen the object, or who might have heard the broadcast.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29476.html](http://www.nuforc.org/webreports/reports/029/S29476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Backwards flying, triangle, no sound ship 3 lights.Coming home from work with son and daughter.  My daughter yelled, "Mom, look!"  As I got out of the car, both son and daughter was looking at the sky. When I saw it I couldn't believe it.  Low slow flying backwards triangle shape craft.  3 lights in the shape of a triangle but close enough to see the shadow of the ship.  Absolutely no sound from the ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125606.html](http://www.nuforc.org/webreports/reports/125/S125606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
