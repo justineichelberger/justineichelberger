@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Thatcher (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange glowing light, appeared to be circular, coming from NW to SE direction disappeared in clouds.  It did not make a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106904.html](http://www.nuforc.org/webreports/reports/106/S106904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Quiet strange large lights hovering in the skyI was driving back home on Heron Road.  I noticed lights in the sky but they looked strange.  I see planes often because I live near an airport but it was too big and had too many lights to be one.  And it was also quite low and it wasn't moving.  It was almost like hovering.  I tried to get a better view but I was driving.  Then it started moving slowly north.  This thing I saw had white and red lights.  It looked just like a row of lights but it was very long.  There were for sure two bigger red lights in the middle...I can't remember if there was a third one in the centre and a bit higher then the other two red lights.  Then there were a bunch of smaller white lights on the sides lined up beside the red lights.  So basically it looked like straight white lights on the endsand in the centre were the red lights.  I couldn't tell the shape of this object because it was dark.  All I saw were the lights and they were just a straight line.  And it was big and quite low.  It had too many lights to be a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49000.html](http://www.nuforc.org/webreports/reports/049/S49000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
