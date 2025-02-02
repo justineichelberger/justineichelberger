@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:04 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:27 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Brilliant,silver disk. 50 to 55 degree angle of sight. Appears to be stationary in sky.Smaller object 1/8 the size of larger,same color and shape emerges and accelerates away at a very high velocity.out of sight.The smaller objects direction of travel appeared to be at a 90 degree  angle to my line of sight, leval to the horizon.The larger objects size would be smaller than the size of a dime held at arms length and the smaller object would be about the size of a pencil eraser.The sky      [ back ground ] was perfectly clear. No clouds,  no haze</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05742.html](http://www.nuforc.org/webreports/reports/005/S05742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Thackery (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Objects that move much more quickly than airplanes.  They moved strait up and down even below tree tops.  They would stay still for many minutes and then dart quickly away.  They seemed to land in fields around us. Me and my father saw about 25 of these objects on the way home.  I am 15 and my father is 42 and works as a manager for GTE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02117.html](http://www.nuforc.org/webreports/reports/002/S02117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
