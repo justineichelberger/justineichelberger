@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glenwood Landing (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I HAD SEEN AN AIRCRAFT ON THE HORIZON FIFST AS A CIGAR THEN A BALLI WENT DOWN TO TAPPAN BEACH TO EAT MY DINNER. I PARKED NEAR THE DOCKS. I WAS LOOKING AT A STRANGE LIGHT THAT WAS NORTH NORTH WEST. I DECIDED TO GO HOME TO GET MY VIDEO CAMERA TO GET A BETTER LOOK AT IT. JUST IN CASE IT WAS WORTH TAPING. IT LOOKED LIKE IT WAS MOVING BUT THEN SO IS THE EARTH. WHEN I CAME BACK, WHICH WAS IN ABOUT 5 MINUTES, I LIVE UP THE BLOCK. I SAW A LONG CIGAR SHAPED LIGHT GRAY TO WHITE OBJECT. THIS WAS IN ADDITION TO THAT ALMOST STATIONARY LIGHT. AT FIRST I THOUGHT IT WAS A PLANE CAUSE BEFORE I WENT TO GET MY CAMERA I SAW 3 HIGH FLYING PLANES WITH THE DUAL TRAILS OF SMOKE IN THE SKY. I THOUGHT IT WAS ONE OF THEM. I WATCHED IT FOR ABOUT 30 SECONDS. IT WAS THE LENGTH OF ABOUT 7 COMMERCIAL JETS IF YOU LINED THEM UP. IT WAS MOVING REALLY SLOW FOR SOMETHING THAT BIG. IT WENT BY THAT OTHER LIGHT. I NEW IT WASN'T A PLANE WHEN IT LOOKED LIKE IT SEEMED TO TURN TOWARDS MY DIRECTION AND THEN IT TURNED INTO A BALL. ORIGINALY IT WAS HEADING EAST. THEN WHEN IT TURNED INTO A BALL IT STARTED TO HEAD BACK WEST. THE GUY AT THE UFO CENTER ASKED IF THIS MIGHT OF BEEN A BALLOON. IF YOU LISTEN TO THE TAPE YOU CAN HEAR HOW WINDY IT WAS. NO WAY WAS THIS A BALLOON. BALLOONS DON'T FLY AGAINST THE WIND. I ONLY GOT ABOUT 90 SECONDS OF THIS CAUSE MY HANDS STARTED TO FREEZE. I WENT BACK TO MY CAR FOR GLOVES. TURNED AROUND TO LOOK FOR IT AND IT AND THAT OTHER LIGHT WERE GONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11840.html](http://www.nuforc.org/webreports/reports/011/S11840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Hartford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately months - months minutes.</sub><blockquote><sub>Two sets of blinking lights in the sky.  Can be seen on clear nights.I have seen a blinking light in the sky during many nights.  I have pointed it out to many of my friends and they all see it too.  There are 3 different colors that it blinks rapidly.  Red, White, and Blue.  Just recently I was able to see the lights very well in the clear night and I looked at it with binoculars and was able to see it a little clearer and it is definetly blinking white blue and red.  I had my friend look at it too and she saw it in the binoculars as well.  Then I looked up the street that we were standing on and there was another blinking light off in the distance that wasn't moving either.  The lights were both staying in the same places for the whole entire night and I can go out on a clear night and point them out to anyone who might be able to explain what it is.  If there is someone that I can contact to investigate these strange lights please email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41741.html](http://www.nuforc.org/webreports/reports/041/S41741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
