@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bluefield/Bland Virginia (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light and flash?My fiancee and I were traveling back from West Virginia to South Carolina on Sunday.  I had national guard drill on this weekend.  We left WV around 6-615pm because the snow storm started and I had to work Monday night and didn't want to be stranded and miss work.  It takes about 2-3 hours to get to the East River Mountain Tunnel where this occured.  (Bluefield WV - Bland County Virginia I-77 southbound).  We exited the tunnel which enters Virginia - Bland County?  Not 100% on that.  After exiting I looked to the right because cops/state police usually sit there and a car passed us going over the speed limited which is why I looked there.  The next thing I remember I was facing forward without remembering changing the way I was looking.  It almost looked like it was daylight outside, but the light seemed like a white light with a extremely light haze/fog.  During this time I remember thinking why is it light outside its 9-10pm at night in the winter, then a bright flash came over and the light was gone.  My fiancee next said did the car just die or are the lights off?  We both looked and the car was still running and the lights were still on, the transition from the bright light to just the car lights may have caused us to think the car died or the lights were off.  We had also slowed down from about 55 mph to about 35-40 mph, as well as the car in front of us and cars in the opposite lanes.  This is when we questioned what just happened it all seemed to happen in a short amount of time.  I remember looking back and the tunnel was not in sight...which means we traveled a good distance in this white light before the flash and us slowing down and it seemed like several minutes passed by during this.  Has anyone else experienced something like this?  I would also like to add I saw a strange formation of lights with no particular pattern that we both saw in Charleston, WV, about 2 hours before exiting the tunnel.  The colors of light in the staggered! formation were a bright white to a burnt orange</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106931.html](http://www.nuforc.org/webreports/reports/106/S106931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Solitary Red Light in Southern Sky, hovering, moving strangely and suddenly about, then disappearing.Left my house to go to the store and noticed a solitary red light hovering motionless in the southern sky.  Stopped to watch, as I had seen this sort of thing before a few years past on Christmas Eve 2011.  As I watched it moved quickly to the South, stopped, then drifted slowly back to original position.  Moved slowly upwards after a few moments, then quickly down.  It kept moving sporadically and stopping, in the most unusual fashion, then as I turned my head for a moment, disappeared completely.  Just then a helicopter appeared in the area.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125608.html](http://www.nuforc.org/webreports/reports/125/S125608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
