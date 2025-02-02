@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:27 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Thackery (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Objects that move much more quickly than airplanes.  They moved strait up and down even below tree tops.  They would stay still for many minutes and then dart quickly away.  They seemed to land in fields around us. Me and my father saw about 25 of these objects on the way home.  I am 15 and my father is 42 and works as a manager for GTE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02117.html](http://www.nuforc.org/webreports/reports/002/S02117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ottumwa (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white sphere pulsing to a amber colorOttumwa , Iowa 9:00 pm  2-3-09   My friend was on his way driving to pick me up . On his way he notices a bright light hovering above the high school football field. He picks me up and tells me to check out something  and we go over  the hill on iowa avenue  and   he says "look"  i see it right over what i can say is either the field itself or over the center of town.  It is a bright white light and sitting there , i think is this a helicopter  coming dead on at first. I roll down the window and no sound and so sign of red or blue lights ?  So we turn the corner and shortly after the thing begins to Pulse and turns from white to  a amber color  with a white streak to the left  and is gone! We are looking in the same area and then look and see it way off to the south west of town but dimmer .    It is in the direction of the mall , now we begin to trip out !!! Now this is where we are not sure it is the same thing or another craft . So we head towards its direction and this thing moves to the north west and then hovers over from what i can tell is the tree line and descends in a fielded area where mostly corn fields should be .  I have portions of this footage on my digital camera and him on his cell phone  during half the chase. Unfortunately i did not record the footage from when we first saw this thing at it's brightest. I will say it was as intense as the moon but smaller hard to say what size it was. It clearly was not a conventional air craft , planet , and performed excessive speeds.This was not a Chopper a Plane or Venus this was a moving object that traveled in 4 directions and changed color and defied what we know. My friend wanted to chase it in to the country side and i was against it. So we abandoned the chase.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68444.html](http://www.nuforc.org/webreports/reports/068/S68444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
