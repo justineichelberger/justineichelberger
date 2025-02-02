@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Eau claire (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>circlure object with very bright lights.i was driving home this morning i noticed some lights ahead i slowed down and the image appeared ciclure and metallic. there were lights that seemed to rotate and the craft had a kinda mirror effect to it. i was about 50 feet away from it.it shot straight up very fast and then was gone. there seemed to be a kind of electric charge in the air.i am not sure what it was but it was nothing i have never seen before. i am a 31 year old female and i have little to no information on ufo's so i could be wrong with what i thought it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21642.html](http://www.nuforc.org/webreports/reports/021/S21642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Abbotsford (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately ~6 H - ~6 H minutes.</sub><blockquote><sub>abducted by circular ufo while camping I was camping in the Abbotsford outskirts area very late one night, and I was having issues sleeping because of my back, I was sitting outside by the campfire, when all of the sudden I felt an odd rumbling sensation in my abdomen. Compelled by this strange feeling, I picked up my flashlight and looked around the local area. I found nothing, and I decided to go and sit down again. I sat there for the next 20 minutes,with a growing feeling of uncertainty and discontent washing over me. That's when it happened.The air around me grew very warm, a high pitched sound reached my ears.  Unsure of what was happening, I stood up.  A bright light, with a red tint to it surrounded me.  I felt myself loosing consciousness, and I fell to the ground.I drifted in and out of consciousness, each time I awoke, I remember seeing a bright light and blurry silhouettes all around me. The most apparent thing to me was that the figures were very short, no taller than a meter or so, and the table I was lying on was very close to the ground. I remember that occasionally the abductors would speak to each other, always in a high-pitched, rushed sort of way.Many hours later, I woke up. I was outside. I stood up, and I felt dizzy. Stumbling, I looked around the small clearing I was in. I finally found my tent, after walking around for nearly 15 minutes.I wasn't exactly sure of what happened. I packed up my tent, and other camping gear as fast as I could. I drove back to my house and went to bed. My dreams were disturbed with strange dreams of symbols I'd never seen before, as well as that same strange high-pitched noise I heard the previous night.Since then, I had a psychological evaluation done, and it came out completely fine. I am thoroughly convinced that I have come into contact with extra-terrestrials of some kind. Before that incident, I was like many people, a skeptic. I write this now as a believer, one who has experienced abduction, and has to live with it's horrible repercussions for the rest of my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69021.html](http://www.nuforc.org/webreports/reports/069/S69021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
