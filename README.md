@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Abbotsford (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately ~6 H - ~6 H minutes.</sub><blockquote><sub>abducted by circular ufo while camping I was camping in the Abbotsford outskirts area very late one night, and I was having issues sleeping because of my back, I was sitting outside by the campfire, when all of the sudden I felt an odd rumbling sensation in my abdomen. Compelled by this strange feeling, I picked up my flashlight and looked around the local area. I found nothing, and I decided to go and sit down again. I sat there for the next 20 minutes,with a growing feeling of uncertainty and discontent washing over me. That's when it happened.The air around me grew very warm, a high pitched sound reached my ears.  Unsure of what was happening, I stood up.  A bright light, with a red tint to it surrounded me.  I felt myself loosing consciousness, and I fell to the ground.I drifted in and out of consciousness, each time I awoke, I remember seeing a bright light and blurry silhouettes all around me. The most apparent thing to me was that the figures were very short, no taller than a meter or so, and the table I was lying on was very close to the ground. I remember that occasionally the abductors would speak to each other, always in a high-pitched, rushed sort of way.Many hours later, I woke up. I was outside. I stood up, and I felt dizzy. Stumbling, I looked around the small clearing I was in. I finally found my tent, after walking around for nearly 15 minutes.I wasn't exactly sure of what happened. I packed up my tent, and other camping gear as fast as I could. I drove back to my house and went to bed. My dreams were disturbed with strange dreams of symbols I'd never seen before, as well as that same strange high-pitched noise I heard the previous night.Since then, I had a psychological evaluation done, and it came out completely fine. I am thoroughly convinced that I have come into contact with extra-terrestrials of some kind. Before that incident, I was like many people, a skeptic. I write this now as a believer, one who has experienced abduction, and has to live with it's horrible repercussions for the rest of my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69021.html](http://www.nuforc.org/webreports/reports/069/S69021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Curitiba (Brazil) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A big cylinder floating in the skyI was watching tv beside the window and i looked out the window and i saw a big gray cylinder in the sky.It was as big as one plane when it´s far away,and it kept rolling and floating and sometimes it shone because the material was sort of an iron.Suddently it just stoped.Then it kept rolling and floating again but it started going up.It went higher than a plane could reach and it went on going up and it got out of view.Then i looked for it but it wasn´t there anymore.So about 15 minutes later i went back to the window i had seen it and it came again,but it was too far away and it disappeard about 1 minute later.The whole time my mother and my sister were with me and they both said it was really strange and that it really looked like a space ship.((NUFORC Note:  Witness elects to remains anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21646.html](http://www.nuforc.org/webreports/reports/021/S21646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
