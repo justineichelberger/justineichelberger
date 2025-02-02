@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:17 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 2 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Formation flight of military C-17 transports, flying at approximately 1,500 feet.))o Jumbo Jets flying low and slow.At 19:49 I was driving a Metro bus on NE 143 ST, making a left onto 30 Ave NE. While waiting at the stop sign to make the turn, I saw two large airplanes traveling east over the NorthCity area, coming towards LakeCity. After I made the turn onto 30 AV NE I tried to keep an I on them as they where flying VERY low and very close together, one following the other. Both planes had numerous lights on. When they got over LakeCity they banked to their right, about 90deg. It was not a sharp bank but a slow bank over a few miles, where they then continued south out of my view. In this area we see a lot of planes flying low due to the numerous large airfields around. I have just never seen two large plane in this close a formation this low before. If I had to make a guess as to altitude I would say between 1500 and 3000 feet max. Distance between planes 1/8 of a mile. I am making this report because I was listening to Peter on Art Bell's Wed., night show when he reported this. Since I saw the two objects that where reported, I thought I would say what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11859.html](http://www.nuforc.org/webreports/reports/011/S11859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glenwood Landing (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I HAD SEEN AN AIRCRAFT ON THE HORIZON FIFST AS A CIGAR THEN A BALLI WENT DOWN TO TAPPAN BEACH TO EAT MY DINNER. I PARKED NEAR THE DOCKS. I WAS LOOKING AT A STRANGE LIGHT THAT WAS NORTH NORTH WEST. I DECIDED TO GO HOME TO GET MY VIDEO CAMERA TO GET A BETTER LOOK AT IT. JUST IN CASE IT WAS WORTH TAPING. IT LOOKED LIKE IT WAS MOVING BUT THEN SO IS THE EARTH. WHEN I CAME BACK, WHICH WAS IN ABOUT 5 MINUTES, I LIVE UP THE BLOCK. I SAW A LONG CIGAR SHAPED LIGHT GRAY TO WHITE OBJECT. THIS WAS IN ADDITION TO THAT ALMOST STATIONARY LIGHT. AT FIRST I THOUGHT IT WAS A PLANE CAUSE BEFORE I WENT TO GET MY CAMERA I SAW 3 HIGH FLYING PLANES WITH THE DUAL TRAILS OF SMOKE IN THE SKY. I THOUGHT IT WAS ONE OF THEM. I WATCHED IT FOR ABOUT 30 SECONDS. IT WAS THE LENGTH OF ABOUT 7 COMMERCIAL JETS IF YOU LINED THEM UP. IT WAS MOVING REALLY SLOW FOR SOMETHING THAT BIG. IT WENT BY THAT OTHER LIGHT. I NEW IT WASN'T A PLANE WHEN IT LOOKED LIKE IT SEEMED TO TURN TOWARDS MY DIRECTION AND THEN IT TURNED INTO A BALL. ORIGINALY IT WAS HEADING EAST. THEN WHEN IT TURNED INTO A BALL IT STARTED TO HEAD BACK WEST. THE GUY AT THE UFO CENTER ASKED IF THIS MIGHT OF BEEN A BALLOON. IF YOU LISTEN TO THE TAPE YOU CAN HEAR HOW WINDY IT WAS. NO WAY WAS THIS A BALLOON. BALLOONS DON'T FLY AGAINST THE WIND. I ONLY GOT ABOUT 90 SECONDS OF THIS CAUSE MY HANDS STARTED TO FREEZE. I WENT BACK TO MY CAR FOR GLOVES. TURNED AROUND TO LOOK FOR IT AND IT AND THAT OTHER LIGHT WERE GONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11840.html](http://www.nuforc.org/webreports/reports/011/S11840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
