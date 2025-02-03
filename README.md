@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Lights chasing each other and disappearingI was standing outside smoking with a friend.  She suddenly exclaimed, "Oh My GOD, What is that?"   I tried to look and saw nothing.  She described lights that were red and seeming attached by a 'string' wobbly around each other in the tree line nearby. When I looked they were gone.  We began to walk closer and at that moment I saw two lights (white or yellow in color) zoom into view from behind the trees.  They instantly stopped about 25 feet or so outside of the tree line and then sped back in the opposite direction chasing each other.  They were around 10 feet apart and maintained the distance.  We never saw them again.We looked into the sky for answers and we saw a strange star.... we were told it was Sirius, but the coincidence made us worry.  I have never seen anything like what we saw originally.  It was about 20 feet off of the ground and moved in perfect precision to it's partner.  Soon afterwards we saw plane trails high in the sky.  We never see them here in the night, we are not near an airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87004.html](http://www.nuforc.org/webreports/reports/087/S87004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We saw a white, steady light move across the Northern sky from East to West in less than 1 second in Tucson, Az.My friend and I were heading North on 1st Avenue in Tucson, AZ. We were at a stoplight with considerable light pollution (i.e. yellow street lights, commercial signs, etc.) and were looking straight ahead. We both saw a bright, steady white light move from the middle right of the windshield to the upper left (East to West) at a high rate of speed-it crossed the windshield in less than 1 second. It dissappeared into the west. The light appeared to be slightly larger than the size of Jupitor or Venus seen on a dark night. There was no flickering, fading or sparking as I've seen with meteorites before, and the angle of travel seemed inconsistant with an object entering the atmosphere, or even skipping across the upper atmosphere. It looked to be ascending. The steadiness and clear whiteness of the light gave us the impression it was artificial. The speed, however, was astonishing. We had the impression the light was a good distance away (meaning more than a few hundred yards-seemed like a few miles at least), but have no idea of true distance or speed-just that it was very, very fast. There wasn't any sonic boom or other noise we could associate with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42655.html](http://www.nuforc.org/webreports/reports/042/S42655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
