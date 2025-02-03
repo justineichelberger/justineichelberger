@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Licking (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three huge bright white lightsI awoke to three very large bright white lights in a row.  They were not perceptively moving and not near eachother, but elevated at the same height and distance in the sky.  They were larger than search lights, but had no visible direction or evidence of a beam.  Stationery and holding about a mile above ground.  I woke up my boyfriend and we talked about what could be hovering a few miles north of the prison.  After 20 minutes of watching, we went back to bed, figuring someone else would have already reported them.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75544.html](http://www.nuforc.org/webreports/reports/075/S75544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Highlands Ranch (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>SW Highlands Ranch, CO 05:42 sighting of brilliant "falling" white light that STOPPED mid-sky & became horizontal strobe lit UFO...This is my 2nd early morning sighting of some type of UFO in the last two months. Since 12/19/08, having seen and reported a very up close UFO, I’ve felt almost paranoid to be truthful. I’ve found it best not to say too much to too many people, as they are justifiably skeptical.Since, my husband and I have been constantly looking to the skies over Highlands Ranch, CO.This morning, 01/03/2009, at 05:42, I was in our bedroom with the lights off. The skies were pitch black as I could see stars, and to the north, airplane’s lights approaching DIA.Looking out the window, in a southwestern direction, toward the mountains, quite a ways out in the distance, I saw an extremely bright light "falling" straight down. At first I thought it may have been a comet (however, the light was "brilliant" and there was NO trail) and then it stopped...just stopped...and the brilliant white light suddenly disappeared and a horizontal strobe of varying colored lights came on the object.Still not certain of what I was seeing (I thought it may have been an airplane that had a close call and perhaps the lights were on wing tips as I was admittedly trying to talk myself out of what I was seeing) when suddenly a very long, diffused looking white light shot straight down from the object for about 2-3 seconds (the light was about 1/3 the distance between the object and the horizon from my viewpoint) and then that light went away. (If it had been daylight, I’d say it looked like a long, large jet-trail--going straight DOWN!)  As I noted the object had been in one location for a while now, I quickly went to the living room and opened the blinds and was relieved to STILL be able to see it.The view from the bedroom had been better, so I went back and as I was watching it, 2 very long, diffused looking white lights shot out horizontally (one to the left, one to the right of the object) again lasting about 2 seconds.There had been no movement of the object now for a number of minutes. About 2 minutes later, the 2 horizontal lights came on for about 2 seconds again! Then, all of the lights just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68420.html](http://www.nuforc.org/webreports/reports/068/S68420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
