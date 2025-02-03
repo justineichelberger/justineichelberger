@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I smoke on my front porch frequently.  I was out tonight and saw a bright orange ball I thought it was a planet but it was lower.  I looked at my phone looked up it's still there looked away for maybe 5 seconds then looked up it was gone.  It was very bright orange white color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132447.html](http://www.nuforc.org/webreports/reports/132/S132447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Grand Haven (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Red lights moving in the skyA co-worker entered our building after a smoke brake.  He told me he seen a red light in the skyl. He described it as moving in different directions and abruptly changing speeds.  Another coworker and I went outside to take a look.  Out West miles up in the sky a red light was moving around in straight lines but quickly changing directions.  It was moving about an inches length in distantce if held arms length from the body.  After seeing this for about 25 seconds it changed pattern and moved in a circular motion coming to a stop.  I went inside and told 14 co-workers what me and the other worker had seen.  We all went outside.  I pointed to them the light.  Everybody agreed that it was very redder than a normal star but it had to be a star.  It was not mars.  Just a redder star.  We looked at it for 4 minutes and went back inside.  I stayed inside for ten minutes and went back outside.  It was still there in the same spot.  I looked at it for a few minutes.  I went back inside for another ten minutes and then went back out.  It was still there but its reddish color seemed now to look like a regular light.  I frequently went outside for the next 45 minutes until our time expired.  After work i was telling my boss what I and the other two workers had seen.  Just like we were telling our co-workers during work.  He kept smiling for a couple minutes and then said oh my god.  Do you mean like those.  I looked up in the sky and seen two red lights moving towards the idle white one.  These lights were much closer.  Clouds started to move in from over lake michigan and made viewing the lights difficult.  We noticed three more lights at the same heighth moving in the same direction.  Their view became blocked by clouds.  This event covered about a minute. I figure some planes might have seen this because some did fly near the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34877.html](http://www.nuforc.org/webreports/reports/034/S34877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
