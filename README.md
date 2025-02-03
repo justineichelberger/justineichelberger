@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sultana (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 42.0 - 42.0 minutes.</sub><blockquote><sub>On the night of February 3, 2004 me and a friend where watching the night sky we noticed a strange craft in the western hemisphere it was quite high in the sky.  I went inside my house to get a camera and when I came out my friend hollared at me and told me that it stopped in the sky and that it was just glowing.  I seen it and started taking pictures of it but then realized that I had no film in my camera so i just used the flash from the camera to try to get its attention.  After flashing twice with the camera's flash it was responding to use with flashes the same way we were flashing at it. It then moved closer to us and kept flashing even when we didn't flash back.  We could see an outline of the ship it was diamond shaped and it had no windows it had a glowing bottom that pulsed with yellow and whitish tint.  It made no sound and it just kept flashing at us 2 times.  Then it speeded away at incredible speed to where it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34891.html](http://www.nuforc.org/webreports/reports/034/S34891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular bodies with flashing lights midway between downtown and south San Jose on highway 87Was driving down highway 87 southbound when from far away my friend and I saw a really bright light.  At first we figured it was a plane, but we realised it was stationary.  Once we got closer, right by the hills halfway between downtown and the intersection with highway 85, we observed the craft from about 500 ft, and saw it was triangular in shape, probably about the size of a car itself.  We saw a second one later on down the road, and maybe a third one but it was too far to tell.  They were both with the same characteristics though, stationary and the same lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106918.html](http://www.nuforc.org/webreports/reports/106/S106918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
