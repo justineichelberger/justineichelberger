@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Covingtion (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Looked like a star,but 10 times biger,Looked like a star,but 10 times biger(a BBshot @ arms length).As it clouded up there was a halo like is around the moon it was seting still. It was west north west of SH 171 & FM 67 @ a 30 digree angle maby over ElPaso. PS the little diper was just about over head</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16155.html](http://www.nuforc.org/webreports/reports/016/S16155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very bright light, slow moving object that made no audible noise.I was on the front porch when I saw a bright light moving very slowly in the sky that did not resemble a plane or helicopter traveling west to east.  Our property is often flown over by both types of aircraft (planes and helicopters).  This was a very bright white light that did not flash.  Was brighter that a normal spot light or landing light.  There was also no red or green flashing as on other aircraft.  The craft appeared to be lower than the cloud cover.  There was cloud cover but not dense, could still see stars through the clouds.The object made no noise, in fact as I was watching this object a regular aircraft flying from the east to the west flew over and was at a higher altitude and I heard this plane with no problems.  Continued to watch the unknown craft until it disappeared to the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61466.html](http://www.nuforc.org/webreports/reports/061/S61466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
