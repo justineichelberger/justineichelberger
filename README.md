@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We saw a white, steady light move across the Northern sky from East to West in less than 1 second in Tucson, Az.My friend and I were heading North on 1st Avenue in Tucson, AZ. We were at a stoplight with considerable light pollution (i.e. yellow street lights, commercial signs, etc.) and were looking straight ahead. We both saw a bright, steady white light move from the middle right of the windshield to the upper left (East to West) at a high rate of speed-it crossed the windshield in less than 1 second. It dissappeared into the west. The light appeared to be slightly larger than the size of Jupitor or Venus seen on a dark night. There was no flickering, fading or sparking as I've seen with meteorites before, and the angle of travel seemed inconsistant with an object entering the atmosphere, or even skipping across the upper atmosphere. It looked to be ascending. The steadiness and clear whiteness of the light gave us the impression it was artificial. The speed, however, was astonishing. We had the impression the light was a good distance away (meaning more than a few hundred yards-seemed like a few miles at least), but have no idea of true distance or speed-just that it was very, very fast. There wasn't any sonic boom or other noise we could associate with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42655.html](http://www.nuforc.org/webreports/reports/042/S42655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Romulus (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Two young males were allegedly driving near Romulus, MI, when they both saw "an old war plane with propellers as tall as a telephone pole."  They claimed that the "plane" hovered right above them" and that the "could see the propellers."   When one of the youth was asked to describe the aircraft, he seemed to be describing a B-29 type propeller-driven aircraft, judging from his description of the cockpit window format.  Note:  Several obscene messages had been left on the answering service by young males, who left telephone numbers with this area code.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00149.html](http://www.nuforc.org/webreports/reports/000/S00149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
