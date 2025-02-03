@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Identified February 3rd, 2015, photos of alien grey to be a hoax.Hello,  I just wanted to pass along some info about one of the reports on your homepage.  I found the images submitted to be so intriguing that I decided to do a thorough search to try to eliminate it being a hoax.  Long story short, after cruising through several pages of image search for "alien grey sculpture" (assuming a high quality sculpture would be a great prop for hoaxing) I found an image that was from what I could tell identical to the "alien" in the photos just flipped horizontally.  I did a reverse image search, and found this image on a post dating back to 2008 as just a generic example image of a "grey".The post on your site: Atlanta, Georgia, Tuesday, February 3rd, 2015, @ 0645 HRS. (EST) - A woman reports that she, her son, and her daughter were driving to work, when they allegedly witness a strange-looking object in the morning sky.  The attempt to photograph the object, and apparently inadvertently photograph an alien creature, standing on the roadway in front of their car.  Full Report:  Alien Image 1    Alien Image 2  The link to the reverse image search: http://tineye.com/search/360d4be8fe47d888fa66610c31a902a06e0e9479/?page=1&sort=score&order=desc  Comparison:  Image from Feb. 3rd 2015 report: http://www.nuforc.org/S117194a.jpg Image from website in 2008: http://www.ufoencounters.co.uk/images/7234.jpg  I took the time to do the digging, so I figured I'd use that time to report this to you so it didn't just all go to waste.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118841.html](http://www.nuforc.org/webreports/reports/118/S118841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>I Was Standing Outside Looking Up To The Sky, When An Electric Blue Light,Sort Of In The Shape Of An Egg Layed On Its Side, Flew Through The Sky In An Arc Like Motion, It Was There About 2 Or 3 Seconds. It Was About The Size Of A Street Headlamp. Very Strange! There Was No Noise Or Anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41754.html](http://www.nuforc.org/webreports/reports/041/S41754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
