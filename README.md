@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:10 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular bodies with flashing lights midway between downtown and south San Jose on highway 87Was driving down highway 87 southbound when from far away my friend and I saw a really bright light.  At first we figured it was a plane, but we realised it was stationary.  Once we got closer, right by the hills halfway between downtown and the intersection with highway 85, we observed the craft from about 500 ft, and saw it was triangular in shape, probably about the size of a car itself.  We saw a second one later on down the road, and maybe a third one but it was too far to tell.  They were both with the same characteristics though, stationary and the same lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106918.html](http://www.nuforc.org/webreports/reports/106/S106918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hawthorne (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Mysterious "flood lights" spotted in skyAs I was driving home from work I was on route 9A heading north.  As I came around the bend by the movie theater I looked up through my windshield into the sky and at around a 50-60 degree angle I saw 1 object that had 6 bright white lights moving in synchronization as if they were part of an aircraft.  The lights had space in between them but smaller than the actual lights. The UFO was in an I shape going up and down.  The object went down towards the earth and then behind clouds, vanishing after without a sign.  The object appeared to be as long as the moon but it was also approximately 1-2 miles away in the sky.  The lights were very bright, they looked like flood lights from 50 feet away. I pulled over to use my iPhone 4s compass to determine the direction of the lights and they were 35 degrees NE and my location was 41• 5'52" N, 73• 48'33" W.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86979.html](http://www.nuforc.org/webreports/reports/086/S86979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
