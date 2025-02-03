@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:55 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:29 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Exeter (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Approx. 6 red lights in what looked to be a /.\ formationJust saw approx. 6 red lights in what looked to be a V formation with one craft in the middle. Something like this /.\ they were silent and moved across the sky fairly rapidly but with constant velocity and on the same heading (approx NNW). I’m a student doing a degree in physics and this has stumped me as to what it can be!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55094.html](http://www.nuforc.org/webreports/reports/055/S55094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vida (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Hovering craft with flashing red, green, and blue lightsI was outside walking my dog at about 7:00 PM when I noticed something in the sky.  At first glance I thought it was an airplane, but I realized it wasn’t moving, or making any noise.  I watched it for a few minutes and it stayed in the same spot.  It had blinking lights that flashed red, green, and blue.  It was moving very slightly up and down, but it did not change directions or move from the area. Later that night at about 9:30 I went back outside only to see that it was gone, and there was a huge luminescent, glowing ring around the moon.((NUFORC Note:  Possible sighting of Sirius, or one of the planets??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87028.html](http://www.nuforc.org/webreports/reports/087/S87028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
