@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Key Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>blinking orange ball, erratic, 10% degrees above horizon, off Snooks BAYSIDE restaurant, in key largo FL  GULF SIDE WEST.  object stayed in one spot for 40 min they faded out.  blinked with erratic pulses.  no way to discern distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153117.html](http://www.nuforc.org/webreports/reports/153/S153117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Craft traveling SW in sky across van nuys, CA.  Had stobe lights on top and bottom.  With lights across the middle that changed color with bright flashes.6:30pm to 6:45pm a round object was slowly moving and decending towards the SW in Van Nuys, CA.  It was south of the airport.  A great deal of air traffic, but they did not seem to notice.  I was traveling west on Saticoy ST to work to lock up.  Noticed the craft and tryed to follow it.  But it was to far away.  It had strobe lights on the top and bottom.(centered)  Across the middle there were 3 or 4 lights that changed from red to orange in bright flashes.  It also would blink out and then only a white flashing light.  It just seemed to be meandering along.  Very weird.  Wanted to get a better look but did not have the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05550.html](http://www.nuforc.org/webreports/reports/005/S05550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
