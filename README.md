@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Romulus (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Two young males were allegedly driving near Romulus, MI, when they both saw "an old war plane with propellers as tall as a telephone pole."  They claimed that the "plane" hovered right above them" and that the "could see the propellers."   When one of the youth was asked to describe the aircraft, he seemed to be describing a B-29 type propeller-driven aircraft, judging from his description of the cockpit window format.  Note:  Several obscene messages had been left on the answering service by young males, who left telephone numbers with this area code.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00149.html](http://www.nuforc.org/webreports/reports/000/S00149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sultana (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 42.0 - 42.0 minutes.</sub><blockquote><sub>On the night of February 3, 2004 me and a friend where watching the night sky we noticed a strange craft in the western hemisphere it was quite high in the sky.  I went inside my house to get a camera and when I came out my friend hollared at me and told me that it stopped in the sky and that it was just glowing.  I seen it and started taking pictures of it but then realized that I had no film in my camera so i just used the flash from the camera to try to get its attention.  After flashing twice with the camera's flash it was responding to use with flashes the same way we were flashing at it. It then moved closer to us and kept flashing even when we didn't flash back.  We could see an outline of the ship it was diamond shaped and it had no windows it had a glowing bottom that pulsed with yellow and whitish tint.  It made no sound and it just kept flashing at us 2 times.  Then it speeded away at incredible speed to where it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34891.html](http://www.nuforc.org/webreports/reports/034/S34891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
