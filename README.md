@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 3 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I smoke on my front porch frequently.  I was out tonight and saw a bright orange ball I thought it was a planet but it was lower.  I looked at my phone looked up it's still there looked away for maybe 5 seconds then looked up it was gone.  It was very bright orange white color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132447.html](http://www.nuforc.org/webreports/reports/132/S132447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Licking (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three huge bright white lightsI awoke to three very large bright white lights in a row.  They were not perceptively moving and not near eachother, but elevated at the same height and distance in the sky.  They were larger than search lights, but had no visible direction or evidence of a beam.  Stationery and holding about a mile above ground.  I woke up my boyfriend and we talked about what could be hovering a few miles north of the prison.  After 20 minutes of watching, we went back to bed, figuring someone else would have already reported them.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75544.html](http://www.nuforc.org/webreports/reports/075/S75544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
