@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:45 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Light cluster hovers then moves across the sky, changing colors white, blue, greenMy boyfriend and I were driving north on 101 from San Francisco to our exit in San Rafael.  About 3 min before reaching our exit we both noticed a relatively large white light (compared to all the stars that were visible in the sky at the moment) hovering over the sky.  My boyfriend had seen strange lights close Lagunitas, CA two times in the past 2 weeks.  However, this was my first time seeing anything like this.What seemed to be the one large white light split into three lights, like a cluster, and hovered in a random motion.  Seconds later, the light began flashing blue, green, and then white again.  The lights proceeded to head west across the sky in a rather accelerated speed.  As they quickly moved west, they began to drop into the horizon.  No known aircraft would go this fast across the sky and its movements did not resemble any craft I have ever seen.By this time, we were nearing our exit in San Rafael.  Our eyes were glued to these lights in disbelief.  I then asked my boyfriend to hang a right (west) to follow the lights.  Unfortunately, we drove west in hopes that we would see them, but they disappeared.It all lasted 2 to 3 minutes.  I would prefer to remain anonymous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87052.html](http://www.nuforc.org/webreports/reports/087/S87052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Whananaki (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 lights flying across the sky.We were sitting around the fire when we were camping. Suddenly we saw three green lights moving along the sky quite quickly. We ran past some trees to get a better view. Then they dissapared over the horission. The only fast planes (eg. jets, cargo planes) in our country are based half way down the country where as we were at the top of the country.((NUFORC Note:  Witness elects to remain totally anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12473.html](http://www.nuforc.org/webreports/reports/012/S12473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
