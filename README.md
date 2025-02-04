@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Whananaki (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>3 lights flying across the sky.We were sitting around the fire when we were camping. Suddenly we saw three green lights moving along the sky quite quickly. We ran past some trees to get a better view. Then they dissapared over the horission. The only fast planes (eg. jets, cargo planes) in our country are based half way down the country where as we were at the top of the country.((NUFORC Note:  Witness elects to remain totally anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12473.html](http://www.nuforc.org/webreports/reports/012/S12473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>On feb 4th 2013 my daughter was taking pictures of me and a creature appeared next to me.  My daughter shouted and said mommy an alien is next to you.  I adk her to take some more pictures and she did she took 2 more.  It was not their any more...but later that day I took some pictures and I capture the creature again.  I want to say that on one of them the color is green and the next one I want to say it brownish color...all this took place in my home on feb 4th 2013..((NUFORC Note:  We have spoken via telephone with the witness, and we don't know what to make of the case.  She claims that she cannot actually see the creatures, but rather, they show up when she, or her daughter, takes a photo.  Indeed, one of her photos shows a strange looking creature, about 8-10 inches tall, with four arms and two legs.  I've explained to the witness that there isn't a thing an investigator can do, if the creatures are not visible to the human eye.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96238.html](http://www.nuforc.org/webreports/reports/096/S96238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
