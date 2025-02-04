@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in El Dorado (AR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>narrow silver object moving rapidly southI was waiting for my daughter to finish her dance class on a Wednesday in February, either the 4th or the 11th, looking out the window at all the airplanes flying over me.  My car was facing southward, with the sun getting lower to my right.  I remember several of the planes shining brightly silver when they crossed the path of the sunlight.I looked out my window to the left and noticed a silver colored object moving rapidly towards the south. The shape was similar to a blimp, but I was not able to see any sort of fins on the back or anything underneath it. It was also narrower in the body than any blimp I have seen.   It had absolutely no trail behind it at all.  It was low enough that I could see it had no wings, but was higher than any of the local small planes fly.  It traveled across the sky at about the same speed the jets were also traveling.  It lit up brightly when it went through the sunlight, as the jets had also done.  Then it was out of sight behind the building I was facing.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69363.html](http://www.nuforc.org/webreports/reports/069/S69363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Los Angeles area (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>standing still round white high up object.Standing still,round white object,high straight up,in a bright blue sky,85 degree hot day,a sunday. Location:Aviation Blvd.the east end of the LAX Air Port..mostly seen waiting at a red traffic light,Aviation and Century Blvd. In my new 2001 Chrysler 300M..seen completely through the open moon-roof of the car...really the first time in having it open.Before seeing object,one could see many other regular little aircraft,going in different directions. Strange fact was that most objects move,this white light round object DID NOT...noticed very high straight UP...NOT MOVING..not a copter. If that object was populated by off planet beings,well they must have been seeing alot,namely the regular air traffic,and at least 8 antique static fighter aircraft displayed there at the PROUD BIRD restaurant,Aviation Blvd...their restaurant windows look out on the LAX east end approach. Hope I have reported this event right?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16248.html](http://www.nuforc.org/webreports/reports/016/S16248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
