@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hamburg (Germany) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>we saw two circles above a field, they were white and the moved to us! they came closer and we drove away, we heard some name, i thought ((name deleted)). and suddenly everything was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27619.html](http://www.nuforc.org/webreports/reports/027/S27619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maiden (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three lights changed formationAt approximately 6pm, I saw three lights In a line (white/blue) Completely stationary. Another light descended from the center and started moving left.  At this point I was stopped in the middle of the road and two cars came behind me so I had to turn left onto the road that I live on.  In the time that it took me to turn onto my road I looked backed and it had changed into a “V” formation and there was now 5 lights.  Still completely stationary, I watched them until I lost sight.  As soon as I got home I tried to get my drone up to get a better look but I couldn’t get it to connect to the camera.  Which has NEVER happened before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153064.html](http://www.nuforc.org/webreports/reports/153/S153064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
