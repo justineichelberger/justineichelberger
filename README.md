@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very different colored orb the color was yellowish orange maybe  a small amount of red it stayed in place about 3 mins then went west slowly then back east for a min then took off into the sky havent seen it since.  I miss them.  I hope it comes back cause it was a beautiful sight.  I have seen a quite a few strange ufos in my area and they almost always come from the north.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126193.html](http://www.nuforc.org/webreports/reports/126/S126193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Nipomo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>we saw a flashing light that just disappearedThe time was around 11:15 to 11:35 p.m. My cousin(27) and I(14) were specifically looking to the west for u.f.o.'s due to an interest from t.v. My cousin pointed out a flashing or beeping light close to the star Polaris. After about 10 seconds i too saw the the light. My reaction to this was that it was just an airplane, but the "craft" moved far to slow and didn't flash like an airplane. It was a white light, and it looked just like any other star. The size of it was about as large as a pin-head. The light would beep or flash very breifly every 6 seconds. It also moved in a downward diagonal motion about as far as half a thumb. Then it bagan to move left when suddenly 2 blinking lights came out of one for only one breif flash. Then the light moved about 2 and a half thumb lengths to the left, blinking in between each movement until the blinking just stopped and we never saw it after that, not a faint light, nothing, it just disappeared.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27545.html](http://www.nuforc.org/webreports/reports/027/S27545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
