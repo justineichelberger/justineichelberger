@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spencerport (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saucer like craft with round top and bottom. Strange texture and mixed colors... gliding just above trees.On the morning of February 3, 2010 my 15 year old daughter woke up and looked out the window which her bed is postioned against. She was confussed by lights that she saw in the neighbors back yard. She thought it was strange to see a plane that low and in that area, so she thought it might be a helicopter...but then she realized there was no helicopter sound. She then realized that it was like a disk or saucer shape with purple lights going around it. She noticed 2 round headlights in the front of the craft that she describes as looking like bright car headlamps. The "headlights" faded as they got closer to our house.As the craft slanted upward to go above the trees behind our house she noticed the bottom of the craft. She explained that the craft was about the distance of 2 1/2-3 car lengths from her window and noticed a light humming sound. She noticed in detail that the bottom of the craft was roundish oval shaped like the top but longer. It had red and purple light with a pink coloring mixed in it. She says that it is very difficult to explain and that she had never seen anything like it before. She described the bottom to look something like a brain with texture and the colors mixing together. The whole bottomed had a yellowish pink/peachy/ amber glow. She said the bottom seemed to smooth directly in the rest of the metal above the craft. The metalish material looked like grayish black pewter. She describes the bottom as if you could put your hand through a light pink wettish layer but then it would be stopped by a hard layer where the lights seemed to be coming from.She was shocked and then paused for second in her bed and the ran to the bathroom window in the back of our house to see if she could still see it. She seen it just as it was moving over the trees in our back yard.... she said it was gliding right above the trees and moving at a steady slow pace like it was observing something. The craft then faded in the distance beyond the trees. I asked her if it was spinning and she said no. The most remarkable thing to her was the bottom of the craft...she described it a beautiful...but very strange...jello like but firm. According to her the craft was the size of 4 cars put in a circle.She tends to not believe in these sort of things and is very sincere...therefore I am reporting this because I truely beleive her and it was such a detailed, close sighting. I had her draw a picture. The craft headed toward the wooded area behind our house which has more than 165 acreas of wooded land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74283.html](http://www.nuforc.org/webreports/reports/074/S74283.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately still active - still active minutes.</sub><blockquote><sub>Cigar-shaped craft, or something, in the sky to the West.In the western sky, just over Goodyear, AZ, there is a stationary craft and or star cluster, hovering.  Or possibly slow moving.  It is lit up in bright white lights.  It is in sort of a distorted cigar shape.  Very visible to anyone looking up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125630.html](http://www.nuforc.org/webreports/reports/125/S125630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
