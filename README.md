@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maiden (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three lights changed formationAt approximately 6pm, I saw three lights In a line (white/blue) Completely stationary. Another light descended from the center and started moving left.  At this point I was stopped in the middle of the road and two cars came behind me so I had to turn left onto the road that I live on.  In the time that it took me to turn onto my road I looked backed and it had changed into a “V” formation and there was now 5 lights.  Still completely stationary, I watched them until I lost sight.  As soon as I got home I tried to get my drone up to get a better look but I couldn’t get it to connect to the camera.  Which has NEVER happened before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153064.html](http://www.nuforc.org/webreports/reports/153/S153064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in El Dorado (AR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>narrow silver object moving rapidly southI was waiting for my daughter to finish her dance class on a Wednesday in February, either the 4th or the 11th, looking out the window at all the airplanes flying over me.  My car was facing southward, with the sun getting lower to my right.  I remember several of the planes shining brightly silver when they crossed the path of the sunlight.I looked out my window to the left and noticed a silver colored object moving rapidly towards the south. The shape was similar to a blimp, but I was not able to see any sort of fins on the back or anything underneath it. It was also narrower in the body than any blimp I have seen.   It had absolutely no trail behind it at all.  It was low enough that I could see it had no wings, but was higher than any of the local small planes fly.  It traveled across the sky at about the same speed the jets were also traveling.  It lit up brightly when it went through the sunlight, as the jets had also done.  Then it was out of sight behind the building I was facing.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69363.html](http://www.nuforc.org/webreports/reports/069/S69363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
