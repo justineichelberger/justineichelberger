@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:23 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oaklandon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 87</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153507.html](http://www.nuforc.org/webreports/reports/153/S153507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in In-flight (between TN and CA) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black object moving very fast seen from commercial airline flight, which disappeared when witness briefly looked away.I was on a commercial airline flight from Tennessee to Southern California on February 4, 2014.  I was looking out of the port-side windows, observing the blanket of cloud cover.  I then saw a black object moving in roughly the opposite direction of the aircraft I was in.  The object was flying a bit higher, but within a few hundred feet of the altitude of my aircraft.  We had reached cruising altitude, which for a domestic flight may have been approximately 20,000 feet.  I estimate the object's distance as approximately 1,000-2,000 yards away from the aircraft I was in.The object's shape was rounded.  Not a sphere, but with width and height that were approximately the same length.  The object had rounded details that protuded both from the sides and from top to bottom.  The object was very dark black in color.At first glance I thought the object was another plane moving the opposite direction.  As I continued observing the object I saw that it was moving at a pace that was unusual.  It was at that time I also mentally noted the object's black shape and unconventional shape.  It was moving in a very straight line at a fast pace, one that did not seem at all consistent with an commercial or known military aircraft.  The pace of the object surprised me and made me observe it more closely.At this time, after observing the object for less than 10 seconds, I looked down at my phone briefly, for only a second or two.  I then looked immediately back to where the object had been and it was nowhere to be seen.  When I had looked down, the object was not about to pass behind my place and out of sight.  I was startled to see that the object was no longer in the sky, and leaned forward to look out of the window farther towards the front of the airplane, where I could look farther behind us.  The object was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106977.html](http://www.nuforc.org/webreports/reports/106/S106977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
