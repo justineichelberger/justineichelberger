@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cortland (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>bright red fireball streaking down the sky.I was sitting on the couch in the living room when I saw this bright red fireball streaking down the sky toward the ground.  I ran out onto my deck figuring something had exploded and was going to crash.   No crash and no lights from an explosion.  There were a lot of cars on the main road (Route 5) so I know I am not the only one who saw this.  There is nothing on the news here or in the paper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87034.html](http://www.nuforc.org/webreports/reports/087/S87034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in High Island (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>We think this is a UFO that had something to do with this.  I have called and tried to find out more but no one will tell me anything.Coast Guard Medevacs 3, Including 11-year-old boy  Coast Guard Medevacs 3, Including 11-year-old boy.  The Coast Guard medevaced a family of three, including an 11-year-old boy, from the Intracoastal Waterway near High Island, Texas.A watchstander a Coast Guard Sector Houston/Galveston received a call for help over the radio.  The family was disoriented and complained that their bodies felt like they were slowing down.  When asked, they could not remember their birthdays or weight.Coast Guard Air Station Houston crews launched an HH-65C Dolphin helicopter to assist.  They arrived at the boat and quickly hoisted the family into the helicopter.  The family was then brought to Herman Memorial Hospital in Houston.Posted on Monday, February 05, 2007 (Archive on Monday, January 01, 0001) Posted by rotornews  Contributed by ((no name indicated in original report))((NUFORC Note:  Report is submitted by a party who remains anonymous; provides no contact information.  We believe that the possibility of carbon monoxide poisoning would have to be ruled out first, before we could conclude that the case might be UFO-related.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55456.html](http://www.nuforc.org/webreports/reports/055/S55456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
