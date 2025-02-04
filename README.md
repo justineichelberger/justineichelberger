@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately still active - still active minutes.</sub><blockquote><sub>Cigar-shaped craft, or something, in the sky to the West.In the western sky, just over Goodyear, AZ, there is a stationary craft and or star cluster, hovering.  Or possibly slow moving.  It is lit up in bright white lights.  It is in sort of a distorted cigar shape.  Very visible to anyone looking up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125630.html](http://www.nuforc.org/webreports/reports/125/S125630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cortland (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>bright red fireball streaking down the sky.I was sitting on the couch in the living room when I saw this bright red fireball streaking down the sky toward the ground.  I ran out onto my deck figuring something had exploded and was going to crash.   No crash and no lights from an explosion.  There were a lot of cars on the main road (Route 5) so I know I am not the only one who saw this.  There is nothing on the news here or in the paper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87034.html](http://www.nuforc.org/webreports/reports/087/S87034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
