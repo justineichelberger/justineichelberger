@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in DeSoto/Overland Park (between) (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Triangular Shaped Craft Spotted along K-10 (Eastbound) around 6:35pm CST 04 Feb 02I was really at a loss last night.  It was not a terrestrial aircraft, at least not one I have ever seen or could imagine.  I was going home, eastbound on K10 approx. 6:35pm, and right around DeSoto I noticed lots of aircraft due east, and then more lights to the north.  Only these lights were moving in unison, i.e. they were not separate aircraft.  It was triangular in shape, with a light at each apex--these three lights flashed/blinked red and white at the exact same time.  And in the middle of this "thing" was a row or bank of five lights, which pulsated from right to left, or south to north.  They went from orange, yellowish, red, and then white, all down the row.  So I was watching this from a hill, and then I went down the hill, and back up, and it was gone.  So I got off K10 at the exit east of Evening Star Road, and watched for a bit.  Then I saw it again, only this time it was west of where I originally saw it, like it went backwards.  It flickered, and then disappeared again.  I got back on K10 again and saw it again, only it was way, way east, almost NE of my location (as opposed to due N of me) and it kinda faded into the city lights.  I also noticed during this whole time many aircraft in and around the area and even more to the east--I mean a LOT, more than one would expect to see, even around an airport.I'm sure many others saw this, the damn thing was HUGE.  I can't be sure because it was in the sky, but I estimate it at around 800m long, maybe 500m wide at the base.  I'm not sure of its altitude, but it was fairly low, maybe around 1000m or less.  In all, it was about a 6-8 min ordeal.  It seems weirder today than it did last night cause I've had time to process it.((NUFORC Note:  Please see similar reports for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21698.html](http://www.nuforc.org/webreports/reports/021/S21698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow-orange objects moving NNW and N 'til they formed a perfect "V" formation on the horizon.My wife, Mother, Step-Son, Sister and myself observed 4 objects N of our home moving NNW and N. One large, bright object on the Left seperate from 3 smaller objects on the right close together in a straight line. Three smaller objects moved faster than the larger object. The far right smaller object turned NNE at a faster speed than the middle object which turned due north. The three smaller objects became further apart 'til the center object picked up speed and was closer to the horizon than the other three. The large object on the left and the three smaller objects formed a perfect "V" formation 'til they dissapeared over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11992.html](http://www.nuforc.org/webreports/reports/011/S11992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
