@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:56 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Porto Alegre (Brazil) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In Porto Alegre, RS, Brazil, at 5:30 am in my house, when I woke up, I opened a window that faces southeast and I saw a flare of light near the constellation of the Crux, I thought until it was a flare of some Iridium satellite headed south, the light disappeared, but seconds later there was a new flare and with non-regular intervals of a few seconds new flares followed, but then the source of these lights changed direction and began to go east.  I could observe that when the strong light was off, sometimes I could see two very weak points of light very close to each other and associated with the source of the flares.  The light was slightly yellowish and the flares of variable intensity were brighter than the alpha-centaur star that was nearby and one of the flares was much more brighter than the venus glow.  The speed of travel was very slow, with no noise whatsoever, it seemed to be at an altitude far superior to that of jet planes.  I followed the displacement of the source of the light until it disappeared definitively when arriving at the constellation of the Scorpion.  I have had dozens of years of observation as an amateur astronomer and have never seen anything like this with such peculiar behavior.  It was certainly not an airplane, not a helicopter, not a balloon and even less a drone.  All  the observation lasted about five minutes.((NUFORC Note:  The witness does not indicate a date, so we have sent him an e-mail, for verification, and assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138793.html](http://www.nuforc.org/webreports/reports/138/S138793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Martinsburg (WV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A glowing blue sphere streaking diagonally toward earth in the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117204.html](http://www.nuforc.org/webreports/reports/117/S117204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
