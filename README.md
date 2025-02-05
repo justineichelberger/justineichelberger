@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White red ball above nas JacksonvilleI was on my back porch having a cigarette when I noticed two helicopters flying around nas.  One high and one low with spot lights on.  The helicopters looked like they were looking for something.  I went back inside to take my dog out.  When I went out the front door I noticed a bright white light that would flash red every now and then. The colors were very vibrant.  The light appeared to be above nas.  I thought it was a star until it started moving up and down.  Left to right and even did circles above nas.  The light started to drift west towards Cecil field before slowly drifting down below the tree line.  Me and two family members observed the light for almost 5 mins.  I’ve lived near nas my whole life and have never seen anything like this.  My one family member works on f18s and I used to work on commercial aircraft.  We both agree this wasn’t an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153091.html](http://www.nuforc.org/webreports/reports/153/S153091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>metallic sphereWe saw a metallic object off the  highway moving up and down in the sky.  It would move up and stop then move down and stop.  It then moved up one more time and winked out of existence right in front of us while we were driving on the 5 freeway heading north near 32nd naval base area.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80769.html](http://www.nuforc.org/webreports/reports/080/S80769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
