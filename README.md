@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fire in the sky.I was sitting at a red light at the corner of Mcarthur and South Grand, when I saw what I thought was a floating lantern.  When it got closer I noticed it was not a lantern but a sphere of electricity.  It was like lightning trapped in the sphere with the color of fire.  It was flying low like a helicopter and heading towards Washington park.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125660.html](http://www.nuforc.org/webreports/reports/125/S125660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Encino (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Shape-shifting rotating white object slowly traveling and hovering across the sky for almost 20 minutes!What appeared to be a white triangular craft rotating and had appeared in the same location I had seen on one other occasion.  Though previously the craft did not travel across the sky, and was just hovering for a few mins and then vanished within secs.This sighting lasted about 20 mins, slowly making its way from the Eastern sky crossing diagonally to the Western sky.I was able to photograph a series of images, on a standard DSLR camera w/ 18-55MM lens so it was hard to catch the details of the craft.After the sighting, and upon inspection of the images, it's clear that the object was shape-shifting from "Triangle" to "V" to "Ball of light".During the course of the migration across the sky there were airplanes, helicopters, birds flying in the shot, but I could not tell how high up the object was. It did pass through the clouds which were all wispy angel-like formations and surprisingly not many chemtrails today!  Also I observed what appeared to be a plasma field surrounding the object that looked like waves of energy that were actually affecting the clouds as it passed through.Video footage captures its movement, then holding position in the sky, changing direction and then continuing on the path from the East to West.The object made its way into the distance and visibility was lost.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117186.html](http://www.nuforc.org/webreports/reports/117/S117186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
