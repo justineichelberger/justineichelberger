@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bluish white bright object flying in a NE direction near Granbury Road and Interstate 20I was driving along Granbury Road in a NE direction approaching Interstate 20.  I witnessed a bright bluish white ball in the sky.  My speed was about 40 mph.  I looked out the driver window and about 30 degrees above my head this bright round object was moving quickly through the sky in a straight line parallel to the ground.  It was moving at least twice as fast as I was.  If it was a long distance from my car it could have been extremely fast.  I think there were clouds in the sky, but I’m not sure.  Before it disappeared it turned into 2 lines parallel to the ground, one thicker than the other, then quickly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138791.html](http://www.nuforc.org/webreports/reports/138/S138791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 7:25 - 7:25 minutes.</sub><blockquote><sub>Heading up telegraph rd. two diamond shaped lights stayed stationary before the one to the left (facing north) suddenly flew away very quickly.  The other one still stayed stationary.  Both had very bright lights and as the one flew away the lights got dramaticly dimmer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153089.html](http://www.nuforc.org/webreports/reports/153/S153089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
