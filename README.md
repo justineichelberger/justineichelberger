@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 4 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow-orange objects moving NNW and N 'til they formed a perfect "V" formation on the horizon.My wife, Mother, Step-Son, Sister and myself observed 4 objects N of our home moving NNW and N. One large, bright object on the Left seperate from 3 smaller objects on the right close together in a straight line. Three smaller objects moved faster than the larger object. The far right smaller object turned NNE at a faster speed than the middle object which turned due north. The three smaller objects became further apart 'til the center object picked up speed and was closer to the horizon than the other three. The large object on the left and the three smaller objects formed a perfect "V" formation 'til they dissapeared over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11992.html](http://www.nuforc.org/webreports/reports/011/S11992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wailuku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There were 80+ big bright shining lights, all moving fast in the same direction, right before disappearing into the night sky.My boyfriend and I were fishing, early morning right before the sunrise   down Lower Waiehu (Wailuku, Maui) when all of a sudden he yelled "LOOK" And pointed up in the sky.  That when I looked up and witnessed about more than 80+ big bright shining lights, all moving the same speed and in the same direction moving across the big sky and then jus disappearing into the night sky .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153100.html](http://www.nuforc.org/webreports/reports/153/S153100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
