@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:56 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monmouth County (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Another white blipping light object/orb.At 4:30 PM, I was traveling south by south west towards Red Bank, NJ. I saw a bright dot in the sky moving and blinking intermittenly. I was in the car and the angle of declination would have been at about 50 degrees ahead of me and at a distance of 1 mile approximately. The object was blinking white and out, moving at first what seemed to be a gliding/floating movement (like a balloon), only to continue moving linear, heading east towards the Atlantic ocean (only 5 miles east). My wife who was in the car with me, DID NOT SEE, this object, even when I pointed out a building it was over as a point of reference for spotting it. Then the object 'blipped' and took off east and I saw no more of it after that. I was going to write this incident off as just another incident (I've seen and reported objects before), until a friend of mine, 14 miles south and one half-hour later, reported to me the SAME EXACT INCIDENT. The same with 3 witnesses present and again, the one female present COULD NOT SEE THE OBJECT. We had a laugh about only the males being able to view the object, but then, this only adds to the anomaly and the fact that it was NOT a balloon or any material object that we ALL should have been able to witness. Thank you for letting me share this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34945.html](http://www.nuforc.org/webreports/reports/034/S34945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Porto Alegre (Brazil) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>In Porto Alegre, RS, Brazil, at 5:30 am in my house, when I woke up, I opened a window that faces southeast and I saw a flare of light near the constellation of the Crux, I thought until it was a flare of some Iridium satellite headed south, the light disappeared, but seconds later there was a new flare and with non-regular intervals of a few seconds new flares followed, but then the source of these lights changed direction and began to go east.  I could observe that when the strong light was off, sometimes I could see two very weak points of light very close to each other and associated with the source of the flares.  The light was slightly yellowish and the flares of variable intensity were brighter than the alpha-centaur star that was nearby and one of the flares was much more brighter than the venus glow.  The speed of travel was very slow, with no noise whatsoever, it seemed to be at an altitude far superior to that of jet planes.  I followed the displacement of the source of the light until it disappeared definitively when arriving at the constellation of the Scorpion.  I have had dozens of years of observation as an amateur astronomer and have never seen anything like this with such peculiar behavior.  It was certainly not an airplane, not a helicopter, not a balloon and even less a drone.  All  the observation lasted about five minutes.((NUFORC Note:  The witness does not indicate a date, so we have sent him an e-mail, for verification, and assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138793.html](http://www.nuforc.org/webreports/reports/138/S138793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
