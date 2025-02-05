@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:24 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wailuku (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There were 80+ big bright shining lights, all moving fast in the same direction, right before disappearing into the night sky.My boyfriend and I were fishing, early morning right before the sunrise   down Lower Waiehu (Wailuku, Maui) when all of a sudden he yelled "LOOK" And pointed up in the sky.  That when I looked up and witnessed about more than 80+ big bright shining lights, all moving the same speed and in the same direction moving across the big sky and then jus disappearing into the night sky .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153100.html](http://www.nuforc.org/webreports/reports/153/S153100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Streetsboro (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Several small white dots traveling in a line for over 10 minutes.  I tried to tape it with very low result on my camera with 1 glowing image visible.  After I got home The first thing my mother said when I walked through her door she had just seen a long line of u.f.o pass.  I said really, I just tried to video tape them and also seen the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154100.html](http://www.nuforc.org/webreports/reports/154/S154100.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
