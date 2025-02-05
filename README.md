@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:32 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:54 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cheektowaga (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Large retangular craft with five circular lights on the bottom.Craft made no sound and seemed to be floating through the air rather than flying.Craft appeared to be riding some form of wave, due to the distortion around the craft.Craft was heading in a north to south direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125645.html](http://www.nuforc.org/webreports/reports/125/S125645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sahuarita (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sahuarita Arizona lights.East side of Sahuarita, Arizona.  South of Tucson.  Have been seeing multiple lights in the sky.  Not the first time. this has been like third time in 4 months.  Defiantly (sic.  definitely)) not aircraft.  These are triangular shape moving slow or still.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132504.html](http://www.nuforc.org/webreports/reports/132/S132504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
