@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:49 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wewoka (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>officer sees bright light/ blue light over local park</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88395.html](http://www.nuforc.org/webreports/reports/088/S88395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Silver Springs (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 red light  with many white lights caused vision to be distorted over silver springs floridaWe were outside and looked up and both saw this bright red light flash in the sky. We continued to watch this and saw red and white lights flashing in no patterned way. The red light was in the middle and was the brightest. The white lights flashed to the sides. The lights went from side to side horizontally and were not in sequence. At some times the lights were brighter than others. The lights messed with our vision. It sometimes looked like the object was 3d and then looked like it was flat. We were looking up at about a 30 to 45 degree angle. The object dropped quickly out of out sight behind a 2 story building. We both stepped backwards to see if we could see it again and noticed it right above the building at about a 10 to 15 degree angle. It stayed there for 15-20 seconds then the object looked like it was going away from us very fast and straight up not out. The only light that was visible was the bright red one. After about 2 seconds it was gone and has not returned. The sighting lasted about 1 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61432.html](http://www.nuforc.org/webreports/reports/061/S61432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
