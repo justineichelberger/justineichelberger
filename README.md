@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sunrise (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Stationary still visible - Stationary still visible minutes.</sub><blockquote><sub>Large circle UFO stationary above Sunrise, FL for daysI have spotted what looks like a large UFO that seems stationary in the sky.  It's been in the same location for the past 2 days.  At 21:00 from my address location it is locates right above and then move your site, vision south and a bit west.  You will spot what looks like a Star but it has several lights.  When I look with binoculars I can see more clearly its round shape with several rows of lights in the bottom.  Would not be surprised if it is still visible tonight.  Welcome!  About time this planet got help!  Help us clean the trash for once and for all.  Namaste!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144803.html](http://www.nuforc.org/webreports/reports/144/S144803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oval ship flying over northwest albuquerque bright red, yellow, and white lights pulsing.I live in the North valley, of Albuquerque, last night I was in my front yard admiring the beautiful clear night sky, when I saw and followed with my eyes, a satellite moving slowly south to north, I thought I would go out tonight and see if any were again visible,  Well what I saw tonight was Not a satellite.  At first I thought it was a airplane, But the closer I looked I noticed these lights were different the craft was moving very slow I had enough time to run in my house and grab the binoculars, I saw bright red yellow and white light all around the bottom of the ship not blinking but pulsing it was flying from the northwest valley heading out to the southwest mesa .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74303.html](http://www.nuforc.org/webreports/reports/074/S74303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
