@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:25 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>White shadowy lights flying in circular patternsThere were what looked like three or 4--possibly double this amount because the shapes were flying in a circular pattern-weaving in and out around the clouds above a Las Vegas Neighborhood.  They looked as though they were lights, like from those big lights that shoot out into the sky, going around and around (like reflections from Disco Ball in the sky).  An actual aircraft went by, and i used it to gauge my sighting and the light being emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106970.html](http://www.nuforc.org/webreports/reports/106/S106970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 domed circular craft. Each were brightly illuminated. Traveling in a diamond formation.It was 7:30 pm Arizona time and I had just left my driveway and turned north when a sight in the evening sky caught my attention. My gosh! Look at that! I said to myself. I pulled the car to the curb and got out for a better look. I saw four very brightly lit domed circular craft!  Each was illuminated totally in brillent white light. They were each four to five inches in size from where I stood.  The domed top was clear on all the craft. They were moving from south to north in a diamond formation. Each swayed back and forth and traded places, still maintaining the diamond formation as they collectively traveled forward to the north.  I watched them as they grew smaller, and smaller until they disappeared in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16323.html](http://www.nuforc.org/webreports/reports/016/S16323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
