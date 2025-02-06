@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was outside walking the dog around 11:30 PM.  Much of the night sky was overcast with clouds.   Two beams of light were "dancing" behind the clouds.  At first I dismissed it thinking they might be reflectors, but after a few minutes the lights had moved from way in front of me to over me.  I leaned again my car to take a good look and the two lights turned into five.  They moved all over the sky in circles and some times chased each other. I went in to call my two daughters and we watched the lights for 15 minutes, but still cannot explain what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55220.html](http://www.nuforc.org/webreports/reports/055/S55220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving ball of light over Mississippi River in Minneapolis.I was driving home from work very early in the morning on 2/6/17 about 2:30 am.  I was driving eastbound across the Mississippi River bridge on I-94.  I looked to the southeast and saw a bright ball of light moving downward at what appeared to be between a 45 and 90 degree angle.  It was moving very fast and I lost sight of it as some trees came between me and the light.My first impression was it looked like a missile, but I saw no flashes or smoke.  There was no visible tail on the light.  From the speed, angle of movement, and appearance it did not look like a plane, helicopter, or drone.  I make no claims to know what it was, but it was definitely odd enough that it made me take note.((NUFORC Note:  We have corrected the date above, to reflect a sighting on the morning of the 6th of February.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132502.html](http://www.nuforc.org/webreports/reports/132/S132502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
