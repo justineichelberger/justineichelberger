@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:25 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>White shadowy lights flying in circular patternsThere were what looked like three or 4--possibly double this amount because the shapes were flying in a circular pattern-weaving in and out around the clouds above a Las Vegas Neighborhood.  They looked as though they were lights, like from those big lights that shoot out into the sky, going around and around (like reflections from Disco Ball in the sky).  An actual aircraft went by, and i used it to gauge my sighting and the light being emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106970.html](http://www.nuforc.org/webreports/reports/106/S106970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Phoenix lights - Again!My wife and I were driving south on I-17, about 6 miles north of AZ Loop 101.  I noticed a formation of 4 or 5 bright lights in the sky to the south-west.  The lights were in what I would describe as a random pattern.  We decided to take an exit off the interstate so we could get a better look.  I ended up on a service road heading north. As I looked for a place to turn around I looked in my outside review mirror and noticed that suddenly all of the lights were in a perfect line!  We went about a mile down the service road, turned around and pulled over to the side and watched for a while.  One thing that we noticed when the lights were in a random group as well as when they were in a straight line, is that one or two would fade out, then slowly "fade" back into view.  It was a clear night (CAVU).  After about 10-15 minutes, they all "went out" in no particular order. Later, on the evening news, they were reported as flares, as high as 10,000 ft.  Which raises some questions: Why would they be dropping flares that high (flares are used to light the ground.  At 10,000 ft. they wouldn't do any good) and if they were dropped from a plane, how did they manage to drop the first group of flares in such a random manner?  Also, why would some of them fade out then reappear?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56023.html](http://www.nuforc.org/webreports/reports/056/S56023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
