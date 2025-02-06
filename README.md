@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cerritos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright blue light whizzing at an impossible speed across sky over Cerritos.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117209.html](http://www.nuforc.org/webreports/reports/117/S117209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately ???? - ???? minutes.</sub><blockquote><sub>well,.me and two friend, where at a gas station in temecula california,..when of in the distance,....could be seen,5 to 7 lights in a slanted formation. i pointed it out,.and my friends replied,.it must be the moutain horizon,...now,.temecula,is a well light city,.and was hard to tell where the mountains met the sky line,..well,.as we where leaving temecula,.we got on the free way,..away from the city,.and in the sky could be seen,..that the formation, was in deed in the sky and was not the moutains,...right when we realized it was in the sky,.i remember seeing the same thing!,.on a ufo show on t.v.,...that happend in pheonix arizona!,.the same slanted formation....and as the same formation,.one by one,.the lights started to fade away. blink out in a way,...it was easy to tell,.it was to high in the air,a few stars could be seen in the distance,.and these lights seemed to be closer. from the time i viewd them , and the time they disappeared,..they must have been there for at least 5 minutes, from what i saw,.and it was between 6:45,.or in that area,.im not to sure of the time. i scrambled to get a picture with a camera,.but im not sure it will come out well,.we where going at least 80 on the freeway,.so,m.it may appear blurred,.when i looked throught the camera,.i said no way we will get a picture,.and i passed it to my friend in the back seat,.i will have to see how ell she got a picture.so,.it was not just one,.there where a few,..and looked what appeared to be a bit of hazz in the distance,.there departure wasnt real,.noticable,.they just blinked out,.but it looked like there was some sort of redish, orange hazz a few seconds later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21713.html](http://www.nuforc.org/webreports/reports/021/S21713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
