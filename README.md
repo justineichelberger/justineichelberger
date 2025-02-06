@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bethel (VT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Band of 5-8 bright lights tilted and stationary in sky without any dimming, then just gone.I did a double take of a band in the sky tilted on a slight angle.  It was 5-8 bright lights all stationary and each brighter than the stars that had just come out.  I couldn't fathom what it was but I was driving so I kept glancing at it and it just stayed in position.  I first thought it was a meteor breaking up but there was no dimming of the lights or any sign of a trail- just bright stationary lights.  When I pulled over at a brightly lit gas station, I tried to see it but it was no longer there.  Spooked me.  Felt like a dream.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96219.html](http://www.nuforc.org/webreports/reports/096/S96219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Small red light flew slowly straight up and disappearedI was driving home from Seattle, and approximatley 2 mi. from my home, I saw what appeared at first to be a small red reflector (the type people put on mailbox stands so you can see them in your headlights). As I approached (within 20 yards or so), the "reflector" began moving straight up at perhaps 15-20 ft.per second. I stopped the car, and watched it go up for at least 30-40 seconds, and then it just disappeared from sight. It was dead silent as it rose, and it was moving so smoothly it just didn't seem real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03108.html](http://www.nuforc.org/webreports/reports/003/S03108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
