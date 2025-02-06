@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Derby (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.058333333333333334 - 0.058333333333333334 minutes.</sub><blockquote><sub>Walking North in a quiet town street,with my wife, I glanced over my right shoulder and saw an object flying across the dark sky. I cried aloud, and at the same time pointed with my right hand, "What's that?". We both saw An Egg shaped amber or silver, object about 1/3 size of full moon, covered with small waves compairable to fish scales and sourounded by an emerald green ring, also with little "waves" on the inside of the ring with the front of the egg protruding through the "ring" and a bright white, unbroken, "stilleto tail" attached to and trailing behind the object. It traveled in an arc as a falling missile,dissapering out of site without any noise or expected flash or even a report in the press despite my enquiry the next day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49199.html](http://www.nuforc.org/webreports/reports/049/S49199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Borrego Springs (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large bright hazy light, hung motionless, then sped south leaving cloud like afterburn? Which rapidly dissipated.Large bright hazy object in western sky, seemed motionless to start, then turned south at a high rate of speed and large radiating halo cloud formed and quickly dissipated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138665.html](http://www.nuforc.org/webreports/reports/138/S138665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
