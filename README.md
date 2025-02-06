@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 5 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Looked like flares.Looked like orange flares but appeared to move around.  I would have to guess about 10 to 12 of them.  It was hard to tell because i was trying to drive.  Easy to see in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125655.html](http://www.nuforc.org/webreports/reports/125/S125655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>White shadowy lights flying in circular patternsThere were what looked like three or 4--possibly double this amount because the shapes were flying in a circular pattern-weaving in and out around the clouds above a Las Vegas Neighborhood.  They looked as though they were lights, like from those big lights that shoot out into the sky, going around and around (like reflections from Disco Ball in the sky).  An actual aircraft went by, and i used it to gauge my sighting and the light being emitted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106970.html](http://www.nuforc.org/webreports/reports/106/S106970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
