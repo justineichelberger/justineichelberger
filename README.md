@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Laurel Springs (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was walking down Adams drive when all of a sudden a huge rectangular type ship blasted across the sky.  It came back around and hovered over me for 15 minutes and that blasted of into the air. After that it went up high in the air and dissapered.  There were these weird lights that orbited around the rectangular ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51745.html](http://www.nuforc.org/webreports/reports/051/S51745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was then right overhead about 1 mile up or higher, shaped triangular, 3 strob lights, white, red and blue, no sound.Bright white light seen by me in the sky southwest, thought it was a star, then a plane, then it was moving towards many miles away.  As it got closer, I stepped inside and called my daughter to see it too.  It was then right overhead about 1 mile up or higher, shaped triangular, and had underneath 3 lights, red and blue.  It made no sound, and then it passed till we couldn't see it thru the trees.  Went out front but couldn't see it, too cold to stay out.  We came inside and drew what we saw.  Full moon night.  1st sighting.  Never have seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16346.html](http://www.nuforc.org/webreports/reports/016/S16346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
