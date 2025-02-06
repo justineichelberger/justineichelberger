@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:25 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 domed circular craft. Each were brightly illuminated. Traveling in a diamond formation.It was 7:30 pm Arizona time and I had just left my driveway and turned north when a sight in the evening sky caught my attention. My gosh! Look at that! I said to myself. I pulled the car to the curb and got out for a better look. I saw four very brightly lit domed circular craft!  Each was illuminated totally in brillent white light. They were each four to five inches in size from where I stood.  The domed top was clear on all the craft. They were moving from south to north in a diamond formation. Each swayed back and forth and traded places, still maintaining the diamond formation as they collectively traveled forward to the north.  I watched them as they grew smaller, and smaller until they disappeared in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16323.html](http://www.nuforc.org/webreports/reports/016/S16323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Santee (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spherical light seen over Santee from the Summerton side of Lake Marion by the I-95 bridge.Saw a strange light hovering across lake marion from the summerton side by the I-95 bridge.  I was outside on my porch smoking.  I didn't have my glasses on but as I looked out across the lake I noticed an odd bright white light.  I stepped inside to get my glasses so I could get a better look and sure enough it was a bright light that appeared to move just a little and I could see a faint red light every now and then.  I watched it for about 5 minutes then had my wife come out and look at it.  She mentioned it moving before I did, even though I thought it was moving before she came out.  I have no idea how far away it was but it must have been quite a ways away.  It was a cloudy night and no other stars were visible on that side of the lake.  Also, it didn't appear to be high enough in the sky to have been a star.  I thought at first it may have been an aircraft heading toward the charleston airport or the air force base in Charleston, but it never moved.   I worked on F-16's for 10 years in the active duty USAF and know it def wan't an aircraft as it never moved across the sky.  It would oscillate every now and then, but randomly.  I have no idea what it was.  I was out smoking again tonight 2/6/2018 and looked in that direction and there's nothing there today.  Don't know how long it was there, but it def wasn't an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138772.html](http://www.nuforc.org/webreports/reports/138/S138772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
