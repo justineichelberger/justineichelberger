@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>orb with tail captured on camera in Alaska 02.06.08For those that don't know me yet, I am a lifelong Alaskan living in Spenard.  I am urban Inupiaq; I have been working for local non-profits in the areas of Tribal resource management and/or conservation efforts for about 8 years. I am writing to you all today to share some wondrous photos I was blessed to have taken this past Wednesday night, here in Anchorage.  The photos were taken between 18:59 - 19:00 (AK standard time).  You see what you think!  (Note that these images captured by my digi cam were not visible to the naked eye.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61512.html](http://www.nuforc.org/webreports/reports/061/S61512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was outside walking the dog around 11:30 PM.  Much of the night sky was overcast with clouds.   Two beams of light were "dancing" behind the clouds.  At first I dismissed it thinking they might be reflectors, but after a few minutes the lights had moved from way in front of me to over me.  I leaned again my car to take a good look and the two lights turned into five.  They moved all over the sky in circles and some times chased each other. I went in to call my two daughters and we watched the lights for 15 minutes, but still cannot explain what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55220.html](http://www.nuforc.org/webreports/reports/055/S55220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
