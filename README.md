@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Small red light flew slowly straight up and disappearedI was driving home from Seattle, and approximatley 2 mi. from my home, I saw what appeared at first to be a small red reflector (the type people put on mailbox stands so you can see them in your headlights). As I approached (within 20 yards or so), the "reflector" began moving straight up at perhaps 15-20 ft.per second. I stopped the car, and watched it go up for at least 30-40 seconds, and then it just disappeared from sight. It was dead silent as it rose, and it was moving so smoothly it just didn't seem real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03108.html](http://www.nuforc.org/webreports/reports/003/S03108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Wrightwood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On Feb 6, 2018, at approximately 6:30 p.m. Wrightwood, CA.  While walking south on Oak St. towards the wash, I noticed a bright cloud shining behind a row of large red pine trees.It crossed my mind that I may be about to witness a UFO, but I discarded it and kept walking my dog. I'm not sure why I had this impression. it was weird.The cloud was quite bright and appeared to be about 3 football stadiums in size, maybe 2000 to 3000 feet AGL.  The crowd appeared to be about 5 miles away due south from where I was. it appeared as though either the moon or an aircraft was behind the cloud and illuminating it.  The light source was behind the top of one tree,  I could see light through the branches, but not make out what exactly the light was.I continued to walk towards the wash and continued to look at the cloud.About 10 seconds later the cloud came into view better.I noticed that it had a fan shape and could start to see more of the light source through the branches.The cloud was a wispy light cloud that appeared to be in a kind of Japanese fan shape. Approximately 5 to 10 seconds later the entire cloud and light source came into view. The light was centered in the corner of the fan, however still obscured by the branches and the cloud.Approximately 5 seconds later, I came to the end of the road and could get a more clear look at the cloud.  The cloud had started to dissipate and the light dim.No more than 3-5 seconds later the cloud had shrunk to half of its size and the light dimmed considerable.No more than 3-5 seconds later than that there was nothing in the sky where I had been looking.It was a cold, clear, crisp light with no other fog, clouds or obscuration.The moon had not yet risen, I did not notice any helicopters, aircraft or weather balloons in the proximity that may of created the light source.((NUFORC Note:  Possible result of launch of Space X rocket from Cape Kennedy?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138629.html](http://www.nuforc.org/webreports/reports/138/S138629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
