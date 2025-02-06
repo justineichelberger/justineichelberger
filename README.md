@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 6 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was then right overhead about 1 mile up or higher, shaped triangular, 3 strob lights, white, red and blue, no sound.Bright white light seen by me in the sky southwest, thought it was a star, then a plane, then it was moving towards many miles away.  As it got closer, I stepped inside and called my daughter to see it too.  It was then right overhead about 1 mile up or higher, shaped triangular, and had underneath 3 lights, red and blue.  It made no sound, and then it passed till we couldn't see it thru the trees.  Went out front but couldn't see it, too cold to stay out.  We came inside and drew what we saw.  Full moon night.  1st sighting.  Never have seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16346.html](http://www.nuforc.org/webreports/reports/016/S16346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>orb with tail captured on camera in Alaska 02.06.08For those that don't know me yet, I am a lifelong Alaskan living in Spenard.  I am urban Inupiaq; I have been working for local non-profits in the areas of Tribal resource management and/or conservation efforts for about 8 years. I am writing to you all today to share some wondrous photos I was blessed to have taken this past Wednesday night, here in Anchorage.  The photos were taken between 18:59 - 19:00 (AK standard time).  You see what you think!  (Note that these images captured by my digi cam were not visible to the naked eye.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61512.html](http://www.nuforc.org/webreports/reports/061/S61512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/161/S161986.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162006.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162089.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161955.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161957.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
