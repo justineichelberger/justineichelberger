@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Greenwood (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Two shiney spheres spotted in sky following airplaneI was walking back to my house after checking the mail and noticed a plane flying overhead.  Just behind the plane a little was what looked like a small round shiney object that followed in the same direction of the plane for a little while but at a slower pace.  It slowed almost imperceptibly to a complete stop, then began moving north-east and it was at that time that I noticed a second object come in to view behind the first and they both sat their for some time before fading out of sight..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68501.html](http://www.nuforc.org/webreports/reports/068/S68501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Upland (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Atypical bright light  much brighter than the sharp flashes of a jumbo jet.  The flashes were much smoother as they faded or blinked if you will.  The craft was flying EXTREMELY FAST ACROSS THE NIGHT SKY OVER cable airport.  There was a helicopter in the sky just hovering.....they mist have seen it too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106987.html](http://www.nuforc.org/webreports/reports/106/S106987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
