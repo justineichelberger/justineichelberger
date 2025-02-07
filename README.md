@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:08 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Park (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This is my account of what my daughter and I saw tonite , February 7, 7:30 PM.  Her report is listed above mine and as you will see , we saw things a little differently. She had told me there was a green light outside and asked what it was. I went outside and saw one large green light and 2 or 3 large red lights flashing and moving together. I didnt see a outline of any object just the lights and I didnt hear any sound. I tried to take a picture and video on my cell phone and I couldnt see anything on it to take , yet if I directed the camera to the moon or the other stars I could see those on my phone. It was a little creepy. The lights seemed to form the shape of a cylinder, moving slowly in a north west direction, after about 15 min  I saw it stop over a hill, looks like near the ocean coast. A red light continued to flash for at least another 30 min and then we went inside. I called the local news and asked them to see if anyone else reported seeing any ! unusual lights in the sky over southern calif tonite. Hoping someone else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79981.html](http://www.nuforc.org/webreports/reports/079/S79981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tujunga (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The fireball UFO came from behind the mountain,and was traveling south at a upward angle towards the moon. When it reached the sun reflection, it became brighter then a star.And when it reaches a hight out of are atmosphere, it left at a high rate of speed, within ten seconds it was gone I've seen these UFO's for over 30 years. the fireball UFO's by day are white. they can be mistaken for the pearl UFO's, but they're totally different. The fireball UFO's act more mechanical then the pearl UFO's. they are more like living creatures, and that is another story. Fireball UFO's are coming and going since 1994 at a base. I have the coordinatesof the possibility of locating this base.((NUFORC Note:  Witness elects to remain totally anonymous.  We wonder whether the witness might have been viewing a contrail behind a high-altitude jet.  PD))((ADDENDUM BY ORIGINAL WITNESS))This is an additional information on the Tujunga sighting 02/07/2005 05:39 Reported: 2/22/05 This UFO sighting is of many I've seen of this particular shape. They don't make contrails, and they don't have wings or make a sound. Planes are not multi directional and can hover in suspended motion. they are of a shape like a ball, and they are a bright reddish orange at night, and by day they are white, because extreme hot surfaces tend to have a white tint to it. And when I said it left at a high rate of speed, It left the earth at a high rate of speed. This is the fourth sighting of this particular UFO, and they all left the earth at extreme speeds. They come and go!...((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41872.html](http://www.nuforc.org/webreports/reports/041/S41872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
