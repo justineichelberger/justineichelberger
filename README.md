@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Carlos (Mexico) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>On the beach in Mexico I saw a flat oval shaped bright shiny UFO high in the sky which hovered, turned and disappeard after 90 seconds.My friend and I were sitting on the beach at approximately 10:30 am.  My friend said...what is that up there?  I looked and we both saw a shiny object that was like a flat oval.  It was hovering just under the sun rays.  We watched for approximately a minute or more and told my friend's husband to look..he couldn't see because a shade tent was blocking his view.  When he stood up to look the object made a dip or turn to the left and went straight up and disappeared.  My friend practices family law.  I am a real estate agent.  My friend's husband is a contract lawyer.   There was no plausible explanation for what we saw other than it was an unidentified flying object.  It was high in the sky and could not have been a relflection of anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96250.html](http://www.nuforc.org/webreports/reports/096/S96250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lockport (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately Hovering - Hovering minutes.</sub><blockquote><sub>Two circular disk shaped crafts hovered closer and closer to the ground, pulsating red and white lights.My two close friends and I were going for a drive, when we suddenly spotted two bright red lighted disk shaped, crafts.  We actually had thought that it was apart of the light tower, but they had looked too big to be apart of it.  As we approached closer in my friends car, they suddenly hovered down a little bit farther north.  The two crafts were also pulsating between red and white lights.  We parked on the side of the road and watched for about 10 minutes.  They were hovering over the ground and almost circling around each other.  One of the crafts hovered down into the trees and I could not see it any longer.  That is when we drove off, shocked as ever.  I have never seen anything like it.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120725.html](http://www.nuforc.org/webreports/reports/120/S120725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
