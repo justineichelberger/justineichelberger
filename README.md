@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:23 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in  (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Saucer-like craft with a strip of red light moving back and forth, hovering above a gas well site.The craft was hovering above what I later learned was a gas well site, just off of FM 343 between CR 829 and Loco Bayou, Nacogdoches County.  There was a strip of red light that kept moving back and forth.  That was the only light source I could see.  My husband was driving our car and I kept my eyes on the craft, to my right,  as we rounded a corner and drove away from the site.  He said it was probably a tower of some sort.  I finally went to the owner's house yesterday (03/10/14), located near the site, to see if they'd had a tower erected at that time.  She said they were out of town on that date and did not have any tower there.  There are cattle around the site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107799.html](http://www.nuforc.org/webreports/reports/107/S107799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Linthicum (BWI airport) (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This was not any aircraft I have ever seen and was not ballon or moon.Object was across between rectangle and cross. Black/grey in color. Reflected no sunlight. No lights were displayed on object. Object remained stationary for most of time it was visible. Then slowly drifted upward in cloud cover. The object was about 2-hand width above lamp post on Elkridge Landing Rd. Intersection of Rt.170. Location was in SE part of sky. Over Satalite Green parking lot, 1/2 east of area of sighting. There were air craft in area none were chasing object. Broken cloud cover to east. Clouds moving from NW to SE, maybe 5k to 10k high. I was in cashier booth #5, on Daily Exp B, parking lot. Called lady on Sat. Green aked her if she could see object. She said,no. There was three layers of clouds, lots of jet trails, sun dogs and rainbows to the SE and SW of airport. A few patches of sun and blue sky in area of object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16359.html](http://www.nuforc.org/webreports/reports/016/S16359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
