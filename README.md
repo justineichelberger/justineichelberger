@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We have received a number of reports of yellow nocturnal lights in this area of Florida.  We presume that they are flares, or some type of ordnance, used at the Avon Park Firing Range.  We are uncertain, however.))2 yellow stationary lights floating above Lake Jackson in Sebring, FL multiply in diagonal formations.Driving northbound on US 27, my husband and I saw a bright yellow light glowing above Lake Jackson. Suddenly another light appeared next to it and one of the lights began to fade. Seeing that no tower or plane sound could be seen or heard. We stopped and parked to study the lights. The lights were between 5-10 thousand feet above lake surface, on a clear night sky. One of the lights faded and suddenly reappeared and multiplied into 5 separate lights in a diagonal formation. The second light did the thing minutes later, upward and then downward diagonal formations. Both lights dimmed and reappeared at different points above the lake. We saw a small streak of light shoot out of one of the glowing lights to the ground. We took pictures but they did not come out. A helicopter passed by the lake while the lights were stationary and must have seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12091.html](http://www.nuforc.org/webreports/reports/012/S12091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Garrett (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest raI was standing outside in front of my workplace at approximately 8:20PM. I was looking off towards the West when I heard a sound like something hit the ground to my right. The sound was that of when you drop a baseball on the ground. I turned to the North and thought that since nobody was around that maybe something fell from the sky. I then looked up and I saw a very large stationary ,round and bright light in the sky. It was a clean white light, like that of the moon. It seemed as though the light was focused on me but I didn't see a light beam like you would expect to see from such a bright light. Then after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest rate I have ever seen anything move before, and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27584.html](http://www.nuforc.org/webreports/reports/027/S27584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
