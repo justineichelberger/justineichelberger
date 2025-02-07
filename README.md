@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sao Paulo (Brasil) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Avistamento de um CHARUTO metalico de uns 50 metros de largura.Avistamento de um objeto metalico parecendo um charuto estava muito longe há algumas centenas de metros uns 300 metros mais ou menos, passou em uma grande velocidade em pleno dia, as  13:00 mais ou menos horário de almoço, parecia ser metalico porem não é uma cor de metal.Não consigo descrever a cor mais seria uma cor cinza meio transparente, estava a uma velocidade muito grande umas 15 vezes maior que a velocidade de um avião.((NUFORC Note:  We would welcome an translation from anyone who speaks both Portuguese and English.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132500.html](http://www.nuforc.org/webreports/reports/132/S132500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Park (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This is my account of what my daughter and I saw tonite , February 7, 7:30 PM.  Her report is listed above mine and as you will see , we saw things a little differently. She had told me there was a green light outside and asked what it was. I went outside and saw one large green light and 2 or 3 large red lights flashing and moving together. I didnt see a outline of any object just the lights and I didnt hear any sound. I tried to take a picture and video on my cell phone and I couldnt see anything on it to take , yet if I directed the camera to the moon or the other stars I could see those on my phone. It was a little creepy. The lights seemed to form the shape of a cylinder, moving slowly in a north west direction, after about 15 min  I saw it stop over a hill, looks like near the ocean coast. A red light continued to flash for at least another 30 min and then we went inside. I called the local news and asked them to see if anyone else reported seeing any ! unusual lights in the sky over southern calif tonite. Hoping someone else saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79981.html](http://www.nuforc.org/webreports/reports/079/S79981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
