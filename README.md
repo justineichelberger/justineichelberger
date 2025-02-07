@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO or flares?I was watching TV when my son came home and told me to "check out these lights".  We went out on to the deck and looked out over the trees.  (From the second floor it was, at arms length, the size of a quarter or a little bigger)  At first there was nothing.  Suddenly the sky lit up in bright colors.  They stayed on for about 5 seconds then went off.  I ran inside to get the camera.  I was able to get two shots.  While waiting to see if anything more would happen, two jets went flying by.  Coincidence? My husband, who did not come out to see, tried to explain it away.  Flares from military maneuvers.  Over residential areas?  Doesn't make sense.  We live about 5 miles south of Ft. Indiantown Gap about one mile off of I81.  There are jets and helicopters that frequently fly overhead but they can be heard.  This made no sound and was stationary in the sky.I went inside to put the pictures on the computer to get a better look.  My daughter had just arrived home with a story of seeing a UFO while driving on I81.  She said it was round with lights all around the outside of it.  A light coming from the top.  She looked away for a moment and it was gone.On Tuesday, 2/12/08 the local paper published this article: The Patriot News Air Guard flares, not UFOs, lit sky http://www.pennlive.com/patriotnews/stories/index.ssf?/base/news/1202784007315510.xml&coll=1  I am not buying it.  Its always the same dull explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61603.html](http://www.nuforc.org/webreports/reports/061/S61603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aldan (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Spotted 2 triangle shaped crafts in the sky with white, red and blue lights moving very slowly.I have been seeing some strange lights in the sky in recent months. They usually look the same. There is usually one large triangle craft that has white stationary lights but will flash red and blue when moving. It moves very slow.  I can sometimes even see a bunch of smaller lights moving a bit faster around the larger craft. Tonight was a first though when I noticed there were 2 of these larger triangle crafts in the sky. They were not together. One was facing the North direction and the other was facing the South direction. Same shaped craft but there were 2 of them which I had not seen before. I usually only ever see one which I have recorded many times. It’s never in the same spot of the sky so I truly don’t believe it’s a weather balloon. Quick side note... I was watching the sky for about an hour until I went in the house to get a drink and add a layer of clothes cause it’s cold and by the time I went out again , the entire sky was cloudy.  The clouds appeared out of no where!  The weather doesn’t even show we were expecting clouds like this. Now it’s so cloudy, I can’t see anything at all. Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153150.html](http://www.nuforc.org/webreports/reports/153/S153150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
