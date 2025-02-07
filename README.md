@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Los Ranchos de Albuquerque (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright yellow light moved side to side then disappeared.Went south to north then stopped then disappeared was bright light yellowish color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125695.html](http://www.nuforc.org/webreports/reports/125/S125695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Bright row of lights over Woodland Hills.First noticed very bright light through bathroom window, low in southwest sky.  Observed for a minute before changing to bedroom window facing same direction.  Observed a row of oscillating white lights which were stationary.  After approximately 5 minutes object wobbled and revealed a triangle shape outlined in red lights.  Observed this for a few minutes and then object must have moved, revealing row of lights.  This back and forth between row of lights and triangle continued for about 15 minutes.  Also observed what might have been a discharge of a ball of light from object.  Couldn't see if it reached ground as view was obscured by neighboring house.  Lights would get very bright and then dim.  After about 25 minutes, object appeared to be moving either farther away or farther up in sky then disappeared.  Got up about 40 minutes later and looked out bedroom window, again.  Observed what appeared to be a row of lights but way up in sky above where object was originally observed.  Also saw another bright light farther to west over Santa Monica Mountains but clouds were moving in and obscured any further observation.   Checked following night for light in same part of sky and didn't see anything that matched what was there night before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107059.html](http://www.nuforc.org/webreports/reports/107/S107059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
