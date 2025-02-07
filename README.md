@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:27 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Paraparaumu (Kapiti Island) (New Zealand) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 cylinder shaped green and pinkish flashing objects appeard from behind Kapiti Island, seemed to stay static for a short while before disappearing behind the Island again.We were four people having a meeting at my beach front property at Paraparaumu Beach.  When we went outside on the balcony to have a smoke, we noticed a beam of light behind Kapiti Island.  This is not necessarily unusual as sometimes Sea and Rescue Searches with Helicopters produce similar visual effects.  However, standing there arguing why S&R was called out again, we noticed that the colour of the light changed from the usual bright white to an alteration at low frequency of a dull, surealistic green and pink.  Slowly, the source of the greenish light appeared to rise from behind Kapiti Island.  At this stage, we could not make out the body of the object emitting the light nor could we hear any sounds.  The objects movement appeared to be relatively slow.  When the light changed to pink, we briefly noticed that the source of the pink light was positioned behind the source of the green light making a huge squshed cylindrical object in front of it visible for a couple of seconds.  Unfortunately, the pink beam of light and the object in front of it synchroneously set slowly behind Kapiti Island.  The whole spectacle appeared to last a long time, but judging by the length of the cigarettes we smoked, it would have had been lasting for less than one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04194.html](http://www.nuforc.org/webreports/reports/004/S04194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Westminster (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 lights in 1-3-1-1 pattern changing speed and position near Westminster, MD.6 lights came over treeline in a 1-3-1-1 formation.  No sound at all.  Lights were a bright, pale white, almost orange.  All were a single, spherical light, not a point of light, but round in appearance.  The three lights grouped together changed speed and position several times, came to a stop and shifted positions again.  All six faded and disappeared, but did not change position in the sky before vanishing (ie, did not disappear over horizon).  No clouds, completely clear out and plenty of stars visible.  Have short video clip of them showing shift in positions, but had hard time focusing due to it being dark out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106989.html](http://www.nuforc.org/webreports/reports/106/S106989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
