@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:08 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tujunga (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The fireball UFO came from behind the mountain,and was traveling south at a upward angle towards the moon. When it reached the sun reflection, it became brighter then a star.And when it reaches a hight out of are atmosphere, it left at a high rate of speed, within ten seconds it was gone I've seen these UFO's for over 30 years. the fireball UFO's by day are white. they can be mistaken for the pearl UFO's, but they're totally different. The fireball UFO's act more mechanical then the pearl UFO's. they are more like living creatures, and that is another story. Fireball UFO's are coming and going since 1994 at a base. I have the coordinatesof the possibility of locating this base.((NUFORC Note:  Witness elects to remain totally anonymous.  We wonder whether the witness might have been viewing a contrail behind a high-altitude jet.  PD))((ADDENDUM BY ORIGINAL WITNESS))This is an additional information on the Tujunga sighting 02/07/2005 05:39 Reported: 2/22/05 This UFO sighting is of many I've seen of this particular shape. They don't make contrails, and they don't have wings or make a sound. Planes are not multi directional and can hover in suspended motion. they are of a shape like a ball, and they are a bright reddish orange at night, and by day they are white, because extreme hot surfaces tend to have a white tint to it. And when I said it left at a high rate of speed, It left the earth at a high rate of speed. This is the fourth sighting of this particular UFO, and they all left the earth at extreme speeds. They come and go!...((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41872.html](http://www.nuforc.org/webreports/reports/041/S41872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>its shape started off as an egg shape then changed into a dimond shape, it was bright orange then it turned a pale green when it shrunkand then grew back to the normal size and and went bright orange again, after about 2 minutes it started to shoot white beams on to the ground as if it was looking for somthing, then 3 large jets chased it away tat was the last i seen of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16417.html](http://www.nuforc.org/webreports/reports/016/S16417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
