@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Garrett (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest raI was standing outside in front of my workplace at approximately 8:20PM. I was looking off towards the West when I heard a sound like something hit the ground to my right. The sound was that of when you drop a baseball on the ground. I turned to the North and thought that since nobody was around that maybe something fell from the sky. I then looked up and I saw a very large stationary ,round and bright light in the sky. It was a clean white light, like that of the moon. It seemed as though the light was focused on me but I didn't see a light beam like you would expect to see from such a bright light. Then after approximately 3 seconds of looking at it, it looked like it flipped upside down and shot straight up in the sky at the fastest rate I have ever seen anything move before, and disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27584.html](http://www.nuforc.org/webreports/reports/027/S27584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO or flares?I was watching TV when my son came home and told me to "check out these lights".  We went out on to the deck and looked out over the trees.  (From the second floor it was, at arms length, the size of a quarter or a little bigger)  At first there was nothing.  Suddenly the sky lit up in bright colors.  They stayed on for about 5 seconds then went off.  I ran inside to get the camera.  I was able to get two shots.  While waiting to see if anything more would happen, two jets went flying by.  Coincidence? My husband, who did not come out to see, tried to explain it away.  Flares from military maneuvers.  Over residential areas?  Doesn't make sense.  We live about 5 miles south of Ft. Indiantown Gap about one mile off of I81.  There are jets and helicopters that frequently fly overhead but they can be heard.  This made no sound and was stationary in the sky.I went inside to put the pictures on the computer to get a better look.  My daughter had just arrived home with a story of seeing a UFO while driving on I81.  She said it was round with lights all around the outside of it.  A light coming from the top.  She looked away for a moment and it was gone.On Tuesday, 2/12/08 the local paper published this article: The Patriot News Air Guard flares, not UFOs, lit sky http://www.pennlive.com/patriotnews/stories/index.ssf?/base/news/1202784007315510.xml&coll=1  I am not buying it.  Its always the same dull explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61603.html](http://www.nuforc.org/webreports/reports/061/S61603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
