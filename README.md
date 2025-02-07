@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 7 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Liverpool (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>its shape started off as an egg shape then changed into a dimond shape, it was bright orange then it turned a pale green when it shrunkand then grew back to the normal size and and went bright orange again, after about 2 minutes it started to shoot white beams on to the ground as if it was looking for somthing, then 3 large jets chased it away tat was the last i seen of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16417.html](http://www.nuforc.org/webreports/reports/016/S16417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Greenwood (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Two shiney spheres spotted in sky following airplaneI was walking back to my house after checking the mail and noticed a plane flying overhead.  Just behind the plane a little was what looked like a small round shiney object that followed in the same direction of the plane for a little while but at a slower pace.  It slowed almost imperceptibly to a complete stop, then began moving north-east and it was at that time that I noticed a second object come in to view behind the first and they both sat their for some time before fading out of sight..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68501.html](http://www.nuforc.org/webreports/reports/068/S68501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162005.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161962.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162090.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161946.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161864.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
