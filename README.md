@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:13 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:19:00 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lincoln (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>2 large amber lights, 1 blinking light. Hovering & moving rapidly and erratically.Looked at first like airplane landing lights.  Then it moved rapidly in random directions.  Moved laterally and up and down in a way an airplane could not move.  Moved much too fast to be a helicopter.  Was in the Northwest sky about 35 degrees above the horizon.  Upon inspection with binoculars, craft had one large amber light that had constant brightness.  Another large amber light had varying degrees of brigtness.  Craft also had a red blinking light.  It would hover for a few minutes and then rapidly dart about and hover again.  It gradually seemed to be moving away from our vantage point, disappearing behind the tree line after about 45 minutes.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55223.html](http://www.nuforc.org/webreports/reports/055/S55223.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Multiple lights over Burbank, CA.There are at least six lights hovering in the sky.  They appear to have a body and then lights coming off the top and bottom. If I had to describe the shape, I’d say there is a V on top, a horizontal line in the middle and a dot or two dots on the bottom. Completely composed of light.  I thought the first one I saw was a drone, but it wasn’t moving.  Then I thought maybe it was just a very bright star, but it’s refracting light and there are different colors - blue, red, green, white - very bright.  The closest one has been there for at least 25 minutes, but definitely not as bright as it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138662.html](http://www.nuforc.org/webreports/reports/138/S138662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
