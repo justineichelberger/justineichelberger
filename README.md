@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO sighting Santa Maria, CAToday around 7:15 PM there was a UFO hovering over Santa Maria, CA.  It was low enough to describe the flying craft.  My girlfriend had a great view and she describes a metal object with green lights on the upper part of the craft.  She also mentioned red lights underneath the craft.The craft had an oval shape.  There were many planes around that time so I must believe that those airplanes had the object at least on their radar.  My girlfriend mentioned it to some people and at least ten witnessed it and took pictures with their cellular phones.  I called my brother also and he took a picture of it, which I possess.  At the time he took the picture the object was further away and it doesn’t show any shape in the picture but he did capture the color red light of the craft.  It looks like a street light in the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74325.html](http://www.nuforc.org/webreports/reports/074/S74325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Craft had 3 bright circular white lights and flew WSW (against final approach pattern to Pearson International Airport) at roughly 2500-3000ft at a spd of ~200 knots.I was sitting at my computer looking out my window at the University of Guelph looking West. I watched as a craft flew over the residence bound West South West. The craft made no sound and proceded on a straight course at roughly 200 knots. The craft was triangular shaped with a bright circular light at each corner. No other lights were visible and the craft itself was dark (the triangular shape is a guess based on the position of the lights). Another interesting point is that the aircraft pattern to land at YYZ (Pearson International Airport) is ENE so this aircraft was headed against the commercial air traffic (I am an amatuer pilot).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05684.html](http://www.nuforc.org/webreports/reports/005/S05684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
