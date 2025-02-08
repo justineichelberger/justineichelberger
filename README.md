@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:19:00 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:14 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Multiple lights over Burbank, CA.There are at least six lights hovering in the sky.  They appear to have a body and then lights coming off the top and bottom. If I had to describe the shape, I’d say there is a V on top, a horizontal line in the middle and a dot or two dots on the bottom. Completely composed of light.  I thought the first one I saw was a drone, but it wasn’t moving.  Then I thought maybe it was just a very bright star, but it’s refracting light and there are different colors - blue, red, green, white - very bright.  The closest one has been there for at least 25 minutes, but definitely not as bright as it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138662.html](http://www.nuforc.org/webreports/reports/138/S138662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marco Island (northeast of) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>12-15 orange glowing objects moving slowly in night sky northeast of Marco Island, Florida.11 to 15 objects- clear orange glow with some sign of red and white lights- moving west then slight turn to south west before disappearing behind clouds -objects were in three to four angled formation-close together each formation- one in 5-6 group 3-4-in close group the 4-5 in group. pointed them out to my wife what I was seeing and she confirmed my sighting- they were moving slow - they were not flares and had no noise- first seen them through my car windshied then pulled into drive -got out and watched as they slowly disappeared behind clouds. took one long exposed picture with camera-  got one blurry orange glow in picture that was unidentifiable!((ADDENDUM FROM WITNESS REGARDING DATE OF SIGHTING))February 8, 2012-  around 2055 hrs ESE of Pelican Lake Motorcoach Resort which is located north of Marco Island about 4-5- miles.  I`have too many photos on my digital camera at this time to download but will send at later date when I download g to computer-  this glow of only one above palm tree -resort line is really fuzzy but is orange in color></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87159.html](http://www.nuforc.org/webreports/reports/087/S87159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
