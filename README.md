@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:14 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marco Island (northeast of) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>12-15 orange glowing objects moving slowly in night sky northeast of Marco Island, Florida.11 to 15 objects- clear orange glow with some sign of red and white lights- moving west then slight turn to south west before disappearing behind clouds -objects were in three to four angled formation-close together each formation- one in 5-6 group 3-4-in close group the 4-5 in group. pointed them out to my wife what I was seeing and she confirmed my sighting- they were moving slow - they were not flares and had no noise- first seen them through my car windshied then pulled into drive -got out and watched as they slowly disappeared behind clouds. took one long exposed picture with camera-  got one blurry orange glow in picture that was unidentifiable!((ADDENDUM FROM WITNESS REGARDING DATE OF SIGHTING))February 8, 2012-  around 2055 hrs ESE of Pelican Lake Motorcoach Resort which is located north of Marco Island about 4-5- miles.  I`have too many photos on my digital camera at this time to download but will send at later date when I download g to computer-  this glow of only one above palm tree -resort line is really fuzzy but is orange in color></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87159.html](http://www.nuforc.org/webreports/reports/087/S87159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (Wedgwood) (WA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brilliant sparkling orange object over North end of Lake WashingtonI was walking out to my car at 7:45 in the evening when a vivid orange sparkling light caught my attention.  It was slightly below treetop level in my line of vision, ( My yard has tall mature evergreen trees).  The object was approaching from the East.  At first I thought it was a small plane or helicopter, but it was totally silent,it appeared to be about the size of a dime held at arms length.  As I fumbled for my cell phone to record it, it slowly turned and headed North, then abruptly disappeared at the moment I activated my cellphone camera.  The flight path was not usual for this area, and I have never seen anything this color before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87124.html](http://www.nuforc.org/webreports/reports/087/S87124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
