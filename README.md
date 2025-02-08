@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I heard a very loud hellicopter and was looking for it behind the trees.  It appeared with a whiteball very close in front of it.  It looked like a star.  The hellicopter was very very close to the star like object.  They were going hellicopter speed (slow) and the hellicopter was staying right on its tail (weird close like when the blue angles fly close together).  They were going north to south.  It was not another helicopter or plane just a star looking object being escorted or chased.  The helliopter had all its lights on.   I have only heard a hellecopter  that loud once before during the day and they were huge hellicopters.  We don't usully get helicopter flying around here very often never at night.  My neighbor heard it to from her bedroom and thought it was weird.  It was a little overcast full moon but a bright sky.  Kinda light outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87092.html](http://www.nuforc.org/webreports/reports/087/S87092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO sighting Santa Maria, CAToday around 7:15 PM there was a UFO hovering over Santa Maria, CA.  It was low enough to describe the flying craft.  My girlfriend had a great view and she describes a metal object with green lights on the upper part of the craft.  She also mentioned red lights underneath the craft.The craft had an oval shape.  There were many planes around that time so I must believe that those airplanes had the object at least on their radar.  My girlfriend mentioned it to some people and at least ten witnessed it and took pictures with their cellular phones.  I called my brother also and he took a picture of it, which I possess.  At the time he took the picture the object was further away and it doesn’t show any shape in the picture but he did capture the color red light of the craft.  It looks like a street light in the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74325.html](http://www.nuforc.org/webreports/reports/074/S74325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
