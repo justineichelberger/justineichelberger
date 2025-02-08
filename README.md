@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lloydminster (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A ball of fire in the skyI was leaving to go to work (it was foggy)  I drove out to main road and turned right , I seen a very bright ball to my left.  I instantly thought it was the moon.  but I stopped and backed up as the object i was seeing was in the northwest and the moon on clear mornings is always to the south when I leave the house. .It was very bright like a ball of fire sitting above the trees.I have a picture I have filled out a report only days after event but not sure if it went through.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133075.html](http://www.nuforc.org/webreports/reports/133/S133075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eagle River (AK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White light taveling in a circular motion.While out walking my dog, she started acting strange and kept looking up in the sky and was wagging her tail as if she was excited.  I looked up and saw a light traveling in a circular motion, there were not any sounds,, just the light.  I pulled out my Iphone and was trying to record the lights and after 12 seconds there was a fast traveling light going through the sky.  While I was looking at the footage when I got home,  I paused the traveling light and noticed two objects side by side in the frame.  The footage I have is excellent.  The light can be seen traveling in the lower right proceeding left, it starts at the 8 second mark, roughly.((ADDENDUM FROM WITNESS))Mr. Davenport,  I first saw a light maybe 50 feet in diameter and it was moving in a circular motion.  Then the light went away and I caught whatever it was soaring rather quickly upward.  I noticed only when I watched the video.  Yes, please forward it to the people you spoke of.  Thank you.((END ADDENDUM))((NUFORC Note:  Video shows two lights streaking through the field of view of the camera at very high speed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125788.html](http://www.nuforc.org/webreports/reports/125/S125788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
