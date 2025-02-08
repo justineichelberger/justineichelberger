@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Blue/ red light seen in sky going up down and sideways.Saw a blue changing to red back and forth in the sky it started going down then side ways then it started going back in a reverse motion then up. It stopped for a few seconds the light of red and blue got a bit lighter.  Then it started to come my way then down and to the side again. I lost it behind some trees for a few seconds then it came back started to go further up it stopped for maybe 5 or 6 seconds then it disappear.((NUFORC Note:  Witness elects to remain anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117240.html](http://www.nuforc.org/webreports/reports/117/S117240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lloydminster (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A ball of fire in the skyI was leaving to go to work (it was foggy)  I drove out to main road and turned right , I seen a very bright ball to my left.  I instantly thought it was the moon.  but I stopped and backed up as the object i was seeing was in the northwest and the moon on clear mornings is always to the south when I leave the house. .It was very bright like a ball of fire sitting above the trees.I have a picture I have filled out a report only days after event but not sure if it went through.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133075.html](http://www.nuforc.org/webreports/reports/133/S133075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
