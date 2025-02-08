@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:48 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large bright blue light in the sky breaks into three lights and descendsI was on my way home between 6 pm and 6:15 and I saw a large bright blue light in the sky.  It looked like it was falling so my first thought is that it was a meteor.  Then it broke into 3 lights.  They all kept going in a downward direction but I lost sight of them due to the high tree line behind the houses on my street.  The sighting only lasted 4 or 5 seconds.  The lights  seemed close.  There were no tails on the lights as there often are with shooting stars.  I work for a defense contractor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107015.html](http://www.nuforc.org/webreports/reports/107/S107015.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ashburn (VA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was in the back yard reading a book.  I felt a inclination to look up.  As I did I saw a bright reflective silvery cylindrical object (more of a line than two-dimensional) in the sky swiftly moving from West to East overhead in the clear sky.  About the width of my index fingernail at arms length.  It immediately morphed into a violent rapidly changing highly reflective shape as if it were a flat mirror randomly twisting about on three a axis gimbal.  Not a bird, not a party balloon.  The motion was violent.  No rhythmic pattern.  I expected it to move over the Giant Food store parking lot where I could see its silhouette, but instead it faded into the high altitude water vapor in the sky.  It was much higher in altitude than I estimated, and much larger.  My first thought it was about 60 feet up, but after seeing it fade away so rapidly, I estimate it to be at least a few hundred feet long, at least 30,000 feet up.  It appeared to be traveling at several thousand miles per hour.  No noise.  No vapor trail. No wings.  I'm 54, seen a lot in the sky I have been able to explain.  Not this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68528.html](http://www.nuforc.org/webreports/reports/068/S68528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
