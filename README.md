@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wife and I observed two bright yellow-orange objects moving NNE separating 'til they dissapeared over horizon.My wife and I observed two bright, yellow-orange objects traveling NNW at different speeds. Objects became further apart from one another 'til they faded over the horizon. They became bright then dim the closer they came to the horizon. There was no sound, no trail, and the sky was clear. We observed commercial heavy aircraft traveling east, west and North. The objects were extremely brighter than the anti-collision lights on the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11994.html](http://www.nuforc.org/webreports/reports/011/S11994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dix (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I walked my dog and saw a UFO.I was walking my dog down this trail in the woods when we came to this meadow. We decided to rest for a couple of minutes so we lay down in the grass. WE were looking up at the sky when these diamond shaped objects flew over head slower than a normal aircraft. I blinked and rubbed my eyes to see if this was real and when i opened them it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36613.html](http://www.nuforc.org/webreports/reports/036/S36613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
