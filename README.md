@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:29 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jerome (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>looked up at sky seen 3 moving lighted objects then observed several more ran and told coworker they would appear about 15 sec intervals seen roughly 20 would appear above me out of no where. Coworker #1's account of the sighting: At 6AM coworker rushed into building from out side to inform me of strange lights in the sky.  We then witnessed the lights traveling from west to east perfectly spaced at about 15 second intervals.  The event lasted several minutes I tried to record it but they were a bit out of range for my phone (I saved the video just incase).  The lights were moving at a high speed but perfectly silent. I spent 8yrs in the Marine Corps Air Wing and have never witnessed anything like it.  I would like to add that I've always been a skeptic of UFO claims but this really has me shook.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153171.html](http://www.nuforc.org/webreports/reports/153/S153171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wife and I observed two bright yellow-orange objects moving NNE separating 'til they dissapeared over horizon.My wife and I observed two bright, yellow-orange objects traveling NNW at different speeds. Objects became further apart from one another 'til they faded over the horizon. They became bright then dim the closer they came to the horizon. There was no sound, no trail, and the sky was clear. We observed commercial heavy aircraft traveling east, west and North. The objects were extremely brighter than the anti-collision lights on the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11994.html](http://www.nuforc.org/webreports/reports/011/S11994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
