@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:27 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homstead (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The morning was really overcast and cloudy in Homestead 2/9/15.  Usual morning with my girls in taking them to school, left at 645am.  While driving, straight ahead of me I saw, red-orange fireballs coming out of the sky, then they would stop and maintain their altitude, hovering.  I said what is that? and one of my daughters replied, "Do you think its meteorites?  But why would they stop in the middle of the sky?"  The other daughter mentioned, "Mom, it's not a plane, the lights are not flashing, there constant."  It was one fireball after the other, the first couple of orbs that came down first already formed a square, while others kept coming out of the clouds, but they were organizing themselves, in a line, it looked like they formed some type of constellation.  The big dipper.  Meanwhile, more red orange fireballs, at this time I was really scared and asking for someone to film it and looked at the time, it was 6:48 am and started counting them, 14.  I looked in front of me at the sky and they were there but not in my camara.  I asked my daughter to zoom in, but all of the sudden, the color changed to yellowish orange.  They were all there hovering waiting for some thing.  Then they all formed a "V", bright yellow/orange lights and completely disappeared.  Five minutes have gone by and I didn't see anything,  All of the sudden I saw 2 military airplanes flying towards the same exact direction the Orbs went.  I was never a UFO believer until yesterday.  I went to work really shakey with my experience.  I called channel 7 news and reported it.  I spent most of my day looking for other answers to convince me it wasn't UFO'S.  All the pictures of other experiences looked exactly the same as what my eyes seen.  My daughters and I witnessed it together, all 3 are believers now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117254.html](http://www.nuforc.org/webreports/reports/117/S117254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>UFO sighting over Los Angeles, 2013.02.09 at 3:40amWe were driving on the 105 freeway east towards the 605 south interchange when me and fiancee spotted something off of the Bellflower Blvd exit.  It was a bright ball of light, a little bigger than the street lights, floating at a level no more than two light post stacked up against each other.  It was the brightest object in the area.  Keeping in mind that this is Los Angeles it rules out a star (both due to its proximity off the ground and  the light pollution).   We have seen plenty of helicopters and airplanes and that object was neither.  With the manhunt for this cop killer I know that anyone reporting this to the authorities would have been turned away. What makes this impressive to me is that my fiancee has been a long life skeptic, until today.  We cannot claim that it was a spaceship with little green men in it, but it was a UFO by definition.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96253.html](http://www.nuforc.org/webreports/reports/096/S96253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
