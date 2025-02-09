@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:21 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:27 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red "fireballs" in the skyI was standing on my deck. Looking in the sky towards the East when I saw a cluster of red "fireballs" slowly moving in the same direction, heading south of us.  At first I thought they were stars until I realized that they were red and moving.  I called my daughter in the room with me and asked her to describe to me what she saw.  She confirmed that she was seeing the same thing as I was.  As the "fireballs" slowly headed south, one by one they disappeared until there was only one left in sight, and it disappeared as well. I am a 39 year old woman and my daughter is a 20 years old. I was not looking for or expectingto see what I saw tonight.  I was curious if there had been other people reporting this sighting, so I decided to get online and "google" it.  That's when I came across your website and decided to fill out this form.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96265.html](http://www.nuforc.org/webreports/reports/096/S96265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homstead (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The morning was really overcast and cloudy in Homestead 2/9/15.  Usual morning with my girls in taking them to school, left at 645am.  While driving, straight ahead of me I saw, red-orange fireballs coming out of the sky, then they would stop and maintain their altitude, hovering.  I said what is that? and one of my daughters replied, "Do you think its meteorites?  But why would they stop in the middle of the sky?"  The other daughter mentioned, "Mom, it's not a plane, the lights are not flashing, there constant."  It was one fireball after the other, the first couple of orbs that came down first already formed a square, while others kept coming out of the clouds, but they were organizing themselves, in a line, it looked like they formed some type of constellation.  The big dipper.  Meanwhile, more red orange fireballs, at this time I was really scared and asking for someone to film it and looked at the time, it was 6:48 am and started counting them, 14.  I looked in front of me at the sky and they were there but not in my camara.  I asked my daughter to zoom in, but all of the sudden, the color changed to yellowish orange.  They were all there hovering waiting for some thing.  Then they all formed a "V", bright yellow/orange lights and completely disappeared.  Five minutes have gone by and I didn't see anything,  All of the sudden I saw 2 military airplanes flying towards the same exact direction the Orbs went.  I was never a UFO believer until yesterday.  I went to work really shakey with my experience.  I called channel 7 news and reported it.  I spent most of my day looking for other answers to convince me it wasn't UFO'S.  All the pictures of other experiences looked exactly the same as what my eyes seen.  My daughters and I witnessed it together, all 3 are believers now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117254.html](http://www.nuforc.org/webreports/reports/117/S117254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
