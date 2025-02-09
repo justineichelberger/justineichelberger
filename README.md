@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Puerto Escondido (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A sphere, changing from orange to white, passed over my home at around 7:30-7:40 tonight.  There was no sound, but it was traveling at an extraordinary altitude that I cannot approximate.  I've looked for, and seen, low-orbit satellites here, but the speed and altitude were not the same.  It traveled from E to W, and appeared to leave Earth's space as it passed over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87120.html](http://www.nuforc.org/webreports/reports/087/S87120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lincoln City (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>bright amber lights flashing in random sequence later came withing 30 ft. of our house and returned over the oceanMy daughter, husband and myself were watching tv at our ocean front home when a bright amber light caught our attention. At first we thought it was a boat, but the light got closer and brighter, moving very fast in the air. Then it stopped level with our deck, about 1/2 mile out over the ocean and five bright amber lights began flashing in a random sequence. This display lasted about 10-15 seconds then went dark. We went back in the house thinking it was over, then about 5 minutes later spotted it again over the ocean coming closer towards us. As we were trying to follow the lights, they disappeared again and went dark. Then we looked up and there were 3 large amber lights about 30-40 ft. up from our deck. The object was there about 30-45 seconds hovering in the air and from the spacing of the lights, we estimate it was about the width of our house. The lights were almost rectanglar with rounded edges and about 4 ft. wide each. My husband climbed up on the roof to get a closer look and the lights went dark again. There was no sound, or was so quiet it was masked by the sound of the surf.We returned to the house, found the camera this time and waited again in case it returned. About 5 minutes later we spotted it out over the ocean again about 3 miles out going south. It had numerous amber/white lights displayed around the bottom in a circle and a red pulsating light above and then a white, more diffused light above that. It looked like a three story crown floating out over the water almost to the horizon. We watched it travel very slowly for about 45 minutes with zoom binoculars but were unable to get a good picture as it was so far away by then. It continued it's slow course, went behind a boat which was lit up brightly and then went into a fog bank. The last sighting was at 8:10 pm pacific time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35131.html](http://www.nuforc.org/webreports/reports/035/S35131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
