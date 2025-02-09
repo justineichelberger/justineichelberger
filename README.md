@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:42 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three objects over downtown Seattle, early morningAt 3:45 am I awoke to my roommate’s voice. He said, "Get up and go look up into the sky."  My roommate, who was laying on a futon stretched out in the living with his head facing the window, sounded calm but I heard a sense of urgency in his voice. It scared me. I stumbled towards the third floor window of my downtown Seattle apartment overlooking the Westin Hotel.  For some reason, I was unable to stand up, so I kneeled at the windowsill, and looked up into the sky.  I immediately saw 3 shiny, round white blobs of light darting around in very erratic patterns above Elliott Bay.  As I was watching, my roommate said in an equally sickly calm voice, "I have been in the military for over 20 years, and nothing, nothing we have can make those moves."  Then he rolled slightly on his side, smiled, closed his eyes and started snoring. Within about 4 minutes of his passing out, I remember stumbling about 3 feet towards the couch and nothing after that. The objects were shiny, white, and flying slightly lower than cloud level.  I had some difficulty focusing on them. In the distance they looked to be about the size of a Volkswagen beetle.  The most remarkable aspect of these objects was their flying patterns, which defied gravity.  Each of the three objects I observed were moving in straight lines and then quickly shooting off at right angles very, very fast. Much faster than I have ever seen anything mechanical move. I don’t see how a human body could take that kind of movement.  They also moved in close proximity to each other, which appeared equally as dangerous. Their flying pattern reminded me of fireflies, and it looked they were playing in the clouds.  I can only say this is not something I have ever witnessed before.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34663.html](http://www.nuforc.org/webreports/reports/034/S34663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in  (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw this thing just fall out of the sky like it was a shooting star, but it Didnt go away quickly. It looked like a plane was falling out of the sky, but the craft was a circle and had 3 intense light sources. My friend and I saw the thing for about 20 seconds before it looked like it crash landed((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61489.html](http://www.nuforc.org/webreports/reports/061/S61489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
