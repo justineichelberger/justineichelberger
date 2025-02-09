@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in La Grande (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>object looked like shooting star it turned green and glowing as it came closer to the ground increasing in size.I seen what at first appeared to be a shooting star falling in the east vering to north slightly in a streight line. Usually they fade out pretty high  up in the sky.But this one kept coming closer and closer. The bright light I at first seen suddenly turned a bright green and increased in size to say about the size of a full moon at the highest point in the sky. It continued to fall until it was almost to the ground where I couldn't see it anymore it appeared to be about 18 feet from the ground. The height of a train car that was in front of me. From my line of vision it appeared to have gone down very close by.((NUFORC Note:  We spoke with this witness at length, and she sounded quite serious minded and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27617.html](http://www.nuforc.org/webreports/reports/027/S27617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Auburn (ME) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Girl reports sighting strange object.  ( Facts unclear.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00141.html](http://www.nuforc.org/webreports/reports/000/S00141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
