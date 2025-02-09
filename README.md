@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Leon (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>it was a revolving light. It would change from red to green to whitea revolving light came down from the sky and stopped over the trees.It moved to the left and stopped.It set there for approx 20 minutes and got real dim and then a clear light came out of it and made a half circle into the woods from where i stood you could see it move into the trees for approx an hour and the clear light came back out of the trees at a half circle and made contact with the revolving light. Then the revolv light got real bright again and then it started moving across the sky. It did not move in a straight line though.My wife saw it the next night. It was still in the same place the next day as it was when it faded away on me. It was just kinda hanging there. It was the wildest thing I have ever seen in my life.You hear about it but you never expect to see something like that.It then went away and we have not seen it since. It acted as if it was getting charged up from the power lines in the woods where I live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05949.html](http://www.nuforc.org/webreports/reports/005/S05949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three bright orange in color, objects came across the sky, seemed very close. hovered in a triangle, then went into a single file. Moved North.My neighbor called me again, but this time I never made it to her house. My daughter and I were stopped in our tracks when we looked up and viewed three large orange objects moving through the sky. They were not blinking, we heard no sound. They appeared to make a triangle shape, then stayed like that for about a few minutes, then went in to a single line formation. I called a friend a few streets down, she saw them also, but looked at them in a different direction, meaning they must have been closer than I ever thought! She didn't heard any sound either. Then it went off towards the north.((NUFORC Note:  Witness corrected date after submitting report.  We have corrected report here.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11932.html](http://www.nuforc.org/webreports/reports/011/S11932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
