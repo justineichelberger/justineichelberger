@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Man reports witnessing in western sky 4-6 tiny objects with very bright, strobing lights pass from south to north at approximately 1830 hrs.. Roughly four minutes later, he saw what he presumed to be the same objects passing from north to south.  He described the flight of the objects as being unusual in the sense that they appeared to be "wobbling" in flight.  They were "weaving vertically," he thought possibly to draw attention to themselves.  No sound was detectible.Caller had spent a number of years in the military, and considered himself to be a qualified observer with regard to aircraft. He believed that he observed the objects for a total of 90 seconds for both sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01274.html](http://www.nuforc.org/webreports/reports/001/S01274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in McKinleyville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>20 or thirty lights appearing out of nowhere , evenly space headed east southeast.Between 05:20 and 05:35 I was preparing to enter my truck on the way to work.  As I was putting on my work vest I looked up and saw the stars which is rare in Humboldt co.  I then noticed 4 or 5 bright lights traveling east southeast at a high rate of speed.  They were evenly spaced and appeared to very high.  There was no sound that I could hear.  I then noticed there were more following them.  Near a star that in bright in the sky I observed these lights appearing what seemed like out of nowhere.  on furthure observation I could see these lights appearing as coming out of a fog with a dim light growing rapidly brighter and coming in evenly spaced times and following one after another.  This went on from 30 seconds to a minute then they quit. I have no idea how long this went on before I saw them. I was hoping my crew would show up so he could see them too but he arrived too late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153136.html](http://www.nuforc.org/webreports/reports/153/S153136.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
