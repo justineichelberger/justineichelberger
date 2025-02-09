@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockaway Beach () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A train of lightsComing from south west in what appeared a link or train. 35 or so lights. They appear to have been in our atmosphere so not satellite. But i could be wrong. They traveled in groups to 4 and 5 heading north east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153138.html](http://www.nuforc.org/webreports/reports/153/S153138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Riding in car, looked up and saw a triangular shaped object moving almost parallel with the car. When I turned the object disappeared.I saw the object while riding on Elberta rd in Warner Robin, Ga. The object was about 300 feet above the tree line. I was a triangled shape and had three yellow lights in each angle. It was moving at a great speed and it looked as it was moving parallel with our car. When the car turned to go south on Houston rd. the object just disappeared into the night sky without a trace. The object was about 9 and 1/2 feet on each angle. After I saw the object I was stunned and surprised. I did not tell anyone else in the car what I saw becuase i did not want to be ridiculed and taunted becauseI was young at the time. I believe what I saw was of un-earthly orgin because I have never seen anything like that before. I am also not the type of person to lie or make things up. I am a strait A student and am at the top of my class too. People always can trust me. I know what I saw and it is not made up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04157.html](http://www.nuforc.org/webreports/reports/004/S04157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
