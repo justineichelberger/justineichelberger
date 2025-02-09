@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rocklin (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two Unidentified Objects Flying in Sky Over Sacramento County on February 9, 2013 at Approximately 6:25pmLooking out to the Southwest direction from of the Western-facing window of my condominium in Rocklin, California, I saw two circular shaped objects in the sky. I first saw the objects at approximately 6:25pm.  They were very bright and seemed bigger than any airplane, helicopter or other aircraft.  They were several miles from me and were definitely flying over an area in Sacramento County.  They could have possibly been flying over Citrus Heights, California, Fair Oaks, California or even Rancho Cordova, California, depending on their distance from my home.  The objects were very bright and were mostly yellow-colored, but they occasionally changed to a green color, and even red.  They move in all directions and change direction quickly.  They appeared to stay relatively low to the ground, but they would sometimes fly higher up in the sky. F rom my window, I saw two other people on my street who were outside witnessing these two objects flying in the sky.  They wer! e capturing video footage of the objects on a cell phone, smartphone, or a similar device.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96260.html](http://www.nuforc.org/webreports/reports/096/S96260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Man reports witnessing in western sky 4-6 tiny objects with very bright, strobing lights pass from south to north at approximately 1830 hrs.. Roughly four minutes later, he saw what he presumed to be the same objects passing from north to south.  He described the flight of the objects as being unusual in the sense that they appeared to be "wobbling" in flight.  They were "weaving vertically," he thought possibly to draw attention to themselves.  No sound was detectible.Caller had spent a number of years in the military, and considered himself to be a qualified observer with regard to aircraft. He believed that he observed the objects for a total of 90 seconds for both sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01274.html](http://www.nuforc.org/webreports/reports/001/S01274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
