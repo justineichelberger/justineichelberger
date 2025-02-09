@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Lufkin (TX) reported seeing craft that fit the description of some 'Delta' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SUMMARY:  Family traveling home along a rural farm road spotted unusual lights/object in the sky moving slowly from east to west and pulled over to investigate.As we were traveling home along a rural farm road we spotted an unusual light in the sky moving slowly toward the road from east to west.  It didn't move like any familiar airplane, so we pulled over to watch for a minute.  The object was shaped similar to a Stealth, except with a thinner, smoother head-on profile, and with much more bluntly squared-off wingtips and nose.  It moved extremely slowly, no faster than a motorized hangglider,  and completely without engine noise, although it was at a relatively low altitude. (below low-hanging clouds.)  As it passed over our vehicle, its span covered the length of the Suburban.  It had a very large white spotlight at its nose and two bright lights at each wingtip.  The underside had many patterned rows of small colored lights, with an amber double row down the center.  The underside gave the impression of being textured or plated.  There was absolutely no engine noise, even though the craft was very low and very slow.  After pass!ing overhead, two or three small, blue "sparkles" dropped from the craft.  Not quite believing what we had witnessed, and not being fervent UFO watchers, we decided not to report the sighting. Witnesses were myself, a high school library director, my husband, an industrial chemist, and my 15-yr-old son.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01951.html](http://www.nuforc.org/webreports/reports/001/S01951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Puerto Escondido (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A sphere, changing from orange to white, passed over my home at around 7:30-7:40 tonight.  There was no sound, but it was traveling at an extraordinary altitude that I cannot approximate.  I've looked for, and seen, low-orbit satellites here, but the speed and altitude were not the same.  It traveled from E to W, and appeared to leave Earth's space as it passed over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87120.html](http://www.nuforc.org/webreports/reports/087/S87120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
