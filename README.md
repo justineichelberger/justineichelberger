@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>UFO sighting over Los Angeles, 2013.02.09 at 3:40amWe were driving on the 105 freeway east towards the 605 south interchange when me and fiancee spotted something off of the Bellflower Blvd exit.  It was a bright ball of light, a little bigger than the street lights, floating at a level no more than two light post stacked up against each other.  It was the brightest object in the area.  Keeping in mind that this is Los Angeles it rules out a star (both due to its proximity off the ground and  the light pollution).   We have seen plenty of helicopters and airplanes and that object was neither.  With the manhunt for this cop killer I know that anyone reporting this to the authorities would have been turned away. What makes this impressive to me is that my fiancee has been a long life skeptic, until today.  We cannot claim that it was a spaceship with little green men in it, but it was a UFO by definition.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96253.html](http://www.nuforc.org/webreports/reports/096/S96253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Lufkin (TX) reported seeing craft that fit the description of some 'Delta' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SUMMARY:  Family traveling home along a rural farm road spotted unusual lights/object in the sky moving slowly from east to west and pulled over to investigate.As we were traveling home along a rural farm road we spotted an unusual light in the sky moving slowly toward the road from east to west.  It didn't move like any familiar airplane, so we pulled over to watch for a minute.  The object was shaped similar to a Stealth, except with a thinner, smoother head-on profile, and with much more bluntly squared-off wingtips and nose.  It moved extremely slowly, no faster than a motorized hangglider,  and completely without engine noise, although it was at a relatively low altitude. (below low-hanging clouds.)  As it passed over our vehicle, its span covered the length of the Suburban.  It had a very large white spotlight at its nose and two bright lights at each wingtip.  The underside had many patterned rows of small colored lights, with an amber double row down the center.  The underside gave the impression of being textured or plated.  There was absolutely no engine noise, even though the craft was very low and very slow.  After pass!ing overhead, two or three small, blue "sparkles" dropped from the craft.  Not quite believing what we had witnessed, and not being fervent UFO watchers, we decided not to report the sighting. Witnesses were myself, a high school library director, my husband, an industrial chemist, and my 15-yr-old son.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01951.html](http://www.nuforc.org/webreports/reports/001/S01951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
