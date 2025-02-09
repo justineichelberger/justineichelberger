@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bethel (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 ufos' emitting low frequency hum, spotted in sullivan county by backpacker.3 objects sighted while backpacking, noticed a low tone hum coming from outside.  Noticed 3 UFO's the largest had a distinctive diamond shape, with 4 sets of linear low lights not bright approx 60 yards across at midsection lenght difficult to judge due to low light, smaller vessels 20 yards maybe more in diameter 4 lights easier to see due to their lower altitude maybe 6000' my current altitude is 1745' ASL (above sea level).   Hum lasted about 2.5 min.  Then they moved noth east for approx 3 miles, erratic sharp west.  Movements were sharp erratic but also seemed choreographed and, planned.((ADDENDUM FROM WITNESS)) There were multiple people who saw it also in Bethel NY. They noticed the low hum, and 3 UFOS one this morning near Sullivan County Airport around 11:00 moving west south west and was emitting a distinctive chemical trail unlike an aircraft.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107024.html](http://www.nuforc.org/webreports/reports/107/S107024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockaway Beach () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A train of lightsComing from south west in what appeared a link or train. 35 or so lights. They appear to have been in our atmosphere so not satellite. But i could be wrong. They traveled in groups to 4 and 5 heading north east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153138.html](http://www.nuforc.org/webreports/reports/153/S153138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
