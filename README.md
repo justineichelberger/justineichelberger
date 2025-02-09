@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 8 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Changing lights over Santa Cruz CAI stood outside my apt smoking a ciggarette when I noticed an odd set of lights south east of my position. They rotated from red to white. At first I thought it may be a radio tower of some sort then realized there is no tower on the nearest hill and even if there was the lights would be closer and the tower over 1000 ft high. If it was one craft it was definetly cylyndrical in shape, but I believe it may have been 2. They hovered one over another for at least an hour and I can see from my window that they are still in position as Im typing this. Im former military and no loon I know how to identify aircraft and these are no aircraft Ive ever seen or heard of.((NUFORC Note:  Sighting of Sirius, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49067.html](http://www.nuforc.org/webreports/reports/049/S49067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Moab (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange hovering, flickering red and white light over Moab UtahObserved a strange light in the sky last night over the La Sal mountains near Moab Utah.  The occurence happened between 9:30pm and 11:00pm.  The light was red and white.  It hovered in the same area for over an hour.  It appeared to be clumbsy and the flickering red/white light kind of bounced around in gernerally the same 1 mile radius.  I am sure that it was not a helicoptor or airplane because it remained in one gerneral area.  I only noticed this object because it seemed to be hovering and swirling around in the same spot.  I can't say for sure if it was a UFO but it was certainly strange and I have never seen anything like before.((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80014.html](http://www.nuforc.org/webreports/reports/080/S80014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/163/S163648.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161995.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161972.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161971.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161973.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
