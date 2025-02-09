@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in McKinleyville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>20 or thirty lights appearing out of nowhere , evenly space headed east southeast.Between 05:20 and 05:35 I was preparing to enter my truck on the way to work.  As I was putting on my work vest I looked up and saw the stars which is rare in Humboldt co.  I then noticed 4 or 5 bright lights traveling east southeast at a high rate of speed.  They were evenly spaced and appeared to very high.  There was no sound that I could hear.  I then noticed there were more following them.  Near a star that in bright in the sky I observed these lights appearing what seemed like out of nowhere.  on furthure observation I could see these lights appearing as coming out of a fog with a dim light growing rapidly brighter and coming in evenly spaced times and following one after another.  This went on from 30 seconds to a minute then they quit. I have no idea how long this went on before I saw them. I was hoping my crew would show up so he could see them too but he arrived too late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153136.html](http://www.nuforc.org/webreports/reports/153/S153136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 flahsing lights hovering in night skyAround the date of February 9, my father and I were standing on our back porch smoking a cigarette.  We live out in the country probably 8 miles out of town. I was looking at the moon and noticed 4 diferently colored lights flashing fast.  I think the colors were red, white, yellow, and blue.  At first I didn't think anything of it then I began thinking; when I see airplanes at night flying overhead there are only two lights flashing, one on each wing, and both are colored white. Well the lights on the aircraft where of different colors, and where flashing rapidly, faster than I have ever seen an  airplane lights flash.  Also, the where flashing in different orders; such like the red would flash, then the blue, then yellow, then white; all at random choice it seemed. The object didn't seem to be moving, just sitting in the sky.  I cannot tell a definite shape because it was pitch dark all I saw were those lights.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61682.html](http://www.nuforc.org/webreports/reports/061/S61682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
