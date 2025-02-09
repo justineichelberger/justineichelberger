@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 flahsing lights hovering in night skyAround the date of February 9, my father and I were standing on our back porch smoking a cigarette.  We live out in the country probably 8 miles out of town. I was looking at the moon and noticed 4 diferently colored lights flashing fast.  I think the colors were red, white, yellow, and blue.  At first I didn't think anything of it then I began thinking; when I see airplanes at night flying overhead there are only two lights flashing, one on each wing, and both are colored white. Well the lights on the aircraft where of different colors, and where flashing rapidly, faster than I have ever seen an  airplane lights flash.  Also, the where flashing in different orders; such like the red would flash, then the blue, then yellow, then white; all at random choice it seemed. The object didn't seem to be moving, just sitting in the sky.  I cannot tell a definite shape because it was pitch dark all I saw were those lights.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61682.html](http://www.nuforc.org/webreports/reports/061/S61682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three objects over downtown Seattle, early morningAt 3:45 am I awoke to my roommate’s voice. He said, "Get up and go look up into the sky."  My roommate, who was laying on a futon stretched out in the living with his head facing the window, sounded calm but I heard a sense of urgency in his voice. It scared me. I stumbled towards the third floor window of my downtown Seattle apartment overlooking the Westin Hotel.  For some reason, I was unable to stand up, so I kneeled at the windowsill, and looked up into the sky.  I immediately saw 3 shiny, round white blobs of light darting around in very erratic patterns above Elliott Bay.  As I was watching, my roommate said in an equally sickly calm voice, "I have been in the military for over 20 years, and nothing, nothing we have can make those moves."  Then he rolled slightly on his side, smiled, closed his eyes and started snoring. Within about 4 minutes of his passing out, I remember stumbling about 3 feet towards the couch and nothing after that. The objects were shiny, white, and flying slightly lower than cloud level.  I had some difficulty focusing on them. In the distance they looked to be about the size of a Volkswagen beetle.  The most remarkable aspect of these objects was their flying patterns, which defied gravity.  Each of the three objects I observed were moving in straight lines and then quickly shooting off at right angles very, very fast. Much faster than I have ever seen anything mechanical move. I don’t see how a human body could take that kind of movement.  They also moved in close proximity to each other, which appeared equally as dangerous. Their flying pattern reminded me of fireflies, and it looked they were playing in the clouds.  I can only say this is not something I have ever witnessed before.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34663.html](http://www.nuforc.org/webreports/reports/034/S34663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
