@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Riding in car, looked up and saw a triangular shaped object moving almost parallel with the car. When I turned the object disappeared.I saw the object while riding on Elberta rd in Warner Robin, Ga. The object was about 300 feet above the tree line. I was a triangled shape and had three yellow lights in each angle. It was moving at a great speed and it looked as it was moving parallel with our car. When the car turned to go south on Houston rd. the object just disappeared into the night sky without a trace. The object was about 9 and 1/2 feet on each angle. After I saw the object I was stunned and surprised. I did not tell anyone else in the car what I saw becuase i did not want to be ridiculed and taunted becauseI was young at the time. I believe what I saw was of un-earthly orgin because I have never seen anything like that before. I am also not the type of person to lie or make things up. I am a strait A student and am at the top of my class too. People always can trust me. I know what I saw and it is not made up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04157.html](http://www.nuforc.org/webreports/reports/004/S04157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Leon (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>it was a revolving light. It would change from red to green to whitea revolving light came down from the sky and stopped over the trees.It moved to the left and stopped.It set there for approx 20 minutes and got real dim and then a clear light came out of it and made a half circle into the woods from where i stood you could see it move into the trees for approx an hour and the clear light came back out of the trees at a half circle and made contact with the revolving light. Then the revolv light got real bright again and then it started moving across the sky. It did not move in a straight line though.My wife saw it the next night. It was still in the same place the next day as it was when it faded away on me. It was just kinda hanging there. It was the wildest thing I have ever seen in my life.You hear about it but you never expect to see something like that.It then went away and we have not seen it since. It acted as if it was getting charged up from the power lines in the woods where I live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05949.html](http://www.nuforc.org/webreports/reports/005/S05949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
