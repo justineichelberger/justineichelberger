@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was a formation of 9 lights that were changing position relative to each other (about the size of the big dipper or bigger)On Saturday February 10th, 2001 Me and my wife were driving Eastbound in Rockford Illinois when at 22:25 a formation of lights in the sky caught my wifes attention and asked me what it was. Of course I had no clue either, but we noticed that we were not the only ones seeing it because most people driving the same way we were were pullng over on the side of the street to take a good look of the lights, which were traveling in a southwest direction. We pulled over in a Restaurant's parking lot, and we noticed all the patrons at that restaurant were outside watching those lights, despite the cold temperature which mut have been on the teens. he lady standing next to me theorized that they were some kind of memorial lanterns lit up and launched from a nearby hospital and that were being carried by the wind. However it was interesting to see that the lights were shfting positions very slowly and it was interesting to see that at the end of the sighting one of the lights started traveling in the opposite direction as the other lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16420.html](http://www.nuforc.org/webreports/reports/016/S16420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Parkersburg (outside of) (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 Witness's  Saw A Stationary Object Hovering Near A Cell Phone Tower. "Object was Hugh" Changed from Red To  Amber Color "No Sound"Was Driving On Rt.50 Traveling East from Parkersburg, WV. Wife Was Driving, She At First Didn't See The Strange Object, I Hollered What The Heck Is That, She let Off The Gas, We Were Traveling 65 MPH, There Is A Cell Phone tower On The West Bound Side of the Highway Up The Hill About A Hundred Feet From The Road,With Red Lights At The Top And In The Middle.  Object was Located about 100 feet from the tower. I asked My Wife to stop the Truck, I was going to get out to get a better View. She slowed down to about 5 MPH But Did not Completely Stop. I Saw a Object that was Triangular Shaped, That went up into a peak, "What I Mean By That" It Appeared to Be Two Stories Tall, With A Smaller section on Top With A White Light At The Top. When I First saw this UFO it was red, It Then changed to a Amber Color with lights Rotating around the Bottom of the Craft, It Appeared to have White lights on the second Level. Object was Black Metal Looking Had Criss Cross Looking Patterns on the Bottom, Was Making No Sound. I was Telling My Wife Who By This Time Is Screaming OH MY GOSH, OH MY GOSH,  She Then Floored The Gas And MY Truck which has never done this before DID NOT want to go, We Finally Took Off, All The while I was Watching out the Back Glass With My Wife Screaming Is It Following Us. This Happened This Morning 02/10/08 Time Was 1:59Am. My Wife Said she looked at the time, Just As we Saw This UFO. The Ufo was Lower Than the Cell Ph. Tower. Would Also Like to add The UFO Was Hovering It Was Not Moving At All Except The Rotating lights on the bottom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61518.html](http://www.nuforc.org/webreports/reports/061/S61518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
