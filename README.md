@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Corryton (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>triangular object appearing at low level in the outskirts of Knoxville, TNWe live in a rural community and have a long ½ mile gravel driveway with a field on the right hand side.  My three teenage and preteen children and I turned into the driveway and had stopped at the mailbox to get the mail when we saw some extremely bright lights at the far end of the field.I got out of the car and noticed it was moving slowly in a circular path.  It was triangular in shape, with 3 bright white lights at each corner.  The edges of the craft glowed with a dull silvery light.  It reminded me of the neon lights you see under cars.  In the center was an extremely large red light.It began to move slowly across the field and over the far end of my driveway.  I grabbed my phone and quickly took a picture with it as it passed over the woods on the other side of the driveway.  After about 45 seconds from when we first saw it and about 5-10 seconds after I took the picture it disappeared.  It did not shoot off, or leave any trails of light because of moving quickly, and did not go behind any hills or trees (there was nothing to obstruct the view).  It simple just disappeared.  My two oldest could verify the exact experience to my husband when we got to our house, so I know what we saw.  Hopefully, once I download my picture to my computer I will be able to zoom in and have it enhanced to better make out the objects shape.  Right now, the picture looks like a massively bright glowing object and you can see some metal at the edges of the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68558.html](http://www.nuforc.org/webreports/reports/068/S68558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a ufo was orbiting mars!!!I was looking at mars with 1500mm dobsonian teloscope at abut 50 magnification when a dot of light approaches mars circles it once then it starts to slowly drift away from mars then it starts to get dimmer, and it dissapears you could not see it with the naked eye. ive done astronomy for 8 years and it wasnt a star or a comet. the object did not take any aparent shape just a dot of light  i would have magnified it more, but i didnt for fear of loseing the object. the object did come from mars. what was that thing?((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61525.html](http://www.nuforc.org/webreports/reports/061/S61525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
