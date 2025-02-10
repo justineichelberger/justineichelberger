@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw lights quickly go into cloud, about 3 single file, then behind them several started coming in one by one quickly...we waited for the lights to continue through the cloud and sky,...but not one came out! Clear skies all around,.. cloud hasn't moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153188.html](http://www.nuforc.org/webreports/reports/153/S153188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was fishing on east lake Toho around 6:30 this afternoon and I saw what looked like a big hot air balloon coming from the south moving towards Orlando.  There where no blinking lights just a flickering red yellow light with a white globe above it.  This thing was moving faster than anything powered by the wind could have moved.  From the same place on the lake I can see the fireworks from Disney world which is about 20 miles away.  This thing went out of sight in about a minute and a half, well past where the fireworks appear.  It made no sound.  I wouldn't have thought anything about it if it hadn't been moving so fast.  t made the airplanes circling the Orlando airport look like they where standing still.  So from miles away coming from the south it came over me and had gone well past Disney within a minute and a half.  That would be approximately 30 to 40 miles.  I can't explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138637.html](http://www.nuforc.org/webreports/reports/138/S138637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
