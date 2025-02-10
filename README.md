@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a ufo was orbiting mars!!!I was looking at mars with 1500mm dobsonian teloscope at abut 50 magnification when a dot of light approaches mars circles it once then it starts to slowly drift away from mars then it starts to get dimmer, and it dissapears you could not see it with the naked eye. ive done astronomy for 8 years and it wasnt a star or a comet. the object did not take any aparent shape just a dot of light  i would have magnified it more, but i didnt for fear of loseing the object. the object did come from mars. what was that thing?((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61525.html](http://www.nuforc.org/webreports/reports/061/S61525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Barnet (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Square then triangular formation of lights North of London 10th. February 2009I was travelling along the M25 motorway Eastbound towards the South Mimms service station when my daughter (20 years old) noticed 4 bright white lights forming a square in the sky, some 1000 to 1500 feet off the ground, to the front right hand side of the car.She pointed them out and as I looked at them the top right hand light moved off slowly to the right from the formation, then shot away to the right hand side at an incredible speed.As the bottom two lights held position the remaining top light moved over, to form a triangle.We then noticed that there were a number of tiny red and white flickering lights around the three main lights.We lost sight of the lights as we came off and drove under the South Mimms intersection (M25 / A1) and turned onto the Barnet road, as we turned onto the road the lights could still be seen from this lower position (the motorway is on a raised embankment) forward of the car to our left hand side over the M25 motorway.We knew it was not a plane as aircraft are 'stacked' in this area prior to landing at Heathrow airport and could be seen in relation to this formation.We then lost sight of them behind roadside trees, when we next came into a clear line of sight, they were no longer to be seen anywhere.These lights were noted in night time conditions (sunset was approx. 17:15) the weather was clear and cloudless, there was no wind, numerous aircraft could be seen throughout the sky (this is usual in this area of Hertfordshire as we have been driving in this area for over 20 years).There were no red / green - wing or fuselage - navigation lights, no landing lights, no wing strobes??  They seemed to be either static or moving very slowly, with the exception of the light that left the formation.As the motorway was very busy (Midweek North London Rush Hour) we assume others observed this cluster of lights and we would be interested to discover what caused them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68548.html](http://www.nuforc.org/webreports/reports/068/S68548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
