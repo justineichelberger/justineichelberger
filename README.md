@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>SHAPE IN THE CLOUDS NO LITE OF OBJECT.I LIVE IN SAN BERNARDINO. WHAT I SEEN WERE CLOUDS IN THE SKY. AND AN ''L'' SHAPE FIGURE WENT THREW AND LEFT IT'S SHAPE IN THE CLOUDS. TIGHT CORNERS AT EACH TIP OF THE SHAPE. IT WAS VARY CLOUDY. 3 OF US SEEN THE SHAPE. IT HAS BEN ALMOST 4 YEARS SINCE I SEEN THIS. IT WAS ONE OBJECT FROM WHAT I CAN TELL. THE SIZE OF THE SHAPE WAS AS BIG AS A FOOTBALL FIELD I BELIEVE. I DID NOT SEE THE SHAPE MADE, BUT I BELIVE IT WAS VARY UNUSUAL FOR THE SHAPE TO BE THERE THAT WAY IN THE SKY. I DO SAY TODAY I SEEN SOMETHING AND I REGRET NOT PAYING MORE ATTENTION TO THIS.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61293.html](http://www.nuforc.org/webreports/reports/061/S61293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was a formation of 9 lights that were changing position relative to each other (about the size of the big dipper or bigger)On Saturday February 10th, 2001 Me and my wife were driving Eastbound in Rockford Illinois when at 22:25 a formation of lights in the sky caught my wifes attention and asked me what it was. Of course I had no clue either, but we noticed that we were not the only ones seeing it because most people driving the same way we were were pullng over on the side of the street to take a good look of the lights, which were traveling in a southwest direction. We pulled over in a Restaurant's parking lot, and we noticed all the patrons at that restaurant were outside watching those lights, despite the cold temperature which mut have been on the teens. he lady standing next to me theorized that they were some kind of memorial lanterns lit up and launched from a nearby hospital and that were being carried by the wind. However it was interesting to see that the lights were shfting positions very slowly and it was interesting to see that at the end of the sighting one of the lights started traveling in the opposite direction as the other lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16420.html](http://www.nuforc.org/webreports/reports/016/S16420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
