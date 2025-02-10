@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw lights quickly go into cloud, about 3 single file, then behind them several started coming in one by one quickly...we waited for the lights to continue through the cloud and sky,...but not one came out! Clear skies all around,.. cloud hasn't moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153188.html](http://www.nuforc.org/webreports/reports/153/S153188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Poughquag (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very slow moving object with bright lights that caused me to pull over to examin it.I was driving on the Taconic State Parkway North Bound. About a quarter of a mile before the Beekman exit I noticed lights in the sky.  As I approached the exit I kept staring at it.  The object was very low to the ground but yet it was moving very slow.  When I got off the exit I pulled over to take photos of it but I couldn't get a good angle to shoot it. The shape of  looked like this using the lights as a line connection:  O blinking red | O----------O----------O very bright steady white | O blinking red  The object made no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107063.html](http://www.nuforc.org/webreports/reports/107/S107063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
