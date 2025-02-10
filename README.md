@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:50 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white dots moving fast across the sky.It was 5:29 am and I looked up at the night sky. I saw one white dot moving across the sky. It was moving very fast.  It stayed solid and then flickered a little bit. It then turned back solid. Another object moved right behind it at the same speed.  There were about ten objects in one line moving at the same speed to the same place.  There was no line connecting them. There was then a break in the objects and a less bright light came slower from another direction following them.  Then more of the bright objects came by. T his was repeated about 4-5 times.  They were all white and very bright.  They looked like stars or satellites. However, I could not make out a distinct shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154125.html](http://www.nuforc.org/webreports/reports/154/S154125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Douglas (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two different sightings in SE Arizona on same eveningMy two neighbors and I were enjoying an evening outside of their trailer around a fire pit when a formation of lights flew over our heads heading east toward New Mexico.  Our properties are adjacent and are about 10 miles north of Douglas, AZ.  There is a glow from the city lights from Douglas and Agua Prita, but in the area we live it is quite dark with clear views of the stars when the sky is clear.  I would say the formation of lights resembled a chevron based on the lights I saw.  There was a rumbling sound, but it did not sound like military jets to me although my neighbor thought it was just a formation of jets likely from the Tucson area.  He didn't really watch it and only glanced at it while I continued to observe the "formation" for several minutes as it flew over the mountains to the east but was still visible for quite some time.  It was at least 8,000 or so feet up based on the summit of the peaks in that range.  The lights were white,! and I did not notice any colors.  As I observed the lights and tried to gather more details, the chevron shape changed a bit as some of the lights moved up, down and sideways in a way that I would not say is consistent with an airplane or helicopter.  It was too fast, angular and fluid for it to be an aircraft that I am aware of. 45 minutes or so later, I was heading to my truck to drive back to my property, and to the NE over the Swiss Helm mountain range, I noticed 6-8 flickering, white lights in a loose horizontal band that were stretched from left to right about 10-15 miles.  They were moving slowly SE toward New Mexico, and they maintained that course for 5 minutes while I watched them.  The lights flickered in and out in an inconsistent manner and they moved slowly up and down while still moving at a consistent speed to the SE.  They were quite a ways in the distance so I don't believe they could have been helicopters as they were too far away to be visible.  There was no weather that evening or cloud layer and the skies were very clear so it is unlikely they were ball lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162023.html](http://www.nuforc.org/webreports/reports/162/S162023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
