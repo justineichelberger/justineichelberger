@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:50 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Poughquag (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very slow moving object with bright lights that caused me to pull over to examin it.I was driving on the Taconic State Parkway North Bound. About a quarter of a mile before the Beekman exit I noticed lights in the sky.  As I approached the exit I kept staring at it.  The object was very low to the ground but yet it was moving very slow.  When I got off the exit I pulled over to take photos of it but I couldn't get a good angle to shoot it. The shape of  looked like this using the lights as a line connection:  O blinking red | O----------O----------O very bright steady white | O blinking red  The object made no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107063.html](http://www.nuforc.org/webreports/reports/107/S107063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white dots moving fast across the sky.It was 5:29 am and I looked up at the night sky. I saw one white dot moving across the sky. It was moving very fast.  It stayed solid and then flickered a little bit. It then turned back solid. Another object moved right behind it at the same speed.  There were about ten objects in one line moving at the same speed to the same place.  There was no line connecting them. There was then a break in the objects and a less bright light came slower from another direction following them.  Then more of the bright objects came by. T his was repeated about 4-5 times.  They were all white and very bright.  They looked like stars or satellites. However, I could not make out a distinct shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154125.html](http://www.nuforc.org/webreports/reports/154/S154125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
