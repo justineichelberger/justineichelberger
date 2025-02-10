@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Diego (Peñasquitos) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Brilliant orange/gold fireball moving EXTREMELY slowly - almost inperseptably at first, west to east, with a trail, for about 45 seconds, then vanished. It made no sound.On February 10, 1999 at 11:40pm I was leaving my friends' apartment buliding in the Peñesquitos area of San Diego near I-15, walking east in the parking lot toward my car. It was a crystal clear night with no clouds, and excellent visibility of the stars. My intuition told me to turn around as I walked through the parking lot, and there directly over my friends' apartment building was a large, brilliant, orangish gold fireball, seemingly hovering. As I watched, I realized it was moving -- albeit very slowly -- from west to east. It had a trail of what I would describe as 'sparks'. It took about 45 seconds to go from over the apartment building to over the parking lot... an incredibly long period of time for something 'flying in the sky' to go such a short distance... at which time it was directly overhead and simply vanished. It made no sound. I have seen many many meteors over the years, and am a seasoned star-watcher. I have never, ever seen anything like this and it left me in awe and in wonder. It was extarordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05611.html](http://www.nuforc.org/webreports/reports/005/S05611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Giant 55 gal. silver drumSmoking a ciggarette outside. During a full moon. A giant barroll shaped object appeared from the west around 1000 ft. elevation. Traveling around 80 miles p.h. Moving perfectly straight and even with no sound. Bright and silver giant drum. Until it moved out of my vision. Traveling east south east((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90219.html](http://www.nuforc.org/webreports/reports/090/S90219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
