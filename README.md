@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was fishing on east lake Toho around 6:30 this afternoon and I saw what looked like a big hot air balloon coming from the south moving towards Orlando.  There where no blinking lights just a flickering red yellow light with a white globe above it.  This thing was moving faster than anything powered by the wind could have moved.  From the same place on the lake I can see the fireworks from Disney world which is about 20 miles away.  This thing went out of sight in about a minute and a half, well past where the fireworks appear.  It made no sound.  I wouldn't have thought anything about it if it hadn't been moving so fast.  t made the airplanes circling the Orlando airport look like they where standing still.  So from miles away coming from the south it came over me and had gone well past Disney within a minute and a half.  That would be approximately 30 to 40 miles.  I can't explain it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138637.html](http://www.nuforc.org/webreports/reports/138/S138637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Haines (AK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A bright multi-color flashing object soared across night sky, until it made an abrupt stop, only to roam around in any directionSo, my friends and me were just driving around. We all stopped and got out of the car to marvel at the stars. We were naming the various constellations that we could identify when we noticed this obviously flashing, rather than twinkling star, cruising across the night sky at a notable pace. I thought nothing of it just as my friends did. But as my curiosity faded, the flashing object (which was flashing blue-red-blue-white-blue-red-blue-white) had stopped suddenly right above the horizon.  I noted that this “thing” was no longer a satellite.  It was just stationary for maybe 2-3 minutes, until it started to bounce around in a bumblebee-like manner, almost if it were pacing in an infinity symbol or figure 8. It continued to just roam around the sky freely. Back and forth up and down side to side. This “satellite” then came to an abrupt stop. It just dropped very slowly and consistently downward and then to another stationary position. My friends were still sol! d on the idea of it being a satellite because, “Dude, satellites are advanced now the have propulsion. They can do whatever they want.” I argued the point of earth’s infinite orbit and how something in it could not have the capabilities to just stop. After that we were done marveling. I got in the car with a confidant feeling of “ I just saw a UFO!”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87161.html](http://www.nuforc.org/webreports/reports/087/S87161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
