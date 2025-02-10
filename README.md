@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:30 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tunwater (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I woke up and looked out the window to see a triangle shape with rotating spheres at the acute angles of the triangle shape traveling across the sky.  It was a triangle, gray color, with sphere at all ends of the acute corners, rotating and traveling with silence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138632.html](http://www.nuforc.org/webreports/reports/138/S138632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>out my window in nyc i saw two very distinct small white lights in the sky moving like butterflys togetherI live on the 10th floor of an apt building in nyc.  I have a nice skyline view. I was looking out the window while laying on the bed talking on the phone, which i often do.  It was a clear night.  I saw two little bright lights in the distance that looked like stars.  But my mind must have tuned into them instead of the conversation on the phone because what I was seeing was nothing I had seen before.  All of a sudden I jumped up because I realized they weren't stars at all, because stars just stand still and twinkle.  They were moving pretty fast but not abnormally fast and in sync with one another.  The best way i could describe it is they were moving like butteflies move.  Almost "dancing-like".  They were flying upward in a northeast direction.  Twice they moved towards each other almost touching and then right back away from each other.  All the while they kept flying in the northeast direction.  Finally they went behind a building so they were out of my line of sight.  I would guess that if I lived in the building they went behind (approx 20 blocks away) I would have seen them extremely close.  I couldnt believe what I saw and was speechless.  I've been looking out these windows for two years and know what stars, helicopters, planes, fireworks, etc etc etc all look like and this was nothing I have ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42446.html](http://www.nuforc.org/webreports/reports/042/S42446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
