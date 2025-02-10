@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 9 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Butler (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>WHILE I WAS AT MY FARM PASTURE I SAW A STRANGE OBJECT IT WAS VERY STRANGE.I was out on my farm pasture on February 9, 2006 on a Thursday evening about at 7:40 P.M. in Butler, Missouri. I was out by my barn and I looked up and saw a strange light in the sky up above me.  Then I saw a strange object above me and it was round and wide on the top and it got narrower as you go to the bottom of the object it was orange lighted with red vertical lines around the sides of it and it had a blue light on the middle of the top and a blue light on the middle of the bottom.  I saw it over the nearby lake also. But as I was standing by the barn it hovered over the barn and went down by the nearby lake and it hovered over the lake.  So I walked down by the lake and I still saw the strange object. I was puzzled and I didn't understand where this object came from.  It wasn't a plane or a weather balloon and it wasn't a star that I was seeing. The object had no sound to it.  I watched it and it disappeard going towards the west I looked up and it was no where in sight and I didn't see it no more.  Then I got in my car and left my farm pasture and I didn't see it no more it was a strange object  I saw at my farm pasture.  It was party cloudy when I saw this object at my farm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49233.html](http://www.nuforc.org/webreports/reports/049/S49233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Airway Heights (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoin - Ongoin minutes.</sub><blockquote><sub>I went downstairs an was looking out the glass door when I saw 3 lights lined up moving the same speed across the sky.  The another, and another.... I woke my son to come and watch. They kept coming only further apart for 20 min. As if leaving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153189.html](http://www.nuforc.org/webreports/reports/153/S153189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [239](http://www.nuforc.org/webreports/reports/161/S161987.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161989.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162076.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161993.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
