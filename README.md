@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Haines (AK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A bright multi-color flashing object soared across night sky, until it made an abrupt stop, only to roam around in any directionSo, my friends and me were just driving around. We all stopped and got out of the car to marvel at the stars. We were naming the various constellations that we could identify when we noticed this obviously flashing, rather than twinkling star, cruising across the night sky at a notable pace. I thought nothing of it just as my friends did. But as my curiosity faded, the flashing object (which was flashing blue-red-blue-white-blue-red-blue-white) had stopped suddenly right above the horizon.  I noted that this “thing” was no longer a satellite.  It was just stationary for maybe 2-3 minutes, until it started to bounce around in a bumblebee-like manner, almost if it were pacing in an infinity symbol or figure 8. It continued to just roam around the sky freely. Back and forth up and down side to side. This “satellite” then came to an abrupt stop. It just dropped very slowly and consistently downward and then to another stationary position. My friends were still sol! d on the idea of it being a satellite because, “Dude, satellites are advanced now the have propulsion. They can do whatever they want.” I argued the point of earth’s infinite orbit and how something in it could not have the capabilities to just stop. After that we were done marveling. I got in the car with a confidant feeling of “ I just saw a UFO!”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87161.html](http://www.nuforc.org/webreports/reports/087/S87161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Diego (Peñasquitos) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Brilliant orange/gold fireball moving EXTREMELY slowly - almost inperseptably at first, west to east, with a trail, for about 45 seconds, then vanished. It made no sound.On February 10, 1999 at 11:40pm I was leaving my friends' apartment buliding in the Peñesquitos area of San Diego near I-15, walking east in the parking lot toward my car. It was a crystal clear night with no clouds, and excellent visibility of the stars. My intuition told me to turn around as I walked through the parking lot, and there directly over my friends' apartment building was a large, brilliant, orangish gold fireball, seemingly hovering. As I watched, I realized it was moving -- albeit very slowly -- from west to east. It had a trail of what I would describe as 'sparks'. It took about 45 seconds to go from over the apartment building to over the parking lot... an incredibly long period of time for something 'flying in the sky' to go such a short distance... at which time it was directly overhead and simply vanished. It made no sound. I have seen many many meteors over the years, and am a seasoned star-watcher. I have never, ever seen anything like this and it left me in awe and in wonder. It was extarordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05611.html](http://www.nuforc.org/webreports/reports/005/S05611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
