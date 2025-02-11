@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:50 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large bright white/blue orb or saucer hovering in the skyDriving down the crosstown in Tampa.  As I looked over to the right, I noticed a pretty large sized oval/saucer like object floating in the sky.  I was headed east on the crosstown going towards downtown Tampa and the object was floating to the north of my location.  I have to say, I almost ran off the road because I was staring at this object, trying to figure out what it really was.  It was a very bright white/light blue orb/saucer just hoovering over the suburbs.  I was able to take photos of the object and after reviewing them on my phone, it was pretty clear that whatever this object might have been could move or switch locations in literally a blink of an eye.  3 photos were taken within 1 second of each other, and after comparing them side by side you can clearly see just how quickly the object switched locations.  The crosstown provides and elevated view of the surrounding suburbs, so I had a great view of the object.  Someone else had to have seen this, ther! e is no way I would have been the only one.  If this object is something our government has created, then props to them because it is definitely beyond our time.((NUFORC Note:  We suspect a sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125803.html](http://www.nuforc.org/webreports/reports/125/S125803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chatfield (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two different light blue fireballs appeared.  One dove and maneuvered before disappearing, the other hovering before disappearing .Was driving home after a hockey game down the highway when I saw a bright light blue flame dive down towards the ground before swooshing back up into the sky before disappearing into a small burst of white/blue flame.  Then several minutes later while still driving home, I saw a similar blue flame hovering just off the top line of the mountains.  It stayed there for about 30 seconds of so before again bursting into a wisp of flame and then disappearing into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144860.html](http://www.nuforc.org/webreports/reports/144/S144860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
