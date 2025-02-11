@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:58 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Amber lights in skyApproximately 8:30 ish pm, February 11, 2015, took the dogs out to pee, looked to the left, towards Holden Beach area, saw a longish amber light, very fuzzy, burning in the sky.  Then a squarish amber light appeared to the left of the long light, swiftly moved towards and over it, then both disappeared.  The square light was very defined, sharp, crisp edges.  When I saw the longish light, called to husband to come and help identify and in a matter of seconds, both were gone.  Like opening a door and closing it.  No sound or odor; dogs didn't react in any way.  Too quick for husband to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117274.html](http://www.nuforc.org/webreports/reports/117/S117274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two lights, moving SW performing manuevers, then instantly vanishing.I was taking the dog out for an evening walk...I looked up in the clear night sky to see two very bright yellow lights( approx 3 to 4 times brighter than an airplane light) about .5 to 3/4 of a Km away. Both lights were travelling side by side moving SW from my position at a slow rate of speed (Much slower than a airplane). At approx 19:59 both lights moved in opposite directions (on a parallel plane), one to the South the other to the North, at a high rate of speed. The items moved approx .5 Km appart, stopped for about 15-20 seconds, then returned to thier side by side position, slower than the seperation, about 1/4 the speed. I then ran inside to get my wife. Upon returning 15-20 seconds later we observed them continue moving slowly in a SW direction for 2 min when they vanished, almost like some one turn off a switch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27671.html](http://www.nuforc.org/webreports/reports/027/S27671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
