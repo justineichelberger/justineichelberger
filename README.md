@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:31 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:03:51 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fireball of green/orange seen above SW Montana.A fireball of orange and green was seen above Bozeman when viewed from 8 miles west of town. object appeared to be travelling in a southeast direction and downward - appeared as a bright rapidly moving fireball against a clear moonlit sky, then the fireball went dark, flames etc appeared to extinguish, and a dark object appeared to continue its descent remaining visible *below the sightline* of Bridger Mtn range in background. No impact or explosion was seen and no sound heard. Originally thought it might be an aircraft on fire. Incident reported to me by daughter at school in Bozeman.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49103.html](http://www.nuforc.org/webreports/reports/049/S49103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 spheres with  each with a bright light, couldnt believe what I was seeing!!I was outside looking at the sky and noticed a bright sphere to the south,  went and got binoculars and focused in on the sphere, it appeared to be a dark grey sphere with dimples in it, like a golf ball, it had a light in the center that illuminated it so i could see the color, it appeared to have anntennae like appendages, at this point i went and  got the video cam, leaned on the fence to stedy it up and noticed 2 more objects that appeared to be the same.  they were all stationary, one was fairly close, they were like in a triangle type formation but spread WAY out.  I have a about 10 mins of video of the objects, i could only film 2, but the quality is not very good as i was trying to zoom them in and would lose them.  I am self employed carpenter, with a fairly open mind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41891.html](http://www.nuforc.org/webreports/reports/041/S41891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
