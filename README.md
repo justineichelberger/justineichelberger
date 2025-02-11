@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:58 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Selden (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Still Happening - Still Happening minutes.</sub><blockquote><sub>My son woke me up his room was shaking and his chair was vibrating.  We went outside and looked to see what could have caused the vibration.  We live on a very high street so it could not be a truck. we looked up and to the south of long island we could see a bright red light [very large] and a smaller one below it.  We took pictures of this and as of right now it is still there, 20 minutes now.  The light stayed steady but would glow brighter slowly and then go back.it looked to have red branches on the southern side of it that branched out.its wasnt so much a pulsating light but there was a definite pattern to it.changing approx every [2] minutes [EST].  It is a much brighter red on the rim and a lighter red on the inside, the smaller one is to low to really see what it is doing.  The pattern would be very bright foe 5 seconds and then dim.  The pattern then changed to bright red staying longer,[approx [4] min by watch.as i write this the vibration had stopped after 5 to 10 seconds and nothing since. we are going back out to see if it is still there.  This cannot be a plane or a tower light we can see that also [the tower light] it is very large and seems quite low.with our cell phones we can actually see it turning shapes like a worm for lack of a better word.  It stays in that unformed way twisting and seems circular but not solid.after approx 5 min its then glows into a huge red mass pulsating approx 3x and then goes into a unformed weird worm movement,yet you can see in the video it looks fluid not solid.  We have a 10 minute video.  It is still out there with the smaller one under it quite far away from the top one doing the same movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144862.html](http://www.nuforc.org/webreports/reports/144/S144862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bolivia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Amber lights in skyApproximately 8:30 ish pm, February 11, 2015, took the dogs out to pee, looked to the left, towards Holden Beach area, saw a longish amber light, very fuzzy, burning in the sky.  Then a squarish amber light appeared to the left of the long light, swiftly moved towards and over it, then both disappeared.  The square light was very defined, sharp, crisp edges.  When I saw the longish light, called to husband to come and help identify and in a matter of seconds, both were gone.  Like opening a door and closing it.  No sound or odor; dogs didn't react in any way.  Too quick for husband to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117274.html](http://www.nuforc.org/webreports/reports/117/S117274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
