@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sun City (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fiery lights in the south-western Phoenix sky.2 orange/yellow lights in the south western part of the sky.  4 more appeared to the west of the first 2.  There was a large space between the first and second, then the second and the last 4.  The last four appeared after the first 2 were hovering and those 4 remained in a cluster,  slightly to the right (west) of the first 2.They disappeared after about 15-20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117265.html](http://www.nuforc.org/webreports/reports/117/S117265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>From Squaw Peak, saw orange glow coming from the mountain range west of South Mountain.  First one lasted 5 minutes then disappeared then minutes later 2 appeared then disappeared then 3 .. Looked like flame-shape object glowing.  One minute there the next gone.  Then saw them again on 2/12/15.  Same time but only saw one for a minute it then disappeared and returned a few minutes later.  Same flame-like glow.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117286.html](http://www.nuforc.org/webreports/reports/117/S117286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
