@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 10 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fincastle (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Illuminated objects and face captured on wildlife camera on Feb. 10 2008 in VirginiaMy parents have a Wildlife camera set up on their property in Fincastle, VA. When ever there is motion close to the camera it will shoot a picture. They have many deer, turkey pictures etc. But on 2/10/08 there was a series of strange photos. It started at 8:14 am there is 3 pictures of something in sky with a huge light effect around it. It even covers the trees as you can see in the pictures. Then at 8:41 pm it gets stranger still. Te first picture almost looks like a coat sleeve the 2nd maybe an outline of a leg and arm, but the 3rd picture is breathtaking. There is a face that is illuminated; you can make out many facial features. It is unlike anything I have ever seen. If this was not my parents etc. I would think it a hoax. But since it is my parents and I know better we are simply speechless as to what this could be. PLEASE help us figure it out.((NUFORC Note:  Black spots are due to photographing the rising sun with a digital camera.  "Face" looks like human face, placed very close to the camera, so that it is severely over-exposed by the intensity of the flash attachment.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61938.html](http://www.nuforc.org/webreports/reports/061/S61938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Nebraska City (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large UFO circular in shape with a crescent-like glow spotted for 10 mins, 1 mile west of Nebraska City.I live in Lincoln, NE and Commute to Nebraska City, NE for work. I was leaving Nebraska City on Highway 2 going westbound, when I saw something very large in the South/Southwestern sky. It was circular in shape but the only part of it emitting light was the bottom which looked crescent-like in its glow. When I originally saw it I just thought it was the moon, but I noticed it disappear and reappear in the sky in the west.  It then moved VERY fast to the north and then it dropped rapidly and sat down behind a hill. After it sat down I couldn’t see the object anymore. The objects glow was orange in color.  After seeing this I contacted the local sheriff’s office, and they already had a report that someone called in that they thought there was a fire at a local power plant, because they noticed an orange glare in the sky towards the plant then they watched the orange object move away from the plant and towards the west/northwest.  I work with two other people that saw it also. They left work 10 minutes before I did and they saw it and it disappeared, they just thought it was the moon disappearing behind some clouds. The thing about this is it was lightly snowing and the sky was completely overcast. I’ve never seen anything this huge in the sky in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61581.html](http://www.nuforc.org/webreports/reports/061/S61581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162347.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162023.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162015.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162186.html)
-- [269](http://www.nuforc.org/webreports/reports/153/S153207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
