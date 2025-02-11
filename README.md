@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:28 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Nebraska City (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large UFO circular in shape with a crescent-like glow spotted for 10 mins, 1 mile west of Nebraska City.I live in Lincoln, NE and Commute to Nebraska City, NE for work. I was leaving Nebraska City on Highway 2 going westbound, when I saw something very large in the South/Southwestern sky. It was circular in shape but the only part of it emitting light was the bottom which looked crescent-like in its glow. When I originally saw it I just thought it was the moon, but I noticed it disappear and reappear in the sky in the west.  It then moved VERY fast to the north and then it dropped rapidly and sat down behind a hill. After it sat down I couldn’t see the object anymore. The objects glow was orange in color.  After seeing this I contacted the local sheriff’s office, and they already had a report that someone called in that they thought there was a fire at a local power plant, because they noticed an orange glare in the sky towards the plant then they watched the orange object move away from the plant and towards the west/northwest.  I work with two other people that saw it also. They left work 10 minutes before I did and they saw it and it disappeared, they just thought it was the moon disappearing behind some clouds. The thing about this is it was lightly snowing and the sky was completely overcast. I’ve never seen anything this huge in the sky in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61581.html](http://www.nuforc.org/webreports/reports/061/S61581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Saint Petersburg (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I came out from house and sae 5 red lights in the sky couple minutes...than lights gone((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132566.html](http://www.nuforc.org/webreports/reports/132/S132566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
