@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in LaGrande (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Fireball like objects flying over the city.Looking out my southern facing window, in the night school below the snow cloud cover, I witnessed a bright fireball like object.  It appeared to be moving in a rather unpredictable manner.  At first, I thought maybe I was seeing a small drone or something.  I called my husband to the window to look out on it.  As he arrived at the window (about ten seconds later) the object moved easterly and joined two additional similar objects in the southeast sky.  One levitated for approximately 15 seconds, then moved off into the cloud cover with the other two objects.  There was no audible noise and the objects had a red glow with a yellow outline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162009.html](http://www.nuforc.org/webreports/reports/162/S162009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Galena (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately hours - hours minutes.</sub><blockquote><sub>3 lights in southwest sky.  Molten fire dripped from one and the other shot out red streaks.Frigid, cloudy, dark night.  Three lights were in the Southwest sky.  Were in a row at first.  Lights blinked on and off.  Saw what appeared to be molten fire dripping from one light.  Lights would look like they each broke into smaller pieces and then congeal again into one.  Looked like red streaks would come from the center light toward the other lights.  Then the two outer lights would disppear and smaller lights would take their place. The middle light appeared to zig zag rapidly back and forth but would not really leave it's position in the sky.  The whole scene appeared to be like a Star Wars battle. I am still watching this and have been doing so for 2 hours.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61558.html](http://www.nuforc.org/webreports/reports/061/S61558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
