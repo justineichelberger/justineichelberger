@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 lights in the sky stationary. uniform horizontallyI saw 1 object out my window as i lay to go to bed that caught my eye. It blinked and moved slowly in that one area. Catching my eye because i can see it go in and out of my blinds. I looked out the window and saw 2 other solid lights which looked like starts. Colored incandescent almost amber-like. Nothing out of the ordinary? I've slept with my blinds open for the 3 years Ive lived here and am used to seeing planes en route to LAX and helicopter flying around. This is the first time anything unusual has caught my eye. The two stationary objects looked like pinholes in the sky. As I look at the stars, they shimmer and have a bluish white color. All 3 objects looked very far. they were in the same area for approx 45min, then i fell asleep</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61557.html](http://www.nuforc.org/webreports/reports/061/S61557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>From Squaw Peak, saw orange glow coming from the mountain range west of South Mountain.  First one lasted 5 minutes then disappeared then minutes later 2 appeared then disappeared then 3 .. Looked like flame-shape object glowing.  One minute there the next gone.  Then saw them again on 2/12/15.  Same time but only saw one for a minute it then disappeared and returned a few minutes later.  Same flame-like glow.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117286.html](http://www.nuforc.org/webreports/reports/117/S117286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
