@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Pink and green flash and disappearedI saw a pink and green flash together.  The pink one was on top of the green flash.  They flashed across the sky for 2 seconds..  Then they disappeared into thin air!((NUFORC Note:  Video captured by a beach camera at Doheny Park, Dana Pt., CA.  Object appears to us to be a meteor, streaking from west to east.  Please see video on NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125778.html](http://www.nuforc.org/webreports/reports/125/S125778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Blue beam of light in my face....from the sky.I was just standing on my porch having a cigarette when I looked to the sky on my left. I got flashed directly in the face with 2 quick pulses of blue light. I looked where the light source came from and saw an object outlined with about twelve yellowish lights dropping down behind some trees. I live near Boeing field....but never seen anything like it. It was silent...no engine or prop noise. My eyes from the light are still spotty as I type this. It's 1;20 in the morning so it was too dark to see clearly.((NUFORC Note:  Several reports to the FAA and local media about this event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27640.html](http://www.nuforc.org/webreports/reports/027/S27640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
