@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Metlakatla (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>4 year old son sees and draws flying saucer.My 4 year old son seen a ufo near the small town of Metlakatla, Alaska.  I was outside with my son reading the news on my phone and watching him and his friends playing tag in a playground right outside of our house.  My son runs by me and I see him in the corner of my eye he comes to a dead stop.  I don't think nothing of it and continue reading the news on my phone.  My son says a couple seconds later  How did that happen?  I look over at my son and hes looking up in the sky with a confused look on his face.  Glancing up where hes looking at i see nothing and ask him How did WHAT happen?  He was kind of a loss for words and eventually says, "It was there then it dissapeared." He says this 2 times trying to explain the best a four year old could. after the second time saying this his eyes got a little bigger and he says with excitement "I seen a spaceship."  I was caught off guard and now I was at a loss for words.  I say, "What?!  What do you mean?"  Then with more conf! idence and having a better idea of what my son was talking about he points up in the sky and says a spaceship was there then disapeared. I then ask him, "You seen a spaceship?"  He says with excitement, "Yes!"  It was right there!  I immediately start walking my son to my house which is across the street from the playground and tell him with a big smile and trying to make him agree to come with me and say, "I want you to draw me what you seen. OK?" halfway to my house  I stop my son and tell him to close his eyes and imagine the spaceship after 2 seconds or so I ask him if he sees it.  He responded, " Yes."I then pick him up and rush him in the house  As I'm looking for a pen and paper I explain to my wife what my son is claiming he seen.  She was looking at me like I was crazy!  When I finish explaining to my wife what just took place I lay a pen and paper in front of my son and tell him to draw what he seen. He draws a flying saucer!! I draw with my son almost everyday we have never  dre! w a flying saucer  or anything of the sort. The closest thing ! we have ever drawn to a flying object is a small float plane which we see everyday. As his father I can confidently say that his reaction was a REAL reaction. His look on his face was a REAL surprised and confused look on his face. His story when he was trying to explain it to me was a REAL story that was coming from what he really did see. I have the drawing hanging up on my fridge.((NUFORC Note:  We spoke via telephone with the source of the report, and he seemed to us to be both quite sincere and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87178.html](http://www.nuforc.org/webreports/reports/087/S87178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>weirdest thing we have ever seen certainly not an aircraftstarted as bright light, moved quickly above, hovered for a while we could see two bright lights in the centre and four small red flashing light at each point. moved quickly away out of sight then came back again in front of us it hovered for a while again then moved off quickly not to be seen again.there was haze around the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16664.html](http://www.nuforc.org/webreports/reports/016/S16664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
