@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grenoble (France) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Formes pointues avec reflets violets.Je sortais pour mon jogging quotidien avec une amie raciste, quand un bruit sourd et aiguë à la fois est survenu.  On s'est retourné et on a brièvement aperçu ce qui ressemblait à 3 flèches extrêmement rapide très haut dans le ciel, elles ont rapidement disparus.  On les a vu tout les deux et on est sur de ce qu'on a vu.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115885.html](http://www.nuforc.org/webreports/reports/115/S115885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a moving light  that disappeared into thin air on a clear night.I was out on my deck having a smoke as I always do after dinner . I was looking up at the stars and I saw it over the top of my house. It was small and I thought it was a plane, I noticed it was moving very slowly, and was very dim . I have seen many planes that fly at high altitudes, but ,this you could tell was very high. I was thinking of  maybe a satelite . As I watched this thing it moved at the same rate of speed going from southwest to northeast(slower than a plane ) not taking my eyse off it I banged on the back door to tell my wife to hurry and come outside to see this. She did and saw the light but went back inside. I continued to watch the light and it seemed to speed up, About a minute later it just vanished.The sky was totally clear not a cloud in sight . Did anyone else see what I did ?((NUFORC Note:  We observe that the report is not inconsistent with a sighting of a typical satellite.  However, that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21779.html](http://www.nuforc.org/webreports/reports/021/S21779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
