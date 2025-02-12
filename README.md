@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:51 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:50 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  We suspect that this may be a hoax.  Note discrepancy in time.  We have written the source of the report, requesting clarification, and a copy of the alleged photo.  PD))Witnessed a bright, disk shaped object seen flying from the sky to the ground at at close range. (Photos Taken)I was driving west from Rochester on Rochester Rd toward Lake Springfield.  When I reached the stop sign, there was a very bright light shining inside my car.  It was like a spot light from a police car.  I looked behind me and did not see a police car or any other vehicle.  I looked up and saw an orange light in the sky that wasn’t moving.At a steady speed it came from a couple miles up to ground level in approximately 5 seconds.  It hovered over the ground about a 100ft away.  The craft looked like it was the length of a city bus.  I could see the grass moving as it rotated.  It stayed there for less than a minute. When it was at ground level the lights dimmed, and I could see the craft rotating horizontally like a wheel with blue colored lights blinking around it with white light coming off of it. It turned brighter and the grass was moving faster.It lifted and turned about 80 degrees and took off about 3 times faster than it came down.As it took off, the craft was a very, very bright blue. The whole craft was shining brighter than a light bulb, more like magnesium burning.When it left, my radio started going nuts. It stopped working. My car wasn’t running. There wasn’t even a light on my tape adapter (for CD). This shows I didn’t even have the battery working. After the craft left, my car would not start for 1 minute. A minute later it came back on by itself and the radio did. I didn’t have to turn the key to start it.I was able to take pictures of the craft (with my cell phone) as it was coming in, when it landed, and when it took off.The whole event seemed to take place in less than five minutes.I am concerned that I felt fatigued when the ‘spotlight’ was on my car.  I also have very little recollection on how I was able to travel from the location the sighting took place in Rochester and ended up outside the Muni property by the lake.  I have no memory of this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55257.html](http://www.nuforc.org/webreports/reports/055/S55257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boulder (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>moving eas to west, looked like a superbright meteor, ball of fire, melted away suddenly, fairly slow movingI'm retired Business Exec.On or about Feb. 12, 2003, I was watching the 10:00-news on TV. Dog tipped over the garbage can..I went out to investigate and started picking up the trash. It was about 10:15 at night and suddenly my whole yard was lit up. I looked up and turned around to see a ball of fire fairly slow moving from east to west. I lasted about 10-12 seconds and then broke up and disappeard. From where I stood it appeard to be about the size of a basketball and made a soft whooshing noise. It never hit the ground and it just dissapeard and broke in to several smaller peices.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52471.html](http://www.nuforc.org/webreports/reports/052/S52471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
