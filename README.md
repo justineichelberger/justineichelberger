@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tullahoma (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i was standing outside and saw a ufo right above my house and it made no noise and it had bright white and green and red lights and all of a sudden it moved super fast and vanished and it comes like once a month</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66830.html](http://www.nuforc.org/webreports/reports/066/S66830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The week had been very cloudy.  This particular day the sun started to come out and there were scattered clouds.  I was staying at a hotel downtown and decided to go to the roof where the swimming pool was.  There were two other gentlemen that were maintnence, they were testing the pool for chlorine.I looked into the sky and saw two star like objects, the first I saw for one second, and it whisked away before I had time to focus on it.  The other hung in the air for about 5 minutes and did not move.  The sun hit it and you could tell it was a metallic object.I went over to the maintnence workers and asked if they saw what I was looking at and they did.  They did not know what it was either and were very flabbergasted.As the three of us watched it, it began to glow orange.  Then it changed shaped, then again, back to a star like shape.It then began to move across the sky very slowly, until we could not see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74597.html](http://www.nuforc.org/webreports/reports/074/S74597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
