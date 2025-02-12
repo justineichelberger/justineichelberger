@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:44 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:55 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Saint Paul (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>2 seen hovingOur neighbor has been filming them for the last 9 days and last night we finally were able to see what he was seeing.  There were a couple of them and one had a pulsating thing in the middle.  We could see additional black things on the outer edges.  It was moving at a slow rate, because of the distance from the earth, after hovering for over an hour.  It was seen in the western sky and move slightly southwest an hour later and then a couple of hours later is was further west.((NUFORC Note:  Sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132585.html](http://www.nuforc.org/webreports/reports/132/S132585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>straight projection upward at a very high rate of speed leaving a white snail trail behindwitnessed what appeared to be a rocket launch from the Tj, Mex/ san diego, CA...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153234.html](http://www.nuforc.org/webreports/reports/153/S153234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
