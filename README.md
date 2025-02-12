@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Stonefort (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Big yellow ball in a hurry...On February 12th, 2005 at approximately 11:53PM I was out for a country drive by myself on an unknown road just north of the village of Stonefort, IL. when a large bright yellow (amber) sphere shot across the sky from the NNW toward the SSE.  I am not a velosity expert by far, but I would have calcalated by the distance covered in the approximate two (2) seconds of visual exposure that the object was traveling between 15,000 and 24,000 MPH.  This was not a meteor, due to the fact that anyone    who(m) has studied meteors, knows that meteors have tails and that depending on their composition what colours are present. i.e.; stone meteors are white and have white tails, copper shows as green, oxygen-red...etc.  This area of the country is virtually free of flight paths, so when something does fly by on a clear night be it commercial, military, or other, it tends to stand out.  Also, I am originally from Chicago and have lived in many metropolitan centres on this planet ,as well as spent 13 years on Navy and Marine Bases and Air Stations.  I know manmade aircraft when I, either see it, or hear it. This object was silent. Was anyone else fortunate enough to witness this object other than me?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42026.html](http://www.nuforc.org/webreports/reports/042/S42026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grenoble (France) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Formes pointues avec reflets violets.Je sortais pour mon jogging quotidien avec une amie raciste, quand un bruit sourd et aiguë à la fois est survenu.  On s'est retourné et on a brièvement aperçu ce qui ressemblait à 3 flèches extrêmement rapide très haut dans le ciel, elles ont rapidement disparus.  On les a vu tout les deux et on est sur de ce qu'on a vu.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115885.html](http://www.nuforc.org/webreports/reports/115/S115885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
