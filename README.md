@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 11 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brea (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Star-like abject moving randomly across the sky.This afternoon, my wife and I witnessed  a small, star-like object moving across the sky.  We observed it for over thirty minutes and in that time, it randomly changed directions and speed.  It also stayed in one place for over ten minutes.  It shined brightly at times, then became faint and even disappeared at times.  At its fastest speed, it was comparable to a shooting star, (but never "burned out").((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80044.html](http://www.nuforc.org/webreports/reports/080/S80044.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Douglasville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Around noon, Feb. 12, 2009, under a partly cloudy sky with chemtrails, I photographed a white dot moving slowly westward in the sky.Around noon on Feb. 12, 2009, I noticed many chemtrails in the sky.  I went to get my digital camera and started taking some photos of the chemtrails as well as an airplane that flew nearby.After a few minutes, I noticed a small white dot in a slightly different area directly overhead where you could see blue sky.  I took two pictures of the dot.  At the time my only thought was that the dot seemed to be too high for an airplane.  The airplane I saw and photographed a few minutes earlier was nowhere near the white dot.The dot made no sound, but it was moving slowly westward.  It seemed like it sort of faded into view, then I spotted it and took two photos, and then it sort of faded away.  My mom was with me at the time, but she assumed it could have been an airplane, but it seemed awfully high in the sky to her too.When I uploaded the photos to my computer, all I thought I had was a white dot in the sky.  So I tried enlarging the image and it appears to be a structured object, vaguely cone-shaped, but it does not resemble any aircraft I have seen before.I sent the images to a friend of mine and he suggested contacting The UFO Center.  All I can add is that one of the photos is better than the other, and I will upload the better photo to The UFO Center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68654.html](http://www.nuforc.org/webreports/reports/068/S68654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162022.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162019.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162009.html)
-- [254](http://www.nuforc.org/webreports/reports/163/S163604.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
