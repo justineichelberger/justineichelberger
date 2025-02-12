@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Groveland (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An orange glowing discus shaped object over GrovelandThere was a orange glowing discus shaped object in a stationary position in the ENE/NE sky over Groveland, MA.  It was in that state for approximately 5 to 10 seconds and then it simply disappeared.  There was no smoke or flash or anything of that nature, and it made no noise that I could detect.  It simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153239.html](http://www.nuforc.org/webreports/reports/153/S153239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tullahoma (TN) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>i was standing outside and saw a ufo right above my house and it made no noise and it had bright white and green and red lights and all of a sudden it moved super fast and vanished and it comes like once a month</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66830.html](http://www.nuforc.org/webreports/reports/066/S66830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
