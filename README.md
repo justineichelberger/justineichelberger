@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:04 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Concord (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw a moving light  that disappeared into thin air on a clear night.I was out on my deck having a smoke as I always do after dinner . I was looking up at the stars and I saw it over the top of my house. It was small and I thought it was a plane, I noticed it was moving very slowly, and was very dim . I have seen many planes that fly at high altitudes, but ,this you could tell was very high. I was thinking of  maybe a satelite . As I watched this thing it moved at the same rate of speed going from southwest to northeast(slower than a plane ) not taking my eyse off it I banged on the back door to tell my wife to hurry and come outside to see this. She did and saw the light but went back inside. I continued to watch the light and it seemed to speed up, About a minute later it just vanished.The sky was totally clear not a cloud in sight . Did anyone else see what I did ?((NUFORC Note:  We observe that the report is not inconsistent with a sighting of a typical satellite.  However, that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21779.html](http://www.nuforc.org/webreports/reports/021/S21779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>my wife and I saw a bright orange ball decending out of the east then leveling off then going about half a block then turning to the north west, gaining altitude.  As it was moving away from us  it wasn't as bright as it was at first.  As it was going away from us there was a point it seemed to of stopped so my wife got in the car and we went down the road kind of watching it till we couldn't see it anymore.On Feburary 12th, 2000 my wife and i were dining at a local restarant, upon leaving the resturant we heard a female say there was a UFO one of the men with her said "No, it's a meteor".  The other man with them stated it was a satilite, then they contiued on to their car.  The sky had a slight over cast and it had begun to snow.My wife and i stood watching.  My wife decided to get the car,  i stood and watched it travel in a westward fashion, then turning and gaining altitude heading in a northwestern direction.  It seem to hover for a few mintues.  My wife and i followed in the car for approximitly 3 to 4 miles.  Then it seemed to disappear, we were not sure if it gone into the cloud cover or just disappeared.  The brightness of the object had a very bright orange glow to it.  We could not judge the distance the object may have been in the sky, but seem to be under the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12045.html](http://www.nuforc.org/webreports/reports/012/S12045.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
