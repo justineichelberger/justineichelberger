@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:55 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>straight projection upward at a very high rate of speed leaving a white snail trail behindwitnessed what appeared to be a rocket launch from the Tj, Mex/ san diego, CA...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153234.html](http://www.nuforc.org/webreports/reports/153/S153234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>thought i was looking at laser light show in heavy cloud cover and then it started moving away down the road like craft of some kind.I was walking my dog and drizzing and very heavy cloud cover, looked up and saw 4 seperate points of white light.  Bright enough to break through heavy cloud cover, they would be at 4 corners and then would loop and 2 would twirl around each other and then go around and back again. Of course i'm thinking this is some laser light show and watched for 10 minutes, started to go back up the road and then it started moving off and going into heavier cloud cover.  I was having problems tracking because of trees in way at this point, went inside to get another witness, went back outside and of course nothing was there. Hopefully someone else was looking up at this time and will report something.((NUFORC Note:  Possible advertising lights, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41919.html](http://www.nuforc.org/webreports/reports/041/S41919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
