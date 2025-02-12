@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:04 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>my wife and I saw a bright orange ball decending out of the east then leveling off then going about half a block then turning to the north west, gaining altitude.  As it was moving away from us  it wasn't as bright as it was at first.  As it was going away from us there was a point it seemed to of stopped so my wife got in the car and we went down the road kind of watching it till we couldn't see it anymore.On Feburary 12th, 2000 my wife and i were dining at a local restarant, upon leaving the resturant we heard a female say there was a UFO one of the men with her said "No, it's a meteor".  The other man with them stated it was a satilite, then they contiued on to their car.  The sky had a slight over cast and it had begun to snow.My wife and i stood watching.  My wife decided to get the car,  i stood and watched it travel in a westward fashion, then turning and gaining altitude heading in a northwestern direction.  It seem to hover for a few mintues.  My wife and i followed in the car for approximitly 3 to 4 miles.  Then it seemed to disappear, we were not sure if it gone into the cloud cover or just disappeared.  The brightness of the object had a very bright orange glow to it.  We could not judge the distance the object may have been in the sky, but seem to be under the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12045.html](http://www.nuforc.org/webreports/reports/012/S12045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Douglasville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Around noon, Feb. 12, 2009, under a partly cloudy sky with chemtrails, I photographed a white dot moving slowly westward in the sky.Around noon on Feb. 12, 2009, I noticed many chemtrails in the sky.  I went to get my digital camera and started taking some photos of the chemtrails as well as an airplane that flew nearby.After a few minutes, I noticed a small white dot in a slightly different area directly overhead where you could see blue sky.  I took two pictures of the dot.  At the time my only thought was that the dot seemed to be too high for an airplane.  The airplane I saw and photographed a few minutes earlier was nowhere near the white dot.The dot made no sound, but it was moving slowly westward.  It seemed like it sort of faded into view, then I spotted it and took two photos, and then it sort of faded away.  My mom was with me at the time, but she assumed it could have been an airplane, but it seemed awfully high in the sky to her too.When I uploaded the photos to my computer, all I thought I had was a white dot in the sky.  So I tried enlarging the image and it appears to be a structured object, vaguely cone-shaped, but it does not resemble any aircraft I have seen before.I sent the images to a friend of mine and he suggested contacting The UFO Center.  All I can add is that one of the photos is better than the other, and I will upload the better photo to The UFO Center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68654.html](http://www.nuforc.org/webreports/reports/068/S68654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
