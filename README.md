@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 12 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Occurred : 2/12/2012 19:14 (Entered as : 02/12/12 19:14) Reported: 2/13/2012 9:01:07 AM 09:01 Posted: 3/13/2012 Location: Johnson City, TN Shape: Light Duration:  I seen this report and I live in Elizabethton and I have heard this same similar thing from many people.  There is a Ford Dealership that operates and huge spot light at night, that can be seen in the same similar way from MILES AWAY!  not all the time though called Grindstaff Ford.  This is very possible what the reporter seen.  Hope this helps to debunk.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91205.html](http://www.nuforc.org/webreports/reports/091/S91205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2-12-03 orange fiery/glowing circular object flying above tree level  watched for about 10 seconds in Shoreline WashingtonIt was around 6pm on Wednesday when my 14 year old daughter asked me what that burning orange light was. I went over to the sliding glass door and looked up. My 11 year old son came with us.What I saw was a moving glowing orange, or could have been burning round object moving at a steady rate of speed and altitude at above tree level. I wear glasses and thought I just could not make out what I was seeing. I ran back into my apartment and grabbed my glasses, my son grabbed his binoculars. Wearing my glases did not help me recognize what I was looking at. Actually it only filled me with more disbelief and questions. My son looked through his binoculars and said that it looked like a spinning top with an antenna on the top of it. I know that sounds so cliche but I honestly have never seen any thing like this before. I did not have time to look through them because it was already out of my line of sight . This object made no sound had no tail. It stayed on what looked like a path to me.If my kids had not seen it as well I would have thought I had lost my mind. I did call 911 jut because of the way things are going with terrorist threats and that. They refered me to th FAA she treated me like I was a nut and sent me to the ufo center.That is what we saw and now I am on more of an alert when I look up into the sky. I guess what I want most is to hear a logical explanation as to what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27697.html](http://www.nuforc.org/webreports/reports/027/S27697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/162/S162042.html)
-- [267](http://www.nuforc.org/webreports/reports/164/S164162.html)
-- [266](http://www.nuforc.org/webreports/reports/162/S162056.html)
-- [265](http://www.nuforc.org/webreports/reports/162/S162032.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162013.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
