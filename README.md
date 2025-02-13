@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>multiple orange lights drifting across the sky over swan lake.on February 13, 2013, at about 23:45 I was walking home from work along saanich road in Victoria b.c. when I got to the swan lake area,  I noticed first one, then more orange lights slowly drifting along the sky.  at first I thought they were just lanterns, until one seemed to go back, almost as if to coordinate the others or something, and then return to the lead. there was no sound and I could not make out any shape. sorry for submitting so late, but when I hear peter davenport on with George noory this evening talking about multiple orange fireball sightings, it prompted me to report my sighting.  I did take a video with my blackberry, which I will submit. sorry for the quality and the language in it. http://www.youtube.com/watch?v=3GulUCgJ_-A (sorry if this is the wrong place to submit a video, but I don't see any where else too, only still images. my name is not in the video, only my youtube handle)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98939.html](http://www.nuforc.org/webreports/reports/098/S98939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Buchanan (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular Shaped Object in Daylight HoursOn a Friday in February of 2009, I (age 33) was outside on my back deck talking to my mom (age 51), who was going in and out of a storage building in my yard gathering up some items, and my daughter (age 15), who was just walking around in the back yard.  I was talking to my mom and my daughter asked me "Mom, what's that?"  I looked over at her and she was pointing up to the evening sky.  It was still daylight, there were no clouds and the sun was just beginning to head behind the trees in the western sky.  I gasped as I did not know what the objects were and asked mom to have a look.  She, like us, was dumbfounded.  We all stood transfixed as we watched the objects move silently across the sky.  I decided to go get a pair of binoculars, but by the time I came back whatever we had seen was out of sight.  There were 7 objects in all, six single round objects forming a triangular shape, but the objects were not connected, at least by anything that could be seen.  The seventh round object hung below the other six and to the left, however,  all 7 objects seemed to move in unison.  All objects also appeared to be solid and of a metal origin because the sun was reflecting off of them.  I also got the impression the objects were rotating, but of this I cannot be certain.  The sighting lasted 1 to 2 minutes which occurred in the eastern sky. The objects moved south to north.((NUFORC Note:  Source indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71408.html](http://www.nuforc.org/webreports/reports/071/S71408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
