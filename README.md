@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Howell (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 8:03 pm Tuesday, February 13, 2002, I was driving east on Marr Rd. near the intersection of Fischer Rd., which is about 3 miles north of Howell, located in southeast Michigan at the intersection of M-59 and I-96.  From the top of my windshield, I noticed a bright blue fireball streaking eastward trailing white sparks.  The length of the object and its tail was equivalent to the diameter of a golf ball held at arms length.  It appeared to be heading straight down.  The event lasted about two seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21814.html](http://www.nuforc.org/webreports/reports/021/S21814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Thibodaux (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10 red lighted craft moving at low altitude across the sky above Thibodaux LA10 craft with red light on the front moving slow at a low altitude flying west then turning north.  Once they turned you could not see the red light on the front.  There were 10 of these crafts.  They were all at different altitudes but obviously traveling together.  I could not hear any sound.  They got within one mile from me before turning.  This was a dark night only a sliver of a moon.  Never seen anything like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125841.html](http://www.nuforc.org/webreports/reports/125/S125841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
