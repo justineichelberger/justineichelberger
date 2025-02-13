@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Juan Capistrano (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>While driving home to Carlsbad Ca on the 5 freeway I saw what looked like 6-8 weird blue lights almost the color of blue dimonds moving around over the eastern hills of San Juan Capistrano.  What caught my eye was these lights looked like the they emitting light with out casting a shadow like the light was incased. These lights where dimming, getting brighter, getting smaller, getting more distant then getting closer, then some diaspeared, and then three formed a triangle, soon after that they just disapeared! I am baffled! These objects where obove the area of TRW behind San Clemente.  I wonder if you had any other reports in that area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49215.html](http://www.nuforc.org/webreports/reports/049/S49215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>multiple orange lights drifting across the sky over swan lake.on February 13, 2013, at about 23:45 I was walking home from work along saanich road in Victoria b.c. when I got to the swan lake area,  I noticed first one, then more orange lights slowly drifting along the sky.  at first I thought they were just lanterns, until one seemed to go back, almost as if to coordinate the others or something, and then return to the lead. there was no sound and I could not make out any shape. sorry for submitting so late, but when I hear peter davenport on with George noory this evening talking about multiple orange fireball sightings, it prompted me to report my sighting.  I did take a video with my blackberry, which I will submit. sorry for the quality and the language in it. http://www.youtube.com/watch?v=3GulUCgJ_-A (sorry if this is the wrong place to submit a video, but I don't see any where else too, only still images. my name is not in the video, only my youtube handle)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98939.html](http://www.nuforc.org/webreports/reports/098/S98939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
