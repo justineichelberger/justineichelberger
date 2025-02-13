@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:25 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Maryville (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10 bright reddish orange orbs drift in formations from south to north in the night sky.While unloading groceries, my husband and I saw 10 reddish orange orbs go from south to north in the sky.He was outside first.  He saw four orbs in a square formation, followed by three in an elongated triangle, slowly drift from south to north above the tree line which is across from our place.  The formations followed the same path as the previous formation.  He texted me to come outside.  Of the square formation, as they went past, all four lights went from orange to white for about 5 seconds, and back to orange.  After the color change, the bottom two lights disappeared.  The top two lights continued on the same path.  Then the 3 lights in the triangle disappeared, followed by the first 2 lights from the square formation.By the time I was outside, the first seven had vanished.  But when we looked back up, there were another 3 lights in an elongated triangle - they took up about 1/4 of the sky, and they followed the same path, from south to north, of the first 7.  They were bright reddish orange and the impression was of slow steady movement.  They did cover a large percentage of the sky from our vantage point - if I point my fingers at the places where they appeared and disappeared, it's at least 90 degrees.  They covered this distance in probably about 45 seconds.   We could also clearly see the lights of normal airplanes in the sky at this time, and it was obvious they were flying much higher in the sky.  As the lights reached the northern part of the sky, they disappeared, one at a time.My husband and I are in our late 30s, we both work professional jobs, and we were shocked and amazed by what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117299.html](http://www.nuforc.org/webreports/reports/117/S117299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Was driving down I-81 South towards knoxville,TH in the vicinity of Blountville, TN & Kingsport, TN object was very bright like a star.  Never moved, obvious it was not a plane or helicopter, yellow in color, perhaps a triangle or cross shape.  Too far to tell, did not move.  Cloud covered object, still did not move.((NUFORC Note:  Probable sighting of Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132606.html](http://www.nuforc.org/webreports/reports/132/S132606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
