@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:07 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red and white lights moving in unison at high speed with very quick zig zag directional movements ((90 degrees).At 6:20 pm on February 13, 2001, I viewed an unusual light in the SW sky as I was looking at Venus in it's early evening brightness. My sighting was made in the parking lot of my apartment building on a very clear early night sky. Traveling in a more or less straight line from west to east were two lights in close proximity, one red, one white. They were blinking on and off in rapid stroboscopic fashion. As they moved at a fairly fast rate of speed (faster than a jetliner trailing contrails) the lights moved in unison in rapid jinking or zig zag movements along the straight flight path axis. The very swift directional zig zags veered of the flight path axis about 20 degrees above and below the flight path. Directional movement angles were extremely high, approximately 60 to 90 degrees every one or two seconds. I watched these lights move along the fairly straight flight path for approximately 30 seconds until they disappeared behind the roofline of my apartment building. What caught my eye away from the bright light of Venus was the rapid and severe directional zig zags of the lights as they moved forward. Their changes in direction were instantaneous. I've never seen a light or discernible object in the sky make such quick movements. There was no shape or object visible in the darkening sky, only the white and red lights moving as a unit. I am a writer and illustrator who specializes in aviation and space technology and history. I've had 6 books published on the history and technology of aircraft and 8 books on space exploration technology/history and astronomy. I am very knowledgeable about the flight capabilities of existing (officially acknowledged)aircraft and spacecraft. No current aircraft or spacecraft is capable of the very quick directional movements that I observed. I don't know what the lights were, but they were not the lights of any known vehicle. This is my first UFO sighting and was quite a surprise to me considering the extremely mundane sighting environment and conditions. I am wondering if there have been any other reports from this region on the date and time described?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16465.html](http://www.nuforc.org/webreports/reports/016/S16465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Juan Capistrano (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>While driving home to Carlsbad Ca on the 5 freeway I saw what looked like 6-8 weird blue lights almost the color of blue dimonds moving around over the eastern hills of San Juan Capistrano.  What caught my eye was these lights looked like the they emitting light with out casting a shadow like the light was incased. These lights where dimming, getting brighter, getting smaller, getting more distant then getting closer, then some diaspeared, and then three formed a triangle, soon after that they just disapeared! I am baffled! These objects where obove the area of TRW behind San Clemente.  I wonder if you had any other reports in that area?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49215.html](http://www.nuforc.org/webreports/reports/049/S49215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
