@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:54 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Quincy (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>High flying, high speed, bright white triangular object observed in full daylight and clear skyAt 4:50 PM (CST) I was facing due west and looked up into the sky.  It was almost entirely cloudless, except for the contrails of three jet aircraft passing overhead.  About 70 degrees above the horizon, I spotted a very bright white object that appeared acutely triangular in shape.  I first assumed it was another airliner, but immediately realized it was flying at a much greater velocity than any of the other aircraft.I have observed supersonic aircraft in flight.  This object appeared to be going every bit as fast, but there was no sonic boom, and no contrail to indicate an exhaust.It followed a straight line on a south to north track, with a slight west to east angle.  I would guess the arc it traversed was about 15 degrees in length.  I seemed to be gaining altitue, though I cannot be certain of this.  It certainly did not appear to be losing altitude.  It simply faded into the clear, blue sky.  I got the sense that this object was at a higher altitude than the other nearby craft, but I had no means of veryfying that.I frequently observe passing satellites.  This object was initially every bit as bright as the ISS on a dark night, but I have never seen the space station (or any other satellite) as brightly visible during the full light of day, as this object was.  Nor have a seen a satellite follow that path, even if it was in a polar orbit. It also seemed to be moving faster than satellites do, when observed from the ground, and I believe it was accelerating, but I cannot be certain.I have previously seen a large meteor falling toward earth, and briefly thought it was an aircraft on fire, but this object did not resemble that.  It did not have a tail, nor did it flare or disintegrate.I am a United Methodist minister in the community with a lifelong interest in aircraft and spaceflight.  While I have found UFO lore interesting (and I even met J. Allen Hynek, once) I have never seen anything that left me feeling I had witnessed something that defied easy explanation.  But, this observation was unlike any other I have experienced, and it is the only one that I have ever reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80062.html](http://www.nuforc.org/webreports/reports/080/S80062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Nacogdoches (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ufo spotted Nacogdoches tx. bright silver with a short smoke tail 2-13-2110 @5:45pm main st. areaI was driving, looked up and saw a bright silver object in the skies, with a smoke tail, then some trees blocked my view, then about a few seconds later, after getting beyond the trees, the object had zipped, moved really fast across the sky, in just a matter of seconds, could still see it, but it was in the distant, with a short smoke tail, then it was gone.  I think it realized that i was looking at it, thats why it moved, because it was hoovering or just standing in one spot at first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74411.html](http://www.nuforc.org/webreports/reports/074/S74411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
