@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Buchanan (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular Shaped Object in Daylight HoursOn a Friday in February of 2009, I (age 33) was outside on my back deck talking to my mom (age 51), who was going in and out of a storage building in my yard gathering up some items, and my daughter (age 15), who was just walking around in the back yard.  I was talking to my mom and my daughter asked me "Mom, what's that?"  I looked over at her and she was pointing up to the evening sky.  It was still daylight, there were no clouds and the sun was just beginning to head behind the trees in the western sky.  I gasped as I did not know what the objects were and asked mom to have a look.  She, like us, was dumbfounded.  We all stood transfixed as we watched the objects move silently across the sky.  I decided to go get a pair of binoculars, but by the time I came back whatever we had seen was out of sight.  There were 7 objects in all, six single round objects forming a triangular shape, but the objects were not connected, at least by anything that could be seen.  The seventh round object hung below the other six and to the left, however,  all 7 objects seemed to move in unison.  All objects also appeared to be solid and of a metal origin because the sun was reflecting off of them.  I also got the impression the objects were rotating, but of this I cannot be certain.  The sighting lasted 1 to 2 minutes which occurred in the eastern sky. The objects moved south to north.((NUFORC Note:  Source indicates that date of event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71408.html](http://www.nuforc.org/webreports/reports/071/S71408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2/13/2013    19:20  tx  5 minutes    satellite looking object with crazy turnsA simple satellite looking object.  The same as you would look up and see a satellite flying that i have seen a hundred times before except it flew west to east then turning south for a minute the back east for a minute the southeast and curving back to north east until it was gone out of view.  This took place not in a small part of the sky it was the whole sky well over 100,000 feet and way too fast.  I am a faa certified mechanic and know planes don't fly that high and fast and satellites don't change course like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96307.html](http://www.nuforc.org/webreports/reports/096/S96307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
