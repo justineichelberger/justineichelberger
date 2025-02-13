@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:30 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:15 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>9 or 10 dark orange flashes close together  in a linear fashion, re-appearing in a different plane to do it again.A series of 9 or 10 dark orange linear flashes close together, over Pueblo Lake would appear briefly then go out.  A second or two later, another series of 9 or 10 flashes would appear in a different orientation, but all of them were linear.  About 2-3 minutes later, they would do it again at a different location.  No sound emanated, the night was clear and starry.  This continued for about 20 minutes, then quit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138692.html](http://www.nuforc.org/webreports/reports/138/S138692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Ogden (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Weird moving ball of light/craft?We were out on my deck having a bar-b-que when I spotted a yellowish glow in the clouds.  It flashed on and off then flew out of the clouds and hovered in one spot for a few minutes, we all watched it and then it zig zagged across the sky away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87184.html](http://www.nuforc.org/webreports/reports/087/S87184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
