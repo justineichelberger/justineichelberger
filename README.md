@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newburg (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately loud Humming and strange  - loud Humming and strange  minutes.</sub><blockquote><sub>i have seen A triangle with three lights on each side I've seen a bright ball with dark inside the ball I've heard sirens noises when tIt woke me up out of a dead sleep and I have video and this is not the first I have seen objects in the sky .Once there was a white beam shining down on our house.  So weird, what do you think it is?((NUFORC Note:  Possible hoax.  Source of report requests response, but elects to remain totally anonymous, and provides no contact information.  Date provided is probably wrong, reflecting a sighting in 2015.  We suspect the correct date should be in 2016, and we have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125820.html](http://www.nuforc.org/webreports/reports/125/S125820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Brick (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright white light, moved slowly eastward then slowly faded out.Eastern sky.  Bright white light slowly traveling east, not blinking, no other colors, watched for approx 3 minutes then slowly faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132594.html](http://www.nuforc.org/webreports/reports/132/S132594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
