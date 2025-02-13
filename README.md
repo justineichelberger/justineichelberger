@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plainfield (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Red ball object seen in plainfield glowed bright dimmed flew offWe were coming in the house when i turned my head and saw a bright red object coming closer to us it had gotten pretty bright no flashing just a ball object my kids were looking at it to.  It came close then slowing dimmed a bit and moved eastward toward chicago and we saw it move quicker and disappear in the night there were planes flying.  It wasnt no plane or chopper it was silent and weird</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96334.html](http://www.nuforc.org/webreports/reports/096/S96334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New York City (Ridgewood; Queens) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>a strange steady ligth.At 7:55 pm. upon entering gate to my apartment as I looked up. I observed a large  glowing light  in the sky not moving   I ran into my apartment and told my wife what I was witnessing, grabbed my camcorder, returned outside , and object was still there. I recorded about three or four planes moving under it., appearing to descend, to in all probability getting ready to land at  laguardia airport.  Upon viewing what I had recorded, my wife and I agreed,it was to high to be a helicopter, and there was no  sounds of an Engine.  I have about six to eight minutes recorded very clearly, in both steady and zoom mode..   This  night was very clear, and cold.  We called 311, and they connected us to the police station, and reported this sighting.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68619.html](http://www.nuforc.org/webreports/reports/068/S68619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
