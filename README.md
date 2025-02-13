@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Springfield (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I viewed a moving object, traveling southwest and it split-up into two moving objects, exchanging a red light beam.It looked like a moving star, color was red, but very small. It traveled from north to southwest. As it was traveling southwest, it broke up into two stars, one continued southwest and the other spun out and dropped down and then disappeared. It looked liked there was a short but breif lazer light exchange between the two stars. This is not the first time i've witness this. ALWAYS in the same area or location. I was out looking for the space shuttle, and was viewing the other side when I saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16461.html](http://www.nuforc.org/webreports/reports/016/S16461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Guilderland (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A bright, spherical object hovered thousands of feet above Guilderland, NY before vanishing in broad daylight.On Friday, February 13, 2015, I was driving west on U.S. Route 20 approaching the intersection of New York State Route 155 in Guilderland, NY when I spotted a bright, unidentified flying object in the distance to the northwest, thousands of feet in the air.At first, I thought it might be a plane either descending toward or flying away from me (since there’s an international airport about 6 miles northeast of where I was driving), but as I continued driving toward it I became more convinced that it was actually a spherical object hovering stationary in the sky, since it had no wings and was staying in place.  It was also too high in the air to have been a helicopter hovering in place, in my opinion.As I continued toward the intersection keeping my eyes on the object I drove past some tall trees to might left, which came between me and the object and caused me to lose sight of it for about 5 seconds.  When I came out the other side of the trees the object had vanished.  This was strange to me because the sky was completely clear of clouds and the sun was well-off to the southwest, so there was nothing for this object to fly behind and the sun could not have obscured my vision.The entire event occurred over approximately 30 seconds. The time of day was 4:33 p.m. EST and the sky was clear.  I continued searching the sky for the object as I continued driving west on Route 20, but I was unable to locate it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117401.html](http://www.nuforc.org/webreports/reports/117/S117401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
