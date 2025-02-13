@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 13 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Nacogdoches (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ufo spotted Nacogdoches tx. bright silver with a short smoke tail 2-13-2110 @5:45pm main st. areaI was driving, looked up and saw a bright silver object in the skies, with a smoke tail, then some trees blocked my view, then about a few seconds later, after getting beyond the trees, the object had zipped, moved really fast across the sky, in just a matter of seconds, could still see it, but it was in the distant, with a short smoke tail, then it was gone.  I think it realized that i was looking at it, thats why it moved, because it was hoovering or just standing in one spot at first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74411.html](http://www.nuforc.org/webreports/reports/074/S74411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Howell (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 8:03 pm Tuesday, February 13, 2002, I was driving east on Marr Rd. near the intersection of Fischer Rd., which is about 3 miles north of Howell, located in southeast Michigan at the intersection of M-59 and I-96.  From the top of my windshield, I noticed a bright blue fireball streaking eastward trailing white sparks.  The length of the object and its tail was equivalent to the diameter of a golf ball held at arms length.  It appeared to be heading straight down.  The event lasted about two seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21814.html](http://www.nuforc.org/webreports/reports/021/S21814.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162045.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162044.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162041.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162067.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162043.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
