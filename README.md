@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Driving north on New Hope Rd. south of Grants Pass I saw a light brighter than a regular meteor directly due north of my location approximately (42.3671, -123.3671)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96466.html](http://www.nuforc.org/webreports/reports/096/S96466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Upper Marlboro (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two White Spherical ObjectsUFO Observation 02/14/2014 ~ 12:25pm Upper Marlboro, Maryland.  I was shoveling snow from my deck at the back of the house after shoveling snow from my driveway in the front of my house.  The front of the house faces almost due east.  I would periodically stop about once every five minutes or so to drink a sip of water and to catch “my breath”.  I looked up (in a north north westerly direction) to admire the clear blue skies when I noticed two “birds” flying very high and moving slowly in a westerly direction.It struck me as being odd that they we as high as they appeared, not knowing what kind of “white” birds these were or how large they were.  One was about twice as small and appeared to be higher than the other.  Then they began to move in a manner which didn’t fit the movement of birds at all.  I then noticed that didn’t have wings and were white spherical objects, the largest about the size and color of the period on a computer keyboard.The higher one stopped and the lower one continued in the same westerly direction I first noticed them, it then reversed (180 degrees) direction and moved rapidly about 3 degrees in that opposite direction for about one second, it reversed direction again, then again a third time and then it stopped.  While this was happening the second object climbed straight up while they both stopped moving at about the same time.  The second object, at the higher altitude (again about one half the size as the other object) would appear then disappear while they both were stopped.  They both remained stopped for about three seconds then they both spiraled upwards and disappeared in less than two seconds.  Unfortunately, I didn’t record the event because:  1) it happened as fast as it did, 2) it took me a moment to realize this was not a couple of birds, 3) I thought I had left my cell phone in another jacket, turns out I did have it, I had put it in my back pocket when I took the jacket off.  About 5 minutes after these two spherical objects disappeared a high flying jet with one vapor trail passed over flying to the same location as the two objects were.  This jet appeared (best estimate) to be above 45,000 feet, no sound and appearing all white as it flew over such that I could only see the underside of the plane.  The jet appeared to be less than one forth inch long at arm’s length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107157.html](http://www.nuforc.org/webreports/reports/107/S107157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
