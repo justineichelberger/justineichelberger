@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:32 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bradford (UK/England) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>we saw flashing lights in the skyWe were driving through the countryside near Bradford coming back from a party. Two of us were sober as we were driving. The guys in the back of the car wer asleep and we pulled over to rest as we were sleepy too. We set off driving again an hour later and it was 2 am when my boyfriend shouted to look to my left and I saw three lights in the sky each on about a mile apart and they kept changing position we stopped the car and we watched them hover over the same area for about an hour. They then flashed very brightly twice and disappeared.((NUFORC Note:  Witness identifies self as a medical professional.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23706.html](http://www.nuforc.org/webreports/reports/023/S23706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Royse City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>There were three side by side ... I thought were stars , I was praying asking what to do ....upset crying outside they weren’t starsThere were three side by side ... I thought were stars , I was praying asking what to do ....upset crying outside. They were yellow and red lights blinking and then not they started moving with middle one just a bit higher than the other two side by side.  I wanted to take pics for proof and they flew apart.....got freaked and got out car and ran in after hearing cop sirens and my front door was locked which supposedly was my son .....so had to call husband to open door.  Idk I’m still shook</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153285.html](http://www.nuforc.org/webreports/reports/153/S153285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
