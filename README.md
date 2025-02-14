@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>While driving down 41st, headed west, we saw a strange light in the sky moving straight up, with streams of lights under it.We saw a bright light down pretty low under the clouds. It was going slowly straight up.  As we got closer to the object we could see a circular object on the top with fire like streams of lights shooting below it.  As we took pictures and video it started moving faster (straight up) until it was just gone.  Can anyone explain that?  Did anyone else see what we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117318.html](http://www.nuforc.org/webreports/reports/117/S117318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Lake Village (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving on 405 going north saw a light in the middle of the sky remaining still.  Didn't move and was just sitting there.  Disappeared slowly into itself.((ADDENDUM FROM SOURCE))I was looking North and the date was 2/14.  It was taken in Westlake Village on the 405((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132678.html](http://www.nuforc.org/webreports/reports/132/S132678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
