@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Ogden (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighted a unknown  craft in the clouds daytime and took photo.I was taking my dog for a walk about 1:15pm when I was looking up at the clouds facing the mountains east. I noticed a craft in the sky against the white clods and took a picture of it.  I looked at my camera again and went to take another pic and it was gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87192.html](http://www.nuforc.org/webreports/reports/087/S87192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Winnebago County (west of) (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>bright light with an even brighter light on its left side sorta hoovering for a while then began to rappidly move faster.We were heading west on Route 20 when we looked to our left and seen a huge light shaped object at first I thought maybe it was a plane or something, but it didnt blink other colored lights, it was bright on the left side like headlights then on the right side it was duller but still bright we noticed it moving the East so we turned around and start following it. It began moving very fast and for about 30 minutes you could see it, then suddenly it dropped a little further down and just  suddendly dissapeared. The side that was bright(headlights looking) were faced downward and the duller side was mostly what we had seen.((NUFORC Note:  Witness elects to remain totally anonymous.  If the witnesses were not looking at a celestial body of some kind, we have no idea what they may have been witness to.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35089.html](http://www.nuforc.org/webreports/reports/035/S35089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
