@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Caufield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Farm dog barks at multiple lights over cattle ranch that hover silently then blink out and lights reappear in a different configurationAs it was reported to a Missouri Investigators Group UFO investigator in Springfield via phone an hour after the sighting is the following report.  The husband and wife were indoors when their farm dog began barking nonstop for a few minutes after 8pm local time when the husband eventually goes outside to check on what reason the dog kept barking. The dog was looking out to the NE of the house in a field so the husband looks up in the sky to see three huge amber lights hovering silently he guesses about 300 feet above a cattle field. Two were close together and one was up and to the left of the others.  The lights glowed orange-red with short spike-like beams emanating around each light.  The dog settled down laying in the yard watching the lights.  The husband is startled by its silence causing him to be awed and spooked by the lights. Suddenly the lights blinked out and the husband rushed back into the house and got his wife to come outside to tell her about the lights.  The wife came out with a pair of binoculars.  They see the lights reappear again silently hovering but the husband said they moved further away to the NE but reconfigured into a different pattern of three lights.  The wife looking through the binoculars said she sees four lights in a rectangular pattern now hovering just above the trees in the distance.  The weather is clear and cool near 45F with a SW breeze.  The husband said the area is rural cattle ranches SW of West Plains, Mo.  The husband agreed to check with his neighbors to the NW to see if they saw anything or may have had any strange animal deaths in the area.  The husband said that he had a similar sighting about a year ago last March 07 with a straight line of four large amber lights again hovering silently over the same general vicinity that just blinked out and reappeared further away. The husband is unsure about any missing time. Just a note this area was hit by a tornado earlier this month near Bakersfield. Mo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61618.html](http://www.nuforc.org/webreports/reports/061/S61618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Circular object hovering over Route 60On Monday February 14, 2011 a large white circular craft was spotted hovering over Route 60 Steubenville Pike in Robinson Twp, PA at 6:05 PM.  Cars were pulling off the road to watch this object and into parking lots.  People were getting out their vehicles to view this wedding ring-shaped object with white lights encircling it.  After 5 minutes, it just took off at a very high rate of speed straight up!  My IPhone camera could not focus on it to get a picture since it was already getting dark.  It was not a commercial plane or helicopter because it was a circular shape even though this is about 15 miles from the airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80080.html](http://www.nuforc.org/webreports/reports/080/S80080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
