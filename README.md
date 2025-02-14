@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:32 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:54 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Royse City (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>There were three side by side ... I thought were stars , I was praying asking what to do ....upset crying outside they weren’t starsThere were three side by side ... I thought were stars , I was praying asking what to do ....upset crying outside. They were yellow and red lights blinking and then not they started moving with middle one just a bit higher than the other two side by side.  I wanted to take pics for proof and they flew apart.....got freaked and got out car and ran in after hearing cop sirens and my front door was locked which supposedly was my son .....so had to call husband to open door.  Idk I’m still shook</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153285.html](http://www.nuforc.org/webreports/reports/153/S153285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Welshtown (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 32.0 - 32.0 minutes.</sub><blockquote><sub>Bright reddish  light that moved up and down , side to side then disappeared.As I let my cat out early on the mornings of Thursday February 14,2002, I looked across the lake to see a reflection of a very bright light shining on the ice.  My first thought was that Mars was very bright this night.  As I continued to watch it a bit longer it appeared to move from side to side, then swing like a pendulem.  I continued to watch to make sure I wasn't seeing things, as I saw it move again I called my husband down to take a look also.  He confirmed the fact that it indeed was moving.  As I watched for approximately half an hour until it moved further away as the reflection disappeared on the ice and then it disappeared over the horizon.  I saw no shape of an object only a very bright reddish light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21830.html](http://www.nuforc.org/webreports/reports/021/S21830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
