@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in McPherson (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two seperate sets of muliple stationary lights.(13 Photos available) I was driving my semi north on I-135 from Wichita heading for McPherson, Kansas.  I am quite familiar with this highway as I live in Hutchinson, not far away.  At approximately 18:20 I saw three very bright amber lights in the sky to my right and ahead of me.  At first I figured them to be on an airplane approaching for landing in Wichita, but then realised that these lights were not on the normal landing path, and also over several seconds and then minutes, did not move.  The lights were evenly spaced with the one on the left being a bit lower. The highway slants to the left (north-west) at the place of this sighting (near Moundridge), so I figured them to be somewhere west of McPherson at the time. They were lite up when I first saw them so I do not know their total duration, but after about 20 minutes I watched as the one in the center went out, then the one on the right, and a couple of seconds later the last (lower) one went out.  During this event I phoned a couple of knowledgable friends asking about the colors of flares, and this orange/amber colr was not a typical flare color. I then proceeded north and a few minutes later, four more lights appeared, spaced evenly as before with one slightly lower than the other three.  These may have been there for some time before I saw them.  This time the highway was going straight north so I could see that these lights were over the city of McPherson.  I then rolled down my driver's side window and reached for my digital camera and began pointing and shooting in the direction of these lights.  During the photos, I saw something dark brush me directly in front of me.  As I approached the Highway 56 exit, the lights began to disappear in the same fashion as the earlier ones that I saw. While sitting at the dock in McPherson getting loaded, I downloaded the photos into my laptop. Most of the photos are jiggly but some of them captured the lights.  In closer examination, I noticed that I must have captured the (object??) that brushed me.  This object shows lights that do not belong to anything in the area, and I can not identify the object, only to see a vague outline of something...like a craft of some sort, containing white, amber and green lights in square an "I" shapes.  I can send you these photos if requested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51308.html](http://www.nuforc.org/webreports/reports/051/S51308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Driving north on New Hope Rd. south of Grants Pass I saw a light brighter than a regular meteor directly due north of my location approximately (42.3671, -123.3671)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96466.html](http://www.nuforc.org/webreports/reports/096/S96466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
