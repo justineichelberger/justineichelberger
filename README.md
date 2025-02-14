@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Winnebago County (west of) (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>bright light with an even brighter light on its left side sorta hoovering for a while then began to rappidly move faster.We were heading west on Route 20 when we looked to our left and seen a huge light shaped object at first I thought maybe it was a plane or something, but it didnt blink other colored lights, it was bright on the left side like headlights then on the right side it was duller but still bright we noticed it moving the East so we turned around and start following it. It began moving very fast and for about 30 minutes you could see it, then suddenly it dropped a little further down and just  suddendly dissapeared. The side that was bright(headlights looking) were faced downward and the duller side was mostly what we had seen.((NUFORC Note:  Witness elects to remain totally anonymous.  If the witnesses were not looking at a celestial body of some kind, we have no idea what they may have been witness to.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35089.html](http://www.nuforc.org/webreports/reports/035/S35089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Slow moving and instant size changing orb with ring around itI am a 58 yr old man, my 16 yr old daughter and 17yr old boyfriend was there, a 20 yr old family friend and my 9yr old and 3 yr old great nephews were there.  While in the backyard feeding the fish in the pond I noticed what looked like a pulsating star at first until I noticed  it changing size drastically and instantly while also observing slow movement, so I went in the house and got my binoculars and iPhone I sat down on a a five brick high planter box and started filming where I held the phone  with both hands and arms extended out slightly above my head and started filming kept my arms stiff for the whole four minutes of the video I was not moving in and out with my arms and tried to tape  with a rosebush partly in the picture so you could determine a stationary object in the filming .   This orb moved around but basically was in the same area the whole time but changed sizes shapes constantly and had a Saturn like ring around it  and when it got big you c! ould see the nucleus of the thing was in meeting energy constantly moving like it was morphing into something almost looks like an entity instead of a craft, when I looked at this object through the binoculars I was astounded  at what I saw things moving constantly brilliant colors almost  looked like flames in there orbs multiplying within the orb, and amazing array of colors and move me constantly going, I was extremely moved and it was actually scary looking in there and will never  Forget the images I saw in those binoculars.((NUFORC Note:  Sirius, or some other "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132706.html](http://www.nuforc.org/webreports/reports/132/S132706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
