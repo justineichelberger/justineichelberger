@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Los Angeles County (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I got a picture of something in the sky.I was taking random photos in Hollywood happen to note a white circular object black  on the bottom in one of my picture, it is brighter than the background of the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61621.html](http://www.nuforc.org/webreports/reports/061/S61621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Spinning White 2'x 4' - No Lights?This is a story I have told many people but have never had a forum as which to formally report it.  In the winter of 1976, at the age of 10, while living in Flint, Michigan, my friend and I were excited about the big snowfall we had the night before.  We had a good portion of the morning climbing up the T.V. antenna and jumping off the house into large snow drifts.  The snow had stopped and it was just a cloudy day.  We were just about ready to go in for some lunch, but before we did, we climbed climbed up the antenna together for just one more jump.  I was above my friend near the roof top, when a white spinning object, the size of a 2 x 4, approximately 3 foot long came spinning around the corner of the house and then hovered right before us - still spinning - No Lights, just a faint whooshing sound as it spun.  We both staired at it in amazement as it sat there and spun.  I exclaimed out loud, "Wow!  What in the heck is that thing?" My friend replied "I don't know!  I've never seen anything like it!"  We both were very nervous and did not know if we should move.  We both just stood there in the antenna physically and emotionally froze, staring at it.  After about 20 seconds, it spun back around the corner of the house and disappeared.  I remember looking at my friend and just saying "Wow! Let's go see where it went!"  We both jumped down from where we were on the antenna and ran around the corner of the house to see where it went.  We never did see it again.  We then both ran in and excitedly told my mother about the situation.  She just listened intently and then fed us both a hot bowl of chilli.  That's it! Strange I know!((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45023.html](http://www.nuforc.org/webreports/reports/045/S45023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
