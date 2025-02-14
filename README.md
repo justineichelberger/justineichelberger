@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Panajachel (near) (Guatamala) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 of ORION'S stars obscured on a clear night at Lake AtitlanThe 4 stars that frame Orion's belt disappeared. VERY clear night, Milky Way bright across the sky, Orion at zenith, looked up to see the 4 bright stars at Orion's corners gone from the sky!  The belt was clearly visible as were all other stars, not even a wisp of cloud. Surmised there were 4 objects, large, dark and very high, obstructing my view of just those 4 stars! This caused me great anxiety, finally after 15 minutes went into the house to gather my wits. When going out to look again about 5 minutes later, Orion had returned to normal.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42290.html](http://www.nuforc.org/webreports/reports/042/S42290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Ogden (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sighted a unknown  craft in the clouds daytime and took photo.I was taking my dog for a walk about 1:15pm when I was looking up at the clouds facing the mountains east. I noticed a craft in the sky against the white clods and took a picture of it.  I looked at my camera again and went to take another pic and it was gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87192.html](http://www.nuforc.org/webreports/reports/087/S87192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
