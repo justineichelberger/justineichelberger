@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 14 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>quiet amber lights over glendale nothing like the phx lights at alli was in my backyard smoking and i saw a object in the air but since i live under the flight path of phx intl airport. i did not think much of it until i realized how close it was and i could not hear anything and it was actually closer than i thought. it seemed to be only about 300 feet from the ground very quit no noise at all i could not really make a shape as it passed  about 100 feet west and 300 feet high. it looked like a very tight cluster of 5 or 6 amber colored lights the same as are street lights in the area and a white or light grey shape i could not make out above the cluster that seemed to be wobbling very smoothly.  it was traveling south between the speeds of the helicopters and airplanes that fly over all the time but very quit and very smooth. it was very cool to see whatever it was but if i ever see it again i hope i have a witness or i dont ever see it again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55281.html](http://www.nuforc.org/webreports/reports/055/S55281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Panajachel (near) (Guatamala) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>4 of ORION'S stars obscured on a clear night at Lake AtitlanThe 4 stars that frame Orion's belt disappeared. VERY clear night, Milky Way bright across the sky, Orion at zenith, looked up to see the 4 bright stars at Orion's corners gone from the sky!  The belt was clearly visible as were all other stars, not even a wisp of cloud. Surmised there were 4 objects, large, dark and very high, obstructing my view of just those 4 stars! This caused me great anxiety, finally after 15 minutes went into the house to gather my wits. When going out to look again about 5 minutes later, Orion had returned to normal.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42290.html](http://www.nuforc.org/webreports/reports/042/S42290.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162055.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162047.html)
-- [322](http://www.nuforc.org/webreports/reports/162/S162339.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162035.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162037.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
