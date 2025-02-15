@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Stockton (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saucer Sighting in Fort Stockton, Texas 02/2003I was driving from Lordsburg, New Mexico to Fort Stockton, Texas.  It was getting toward evening - probably late afternoon.  I saw two disks(?).  I couldn't believe it.  I was saying, "I see you, I see you."  Then they disappeared behind the clouds.  Sometimes I think maybe it must have been something else, but then I know what I saw wasn't normal.  I've told very few people about this.  But, tonight as I was flipping channels, the SciFi Channel was airing a show "Proof Positive" and a familiy was mentioning a UFO sighting in Fort Stockton.  So, I feel I should report it somewhere.  Maybe I'm one of many people to have seen something around Fort Stockton.  Oh, I was on Interstate 10.  Well, I guess this isn't much, but that's it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39993.html](http://www.nuforc.org/webreports/reports/039/S39993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153664.html](http://www.nuforc.org/webreports/reports/153/S153664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
