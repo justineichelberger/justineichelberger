@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Blackfoot (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 silent flashes in the cloud followed later with stone silence.I remember camping with a friend at the river bottoms of the snakeriver. I saw a cloud due west of the ferry butte and at about 11:30 pm I saw a flash it was a brillant white like lightning except no thunder it occured three diffrent times very weird never experianced anything like it later that night weird things happened like the trees would shake with no wind and stone silence happened at about 3 am we got scared and left the area never to return this happened by tilden bridge across from the indian reservation. it was so silent that I couldn't even hear the river which was very odd and the german shepard dog my friend had was scared also with it's tail between the legs under the truck. scareiest moment of my life and also my freind.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45003.html](http://www.nuforc.org/webreports/reports/045/S45003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oceanside (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oval circular object passes san diego apparantly at very high speeds.After getting out of my car although cloudy a space open up and i could see orions belt very clearly, it was then that i saw a oval circular shape pass through looking like a shooting star. However it was not there was no trail, there was no blinking, no lights seems to be lit only be the light of the stars , for a minute i though i had to be some kind of space debree but it was not,it appear to be falling but it was actually going across my line of sight so fast that it only appear so, after it dimn slowly i realize it probably went right overhead,incendltly there was a plane that pass by minutes later after the sighting only then i realized how high above and the clear differences between a aircrafts and what i saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49177.html](http://www.nuforc.org/webreports/reports/049/S49177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
