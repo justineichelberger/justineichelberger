@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Elizabeth (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 34</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162344.html](http://www.nuforc.org/webreports/reports/162/S162344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Shiocton (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object was silent with a soft yellow glow to it traveling in a straight line at incredible velocity.I saw a UFO once in my life.  It was February 1989.  I remember the month because I had just returned from California, where I’d been living.  I was staying at my sister’s house in rural Wisconsin.  She lived near the town of Shiocton.It was a cold clear night.  I’d gone out for a walk.  My sister lived on top of a hill, so I had an expanded view of the horizon.  It was open farm country.  There were trees behind the house but the view to the south, east, and west was unobstructed.I had just left the house and was walking down the driveway to the road.  I was looking up at the sky when the object appeared directly above me.  It was traveling in a straight line, north to south.  It was larger than any star or planet, but not as bright or brilliant.  It had a steady glow to it, a soft yellow.  It was silent.  There were no flashing lights like an airplane would have.  The velocity was incredible.  From the moment it came into view directly above me until it vanished over the southern horizon the time elapsed was no more than a couple of seconds.The brief look I had at it left me with the impression that it was not quite round.  It was near enough that I was left with a memory of shape, so it was probably not more than a few thousand feet above me.  What remains vivid in memory is the soft glow of it and the stunning velocity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97260.html](http://www.nuforc.org/webreports/reports/097/S97260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
