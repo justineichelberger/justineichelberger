@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:22 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:16 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vicksburg (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Arc of 7 - 8 stationary red "asterisks" not very high up in the sky.At first, I saw two red lights similar to asterisks. I initially thought they were planes signaling each other, as I am in a flight path and they were very close to each other.  Within a second, I saw approximately 7-8 more stationary red "asterisks."  They were formed in an arc and hovered over a mountain in the distance.   As one appeared on the left side of the arc, one disappeared, or kind of faded, on the right side.  This appearing and disappearing continued for several seconds. Then, all of a sudden, they all disappeared. Poof!! Gone.  As I held my arm out, the formation measured approximately two inches.I'm just a female person who comes down to the Vicksburg/Salome area for the Tucson Gem Show from early January to late February.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80099.html](http://www.nuforc.org/webreports/reports/080/S80099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Petrified Forest National Park (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Petrified Forest strobing ufoAs I was travelling westbound 10 miles east of Petrified Forest I came upon an unusual craft sitting about 100 yards north of the Interstate 40.  This happened around 4 am in either Jan., Feb., or Mar., of 2000.  It's taken me a while to report this and I can only try to describe what I remember.  Of course like everything else, I have to wonder if what I saw was real.  Anyways, it was and oval craft with a strobe flashing like crazy on top, 4 lights in the middle, I forgot the colors and if they were flashing, and one more light on the bottom.  Coming out of the craft away from me, behind the craft was an incredible light shining northwards, it was so bright that I could see the top of the plains, I'd say about 1 mile away from me.  It was brighter than any spotlight or headlight I've ever seen.  I was stunned by what I saw and at the same time afraid of something so mysterious.  I passed by and as I did so, I passed a semi trailer heading west.  I know he saw it, as I looked in my rearview mirrors, I could see his brake lights come on for an instant, and I'm pretty sure he got the heck out of there like I did.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53201.html](http://www.nuforc.org/webreports/reports/053/S53201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
