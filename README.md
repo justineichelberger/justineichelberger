@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pingrup (Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Common sightings in the mornings of red and green aircraft of some sort flying low altitudes above the township of Pingrup, Western Australia!!  I signal in the direction of aircraft with a mobile phone strobe light and the red and green lights cease.  Immediately, it returns to only a white yellowish light, very bright and too bright to be a star!  For 50 minutes, it remained roughly in the same spot, as I look up from the ground at it!  On a few other nights in 2016 I have seen a similar info in roughly the same area but this is the first time I'm reporting.  Shape I do not know,, only that the object in the sky moved from side to side mildly but definitively!  I need sleep and just reporting this weird light in the sky and will continue to do so, if I see again,  The object in the sky seems very odd over farmland, mainly in the area!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125859.html](http://www.nuforc.org/webreports/reports/125/S125859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Elizabethton (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still there - still there minutes.</sub><blockquote><sub>strangestthing I ever sawstrange lights 3 craft no sound at 2000 feet moving at 1500 miles per hour flying like birds almost approx 3 miles away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21832.html](http://www.nuforc.org/webreports/reports/021/S21832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
