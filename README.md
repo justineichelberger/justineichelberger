@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>This does not need to be reported, nobody cares about my story anywaysPlease see description on this profile:  http://www.myspace.com/goldinfohq  also see my other profiles: http://www.myspace.com/camwealth http://worldunificationnetwork.ning.com/profile/Daniel  There was a second occurrence during daylight with a witness in 1996, I may re-publish that event on one of my profiles also.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63266.html](http://www.nuforc.org/webreports/reports/063/S63266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>looking up a white disc came in my view out of the corner of my eye.it came over to the middle of the valleyand slowed down and started moving in an unfamiliar way,sort of"falling"forword and back and the like.then another white disk came into view out of the corner of my eye and slowed down in the middle of the valley and started to move in the same manner as the other one.i watched this for 15 minutes or so and got in my delivery truck and drove away'.they were just under the chem trails of the day.((NUFORC Note:  Date is approximate.  We are not certain what chemtrails are, but people speak of them frequently.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36203.html](http://www.nuforc.org/webreports/reports/036/S36203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
