@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:56 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Grey disk flying over Hickam AFB.I was walking from my car to my dorm room on Hickam AFB.  It was a sunny day not a cloud was in the sky.  I happened to look up at an airplane that was maybe 20000 to 30000 feet in the air traveling west to east.  A few moments later while still looking at the airplane, I noticed a disk shaped object traveling perpendicular to the airplane, but at a much lower altitude, perhaps 800 to 1500 feet.  This object passed almost directly overhead and moved in a straight line and level altitude.  My guess is this object was 10 to 20 feet in diameter and grey in color.  I observed this object for maybe 20 seconds before walking inside the dormitory.   I must admit becoming a little scared.  When I returned from lunch I told my supervisor what I saw, he speculated the object was a low altitude satellite.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  We doubt that a "low altitude satellite" would be visible during daylight.  We disagree with the assessment apparently made by the supervisor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69456.html](http://www.nuforc.org/webreports/reports/069/S69456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hyannis (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Metallic ball, mounted to several legs, took off from the highway.After picking up the electrical contractor, we were heading westbound along RT 2. I’d say that we were about 30 miles west of Hyannis. Local time was approximately 6:30 AM, just a little before sunrise. Ahead, somewhat ahead of the headlights, there was something straddling the middle of the highway, which I originally took to be wildlife. I was sure it had to be wildlife, only as we got closer it became apparent that this was a ball, a metallic gun metal gray ball. More of a half-dome shape, which sat on several legs. I couldn’t tell just how many legs because there were all these connecting rods that ran between the legs. So the ball, this half-dome sphere, it was at least 5’ around, and up near the top, maybe a quarter of the way down from the top, was a red light that ran from side to side. Not very big, more like a diode, it started on the left and ran to the right, then back toward the center, where it stopped, before going back to the left side. I slo! wed down, and that’s when this thing lifted up. The dome sat about 4’ off the ground, on the legs, and when the thing rose it drifted toward the left, as if it were caught in the wind. It continued like that, gaining altitude as it moved to the left, which was toward the south. There were three of us, one in the back of the cab, and then the contractor, who sat to my right, and we watched the thing as it took off like that, and after a moment the contractor said, “what the fuck.”</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162060.html](http://www.nuforc.org/webreports/reports/162/S162060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
