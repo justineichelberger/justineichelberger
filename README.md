@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At approximately this time, I let one of my dogs out into my large fenced and wooded backyard.  The night was cold, clear, and many stars in the sky.  My dog started barking wildly, which she doesn't do unless something is about. There is a large tract of wooded land beyond my back fence, and this was where she was directing her focus.  I let my other dog out and she proceeded to the same spot beyond my fence. I saw nothing so went back inside.  The dogs were now barking more so I went back out; at this point they were barking up a tree at the back.  I shone a flashlight up the tree and saw a raccoon staring down.  This was the first raccoon I had seen in twenty years of living here.  As I was looking up at the raccoon, I noticed a very bright light to my left, coming from the SW and heading NW, at an altitude of about 1000 ft., much lower than commercial flights into Warwick State Aiport.  The light was orangy-yellow, about the brightness of Jupiter, and was ! surrounded by multi-colored smaller lights. There was no sound at all.  It appeared to pick up speed greatly as it passed to my north...a very smooth gliding but fast pace. I watched it through the pine trees until it was out of my sight to the NE.  It was much faster than any plane heading toward the state airport and was much lower in the sky than the usual planes.  The brightness of the light did not change during my total viewing, nor did the brightness of the colored lights that surrounded it.  This is not my first sighting in this area (Perryville section of South Kingstown). Three years ago I stood right under a large bright yellowish light, only 200 feet above me and just over a power transformer,  that had an electric-like green light at the 'tail.'   This object also smoothly pioted and glided away as I watched it dumb-struck outside of my car.  I believe this area is a 'hotspot.'</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87213.html](http://www.nuforc.org/webreports/reports/087/S87213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Stockton (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saucer Sighting in Fort Stockton, Texas 02/2003I was driving from Lordsburg, New Mexico to Fort Stockton, Texas.  It was getting toward evening - probably late afternoon.  I saw two disks(?).  I couldn't believe it.  I was saying, "I see you, I see you."  Then they disappeared behind the clouds.  Sometimes I think maybe it must have been something else, but then I know what I saw wasn't normal.  I've told very few people about this.  But, tonight as I was flipping channels, the SciFi Channel was airing a show "Proof Positive" and a familiy was mentioning a UFO sighting in Fort Stockton.  So, I feel I should report it somewhere.  Maybe I'm one of many people to have seen something around Fort Stockton.  Oh, I was on Interstate 10.  Well, I guess this isn't much, but that's it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39993.html](http://www.nuforc.org/webreports/reports/039/S39993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
