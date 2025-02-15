@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:47 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in St. Albert (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A bright white object moving slowly across the sky split into 4 other craft 3 of which surrounded the white one in the middle to form a triangular formation. The lead craft then preceeded to change colour, first green then red then yellow. Then the craft surrounding the bright white one did the same but they all changed colours at different intervals. None of the craft surrounding the white one had any one colour at the same time. Then the craft surrounding the big bright white one dissapeared, then it itself dissapeared but only after slowly changing colour from white to green to red then yellow. All this occoured while the objects were moving across the sky.r W y          g \ Diagram of the ships in formation, the back slash represents the direction thew were going in formation. They were headed on a west to easterly direction north from my location at the time i'd say about 20 miles north or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21400.html](http://www.nuforc.org/webreports/reports/021/S21400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>A hovercraft that would fade away when approached by other aircraft and reappears after. It has appeared multiple nights in the same spot</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153535.html](http://www.nuforc.org/webreports/reports/153/S153535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
