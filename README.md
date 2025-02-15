@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Andres, Boca Chica, Santo Domingo () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.18333333333333332 - 0.18333333333333332 minutes.</sub><blockquote><sub>Nigh time angular object reflecting street lights below it.I was on our house roof looking north.  Saw, what I thought, was a helicopter.  But it made no sound, and had no lights.  The object seemed flat-bottomed and reflected the orange street lights below it - no points of light reflected, just a reflected glow.  Due to the brightness of the light reflection I estimated the silent object to be about 800 feet high.  I guess it was the size of a small truck.  Appeared flat but not round - somewhat angular.  I flew straight to the west, where there is an international airport there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154996.html](http://www.nuforc.org/webreports/reports/154/S154996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Slatington (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>A mysterious light moved slowly and changed color going in a straight line without going up or down an inch.It was a cold, brisk night, I was on the internet when I decided to step outside for some air. Since I live in a valley there is hills around me so I was just looking around and in front of one hill about 3/5 a mile away I saw an intense light in a spherical shape. The light traveled left from my view point and stayed on a perfect line not going up or down an inch. The light traveled very slowly, not even reaching 10 m.p.h. as it was going the light changed colors: blue,white,green,red, and some mixes of the colors. After traveling about a hundred feet in about 2-3 minutes it stopped and continued to change color, never going up or down at all. My mother and sister both observed it and we decided to see if we could get close to where we had last seen it. After about 30 minutes of searching we didn't find anything even after going right by where the phenomenon had been. When we got home I looked back out side and the craft was there, It hadn't moved an inch since we went searching for it, there must have been some kind of nearby cloaking system or something. I decided to just let it go and go to sleep. Any way I have seen many in the area around this valley that I live in, maybe there is something special about it, besides the hundreds of acres of farmland.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33860.html](http://www.nuforc.org/webreports/reports/033/S33860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
