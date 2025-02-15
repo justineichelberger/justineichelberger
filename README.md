@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 15 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arlington Heights (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>we saw 4 big bright orange fire ball type flying slowly and disappearing 1 by 1.My fiance and I were at a gas station putting gas in.  I was sitting in the van looking at the stars because it was a clear night and out of nowhere appears 3 bright orange lights in a row.  My first thought was maybe we were being under attack.  Sound funny but it scared me seeing those lights.  I get off the van and took a picture as well did my Fiancé.  As I got off the van the man next to use notice me looking at the sky.  He was surprised as well. His wife noticed a forth light behind the 3.  As we were watching them move slowly the guys wife and I noticed that they were disappearing one by one.  It maybe lasted in total 2 minutes.  Even though it happened a few days ago I'm still in shock.  I can't believe I witness something like that.  I have Google and research on the image that i saw and what I found was that other people describe exactly what I even saw.  I am now a 100% believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96374.html](http://www.nuforc.org/webreports/reports/096/S96374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holetown (Barbados) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6-7 Orange Lights in BarbadosAround midnight I had spotted 6-7 orange lights traveling from north to south at a faster pace that of a plane.  They were bright orange and a strange formation, some in the back formation caught up to the front.  I went to get someone else to witness it and they had no idea what it was.  We watched it for at least 5 min, till they reached a spot in the sky and started to disappear a few at a time or one at a time.  The final one slowed down in the same area as the other and almost like flickered out.  Then they were gone.…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87205.html](http://www.nuforc.org/webreports/reports/087/S87205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [443](http://www.nuforc.org/webreports/reports/162/S162719.html)
-- [442](http://www.nuforc.org/webreports/reports/164/S164397.html)
-- [441](http://www.nuforc.org/webreports/reports/162/S162924.html)
-- [440](http://www.nuforc.org/webreports/reports/162/S162198.html)
-- [439](http://www.nuforc.org/webreports/reports/162/S162344.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
