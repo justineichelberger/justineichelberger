@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Baltimore (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Very blue light traveling FAST from north to south high in the sky.I was driving home on a dark street with very few street lights. Just before driving over the hill moments before pulling into my drive way I  thought I saw a blue light to my left high in the sky but I let it go thinking it was the reflection of the firehouse lights I passed on the power lines.Seconds later I realized there really was a light in the sky. It was moving incredibly fast and it was a blue light that wasn't blinking. It looked very high in the sky but it was easy to see.It moved smoothly from the left part of the sky to the right part of the sky and there as no sound. It took about several seconds to cross over to the other side. It was coming from the south going directly north. I live along the Hudson River and the town is very dark so the sky is usually very visible on a clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68676.html](http://www.nuforc.org/webreports/reports/068/S68676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Mesquite (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rectangle UFO with 4 Dim Red LightsI saw a rectangle shape UFO moving from east to west at night time. It had 4 very dim red lights on each end and was solid black. This was at night. It moved with no sound at all. passed over my head and was out of sight in about 30 seconds.Im not sure if this was because it was moving fast or because the lights were very dim. I called the police dept a couple of days later and there was no reports of this thing. I was the only one that saw it.There were no FAA lights just 4 very dim red lights on each corner and the craft.I think it was one structure because I could not see between the red lights and the lights did not change in formation so it was solid and seem to be moving slow and did not go up higher or go lower. It was moving as a public airliner plane would be moving at 30,000 feet but the UFO was much closer to the ground.I would have never known it was there unless I was looking up.The next day I talked to some people at the gas station and a couple of customers were telling me that they have seen red glowing UFOs in my city and others close by at night too but not a brick shape like I saw but round like a saucer with red lights also.At least Im not the only one that has seen these things around here. But they said they never saw a brick shape UFO.Also it was not as high as a public airliner would be. Only maybe a 1000 feet more or less above the ground. This is my first UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74425.html](http://www.nuforc.org/webreports/reports/074/S74425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
