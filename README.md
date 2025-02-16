@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:20 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Benwood (WV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Minute or less - Minute or less minutes.</sub><blockquote><sub>Bright, large white light & also green light.02/16/2011 0:30 (not 100% sure on the time) Duration : A minute or less.City : Benwood State : WV County : Ohio Country : USA Number of witnesses : 1 (Myself) Shape : Light/Cigar Number of objects : 2 then 1  I was leaving work, driving home. Around 12:30am, maybe a little before or a little after this time.  I am not totally sure the clock in my car was screwed up and not set to the correct time.  I was on the phone at the time, talking and just watching the road ahead.  Caught a light out of the corner on my eye but didnt look.  First thought it was a reflection off my lights that lit up my dash.  Then I quickly thought to myself, the reflection would be orange if it were and the light was not.  So I quickly looked up in the sky at an angle on my left side.  I instently froze.  I could not speak and slammed on my brakes, stopping dead in the middle of the road to watch.  It was a bright white light, the purest white light I have ever seen and a smaller, but still huge greenish light infront that quickly faded gone in a matter on seconds.  The bright white light was left, it appeared to be a longated, cigar shaped light.  And in less then a minute it had gone from my left hand side to my r! ight.  Moving fast as it quickly disappeared over the hills.  I have seen plently of planes, helicoppters and even army planes in my life.  This was nothing I had ever seen.  It appeared to low due to the size of the lights but still higher in the sky then the hills it disappeared over.  I heard no sound.  It moved way too quickly to be a plane or jet.  The friend I was on the phone with, who I told and described everything to said he emailed the Benwood police department asking if there had been any reports and has yet to get a reply.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80088.html](http://www.nuforc.org/webreports/reports/080/S80088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Estero (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>military jets trying to intercept egg shaped matalic objectObserved an egg shaped matalic object moving slowly across sky at an estimated 3000 feet high heading east to west. Would have probably dismissed what I saw except less than 10 seconds elapsed when two fighter jets came over flying fast; as if to intercept the object, on the same path as the egg shaped object.  I have lived in this area of Florida for six years and these are the first two military jets I have observed in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49287.html](http://www.nuforc.org/webreports/reports/049/S49287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
