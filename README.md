@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:47 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Willerby (near Hull) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>we saw 2 lights in the sky following each other   they were not planes  there was no noise((NUFORC Note:  No other data provided by witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16525.html](http://www.nuforc.org/webreports/reports/016/S16525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tomahawk (WV) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The UFO was egg like shaped.  I saw 3 of them and each were different colors. The colors were red, blue and green.  Hovered maybe about 500 feet off the ground and I doubt anyone else saw it because it moved kinda fast.  I have seen these for 3 nights now.  Each had a white haze around it.  And only one of them had headlights which were extremely dim.  They also made a soft humming noise.  My two dogs were outside and barked at them like crazy and my outdoor light stopped working for a few minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117356.html](http://www.nuforc.org/webreports/reports/117/S117356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
