@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:54 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:24 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Police spot 6 objects over the Burbank Airport on the evening 2/15/03.I did not see the objects. I monitored the radio transmissions of two or more Burbank Airport police units talking to each other on their radio's about the 6 UFO'S over the Burbank Airport. The police also contacted the tower. The tower contacted the burbank police helicopter that begain searching for the objects. I'm sure all of this radio traffic was recorded by the city of burbank 911 center. Also the tower transmissions would be recorded by the FAA.((NUFORC Note:  Please see other reports from southern California for similar events.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27724.html](http://www.nuforc.org/webreports/reports/027/S27724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clinton (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three bright dancing lights, seeming to attract and repel while staying close to one another.Looked out window before going to bed to see three lights high in the sky southwest of my location.  They seemed to be dancing...almost like magnets, attracting and repelling one another in what seemed from my vantage point to be close proximity to one another.  I watched, left the window then came back 30 minutes later to see they had moved left of where I had originally seen them.  They were still doing the dance.  I did not stay up to see how long they stayed there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144930.html](http://www.nuforc.org/webreports/reports/144/S144930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
