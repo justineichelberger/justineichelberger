@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw two bright orange light hovering south of yuma, az just stood then then began to move esat until dissapeared they wernt airplane cuz they have red and blue blinking lights.  My girlfiend also saw them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87225.html](http://www.nuforc.org/webreports/reports/087/S87225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Longview (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Rapidly and oddly moving amber light moving all over the skyI have been a huge skeptic all my life but after seeing what I have seen I know something is going on.  I saw this happening in the sky about 2 weeks ago and knew it was not of this world. It was a faint amber light that was high in the sky and would stall then move then zig zag around.  At times a flash of light in the shape of a crescent would come from it..my Mother saw this too, and it would stay in one area then zoom quickly to the other part of the sky.  Well, tonight I saw it again and it is still out there doing this.  It doesn't stop.  It was all over the place doing the same things as before but this time it emitted 3 white dot like lights-best way to describe is like the flash when you take a picture-it did this twice then it for a second was shrouded by blackness (there were NO clouds) and came back out.  I followed it with my eyes as it joined (I couldn't believe this) what looked like 3 more faint amber lights.. they like danced around each other.  Then that one took off again just zooming and zig-zagging around the stars.  It would pause at times then take off in a quickness then zig-zag around.  I found myself not even wanting to blink so I could keep up with it.  I could stay out there all night watching it.  Very mesmerized and perplexed.  I live out in the country and there are no city lights around.  I don't know what this is or what is going on, but something is definitely happening up there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132671.html](http://www.nuforc.org/webreports/reports/132/S132671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
