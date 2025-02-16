@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reported witnessing 3-4 extremely bright lights "with bright orange lights around the middle."  At first, he thought it was an aircraft, but it turned slowly.  The object was below the clouds, and it projected an intensely bright light down to ground level. The lights on the object were solid, not blinking. The caller reported that the Reno Police Department (702--334-2121) had received over 100 calls about the same incident.  Also, he stated that he had spent a great deal of time around aircraft, and the object he had witnessed was not any kind of conventional aircraft he is familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01318.html](http://www.nuforc.org/webreports/reports/001/S01318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orlando/Oviedo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown light in sky, "blasted" off and vanished.A friend and I were leaving another friends house. I looked up in the sky and saw a moving "star". Jokingly, i said to my friend "hey look, a ufo". At which point the 3 of us stopped and watched the mysterious light.It looked as if it wasn't within our atmosphere, as bright and as big as all the other stars in the sky. At first it was only moving in a straight line, but then started to "navigate" and change direction. This occured within a min or less until the object stopped completely. Right after it stopped, it started to get brighter, slightly changing color, but mostly just bigger and brighter. At the peak of the bright light, the object shot off into the distance, with a brief trail following, but quickly faded away.I myself am a strong believer in the unexplained, although i have seen other strange obejects in the past, this was the most recent and most interesting.If anyone has a similar sighting, or maybe an explanation to what we saw, please feel free to contact me through email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42171.html](http://www.nuforc.org/webreports/reports/042/S42171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
