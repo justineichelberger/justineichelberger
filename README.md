@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:07 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:51 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Kalamazoo (MI) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Former artillery officer witnesses 4-5 ships streaking E to W south of city. Flash w/atmospheric boom 5 hrs. earlier. Good rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00170.html](http://www.nuforc.org/webreports/reports/000/S00170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yadkinville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yadkin County NC LightsMy husband and I saw bright lights in the western sky over Yadkin County, North Carolina, on 2/16/11, at approximately 9:00 p.m., low in the horizon.  At first, I thought the lights were a comet as I observed them through a tree line.  After clearing the tree line and getting a closer look in an open sky, it was clear this was not a comet.  The lights consisted of several circles, but not all appeared to be the same size.  Some were larger than others.We watched for approximately 10 minutes as the lights hovered, moving up and down, and left and right.  When we went into the house to get a telescope (which took about 5 minutes), and when we came back outside, the lights were gone.  This was not a satellite, airplane or helicopter.  None of these lights flashed repeatedly, or had any sort of routine "beacon" as we usually see with typical aircraft or satellites.    Neither of us have ever seen anything like it in the evening sky before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80097.html](http://www.nuforc.org/webreports/reports/080/S80097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
