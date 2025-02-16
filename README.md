@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White orb slowly turns orange, and then white a few times.I was walking down Santa Monica Blvd towards Century City when I noticed a white dot in the sky traveling with a fair amount of speed, in a south west direction.  It was obviously not an airplane and my thought was it was probably a large white balloon.  I took out a pair of binoculars I had with me to get a better look at it.  Balloons typically have strings attached and rock a bit due to being heavier at the bottom but this did not.  It just appeared to be a white orb....at first.The object then seemed to stop moving west and seemed to begin to ascend a bit, then remaining suspended in the same location for about 10-15 minutes.  During this time it would occasionally slowly change from white to glowing orange, and back.  It did this two or three times.  It then began to move back in the direction from which it came, and then towards me.  I believe at this point it was higher than it had initially been.  It changed to orange one more time, and back to white, and then I lost track of it after I put the binoculars down to rest my arms.I don't believe this was a balloon as it did not exhibit a string or characteristic rocking.  I believe the orange coloring was emitted light rather than reflected light, because the sun was not low enough in the sky to cause an orange reflection, the change from white to orange to white occurred slower than expected if it were an object turning such to reflect light, and when objects in the sky reflect light, the intensity usually increases to a bright point quickly, and then decreases quickly.  This object did none of these things.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96339.html](http://www.nuforc.org/webreports/reports/096/S96339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Whitehall (PA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving and saw a v formation 3 lights that all separated simultaneously.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144914.html](http://www.nuforc.org/webreports/reports/144/S144914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
