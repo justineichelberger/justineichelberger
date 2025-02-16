@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Bright star disappeared from sight.Stargazing from my backyard I became aware of a very bright star. It was as bright as Saturn, which was also clearly visible as the night was very clear.Looking due West, the star (?) was almost half way between the Pleiades and the constellation Auriga. Then, as I was looking directly at it, it disappeared. It took about two seconds as it faded from view, dimming in brightness and then disappearing. I've spent thousands of hours looking at the sky and this was no jet or plane. This does however, mark the second time I've seen a star like object behave oddly.What could it have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12033.html](http://www.nuforc.org/webreports/reports/012/S12033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>'burning paper'I was out on my north facing 3rd floor deck of my apartment on Capitol Hill in Seattle.  I saw what looked like a burning sheet of paper rising and traveling north by north east and rising.  It glowed orange about the same brightness and colour as a cigarette.  It seemed to be moving away quicker than could be explained by wind currents but I cannot estimate it's distance since I don't know it's size and it was above the level of any landmarks when first spoted, I thought at first it was some paper burning, but it didn't go out, it moved away. I suppose it is possible that that is what it was, and that its apparent motion was caused by it reducing in size and going out but it did not "look" like that. a commercial aircraft came about 1 minute later traveling the usual take off route from seatac moving north and then turning east while over Queen Anne & Capitol Hill and moving directly over my apartment. Unfortunately I spent too long gawking and did not get a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35121.html](http://www.nuforc.org/webreports/reports/035/S35121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
