@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:51 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yadkinville (NC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yadkin County NC LightsMy husband and I saw bright lights in the western sky over Yadkin County, North Carolina, on 2/16/11, at approximately 9:00 p.m., low in the horizon.  At first, I thought the lights were a comet as I observed them through a tree line.  After clearing the tree line and getting a closer look in an open sky, it was clear this was not a comet.  The lights consisted of several circles, but not all appeared to be the same size.  Some were larger than others.We watched for approximately 10 minutes as the lights hovered, moving up and down, and left and right.  When we went into the house to get a telescope (which took about 5 minutes), and when we came back outside, the lights were gone.  This was not a satellite, airplane or helicopter.  None of these lights flashed repeatedly, or had any sort of routine "beacon" as we usually see with typical aircraft or satellites.    Neither of us have ever seen anything like it in the evening sky before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80097.html](http://www.nuforc.org/webreports/reports/080/S80097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reported witnessing 3-4 extremely bright lights "with bright orange lights around the middle."  At first, he thought it was an aircraft, but it turned slowly.  The object was below the clouds, and it projected an intensely bright light down to ground level. The lights on the object were solid, not blinking. The caller reported that the Reno Police Department (702--334-2121) had received over 100 calls about the same incident.  Also, he stated that he had spent a great deal of time around aircraft, and the object he had witnessed was not any kind of conventional aircraft he is familiar with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01318.html](http://www.nuforc.org/webreports/reports/001/S01318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
