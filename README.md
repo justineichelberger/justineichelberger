@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:22 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Estero (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>military jets trying to intercept egg shaped matalic objectObserved an egg shaped matalic object moving slowly across sky at an estimated 3000 feet high heading east to west. Would have probably dismissed what I saw except less than 10 seconds elapsed when two fighter jets came over flying fast; as if to intercept the object, on the same path as the egg shaped object.  I have lived in this area of Florida for six years and these are the first two military jets I have observed in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49287.html](http://www.nuforc.org/webreports/reports/049/S49287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Comstock (NE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>my wife and i were heading west on the sargent rd. about 6:25 pm when i told her that i thought i saw venus, because it was to be coming into view as a evening star around the end of feb.. well it was bigger and fuzzier and seemed to be moving at us from inside the car it was at about 30 degrees up when looking ahead. then it turn to a dark brown and seemed to have a trail of smoke behind it and up maybe three of four times it's diameter going up. this view lasted for about 45 minutes untill it droped behind the tree line to the west of us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22077.html](http://www.nuforc.org/webreports/reports/022/S22077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
