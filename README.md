@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orlando/Oviedo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown light in sky, "blasted" off and vanished.A friend and I were leaving another friends house. I looked up in the sky and saw a moving "star". Jokingly, i said to my friend "hey look, a ufo". At which point the 3 of us stopped and watched the mysterious light.It looked as if it wasn't within our atmosphere, as bright and as big as all the other stars in the sky. At first it was only moving in a straight line, but then started to "navigate" and change direction. This occured within a min or less until the object stopped completely. Right after it stopped, it started to get brighter, slightly changing color, but mostly just bigger and brighter. At the peak of the bright light, the object shot off into the distance, with a brief trail following, but quickly faded away.I myself am a strong believer in the unexplained, although i have seen other strange obejects in the past, this was the most recent and most interesting.If anyone has a similar sighting, or maybe an explanation to what we saw, please feel free to contact me through email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42171.html](http://www.nuforc.org/webreports/reports/042/S42171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 brilliant amber orbs, about the size of a house4 amber orbs came from northeast.  3 went north of my house and 1 broke away and came towards my location.  The amber orb was about 1500 feet away from me in the sky. What i saw was amazing.  Pure radiant amber light.  No metal structure.  About the size of an average house.  Within the orb of light, I saw a flame.  The flame was like a flame of glass, also quite brilliant.  In moving towards my location, it exhibted intelligence and a desire that i would see it.  I've never seen anything like it.((NUFORC Note:  Source of report, who elects to remain totally anonymous, fails to indicate a date for the alleged sighting.  We are unable to contact the individual, in order to confirm the date, so we have assigned an arbitrary date above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132676.html](http://www.nuforc.org/webreports/reports/132/S132676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
