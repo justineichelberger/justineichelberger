@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Brighton (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>dark triangle UFO,  with  three white lights and circle of red lights.My wife and I were driving home on the gravel road; about half a mile from the Skunk River, about 200 feet from highway 92, two miles north of the town of Brighton, on the right side of the road about 100 feet above us, I saw a dark grey tiangle shape with a dim plain light on each of the crafts three points, I looked back to see if my kids were still awake , and two seconds latter it vanished. The craft we saw did not make any noise. This craft appeared to be very big.   My wife witnessed it, but she said she saw a circle of red light atached beneath the triangle. The event lasted about one minute. This is the first time in our lifes that either of us have ever seen a UFL up close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41987.html](http://www.nuforc.org/webreports/reports/041/S41987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Corbin (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>While outside I heard a very loud airplane like noise.  The noise was loud enough to startle me and lasted 5-6 minutes.  The object itself was charcoal gray in color, diamond like shape, and not low flying.  I saw the object for 30 seconds and it went up instead of forward or backward into the sky.  Because of cloud cover and the object moving quickly I had to run through my yard to maintain visual on the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162711.html](http://www.nuforc.org/webreports/reports/162/S162711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
