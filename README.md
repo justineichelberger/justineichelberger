@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Unspecified city (OK) reported seeing craft that fit the description of some '' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>The USGS believes the booming noises everyone's been hearing in Oklahoma is due to the earthquakes.  They have had several this month.  I have heard these same noises in California as earthquakes are coming on.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107349.html](http://www.nuforc.org/webreports/reports/107/S107349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wigan (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange shape seen over  wigan, lancashirewhilst filling up my car with petrol my partner and i saw the shape on a completley cloudless evening sky, it made no sound and traveled west to east. when it got over the top of the roof of the petrol station it must of disapered. i managed to take a photo of it on my phone and on looking at the image i found a smaller round object following the shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62341.html](http://www.nuforc.org/webreports/reports/062/S62341.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
