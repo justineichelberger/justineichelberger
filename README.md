@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:51 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my rightA single bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it in les than .5 seconds, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my right</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05638.html](http://www.nuforc.org/webreports/reports/005/S05638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Florida is a Hot Spot for Black Budget aircraft and Space Capable vehiclesWhile walking my dogs on a clear windless night, I noticed a "cloud" that was a slender triangle shape with an opaque stern section. The craft was larger than an airplane, had a defined shape to the nose and leading edges  of the narrow straight shape. The altitude was hard to determine (but an educated guess is between 3,000' and 5.000') due to the nature of the semi cloaked image. The speed at which this object was moving was very quick at approx. 25 MPH in a motionless, windless sky! The direction was from the Gulf of Mexico or NW of my position and moved in a straight line towards the SE or the Everglades and South of Miami. The object showed no lights or propulsion system but did glide silently and with a clear determined direction.I am a trained observer and have viewed several AF or Navy aircraft operating in our area over the Gulf waters. I have reported these sightings to Mufon and to Filer's Files and have matched perfectly other sightings with testimony and photos with other observers at different times up to 2 years apart. There seems to be Ion thruster types, plasma powered types Vasimr rocket types and cloaking exercises with short contrails during the last minutes of the sunset over the water here. Reports year after year of similar reports are ignored by Mufon.It is apparent that the Black Budget folks operate over SW Florida all of the time.  High probability of human engineering, low probability of UAP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125904.html](http://www.nuforc.org/webreports/reports/125/S125904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
