@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two sets of long string of lightsHigh in the Eastern sky over the Sierra Foothills I observed as I can best describe this as a two long but separate straight string of lights.  Like a.  Long passenger train might look like at night with all the light showing through open windows. I watch as the first one moved I  a north to south direction  with a 30 degrees down angle. It took 2 to 3 minutes to make its way out of view but as it did the 2nd one which was identical to the first came into view following the same path and same duration .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162155.html](http://www.nuforc.org/webreports/reports/162/S162155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in East Hanover (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Formation of round bright red lights moving slowly for 20 minutes, then blinking and disappearing.There were 9 bright red lights in a formation, moving slowly but holding position in their formation. They were moving accross the northern northern sky, toward the south.After 15 mintutes, they blinked out. . .blinking several times and then appearing to head further into the sky.  Slowly, one by one, over the last 5 minutes, they all disappeared in the same way. . .blinking several times, and then vanishing!  We reported this event to the East Hanover Police Dept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68747.html](http://www.nuforc.org/webreports/reports/068/S68747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
