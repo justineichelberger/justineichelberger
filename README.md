@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:49 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Clark (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Second 04 to sec 09 top of the screen you’ll be able to see them zigzagging.Second 33 it appears right in center of screen (in the sky)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153713.html](http://www.nuforc.org/webreports/reports/153/S153713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my rightA single bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it in les than .5 seconds, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my right</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05638.html](http://www.nuforc.org/webreports/reports/005/S05638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
