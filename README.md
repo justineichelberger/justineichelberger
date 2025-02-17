@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Paris (ME) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Transparent rectangle craft seen hovering for a few minutesI was in the backseat of my car, laying down. I was looking straight up with my head slightly tilted back against the seat, so I could look out the window at the night sky that was a darkish blue at the time. At the very edge of the window I saw a rectangular translucent white... thing. It was almost invisible, so I was unsure if it was just me or if I was really seeing something. It wasn't moving. When we turned, I tried to locate it again, but couldn't. I was kinda tired too, so I'm not sure if it was my imagination or not, and that's also the reason why I wanna be anonymous.It was about an inch in size in between my thumb and index finger when I hold out my arm. There was also a star at the very edge of the shape, not sure if it was part of the thing or not, just saying it was there. It wasn't at the exact corner either, just  slightly to the middle of one of the short sides. The translucency was more or less even across the entire thing except towards the corners where it was more transparent, making the corners appear kinda rounded.I'll leave my friends e-mail adress to you and you can contact me through him if you want to ask me something else, this report was also done through his Swedish computer, didn't wanna leave my IP adress. I'm mainly interested in being contacted if similar sightings were reported.((NUFORC Note:  Witness elects to remain totally anonymous;  provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55339.html](http://www.nuforc.org/webreports/reports/055/S55339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20:27 - 20:27 minutes.</sub><blockquote><sub>Photographing a party on the rooftop of a hotel in New Orleans and captured these objects in seven of my photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80595.html](http://www.nuforc.org/webreports/reports/080/S80595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
