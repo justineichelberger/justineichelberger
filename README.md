@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:35 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Polk City (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 boys see 3 UFOS.Well my friends and i on a late sunday night were chilling out on the back deck when we noticed a light in the back near the town race track. we talked for a bit about "what if" that was an U.F.O. when we noticed there was another ufo moving southeast. we watched and talked for about 10 - 11 mins gazing at the ufo when we noticed a second one going west we wated it for another 4 minutes before it was gone. then we decided to head inside. after going inside one of us went home and later that night when one of us came out side the first light we seen that we thought could have been a ufo was now gone. the light is still not yet seen.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61690.html](http://www.nuforc.org/webreports/reports/061/S61690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mounds View (MN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large black rectangular object hoveringMy daughter and I were driving east down Highway 10 in Mounds View, Mn, just west of Interstate 35W.   We seen a large black rectangle or triangle object hovering, slightly slanted with about five lights on it.  I told my daughter to look, she said Wow, what the heck is that?   I looked again, I knew it was not a aircraft that looked familiar.  I said lets circle the block and get a better look.  We lost it in the tree line as we approached the next block to turn around.  As we turned the corner in the direction of the object, it was gone, no where to be found!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87259.html](http://www.nuforc.org/webreports/reports/087/S87259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
