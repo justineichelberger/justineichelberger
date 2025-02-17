@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in New Orleans (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20:27 - 20:27 minutes.</sub><blockquote><sub>Photographing a party on the rooftop of a hotel in New Orleans and captured these objects in seven of my photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80595.html](http://www.nuforc.org/webreports/reports/080/S80595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Erda (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>12+ non blinking lights equally spaced, appearing out of the same place, out of nowhere, traveling North at a high rate of speed.At least 12 non-blinking white lights traveling in a straight line, each were the exact same distance apart.  They seemed to be appearing one at a time, out of nowhere from the exact same spot.  They were flying North East at a very high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153470.html](http://www.nuforc.org/webreports/reports/153/S153470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
