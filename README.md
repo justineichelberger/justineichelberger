@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mounds View (MN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large black rectangular object hoveringMy daughter and I were driving east down Highway 10 in Mounds View, Mn, just west of Interstate 35W.   We seen a large black rectangle or triangle object hovering, slightly slanted with about five lights on it.  I told my daughter to look, she said Wow, what the heck is that?   I looked again, I knew it was not a aircraft that looked familiar.  I said lets circle the block and get a better look.  We lost it in the tree line as we approached the next block to turn around.  As we turned the corner in the direction of the object, it was gone, no where to be found!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87259.html](http://www.nuforc.org/webreports/reports/087/S87259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>silent trianglesaw a pretty large silent hovering triangle went over me. thought it was a plane at first, but then i wondered if it was a UFO (as in from another race) and then it got all quiet on me (as if it heard my thoughts). kinda weirded me out. it had two white lights on the bottom of it in the center, and had other little lights on bottom. saw other quiet crafts flying too. maybe it wasn't anything, but maybe it wasn't not nothing...?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80108.html](http://www.nuforc.org/webreports/reports/080/S80108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
