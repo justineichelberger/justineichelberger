@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 16 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>'burning paper'I was out on my north facing 3rd floor deck of my apartment on Capitol Hill in Seattle.  I saw what looked like a burning sheet of paper rising and traveling north by north east and rising.  It glowed orange about the same brightness and colour as a cigarette.  It seemed to be moving away quicker than could be explained by wind currents but I cannot estimate it's distance since I don't know it's size and it was above the level of any landmarks when first spoted, I thought at first it was some paper burning, but it didn't go out, it moved away. I suppose it is possible that that is what it was, and that its apparent motion was caused by it reducing in size and going out but it did not "look" like that. a commercial aircraft came about 1 minute later traveling the usual take off route from seatac moving north and then turning east while over Queen Anne & Capitol Hill and moving directly over my apartment. Unfortunately I spent too long gawking and did not get a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35121.html](http://www.nuforc.org/webreports/reports/035/S35121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Troy (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very large bright light sitting there and then it made a sudden turn to the south and disapearedI was outside with my dog and looked to the west and saw a very bright light just sitting there and then it starting comming straight at me so I ran to get my wife and when she came out it was still just sitting there and then begin to move very slowly towards us and then made a sudden turn to the south and then just disapeared. I could not hear anything coming from it but when it did turn away heading south I did see a red flashing light just before it disapeared. I don't know what it was but I know I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21907.html](http://www.nuforc.org/webreports/reports/021/S21907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/162/S162100.html)
-- [299](http://www.nuforc.org/webreports/reports/162/S162063.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162239.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162341.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162711.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
