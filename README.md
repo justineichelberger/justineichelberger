@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Erda (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>12+ non blinking lights equally spaced, appearing out of the same place, out of nowhere, traveling North at a high rate of speed.At least 12 non-blinking white lights traveling in a straight line, each were the exact same distance apart.  They seemed to be appearing one at a time, out of nowhere from the exact same spot.  They were flying North East at a very high rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153470.html](http://www.nuforc.org/webreports/reports/153/S153470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two sets of long string of lightsHigh in the Eastern sky over the Sierra Foothills I observed as I can best describe this as a two long but separate straight string of lights.  Like a.  Long passenger train might look like at night with all the light showing through open windows. I watch as the first one moved I  a north to south direction  with a 30 degrees down angle. It took 2 to 3 minutes to make its way out of view but as it did the 2nd one which was identical to the first came into view following the same path and same duration .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162155.html](http://www.nuforc.org/webreports/reports/162/S162155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
