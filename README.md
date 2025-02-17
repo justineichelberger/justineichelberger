@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A group of 11 white orbs moving across the sky in formation, staying the same distance away from each other, less than a mile in distance silently and slowly moved across the sky and into the horizon until I couldn't see them any longer.  Viewed them for approx. 20 minutes.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138850.html](http://www.nuforc.org/webreports/reports/138/S138850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lacombe (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amorphous Flaming Object flying across the skyOn my nightly dog walk, with a very clear sky, I sighted what i thought was a plane flying northeast from New Orleans International Airport.  As it approached and headed by me, i noticed there were NO blinking red & green lights...It was ONLY bright red/orange and not blinking at all and much brighter than any regular plane.  It really seemed like it was on fire but the fire was all around it.. it was not flaming off the rear as a real fire in a wind would do.  It flew by just about the same speed as the nightly flights and seemed to be turning more east towards Biloxi, MS. It also had no noise that i could hear unlike when normal planes fly by.  I called the police  to report it and asked if anyone else had reported anything but they said no one had.  The Officer asked me if it could if it could have been a flare but i said i didn't think so because it seemed to be going just as fast as any plane.  Just as the flaming object disappeared in the trees a real plane went by going in the same direction with the proper blinking red & green lights AND the sound of a jet engine so i KNOW the flaming object was not a normal plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138846.html](http://www.nuforc.org/webreports/reports/138/S138846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
