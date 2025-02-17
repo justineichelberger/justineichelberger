@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Barstow (aprox 35 mi west of, Mojave desert) (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traveling East at aprox 30 mph at aprox 1000 ft altitude and aprox 1000 ft from me.Object was flat disk(like an Alka-Seltzer)with a globe on top.The globe would open about 45 degrees at aprox 5 sec intervals.The globe seemed to be internally illuminated.It was completely silent.The disk was aprox 20 ft in diameter and globe a little  smaller in circumference.The disk was a incredable rose color with with thin blue band circleing the top.(Disk was aprox 5 or 6 ft thick)The globe was a sort of honey-yellow-cream color.I have NEVER seen such beautiful colors.They were not bright but just a little brighter than photo-luminence.I tried to get it to stop,it ignored me completely.This object will haunt me forever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05767.html](http://www.nuforc.org/webreports/reports/005/S05767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A group of 11 white orbs moving across the sky in formation, staying the same distance away from each other, less than a mile in distance silently and slowly moved across the sky and into the horizon until I couldn't see them any longer.  Viewed them for approx. 20 minutes.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138850.html](http://www.nuforc.org/webreports/reports/138/S138850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
