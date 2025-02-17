@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:23:51 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:43 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Florida is a Hot Spot for Black Budget aircraft and Space Capable vehiclesWhile walking my dogs on a clear windless night, I noticed a "cloud" that was a slender triangle shape with an opaque stern section. The craft was larger than an airplane, had a defined shape to the nose and leading edges  of the narrow straight shape. The altitude was hard to determine (but an educated guess is between 3,000' and 5.000') due to the nature of the semi cloaked image. The speed at which this object was moving was very quick at approx. 25 MPH in a motionless, windless sky! The direction was from the Gulf of Mexico or NW of my position and moved in a straight line towards the SE or the Everglades and South of Miami. The object showed no lights or propulsion system but did glide silently and with a clear determined direction.I am a trained observer and have viewed several AF or Navy aircraft operating in our area over the Gulf waters. I have reported these sightings to Mufon and to Filer's Files and have matched perfectly other sightings with testimony and photos with other observers at different times up to 2 years apart. There seems to be Ion thruster types, plasma powered types Vasimr rocket types and cloaking exercises with short contrails during the last minutes of the sunset over the water here. Reports year after year of similar reports are ignored by Mufon.It is apparent that the Black Budget folks operate over SW Florida all of the time.  High probability of human engineering, low probability of UAP.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125904.html](http://www.nuforc.org/webreports/reports/125/S125904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cusseta & Fairfax (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange lights in the countryThere were 4 lights moving in a circle then meeting in the middle.  It happened just after midnight and lasted about 15 minutes.  It was seen in Cusseta and Fairfax at the same time by 3 people.  This is a small town with a lot of trees and no one in this area uses advertising lights, have never seen this before and haven't seen it since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107596.html](http://www.nuforc.org/webreports/reports/107/S107596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
