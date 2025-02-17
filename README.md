@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Madison (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>For the 3rd time, blinking red lights seen in Morris County.For the third time in one month in Madison, New Jersey red lights were scene blinking in the sky.  First event, Jan 8, 2009, had a total of 5 red lights blinking in the sky, coming together and one by one dropping and disappearing.  The second event, exactly three weeks, Jan 29, 2009, had a very similar scene with 5 red lights blinking in the sky. This most recent event, on Feb 17, 2009, just before the three-week mark, 9 red blinking lights could be found scene in the sky. When someone informed the local police they were told it was nothing but "balloons."  These red blinking lights can be found videotaped on several websites and have been recorded by not only people within the Morris county area but also by NASA.  Freaky stuff.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68745.html](http://www.nuforc.org/webreports/reports/068/S68745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Unspecified city (OK) reported seeing craft that fit the description of some '' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>The USGS believes the booming noises everyone's been hearing in Oklahoma is due to the earthquakes.  They have had several this month.  I have heard these same noises in California as earthquakes are coming on.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107349.html](http://www.nuforc.org/webreports/reports/107/S107349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
