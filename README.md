@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:49 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my rightA single bright red dot seemingly motionless in the sky, when viewed with 114mm Newtonian Telescope the bright red dot demonstrated constant velocity.  The object was tracked for approximately 5 minutes, suddenly the object accelerated out of my telescopes ability to view it in les than .5 seconds, not to the left or right limits of the telescope but directly away and only 1/2 to 1 degree to to my right</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05638.html](http://www.nuforc.org/webreports/reports/005/S05638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>driving down road looked out window and saw bright orange light,? looked like the back lights to a car did not blink or no noise.I was driving my girlfriends car down Harision Ave. in Rockford IL. at about 7:00 at night and saw a bright Orange light in the Sky it was gowing north east to south west. It looked just like the back taillights to a car, so i keeped glancing at it till it was out of sight wich was about 40 seconds . My girlfrend was with me but could not see the light, it happend to fast, and was up to high over the car on my side for her to see it.It did not blink, or made no sound.There was not many cars on the road, it was partily cloudy , and went straight, and fast, i think it was more like 15 or 20 seconds i absereved the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12047.html](http://www.nuforc.org/webreports/reports/012/S12047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
