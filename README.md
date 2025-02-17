@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>silent trianglesaw a pretty large silent hovering triangle went over me. thought it was a plane at first, but then i wondered if it was a UFO (as in from another race) and then it got all quiet on me (as if it heard my thoughts). kinda weirded me out. it had two white lights on the bottom of it in the center, and had other little lights on bottom. saw other quiet crafts flying too. maybe it wasn't anything, but maybe it wasn't not nothing...?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80108.html](http://www.nuforc.org/webreports/reports/080/S80108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Maple Ridge (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two Bright Orange Lights in Evening Sky.Around 8:30 pm Wednesdy evening, looking south-southeast, my wife noticed two bright orange objects moving slowly from east to west approximately 1 to 2 miles away from her at an approximate altitude of 2500 feet.  She called me to come and see what I could make of it and my two children aged 11 and 14 also came outside to witness the objects.  When I arrived outside one of the orange lights had suddenly just disappeared whereas the one remaining orange light slowly moved east and then very slowly faded away.  There were several (3) low flying aircraft also in the area during this event (Cessna variety), and at one point my wife stated that the two objects looked like they were attempting to follow the aircraft.  I had suggested that the two objects could have been homemade Chinese lanterns, as it is close to the Chinese New Year, but to be honest they did seem to be very strange.  Also while out walking with a neighbour today, my wife says that the neighbour saw the same lights, and that she does not think they were "chinese lanterns."  Anyhow thought I would post what we saw and see if anyone else had the same experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117377.html](http://www.nuforc.org/webreports/reports/117/S117377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
