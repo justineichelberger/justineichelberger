@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 17 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wigan (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange shape seen over  wigan, lancashirewhilst filling up my car with petrol my partner and i saw the shape on a completley cloudless evening sky, it made no sound and traveled west to east. when it got over the top of the roof of the petrol station it must of disapered. i managed to take a photo of it on my phone and on looking at the image i found a smaller round object following the shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62341.html](http://www.nuforc.org/webreports/reports/062/S62341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Barstow (aprox 35 mi west of, Mojave desert) (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Traveling East at aprox 30 mph at aprox 1000 ft altitude and aprox 1000 ft from me.Object was flat disk(like an Alka-Seltzer)with a globe on top.The globe would open about 45 degrees at aprox 5 sec intervals.The globe seemed to be internally illuminated.It was completely silent.The disk was aprox 20 ft in diameter and globe a little  smaller in circumference.The disk was a incredable rose color with with thin blue band circleing the top.(Disk was aprox 5 or 6 ft thick)The globe was a sort of honey-yellow-cream color.I have NEVER seen such beautiful colors.They were not bright but just a little brighter than photo-luminence.I tried to get it to stop,it ignored me completely.This object will haunt me forever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05767.html](http://www.nuforc.org/webreports/reports/005/S05767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162135.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162070.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162114.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162096.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
