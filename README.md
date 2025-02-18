@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Westbury (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It appeared over the house  Across from my boyfriends.... bright red with bright lights in the center and around the bottom and it seem to be hovering and not moving also to the right it’s seem to have three flashes of light one red one right and one pill</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138858.html](http://www.nuforc.org/webreports/reports/138/S138858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hopelawn (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Green & red lights spinning, moving and flashingWhen I noticed it was a solid green light then it turned red.  Then it moved forward, then upward while turning green again, when it moved left it starting turning green & red, then it started spinning but it had 5 five lights on each side (while vertical).  On one side it was green on the other side it was red, as it was spinning it started flashing.  It began to move left then right, it stopped flashing, then it was green and red on each side while spinning motionless.  As it stared going back up the 5 lights became all red, it stopped for short moment then it disappeared.  This is not the first time that this as occurred, the last time about a month ago me, my girlfriend, and her daughter seen it around the same area.((NUFORC Note:  We suspect the object might have been a star, although the witness believes that it was not a star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117378.html](http://www.nuforc.org/webreports/reports/117/S117378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
