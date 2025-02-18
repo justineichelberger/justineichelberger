@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hopelawn (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Green & red lights spinning, moving and flashingWhen I noticed it was a solid green light then it turned red.  Then it moved forward, then upward while turning green again, when it moved left it starting turning green & red, then it started spinning but it had 5 five lights on each side (while vertical).  On one side it was green on the other side it was red, as it was spinning it started flashing.  It began to move left then right, it stopped flashing, then it was green and red on each side while spinning motionless.  As it stared going back up the 5 lights became all red, it stopped for short moment then it disappeared.  This is not the first time that this as occurred, the last time about a month ago me, my girlfriend, and her daughter seen it around the same area.((NUFORC Note:  We suspect the object might have been a star, although the witness believes that it was not a star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117378.html](http://www.nuforc.org/webreports/reports/117/S117378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two bright lights racing across the clear blue skyTwo bright white "dots" racing across the sky from west to east. It was a clear blue sky day, a cold front had just passed through the day before. I observed two bright dots and raised my Nikon D300 to photograph it. I had just finished shooting my late Uncle and his roadster car outside and glanced up to see the dots racing across the sky. The lens I had on the camera was not a telephoto, so the focal length was not ideal, and I did not have time to change lenses. I just shot the picture and looked at it later on the computer. I will email jpeg photo to your email address below.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163505.html](http://www.nuforc.org/webreports/reports/163/S163505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
