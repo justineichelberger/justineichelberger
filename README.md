@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Portage County (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object crossed over Highway I-76, Heading Northeast about 100 feet off the ground. The object moved very slowly, to slow for an airplane. Had 4 bright "headlights" on the front, but insted of pointing ahead, they pointed down in a 45 degree angle. One red light "not flashing" set centered between the two inner most lights.On Feb. 18 at about 11:30 pm, I was traveling west on I-76 in N.E. Ohio, While crossing over Lake Milton in the portage county area, I noticed 4 bright lights slowly moving across the sky at a low altitude for this area. At first I thought it was a plane, but this did not more at a speed that a plane would fly. It was about 100+ feet off the ground, I thought it was going to crash into the lake. I watched this craft for about 2 minutes, as it hung over the highway. It WAS moving but much to slow.  I got on the cb and asked if anyone else could make out what it was, everyone else said either they did not know, or that it was a plane. But no one could actually see the shape of the craft. It was to dark outside and the lights were to bright to make out any shape. One of the truckdrivers said that there was a military airport just north of us, but I live in this area. The base IS north of us, but it is not close enough for aircraft to fly this low. The 4 lights on the front of this craft were pointing down in a 45 degree angle to the flight path of the craft. I looked for other lights that would prove it was an airplane. I saw 1 red light directly center of the 4 "headlights" But it was not flashing, just glowing. Unfortunatly I could not stop to watch the craft or see where it would have went. No one else could tell where it had went to either. One driver made the comment that "he thought it was going to land on his truck" this craft made no noticable noise (what I could here from inside my truck) and did not seem to displace any air at the low altitude it was flying. Mr. Davenport, I dismissed this as an airplane, possibly military. However after listening to you on Art Bells show on Feb. 19th. I found myself second guessing what I saw. One of the ladies, that you had interviewed and replayed on the show, described what I had seen almost to a tee!  Now I am wondering just what I really saw. I know my experiance only lasted but a few short minutes, but it felt like many minutes longer. This is not far from Trumble county or from the Pennsilvania State line. Thanks for taking the time to listen. What ever it was!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05656.html](http://www.nuforc.org/webreports/reports/005/S05656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White TriangleI was taking picture of high flying airliner with a Casio Exilim which is very hard to point and get a picture of what you want in daylight. I loaded picture onto computer so I could see better what I had taken. What I found was a white shaped triangle going the opposite direction of airliner.I did not notice anything but the airliner when I took the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69078.html](http://www.nuforc.org/webreports/reports/069/S69078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
