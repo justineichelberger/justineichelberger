@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hays (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Moving, red, yellow, orange, blue, green dancing and blinking in the western sky near HaysAt approximately 7:45pm Sunday evening I was driving in my car in Hays going north on the dump road when I noticed a bright object (similiar) to a star in the western sky.  It was really bright and very low, I drove into my cousins driveway and told the occupants to look outside because I thought I saw a UFO or something.  One of the boys looked outside and said, "Oh yeah I see it, it might be a star." Then I left the house and continued to watch the object in the sky.  It kept changing colors to red, blue and yellow-orange.  I then picked my boyfriend up and I told him about the UFO. We went on the grade near Hays and parked there with our lights off and watched this object for 10 minutes.  It started to change and look like a fireball, changing colors again, red, blue and orange and a little blue green light came out of the right bottom side of it.  The object or fireball began to dance side to side up and down then it would stop and it started to grow larger. My boyfriend said, "You better start the car it looks like its coming toward us." The object started to come toward us as it moved back and forth.  It seemed to know that we were watching it, I started to get scared and started the car and when the lights came on in my car the object disappeared from view.  We then drove home and called friends in neighbors about the UFO.  Apparently alot of these objects or UFO's are sighted over Hays.  It was scarey!!!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55362.html](http://www.nuforc.org/webreports/reports/055/S55362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100, 6 anomalies from 0441 to 1541 hrs MT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139655.html](http://www.nuforc.org/webreports/reports/139/S139655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
