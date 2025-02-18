@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Kingston (RI) reported seeing craft that fit the description of some 'Flash' over a period of approximately Seconds?? - Seconds?? minutes.</sub><blockquote><sub>Man sitting in car is bathed in light from three very bright flashes of light, in rapid sequence.Adult male calls UFO Hotline to apprise us of the occurrence of three bright flashes, which illuminated the ground around his car.  He emphasized how bright they were.  It "was like lightning flashes," her reported, although no aural report was noted by the witness.The sky was clear, at the time of the event.  The time of the event is estimated.((NUFORC Note:  We encouraged the caller to submit a report, but he refused to do so.  Also, we encouraged him to contact the local news media, to investigate the cause of the event, but he declined interest in doing so.  If anyone has more information, we would welcome corroborating reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80117.html](http://www.nuforc.org/webreports/reports/080/S80117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Taking out the trash I saw an odd shaped object flying in a circular as well as zigzag pattern with no visible lights.  I wouldn’t have been able to see it except that light from the moon and presumably town was reflecting off of it.  At first glance I thought geese, but it moved extremely fast, made no noise, and was erratic in movement before making a half circle and disappearing.  I wasn’t able to get a handle on the exact shape, but it had what looked like scoop or spoon-ish protrusions (thick antenna?  Not wings) that made it look somewhat triangular.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132690.html](http://www.nuforc.org/webreports/reports/132/S132690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
