@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White TriangleI was taking picture of high flying airliner with a Casio Exilim which is very hard to point and get a picture of what you want in daylight. I loaded picture onto computer so I could see better what I had taken. What I found was a white shaped triangle going the opposite direction of airliner.I did not notice anything but the airliner when I took the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69078.html](http://www.nuforc.org/webreports/reports/069/S69078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Newland (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Ufo attacked by jetIt was daylight.  I glanced out the window and noticed the craft hovering over a large mountain.  It was oval shaped, and a dull gray color, but still shiny.  I watched for about 5 minutes, the grabbed some binoculars to get a closer look. I looked for about a minute and then I clearly saw a fighter jet (probably an F-15) circling around it, as if it wanted to shoot the craft down.  After that the craft slowly hovered up into the sky and out of sight.((NUFORC Note:  Witness indicates that date of sighting is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43223.html](http://www.nuforc.org/webreports/reports/043/S43223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
