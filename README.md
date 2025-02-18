@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:40 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver Cylinder over Cape Canaveral, FlDATE:  18 Feb 14 LOCATION:  Cape Canaveral, Fl TIME:  1050 hrs.WEATHER CONDITIONS:  Clear and sunny.  70’s.	At approximately 1050 hrs on 18 Feb 14, a friend and I were walking north at the intersection of Poinsettia Avenue and Jackson Avenue in Cape Canaveral, Fl.  I look northward in the sky and observed a cylindrical shaped object expelling smoke from its aft end.  The object then did a loop while trailing smoke and I could hear a low rumble similar to that made by rockets ascending from Canaveral Air Station.  At first, I thought it might have been a malfunctioning rocket, but this incident was occurring to far west of the beach where the rockets are usually launched.  Another indicator that this was not a rocket was that there were 2 high altitude commercial jets flying north to south with one being directly above the object.  The airspace is cleared of all traffic before rocket launches.  After coming out of the loop, the object ceased emitting smoke and travelled west at a high rate of speed before either disappearing or turning due north.  When the object was travelling westerly, it looked like a silver cylinder tapered at both ends.  I could also see what appeared to be dark “portholes” on the side.  I could not see wings or tail fins.	At approximately 1100 hrs, I heard the low rumble again and found another dissipating white smoke loop to the northwest, but could not see the object this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107249.html](http://www.nuforc.org/webreports/reports/107/S107249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Natchez (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I walked out to empty the trash.  Looked up in the sky because I saw a flash.  And there was this enormous triangle shaped craft hovering over my house.  I was scared and amazed at the same time.  I could not move. I'm quite sure someone else saw it as well.  It was so close that I can draw every single detail by memory.  It slowly moved upward until out of site.  I don't know what happened that night, but I can still fill presence for some reason.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139580.html](http://www.nuforc.org/webreports/reports/139/S139580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
