@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100, 6 anomalies from 0441 to 1541 hrs MT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139655.html](http://www.nuforc.org/webreports/reports/139/S139655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Silverdale (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>black flying object seen flying over silverdale WAflying object seen over city, range unknown, altitude unknown, traveled across sky at aproximatly 2 degrees a second from view point at aproximately 25 degrees azmuth, object was black, silent, and seemed to wobble/nutate while in flight, reflections noted when passing by. object exited area heading E by SE. trajectory not cosistant with "weather balloon, and not comprised of light nor swamp gas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49187.html](http://www.nuforc.org/webreports/reports/049/S49187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
