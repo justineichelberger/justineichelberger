@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:02:35 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Toney (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>UFO sighting in hazel green, Toney, Alabama.I was taking a walk when i looked up and noticed a ufo approaching me overhead about tree line.  Then there were bright lights that were shown down in a column shape.  The light shown directly on me for quite awhile.  And then it started moving away shinning its light all over the ground in all directions.  It made absolutely no noise as it moved away. The center under ufo was very bright.  I was very scared and got on my knees and prayed before it started moving away.  It headed in a northerly direction.((NUFORC Note:  Witness elects to provide no contact information.  We suspect that the sighting may have during the evening, not the morning.  We have amended the time above, to reflect a sighting at 20:15 hrs. on February 18, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107240.html](http://www.nuforc.org/webreports/reports/107/S107240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Westbury (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It appeared over the house  Across from my boyfriends.... bright red with bright lights in the center and around the bottom and it seem to be hovering and not moving also to the right it’s seem to have three flashes of light one red one right and one pill</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138858.html](http://www.nuforc.org/webreports/reports/138/S138858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
