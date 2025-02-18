@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cannock (UK/England) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flying Egg over Morrisons Cannock!!Flying blue egg appeared and slowly flew over Morrisons.((NUFORC Note:  Witness provides no contact information, so we are unable to request a more-detailed report.  We have changed the time of the sighting, to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117367.html](http://www.nuforc.org/webreports/reports/117/S117367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Andover (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Blue ovallish object stationary in the sky and then bolts across the horizon.It was probably around ten O'clock and my mother and I were driving home on a winding road in a wooded area.  We came around a bend and there was an object in a fixed position in the sky that seemed to simply be hovering there.  It was blue and ovalish and seemed almsot liquid like as the colors seemed to ebb and flow. As we continued along the road I watched it and as we passed almost directly under it, it zipped across the horizon at an unfathomable speed and was gone.  I looked at my mom and asked her if she had seen if and she said she had.  The article about the Chicago O'hare UFO sighting reminded me of this because the description was almost exact except for the color (though they saw it at dusk which could account for the discrepancy). Anyway, I have no idea what it was or could be, but do find it interesting each time I recognize descriptions of similar phenomena.((NUFORC Note:  Source of information elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  We presume that the source of the report implies a daytime sighting, so we have assigned a time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54804.html](http://www.nuforc.org/webreports/reports/054/S54804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
