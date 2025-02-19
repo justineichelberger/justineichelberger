@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:23 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in McHenry (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>BLACK TRIANGLE SPOTTED MCHENRY ILTRIANGLE CRAFT SILENT MOVING ALONG FOX RIVER .. NO LIGHTS..  BUT LIKE A ORB WITH A RING ON BOTTTOM OF TRIANGLE FUZZY LIGHT EMITTING .. MOVED FROM AREA VERY FAST..  VERY LOW FLYING. MAYBE 500 FT? I WATCHED UNTIL IT WAS GONE.. COLOR DARK OR BLACK. A SHORT TIME LATER ( 1-2 MINUTES) SOME PLANES (2) FLEW BY VERY CLOSE TO EACH OTHER GOING REALLY FAST..  STAYED OUT ALL NIGHT ON DOCK HOPING IT WOULD COME BACK.. DID NOT NOTIFY AUTHORITIES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68935.html](http://www.nuforc.org/webreports/reports/068/S68935.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Forest Hill (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My husband and I finally had a night to ourselves while the kids were at their grandparents; house.  We both love to star gaze and decided to do so after leaving a friend's house.  We drove to our favorite secluded spot almost exactly one mile from our home.  Upon arriving, we turned off the truck and headlights.  We immediately noticed a green light about 2 and a half to 3 feet above the ground.  We both noticed after a few seconds that it was moving.  It was moving in such a way that it looked like it was a bobble head.  The terrain in this field is bumpy and could be an explanation for this movement.  Anyhow, we keep watching in awe at this green light moving.  It made no noises at all.  We then notice that it's moving toward us.  I immediately get freaked out and want to leave.  My husband who is more curious than I am, decides to get out his spotlight to shine on this green orb light to see what it is.  Oddly, when he shines his bright spotlight on it, it starts re! tracting.  Still looking "bobbily".   We know that it was retracting because the light was getting smaller and you could visibly tell it was moving backwards.  He stops shining the light on it and it would start coming back towards us.  It was like this green light was "scared" of the bright spotlight. He did this off and on for about 10 minutes.  While we were sitting there his truck dash lights and headlights flickered a few times and it made a clicking sound when the lights flashed.  The truck was off and had been off since we pulled up.  Before I could convince him to leave he took pictures of the green light.  We left. We returned at daylight and could see these very narrow tracks in the same spot we saw this light.  I will also add that there are no houses within 200 yards either way where this light was.  There were also no vehicles or other people around.  I also want to add to this that the reason I wanted to leave after shortly arriving is because I felt t! hreatened some how by this green orb light.  I felt as if we we! re tresp assing on its territory.  We haven't told many people but the ones we have told ask if we reported it to MUFON.  We had been skeptical about reporting it, but decided we should go ahead with a report.  I have a few pictures I want to submit with my report.  I am just wondering if anyone else has experienced this or if anyone has a logical explanation that we have not already considered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131515.html](http://www.nuforc.org/webreports/reports/131/S131515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
