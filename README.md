@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:09 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>cylinder shapei saw this big huge aircraft or something grey with bright white lights on it and it went over uncle peet's house my friend next door neighbor his house and it flew slowly i never seen anything like it it went right over his house i saw it from laying on my bed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99629.html](http://www.nuforc.org/webreports/reports/099/S99629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was taking my two dogs out for the last time in a lightly tree covered dog run behind my apartment complex garages when I saw a giant almost square blue flash. It was amazing, It appeared to the west and looked very close to my location. I could not see the bottom of the flash because of the garage impeding my view. The size of the flash was amazing, It was easily the size of a small house.There was dead silence and my two dogs did not react at all. I used to be a fireman and have seen my fair share of transformers exploding and other such events. This was completely new to me. No power was out anywhere that I could tell in the apartment complex or the housing division behind it. I have never seen anything like this in my life.The color was almost a purple blue with what could have been a trick of the eye a reddish border. It flashed like lightning but always seemed to be solid never blinking out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74416.html](http://www.nuforc.org/webreports/reports/074/S74416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
