@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 18 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendale Heights (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oservation of a craft that stopped and changed direction a a very high speed multiple times.Grilling on my deck I observed what appeared to be an aircraft in the eastern sky in a regular pattern I have seen for decades where I live.It displayed a flashing white light.  I noticed a red light appear and then the craft stopped suddenly,  It then changed direction to the north and sped up to a much higher speed.  It then stopped and changed course suddenly again and continued north.  I walked through my house and walked out the north entrance door.  The aircraft was moving north where it stopped at some point and dropped at a high speed until other homes were blocking its view.  I have never seen anything like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132692.html](http://www.nuforc.org/webreports/reports/132/S132692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Esko (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was letting my dogs back in from outside, and suddenly noticed something moving.  At first I thought it was an airplane, but clearly wasn't.  It was moving and suddenly stopped and just sat in the sky for about 20 minutes.  It was bright and had blinking lights of color? Like some red, blue, and green.  Then would kinda move slowly back and fourth and in different directions.  Me and my dad were watching it with a telescope as well.  Eventually after about 20/25 minutes, it's suddenly just left and quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125970.html](http://www.nuforc.org/webreports/reports/125/S125970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162117.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162156.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162165.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162109.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162107.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
