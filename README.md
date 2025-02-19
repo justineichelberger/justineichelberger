@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gainesville (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My Boyfriend and I have been seen an Object North of us.There is Fields and cattle that direction.We see this object off and on for a while now.It appears to be triangle shaped.  It has no sound.We watched it ascend.  Far distance it will look almost like a star.But it's big and bright.Last week as we was watching it.  While it was Ascending.Traffic was coming down the road.The object turned it's lights out.  As if it was only meant for us to see it.And we didn't see it again.  That night.  I'm sure we will see it again.I have photo's of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126067.html](http://www.nuforc.org/webreports/reports/126/S126067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Atchison (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Object appeared to be at extremely high altitude moving from north to south without sound and at 2500+ mph.  I could see it moving south for about 15 miles in less than 10 seconds then suddenly taking abrupt right turn heading west and disappearing from view in 2-3 seconds.  It had one visible non flashing dim white light as it approached and two dim red lights as it flew west and vanished.  Appeared to be flying near outer space.  Sharp west turn seemed impossible for piloted flight within earths atmosphere at the incredible speed object was traveling.  I guess it to be some type of space survellance craft because no sound detected.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132739.html](http://www.nuforc.org/webreports/reports/132/S132739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
