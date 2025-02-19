@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in South Dennis (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was out on my deck at 10pm looking at stars in southeastern, coastal Massachusetts (Cape Cod).  Noticed that a few dogs in my neighborhood started barking, which I thought was weird.  Looking north, I saw 2 round, cherry red spheres in what looked like a rhythmic dance.  It was beautiful.  The only color was cherry red, & there was a slow, rhythmic, pulse to the light.One I could see clearly outside the edges of a big tree that was blocking the sky.  The other I could see through the branches of the tree.  They did this rhythmic dance, like 1 went up & the other went down.  Then they'd come back close, then swirl around slowly. I watched this for 20 minutes, transfixed.  Then one turned & slowly went northeast, towards the ocean & lower Cape.  The other turned left & proceeded southwest, towards Yarmouth.  Both had that rhythmic, slow pulsing, cherry red light.  The one heading towards Yarmouth I observed until it disappeared at 1030 pm, when I came in & immediately wanted to make this report.Size wise, when I came in, I looked for something to compare it to.  Only thing I can compare them to is maybe the size of a small pea.It was beautiful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132719.html](http://www.nuforc.org/webreports/reports/132/S132719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Caimanes (Chile) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>a star-like body that moved very rapidly across a long distanceWe were star watching as we had done for many nights.  We saw an object that looked bigger than a typical star.  It suddenly moved a very long distance very quickly.  It then disappeared and reappeared five seconds later in its previous position.  It did this two times. Other witnesses saw the same phenomenon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05787.html](http://www.nuforc.org/webreports/reports/005/S05787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
