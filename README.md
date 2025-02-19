@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>very high green fireball very high velocityI went outside to smoke a cigarette two nights ago. I walked up the steps of my apartment and looked up. I sparked the cigarette then looked back up at all the constellations. It gets dark enough here to where you can see the Milky Way galaxy... so yeah, there are LOTS of stars of every color in the spectrum... compared to Miami at least. Earlier in the night I was out with my laptop on Stellarium just star gazing, it is a hobby of mine. The last time I reported a UFO everyone laughed at me and told me it was a satellite but this time I am certain that I didn't see a satellite. As I was looking up I noticed something fly really fast from above my apartment's roof. It traveled VERY fast across the sky but not as fast as shooting stars do. It was faster than any passenger jet I've ever seen. It shined with the intensity of Venus and flickered more than any star in the sky. But what made it different is that it was a brilliant green. Green on the rim and white in the center. It traveled across the sky and into the horizon in at least 15 seconds. It looked sort of like a roman candle or a flare shot going off but it was way to high to be either and traveled at a constant velocity. I don't know what to make of it so far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61767.html](http://www.nuforc.org/webreports/reports/061/S61767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Allentown (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>My wife and I had just gotten into bed for the evening. She was reading a book while I was on my phone. We start hearing a gradual pulsating hum. It started soft then started actually vibrating the house. I went to the window and pulled up the shade. At first I didn't see anything and then my wife pointed out for me to look to the west. If I were to take an educated guess I would say it was maybe half a mile away and only a few hundred feet up. It was at first just hovering there. I noticed the lights were solid, no blinking or flashing. I can only describe it as a grid like elongated rectangle with multiple squares in it. The squares were red and blue and no apparent pattern. It was disk like in shape and very dark. We were in disbelief. It then started moving eastward. The pulsating hum stopped when it started moving. It wasn't moving very fast but very steady in direction. I lost sight of it as it flew over the houses. I am in the military and I have neve! r seen any aircraft like it. We didn't know what to think after it flew away. I couldn't sleep, I tossed and turned all night. Today while at work I kept thinking I had to tell someone about this. And MUFON is the most respected UFO reporting agency so I had to share my experience with you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156461.html](http://www.nuforc.org/webreports/reports/156/S156461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
