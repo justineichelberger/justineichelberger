@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:30 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Esko (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was letting my dogs back in from outside, and suddenly noticed something moving.  At first I thought it was an airplane, but clearly wasn't.  It was moving and suddenly stopped and just sat in the sky for about 20 minutes.  It was bright and had blinking lights of color? Like some red, blue, and green.  Then would kinda move slowly back and fourth and in different directions.  Me and my dad were watching it with a telescope as well.  Eventually after about 20/25 minutes, it's suddenly just left and quickly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125970.html](http://www.nuforc.org/webreports/reports/125/S125970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Madisonville (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was on tchefuncte river and three orange lights with one red blinking in formation but got over town you can see the silhouette of one large craft, the size of an aircraft carrier if not bigger.  After flying over the town, watch it fly over the swamp heading towards bedico, Ponchatoula area.  No noise whatsoever coming out oc this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125978.html](http://www.nuforc.org/webreports/reports/125/S125978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
