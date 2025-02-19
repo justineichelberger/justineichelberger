@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vienna (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light that began to dim, it was rotating and flashing orange, yellow and red colors then picked up speed and it was gone.Driving down the road, I noticed a big glowing light.  I watched the light cause I have never seen such a big bright light like that in the sky before.  It was very dark outside, and as I watched this light get closer it began to dim.  It was now behind us and you could see it rotationg with orange, yellow, and red lights flashing and moving on this object.   As it began to move into the distance it picked up speed, and it was gone within 6-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87368.html](http://www.nuforc.org/webreports/reports/087/S87368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clinton (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two strange  orange lights in the sky, unattached from each other, no soundOn the way to the move store with my 11 year old son and his friend I thought I saw helicopter lights and wondered if someone was being airlifted to Iowa City from the hospital.  The lights came close to right above our van and I rolled down the windows thinking I would hear the helicopter but there was no sound.  We pulling into the movie store parking lot and they were directly above us, again no sound, very orange round lights, one each, they seemed super super close above us, I thought the two lights were attached but one light stayed directly above us and the other moved north which was freaky, then would stop like it was waiting, then continued to move north again.  Two men in a car came bouncing into the parking lot at a high rate of speed, jumped out and said are you seeing what we are seeing I said yes, I can’t believe it, no idea what it is.  They thought it was very strange that there was no sound what-so-ever too.  Shortly after the two men arrived ! the second orange light moved north/west and finally disappeared from our site. I’m still kind of in disarray, still in shock wondering what these lights really were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87273.html](http://www.nuforc.org/webreports/reports/087/S87273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
