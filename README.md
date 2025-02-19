@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Atchison (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Object appeared to be at extremely high altitude moving from north to south without sound and at 2500+ mph.  I could see it moving south for about 15 miles in less than 10 seconds then suddenly taking abrupt right turn heading west and disappearing from view in 2-3 seconds.  It had one visible non flashing dim white light as it approached and two dim red lights as it flew west and vanished.  Appeared to be flying near outer space.  Sharp west turn seemed impossible for piloted flight within earths atmosphere at the incredible speed object was traveling.  I guess it to be some type of space survellance craft because no sound detected.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132739.html](http://www.nuforc.org/webreports/reports/132/S132739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>very high green fireball very high velocityI went outside to smoke a cigarette two nights ago. I walked up the steps of my apartment and looked up. I sparked the cigarette then looked back up at all the constellations. It gets dark enough here to where you can see the Milky Way galaxy... so yeah, there are LOTS of stars of every color in the spectrum... compared to Miami at least. Earlier in the night I was out with my laptop on Stellarium just star gazing, it is a hobby of mine. The last time I reported a UFO everyone laughed at me and told me it was a satellite but this time I am certain that I didn't see a satellite. As I was looking up I noticed something fly really fast from above my apartment's roof. It traveled VERY fast across the sky but not as fast as shooting stars do. It was faster than any passenger jet I've ever seen. It shined with the intensity of Venus and flickered more than any star in the sky. But what made it different is that it was a brilliant green. Green on the rim and white in the center. It traveled across the sky and into the horizon in at least 15 seconds. It looked sort of like a roman candle or a flare shot going off but it was way to high to be either and traveled at a constant velocity. I don't know what to make of it so far.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61767.html](http://www.nuforc.org/webreports/reports/061/S61767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
