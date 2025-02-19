@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On February 19 at around 16:00 hrs, my son and i were walking home from the store when my son stopped and pointed at what looked like contrails in the south west sky.  I looked up to see three contrails, that looked like thy where going strait up from the ground. And moving vary fast. We stood there looking for about 2mins when we seen what looked like three explosions in the upper atmosphere, at this point the contrails stopped both my son and I gasped when we seen what looked like a large black round ball hanging in the air just above the explosions. The black ball then seems to go strait up and totally out of site. My son looked at me and said I wish we had a camcorder to catch that, I said to him when I get home ill call the police to see if there was a plain collision to try to explain it. So when I got home I did just that the officer that I was talking to said there was no plain crashes or collisions at that time. But there was to be a meteor shower that day and that is what We must have seen, I know in my hart and my son to that what we seen was no meteor shower that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57537.html](http://www.nuforc.org/webreports/reports/057/S57537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 lights appeared right in front of airplane I was watching in the sky.  They were close together, then moved apart and further from airplane as it passed by them, then 5 more lights appeared.  One larger with a smaller light on opposite sides, another one a little smaller and  the rest same size as the first 2.  They moved in regards to each other a little, didn't make a symmetrical formation, flew from north-west to south-east at steady speed.  I ran home to get the camera, when I got back, they disappeared except 1 small one.  It disappeared within a minute or so.  I didn't get a good shot.  :(</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132707.html](http://www.nuforc.org/webreports/reports/132/S132707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
