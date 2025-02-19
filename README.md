@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7 lights moving across the skySeven lights that were the size of stars were moving at a very high altitude in a single-file line, moving from west to east at a very high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162159.html](http://www.nuforc.org/webreports/reports/162/S162159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vienna (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light that began to dim, it was rotating and flashing orange, yellow and red colors then picked up speed and it was gone.Driving down the road, I noticed a big glowing light.  I watched the light cause I have never seen such a big bright light like that in the sky before.  It was very dark outside, and as I watched this light get closer it began to dim.  It was now behind us and you could see it rotationg with orange, yellow, and red lights flashing and moving on this object.   As it began to move into the distance it picked up speed, and it was gone within 6-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87368.html](http://www.nuforc.org/webreports/reports/087/S87368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
