@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:33 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Caimanes (Chile) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>a star-like body that moved very rapidly across a long distanceWe were star watching as we had done for many nights.  We saw an object that looked bigger than a typical star.  It suddenly moved a very long distance very quickly.  It then disappeared and reappeared five seconds later in its previous position.  It did this two times. Other witnesses saw the same phenomenon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05787.html](http://www.nuforc.org/webreports/reports/005/S05787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Turnersville (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw 2 cigar shaped aircraft with 2 bright lights on one side and one red light on the other side. I have been seeing these craft in the woods next to my home for several weeks. It started 1-28-08. They fly over my home above the tree line. Then they seem to turn sideways and hover then go down in the trees. My daughter and I have also experiences strange occurrences around our home. A dead bird on our porch that looked like it and a branch fell of a tree , but in was under our awning. Also a bright flash of light in our kitchen, it came in thru a crack in the curtains. Dimming of the lights in our home at night. I also caught on tape lights on the side of our neighbors house. One red light in the trees, a purple/blue light on the ground next to their house and other phenomena. It has increased in intensity over the weeks. Started with me seeing blinking lights in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61752.html](http://www.nuforc.org/webreports/reports/061/S61752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
