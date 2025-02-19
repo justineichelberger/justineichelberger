@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Clinton (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two strange  orange lights in the sky, unattached from each other, no soundOn the way to the move store with my 11 year old son and his friend I thought I saw helicopter lights and wondered if someone was being airlifted to Iowa City from the hospital.  The lights came close to right above our van and I rolled down the windows thinking I would hear the helicopter but there was no sound.  We pulling into the movie store parking lot and they were directly above us, again no sound, very orange round lights, one each, they seemed super super close above us, I thought the two lights were attached but one light stayed directly above us and the other moved north which was freaky, then would stop like it was waiting, then continued to move north again.  Two men in a car came bouncing into the parking lot at a high rate of speed, jumped out and said are you seeing what we are seeing I said yes, I can’t believe it, no idea what it is.  They thought it was very strange that there was no sound what-so-ever too.  Shortly after the two men arrived ! the second orange light moved north/west and finally disappeared from our site. I’m still kind of in disarray, still in shock wondering what these lights really were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87273.html](http://www.nuforc.org/webreports/reports/087/S87273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My mom who was up late last night and  described an illumination very bright light from the sky which lit up her neighborhood all around her and surrounding houses.  She lives in the area of Adams and Candelaria,  what was so strange was there was no sound at all just very bright light (like you could work on your car out there).  Strange,  any ideas?  ps no choppers or police seen and no, it was not a police officer checking yards.  It came from the sky but total silence and very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107301.html](http://www.nuforc.org/webreports/reports/107/S107301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
