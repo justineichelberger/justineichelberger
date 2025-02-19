@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:31 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:09 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wilmington (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>i was driving down st rt 73 south three miles south of wilmington.i saw a black triangle ahead,just above the horizon.i saw another one to my right about the same altitude.They were both moving surprisingly slow,about the speed of a cruising jet.way too low in the sky for a jet. suddenly the first one just disappeared.the second on sped up so fast i was startled,very fast.so fast in fact,i had trouble keeping my eye on it. they were both moving south southeast.(partly cloudy day)as i said. black triangle shaped objects. from what i could tell no bigger than a small airplane. moved very fast.I only saw the second to my left move very fast. the first one disapeared in front of me. speed i estimate at about twice as fast as any aircraft i've ever seen. with them being so low in the sky it's hard to estimate speed. what caught my attention was how fast it sped up. from slow to very fast instantly.no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12065.html](http://www.nuforc.org/webreports/reports/012/S12065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>cylinder shapei saw this big huge aircraft or something grey with bright white lights on it and it went over uncle peet's house my friend next door neighbor his house and it flew slowly i never seen anything like it it went right over his house i saw it from laying on my bed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99629.html](http://www.nuforc.org/webreports/reports/099/S99629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
