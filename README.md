@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 19 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Quick flash of  white light near Erydan near Rigel  below  Orions Belta single brite lite/flash in close proximity to the Star Erydan near Rigel in Orions Belt</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80162.html](http://www.nuforc.org/webreports/reports/080/S80162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7 lights moving across the skySeven lights that were the size of stars were moving at a very high altitude in a single-file line, moving from west to east at a very high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162159.html](http://www.nuforc.org/webreports/reports/162/S162159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162139.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162159.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162158.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162161.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162136.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
