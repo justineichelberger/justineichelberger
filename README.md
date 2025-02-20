@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:43 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:04:16 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Athens (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Witnessed silvery white cylinder travel across sky and then vanish.I am employed by the ((deleted)) Corporation as a HVAC service engineer and systems specialist with 35 years of feild experiance. The sky was bright and clear with high wispy clouds.I was on the roof of"O"Bliness Memorial Hospital in Athens Ohio working on a large water chiller.Out of the corner of my eye i noticed a silvery white object moving slowly across the sky directly overhead.At first I though it was a jumbo jet but on closer observation it was cynlindrical in shape.There were no wings,tail assembly,contrail or sound. At mid point on either side of the body was a half circle of light grey hase that was tranparent to the bright sky.A wedge shaped area of the same colored hase was at the posterior end of the cylinder.It was moving East to West in a dead straight line.I observed it for approximately 30 sscs. to 1 plus minutes across a 20 degrees arc of sky,horizon to horizon.I carry a small 6 in. pocket rule.While holding it at arms length above my head I measured the body at approximately 1 inch long.While taking this measurement the cylinder vanished!Its altitude could have been 3,000 to 6,000 feet. Not knowing the real length of the object makes it hard to judge its true height. Sincerly GENE BREWER (feild investigator in training) RUFOS of Circleville,Ohio.((NUFORC note:  We leave the individual's name and contact information in the report, since he is an official UFO investigator-in-training.  We allow investigators to include their personal information, such that any other witnesses to this event will be able to contact them, and also to credit the source of the report.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12107.html](http://www.nuforc.org/webreports/reports/012/S12107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>triangle shape w/lights kinda transparent with fluid movementWhile observing the lunar eclipse on the night of February 20, 2008 with a neighbor,  we witnessed an object moving  directly above and south of us. The object appeared  to be a triangle shape kinda transparent moving slowly fluid like in a south and slightly westward direction . It appeared to be low the size of 20 to 30 feet across and 15 feet to the point with about 15 soft red lights along the back, the lights did not blink but moved or softly waved with the entire craft kinda fluid like, similar to a  a jelly fish's appearance and movement (not shape). We had the opportunity to witness this with binoculars as well as unaided sight it is hard to say the size but we lost sight of it as it went over the neighbors house .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61913.html](http://www.nuforc.org/webreports/reports/061/S61913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
