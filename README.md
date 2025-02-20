@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Retired Sandia Labs. engineer calls seeking plans for building UFO detector.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00186.html](http://www.nuforc.org/webreports/reports/000/S00186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kerrville (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Long white light was stationary, then turned bright orange and moved like a comet, then became round and glowed orange while remaining stationaryWe were driving down a country road. Ilooked up and saw a long vertical white glowing light. I thought it was just a sliver of the moon peeking through or even the tail of an aircraft. Then it began to move slowly and suddenly turned bright orange and began moving through the sky like a comet not really too fast though. I had my Mom pull over so I could take some video. As we stopped the object became stationary again but still glowed bright orange. I was able to get this on video. Then it just seemed to move further away until we could no longer see it. I am a very rational person, I also work in the aviation business and I know this was no type of aircraft.  I want to know if anyone else saw this object. I also want to know if anyone would be interested in the video I took since it is actually a very clear view of the object. What should I do with this info?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03229.html](http://www.nuforc.org/webreports/reports/003/S03229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
