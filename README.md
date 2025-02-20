@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:18 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Voorhees (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright objects hovering over Flyers Skaye Zone in Voorhees.Bright Orange sphere shape object Hovering slowly down behind the Voorhees Flyers Skate Zone. Looked like the Phoenix lights but more solemly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55377.html](http://www.nuforc.org/webreports/reports/055/S55377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was driving away from the airport area on I-275. As I'm approaching the I4 junction I witness about 15 warm hazy orange glowing orbs in the sky about 50 feet above and about five streets away from the interstate. Some orbs seemed closer to each other than others. They were all about the same height, and they were hovering. I got off the nearest exit and tried to keep my.eye on one. As I'm driving I also witness other people walking and pointing up at the sky. I feel relieved I'm not the only one finding these lights strange. I follow the light as it dims out and disappears, and when I can park, I see no signs of the other lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162189.html](http://www.nuforc.org/webreports/reports/162/S162189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
