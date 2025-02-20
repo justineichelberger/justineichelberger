@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Porterville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange lights turn into slow moving saucer shaped object in the night sky.At 9:00 my daughter and I went out for our evening walk and had been walking for about an hour when we came back to my house.  We were standing at the end of my drive looking at the stars when my daughter pointed out what at first looked like a bright orange fire ball but it was quite a ways away.  At first it was sitting in the same spot but after a few minutes it started moving in our direction which would have been north.  It moved very slow and as we watched the lights started flashing.  We watched to see if it was an airplane but it did not look like an airplane as there were no red lights and the lights that were on it had started flashing and seemed to be moving around the object.  The object was nearly over us and it slanted as it turned and the top of the object had what I can only describe as a dome.  It then began moving faster and as it went over us we could see the lights that were orange and moved around the outside of the object.  It never got! close to us or close to the ground but close enough that we could see the lights and the dome.  Finally after about 15 minutes of watching the object sped up and we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107339.html](http://www.nuforc.org/webreports/reports/107/S107339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Barnstable (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>2 bright lights moving and a gold bright light also moving positions. Thety have been around 2 days.February 19, 2012 I was outside and notice to very bright lights close by my home. Later that night around 9:00pm the lights had moved but were still present.  One light had a gold color and the others were bright lighs with flashing red lights.  I thought maybe I was not correct and possible it was a star.  The next night February, 20, 2012 I went outside and the two bright lights were close together and very close by my home.  The Other light that was a gold color was up higher in the sky. Later that night I went outside to check and the lights that were close by were no longer there, and had moved directly in front of my home but higher in the sky.  I am not sure what it is called but there is a high post by my homw with three red lights.  The object was next to this rod with the red lights, I sat outside to see if this would move.  I watch it move away from the lights and lower itself. Later that night I came out again and the light b ut the pole was gone and t! he brioght gold light had moved as well.  These lights are not stars, I am not insane and what i saw was to me I believe UFO. I will be curious if they are back tonight again.  These lights have been lingering in this area now for two days/.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87288.html](http://www.nuforc.org/webreports/reports/087/S87288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
