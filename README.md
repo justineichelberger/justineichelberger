@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in High Springs (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The most weirdest thing I have ever saw with my own eyes in my life!Hello.  My name is ((name deleted)) and I really am not sure if I am doing this correctly, but I would like to share a sighting that my husband and I saw today.I am a resident of High Springs, Florida.   While I was driving this afternoon around noon, my husband and I were driving down 441 (thats the name of the road) we were heading to Gainesville to run errands and in the corner of my eye I saw this shiny object in the sky.  I asked my husband what that was and he was like I'm not sure, it may be an airplane, I said no Edward if a plane was down that low it would be bigger than that and it wouldn't be that shiny.  It wasn't a bird nor a place.  This object was like a frisby and it was shiny, may have been silver or white in color, it was at a stand still for about a min or so.  I had to pull over to see if I could get a better look at it, and by the time I pulled over it was gone.  There was no resiadue, smoke or any sort of trial behind it.  I believe what my husband and I saw was indeed a UFO of some sort.I am not one of those people that just go looking for these sort of things, but I know what I saw and it was nothing normal about it.  It was the strangest thing I've ever saw in my life!  I'm geting goosebumps and teary eyed just writing this to you.  Also, the sky was crystal clear, no clouds or anything.  Broad daylight and it was just plain as day!  Amazing! WOW! If you need to contact me you may do so.  Here is my information:  ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68832.html](http://www.nuforc.org/webreports/reports/068/S68832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>orange and redish lights off the coast of myrtle beachPulling into the blockbuster on 72nd ave, I got out of the car and my friend said something and yelled look. I turned to the moon becuase I thought the lunar eclipse was starting and he said no to the right and there were bursts of redish orange lights in very abnormal durations back and forth... Not sure what it could have been but it was over the ocean any help would be nice was very curious as to what it could have been. We thought it was that satelite, but got home and saw it hadnt been shot down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61736.html](http://www.nuforc.org/webreports/reports/061/S61736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
