@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:28 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Super large bright light moving at hypervelocity over TorontoMy niece and I had just returned from grocery shopping.   As we parked our vehicle in our driveway and stepped out we both noticed an extraordinarily large bright light in the sky just below the cloud ceiling.  The size of the UFO/light in relation to distance in the sky was larger than several passenger airplanes combined.We were facing due south and we looked up – it was approximately at 120 degrees angle (if 90 degrees is zenith).The light was already moving extremely quick, far faster than any airplane.  The best description of how bright the light was relates to the science experiments done in school when burning magnesium.  This light was not a flare, was consistently bright, did not have a chemical trail and left no sound/wake.As soon as we noticed the single, very large, bright light, it took approximately 1.5 seconds and it moved due south at a high velocity.  Within that 1.5 seconds it had moved from our position we noted to a point in the horizon we could no longer see – it had in essence disappeared.  The best description of the velocity is similar to watching either star wars or star trek when the ship moves to hyperdrive/warp speed.Yet, there was no sonic boom typical of high velocity aircraft.  The time of the incident was 6:15 pm according to our cell phones.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74434.html](http://www.nuforc.org/webreports/reports/074/S74434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three white steady lights and a strange whirring noise.Early morning, I am in the kitchen when I hear a strange whirring (not a helicopter sound) noise coming from outside. I looked out my livingroom window (facing north) and saw nothing until I looked up. I saw 3 bright steady (not flashing) white lights very low in the sky close to my house. It was dark and overcast but I got the impression I was looking at an airplane with a light at the direct underside tip of each wing and one light in the center of the craft. There were no other lights, flashing or colored which are on all the aircraft I have seen previous to this incident. The aircraft then rose quickly (and almost vertically) into the dark cloud cover.I am located close to DuPage Airport, O'Hare Airport, Midway Airport, Meigs Field, Argonne National Lab, and Fermilab. I notice all air traffic over my house and I have never seen or heard anything like I did that morning. I found this site after putting "three+white+lights"+"airplane" into a Google search. I'm not sure if what I saw was an UFO but whatever it was it wasn't the norm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27890.html](http://www.nuforc.org/webreports/reports/027/S27890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
