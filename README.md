@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:18 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was driving away from the airport area on I-275. As I'm approaching the I4 junction I witness about 15 warm hazy orange glowing orbs in the sky about 50 feet above and about five streets away from the interstate. Some orbs seemed closer to each other than others. They were all about the same height, and they were hovering. I got off the nearest exit and tried to keep my.eye on one. As I'm driving I also witness other people walking and pointing up at the sky. I feel relieved I'm not the only one finding these lights strange. I follow the light as it dims out and disappears, and when I can park, I see no signs of the other lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162189.html](http://www.nuforc.org/webreports/reports/162/S162189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Florence (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>at first i thought they were stars i was out side vidio taping my puppy because it was his first winter when i noticed that one star was moving at first i thought it was a star or even a plane but i turned the camra to it and as i was watching the thing just shot stright up and started getting bigger and then it started turning side ways and vanished then the another one  came and vanished to it might have been the same one i dont know but every word of it is true i have it on vidio.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27798.html](http://www.nuforc.org/webreports/reports/027/S27798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
