@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:04:16 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>triangle shape w/lights kinda transparent with fluid movementWhile observing the lunar eclipse on the night of February 20, 2008 with a neighbor,  we witnessed an object moving  directly above and south of us. The object appeared  to be a triangle shape kinda transparent moving slowly fluid like in a south and slightly westward direction . It appeared to be low the size of 20 to 30 feet across and 15 feet to the point with about 15 soft red lights along the back, the lights did not blink but moved or softly waved with the entire craft kinda fluid like, similar to a  a jelly fish's appearance and movement (not shape). We had the opportunity to witness this with binoculars as well as unaided sight it is hard to say the size but we lost sight of it as it went over the neighbors house .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61913.html](http://www.nuforc.org/webreports/reports/061/S61913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in High Springs (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The most weirdest thing I have ever saw with my own eyes in my life!Hello.  My name is ((name deleted)) and I really am not sure if I am doing this correctly, but I would like to share a sighting that my husband and I saw today.I am a resident of High Springs, Florida.   While I was driving this afternoon around noon, my husband and I were driving down 441 (thats the name of the road) we were heading to Gainesville to run errands and in the corner of my eye I saw this shiny object in the sky.  I asked my husband what that was and he was like I'm not sure, it may be an airplane, I said no Edward if a plane was down that low it would be bigger than that and it wouldn't be that shiny.  It wasn't a bird nor a place.  This object was like a frisby and it was shiny, may have been silver or white in color, it was at a stand still for about a min or so.  I had to pull over to see if I could get a better look at it, and by the time I pulled over it was gone.  There was no resiadue, smoke or any sort of trial behind it.  I believe what my husband and I saw was indeed a UFO of some sort.I am not one of those people that just go looking for these sort of things, but I know what I saw and it was nothing normal about it.  It was the strangest thing I've ever saw in my life!  I'm geting goosebumps and teary eyed just writing this to you.  Also, the sky was crystal clear, no clouds or anything.  Broad daylight and it was just plain as day!  Amazing! WOW! If you need to contact me you may do so.  Here is my information:  ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68832.html](http://www.nuforc.org/webreports/reports/068/S68832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
