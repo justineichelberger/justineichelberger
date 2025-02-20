@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright white lights that travel very smoothly across the skies and disappear slowlyThis is not a joke or a hoax...at night time you will see average of several lights in the sky that do not move like planes… You will see satellites but these lights sometimes make sharp turns and slowly disappear… I saw 3 travelling together in a triangular formation and one at a time disappeared and several minutes later saw a forth one that was very bright and as it continued travelling across the sky it disappeared right above us... they travel very high but you can tell that they are not satellites....I have had many of our friends witnessed these things...Just come to My Location and you will see them...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107293.html](http://www.nuforc.org/webreports/reports/107/S107293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Super large bright light moving at hypervelocity over TorontoMy niece and I had just returned from grocery shopping.   As we parked our vehicle in our driveway and stepped out we both noticed an extraordinarily large bright light in the sky just below the cloud ceiling.  The size of the UFO/light in relation to distance in the sky was larger than several passenger airplanes combined.We were facing due south and we looked up – it was approximately at 120 degrees angle (if 90 degrees is zenith).The light was already moving extremely quick, far faster than any airplane.  The best description of how bright the light was relates to the science experiments done in school when burning magnesium.  This light was not a flare, was consistently bright, did not have a chemical trail and left no sound/wake.As soon as we noticed the single, very large, bright light, it took approximately 1.5 seconds and it moved due south at a high velocity.  Within that 1.5 seconds it had moved from our position we noted to a point in the horizon we could no longer see – it had in essence disappeared.  The best description of the velocity is similar to watching either star wars or star trek when the ship moves to hyperdrive/warp speed.Yet, there was no sonic boom typical of high velocity aircraft.  The time of the incident was 6:15 pm according to our cell phones.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74434.html](http://www.nuforc.org/webreports/reports/074/S74434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
