@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:28 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three white steady lights and a strange whirring noise.Early morning, I am in the kitchen when I hear a strange whirring (not a helicopter sound) noise coming from outside. I looked out my livingroom window (facing north) and saw nothing until I looked up. I saw 3 bright steady (not flashing) white lights very low in the sky close to my house. It was dark and overcast but I got the impression I was looking at an airplane with a light at the direct underside tip of each wing and one light in the center of the craft. There were no other lights, flashing or colored which are on all the aircraft I have seen previous to this incident. The aircraft then rose quickly (and almost vertically) into the dark cloud cover.I am located close to DuPage Airport, O'Hare Airport, Midway Airport, Meigs Field, Argonne National Lab, and Fermilab. I notice all air traffic over my house and I have never seen or heard anything like I did that morning. I found this site after putting "three+white+lights"+"airplane" into a Google search. I'm not sure if what I saw was an UFO but whatever it was it wasn't the norm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27890.html](http://www.nuforc.org/webreports/reports/027/S27890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Chapleau (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 113</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139639.html](http://www.nuforc.org/webreports/reports/139/S139639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
