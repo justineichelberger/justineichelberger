@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 20 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>lights over san diego tijuana borderI had just gotten home about 21:40 sunday feb.20 . i had a few words with my brother. and i got a little angry and decided  i was going to jump in m truck n just drive off for a while.I got my keys n walked out the door towards my truck and immeiately noticed strange lights in the sky.i then just forgot about being angry and called my brother to come out to see the lights that seemed to be coming in our direction.When i first saw the lights there were three one seemed to be inthe front followed by two in close proximity to each other.As my brother was coming out of the house the leading light seemed to turn towards the south and seemed to fade at the same time and just disapeard. but as it started to turn and fade a fourth light appeared just to the left of the second and third lights my brother saw three lights but not the first one. they allseemed to follow each other in a slow movement.To me ithink they may have looked like some kind of flair. also the direction they were at was towards the otay airpot / "brown field" , but having lived here most of my life i know planes ddont fly in that pattern or altitude. the lights were a yellowish to amber in color and they just disappeared.My brother snaped a couple of shots blindly with his digital photo camera he could not  see anything on the screen as he aimed so i told him to just snap as he pointed towards the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80153.html](http://www.nuforc.org/webreports/reports/080/S80153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tupelo (MS) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>cylinder object seen in front of moon. after 10 sec slowly decending</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12079.html](http://www.nuforc.org/webreports/reports/012/S12079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [313](http://www.nuforc.org/webreports/reports/162/S162174.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162267.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162179.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162166.html)
-- [309](http://www.nuforc.org/webreports/reports/162/S162180.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
