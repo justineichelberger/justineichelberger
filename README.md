@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:35 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On Friday night I was driving to my friends house and noticed 5 orange balls in the air just over the tree line roughly 5-8 miles away from me.  I stopped my car and took one picture but by the time I could get my phone out 2 of the orange lights had disappeared.  There was a bit of a glare from the windshield so I ran up the street to get a better view and took a second picture.  By the time I had taken the second the balls had shifted position.  I immediately got back in the car and raced to my front ends house which was only about 2 minutes or less away from where I took the pictures.  As soon as I got to his house we ran upstairs and got onto his roof and there was nothing to be seen in the direction I saw them in (at this spot we were above the tree line so they would have been more visible).  I was unable to see any shape or an exact altitude of the objects but if I had to estimate i would guess they were around 5-6 thousand feet above the ground.  Upo! n looking at the pictures later I also noticed a rapidly buzzing gray spec that I could not see in the sky before but showed up on camera when I look at the live picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153559.html](http://www.nuforc.org/webreports/reports/153/S153559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Do Shooting Stars TURN? Longmont, Colorado, 02/21/2006,Last night as I was outside smoking, I thought I was observing a shooting star except when it should have been at the point of disappearing it turned and kept going. The object was heading north and when I expected "it"(shooting star) to burn out, it than turned to the East and continued until it was out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49242.html](http://www.nuforc.org/webreports/reports/049/S49242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
