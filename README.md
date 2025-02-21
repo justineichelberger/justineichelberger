@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Disk/Saucer in Nampa, Idaho.We were observing our back yard as we had seen a hovering orb for around a half hour sitting there.  We then made the choice to try to trace it's where about and drove, then gathering multiple photographs that were very incriminating and show the clear body of the craft as well as a sort of beam coming out of the bottom.The object also seemed to have hovered above a house for a brief period of time however we did not see if an abduction happened as we were a bit away and without the phone, it looked like a very bright orb.  A few times it would move extremely fast and then seem to vanish.  Only to show up again 10 minutes later.  The photos captured were very clear when zoomed in and show the craft almost completely clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132773.html](http://www.nuforc.org/webreports/reports/132/S132773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Browns Summit (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orange/red glowing lights in the shape of a triangle.About 935pm, I walked outside to let the dog out.  I looked up in the sky and saw 3 glowing red/orangish circles in a perfect triangle shape.  I tried to take a picture but my flash was on.  When I went to turn it off, a neighbor came pulling up fast.  He said "did you see that"!!!  The bottom right one disappeared very quickly going to the right.  It was like it flew right and quickly vanished.  During the confusing of us talking the others just kinda vanish.  After I came inside, needless to say, I was pretty shook up at what I had seen.  I immediately google what I saw and seen several pictures and logs of the exact thing I seen.  Pretty weird 1st time I've ever seen something like this before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117420.html](http://www.nuforc.org/webreports/reports/117/S117420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
