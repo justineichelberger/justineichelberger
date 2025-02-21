@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Somerset (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular lighted object spotted hovering in Pennsylvania.I was driving home from a friends home, and i saw bright blue lights in the sky. I pulled over because i knew it was not an airplane.  I looked up at it and it was going fairly fast, sideways.  It had a rectangular shape with about 4 or 5 rows of small rectangular lights. The lights were blinking vey fast.  The road I was on was coming down from a ski resort and there were not many homes around, just a few farms , and lots of fields. When I stopped to look at this object, it was hovered about a mile from the ground, and then it took off sideways again.  I could not tell where it went because it went so fast.I have had dreams about ufos but this was the first time I ever saw any.  I am sure of what i saw, my heart has never raced like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55408.html](http://www.nuforc.org/webreports/reports/055/S55408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Three Faint Oval Shaped Objects Flying In Apparent Formation At NightAt 11:42 PM EST February 21, 1977 while star gazing from the parking lot of my apartment building on N. Grant Street in Bloomington, Indiana I observed three faint elliptical objects of less apparent visual magnitude than the star Mizar in the constellation Ursa Major. At the time of observation I was attempting to set up my telescope to observe the Mizar visual binary star system in the handle of Ursa Major.While sighting down the length of my telescope to get an approximate "aim" at Mizar, I saw three faint gray oval objects cross the area that I was about to observe. The sighting was naked eye and lasted only about seven seconds.The objects appeared to be solid oval shapes with a major axis of about 1/4" at arms length. The appeared to be in a staggered formation, one oval slightly behind and to the side of the previous oval. In addition they seemed not to hold a tight formation but rather wandered slightly from a tight formation. The objects revealed no discernable detail to the naked eye and there was no time to track them with the telescope. There was no sound or other phenomena associated with the sighting. The heading that they traveled was approximately 285 degrees and the distance covered in the time I viewed them was approximately 85 degrees across the sky until they were lost behind trees. Altitude and size indeterminable. I have seen terrestrial light reflect from the bottom of low, night flying birds before and this sighting was of similar luminosity, however these objects were solid oval in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27900.html](http://www.nuforc.org/webreports/reports/027/S27900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
