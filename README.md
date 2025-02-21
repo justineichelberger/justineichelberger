@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star like lights descending in a pattern in the clear night skyLooking Northeast about 2:00am in the clear nightsky I noticed a stream of stars that was a strange formation in a vertical arrangement which caught my attention. I looked closely and noticed they were actually moving in a vertical formation descending from above and down to the eastern horizon.  They were spaced apart but all moving at the same speed and equally distanced apart. There may have been a total of about 20 and as they descended downward from above another seemed to drop from the sky above.  This occurred within 5 to 10 minutes and after approximately 20 had repeated the descent there were no more. None of these lights left a trail like a meteor but the incident reminded me more of the Phoenix lights reported a few years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153499.html](http://www.nuforc.org/webreports/reports/153/S153499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Raytown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Circular shaped craft appeared to be following  conventional aircraft.On 2/21/2011 at approximately 18:52 hrs I was walking out my front door and glanced over at my neighbor who was backing out of the her garage.  I then began to walk toward my vehicle which was parked in my driveway.  I glanced up and notice an air craft flying in a southerly direction at what appeared to be approximately 10 to 12 thousand feet.  As I was watching it fly away I also noticed that there was another craft which was brightly illuminated flying much lower and at a much slower rate of speed.  I then walked away from vehicle to get a better view of the craft.  I don't know why but as I tried to make a better observation, I noticed that the craft began to turn it's lights down lower and lower until there was no lights at all, but the craft could still be seen until it dissappeared in the distance.  I could tell that the air craft ahead of this craft was a plane of some sort, but the craft flying much lower appeared to be circular or round and brightly lit.  I don't know why but I somehow had the feeling that the craft knew that it was being observed and turned it lights off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80166.html](http://www.nuforc.org/webreports/reports/080/S80166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
