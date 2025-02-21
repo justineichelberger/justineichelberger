@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tulelake (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>something that looked like a star but shined colors and grew and shrank then disappeared.We were in the back yard and I asked my husband if that was a star, because it was changing colors.  We were unsure so I ran into the house and grabbed the camcorder so we could zoom in on it.  It would go large with viberant colors (blue,red,white,and kind of a purple)then it would go into a small white dot. We do have this on tape and also another sighting that was on the show Extra, back in 1999.  There was an expert that check the tape out to find that, we did not make it up or do any creations from computer or the image inhancers.((NUFORC Note:  We suspect the large image was due to the fact that the "AutoFocus" function may have been left in the "on" position.  We will request a copy of the film.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27804.html](http://www.nuforc.org/webreports/reports/027/S27804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Disk/Saucer in Nampa, Idaho.We were observing our back yard as we had seen a hovering orb for around a half hour sitting there.  We then made the choice to try to trace it's where about and drove, then gathering multiple photographs that were very incriminating and show the clear body of the craft as well as a sort of beam coming out of the bottom.The object also seemed to have hovered above a house for a brief period of time however we did not see if an abduction happened as we were a bit away and without the phone, it looked like a very bright orb.  A few times it would move extremely fast and then seem to vanish.  Only to show up again 10 minutes later.  The photos captured were very clear when zoomed in and show the craft almost completely clearly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132773.html](http://www.nuforc.org/webreports/reports/132/S132773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
