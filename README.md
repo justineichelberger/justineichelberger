@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Knoxville (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a circular-shaped UFO flying over the river and mountain.My cousin and I were sitting in his dad's truck when I looked over outside the passenger window and saw circular-like object flying over the Potomac River and mountain.This is off-topic but I would like to be talked to by an investigator albeit by e-mail only.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68851.html](http://www.nuforc.org/webreports/reports/068/S68851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Triangular and rectangular formations of hovering lights  over BayI viewed a group of lights in various triangular or rectangular formations from 3 to 8 craft hovering in the same spot for a solid 20 to 25 minutes.  The objects were suspended over the Bay between San Rafael and like Berkeley.  The only movement of these objects was a slight change of shape from a perfect triangle to a more skinny V shaped triangle with 2 lights almost touching each other on one end-almost like a tweezer like formation.  Sometimes the lights would rotate around each other and change positions.  There was 4 or 5 main objects in this formation.  Unfortunately you pretty much needed to see this through binoculars because the lights were dimmed down pretty low but all of these 3 to 8 lights were definitely interacting with each other and for a solid 20 minutes this formation was visible from like 9:30 to around 10 P.M.  I was getting tired of holding the binoculars watching this for so long.  There was no flight path to these objects-the longest hovering formation I've seen.  I was not gonna say anything but this is the 4th night in February I've seen the lights-the other nights being 2-04,2-06 and 2-15.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125992.html](http://www.nuforc.org/webreports/reports/125/S125992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
