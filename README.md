@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 90</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162340.html](http://www.nuforc.org/webreports/reports/162/S162340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tulelake (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>something that looked like a star but shined colors and grew and shrank then disappeared.We were in the back yard and I asked my husband if that was a star, because it was changing colors.  We were unsure so I ran into the house and grabbed the camcorder so we could zoom in on it.  It would go large with viberant colors (blue,red,white,and kind of a purple)then it would go into a small white dot. We do have this on tape and also another sighting that was on the show Extra, back in 1999.  There was an expert that check the tape out to find that, we did not make it up or do any creations from computer or the image inhancers.((NUFORC Note:  We suspect the large image was due to the fact that the "AutoFocus" function may have been left in the "on" position.  We will request a copy of the film.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27804.html](http://www.nuforc.org/webreports/reports/027/S27804.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
