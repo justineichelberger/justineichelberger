@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:26 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Star-like flaming sphere appeared brightly then, shortly later dispersed.Looking over a hill, my brother, and myself saw a bright star in the sky.  Upon closer look appeared almost as if it were a flame or something in the sky burning.  After looking at it for about 20 seconds, it seemed to flash bright for a moment and then quickly was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107322.html](http://www.nuforc.org/webreports/reports/107/S107322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Charleston (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped 3 white lights silent hovering.There's this loud noise that sounds like a siren of some sort, my husband said it sounded like an 18 wheeler‘s tires howling as if it were going 100 mph.  He went out to see what it was, and over our neighbor's lawn headed to south there's this huge plane or ...... something.  He called for me to come and look.  It was 3 white lights, one at 12:00, and one at each 10:00 and 2:00. In the center area (kind of below the 12:00 light)was a red blinking light.  It was shaped somewhat like a stealth fighter jet.  After the initial noise, It became silent.  No noise, no wind, no smell from exhaust, nothing.  My husband said it was probably 100 ft. wide at the wing (if that is what they were) span.  It went south just over the treetops, not very high. It got to about ½ mile from here.  It stayed right there for what seemed a long time, but was probably about 5 or 6 seconds, hovering.  It started moving and faded. Anyone know what it was or what's going on? I don't remember ! having air craft around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87310.html](http://www.nuforc.org/webreports/reports/087/S87310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
