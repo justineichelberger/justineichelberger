@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unexplained bright white lights over Southwest Cook County ILWe were watching the Grammys on Feb 21. It was about 8PM when I noticed a Bright light flickering in the distance out of my bedroom window to the Northwest.  I called my family into the room to take a look.  We watched it for a few minutes to try to figure out what it might be.  It certainly had no characteristics of an airplane or helicopter.  It remained pretty stationary for the few moments we watched, then I decided to get the video camera.  On the closeups the bright white flickering light became what appeared as a spiraling fireball with it still white in the center with two dots in the center and a bluish green tint around the perimeter.  As I was video taping my son noticed a second light identical to the first to the south of the first. Moments later as I turned my attention to the second light, there was a third to appear, right in the center of the first two.  All appeared to be at different altitudes. But all three lights had the same overall appearance from a distance, and all three lights are exactly the same shape on the closeups, and all have the exact same characteristics. The strangest thing is that the sky was very busy with aircraft flying across the lighted objects from south to north, as the 3 objects were in the west northwest sky.  When the lights disappeared the sky became quiet with not an aircraft in site for over 20 minutes.((NUFORC Note:  We spoke with this witness, and he seemed to us quite serious minded in his description of the event.  No other reports from Chicago for this date.  We wonder whether he might have been looking at landing lights of distant jets approaching Chicago for landing at O'Hare Airport.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16581.html](http://www.nuforc.org/webreports/reports/016/S16581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Walkerton (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Noticed bright slow moving lights just above the treeline of our long driveway coming from east.So I grabbed my phone and went outside to take a look.  Going out the back door, I thought it was very quiet.  I should have heard it.  I walked down the steps to behind my car, and as I looked up this huge craft flew directly over me.  It had to be over 75 ft across with three white lights, one on each corner as it seemed triangular.  Dwarfed our two story farmhouse and me along with it.It was so large, I remember taking a step back and a breath as it was right above the roof.  It took 5 seconds to completely move over the house.  No sound.  I took several pictures as it left heading west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145238.html](http://www.nuforc.org/webreports/reports/145/S145238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
