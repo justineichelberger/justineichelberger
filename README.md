@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:35 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Do Shooting Stars TURN? Longmont, Colorado, 02/21/2006,Last night as I was outside smoking, I thought I was observing a shooting star except when it should have been at the point of disappearing it turned and kept going. The object was heading north and when I expected "it"(shooting star) to burn out, it than turned to the East and continued until it was out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49242.html](http://www.nuforc.org/webreports/reports/049/S49242.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unexplained bright white lights over Southwest Cook County ILWe were watching the Grammys on Feb 21. It was about 8PM when I noticed a Bright light flickering in the distance out of my bedroom window to the Northwest.  I called my family into the room to take a look.  We watched it for a few minutes to try to figure out what it might be.  It certainly had no characteristics of an airplane or helicopter.  It remained pretty stationary for the few moments we watched, then I decided to get the video camera.  On the closeups the bright white flickering light became what appeared as a spiraling fireball with it still white in the center with two dots in the center and a bluish green tint around the perimeter.  As I was video taping my son noticed a second light identical to the first to the south of the first. Moments later as I turned my attention to the second light, there was a third to appear, right in the center of the first two.  All appeared to be at different altitudes. But all three lights had the same overall appearance from a distance, and all three lights are exactly the same shape on the closeups, and all have the exact same characteristics. The strangest thing is that the sky was very busy with aircraft flying across the lighted objects from south to north, as the 3 objects were in the west northwest sky.  When the lights disappeared the sky became quiet with not an aircraft in site for over 20 minutes.((NUFORC Note:  We spoke with this witness, and he seemed to us quite serious minded in his description of the event.  No other reports from Chicago for this date.  We wonder whether he might have been looking at landing lights of distant jets approaching Chicago for landing at O'Hare Airport.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16581.html](http://www.nuforc.org/webreports/reports/016/S16581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
