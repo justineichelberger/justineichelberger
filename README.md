@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:26 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Browns Summit (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orange/red glowing lights in the shape of a triangle.About 935pm, I walked outside to let the dog out.  I looked up in the sky and saw 3 glowing red/orangish circles in a perfect triangle shape.  I tried to take a picture but my flash was on.  When I went to turn it off, a neighbor came pulling up fast.  He said "did you see that"!!!  The bottom right one disappeared very quickly going to the right.  It was like it flew right and quickly vanished.  During the confusing of us talking the others just kinda vanish.  After I came inside, needless to say, I was pretty shook up at what I had seen.  I immediately google what I saw and seen several pictures and logs of the exact thing I seen.  Pretty weird 1st time I've ever seen something like this before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117420.html](http://www.nuforc.org/webreports/reports/117/S117420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Castle Rock (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Star-like flaming sphere appeared brightly then, shortly later dispersed.Looking over a hill, my brother, and myself saw a bright star in the sky.  Upon closer look appeared almost as if it were a flame or something in the sky burning.  After looking at it for about 20 seconds, it seemed to flash bright for a moment and then quickly was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107322.html](http://www.nuforc.org/webreports/reports/107/S107322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
