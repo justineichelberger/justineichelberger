@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Walkerton (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Noticed bright slow moving lights just above the treeline of our long driveway coming from east.So I grabbed my phone and went outside to take a look.  Going out the back door, I thought it was very quiet.  I should have heard it.  I walked down the steps to behind my car, and as I looked up this huge craft flew directly over me.  It had to be over 75 ft across with three white lights, one on each corner as it seemed triangular.  Dwarfed our two story farmhouse and me along with it.It was so large, I remember taking a step back and a breath as it was right above the roof.  It took 5 seconds to completely move over the house.  No sound.  I took several pictures as it left heading west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145238.html](http://www.nuforc.org/webreports/reports/145/S145238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star like lights descending in a pattern in the clear night skyLooking Northeast about 2:00am in the clear nightsky I noticed a stream of stars that was a strange formation in a vertical arrangement which caught my attention. I looked closely and noticed they were actually moving in a vertical formation descending from above and down to the eastern horizon.  They were spaced apart but all moving at the same speed and equally distanced apart. There may have been a total of about 20 and as they descended downward from above another seemed to drop from the sky above.  This occurred within 5 to 10 minutes and after approximately 20 had repeated the descent there were no more. None of these lights left a trail like a meteor but the incident reminded me more of the Phoenix lights reported a few years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153499.html](http://www.nuforc.org/webreports/reports/153/S153499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
