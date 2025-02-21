@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Bloomington (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Three Faint Oval Shaped Objects Flying In Apparent Formation At NightAt 11:42 PM EST February 21, 1977 while star gazing from the parking lot of my apartment building on N. Grant Street in Bloomington, Indiana I observed three faint elliptical objects of less apparent visual magnitude than the star Mizar in the constellation Ursa Major. At the time of observation I was attempting to set up my telescope to observe the Mizar visual binary star system in the handle of Ursa Major.While sighting down the length of my telescope to get an approximate "aim" at Mizar, I saw three faint gray oval objects cross the area that I was about to observe. The sighting was naked eye and lasted only about seven seconds.The objects appeared to be solid oval shapes with a major axis of about 1/4" at arms length. The appeared to be in a staggered formation, one oval slightly behind and to the side of the previous oval. In addition they seemed not to hold a tight formation but rather wandered slightly from a tight formation. The objects revealed no discernable detail to the naked eye and there was no time to track them with the telescope. There was no sound or other phenomena associated with the sighting. The heading that they traveled was approximately 285 degrees and the distance covered in the time I viewed them was approximately 85 degrees across the sky until they were lost behind trees. Altitude and size indeterminable. I have seen terrestrial light reflect from the bottom of low, night flying birds before and this sighting was of similar luminosity, however these objects were solid oval in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27900.html](http://www.nuforc.org/webreports/reports/027/S27900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On Friday night I was driving to my friends house and noticed 5 orange balls in the air just over the tree line roughly 5-8 miles away from me.  I stopped my car and took one picture but by the time I could get my phone out 2 of the orange lights had disappeared.  There was a bit of a glare from the windshield so I ran up the street to get a better view and took a second picture.  By the time I had taken the second the balls had shifted position.  I immediately got back in the car and raced to my front ends house which was only about 2 minutes or less away from where I took the pictures.  As soon as I got to his house we ran upstairs and got onto his roof and there was nothing to be seen in the direction I saw them in (at this spot we were above the tree line so they would have been more visible).  I was unable to see any shape or an exact altitude of the objects but if I had to estimate i would guess they were around 5-6 thousand feet above the ground.  Upo! n looking at the pictures later I also noticed a rapidly buzzing gray spec that I could not see in the sky before but showed up on camera when I look at the live picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153559.html](http://www.nuforc.org/webreports/reports/153/S153559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
