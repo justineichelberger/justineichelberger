@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Savannah (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three lights (think part of another bigger object) zoomed across skyUsing my Binos doing an early morning sky watch and Right in front of me I seen a line if 3 lights (running from and starting in the 2 o'clock position and ending at the 7 o'clock position) imagine a line drawn from the 2 to the 7 on a clock.  There was way too low to be satellites ir shooting stars.  It looked like it was a part of a bigger object.  Moving very low, very fast and very silent.  By the time I turned my astrological binoculars toward it I couldn't find it.  It was gone.  Activity really picking up around this location as of late.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107351.html](http://www.nuforc.org/webreports/reports/107/S107351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in El Cerrito (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>NASA snuggles alien into CaliforniaI looked up in the sky and saw an air plane in the distance making Kim trails and then the plane cuts left and right in a big bang of smoke it looked like it lost control or something then I see a bright star figure appear but it wasn't a star it was some kind of airraft.  Right after it appeared I saw what looked like two NASA space rockets flying away from it, all flying in separate directions.  The Kim trails it left turned in to black rain clouds or a fire cloud.  They trying to kill us.  I swere it looked like an alien star with some kind of invisible coat around it almost like it was under water swimming like a star fish.  I felt a presence.  Something brushed up against my body I think it saw me, but I got the he'll out of there because I had a bad feeling.  I think the government just smuggled an alien entity in California.  I know what I saw, I know what an airplane looks like and those we're definitely space rocket ships wtf is going on((NUFORC Note:  We are not certain as to whether this is a sincere report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138901.html](http://www.nuforc.org/webreports/reports/138/S138901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
