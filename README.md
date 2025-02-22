@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object in sky moves erratic, changing shape, size, and disappearing/ reappearing on video.I was leaving a friend's house when I noticed erratic movement in the sky.  I pulled out my phone and leaned against my vehicle to stabilize. I zoomed in as muh as possible and began recording.  The object was moving very fast and erratic.  I tried to take pictures of it, and it kept disappearing, when I would click for a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133308.html](http://www.nuforc.org/webreports/reports/133/S133308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This wasn't natural seem to be large slow moving no sound and extremely bright lighting up tree tops.One solid orange to red round object blinked out when setting up tripod southern side of Kings Highway viewed from Caisson road, Stafford, VA, 22405.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126005.html](http://www.nuforc.org/webreports/reports/126/S126005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
