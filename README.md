@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:22 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139774.html](http://www.nuforc.org/webreports/reports/139/S139774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Columbus (north of) (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball in the night sky - traveling East to West - Harris County north of Columbus GA HWY 85While traveling North on Highway 85 out of columbus georgia tonight me and my friend / coworker spotted a light above the clouds that traveled below the clouds.  Looked like a green fireball coming out of the sky.  Happend so fast.  You could see stars in the sky and the clouds were breaking up.  I have seen red fireballs in the past (2 actually) but never a green one.  There was allot of traffic at the time and was probably witnessed by many peopl.  The fireball started in teh Eastern Sky and Traveled West like heading to Alabama direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55399.html](http://www.nuforc.org/webreports/reports/055/S55399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
