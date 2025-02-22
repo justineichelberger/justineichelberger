@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:48 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Green Valley (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>three bright bluish-white lights. possible triangle craft?I was watching the twilight fall over the mountains southeast of my house, when I noticed three bright bluish-white lights moving very slowly and fairly low in the sky.I watched these lights for maybe two or three minutes, then they quickly picked up speed and altitute disappearing over the mountains near madera canyon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42395.html](http://www.nuforc.org/webreports/reports/042/S42395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
