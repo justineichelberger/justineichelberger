@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Newfield (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>green fireball in upstate new yorkObject seen falling earthward,angle of entry approximately 45 degrees to the horizon. The appearance was that of a meteorite falling to earth.It was observed in the eastern sky for a period of approximately 8 to 10 seconds before disappearing below the horizon. The object had a roughly circular core that was green in color,with a short cometlike tail that was orange. There was no noise detectable as object was observed through a picture window.I am a 50 year old plumber that works for Cornell University.  My wife and I are amateur astronomers and periodically make night observations of stars and planets with our small telescope.  I do not believe that this was a "routine " astronomical event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35219.html](http://www.nuforc.org/webreports/reports/035/S35219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Green Valley (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>three bright bluish-white lights. possible triangle craft?I was watching the twilight fall over the mountains southeast of my house, when I noticed three bright bluish-white lights moving very slowly and fairly low in the sky.I watched these lights for maybe two or three minutes, then they quickly picked up speed and altitute disappearing over the mountains near madera canyon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42395.html](http://www.nuforc.org/webreports/reports/042/S42395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
