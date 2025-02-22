@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i was driving down the highway and saw a blue orb that disappeared when i focused on it.I was going down 2818 (which is a highway by my house) and I looked up in the sky to see if any planes were going to land,because its by an airport.  I looked up and saw nothing,and kept driving.  I then looked up again and saw a blue circular light, first thinking it was a small airplane landing, then taking a second look.When i focused on the light with my eyes it sped away to fast for me to see where it was going.  The light seemed to just disappear into nothing. My eyes immediately began to water, i wasn't crying and my eyes weren't irritated;they just started watering.  I got goosebumps and called my mom. When she tried to call me back there was a call failed message,and then a weird sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68856.html](http://www.nuforc.org/webreports/reports/068/S68856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>2 lights stationary in the sky with unusual air traffic in areaAs I was leaving work at about 6:40m EST, I noticed 2 starlike objects in the sky in close proximity to each other. They were in the southern hemisphere, about 30 degrees from horizontal.  They were very far away.  They looked similar to 2 airplanes flying directly towards me.  I could not see any distinguishing features. The sky was clear, but since I couldn't see as many stars as usual, there may have been a thin layer of clouds. The clouds were thick enough to block out all but the brightest stars.  Very few stars were visible. The 3 stars on Orion's belt were visible but dim.  I was able to watch the 2 objects on my way home from work. I drive south on the Hutchinson River Parkway in Westchester.  They were in my field of view the entire time. I stopped at a golf driving range on weaver street because I had a clear view from there.  I saw several very small and faint objects moving in the general vicinity.  These objects had blinking lights.  They also seemed to be moving faster than they should have been for the distance they were from me.  When I arrived home, the 2 lights were still in the same exact relationship to each other and appeared to not move in the 30 min it took for me to get home. Once home, I observed their position for about 10 more minutes.  I could not detect any movement.  I left the room for about 30 minutes and when I went to check up on the 2 lights, they were gone.  I looked around the sky there was nothing that even slightly resembled their intensity or proximity with respect to each other. I showed my wife the 2 lights and some co-workers had also seen them. Since it looked like from my vantage point that they were over Manhattan, someone suggested it was 2 blimps. But their distance between each other never changed for the hour I observed it. I would like to know if anyone else has reported this and if you know what I was seeing. thank you ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05668.html](http://www.nuforc.org/webreports/reports/005/S05668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
