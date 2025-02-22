@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hartselle (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was just like the footage of the shuttle explosion!Last p.m. my wife and i were leaving my parents house, we steped off the porch facing south and noticed the brightest object i have ever seen in the sky. It traveled across the sky in a north western trajectory. It was almost identical to the footage of the recent shuttle explosion.  You could see it burning entering the earths atmosphere with the longest tail i have ever seen, and i watched the last meteor shower in its entirity and never saw anything resembling this. it traveled about 10ft then expoloded. After that it traveled about 25 more feet and exploded again and the the show was over.  My father in law works for nasa and has confirmed no humans in space at that time with the excepition of the space station which moved over head aprox. 30 min prior.  He contributes this to falling space debris or a satellite but i dont know it was the weirdest thing i have ever seen! email ((address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35231.html](http://www.nuforc.org/webreports/reports/035/S35231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chazy Lake (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white light stationary over the lake in the middle of the nightOn a cold windy winter night, I was driving on Route 374 by Chazy Lake heading west. I saw a bright white light at the far end of the lake.  At first, I thought someone put up a bright street light.  As I continued west, I could see it better and by the time I was by the bay at the end of the lake (toward Lyon Mt.) I saw it close up.  It was a huge white light sitting a few hundred feet in the air over the shoreline and not just bright but SCARY bright!  I slowed down to get a good look and became very scared because of how close it was and how big and frighteningly bright!   It didn't move at all – and I didn’t notice any sound either (of course I stayed inside my car).  I would say it was probably about 500 feet away and at least a couple hundred feet in the air.  It was just so unbelievably BRIGHT!  I was very scared and took off and kept checking my mirrors to see if it had moved from the lake to the road behind me. It was definitely NOT: an airplane, helicopter, Chinese lantern, balloon, planet, or the moon.   If someone could take something the size of a car (guessing only), turn it into the brightest whitest light you've ever seen, and prop it up 200-300 feet in the air over the shoreline at the end of the bay where no one lives, then I'd say it was that.  I travel by the lake frequently and never saw anything like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153483.html](http://www.nuforc.org/webreports/reports/153/S153483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
