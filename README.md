@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Two Lights varying in intensity over Bay City, MIMy friend and I, were out on my driveway, which runs from East to West, and looking towards the West after seeing Mars and Venus to the east. That was when we noticed two bright objects in the sky. The one was due West, approximately 28 degrees elevation, the other was WNW, at approx. 56 degrees elevation. At first, we thought they were search helicopters, with how bright the lights were, but there was no sound, kind of ruled that out. Then may be a plane or jet, but as we observed them moving, it was very slow in a Northerly direction. As we watched 4 different jets came in and out of sight. One of the jets actually flew under the lower object and blotted out a part of it.The lower object was closer, it had 3 lights in triangular shape with a ring of light connecting them together. It turned when they started to moved, which was when it changed to on big light. Moved to slow to be a jet, with turning I ruled out the asteroid Eros with the changed in shape and it was stationary for about 15 minutes. The was absolutely no sounds from above until I saw the jets at various intervals.((NUFORC Note:  Sighting of Jupiter and Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87323.html](http://www.nuforc.org/webreports/reports/087/S87323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC:  Probably due to a conjunction of four planets in the southwestern sky.))I saw two lights, one above the other at an angle, in the western sky. The lights were moving fairly slowly. The lights were flickering.I was out walking my dog on the night of 2/22/99. On my way home I looked into the sky and saw two strange white lights.When I got home I put my dog inside and went to investigate. I witnessed the lights move in unison in all directions. They moved fairly slowly, stop and hover briefly, then move in random dirctions. They stayed in the same general area of the sky. I witnessed these lightsfor at least an hour.I witnessed the lights at night so I could not tell any shape or color or if there was a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05850.html](http://www.nuforc.org/webreports/reports/005/S05850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
