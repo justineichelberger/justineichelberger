@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A green fireball traveling west to east with slight left to right path just outside of Granite Falls.I was heading east on Hwy 92 just entering Granite Falls. I saw a green fireball that looked much like a flare. I spotted it just as it was going over the horizon. It was traveling west to east with a slight left to right path. The object was about the size of a pencil eraser held at arms length. It was a nearly full moon and very clear sky.((NUFORC Note:  Possible meteor, we believe, but please see other reports for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42074.html](http://www.nuforc.org/webreports/reports/042/S42074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object was seen on Main Street in East Hartford, CT, above the city lights, large starlike bright light only shining in sky changed as it moved closer to large triangular lit aircraft with red and white lights at all 3 points, two bright white lights pointing forward on underside, when directly overhead the bottom appeared grid-like, slight humming sound, slow moving.  I followed a distance from a distance.  Noticed other red and white blinking aircraft at approximately same height but more distant.  Continued to see one or more vehicles at a distance for about half an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144999.html](http://www.nuforc.org/webreports/reports/144/S144999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
