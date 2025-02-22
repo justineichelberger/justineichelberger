@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Objects seen with appearance of strange cloud.On February 23, 2021 my son and I were out on our back deck at about 7:00 p.m. (PST). We were looking to the north east and the sun had been down for about an hour or so. It was relatively clear out. The temperature was a comfortable sixty degrees. We wore light jackets. We had been fooping around and my son looked up to the sky. He saw an odd looking cloud in the sky. He asked “is it just me, or does it look like something from another world just crashed?”. The cloud extended clear from the eastern horizon nearly to the western horizon. It was shaped like icing squeezed from a piping bag across a dark blue cake. We wanted to take pictures of the odd looking cloud so I got out my phone to take a picture. (Pictures sent to the email in the website). Then, my son saw a bright object appear but did not see where it came from. Then my son saw the object make a straight path downward, then make a u-turn back up. I didn’t notice this while it occurred and while I was taking the photographs. My son also saw it change shape from a helicopter shape to a bright oval, and then speed away and appeared to change into a bird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162199.html](http://www.nuforc.org/webreports/reports/162/S162199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Newfield (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>green fireball in upstate new yorkObject seen falling earthward,angle of entry approximately 45 degrees to the horizon. The appearance was that of a meteorite falling to earth.It was observed in the eastern sky for a period of approximately 8 to 10 seconds before disappearing below the horizon. The object had a roughly circular core that was green in color,with a short cometlike tail that was orange. There was no noise detectable as object was observed through a picture window.I am a 50 year old plumber that works for Cornell University.  My wife and I are amateur astronomers and periodically make night observations of stars and planets with our small telescope.  I do not believe that this was a "routine " astronomical event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35219.html](http://www.nuforc.org/webreports/reports/035/S35219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
