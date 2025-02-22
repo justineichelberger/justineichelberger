@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 21 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sun City West (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fluid formation flying objects.My wife and I initially thought we were seeing a flock of several geese flying in a “V” formation flying north over Sun City West, AZ, at an altitude of less than five hundred feet.  The “geese” looked white or cream colored, but we both immediately realized that all we could see were wings, no necks or feet like you would see on bird.  The trailing edge of each pair of wings was black or dark colored.  Just as we realized these were not birds, the objects began maneuvering around each other, gliding over or under each other, moving forward and back, all without any movement of the wings.I turned to my wife and said “do you see what they are doing,” and immediately looked back to where the objects had been.  I looked away for less than 2 seconds but when I looked back, the objects that had been directly above us had disappeared.  I was driving a convertible car with the top down at about 35 miles per hour.  The sky was completely clear and visibility in every direction above the single story houses was unlimited.The sighting took place about 7 miles from Luke Air Force Base and there were jets in the area at the time of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132791.html](http://www.nuforc.org/webreports/reports/132/S132791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139774.html](http://www.nuforc.org/webreports/reports/139/S139774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/162/S162176.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162170.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162302.html)
-- [245](http://www.nuforc.org/webreports/reports/162/S162234.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162390.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
