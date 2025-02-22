@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:20:17 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:02:29 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burke (VT) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While grooming ski trails at Burke mountain in east Burke, Vt, I was facing in my groomer northeast and noticed a group of 10 lights that were very bright reddish orange in color.  The lights appeared to be 6-8 miles from me at approximately 5000 feet.  These lights were circular and stayed constant in brightness and color.  I was approximately at 3000 feet and last night was moonless but very clear with approximately 50 miles visibility.  The shape of the 10 lights started at the top 2 large circles and under that 2 smaller ones and that pattern continued down until they were quite small.  I took out my cell phone to get photos but at that point the lights started from the bottom left to right started to fade out.  The next set to go off were the largest top lights same left to right pattern then back to the bottom and again to the top until they all were gone.  I continued back to the top of the mountain and as I proceeded back down the trail and arrived at the s! ame area I saw the lights again appear in the opposite as they faded out.  I again took my phone out to get photos and only got one of the lights captured.  It looks somewhat cylindrical but as you zoom in almost slightly half moon shaped.I have groomed the ski trails there for about 30 years and know the sights at night and this was not a sight seen in all those years</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107393.html](http://www.nuforc.org/webreports/reports/107/S107393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kettering (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A silvery medium-sized object zoomed across the skyI was in my room looking out the window, when suddenly, ZING!  A shiny, silvery, fairly large object resembling a UFO shot across the sky.  As quick as a wink, it was gone.((NUFORC Note:  Possible hoax, we suspect.  Contact information for witness is defective.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80178.html](http://www.nuforc.org/webreports/reports/080/S80178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
