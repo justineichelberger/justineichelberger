@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:57 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two lights- no sound- being pursued by large military helicopter at low altidudeFebruary 23, 2007 Arlington, Washington  I had gone to my back deck to have a smoke at 8:45 Pm last night.I heard what I thought was a lifeline (hospital), helicopter hovering over the nearby hospital. However the engines were too loud for a smaller search and rescue type helicopter. So my attention was drawn to see what was evidently on a path that would bring it very close to my house.As I looked to see what kind of helicopter it was, suddenly I noticed two bright lights traveling together in a straight path approximately a hundred feet apart. They were moving at least three hundred to four hundred miles an hour approximately a hundred and fifty feet in front of the helicopter. All three aircraft were traveling at only around three hundred feet in altitude.Directly in pursuit of the two lights was a very large, single rotor, obviously military helicopter with all of its flashing lights.The two lights made no noise, and had no other flashing or strobe lights- (proximity lights), just two "star-like" lights.I did not realize what I was watching until after the event. The two lights were traveling in a very straight path almost as if they were trying to elude the military helicopter, or possibly the helicopter was escorting them.The whole event only lasted for aproximately 30 seconds. It took three seconds for all aircraft to cross the night sky over my head. I could not make out any shape around each of the two unidentified lights I am not sure what I had just witnessed, but this was very unusual. I have been an Airworthiness Inspector for over twenty years and in aircraft for thirty, and I have never seen anything like this.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55417.html](http://www.nuforc.org/webreports/reports/055/S55417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bay City (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Two Lights varying in intensity over Bay City, MIMy friend and I, were out on my driveway, which runs from East to West, and looking towards the West after seeing Mars and Venus to the east. That was when we noticed two bright objects in the sky. The one was due West, approximately 28 degrees elevation, the other was WNW, at approx. 56 degrees elevation. At first, we thought they were search helicopters, with how bright the lights were, but there was no sound, kind of ruled that out. Then may be a plane or jet, but as we observed them moving, it was very slow in a Northerly direction. As we watched 4 different jets came in and out of sight. One of the jets actually flew under the lower object and blotted out a part of it.The lower object was closer, it had 3 lights in triangular shape with a ring of light connecting them together. It turned when they started to moved, which was when it changed to on big light. Moved to slow to be a jet, with turning I ruled out the asteroid Eros with the changed in shape and it was stationary for about 15 minutes. The was absolutely no sounds from above until I saw the jets at various intervals.((NUFORC Note:  Sighting of Jupiter and Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87323.html](http://www.nuforc.org/webreports/reports/087/S87323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
