@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>((NUFORC:  Probably due to a conjunction of four planets in the southwestern sky.))I saw two lights, one above the other at an angle, in the western sky. The lights were moving fairly slowly. The lights were flickering.I was out walking my dog on the night of 2/22/99. On my way home I looked into the sky and saw two strange white lights.When I got home I put my dog inside and went to investigate. I witnessed the lights move in unison in all directions. They moved fairly slowly, stop and hover briefly, then move in random dirctions. They stayed in the same general area of the sky. I witnessed these lightsfor at least an hour.I witnessed the lights at night so I could not tell any shape or color or if there was a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05850.html](http://www.nuforc.org/webreports/reports/005/S05850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pocono Lake (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Orange ball sighted over Pocono Lake, PA, for 2-3 seconds, then disappeared.I was talking to a friend when I saw an orange ball of light travel in a direct line from my right to left.  It looked to be of lower altitude than a normal aircraft and travelled much faster, it then disappeared after  few seconds, It was fast but not as fast as a meteor shower and looked nothing like  a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107420.html](http://www.nuforc.org/webreports/reports/107/S107420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
