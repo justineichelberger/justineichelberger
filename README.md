@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 22 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object was seen on Main Street in East Hartford, CT, above the city lights, large starlike bright light only shining in sky changed as it moved closer to large triangular lit aircraft with red and white lights at all 3 points, two bright white lights pointing forward on underside, when directly overhead the bottom appeared grid-like, slight humming sound, slow moving.  I followed a distance from a distance.  Noticed other red and white blinking aircraft at approximately same height but more distant.  Continued to see one or more vehicles at a distance for about half an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144999.html](http://www.nuforc.org/webreports/reports/144/S144999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Smyrna (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Fixed light in daytime skySaw a fixed light in broad daylight that looked like a star above Dobbins Airforce Base in Marietta.  However, it looked like it was reflecting light in the sunlight.  It did not move. It was extremely bright and reflective, very high in the sky.  Upon watching the video it looks like a bright star with other crafts going in and out of it.  There are dots that circle it, go in it, and things moving around it.  It seems too bright to be a daytime star.  After watching it for 30 minutes, I went inside, and when I came back out I could not find it again.  Possibly lights were circling it, or it was the camera picking up the reflection of the object.  I have a video of this event and can provide it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154194.html](http://www.nuforc.org/webreports/reports/154/S154194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162199.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162187.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153797.html)
-- [281](http://www.nuforc.org/webreports/reports/153/S153552.html)
-- [280](http://www.nuforc.org/webreports/reports/153/S153520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
