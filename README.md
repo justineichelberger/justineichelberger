@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tooele (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately Current - Current minutes.</sub><blockquote><sub>Flashing, color changing lights in the sky witnessed from Tooele, UtahI sat down in my garage to have a cigarette, when I noticed a bright, rapidly flashing light in the sky over Butterfield Canyon (possibly further East) that was moving at about the speed of a plane headed Northwest.  I immediately knew that it wasn't a plane or helicopter because the color of the light was changing between white, red, blue, green, orange and possibly purple.  I also noticed 3 white flashing lights; one on each side and one above the main light described.I ran thru the house to my front door, stepped outside and attempted to capture video, but wasn't able to capture what I was seeing accurately.  By this time the craft had stopped moving, hovering in one place and the 3 surrounding lights were no longer visible.  The main light continued to flash and color change rapidly, showing a bright red roughly every 30-45 seconds.  It then began to dim and seemed to be slowly moving East.  I yelled for my fiance, who also witnessed the strangeness of this craft. We watched together for about 15 minutes but decided to go back to the garage where we watched it until it changed direction again, now moving Southeast until it was hidden from view by a large tree.  We went inside to go to bed.I've never witnessed anything like this before.  I'm positive it wasn't anything of human origin because of the movement, colors and total lack of sound as it moved and hovered.  I'd certainly love to know what it is though!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138924.html](http://www.nuforc.org/webreports/reports/138/S138924.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Livermore (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Cone shaped several colors falling fast right in front of moon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126013.html](http://www.nuforc.org/webreports/reports/126/S126013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
