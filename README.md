@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>There was a flash and it vanished...I was with my high school baseball team in El Paso Texas. We were in the middle of a game and I happened to look up into the sky. I noticed a bright green light, it resembled a falling star. It was traveling very fast in towards the ground. It only lasted about 3 seconds then it turned to flames and immediately dissapeared. Less than a minute later, three jets which looked to me like military fighter jets, came up from about where the light had been and branched in three directions. One went straight, one went to the right and the other to left. I never saw the planes again. 4 other players along with myself witnessed all of the above. I'm not sure if any spectators noticed what was going on. I'm not sure if it was a UFO or just an honest trick of the eye. None the less, it was strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61907.html](http://www.nuforc.org/webreports/reports/061/S61907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kensington (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Diamond shaped  light configuration in rural New Hampshire</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55489.html](http://www.nuforc.org/webreports/reports/055/S55489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
