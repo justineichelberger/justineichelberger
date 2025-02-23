@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright white light weaving in a Z pattern at an unsually high speed, hovers, then zooms out of sight at an amazing speed.While standing near the corner of Southwood Drive and 61st in Lake Oswego , OR,  my friend and I witnessed an extremely bright light in the sky toward the north.  It seemed to hover for a moment, then it drew closer.  Then it pulled back began to switch back and forth in the sky at an amazing speed not capable of any conventionally, human-made aircraft.  We watched it for several seconds weave back and forth (east to west) in a "Z" pattern in the sky, then it zoomed in again for another moment then quickly zoomed out and flew to the north out of visibility at an amazing speed.We stood there for several seconds trying to process what we had just witnessed.  I said to my friend, "did you just see that?" and she replied "yes, did you?".  Neither of us could come up with a rational explanation for it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74469.html](http://www.nuforc.org/webreports/reports/074/S74469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed erratic movement of lights in sky appearing to head north/west from our location.  No red lights present.  Movement patterns were too erratic for known aircraft.  Objects traveled from east to west prior to heading north/west.  Weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117464.html](http://www.nuforc.org/webreports/reports/117/S117464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
