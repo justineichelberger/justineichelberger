@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:33 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Loganville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular shaped object with 3 bright rectangle lights and one red flashing light.My wife and I were traveling down Baycreek Church Road when we noticed bright light about a half a mile away.  I have traveled this road thousands of times and never noticed any lights there before.  As we got closer we noticed it had three very bright rectangle shaped lights and a flashing red light on the bottom.  We slowed down in amazement and my wife noticed it was barely moving.  It was basically hovering above some trees about 100 to 150 feet above the ground.  It was hovering above trees on the edge of the road.  My wife was actually able to look up at it as we drove by since it was on the passenger side.  At that time I notice warning indicators on my speedometer started to come on and my blinkers wouldn't work.  As my wife looked up at it she notice it was a triangular shaped craft.  I dropped her off at home a few miles away and my electronics started working normally again.  I went back to see if it was still there and it was gone.  Once I returned home we, were outside and saw white trails zigzagged all over the sky similar to what a jet would leave, but these were to low to of been a airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107427.html](http://www.nuforc.org/webreports/reports/107/S107427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I went out to walk my dog and in the NW sky there was an extremely bright light started as white and although I caould not make out a shape the lights themselves were changing in different shapes and colors (very bright white, blue, green, red).  I watched this for over 20 mins with no movement of position in the sky.I live near an army air base & an international airport that has helicopters both hewys & shunuks, having worked at the base & airport i know this was no form of helicopter or airplane that I had ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153571.html](http://www.nuforc.org/webreports/reports/153/S153571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
