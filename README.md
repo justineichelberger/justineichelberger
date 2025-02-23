@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:46 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:57 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>This was one of the most wonderful, light, fire, glowing flame experience.Laying down on my back looking at stars, while wind blowing and hearing sound of wind.Started praying to Jesus and marveling at his wonders, and at the same time praying for a better, tomorrow.  I notice what I could only describe this light in the sky.As I'm praying and looking out the windows clouds were.clearing,  Quickly. I saw what seems  to be about 500/600'  up in the sky beautiful,brilliant light smoothly passing by my window.  I text my son then my daughter and told her it could have been an angel.I dont know what it is but it was wonderful.((NUFORC Note:  We cannot certify that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107468.html](http://www.nuforc.org/webreports/reports/107/S107468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Blackburn (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar/Rod shaped object rotating silently in the skyThe object was a cigar shape. It was a clear cold day the sky was bordering on very pale blue to white. Sometimes the object would look black next to the brightness of the background sky and as it moved it would appear metalic. The object was silent and didn't appear to be moving from side to side although i think it was but very slowly indeed if at all it was. The most interesting thing was the other movements it made. The object seemed to be very slowly moving in a circular way as if piveted in the middle. It's hard to explain really, because of the shape sometimes it would appear like a rod but as it moved round you could only see one end of the rod so then it would appear small and circular. It wasn't changing shape but it seemed that way due to the smooth movements it was making. It seemed big ang close but as there was only sky around it was hard to determine the size and distance away from me. I live in a busy town so i'm sure somebody must have seen it. The object then seemed to become very small very quickly but I still wouldn't say it changed shape but moved very high in the sky with undescribable speed giving the illusion that it had become smaller. When it was moving as if on a pivet it would move slowly in a circular movement but only for about 90 degrees then it would move back the opposite direction. It wasn't a balloon. Has anyone seen anything similar?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35251.html](http://www.nuforc.org/webreports/reports/035/S35251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
