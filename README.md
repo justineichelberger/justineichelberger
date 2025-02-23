@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Windsor (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I went out to walk my dog and in the NW sky there was an extremely bright light started as white and although I caould not make out a shape the lights themselves were changing in different shapes and colors (very bright white, blue, green, red).  I watched this for over 20 mins with no movement of position in the sky.I live near an army air base & an international airport that has helicopters both hewys & shunuks, having worked at the base & airport i know this was no form of helicopter or airplane that I had ever seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153571.html](http://www.nuforc.org/webreports/reports/153/S153571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ft. Shawnee (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oblect travels near refinary.On Wednesday February 23, 2005 at approximately 8:37p.m. my partner and I were heading west in a fairly populous suburb of Lima, Ohio when we saw a large triangular object with three white lights and two reddish orange lights. It was flying slowly at about 200 ft. up traveling in a north to south direction. It crossed the street we were traveling on, then stopped and hovered above an empty grocery store location. As we came closer we watched as it turned as if on an axis at a 90 degree turn towards the east. I had rolled my window down to get a clearer look and noticed it made no sound. In excitement we turned into that parking lot as we did so it began moving laterally eastward. We began to follow it, it moved slowly at first, but suddenly accelerated rapidly. We kept chase for about 200 yards, but couldn't keep up and lost sight of the lights.(object in close vicinity to refinary & tank plant.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42420.html](http://www.nuforc.org/webreports/reports/042/S42420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
