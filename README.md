@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:23 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Clarkdale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>((NUFORC:  Report not inconsistent with the many "twinkling star" reports we receive.))my girlfriend and I had returned from dinner and were preparing to retire.  we had been looking casually at the sky out the bedroom window when I noticed a very bright object in the northern sky that I first thought was a plane.  I pointed it out to my grilfriend who immeadiately got her binoculars and after looking at the red, aqua, and blue colors it emitted along with changing the placement of these colors she said it was definitely not a plane.  We watched it for about 30 minutes and it moved only slightly during that period.  After another 1/2 hour it had moved perhaps 5 degrees higher in the sky and then abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05680.html](http://www.nuforc.org/webreports/reports/005/S05680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tremont (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two bright lights appeared over the sky above Tremont, PA, one sped off at a very high rate of speed.While driving east on SR209, nearing the I-81 interchange (about 1/2 mile west of Home Depot distribution center), a witness saw a very bright light in the sky directly east of his location.  At about two seconds later, a second bright light appeared to the left of the first light.  A second later, the first bright light sped off from right to left and disappeared to the north at a very high rate of speed.  After the first light sped off, the second light faded off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80225.html](http://www.nuforc.org/webreports/reports/080/S80225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
