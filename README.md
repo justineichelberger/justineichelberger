@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rosendale (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>large black sphere with smaller white light sphere orbiting larger one about 50 feet from the ground.I was driving with my roommate, when I noticed about 50 feet up in the air a pitch black sphere.  It was about 40 feet in diameter and dark like a black hole.  It had another smaller very bright white light sphere orbiting it like an electron orbiting a atom.  It was changing its orbit every time it came around.  It was very close to us and moving very slowly closer. We watched as the small light orbited 3 times every time the light would go around the opposite side of the black sphere there was no light present refracting onto houses or anything around it was as if the black orb swallowed it.  It was as if for a second it completely disappeared and then reappeared on the opposite side of the larger dark sphere.  It lasted for about 4-5 seconds before completely disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132932.html](http://www.nuforc.org/webreports/reports/132/S132932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sault Ste. Marie (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lights in the sky in Sault Ste. Marie MichiganThere were 3 oval shapes objects that moved West toward Lake Superior starting from a little East of the Soo Locks.  They molved in almost a completely straight line with the last object being slightly to the right of the other 2.  They were low in the sky and fairly large. about the size of a dime being held at arm's lenth.  They moves swiftly and we lost sight of them in the horizon in approx. 1-2 minutes of following them.  We watched the objects move across the sky from the the North end of Lake Superior State Universities campus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126021.html](http://www.nuforc.org/webreports/reports/126/S126021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
