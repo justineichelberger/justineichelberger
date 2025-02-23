@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>What did we all see?  Same craft, different night.My friend and I have just seen the same exact object in the sky that was described to us also by her sister and father earlier in the month, but did not believe it at the time.  Tonight it is 68°, no clouds.  Just a calm and warm night.  Appeared to be higher than aircrafts in altitude and distance, yet also seemed very large in size and almost translucent.  The craft looked like many contiguous circles changing formation with rope-like structures behind it, that could be described to as shaped like DNA.  Then continued to change shape to a round, arched object before getting out of view.  It moved slow the whole time, but was only in our sight for about 3 minutes.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132937.html](http://www.nuforc.org/webreports/reports/132/S132937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Madison (TN) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A mother called to report that her daughter and son, as well as several of their playmates, had witnessed a "small silver disc with a white light on top."  The children reported that they they had observed the object for approximately 1 minute, at which time it appeared to recede from them and disappear from sight in the amount of time it would take a person to snap his fingers. the mother separated her two children and had them draw what they had seen.  The drawings, she reported, were identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01339.html](http://www.nuforc.org/webreports/reports/001/S01339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
