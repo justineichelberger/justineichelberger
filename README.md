@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Madison (TN) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A mother called to report that her daughter and son, as well as several of their playmates, had witnessed a "small silver disc with a white light on top."  The children reported that they they had observed the object for approximately 1 minute, at which time it appeared to recede from them and disappear from sight in the amount of time it would take a person to snap his fingers. the mother separated her two children and had them draw what they had seen.  The drawings, she reported, were identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01339.html](http://www.nuforc.org/webreports/reports/001/S01339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in La Habra (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Huge Dark/Black rectangular object in the sky.We were taking a walk when I looked up and saw a huge dark/black rectangular shaped object that seemed to be floating through the air. The object did not make any sound what so ever that I could tell. This thing was the biggest thing I have ever seen in the air, and it was probably several miles away. I noticed a small Cessna aircraft in the vicinity and the object dwarfed the aircraft. The Cessna aircraft look as big as a pinhead next to this object. The object then moved in a southerly direction and disappeared behind a building. I went around the building to maintain my view and the object seemed to have just disappeared. There were several other people out walking and saw this object as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61808.html](http://www.nuforc.org/webreports/reports/061/S61808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
