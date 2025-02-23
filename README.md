@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:57 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:06:33 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Blackburn (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar/Rod shaped object rotating silently in the skyThe object was a cigar shape. It was a clear cold day the sky was bordering on very pale blue to white. Sometimes the object would look black next to the brightness of the background sky and as it moved it would appear metalic. The object was silent and didn't appear to be moving from side to side although i think it was but very slowly indeed if at all it was. The most interesting thing was the other movements it made. The object seemed to be very slowly moving in a circular way as if piveted in the middle. It's hard to explain really, because of the shape sometimes it would appear like a rod but as it moved round you could only see one end of the rod so then it would appear small and circular. It wasn't changing shape but it seemed that way due to the smooth movements it was making. It seemed big ang close but as there was only sky around it was hard to determine the size and distance away from me. I live in a busy town so i'm sure somebody must have seen it. The object then seemed to become very small very quickly but I still wouldn't say it changed shape but moved very high in the sky with undescribable speed giving the illusion that it had become smaller. When it was moving as if on a pivet it would move slowly in a circular movement but only for about 90 degrees then it would move back the opposite direction. It wasn't a balloon. Has anyone seen anything similar?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35251.html](http://www.nuforc.org/webreports/reports/035/S35251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Loganville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular shaped object with 3 bright rectangle lights and one red flashing light.My wife and I were traveling down Baycreek Church Road when we noticed bright light about a half a mile away.  I have traveled this road thousands of times and never noticed any lights there before.  As we got closer we noticed it had three very bright rectangle shaped lights and a flashing red light on the bottom.  We slowed down in amazement and my wife noticed it was barely moving.  It was basically hovering above some trees about 100 to 150 feet above the ground.  It was hovering above trees on the edge of the road.  My wife was actually able to look up at it as we drove by since it was on the passenger side.  At that time I notice warning indicators on my speedometer started to come on and my blinkers wouldn't work.  As my wife looked up at it she notice it was a triangular shaped craft.  I dropped her off at home a few miles away and my electronics started working normally again.  I went back to see if it was still there and it was gone.  Once I returned home we, were outside and saw white trails zigzagged all over the sky similar to what a jet would leave, but these were to low to of been a airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107427.html](http://www.nuforc.org/webreports/reports/107/S107427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
