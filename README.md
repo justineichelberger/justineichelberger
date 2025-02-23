@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Winter Park (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>At around 7 AM this morning, I woke up hearing my wife making a bottle for our baby.  At the same time, I heard a loud humming, to the point it was vibrating our wall in our room, which faces the back yard and into a field.  The field is not large.  With our yard to the back of neighbors' fence is about 200 feet.  Anyways, when I went to check on the noise, since I thought it was wiring in our old house, but saw nothing wrong anywhere.  My wife said she saw a bright pinkish and blue flash ground the dining area window which was around the corner from the kitchen.  She didn't see anything directly, but with me hearing the humming and she seeing the flash, the 2nd thing in my head is UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107417.html](http://www.nuforc.org/webreports/reports/107/S107417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>This was one of the most wonderful, light, fire, glowing flame experience.Laying down on my back looking at stars, while wind blowing and hearing sound of wind.Started praying to Jesus and marveling at his wonders, and at the same time praying for a better, tomorrow.  I notice what I could only describe this light in the sky.As I'm praying and looking out the windows clouds were.clearing,  Quickly. I saw what seems  to be about 500/600'  up in the sky beautiful,brilliant light smoothly passing by my window.  I text my son then my daughter and told her it could have been an angel.I dont know what it is but it was wonderful.((NUFORC Note:  We cannot certify that this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107468.html](http://www.nuforc.org/webreports/reports/107/S107468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
