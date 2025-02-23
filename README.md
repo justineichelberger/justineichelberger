@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kensington (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Diamond shaped  light configuration in rural New Hampshire</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55489.html](http://www.nuforc.org/webreports/reports/055/S55489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>This photo was captured on a house camera at ((address deleted)) the photo captured my aunts house at 160 miller rd and in the photo it clearly shows lights above her house even to to the next house.on a closer look it appears to be a UFO ill try to send that photo and a nother normal one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156353.html](http://www.nuforc.org/webreports/reports/156/S156353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
