@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ft. Shawnee (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Oblect travels near refinary.On Wednesday February 23, 2005 at approximately 8:37p.m. my partner and I were heading west in a fairly populous suburb of Lima, Ohio when we saw a large triangular object with three white lights and two reddish orange lights. It was flying slowly at about 200 ft. up traveling in a north to south direction. It crossed the street we were traveling on, then stopped and hovered above an empty grocery store location. As we came closer we watched as it turned as if on an axis at a 90 degree turn towards the east. I had rolled my window down to get a clearer look and noticed it made no sound. In excitement we turned into that parking lot as we did so it began moving laterally eastward. We began to follow it, it moved slowly at first, but suddenly accelerated rapidly. We kept chase for about 200 yards, but couldn't keep up and lost sight of the lights.(object in close vicinity to refinary & tank plant.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42420.html](http://www.nuforc.org/webreports/reports/042/S42420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Here is the info I tried to submit on your site- I got a fatal error. Bright green light heading to earth at about 45 deg angle Northeast of Oakland Airport, appearing to come down just to the east of the Oakland hills.  The object moved very fast and I saw no light/explosion from impact.  I thought it was a plane crashing at first but it was a distinct, very bright green light that left no trail/flames/debris.  We flew over the area about 1 hr later and saw no signs of impact.This appears very similar to the light that some folks saw in Napa in December of 2001 (in your database).I'm a professional and was very clear when I saw the light.  I was heading to the Oakland airport for an early flight.  This light was in the opposite direction of the airport and was definitely not a plane.((NUFORC Note:  Time and date of event are unknown.  The witness anonymously submitted the above text, but provided no details as to time and date.  The party has not responded to our queries via e-mail, although the report appears to us to be serious minded in nature.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28734.html](http://www.nuforc.org/webreports/reports/028/S28734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
