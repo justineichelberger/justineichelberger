@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:23 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tremont (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Two bright lights appeared over the sky above Tremont, PA, one sped off at a very high rate of speed.While driving east on SR209, nearing the I-81 interchange (about 1/2 mile west of Home Depot distribution center), a witness saw a very bright light in the sky directly east of his location.  At about two seconds later, a second bright light appeared to the left of the first light.  A second later, the first bright light sped off from right to left and disappeared to the north at a very high rate of speed.  After the first light sped off, the second light faded off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80225.html](http://www.nuforc.org/webreports/reports/080/S80225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Midlothian (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extremely three bright  lights that were shooting start fast.PLEASE HELP!!! Im not joking. A few minutes ago I was walking my Dalmatian, Harley and I saw three BRIGHT lights.  As I was watching them IT "zoomed" across the sky.  Trust me I have seen jets, shooting stars and tons of fast planes.  At first I thought this was a bright shooting star but about 5 sec. later it "ZOOMED" back.  It was the FASTEST thing I have ever seen.  So I sprinted home, yelled at my mom and sister to go onto the deck to see this.  She called her friend/our neighbor and we watched.  They did see it come to a hault and this thing was silent.  I have much experience air  planes fly over all the time.  And this thing did NOT make a noise.  It also stopped and completely changed directions.  I AM FREAKED OUT AND PUZZLED ALONG WITH MY FRIENDS/FAMILY!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96420.html](http://www.nuforc.org/webreports/reports/096/S96420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
