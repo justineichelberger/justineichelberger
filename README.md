@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed erratic movement of lights in sky appearing to head north/west from our location.  No red lights present.  Movement patterns were too erratic for known aircraft.  Objects traveled from east to west prior to heading north/west.  Weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117464.html](http://www.nuforc.org/webreports/reports/117/S117464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Cross' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White cross shaped craft streaks near Shaw AFB and vanishes in thin air.Walking through a wooded path I stopped to admire the stars. In the southern sky I witnessed a cross shaped craft glowing white streak across the sky.  The angle of flight was horizontal traveling much faster than the jets which frequently train in the area.  The jets sometimes break the sound barrier nearby and make a tremendous amount more noise than the jets flying slower.  The craft I saw tonight made no sound. It also had no fire-trail while the light it emitted was very bright white with the same aura as LED lights.The craft quickly vanished leaving nothing but a light misty trail in its wake.  The trail moved with the wind which was coming from the south at around twelve knots.  The cloud passed overhead two minutes later.  A small passenger plane flew around 2000 feet above the trail which was about 2000 feet overhead, much lower than the clouds above.  The craft was well within the atmosphere when it began its sprint and exited from view in plain sight. The trail it left behind was about half a mile in length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87316.html](http://www.nuforc.org/webreports/reports/087/S87316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
