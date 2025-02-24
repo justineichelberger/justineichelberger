@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Westlake (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>As Me and a co worker were on the job ,I noticed something out of the corner of my eye .High In the sky were three Triangular Craft that were Flying In formation In a Northwest Direction,What amazed us was that these Craft were Transparent !! I could see the clouds as If the Craft Had Camo of some kind .They were moving at a very high rate of speed ,I would love to know what we witnessed .((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27923.html](http://www.nuforc.org/webreports/reports/027/S27923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was 10:30 at night when I spotter a grey triangular flying object that was at a very low altitude.I had just finished a work out in my living room at about 10:30 PM when I went into my restroom to see my progress.  I then looked out a little window in the restroom and saw a strange triangular shaped flying object.  It made no noise and seemed to hoover.  It moved slowly and I just stared in disbelief. When I realized what was going on I went for my cell phone and went outside to record this only took me a few seconds. When i went outside the object was gone.  The following nights I would go and stare out my window to see if it would pass again, but it didn't.  I also felt strange during the nights I felt scared and I could't go to sleep it was unusual.  It felt like someone was watching me, taking me to places.  The memories are very faint, but I do remember feeling strange.Description: Triangular shape with three lights at each end, hovered made no noise, moved slow at first but then vanished, only saw one, was a grey color, very low altitude looked like it was about to hit some houses,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89056.html](http://www.nuforc.org/webreports/reports/089/S89056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
