@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elmira Heights (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A friend and I saw 3 objects over some houses they were the same distance apart so it looked like they were in formation they were not far off the ground. I pulled over in my car to see what they were and I even got out. After about 1-2 min they started to go up slowly then they made a triangle. Then one went towards the west which is towards a town called Corning, NY the other two went up they were heading kind of north west then the all disapeared up into the clouds they were still moving kind of slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08385.html](http://www.nuforc.org/webreports/reports/008/S08385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Copan (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were driving back from dewey ok and my husband who was sitting passenger said look at that!!  There was three bright, orange lights straight across heading north blinking one at a time.  They blinked a couple times and then the whole thing disappeared.  A few seconds later it reappeared in town of copan to disappear a few seconds later.  We pulled over to see if it would appear again and a few military jets went toward the original sighting. (south).((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126027.html](http://www.nuforc.org/webreports/reports/126/S126027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
