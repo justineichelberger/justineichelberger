@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Little Falls (NJ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving on Ridge Road heading north along the reservior. Just as I entered Little Falls I saw an air craft flying fairly low. I watched it for a few seconds and as it passed over my car I caught sight of another object which was a very bright, silver colored object off in the distance beyond that plane. It was very high in the sky which was mostly clear and blue except for some very high white clouds. This object appeared to hang motionless just at the base of those clouds. It hovered at a fourty-five degree angle. I saw no lights or flashing from it and it appeared quite smooth. As I drove on I had to change directions and when I finally resumed driving north again I looked up to the same area in the sky where the object had been, however it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22048.html](http://www.nuforc.org/webreports/reports/022/S22048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Elmira Heights (NY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A friend and I saw 3 objects over some houses they were the same distance apart so it looked like they were in formation they were not far off the ground. I pulled over in my car to see what they were and I even got out. After about 1-2 min they started to go up slowly then they made a triangle. Then one went towards the west which is towards a town called Corning, NY the other two went up they were heading kind of north west then the all disapeared up into the clouds they were still moving kind of slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08385.html](http://www.nuforc.org/webreports/reports/008/S08385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
