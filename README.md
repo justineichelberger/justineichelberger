@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:41 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Apple Valley (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large Chrome Metallic Missile Shaped UFO Travelling At High Rate Of Speed.Was in the car with wife today and about about 1pm or thereafter we were traveling on a busy road and in the span of about 1 to 2 seconds I saw a chrome Missile shaped craft falling to the earth at about a 45 degree angle.  About as fast as a meteorite, but cylinder shaped, sort of pointed on each end and long and super shiny metallic skin.  It seemed to be about 2 or 3 miles away but who can know for certain.  There was no noise or impact cloud or anything, we kept looking.  Because there were home tops, I could not actually see where it went down, but it was over Apple Valley, California, today.Really super bizarre thing to see.  Also, it was very much solid looking and not a reflection in the car window.  Very 3 dimensional.  It had to of impacted at an super high velocity.  One of the trippyest things I have seen in the sky.  Super fast!  Almost thought it was an ICBM, but it did not have a trail.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138932.html](http://www.nuforc.org/webreports/reports/138/S138932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light moving at a high rate of speed.I was standing outside my office looking at the stars, when a light was moving across the sky at a high rate of speed, to high to be a plane heading south west from the North east.  It slowed down to a complete stop.  It was hard to see it when it changed direction and headed south east at a high rate of speed until I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153568.html](http://www.nuforc.org/webreports/reports/153/S153568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
