@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 23 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed erratic movement of lights in sky appearing to head north/west from our location.  No red lights present.  Movement patterns were too erratic for known aircraft.  Objects traveled from east to west prior to heading north/west.  Weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117464.html](http://www.nuforc.org/webreports/reports/117/S117464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Disk shaped object over Albuquerque, NM hovered and sped away at high rate of speed.At 1:12 pm, February 24, 2006, an unidentified flying object was sighted over the city of Albuquerque. The object was seen from a vehicle traveling southbound on Yale. The object appeared to be disk shaped and light colored/semi-reflective (white/light silver). I am a pilot so I know and recognize most types of aircraft. This object appeared to be 1/4 mile south of my position and approximately 1,000 feet in elevation. At that distance, it appeared to be slightly larger than an F-15 (which we commonly see here). The object, I believed was going to approach our location as the airport was nearby. I was very curious to see the object closer so I could identify it as it was very strange looking. However, the object didn't appear to be moving in our direction. Possibly moving slowly and laterally. After about 15 seconds, it began to travel away from us (north) at an incredible speed. It became a distant point before disappearing out of sight after about 7 seconds. Weather conditions were calm and clear. No other air traffic was in the immediate area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49289.html](http://www.nuforc.org/webreports/reports/049/S49289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162194.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162216.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162200.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162205.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162202.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
