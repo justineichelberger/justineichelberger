@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Albert (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Heronian angle shape/ red lights/ slow and quiet/ black and large formLooking to the sky I see a black form moving slowly across the sky.  The form have many redish lights quiet visible from the ground.  (Bright than plane lights).  It was quiet low to the ground but still a few apartment buildings in the air.  The shape was like a badly written Uppercase L, the bottom of the L was angled downwards a bit like an heronian angle.  The form itself was pretty big and also made no sound.  I did try to follow it, but couldn't find it after it went behind some trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154237.html](http://www.nuforc.org/webreports/reports/154/S154237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Objects darted around as if they were playing tag.  I shined my light at several of the objects and they followed my light again as if they were playing follow the leader i.e. follows my light.  The objects, which were triangle in shape, were surrounded by a field that changed shape.  The objects moved side-to-side, up and down, also hovered, and at times were completely still, NO SOUND WAS HEARD from any of the objects.  1 year ago, I saw a triangle shaped craft up and close as it appeared motionless above a neighbor’s home almost appearing as if it was observing what was going on in the home at that time.  I will write that repot in detail and post it soon.  Let me just say the object I saw up and close WAS some type of triangular craft, it could for a lack of a better word camouflage itself, blending into the sky as if it was a small cluster of stars.  It was very quick and stealth. It made no sound or had no exhaust or heat signature!!  These crafts fly above t! he VA beach sky’s day and night.  There are bright triangular crafts that the military use and hide in plain sight, they appear to be stars but are some type of craft that have extremely bright lights, I have seen them up close, and personal too, I believe they are some type of very Advanced MILITARY DRONE.  Not much bigger than a vw bug but quick fast stealthy, they can move around.  Just look in to the night sky for a triangular shape that appears to move just a bit.  They are there every night and day.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138928.html](http://www.nuforc.org/webreports/reports/138/S138928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
