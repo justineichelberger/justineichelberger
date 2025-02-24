@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three strange balls of light darting about in a pattern above newton, new jersy.My family, 2 boys and my husband, were out on our porch one evning when my oldest son pointed to the sky and said: "Look mom, ufos!"  I looked up and there were 3 balls of light, roughly a mile up, darting about in patterns.  I watched for a momment while my husband went to get the camera, but as son as he came out side again, they all shot up and out of site at the same time.  The were a greenish blue, but when they shot up the turned a brillant red.  They made no sound and apperently we are the only ones that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43086.html](http://www.nuforc.org/webreports/reports/043/S43086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Southern (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Three air crews encounter strange object. Audios located.Bt. roughly 3:30 p.m. and 4:15 p.m. local.  A series of strange events occurred high up in the flightlevels above Southern Arizona.   N71PG, a Learjet 36 belonging to Phoenix Air, and American Airlines Flight 1095, an Airbus A321, had independent close encounters with a strange craft flying at around 40,000 feet.  The planes were flying east at about 37,000 feet between the Sonoran Desert National Monument and the New Mexico border when the incident took place.2018-02-24-FAA-Southern Arizona.mp3</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139545.html](http://www.nuforc.org/webreports/reports/139/S139545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
