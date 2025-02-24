@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:40 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Disk shaped object over Albuquerque, NM hovered and sped away at high rate of speed.At 1:12 pm, February 24, 2006, an unidentified flying object was sighted over the city of Albuquerque. The object was seen from a vehicle traveling southbound on Yale. The object appeared to be disk shaped and light colored/semi-reflective (white/light silver). I am a pilot so I know and recognize most types of aircraft. This object appeared to be 1/4 mile south of my position and approximately 1,000 feet in elevation. At that distance, it appeared to be slightly larger than an F-15 (which we commonly see here). The object, I believed was going to approach our location as the airport was nearby. I was very curious to see the object closer so I could identify it as it was very strange looking. However, the object didn't appear to be moving in our direction. Possibly moving slowly and laterally. After about 15 seconds, it began to travel away from us (north) at an incredible speed. It became a distant point before disappearing out of sight after about 7 seconds. Weather conditions were calm and clear. No other air traffic was in the immediate area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49289.html](http://www.nuforc.org/webreports/reports/049/S49289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Parker (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw object and thought to be a bird or balloon.  Object moved in a large circle, then moved east and then turned and moved south until we could no longer see it against the white sky.  Object was round and small and silver in color.  It moved slowly and without sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49302.html](http://www.nuforc.org/webreports/reports/049/S49302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
