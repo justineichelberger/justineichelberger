@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:09 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hazey, swirling, lights.We were at John's Hopkins Hospital in Baltimore, Maryland. We were staying at a place called the childrens house. The designated smoking there was outside, while I was outside, I looked up, it was late in the evening, there were many lights were like hazey, but moved in a way, like rotating, like a square dancing kinda thing. I stood and watched for as long as I was smoking, and I went inside and mentioned it to someone, they didn't think anything of it, and I went back out, the lights were gone. Its been on my mind all this time, cause it was right over my head. We were there for another week, and every night I would look for them, and they didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17166.html](http://www.nuforc.org/webreports/reports/017/S17166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>three strange balls of light darting about in a pattern above newton, new jersy.My family, 2 boys and my husband, were out on our porch one evning when my oldest son pointed to the sky and said: "Look mom, ufos!"  I looked up and there were 3 balls of light, roughly a mile up, darting about in patterns.  I watched for a momment while my husband went to get the camera, but as son as he came out side again, they all shot up and out of site at the same time.  The were a greenish blue, but when they shot up the turned a brillant red.  They made no sound and apperently we are the only ones that saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43086.html](http://www.nuforc.org/webreports/reports/043/S43086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
