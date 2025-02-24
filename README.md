@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Val-des-Monts (St-Pierre) (QC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Illuminated lights and an oval shadow were cast on wall inside bedroom late at night.I was awoken in the middle of the night by bright colored lights flashing against the wall above our closet (cathedral ceilings).  I laid in bed an opened my eyes to see the shape of the object reflected off the wall, which was oval with pointed ends and several round lights.  There was also a faint humming sound.  I was not scared, but it felt like, as soon “it” realized I was awake, it left instantly.  I didn’t even have time to sit up in bed, or run for my camera.  I had been in deep sleep, and was able to fall right back alseep (how odd).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153628.html](http://www.nuforc.org/webreports/reports/153/S153628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Westlake (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>As Me and a co worker were on the job ,I noticed something out of the corner of my eye .High In the sky were three Triangular Craft that were Flying In formation In a Northwest Direction,What amazed us was that these Craft were Transparent !! I could see the clouds as If the Craft Had Camo of some kind .They were moving at a very high rate of speed ,I would love to know what we witnessed .((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27923.html](http://www.nuforc.org/webreports/reports/027/S27923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
