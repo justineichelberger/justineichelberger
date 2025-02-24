@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light moving at a high rate of speed.I was standing outside my office looking at the stars, when a light was moving across the sky at a high rate of speed, to high to be a plane heading south west from the North east.  It slowed down to a complete stop.  It was hard to see it when it changed direction and headed south east at a high rate of speed until I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153568.html](http://www.nuforc.org/webreports/reports/153/S153568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Albert (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Heronian angle shape/ red lights/ slow and quiet/ black and large formLooking to the sky I see a black form moving slowly across the sky.  The form have many redish lights quiet visible from the ground.  (Bright than plane lights).  It was quiet low to the ground but still a few apartment buildings in the air.  The shape was like a badly written Uppercase L, the bottom of the L was angled downwards a bit like an heronian angle.  The form itself was pretty big and also made no sound.  I did try to follow it, but couldn't find it after it went behind some trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154237.html](http://www.nuforc.org/webreports/reports/154/S154237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
