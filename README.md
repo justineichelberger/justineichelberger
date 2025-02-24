@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Wierd cigar shape flying object  with strange aura and no sound.On the 24th of Febuary, 2009 my brother ask me to take him to pay his celluar phone bill.  We pulled up at a small business plaza and i drop him off at the front of the place.  I continued on to park and found a space a few feet fron the cell phone payment store.As i was waiting for him i was looking around and looked up to my left and saw a white object flying in the sky, at frist i tought it was small business jet plane, but when i looked at the object i realized it did not have a tail or jet engines, i statrted my car and pulled out of my space to a spot where i could see the object better, and saw it was white with a strange glow and had a small set of wings 3/4 of the way to what looked like the end of it.What really startle me then is that it was flying real straight and then all of a sudden it sped up fast and vanished. It was a clear day with blue sky, and i know what a plane looks like, because, in this area i was located at you can see the planes after they take off or when the are begining to decend, because the airport is over 12 miles away. What caught my eye was the fact that this object was flying real low and fast and had no engines and no tail and made no sound, I was hopeing my brother would come out quicker to see what was happening, but by the time he did it was gone. I know some people are going to say it was a military drone or something like that, but i was in the military for almost 14 years and i know what airforce drones all look like. So what i saw was definetly a UFO,  I include some drawings I made of what i saw, let me tell you it realy freak me out, and at first not even my brother belived me, but when he saw i was serious he began to wonder if what i saw was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69033.html](http://www.nuforc.org/webreports/reports/069/S69033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Looking to the NNE at 5:20 A.M. I perchanced to see a fluorescent green fire fireball, about the size of a dime at arm's length.  Trailing it was an orange-white tail.  Sighting lasted 2-3 seconds.  Sky clear, with clouds moving in from the north.  Sighting occured in clear skies.The object ( fireball ) was the size of a dime held at arm's length and of a fluorescent green color, trailed by an orange-white tail. Object descended in graceful arch ( approx. 45 degree angle ) across the nne skies.  There was no noise at all.  Note: I am familiar with fireworks, and assure you this was not a firework by any stretch of the imagination.  There were no other witnesses</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05673.html](http://www.nuforc.org/webreports/reports/005/S05673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
