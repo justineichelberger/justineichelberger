@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:23 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Unidentified object spotted at sea off Key West Fla.I was sitting on a starboard balcony of a cruise ship, scanning the northern sky.The ship's position was in the northern gulf, west-southwest of Key West Fla.The sky was mainly clear with scattered clouds low on the horizon. Several stars were visible but one stood out as it appeared to be a sphere rather that a twinkling object. I presumed it was a planet and that was more clearly visible due to being in open waters with the absence of light. I then became more intruiged with it as I realized it was positioned between my line of sight and the scattered cloud cover.No sooner had I realized that, then the object began spinning in a pinwheel fashion, the circumference of the area growing with each revolution. It spun very fast and I can only speculate that it spun 8-12 times.It then sped off in a north-westerly direction at an amazing rate of speed.I find it difficult to characterize the sighting and the motion other than to compare it's actions with the child's game of "crack the whip". The pinwheel motion almost looked like the object was gaining momentum and when it had enough, it "flung" itself into the northwestern sky. I followed it for approx 1-2 seconds before it disappeared.I cannot articulate properly the impact of witnessing this phenomenon. It was much more spectacular than my description provides.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62928.html](http://www.nuforc.org/webreports/reports/062/S62928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ahwatukee/Phoenix/Gilbert/Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Four lights non formation up high over desertFour low level lights on the south side of South Mountain.  Not moving much at all. Hovering around an elevation 2000-6000 feet possibly.  Drove toward them from east Gilbert on freeway and to the I-10 freeway lights moved very little.  Saw multiple angles and DID NOT see any beacon lights like an air plane would/should have.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80215.html](http://www.nuforc.org/webreports/reports/080/S80215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
