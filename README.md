@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:40 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:40 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Parker (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Saw object and thought to be a bird or balloon.  Object moved in a large circle, then moved east and then turned and moved south until we could no longer see it against the white sky.  Object was round and small and silver in color.  It moved slowly and without sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49302.html](http://www.nuforc.org/webreports/reports/049/S49302.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chambersburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>Bright unmoving star light object observed in lower sky where no astrological object should beAt around 8 PM on the evening of the 24th - i was pointing out stars and formations in the sky to my grandchildren.  In the western sky - fairly low - but above the mountains - was a bright object - second in brightness to the moon - at first i thought it was the planet Venus - but upon observing the light blinked like a star's light and i found Venus in the eastern (sic.  Jupiter?  Venus is in the western sky, at the time indicated.  NUFORC) sky.  Upon further observation - i saw a small reddish hue to the lower left side of the bright object.  The sky was perfectly clear without clouds, there was no noticeable noise, and the object was not moving.  I placed a point of reference in the ground to make sure the object was not moving.  After watching some 5-10 minutes - i got my wife and son in law to observe as well.  We took a few pictures on the cell phone - but nothing really of note - After observing off and on for 30 minutes - i went to the computer to see what might be so bright in the western sky - and found nothing of note for that t! ime and date.  I went to get my camcorder to film the object - came back outside and the object was gone.  This whole process consisted of some 30 minutes in duration.  I have been watching the sky as weather allowed the last several nights since- around the same period and have not seen anything - except for the 27th - when around the same time i observed a similar light in brightness in the western sky - but higher than the previous night.  I observed for about 10 minutes - when i went inside to get the camcorder I emerged to an empty sky again.  We are in a rural area with a very clear sky with little light residue.  We are also near a military depot - around 7 miles away.  A friend observed the brightness in the western sky on the 24th as well - but assumed it was a star and did not watch it for any period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117529.html](http://www.nuforc.org/webreports/reports/117/S117529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
