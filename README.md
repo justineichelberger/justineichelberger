@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 24 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sheboygan Falls/Kohler (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>An incrediably bright fireball streaked towards the southern horizon and disappeared quicklyWe were headed south from Howards Grove towards Sheboygan Falls when we noticed a very bright fireball falling towards the southern horizon.  It was green and emitted a light green trail at the end that stood for 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06161.html](http://www.nuforc.org/webreports/reports/006/S06161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ripley (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A round shiney object that was slower than a helicopter and like a balloon.Me and my little girl was driving down toward WalMart when she looked up and said daddy what is that plane doing going so slow.I looked up in the sky over the hill and this cirlular shape that was moving real slow like the speed of a helicopter but slower was bright aluminum color .Its shape was very distict, then I looked down at the road then looked up again in a clear sky and this shaped just disappeared into thin air.We parked and looked up in the sky and saw a jet and its vapor trail.But this thing moved very slow in the sky and was very hesitant at approxitly a mile upand there was no trail or anying and the sky was perfectly clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42444.html](http://www.nuforc.org/webreports/reports/042/S42444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162214.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162204.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162223.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162211.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162220.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
