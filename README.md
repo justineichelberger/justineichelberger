@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:32 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:47 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Canberra (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>about 5 pm a round silver shaped ufo about 6 feet across at 5000 feet went in a drifting zig zag direction from west to east to east to south and then my mother a i lost sight of it and i was calm light thermal blue sky and the object flashed the sun light and i took photos of it ..this is the 4th time i have witnessed the object in canberra with others over the last 20 years and if it was a ballon how did it move the way it did in the conditions((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Probable hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61910.html](http://www.nuforc.org/webreports/reports/061/S61910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewistown (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Ring doorbell caught image of light and spaceshipOur Ring doorbell on back porch kept going off but no one was there.  Next day I looked at all the motion and was able to see a bright light high over our back garage.. appears maybe even a figure in the light and off to the right was a saucer like with 3 lights.  I could furnish a picture.  I was able to screenshot it but now it is gone when I look for it in the ring footage.  Evens shows the time of the early morning.  So strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153697.html](http://www.nuforc.org/webreports/reports/153/S153697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
