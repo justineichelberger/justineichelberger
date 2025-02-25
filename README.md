@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ridgely (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>A Whitish/Orange Light in the sky made no sound as it traveled overhead.I don't know if anyone has reported this or not.Wednesday Feb. 25, 2009 I live in Ridgely, MD (Eastern Shore)  On the way home from my 2 daughters' dance class (8:25 PM), we saw a strange light in the sky.At first it didn't seem to be moving.  I pulled into the drive way and stopped about halfway down, opened the window, and turned down the radio to see if I could hear anything.  I could not hear any sounds other than the car engine.I parked the car and we went inside. I pulled out my Binoculars, went to the back porch and proceeded to watch the object.There were no visible flashing lights on the object.  It was a very bright whitish/orange and traveling at a steady speed in a North/Northwesterly direction.I observed aircraft pass over my house and in the distance, all with the telltale flashing lights. This object was considerably brighter than any light on an aircraft.  Too contrast, I witnessed an airplane pass under the object, in relationship to the horizon, and could easily see the flashing lights.I went inside and brought out our telescope to get a closer look at the object.I could not make out any visible edges, only light. The object seemed to pulse but never left it's course.My youngest daughter and I watched it until it vanished over the horizon.As a clarification: We live on one of the flight paths used by Dover AFB.We have seen combat helicopters, regular helicopters, Chinooks, A-10s, F-16s, and C130s pass over. Growing up, I lived near Andrews AFB, and we have a small airfield on the outside of town (about 4 miles from me) and Easton airport to the south, So I have a lot of experience with identifying aircraft.What we saw on Wednesday night wasn't anything I have ever seen before.I wish I had had the foresight to bring out a camera, but I wanted to identify the object first. (Next time I'll get the camera also)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69024.html](http://www.nuforc.org/webreports/reports/069/S69024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sulphur (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small silver object size of big rectangular cell phone traveled past me - what's up with that?The object was about 15 yards away, it was rectangular - about 3 inches high, 12 inches long, uncertain of the width, it was aluminum foil in color, it was traveling from West to East in a straight line approx. 10 feet off the ground. I was facing North, it was traveling from my left to my right.  I first saw directly in front of me front of me for about 1 or 2 seconds (in the direction of a farm pond on my property), when it was right in front of me it vanished (I could not see it for 1 of 2 seconds) then it again appeared to my right about 20 feet farther to the East continuing in the same direction it had been traveling and I saw it for 1 or 2 seconds as it traveled away from me.  I estimate its rate of speed was 10-15 MPH - about as fast as a man can run.  It never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117527.html](http://www.nuforc.org/webreports/reports/117/S117527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
