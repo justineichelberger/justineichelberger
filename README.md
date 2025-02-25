@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Broomfield (CO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>horizontal gray teardrop shaped craft arced across neighborhood just above houses.I was on my way home from the grocery store at about 1:15pm on 25 February, 2017, heading south on Kohl St. in Broomfield, CO.  As I stopped at the intersection of W. 11th, looking southward, I saw a strange object moving above the roof tops near the intersection of Kohl St. and W. 10th Avenue, a block away.The object was a solid and somewhat irregularly shaped teardrop that was horizontal and heading at an even level and speed towards the east.  It was a gunmetal gray color.  The plumper part of the object was to the east and the sharper point to the west.  It was smooth, but on the east end, the shape had a slightly squared edge on the top rim.  The bottom of it seemed flat.  I wondered if it were a drone, but it had no protruding parts, such as propellers or wings.  I am estimating that this object was about two feet long and two and a half feet at the widest point.There was no traffic, so I turned east on W. 11th and kept looking at it as it arced northeast above the houses on the next street.  I turned down that street, but it flew beyond the street and disappeared from view.The wind was pretty strong from the northwest at that time.  If it had been debris, I believe it would have tumbled and pirouetted in the sky, taking on irregular shapes.  Instead, it remained in the same shape, and it moved in a completely even trajectory, at a steady altitude, and at a steady pace.  I do not believe this was debris caught in the wind.  I believe it was a craft moving at a steady velocity, with purpose, towards the east/northeast.If it made any sound, I did not hear it because I was in the car and the windows were rolled up completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132856.html](http://www.nuforc.org/webreports/reports/132/S132856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Union (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Red/orange Lights over Union Ohio with sound at firstWe were sitting inside when my younger sister and her friend came running inside screaming there is something in the sky. My friend, fiance, parents, and I all ran outside to see what she was talking about.  When we got outside there were only three redish orange orbs in a formation pattern.  They began to move in an elliptical direction and changed to a blue color and then back to red.  As soon as it changed back into the red color it slowly disappeared.When we came back inside we asked my sister what exactly happened, she said that they heard something in the sky and looked up to see around seven shapes in the sky moving around in a weird way.  She mentioned that it sounded similar to a helicopter before they started to go away.  She went on  to say that one on the outside of the formation shot something out away from where they were standing.  I am certain that these were not helicopters.  The way these were moving is not something that any helicopter could imitate, especially the shape.  The objects that I saw were brighter than any star, or meteor that I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87362.html](http://www.nuforc.org/webreports/reports/087/S87362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
