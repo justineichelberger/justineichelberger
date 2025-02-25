@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hartsville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately currently  happening - currently  happening minutes.</sub><blockquote><sub>bright light hoovers over tennessee ski....we are currently watching a very bright light in our shies that appears to be hoovering at times and then moving at extremely slow speeds...at the same time we are observing aircraft in the area and this is definitely not a aircraft...the dogs are howling constantly and even the cats are acting strange...  My friend ((name deleted)) who has lived here for years has never seen anything quite like this...We are taking photos of the light but am unsure of how they are going to turn out...currently the craft has now dissappeared so the event lasted  about 20 minutes...This is definitely a very odd and strange event…((NUFORC note:  We do not know what they are observing, but we would first address the possibility of Venus, which might be visible at 4:00 p.m. on a clear day.  That is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16632.html](http://www.nuforc.org/webreports/reports/016/S16632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Splitting Orbs, Fade Out.Orbs of light, orange/yellow in color.  Started as one, split to two, then three, straight across.  No trails up or across.  Have seen them on numerous occasions over the last few weeks.  Shortly after, military planes head out.No sounds.  They fade out and reappear nearby.  Always South/Southwest of Tucson.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117489.html](http://www.nuforc.org/webreports/reports/117/S117489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
