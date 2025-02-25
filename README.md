@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Long Streaks of Light (that put me in mind of instant "Icicle Like" Streaks Suddenly Appearing All Over The Sky (Forming Clouds)With Hovering White Lights Hiding Behind these Clouds.Ever since the rains began coming in.  I sensed something wrong.  I convinced my husband that the clouds didn't look normal of seem to be forming normally.  I was outside one early a.m. approximately 3:00 A.M., there were no clouds in the sky.  I was loading my car with Work Supplies.  I noticed that long streaks of light (that put me in mind of instant "Icicle Like" Streaks that were suddenly appearing all over the sky, they filled up the sky and then seem to be forming clouds.  I swear... After only an hour or so watching,the whole sky was full of clouds. From nothing? After finally convincing my husband of the bizzarness of this, he agreed that we should to take a drive out and away from the city lights to obeserve.  So, the following A.M., we saw more of the same thing, HOWEVER... in between these clouds, were hovering white lights (posing as stars) that seemed to be hiding behind these clouds.  They moved back and forth, Up and Down. It seemed like whenever we would point them out to each other or notice them, they would move behind a cloud for cover.  We observed at least, 10-15 "At A Time".   Then, out popped a sporadically moving, (STRAIGHT UP, FAR LEFT, DOWN, FAR RIGHT, THEN UP) A "Extremely FAST "Flashing" RED" Object, this thing was "All over the place". It moved this way until it found a cloud to hide behind.  The reason I say this, is because, when it popped out again, it wasn't moving sporadically.  Until, what seemed, it realized it was revealed, then there it went again, "All Over the Place Again", then disappeared behind the clouds.  We were so freaked out, being that we were out in the middle of a secluded area,and then also realizing that these objects were not far away from us at all.  That they could be aware that we were watching.  We Beat It Out Of There... & Quick!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03316.html](http://www.nuforc.org/webreports/reports/003/S03316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light and changed 10 min later with light beams or haze on top and bottom. Then dimmed while moving slowly.Went out for a smoke around 8 to 8:30 at my friend's house and noticed a bright white light looking northwest. Figured it was a plane or helicopter but just sat in one spot for about 10 minutes. Saw a plane fly by in between us and the object. Noticed it started changing after 10 minuted with settle light beaming or a haze from the top and bottom of the object. Was thinking it was a planet before it started changing. Two for my friends saw it as well. Less than a minute later the light dimmed slowly and moved very slowly closer to the ground and to the right then went out of sight. I know it wasn't a plane. There's airports and Boing near by so I know what a plane looks like and you always see flashing marker lights eventually. I can't explain what I saw but heard of fireball sightings in our area lately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80233.html](http://www.nuforc.org/webreports/reports/080/S80233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
