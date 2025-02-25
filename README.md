@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:47 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewistown (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Ring doorbell caught image of light and spaceshipOur Ring doorbell on back porch kept going off but no one was there.  Next day I looked at all the motion and was able to see a bright light high over our back garage.. appears maybe even a figure in the light and off to the right was a saucer like with 3 lights.  I could furnish a picture.  I was able to screenshot it but now it is gone when I look for it in the ring footage.  Evens shows the time of the early morning.  So strange!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153697.html](http://www.nuforc.org/webreports/reports/153/S153697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At around 22:00. I was out jogging and noticed a bright orange fireball type of object flying pretty slowly across the sky.  It seemed like a circular object that appeared to be on fire.  It was traveling from South to North.As it proceeded to move northward, the bright orangeness started to fade a little bit and I noticed it had a silver/Transparent appearance.  It flew across the sky for about 3 minutes.About 1 minute later, I saw another object with the exact description listed above.  It was flying in the same direction and flew across the sky for about 2 minutes.  However, it was traveling faster than the first object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117490.html](http://www.nuforc.org/webreports/reports/117/S117490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
