@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White, Shiny Cigar Shaped Craft OverheadI was standing outside in my neighbors driveway across the street waiting for my children's bus to drop them off when I glanced up into the sky.  Ironically, I was also thinking how cool it would be to see another daytime UFO (I had witnessed 2 prior to this sighting back in 2009).As I'm standing there gazing up at the sky I immediately noticed a large black bird and while looking at the bird happened to see a white, shiny object right next to it but at a much higher altitude.  Obviously, my attention was then focused on the object.At first I believed it was an airplane because we see them often flying in and out of TIA about 25 miles away.  But, as I looked closer, I noticed there were no wings on this craft!  Even at a very high altitude, the wings of planes are easily visible on a clear day, especially when they fly directly overhead as this object did.here were only a few small clouds in the sky today so that was not an issue.This object was flying at approx 25,000-30,000 ft yet, it flew slower than normal aircraft.The object appeared to be a white, shiny material (since the sun was reflecting off part of the craft) and flew from east to west, towards the Gulf of Mexico. It was the size of a grain of rice held at arm's length and the same shape too. It made no noticeable sound. Whenever airplanes fly over us, they are easily heard and recognized as plane. They can be quite loud.I lost sight of the object when the bus pulled up and my attention drawn away.  When the bus left and my kids and I were walking back up the driveway to our house, I stopped and tried to find it again but, it was gone. In 2009 I saw and reported an identical craft flying from west to east and disappearing into a narrow but very tall, cylindrical shaped cloud.  I should have seen it exit the other side of the cloud if it had maintained the same speed but, the object never came out the other side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80221.html](http://www.nuforc.org/webreports/reports/080/S80221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ripley (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A round shiney object that was slower than a helicopter and like a balloon.Me and my little girl was driving down toward WalMart when she looked up and said daddy what is that plane doing going so slow.I looked up in the sky over the hill and this cirlular shape that was moving real slow like the speed of a helicopter but slower was bright aluminum color .Its shape was very distict, then I looked down at the road then looked up again in a clear sky and this shaped just disappeared into thin air.We parked and looked up in the sky and saw a jet and its vapor trail.But this thing moved very slow in the sky and was very hesitant at approxitly a mile upand there was no trail or anying and the sky was perfectly clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42444.html](http://www.nuforc.org/webreports/reports/042/S42444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
