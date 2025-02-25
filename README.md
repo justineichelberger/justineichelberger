@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Splitting Orbs, Fade Out.Orbs of light, orange/yellow in color.  Started as one, split to two, then three, straight across.  No trails up or across.  Have seen them on numerous occasions over the last few weeks.  Shortly after, military planes head out.No sounds.  They fade out and reappear nearby.  Always South/Southwest of Tucson.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117489.html](http://www.nuforc.org/webreports/reports/117/S117489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Prior Lake (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stationary, bright light that blinked 3 times and faded outI was going to work at 5:30 am and noticed an extremely bright light at 223*, 35* up angle from my position.  It was so bright that it captivated me and the object was not moving.  I thought it was a planet and tried to pull up my star app.  Before I could get it up, the light flashed 3 times and faded out.  It was directly right of a star but I was unable to identify with the app .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155186.html](http://www.nuforc.org/webreports/reports/155/S155186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
