@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pocola (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stationary light in the skyToday and for 3 days prior, myself and other witnesses have observed what at first appears to be a bright star.  After stopping to focus on this, the object whatever it may be has a beam of light that shines and goes from side to side very slowly almost like a light house.  There is also a blinking light on this same object.  The object is stationary and is in the same position; at least it has been since I began observing.  The longest it has stayed in the sky is around 3 hours. After that time, it is no longer visible.((NUFORC Note:  Sighting of Jupiter and/or Venus, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87358.html](http://www.nuforc.org/webreports/reports/087/S87358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 ufo no picture Georgetown txUnknow objects observed....Location: Georgetown,Texas Date: 02-25-11 Time: approximate 4:00 am  Description of event: The cat rattles the door to get in. This woke me at 3:47am. I did not let the cat in. The cat rattled the door till almost 4:00am. I went to the sliding glass door and made the following observation.Two object seen in the Eastern sky. At first they were the same intensity as surronding  stars. They increased in brightness and and went directly up. This was not a matter of the object going off towards the horizon.One object was smaller and displayed a red tint with flashes of white.  The other was larger and solid white.No sound was noted.The lights had grown so small they were getting hard to see.... One object then made a change in direction and headed South. The other remained in position for a minute or two then also headd south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80219.html](http://www.nuforc.org/webreports/reports/080/S80219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
