@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ripley (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A round shiney object that was slower than a helicopter and like a balloon.Me and my little girl was driving down toward WalMart when she looked up and said daddy what is that plane doing going so slow.I looked up in the sky over the hill and this cirlular shape that was moving real slow like the speed of a helicopter but slower was bright aluminum color .Its shape was very distict, then I looked down at the road then looked up again in a clear sky and this shaped just disappeared into thin air.We parked and looked up in the sky and saw a jet and its vapor trail.But this thing moved very slow in the sky and was very hesitant at approxitly a mile upand there was no trail or anying and the sky was perfectly clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42444.html](http://www.nuforc.org/webreports/reports/042/S42444.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hartsville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately currently  happening - currently  happening minutes.</sub><blockquote><sub>bright light hoovers over tennessee ski....we are currently watching a very bright light in our shies that appears to be hoovering at times and then moving at extremely slow speeds...at the same time we are observing aircraft in the area and this is definitely not a aircraft...the dogs are howling constantly and even the cats are acting strange...  My friend ((name deleted)) who has lived here for years has never seen anything quite like this...We are taking photos of the light but am unsure of how they are going to turn out...currently the craft has now dissappeared so the event lasted  about 20 minutes...This is definitely a very odd and strange event…((NUFORC note:  We do not know what they are observing, but we would first address the possibility of Venus, which might be visible at 4:00 p.m. on a clear day.  That is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16632.html](http://www.nuforc.org/webreports/reports/016/S16632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
