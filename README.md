@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 25 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sulphur (OK) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Small silver object size of big rectangular cell phone traveled past me - what's up with that?The object was about 15 yards away, it was rectangular - about 3 inches high, 12 inches long, uncertain of the width, it was aluminum foil in color, it was traveling from West to East in a straight line approx. 10 feet off the ground. I was facing North, it was traveling from my left to my right.  I first saw directly in front of me front of me for about 1 or 2 seconds (in the direction of a farm pond on my property), when it was right in front of me it vanished (I could not see it for 1 of 2 seconds) then it again appeared to my right about 20 feet farther to the East continuing in the same direction it had been traveling and I saw it for 1 or 2 seconds as it traveled away from me.  I estimate its rate of speed was 10-15 MPH - about as fast as a man can run.  It never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117527.html](http://www.nuforc.org/webreports/reports/117/S117527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 23.0 - 23.0 minutes.</sub><blockquote><sub>cigar shaped silver craft with blue sphere that jumped around it, Real high,slow speed, no clouds. 11:25am. lots of people about but noMorning lunch break downtown Hbg,Pa. Walked one block to drugstore and was looking up at a perfect cloudless blue sky (the first clear day in a week ) Very warm for February. I was looking up at the sky when I noticed ( there were gusty winds but no clouds at all,just very blue sky and sunny ) a glimmer from the North heading South.There was nothing else in the sky but this "object".I saw distinctly a very shiny silvery "cigar shaped" object that had a pulsating Sphere/light as a companion. This Blue orb zig-zagged behind it and to it's sides but never went in front of it.I quick checked around to see if anyone else was watching but no one was and there was a fair amount of people around.I wanted to yell to people but I didn't.It was cruising high up.the orb turned green then back to blue.The craft never veered off the line it was following at a real slow pace.I was transfixed.I stared at this for 23 minutes and no one asked me what I was looking at.I watched until it vanished out of sight into nothingness. It wasn't a figment of my imagination,Sun-spots,reflections,a kite,a plane,a blimp,a promotional stunt,or swamp gas.no vapor trail or wings. This I swear to be true. I wrote all this down just after it happened and then just stumbled onto this site and thought I will report this anyway.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30622.html](http://www.nuforc.org/webreports/reports/030/S30622.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/162/S162221.html)
-- [237](http://www.nuforc.org/webreports/reports/162/S162232.html)
-- [236](http://www.nuforc.org/webreports/reports/162/S162291.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162210.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162207.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
