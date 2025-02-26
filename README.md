@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pinkney (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Observed very large  circular object with white lights along edges top and bottom. Observed moving around a 50 mile area at an altitude between 10,000 and 40,000 ft. Some movement extremely rapid (light speed) at times or faster. Other movement sometimes very slow across 20 mile distance as if scanning.I’m a former Navy pilot. The lights got my attention. No alcohol or drugs. This was very obvious, especially easy to see with full moon tonight. Object was exceptionally large.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162225.html](http://www.nuforc.org/webreports/reports/162/S162225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wayne (MI) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was walking my dog on the afternoon of Feb 26th along Elisebeth St. just before Mi. Ave.  It was aprox 13:30 in the afternoon when my dog stopped in his tracks and looked up into the sky.  I looked up myself and saw a cigar shaped object hovering roughly 5,000 ft. directly above where I was standing, which was at the opening to the dog trail.The object was a gun metal grey with no visable lights on it. It had what looked like a distortion in the air underneith the object that looks like heat coming off a sidewalk.  I could not get a photo of it because of my trying to keep my dog still next to the road and by the time I got my phone out it was gone.Several people in cars at the light at Mi. Ave. must have seen it because they were all looking up in the sky.  The object was smooth with no markings of any kind on it as far as I could see in the short time I saw it.  I neglected to report it because I didn't want to sound like a kook, but this was no drone because even with no point of perspective I could tell that it was at least the size of a school bus if not larger.  I have never seen it again and I have gone back daily to try to get another look at it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118041.html](http://www.nuforc.org/webreports/reports/118/S118041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
