@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in White Sulphur Springs (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Southern sky bright lights, white, green and red flashing with no movement for 20 minutes or more.Thought it was just a bright star or plane, but it was flashing red and green lights, and it did not move.  Got binoculars and could see 5 "windows," or lights, in row along the shape horizontally, middle one brightest white light.  Watched for twenty minutes, tried photo, but camera wasn't catching the light at that distance in the dark.  It did not seem to move but dimmed like it had gained distance.  Clear starry night.  Checked star placement with iPad and none matched for the location.((NUFORC Note:  Possible sighting of Sirius?  Sirius would be in the southern sky at the time, and on the date, indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126056.html](http://www.nuforc.org/webreports/reports/126/S126056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Friendsville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yellow-White fireball viewed over southeast Tennessee - Possible Space Debris?Looking southeast, at about 10 degrees above horizon.  Object appeared as brilliant yellow-white fireball traveling approx. south to north. Was very slow compared to "shooting star".  Fireball pulsed whiter at 1 sec intervals.  Near end of sighting, orange trail became visible with "sparking" effects. Observer is former military aircrew with experience in observing satellite and meteor activity.  Opinion of observer is that fireball was space debris, but unable to confirm at this time.  Thinks pulsing effect could be from debris "tumbling" in atmosphere.  Submitted report in order to correlate with same or similar activity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49307.html](http://www.nuforc.org/webreports/reports/049/S49307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
