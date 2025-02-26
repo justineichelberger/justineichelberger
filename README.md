@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange dot of light hovering and moving  slowly in the sky.On February 26th, 2015, at 12:30 AM, my friend accompanies me on a dog walk, as I get out of late.  I noticed a bright orange light, too orange to be a planet, in the sky.  Because it was moving slowly we agreed it was not a planet or meteorite.  I asked him, is that an airplane?  He answered no, if it was an airplane it appears it would be falling. It began to get slightly brighter and continued moving slowly.  Too slow to be an airplane, or helicopter, completely silent and nothing like we've both ever seen before.  My friend noted a triangular shape.  This  lasted a total of maybe three minutes.  Then, it began to get dimmer in brightness.  Then within a 5-10 second time span, it began to appear to blink, getting smaller and then completely disappeared.  We both do not take drugs, I am college educated and hold a Bachelor's degree, and have up until this point been very skeptical.  My friend is healthy, intelligent and well-read and reasonable and both of us do not have mental illness(s).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117496.html](http://www.nuforc.org/webreports/reports/117/S117496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Golden Orange sphere not blinking, flying close to air traffic, and changing direction....I observed an object in the nw sky, moving toward the south, I then observed a plane coming from the south, I say a plane, because I saw the flashing lights. the object I saw was bright and golden/Orange, with no flashing.  I usually see this when I believe it to be a satellite.. but when I saw it and the plane so close together, and then the non  blinking object move south east when they were in what looked like close proximity, I knew it was not a satellite.  A satellite would not change direction like this object did.  Also, it was a little brighter than the, satellites I see in the sky, and I've never observed one of those change directions as I did this object...  I was driving at the time, pulled over, but was not able to capture a picture our video.  I just know, it was different from what normally observe with satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107496.html](http://www.nuforc.org/webreports/reports/107/S107496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
