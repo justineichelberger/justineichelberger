@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Brigantine (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Lights over Brigantine, New Jersey.I live on the north end of the island.  From my front porch facing the oceanside of the island I observed 2 sets of double lights.  Each set ran vertically and was rotating clockwise.  At first it looked like two planes circling each other but they were too close.  The lights were on for approximately 2-3 seconds then blinked off and on again in a different part of the circle as both sets moved south.  I observed 3 flashes as they moved south.  The fourth and last set of lights there were approximately 10-12 sets of double lights.  Each set ran vertically only this last time they made a half circle that was moving clockwise.  They were closer together than the first 3.  Kind of like a double chain or a rollercoaster.  There was no sound at any time and it took less than 2 minutes.  The lights were a light yellow in color, almost white.  They made no streaks as they moved.  I could not see anything but the lights.  It was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22090.html](http://www.nuforc.org/webreports/reports/022/S22090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cody (WY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I was driving my car to Walmart and as I went around the bend I spotted a green Fireball falling from the sky it appeared to be very close</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132851.html](http://www.nuforc.org/webreports/reports/132/S132851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
