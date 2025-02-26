@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:07 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Seminole (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I'm here to be descriptive as possible.  Last night around 01:19 there was a very loud humming outside my window, i got curious and decided to investigate.  Before i opened my blinds to peer out into the field that is behind my window there was loud forceful gushes of wind, this i didn't think much if due to the fact that i live in Oklahoma.I quickly opened my blinds and in the middle of the field there was a blindingly bright green light low to the ground that looked to just be hovering that stayed there for anywhere between six to twenty seconds.  The craft then seemed to vanish as if it was dissolving and flying towards the sky quickly to the right at a diagonal.  After seeing the craft i began to try to sleep but the humming sound outside of my window wouldn't stop and it felt as if i was being watched though i felt very calm paranoidia set in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145007.html](http://www.nuforc.org/webreports/reports/145/S145007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in I-84  (near ID/UT border) (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A bright light in the night sky above I-84 near Idaho Utah border.Friends and I were driving to Salt Lake for the weekend. We were on I-84 near the Idaho Utah border maybe further into Utah, I'm not exactly sure. I was looking up at the stars from the back seat when I spotted a brighter star. I stared at it realized it was moving parallel to the freeway probably a mile or two away, it wasn't low to the ground probably about as high as a plane. At first I thought it was a satellite so I informed my friends who began to observe it as well. We quickly concluded it was moving to fast, was too bright, was way to low, and as its path started to change from a straight line to an arc we didn't know what to make of it. We observed it for another 15-20 seconds before it went above the clouds. Just as it dissapeared we saw a plane moving very fast from the opposite direction. It was on a direct path to possibly intersect the bright light some distance ahead but it too  went above the clouds. Their paths would have made an 'X' in the sky. We saw nothing after that, the cloud cover obscured the sky for the next half hour or so. I probably would have dismissed the incident but the fact that a plane was in the area too makes it weird. Whoever was flying that plane might have seen it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05808.html](http://www.nuforc.org/webreports/reports/005/S05808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
