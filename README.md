@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Palm Springs (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Picture taken, object cannot be explained.  No reflection possible we can explain. Have photo to shareMy wife and I were visiting J. W. Marriott resort in Palm Springs California.  After we had lunch, we strolled around the outside area just east of the lake they had.  My wife posed for a few pictures and I shot five pictures of the resort with the mountains in the distance.  After I finished taking pictures, I looked at the ones just taken.  About 1:11pm, according to the built in timer on the photos.Much to my surprise, one of the pictures had an image I immediately showed my wife.I asked her, what do you think this is at the top upper portion in the sky?  Both my wife and I cannot explain it.  There was no reflection we could ascertain that would have made this appear in the picture.  The short time only seemingly caught on the picture.  If this was real, I cannot explain it.I can forward you the picture if you respond to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126529.html](http://www.nuforc.org/webreports/reports/126/S126529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright Green Light appears suddenly and falls from the skyI was lying down in bed and trying to fall asleep. I had my curtains open and was looking at the sky. In almost an instant I saw a bright green light drop in the sky. I at first thought it was very strange but then convinced myself that it was a shooting star. My sister came to me tonight to tell me about the exact same thing that happened to me. She said she has seen it several times.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49466.html](http://www.nuforc.org/webreports/reports/049/S49466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
