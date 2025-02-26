@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:56 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Friendsville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yellow-White fireball viewed over southeast Tennessee - Possible Space Debris?Looking southeast, at about 10 degrees above horizon.  Object appeared as brilliant yellow-white fireball traveling approx. south to north. Was very slow compared to "shooting star".  Fireball pulsed whiter at 1 sec intervals.  Near end of sighting, orange trail became visible with "sparking" effects. Observer is former military aircrew with experience in observing satellite and meteor activity.  Opinion of observer is that fireball was space debris, but unable to confirm at this time.  Thinks pulsing effect could be from debris "tumbling" in atmosphere.  Submitted report in order to correlate with same or similar activity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49307.html](http://www.nuforc.org/webreports/reports/049/S49307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Valrico (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>West to East flight pattern of 12 Unknown glowing objects.The Events witnessed took place February 26th, 2011.Between 8:30pm – 8:50pm Eastern Standard Time.  Valrico, FL USA Photographs and videos taken were shot between 8:37-8:47pm EST.We returned back to my parent’s house after a birthday dinner party just after 8pm. My father stepped out on the rear patio to have a smoke break. Shortly after, he hollered for my husband and brother to come quick and look at this. He exclaimed, “What the hell is that?”  This peaked our interest.These objects appeared to be burning or on fire and made absolutely no noise, no prop wash, no piston engine sound, and no jet wash, no recognizable navigational red and green lights.  They appear to be on some sort of flight path following interstate I-4 West coming out of Tampa’s Gulf area heading east. These objects could clearly be seen breaking the Western Horizon but never met the Eastern Horizon. They seem to head upward & fade out and away.The first sighting was of a cluster of 3, in a triangular formation; once the last of the 3 faded away, 2 more broke the horizon evenly spaced out, then accompanied by 1 more, totaling 4 in a straight line, fading into outer space, followed by another series of 4.  Following the same flight path and pattern.When viewed with Binoculars the objects were in the shape of seashells with the bottom illuminated. They had constant luminosity and appeared to be at a uniform altitude and heading. They all seem to gain altitude at the same location as they advance skyward out of sight.In conclusion, after contacting the sheriff’s office and local news channels only ONE other call was made about this phenomenon. Several reporters were sent images and video but none have responded to date.  Several remarks were made to sort of “lighten” the situation by such individuals.  We also called several family members and friends  that would’ve been in the flight path; however none were able to see these objects, but they should’ve been able to. Only one of the 6 witnesses, who was 1st to see the objects has seen a ufo sighting over lake Erie Ohio in the 60s as a child.it is my opinion  that all persons present are credible witnesses((NUFORC Note:  Possible "Chinese" lanterns, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80261.html](http://www.nuforc.org/webreports/reports/080/S80261.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
