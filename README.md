@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sacaton (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was exiting Gila River Reservation, Sacaton.  Noticed three lights blinking, just hovering near the desert, east of Interstate 10.  Lasted for 30 seconds then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126063.html](http://www.nuforc.org/webreports/reports/126/S126063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Durham (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I witnesswed a light in the sky increase in size and brightness. As it reached its pinnacle it began to decrease in size and brightness until it disapeared. It remained stationary for the full duration. Astromnomical event?((NUFORC Note:  Ordinarily, NUFORC would assume that a sighting report of this nature would have been caused by the characteristic flash caused by the Sun's reflection off the solar collectors of an "Iridium" satellite.  However, if the light was, in fact, stationary, the event was not due to an Iridium flash.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12133.html](http://www.nuforc.org/webreports/reports/012/S12133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
