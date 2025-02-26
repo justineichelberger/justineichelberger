@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Decatur (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving when I saw bright light in the sky.  My friend and I thought it was a star.  The light was getting bigger and bigger when we realized we were getting closer to this object which it wasn't moving.  We were still thinking that could be a helicopter but when we were under this object we started to scream because it was something oval and huge.  I was trying to find a place to park the car and when I finally could this object flew away.  When we looked it was in a diagonal position and than it was gone.  We still run to try to follow it but there were so many airplanes on the sky that we couldn't recorganize the object anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132837.html](http://www.nuforc.org/webreports/reports/132/S132837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sacaton (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was exiting Gila River Reservation, Sacaton.  Noticed three lights blinking, just hovering near the desert, east of Interstate 10.  Lasted for 30 seconds then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126063.html](http://www.nuforc.org/webreports/reports/126/S126063.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
