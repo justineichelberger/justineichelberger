@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Golden Orange sphere not blinking, flying close to air traffic, and changing direction....I observed an object in the nw sky, moving toward the south, I then observed a plane coming from the south, I say a plane, because I saw the flashing lights. the object I saw was bright and golden/Orange, with no flashing.  I usually see this when I believe it to be a satellite.. but when I saw it and the plane so close together, and then the non  blinking object move south east when they were in what looked like close proximity, I knew it was not a satellite.  A satellite would not change direction like this object did.  Also, it was a little brighter than the, satellites I see in the sky, and I've never observed one of those change directions as I did this object...  I was driving at the time, pulled over, but was not able to capture a picture our video.  I just know, it was different from what normally observe with satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107496.html](http://www.nuforc.org/webreports/reports/107/S107496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>orange light drops what looks like asteroidsorange light (looked like a campfire in the sky) in the skymoving at a hight rate of speed then it stopped. appeared to move up then it stopped again. then it slowly moved again and started dropping what looked like asteroids. it dropped about 10 in total. everytime it dropped one the light from the craft went dim then regenerated to bright. my wife and I watched until we couldnt see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43180.html](http://www.nuforc.org/webreports/reports/043/S43180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
