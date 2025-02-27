@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago Heights (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I was outside back yard clear night and bright white light made downward path gaining speed and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107520.html](http://www.nuforc.org/webreports/reports/107/S107520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small sparkling lights in the air/skyMy dog awakened me at the above time to go out to my large fenced yard to her business.  It was a clear, starry night with temps hovering at zero F.  As I was calling her back in I noticed these 'firefly'-like golden lights in the air/sky moving about.  I could not tell if they were indeed small and close by in the pine trees, fifty feet away, or in the sky higher up and farther away behind the trees.  I tried to think of a rational way at looking at these lights but could not.  They were all tightly grouped but moving erratically with a sparkling effect.  They were in the NW part of the sky or closer in my yard and in the trees.  I did see a bright light traveling in the same direction, NW, and away, at the speed of a plane, but could hear no sound and don't know if it were connected in any way to these sparkling lights.  As I went further in the yard to get a closer look they all suddenly just disappeared.  I stayed out in the yard for another five minutes but they did not return and I saw nothing else unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117505.html](http://www.nuforc.org/webreports/reports/117/S117505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
