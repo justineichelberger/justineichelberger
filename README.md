@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 26 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Danbury (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright blue sphere light moving across the town's night sky silently without any sound interacting with it or against.I saw a bright blue-ish sphere light though not even 100 feet away from me slowly flying over the night sky.  There was just this one light that at a first glance one would think its a star but it was slowly gliding in the middle of my town and the unusual thing about it is it made no sound.  If it was a plane of some sort, anyone would have heard turbulence but it was silent as the night and awe like.  I have always been a believer but honestly I thought I would have never seen this in my lifetime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107499.html](http://www.nuforc.org/webreports/reports/107/S107499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Harrisonburg (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Mennonite College instructor reports UFO flap is in process in that area of PA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00215.html](http://www.nuforc.org/webreports/reports/000/S00215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162303.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162229.html)
-- [251](http://www.nuforc.org/webreports/reports/164/S164267.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162283.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
