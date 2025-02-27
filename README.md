@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:46 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>college station V shaped lights.My roommate and I were in the back yard when I happened to look up. Something caught my eye; it was dim orangeish lights in the shape of a V heading North-East over us. It seemed to be low, was complete silent, and moving fairly slow. We watched in amazement trying to figure out what it was.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Possible hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62046.html](http://www.nuforc.org/webreports/reports/062/S62046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>White and orange and seems to evade the military jets that do there night training at the air base near here.February 27:  Maybe a second or two on can.  A light around the size of a 16 inch rims,as big around as the tires on my truck, a travel northwest to southeast visible for about 10 to15 seconds with the naked eye, I caught a second or 2 of it on cam before just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96486.html](http://www.nuforc.org/webreports/reports/096/S96486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
