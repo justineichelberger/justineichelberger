@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Harrisonburg (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Mennonite College instructor reports UFO flap is in process in that area of PA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00215.html](http://www.nuforc.org/webreports/reports/000/S00215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Decker Lake (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk shaped craft with blue lights.A lady called from her home in Decker Lake, British Columbia to file a report on what she witnessed on February 27, 2004. She observed an object with a number of blue lights on it above Pauline Mountain. The object moved diagonally towards the mountain. At some points while she observed it, it stopped, moved vertically up and down and then continued traveling on a diagonal path. At one point in the sighting she said it appeared to look like a disk shaped craft. The lady said she heard no sound as she was indoors looking out her window and across the lake towards the mountain. She was able to observe this object for approximately 5 to 10 minutes before it disappeared. HBCC UFO foot note: This sighting sounded similar to the December 8, 2003 sighting entitled, Houston, British Columbia Frightening Encounter. Decker Lake is approximately a 45 minute drive east from my home here in Houston, British Columbia. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35483.html](http://www.nuforc.org/webreports/reports/035/S35483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
