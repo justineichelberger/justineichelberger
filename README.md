@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Crescent Valley (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Over Crescent Valley,15 or so fire orange color lights in the sky!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132828.html](http://www.nuforc.org/webreports/reports/132/S132828.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hudson (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>observed objects for 2-3 min,there were 10-12- of them moving in and out, lined up one headed north then vanishedThe objects I seen were in a group but were moving around in and out of the group.  At first I thought it was a group of birds, but as I watched they mouved around much too fast to be birds and much to high. They were straight up in the sky and it was clear out. The sun was reflecting off of them some what as it was setting in the west. It was hard for me to judge how high up these objects were but a small aircraft passed under them as I watched which led me to believe they were very high up. One of the objects moved out of the cluster and moved towards the north. The rest of the objects started kind of lining up in a regimented order and started moving with the one that seperated from them. In a blink of an eye they were gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27915.html](http://www.nuforc.org/webreports/reports/027/S27915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
