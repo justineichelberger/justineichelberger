@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A pilot and his 1st officer in a Beechcraft 1900 with passengers, while flying at 16,000 feet between layers of solid overcast 90 miles southeast of Saginaw, MI, suddenly see a large, bizarre ball of light appear in front of them.  They both thought it was another aircraft and were concerned that it might collide with them, so they turned on their identification lights and initiated a turn.  The object apparently was capable of "jumping" suddenly, perhaps as much as 20 or 30 miles within 1 second time.  The crew requested clearance to descend, which they did.  they descended to 9500 feet, but the object appeared to descend with them, staying on their now, "12:00" position.  They continued their descent to 3,500 feet, where they entered the clouds. Another airliner, a Northwest commuter (Callsign: "Masaba") witnessed the interaction.  Multiple conversations occured with Cleveland Center and Saginaw Approach about the incident. The crew borrowed a still camera from one of the passengers, and attempted to photograph the object.  The camera and film were returned to the passenger after the photograph had been taken. Copy of radio communication requested 04MR96 under FOIA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01092.html](http://www.nuforc.org/webreports/reports/001/S01092.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dillsburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 motionless, bright lights in the sky for about 3 minutes, then very quickly moved out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126077.html](http://www.nuforc.org/webreports/reports/126/S126077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
