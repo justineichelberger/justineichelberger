@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I went outside and waited for my grandfather and mother to drive to the store.  I gazed up into the sky, and saw a moving orange ball like aircraft.  I thought it was a Chinese lantern at first, but soon realized that the lanterns do not move very fast.  It was an orange-red circle figure.  It moved normally in a straight line heading east/southeast.  Then after 20 seconds of doing that, it started ascending into the sky.  It took about 7 seconds to ascend before disappearing.  A few seconds before ascending, it made a jet like noise which I thought was awkward.  There were some clouds visible, but it was clear enough to where you could see the stars and all.  The video footage I have is unedited, but I did zoom in while filming to get a better view of the object.((NUFORC Note:  We spoke via telephone with the witness, and we found him to be sincere and seemingly sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138990.html](http://www.nuforc.org/webreports/reports/138/S138990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Troutdale (near) (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Telephoned Report: Two brothers driving truck decide to calibrate odometer against road markers.  Struck in face by flash of light, are 10 mi. down road!((NUFORC Note:  The witnesses sounded credible to us at the time, but they did not follow up with a written report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01108.html](http://www.nuforc.org/webreports/reports/001/S01108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
