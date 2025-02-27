@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Leavenworth (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>several fireball ish  looking craft, "danicing'' wave like motions in Kansas, USA.it was exactly a quarter t0 four in the morning, so maybe the date is a day off!! however, it happened while my girl and i stepped out of our r.v. for her to use the bathroom. i only stepped out to assist her with company, as it was night time. we walk outside and it is a beautifully clear night night with a cresent moon ish and tons of stars!  she goes to "pop a squat" so im looking up at this awesome night and in the distance i see what looks like a flock of gease and say to her "wow i did not know gease fly at night", she looks up and says, "that's not birds". by this time the traditional  V  shape that gease would carry on was gone and all the spots, much closer now where in a strait ish line but waving up and done. i said, "are you seeing this, ... that right there"? as im pointing, and she goes, "yeah that right there  its got to be ..."   she freaked out and went back into the r.v. i stayed and watched as they went by "dancing" as if they knew we were! there looking. i did not stay outside to see them off untill completly out of sight, instead i watched for maybe a min and walked in.      they made a light woooooosh   ing sound as they passed and it was clear the noise was from the craft. and they looked like bright spots  of light with redish around the edge. they were no birds or anything that we civilain would know was. now the govt. idk because this all occured blocks from a federal army base and they flew out over federal govt. property.  crazy crazy shit and this is to the best of my knowledge what happened on that morning.   B.L. II</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87459.html](http://www.nuforc.org/webreports/reports/087/S87459.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw an orange diamond shaped object that disappeared.I was driving South on the Sunken Meadow Pkwy when I happened to look up in the sky and saw a bright orange diamond shaped object, it was not a plane because it was still and not blinking.  It stayed there for a full minute before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68975.html](http://www.nuforc.org/webreports/reports/068/S68975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
