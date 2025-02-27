@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:35 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:14 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Decker Lake (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Disk shaped craft with blue lights.A lady called from her home in Decker Lake, British Columbia to file a report on what she witnessed on February 27, 2004. She observed an object with a number of blue lights on it above Pauline Mountain. The object moved diagonally towards the mountain. At some points while she observed it, it stopped, moved vertically up and down and then continued traveling on a diagonal path. At one point in the sighting she said it appeared to look like a disk shaped craft. The lady said she heard no sound as she was indoors looking out her window and across the lake towards the mountain. She was able to observe this object for approximately 5 to 10 minutes before it disappeared. HBCC UFO foot note: This sighting sounded similar to the December 8, 2003 sighting entitled, Houston, British Columbia Frightening Encounter. Decker Lake is approximately a 45 minute drive east from my home here in Houston, British Columbia. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35483.html](http://www.nuforc.org/webreports/reports/035/S35483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Floa Vista (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately fast - fast minutes.</sub><blockquote><sub>It happed fast and silently.I saw a orange flash in the sky and a few seconds later i saw a flashing orange dot ziping across the sky. Then a miniute or two later it happend again. About a hour later i saw a star that had ben in the same place for 3 hours start flashing and go across the sky in the same direction of bolth orange dots but it went twice as fast.i am not lieing and i was not seeing things becase i was wide awake.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49337.html](http://www.nuforc.org/webreports/reports/049/S49337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
