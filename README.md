@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:39 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Georgetown (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Hello,,I am anonymous bcz I am very terrified. ,EXTREMELY!!! low flying thing hovered over my house.  It made intermittent &quot;pulsatingHello, I am anonymous bcz I am very terrified. EXTREMELY!!! low flying thing hovered over my house. It made intermittent "pulsating helicopter" metal on metal sound.  Never heard this type of sound before.  My house vibrated.  Too scared to go outside to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153683.html](http://www.nuforc.org/webreports/reports/153/S153683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Strangely behaving Light in the early eveningWhile driving on hwy 120 going from Discover Mills Mall towards the town of Lawrenceville, a light caught my eye which behaved very strangely.  Firstly, it was not a dot of light.  It seemed larger, and palely lit.  It was circular.  It went up like a flare, and behaved very much like that, however, this was clearly not "Fire."  It was just a pale round lit up object.  What happened next was what was strange.  It shot off away from me and across the horizon like a meteor.I’m hoping someone else saw this, and had a better look at it.  I’m guessing there is a normal explanation for it, but the last time I saw something like this was a large meteor, and it was clearly just that, and had pieces of it coming of in the tail.This behaved in a similar manner, but with no tail, or fire-like characteristics whatsoever.  I only saw it for seconds, but it seems like it went up, then off in a different direction.  Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74539.html](http://www.nuforc.org/webreports/reports/074/S74539.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
