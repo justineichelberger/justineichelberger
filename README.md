@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 27 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dillsburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 motionless, bright lights in the sky for about 3 minutes, then very quickly moved out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126077.html](http://www.nuforc.org/webreports/reports/126/S126077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in The Colony (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately This past couple of month - This past couple of month minutes.</sub><blockquote><sub>Triangle shape ufos in the sky every night. Rotation pyramid cloakEvery night I go to my backyard smoke my cigarettes with my binoculars for a few hrs at night.  And I finally starting catching multiple almost like cloak shaped triangle one bright red light at the peak and two white lights following the other points .  Be moving very slowly.  Tonight finally clear night sky no clouds.  And I got a good look at the 2 ufos triangle cloak only with 3 Lights and it seems to be rotation formation like a 3D pyramid rotating while both crafts are moving away from one another.  But what I cant stoo thinking about how it was spinning freaking cloak pyramid just above my neighbors tree line .  I was completely mesmerized by the rotating of the craft.  Just had my eyes glued to my scopes and watched it almost like a glossy style like one of those colored prisms.  Every night they are out there just hovering around the town.  Wonder if they notice me noticing them for months .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153650.html](http://www.nuforc.org/webreports/reports/153/S153650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [246](http://www.nuforc.org/webreports/reports/162/S162238.html)
-- [245](http://www.nuforc.org/webreports/reports/164/S164173.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162233.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162237.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162227.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
