@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:35 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:33 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spring City (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>6-8 ufo's waiting on one ufo to reach the group.i was driving south on highway 27 and it was about 6:50 p.m the sky was getting dark but still clearly visable there was one dark object in the sky. it did not move very fast at all and it did not leave an exhaust line behind it and it had no lights on it at all and when i looked east of it to see where it was heading i seen a group of 6-8 more of similar objects. none of them had lights and it seemed the group was waiting on the one to reach it.  i was able to see all of it for about one minute then trees got in my way</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74504.html](http://www.nuforc.org/webreports/reports/074/S74504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yorba Linda (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular color changing object in the eastWe were outside for a walk in the neighborhood and we looked up to see 2 color changing figures in a shape of a triangle.  The objects were turning very slowly in one place.  They were changing various colors such as red, orange,yellow, white, and blue. One of the objects faded and disappeared in a blink of an eye.  The other object moved very fast to the west and headed toward us. As it past over it made no sound. Soon after we went inside we came back to find 3 other bright multicolored lights in about the same place as the others.  This time the objects turned the same colors but one stayed white.  They were in a triangular shape while flying and soon broke off quickly into different directions.  As they broke off one went to the side and stopped turning colors then vanished for 10 seconds and came back.  The next one went the opposite way that it started and stayed turning colors.  The one that stayed all white went to the south side for a couple minutes then started heading toward us again.  All of these made no noise and soon dimmed into the night.  After about 30 minutes we went back to look again and there was nothing.   It was all clear except one tiny little star.  If anyone saw a similar sighting at about the same time (which is 8:30 pm on February 28, 2009) please report the sighting. Thank-You!  ((names deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69005.html](http://www.nuforc.org/webreports/reports/069/S69005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
