@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:33 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:13 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yorba Linda (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular color changing object in the eastWe were outside for a walk in the neighborhood and we looked up to see 2 color changing figures in a shape of a triangle.  The objects were turning very slowly in one place.  They were changing various colors such as red, orange,yellow, white, and blue. One of the objects faded and disappeared in a blink of an eye.  The other object moved very fast to the west and headed toward us. As it past over it made no sound. Soon after we went inside we came back to find 3 other bright multicolored lights in about the same place as the others.  This time the objects turned the same colors but one stayed white.  They were in a triangular shape while flying and soon broke off quickly into different directions.  As they broke off one went to the side and stopped turning colors then vanished for 10 seconds and came back.  The next one went the opposite way that it started and stayed turning colors.  The one that stayed all white went to the south side for a couple minutes then started heading toward us again.  All of these made no noise and soon dimmed into the night.  After about 30 minutes we went back to look again and there was nothing.   It was all clear except one tiny little star.  If anyone saw a similar sighting at about the same time (which is 8:30 pm on February 28, 2009) please report the sighting. Thank-You!  ((names deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69005.html](http://www.nuforc.org/webreports/reports/069/S69005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gwalior (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Two lights which were moving in a circular path as if revolving around something  seen in India city named Gwalior.On 28th Feb., 2015, around 7:30 p.m., when i was talking to my friend on cell phone, i came out to my balcony.  suddenly i saw two lights in the sky which were opposite to each other. Then after sometime they started moving in a circular path as if they were revolving around something.  Sometime they would cross each other and in another moment they would start revolving.  For few seconds they would disappear and then suddenly they re-appear.  One of them sometime move forth and backward in a great speed and then stops and appears to be stationary.  These both lights seems to be circular in shape and were doing some crazy movements in the sky.  These both lights did this for about hour and a half and then they disappeared.((NUFORC Note:  We wonder whether the objects might have been advertising lights, although we don't know whether such lights are available in India.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117525.html](http://www.nuforc.org/webreports/reports/117/S117525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
