@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>((NUFORC:  Address indicated by author, 30FE99, is illogical.))Approximately 500ft. in the air, just below a low cloud line, I saw a small grey spherical object hovering.  It would be best described as looking like a soccerball with flat sides.On 2/30/99, at 6:00p.m. I was driving my car and coming up to a stop sign.  Out of the corner of my eye, I noticed something dark grey in the sky.  (It was an overcast sky with about a 500ft. ceiling.)  At first I thought it was a bird or an airplane but when I took a second look, I realized it was niether of those possibilities.  I live a stone's throw away from Wright-Patterson AFB so I thought it may have been a weather balloon or possibly a kite or kids helium baloon.  I don't think it was any of these because it was not moving or rotating.  I was close enough to it to see that it was approximately 3ft. in diameter, spherical, with flat sides (not shiny).  It looked like something you would see on Star Wars used as a probe.  I studied it for about 30 seconds before someone pulled up behind me waiting to turn.  I headed east to get a better look.  I could see it through the tree lines and was anxiously driving to a clear spot.  When I arrived at an open clearing, about 3 blocks away and 1 minute later, it was gone. The day was overcast with little wind.  It was also raining a bit and had been doing so for most of the day.  This would discount the possibility of it being a kite unless we have the second coming of Ben Franklin.  There was also no thunderstorm activity in the area.  Secondly, it was not a balloon because the slight breeze would have moved it.  The clouds were moving around it but it was dead still. I did not hear any noise either. I was also close enough (500ft.) to see that it had two cylindrical objects sticking out of the side, side by side (almost looking like a nose).  I would say they were about the size of pop cans.  I did chase up and down the streets loking for a kid or someone in the rain reeling in a kite but found noone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05903.html](http://www.nuforc.org/webreports/reports/005/S05903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga Springs/Malta (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light changes directions, disappearing by Orion's KneeThe light looked like the ISS (International Space Station), but moving slightly slower and glowing reddish-orange.  It was viewed moving below and to the right of Venus, straight up and then took a sudden turn left cutting between Venus and Jupiter in the night sky.  The light continued towards Orion's Belt, and as it drew closer to Orion,  Took another sudden left curve, towards Orion's knee, and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87422.html](http://www.nuforc.org/webreports/reports/087/S87422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
