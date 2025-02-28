@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Monterrey (Mexico) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was putting my clothes to dry, when i noticed something floating but moving slowly in the sky , floating realtively close to the houses here in Garcia, NL, at first i thought it was an owl then i looked closely and couldnt figured out what it was, then start kind if changing its form like. It glowed on the edges, i am very confused not sure what i saw, didnt make any sound as well. It was no drone or anything like that, it dissapered in the distance as i was watching. Tried to go to the terrace to see it again but nothing. Is worth noticing that it was changing form as i mentioned like plastic bag or bubble , medusa ,celestial body something like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162247.html](http://www.nuforc.org/webreports/reports/162/S162247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>THE OBJECT STARTED EMITTING WHAT LOOKED TO BE FIREBALLS.MYSELF AND TWO FRIENDS OBSERVED AN OBJECT COMING FROM THE NORTH TRAVELING AT A SLOW SPEED AT AN ALTITUDE OF ABOUT 20000 FT. ONCE I SHOUTED TO ONE FRIEND TO SEE WHAT I WAS SEEING, THE OBJECT CAME ALMOST TO A STOP, CHANGED DIRECTIONS AND HEADED EAST. AS IT TRAVELED EAST, IT SEEMED TO SPEED UP AND SLOW DOWN. IT DID THIS FIVE TIMES. AS THAT HAPPENED, FRIEND ONE SHOUTED TO FRIEND TWO TO COME SEE WHAT WE WERE WITNESSING. ONCE SHE CAME OUT, IT CAME ALMOST TO A STOP AGAIN. THEN WE SAW WHAT WAS OBVIOUSLY TWO JETS COMING FROM TWO ANGLES TOWARD THE OBJECT. ONE FROM THE WEST AND ONE FROM SOUTHEAST. THE VERY MOMENT WE SAW THE TWO JETS COME INTO VIEW, THE OBJECT STARTED EMITTING WHAT LOOKED TO BE FIREBALLS FROM THE BOTTOM OF IT. SHORTLY AFTER THAT, ITS ORANGE LIGHT FLICKERED ON AND OFF AND SHOT OFF IN THE SKY AND DISAPPEARED TO THE EAST. STILL IN AMAZEMENT FROM THIS EVENT, MY TWO FRIENDS WENT BACK OUTSIDE AND SAW IT AGAIN. THIS TIME IT APPEARED FROM THE WEST. IT HAD THE S! AME MANNERISMS AS BEFORE WITH THE WAY IT MANEUVERED. ITS LIGHT FLICKERED AGAIN AND LITTERALLY DROPPED FROM THE SKY. AS IT CAME DOWN, IT FLUTTERED AS A PLASTIC GROCERY BAG WOULD. IT THEN DISAPPEARED BEHIND A NEIGHBORING HOUSE. WE CONTINUED TO OBSERVE THE AREA FOR ANOTHER 10 MINUTES. NOTHING REAPPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80262.html](http://www.nuforc.org/webreports/reports/080/S80262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
