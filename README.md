@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Farmington (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 lights White, Red, White Circle Pattern No SoundWe were Ice skating at about 8:30pm. We paused for a second and noticed 3 Lights, white, red and white flashing about every second. In a rotating pattern. It seemed to be in a circle but we coulden't see the outline of the craft. No sound at all. Moving about as fast as a small air plane. It moved In an irratic curved path across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27953.html](http://www.nuforc.org/webreports/reports/027/S27953.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Princeton (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Brite white star light object positioned from the east followed me to  my work site on Friday morning.  I saw thi light in sky as I  drove away in my car.  This object followed and remained at the bus garage at 6am.  It's like the object was watching me? This object is very brite white like star shape that was out of east  changed direction to south?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107570.html](http://www.nuforc.org/webreports/reports/107/S107570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
