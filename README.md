@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:13 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gwalior (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Two lights which were moving in a circular path as if revolving around something  seen in India city named Gwalior.On 28th Feb., 2015, around 7:30 p.m., when i was talking to my friend on cell phone, i came out to my balcony.  suddenly i saw two lights in the sky which were opposite to each other. Then after sometime they started moving in a circular path as if they were revolving around something.  Sometime they would cross each other and in another moment they would start revolving.  For few seconds they would disappear and then suddenly they re-appear.  One of them sometime move forth and backward in a great speed and then stops and appears to be stationary.  These both lights seems to be circular in shape and were doing some crazy movements in the sky.  These both lights did this for about hour and a half and then they disappeared.((NUFORC Note:  We wonder whether the objects might have been advertising lights, although we don't know whether such lights are available in India.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117525.html](http://www.nuforc.org/webreports/reports/117/S117525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Read full reportFour orbs, close enough to see in fairly good detail.  Kind of jerky movement up and down almost like they were attached to fishing line getting bites.  Were moving north before they went super sonic without any sound.  Were all same color, pale cream with a greenish yellow hue. Was dark out and craft were illuminated almost like a dim glow stick.  Seen above platte/boulder rd area.  Just moved down from denver, previously thought you all were nutjobs.  My bad</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126174.html](http://www.nuforc.org/webreports/reports/126/S126174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
