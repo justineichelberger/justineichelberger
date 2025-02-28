@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albany (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oblong shaped object with light on bottom and completely silent.O.k. heres my siting info. At 3:40 Am I was driving on Philema Rd in Dougherty Co GA when I noticed a weird looking light just over a tree line in the distance. "Probably about 1/4 mile away". I thought it might have been a helecopter flying low. I drove closer to the light and it started to travel parallel along the tree line.  I followed it at about 50 mph.  It stayed just ahead of me but I could make out an oblong type object. After about 2 miles it stopped  over a residential neighborhood and hovered in an open area without too many trees.  I pulled into a gas station and got a good look at it.  I got a spotlight out of my car and shined the light on the object.  The light barely hit it but I could really see it good.  It was an oblong type shaped object.  It was a clear cold night without any clouds.  As the light hit it, the object turned towards my location and flew at a very high rate of speed.  I rode the area for the next 30 minutes or so but never saw it again.  Also the light was on the bottom of the object shining down like it was looking for something. The object was completely silent without any noise at all coming from  it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62013.html](http://www.nuforc.org/webreports/reports/062/S62013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga Springs/Malta (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light changes directions, disappearing by Orion's KneeThe light looked like the ISS (International Space Station), but moving slightly slower and glowing reddish-orange.  It was viewed moving below and to the right of Venus, straight up and then took a sudden turn left cutting between Venus and Jupiter in the night sky.  The light continued towards Orion's Belt, and as it drew closer to Orion,  Took another sudden left curve, towards Orion's knee, and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87422.html](http://www.nuforc.org/webreports/reports/087/S87422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
