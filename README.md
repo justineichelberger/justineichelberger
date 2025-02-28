@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0166666666666666 - 1.0166666666666666 minutes.</sub><blockquote><sub>At 17:02 on 2/28/2011 a object appear in the east sky almost over head, sun was at my back, object was moving from north to south, going in a straight line stopping then doing complete 360 turn then repeating this twice before disapearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80256.html](http://www.nuforc.org/webreports/reports/080/S80256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Farmington (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 lights White, Red, White Circle Pattern No SoundWe were Ice skating at about 8:30pm. We paused for a second and noticed 3 Lights, white, red and white flashing about every second. In a rotating pattern. It seemed to be in a circle but we coulden't see the outline of the craft. No sound at all. Moving about as fast as a small air plane. It moved In an irratic curved path across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27953.html](http://www.nuforc.org/webreports/reports/027/S27953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
