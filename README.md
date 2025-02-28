@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bethel (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red pulsing light heading from south to north then heading east.Traveling on state route 125 around 11:40pm after work toward Bethel from Amelia.  About half way to Bethel when I was near East Fork State Park, I witnessed a red pulsing object in the sky some distance away.  As I drove it headed from south to north crossing the road across the sky when it dropped below the trees.  I didn’t see it again until I was entering Bethel I saw it to the north heading east.It was a cloudy night & flying below the clouds.  It was a red slowly pulsing light much like you would see at the top of a cell phone tower.  Only it was moving & much higher in the sky then a cell phone tower & cell phone tower lights flash on & off.  I don’t think it was an airplane or helicopter because there were no other flashing lights on it & no strobe like lights on it.  Did anyone else witness this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55502.html](http://www.nuforc.org/webreports/reports/055/S55502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Naugatuck (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i was sleeping and woke up thinking the kids left back light on.  When I looked outside , the whole back yard was covered with illuminating green circles as if spotlights were in the snow.  I woke up my husband and we went into the kitchen to look again.  I looked up and that green glow was all the way up as far as I could see on the branches off all the trees in backyard.  I looked to both of my neighbors' house and I saw a few of the circular patterns but not as prominent.  I was in awe.  I just went back to bed woke up at 4 am and nothing was there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117526.html](http://www.nuforc.org/webreports/reports/117/S117526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
