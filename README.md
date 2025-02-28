@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Princeton (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Brite white star light object positioned from the east followed me to  my work site on Friday morning.  I saw thi light in sky as I  drove away in my car.  This object followed and remained at the bus garage at 6am.  It's like the object was watching me? This object is very brite white like star shape that was out of east  changed direction to south?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107570.html](http://www.nuforc.org/webreports/reports/107/S107570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black Sphere moving silently west against wind currentsBlack Sphere object originated in south traveling due north.  The black sphere was traveling about the speed of a turbo prop plane, but silent.  Faster than a helicopter, but slower than a jet. It continued on a calm windless day north, then turned 90 deg. to the west and continued west at the same speed until it just disapeared into the distance.  It did not move like a balloon, and traveled the wrong direction for a balloon, prevailing upper winds were heading east.  It left no contrails like a jet much higher at the same time.  I took pictures with a 6M digital camera, and zooming into the picture reveals only a black sphere.  I have no idea what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62008.html](http://www.nuforc.org/webreports/reports/062/S62008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
