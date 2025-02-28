@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga Springs/Malta (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light changes directions, disappearing by Orion's KneeThe light looked like the ISS (International Space Station), but moving slightly slower and glowing reddish-orange.  It was viewed moving below and to the right of Venus, straight up and then took a sudden turn left cutting between Venus and Jupiter in the night sky.  The light continued towards Orion's Belt, and as it drew closer to Orion,  Took another sudden left curve, towards Orion's knee, and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87422.html](http://www.nuforc.org/webreports/reports/087/S87422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Monterrey (Mexico) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was putting my clothes to dry, when i noticed something floating but moving slowly in the sky , floating realtively close to the houses here in Garcia, NL, at first i thought it was an owl then i looked closely and couldnt figured out what it was, then start kind if changing its form like. It glowed on the edges, i am very confused not sure what i saw, didnt make any sound as well. It was no drone or anything like that, it dissapered in the distance as i was watching. Tried to go to the terrace to see it again but nothing. Is worth noticing that it was changing form as i mentioned like plastic bag or bubble , medusa ,celestial body something like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162247.html](http://www.nuforc.org/webreports/reports/162/S162247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
