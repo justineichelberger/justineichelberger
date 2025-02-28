@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brookfield (WI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Was driving on the highway, when a very bright orange trail of light appeared.  It was like a shooting stat, but much much larger.  It got brighter orange as it got larger and the bottom turned to a bright lime green ball of light, and then it disappeared.((NUFORC Note:  Possible meteor??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138986.html](http://www.nuforc.org/webreports/reports/138/S138986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ahmedabad (India) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dear all, Till today I was not believeing in this thing but yesterday we have found really very typical experience at Ahmedabad city in India. We 12 friends were going to one temple we were on our bikes and at everage speed. Suddunly one of our friend saw a white masked little person under the tree, actually at that time we 4-5 freiend were looking at same place and there were actually 2 "persons". But shape of those guy were likw onion. And eyes of those guys were like dark, black and sparkling. One of my friend was really afraid of those things and he got fever and laterly he was hospitalized.  Still we have bounded that space with steel rods, and still we have images of foot steps. In our city one banana seller was telling that story that he saw the same guys many times but we were not believeing in that. But the thing is to be worth noted is that as per the description of that banana seller he saw those guy generally on Wed. So now we have prepared one scheme for catching those guys.....It is really interesting.....((NUFORC Note:  We have not spoken with the witnesses, or the banana seller, yet.  No other reports filed with NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16681.html](http://www.nuforc.org/webreports/reports/016/S16681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
