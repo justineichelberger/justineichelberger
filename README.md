@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Franklin (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large silent lighted object moves slowly south changes direction accelerates at high speed to east out of sight.Walking to house nextdoor, noticed large object moving slowly.  Caught my eye because was moving like a helicopter but made absoutly no sound whatsoever.  Also had some lights on it but no avaition blinkers red/green.  Traveled slowly south for a short time then quickly changed direction to the east and shot over the mountain range.  The acceleration was unbelievable was gone out of light in less than a second.  I do not remember the shape or exactly what it looked like as it did not resemble any airrcraft known to myself.  Besides some other colored lights it possibly had what looked to be a large spotlight.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98903.html](http://www.nuforc.org/webreports/reports/098/S98903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Moosup (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Square / triangle in shape with 4 white lights at each point and light blue lights going around it.It was 4:10 in the morning, We were on our way to our second job (cleaning offices).  We were going North on 395.  We approached exit 88, and I looked to my right (East) toward the apple orchard - that is when I saw it!!!!!  It above the apple orchard building (NOT the field) on RT 14.  It was square and triangular in shape - like a square that had 2 of the 4 points pulled away (place forefingers together and thumbs together - this is the shape) - like this <> - but all lines were connected together.  There were lights at each "point" in the square and a band of light blue lights that connected the 4.  The 4 lights were bright white, and the blue lights were moving around the craft.  I believe it to be the underside that I saw.  The sky was full of stars - in the center of the craft was blackness.  I yelleded at my husband to stop and go back so we could look at it.  We argued for a few minutes.  He was telling me that he couldn't because we would be late for work - he later admitted to being affraid.  He did not see it at all, but knew by my reactions that I did see something that he didn't want to see.  It was not moving at all - just hovering above RT14.  I heard no sound at all.  Looking at it from a distance of about 300 feet it looked to be 50 feet along all 4 sides (total feet 200 around the craft) this was NOT small at all!!!!!  I would have to guess a few foot ball fields large in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27974.html](http://www.nuforc.org/webreports/reports/027/S27974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
