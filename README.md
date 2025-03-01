@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>The light came out of the eastern sky. The light was dimmer than aircraft of any sort.  It had one brighter light and two other lights that were dimmer, surrounded by a glow.  It was in the same light as the bright light, just dimmer...  in conjunction with a full moon, it was round... but half sized.  It moved in a direction from right to left... upwards.... stopped... them moved downwards... right to left... then straight across (left), from right to left, then upwards.. (in conjuncion with the moon), an inch (?)  then downwards.. and then darted behind the trees... and then I could see it no more... By Daniel Gallagher transcribed for ((names deleted)) asked: What impressed you about this the most? A: The way it came out of the sky.. It came out of nowhere.. the way it moved.. the way it looked... It didn't look like ANYTHING I had ever seen before.. no airplane.. no helicopter.. NOTHING has EVER manuvered like this thing had done.  The way it glowed is unlike anything I had seen before.... It was almost like a waterrwash...dancing spiritually. ((name deleted))  is an otherwise conservative sort, having a history in banking and similar routine activities.  Never have I known her to claim what she didn't earnestly believe to be true.  And while I didn't get the opportunity to witness what she claimed, I witnessed in her such a profound and different behaivior from the ((name deleted)) I've known for some time.  She came running in faster than I have ever seen her move in my life.  She was intense with an immediacy of something profound.  I have NO REASON to doubt her impressions. ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16688.html](http://www.nuforc.org/webreports/reports/016/S16688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Reading (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>What did I see?  500 Lights On Object0: YesI went out around 12-1230 am to let my dog out, looked up at the sky and I saw six very bright round lights come out of no where, kinda in a triangle shape, then one by one they all joined into one and vanished before my eyes........thats what I saw in a nut shell</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80267.html](http://www.nuforc.org/webreports/reports/080/S80267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
