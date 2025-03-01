@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately few seconds - few seconds minutes.</sub><blockquote><sub>A UFO mistaken for an aeroplane, caught on camera.While my friend took a photograph of myself, he noticed an object in the sky behind me.  At first my friend thought it was a UFO of some sort,  but when we looked it had disappeared behind a building, out of sight.  Assuming he had seen an aeroplane from the local airport and not a UFO, we took no notice and continued with our business.  When I processed the film I saw an object that was not a aeroplane but more of a disc shape.  The event has shocked both me and my friend and I haven't been getting much sleep recently either.  i have never believed in all that 'X-Files' rubbish before, but now i truely believe what we saw was something either secretly produced by the government or indeed something from outer space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16694.html](http://www.nuforc.org/webreports/reports/016/S16694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saw a fast moving light that perfomed an instantanious 90 degree turn and disappeared shortly thereafter.I was going to my car to leave for work at the hospital. As usual at night, I looked up to the stars for a minute. I noted a light coming from my left moving fast. The light continued until it was approximately overhead or slightly to my right. It then did an 90 degree turn to its left and continued until in disappeared a couple of seconds later.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52388.html](http://www.nuforc.org/webreports/reports/052/S52388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
