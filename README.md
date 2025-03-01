@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:30 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:19 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Patchogue (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While driving down the road, my husband first noticed the lights in the sky.  It did not look like anything we have eve seen so we pulled over and got out.  They looked like stars flying in formation.  They flew at a slow rate of speed and each disappeared as they passed. The lights were up high, no sound.  The light were mostly a light orange color.  They were heading in an eastward direction flying over Bluepoint Ny, which is right next to Patchogue.  I'm wondering which it could have been either military or UFO's.  Please let me know if anyone else has reported our sighting to your hotline.Thank you,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107567.html](http://www.nuforc.org/webreports/reports/107/S107567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three UFO's seen flying over the Klamath sky.While we were driving along modoc pt rd back to my parents house we saw an extremely bright light hovering about 2-300 feet in the air in the middle of an empty field.  When the car got close to the light, just close enough to see the triangular shaped outline, it took off at high speed heading south towards Klamath Falls.  We drove the rest of the way home.  When we got out of the car, we looked back in the direction that they went, and we saw some craft heading north at extremely high speed, this craft looked to be the shape of a lopsided triangle and had about five to seven varicolored flashing lights along the outline.  Soon afterward, an identical craft appeared heading the same direction.  This one however was flying in a high speed zigzag pattern.  When the craft were overhead, all of the neighborhood dogs began barking. (this may or may not be a result of the craft flying overhead) We watched the craft untill they dissapeared over the north horizon.  I have grown up around Kingsley air force base, and have seen all manner of jets and helicopters and these behaved like none of those that I had ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16747.html](http://www.nuforc.org/webreports/reports/016/S16747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
