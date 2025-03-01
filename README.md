@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Upper Hutt (New Zealand) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>The Object hung silently above our Town for almost 3 hours. Thousands of people saw it.I was a teacher at Oxford Crescent School in Upper Hutt. I first noticed it during the morning-tea break.There was great excitement as the children wondered if it was going to land.It seemed to be hanging less than 250 metres above the ground and appeared to move downwards a couple of times. It was grey metallic and circular in it's base. It was still there at lunch-time, absolutely stationary. I had to go down to the shops during the lunch-hour and hundreds of people were out in the streets watching it through binoculars and telescopes. The radio stations were "tracking it"and reports came from the weather office to say it was NOT a weather balloon.The airforce sent 3 jets down to check it out. They flew around and around and up and down and then went away. The Government still insisted it was a weather balloon that had floated into the wrong place. We knew that was a story because it sure wasn't floating now even though there was a small breeze. What's more it was the size of a bus not a weather balloon.Close to 1pm the object slowly moved straight upwards a little and then a little more. There was no noise but I felt the energy of it. It then moved very rapidly straight up to I guess maybe 1000 meters,slowed and then shot off at great speed straight up into the blue sky where it disappeared from sight.The powers-that-be kept pushing the weather balloon story which didn't fit the facts. I know of course that they can't say it's a flying saucer, else the whole country would go into a panic. I Think half the people believed the story and the other half, like me, knew it was a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38759.html](http://www.nuforc.org/webreports/reports/038/S38759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>flash of light over kansas citydriving along 35 south off of southwest blvd, and large flash, like before a nuke goes of in movies goes off in the southern direction. Lasted at least 7 seconds if not more from the time I noticed it. looked for it in news and nothing for some reason didn't think about it much untill the meteor that almost struck earth march 2, and realized i had forgotten such a huge sighting. I think it's connected to our so called tenth planet B52.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69056.html](http://www.nuforc.org/webreports/reports/069/S69056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
