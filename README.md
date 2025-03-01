@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Townsend (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 2880.0 - 2880.0 minutes.</sub><blockquote><sub>Luminated objects spotted in clear night sky; our friends 20 miles away were called, they verified the sightings from their location.The domninate visual is that of light.  There was only one spotted at first, which was a white-blue color.  Then after further observations, several more were witnessed of similiar color as well as different colors.  They blend in with the night time stars rather well.  The objects move unlike stars however.  Some appear to be closer than others.  It is not possible to determine distance nor shape of the objects, as the reference point is the night sky.  At approxiamatly 22:30 on 03/01/2006 a low altitude jet had a set course to one of the objects located South by South east of the location of observation.  As the jet approached, the object's movements was similiar to that of a bumble bee, very quick and in various directions.  A college (which has not witnessed this but was told about it) reported today, 03/04/2006, that he overheard conversation refering to the same details as described above about the objects being in the area. I would like to note that the objects are holding a "static" position, meaning that they are NOT rotating with the stars, rather staying in particular locations.  Sometimes they will leave the location they are in and then return shortly afterwards.  The movement is a slight but steady bobbing in multiple directions.  They range in colors from white-blue to redish orange.  Attempts were made to make visual verification by means of Cam Corder, 35 mm camera with zoom lens, as well as a telescope.  The camcorder images are crude looking due to the fact that the exposure settings.  The camera and and the telescope provided a better view.  Upon closer observation the objects tend to be luminated by lights resembling that produced by LED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49432.html](http://www.nuforc.org/webreports/reports/049/S49432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two whites that split into 5 form a line up and down grew bright and sparkling and disappearit first started with two white light i though were planes but then they grew very bright and split into 5 or 6 bright lights that form a straight line up and down and remain for about 1 min.They look almost sparkly in a way white lights. They got very bright then disapper. They almost look like white fireworks the way they disappear but fireworks dont stand still and split and form a line and the lights were silent no sound at all. They were probably a good 20 miles or so. I was looking towards the north. my sister was with me and a homeless man was there in the street bare witness also. It was still black outside 4:12 am. clear skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49535.html](http://www.nuforc.org/webreports/reports/049/S49535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
