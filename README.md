@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:52 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:30 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Battle Lake (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>cigar shaped silver object in the skyThis was on a highway close to town where I saw a cigar shaped silver object which had no wings and no lights.  It was about 800 feet up where a small plane would fly.  It was flying at a steady speed and just kept on going off into the distance.  I had seen a similar object in this same area about 5 years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126135.html](http://www.nuforc.org/webreports/reports/126/S126135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Patchogue (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While driving down the road, my husband first noticed the lights in the sky.  It did not look like anything we have eve seen so we pulled over and got out.  They looked like stars flying in formation.  They flew at a slow rate of speed and each disappeared as they passed. The lights were up high, no sound.  The light were mostly a light orange color.  They were heading in an eastward direction flying over Bluepoint Ny, which is right next to Patchogue.  I'm wondering which it could have been either military or UFO's.  Please let me know if anyone else has reported our sighting to your hotline.Thank you,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107567.html](http://www.nuforc.org/webreports/reports/107/S107567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
