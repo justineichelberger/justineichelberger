@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>flash of light over kansas citydriving along 35 south off of southwest blvd, and large flash, like before a nuke goes of in movies goes off in the southern direction. Lasted at least 7 seconds if not more from the time I noticed it. looked for it in news and nothing for some reason didn't think about it much untill the meteor that almost struck earth march 2, and realized i had forgotten such a huge sighting. I think it's connected to our so called tenth planet B52.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69056.html](http://www.nuforc.org/webreports/reports/069/S69056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a disk shaped saucer with dome on top with windows.  Lights were on.  In Roseville, trees on either side.It was a disk with a dome on top.  It had windows all around the dome and the lights were on.  We were driving up to Roseville.  There were tall trees on each side of us.  As we were driving it just appeared, hovered about 1 minute and then disappeared.  We didn't see it coming or going.  It was about 1/3 mile in front of us and about 2 light posts high.  It was seen by myself (I was 15 years old) and 2 other kids from high school (La Sierra High School) and my 18 year old boyfriend.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46990.html](http://www.nuforc.org/webreports/reports/046/S46990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
