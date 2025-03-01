@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:19 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three UFO's seen flying over the Klamath sky.While we were driving along modoc pt rd back to my parents house we saw an extremely bright light hovering about 2-300 feet in the air in the middle of an empty field.  When the car got close to the light, just close enough to see the triangular shaped outline, it took off at high speed heading south towards Klamath Falls.  We drove the rest of the way home.  When we got out of the car, we looked back in the direction that they went, and we saw some craft heading north at extremely high speed, this craft looked to be the shape of a lopsided triangle and had about five to seven varicolored flashing lights along the outline.  Soon afterward, an identical craft appeared heading the same direction.  This one however was flying in a high speed zigzag pattern.  When the craft were overhead, all of the neighborhood dogs began barking. (this may or may not be a result of the craft flying overhead) We watched the craft untill they dissapeared over the north horizon.  I have grown up around Kingsley air force base, and have seen all manner of jets and helicopters and these behaved like none of those that I had ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16747.html](http://www.nuforc.org/webreports/reports/016/S16747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>The light came out of the eastern sky. The light was dimmer than aircraft of any sort.  It had one brighter light and two other lights that were dimmer, surrounded by a glow.  It was in the same light as the bright light, just dimmer...  in conjunction with a full moon, it was round... but half sized.  It moved in a direction from right to left... upwards.... stopped... them moved downwards... right to left... then straight across (left), from right to left, then upwards.. (in conjuncion with the moon), an inch (?)  then downwards.. and then darted behind the trees... and then I could see it no more... By Daniel Gallagher transcribed for ((names deleted)) asked: What impressed you about this the most? A: The way it came out of the sky.. It came out of nowhere.. the way it moved.. the way it looked... It didn't look like ANYTHING I had ever seen before.. no airplane.. no helicopter.. NOTHING has EVER manuvered like this thing had done.  The way it glowed is unlike anything I had seen before.... It was almost like a waterrwash...dancing spiritually. ((name deleted))  is an otherwise conservative sort, having a history in banking and similar routine activities.  Never have I known her to claim what she didn't earnestly believe to be true.  And while I didn't get the opportunity to witness what she claimed, I witnessed in her such a profound and different behaivior from the ((name deleted)) I've known for some time.  She came running in faster than I have ever seen her move in my life.  She was intense with an immediacy of something profound.  I have NO REASON to doubt her impressions. ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16688.html](http://www.nuforc.org/webreports/reports/016/S16688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
