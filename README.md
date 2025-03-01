@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>First object looked like a Christmas tree red/green solid lights.   Second object looked like a drone all white lights.Still to the naked eye, when looked at through the glass, they both danced around in the sky very fast.  They do not appear always at the same time.  We observed them from our back door over the wilderness area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153796.html](http://www.nuforc.org/webreports/reports/153/S153796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Flash of light across Sydney, Australia, sky.What i saw was a flash of light (looked to be triangular) move from East/South East to West/North West on a clear night no clouds at all.  The object moved from as far as I could physically see in about 1 second, then lifted outwards into the atmosphere. The light was very bright but at the same time hazy like what you would see with lightning flashes through storm clouds.  The object was extremely large.  If i had to put into perspective, if you look at the Southern Cross from earth.. we have the 2 pointers.. this object was as wide as the gap between the 2 pointers so it was HUGE.  It seemed to me that this was very high in the night sky so I can only imagine how big it was but as I mentioned this was on a clear night and I heard no sounds, although it looked to move faster than the speed of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126134.html](http://www.nuforc.org/webreports/reports/126/S126134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
