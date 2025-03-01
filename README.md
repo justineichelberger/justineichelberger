@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Yellow orange small orb.At around 730 p.m.  Central a small pulse orange orb in the North East skies, it lasted 1.5 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96487.html](http://www.nuforc.org/webreports/reports/096/S96487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chiloquin (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>First object looked like a Christmas tree red/green solid lights.   Second object looked like a drone all white lights.Still to the naked eye, when looked at through the glass, they both danced around in the sky very fast.  They do not appear always at the same time.  We observed them from our back door over the wilderness area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153796.html](http://www.nuforc.org/webreports/reports/153/S153796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
