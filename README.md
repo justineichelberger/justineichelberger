@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:52 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Arizona/Californa Border (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Aboard United Flight 667, saw 5 Black Discs along the left wing, flying same speed, after 10 mins, objects flew away at high speed, soon after we had to be escorted in to Phoenix Sky Harbor((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80332.html](http://www.nuforc.org/webreports/reports/080/S80332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>well i was closeing the curtins when i noticed some brightlights cicrleing each other in the beam of light that is projected from the top of the luxor hotel i was on the 13 floor at first i thought the objects were pre planned by the hotel but they moved in way that were uncapeable by normal craft to my knowledge i woke my wife to witness this strange occurance and she shrubbed off as light from the beam i called the front desk of the luxor and they said they dont know (they propbley thought i was nuts) but shortly afeter the call the beam went off around 3:00am and they were gone i have them on tape vhs-c tape if you can take a look at it andmaybe enhcance the picture too see what was really there would be great</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16728.html](http://www.nuforc.org/webreports/reports/016/S16728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
