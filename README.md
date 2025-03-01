@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 28 February 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saratoga Springs/Malta (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light changes directions, disappearing by Orion's KneeThe light looked like the ISS (International Space Station), but moving slightly slower and glowing reddish-orange.  It was viewed moving below and to the right of Venus, straight up and then took a sudden turn left cutting between Venus and Jupiter in the night sky.  The light continued towards Orion's Belt, and as it drew closer to Orion,  Took another sudden left curve, towards Orion's knee, and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87422.html](http://www.nuforc.org/webreports/reports/087/S87422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>well i was closeing the curtins when i noticed some brightlights cicrleing each other in the beam of light that is projected from the top of the luxor hotel i was on the 13 floor at first i thought the objects were pre planned by the hotel but they moved in way that were uncapeable by normal craft to my knowledge i woke my wife to witness this strange occurance and she shrubbed off as light from the beam i called the front desk of the luxor and they said they dont know (they propbley thought i was nuts) but shortly afeter the call the beam went off around 3:00am and they were gone i have them on tape vhs-c tape if you can take a look at it andmaybe enhcance the picture too see what was really there would be great</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16728.html](http://www.nuforc.org/webreports/reports/016/S16728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162249.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162247.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162308.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162386.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162523.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
