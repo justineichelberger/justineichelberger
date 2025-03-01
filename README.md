@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Berlin Boro (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>They looked like stars moving or satellites in a single line formation around 5:30 am east coast ...these star looking dots were heading north . Some in group of twos for example I will use the period on my keyboard to show the formation - .  .        .        .   .      .   .          .           .    .          .       .   .     .    .                .             .        Again all in a single line . At first I thought it was a satellite just flying across the early morning sky but then I saw more star looking dots right behind the first one I saw . I had enough time to run inside, grab my cousin and show him the end tail of these dots</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153735.html](http://www.nuforc.org/webreports/reports/153/S153735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White fireball in the western sky over Vancouver.Headed west on hwy 14 saw fireball coming from my southeast side, was like a single line of light, went behind clouds and came out much brighter and disappeared at a 45 degree angle from our vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69023.html](http://www.nuforc.org/webreports/reports/069/S69023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
