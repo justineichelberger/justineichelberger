@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sydney (Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Flash of light across Sydney, Australia, sky.What i saw was a flash of light (looked to be triangular) move from East/South East to West/North West on a clear night no clouds at all.  The object moved from as far as I could physically see in about 1 second, then lifted outwards into the atmosphere. The light was very bright but at the same time hazy like what you would see with lightning flashes through storm clouds.  The object was extremely large.  If i had to put into perspective, if you look at the Southern Cross from earth.. we have the 2 pointers.. this object was as wide as the gap between the 2 pointers so it was HUGE.  It seemed to me that this was very high in the night sky so I can only imagine how big it was but as I mentioned this was on a clear night and I heard no sounds, although it looked to move faster than the speed of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126134.html](http://www.nuforc.org/webreports/reports/126/S126134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Franklin (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large silent lighted object moves slowly south changes direction accelerates at high speed to east out of sight.Walking to house nextdoor, noticed large object moving slowly.  Caught my eye because was moving like a helicopter but made absoutly no sound whatsoever.  Also had some lights on it but no avaition blinkers red/green.  Traveled slowly south for a short time then quickly changed direction to the east and shot over the mountain range.  The acceleration was unbelievable was gone out of light in less than a second.  I do not remember the shape or exactly what it looked like as it did not resemble any airrcraft known to myself.  Besides some other colored lights it possibly had what looked to be a large spotlight.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98903.html](http://www.nuforc.org/webreports/reports/098/S98903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
