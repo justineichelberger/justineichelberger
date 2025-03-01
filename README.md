@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:33 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand Rapids (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A line of lights traveling across the sky from SW-NE.I was outside at work looking at the night sky. Was focused on the Big Dipper. That’s when I saw the line of lights stretching across the sky. I called out my other coworkers to come out and see it. We didn’t know what we were looking at.  I counted roughly 27. They we’re all traveling the same speed in a formal line from Southwest to Northeast part of the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153947.html](http://www.nuforc.org/webreports/reports/153/S153947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Yellow orange small orb.At around 730 p.m.  Central a small pulse orange orb in the North East skies, it lasted 1.5 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96487.html](http://www.nuforc.org/webreports/reports/096/S96487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
