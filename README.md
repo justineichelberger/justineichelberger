@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:48 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Killeen (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw an object on the ground that was origami in shape and moved like a robot.  It was very bright in color with red and orange hues and metallic like, it seemed to have one white light on it.  It appeared to be maybe taking samples and at one time went up for awhile, than came back down.  It moved quickly and at one time it changed shape flattening itself down, than transformed itself back up into the sharp edged origami like robot.  It was very bright outside at that time, almost as if a full moon was in the sky.  There were some reports that night of a bright unidentified lighted object up in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155197.html](http://www.nuforc.org/webreports/reports/155/S155197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>white cigar shaped objectOn Sunday 2nd of March 2003 at about 2.30pm It was a hot sunny day so I thought I would clean the inside of the car out as I had packed up smoking a few months earlier and still I could smell what I thought to remnants of tobacco, so I would go out and give the car a really good clean.While cleaning the car I just happened to look up and saw some thing I could not make out to be a plane, it was long kind of a stick with no wings white in colour with a red kind of light at the near side end that would pulse on and off with a glowing intensity realising I was looking at some thing out of the ordinary I ran in to tell my wife and two children who then went to the back garden to look for themselves I then ran to get my binoculars and joined the wife and boys who were by now just standing there looking up at the object looking through the binoculars I could see that it had no wings and was white in colour and what seemed to be a red light looked like some kind of exhaust which would glow with such intensity that it would obscure  the object and then the glow  down to a point where you could clearly see a type of exhaust.The object was in a clear blue sky with no clouds of any type what so ever to obscure anything it was clearly visible in every way.One thing I did note was that it seemed enormous, We have a flight path right over the place we live and are accustomed to seeing lots of different sized planes at all different hights, but I did notice that at the time there wasn't any planes visible anywhere in the sky.This object seemed to much bigger than the normal sized passenger planes, and I remember quite clearly at the beginning of the sighting it was a lot lower in the sky and as the time went on it got higher and higher the last time I saw it through the binoculars it was much much higher then I have ever seen any plane at.It was going off in a westerly direction from my house and was getting harder and harder to see one thing I do regret was that I grabbed the binoculars instead of the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31687.html](http://www.nuforc.org/webreports/reports/031/S31687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
