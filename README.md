@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While stargazing at The Orion Nebula I heard a noise over my head like aero-braking or something. As I looked up I witnessed a jet banking hard to follow a sphere to a higher altitude then to the east.This evening I was looking at the Orion Nebula when I heard a strange noise over my head. It sounded like a short burst of claps or compress- ions.  As I looked up I noticed several aircraft before I viewed the source of the noise.Tha aircraft I observed first were a passenger jet heading West towards Love Field and a helicopter heading N/NW. As I looked  straight up I saw a military jet making a severe bank up into the sky following a sphere that was about 60 foot in diameter.The jet followed the object East to an altitude of at least 4000 feet(yes it was that low) Then the sphere was gone,into thin air. I watched as the jet leveled out and climbed gradually heading south as it slowed it's speed.Within sixty seconds two helicopters were in the vicinity,both hovering about and scanning the area it seemed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05773.html](http://www.nuforc.org/webreports/reports/005/S05773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Winessed several "white dots" in the skyThe "dots" seemed to appear as if they were being laid down by unseen planes across, what started out to be a mostly clear sky. These were not contrails.  In fact, that is one of the important points I would want to make about this.  There were several other planes in the sky that day, and they ALL made contrails.  This object, or formation of jets, made these white "balls" instead. They would appear the way an image can be "swiped" onto a screen with a special effect.  Each group of rows were confined within in a rectangle-shaped area. Although it is possible to have jets sky-write with a similar teqhnique, the width of the rows and the fact that we could not see any planes at all makes me doubt it.  Even though we could see all the other planes in the sky, including high altitude ones, which you could at least make out the mass of the body, i.e., darker area in the front of it's contrail, we could never locate the objects that were responsible, with the naked eye.  Also, this didn't take place in a small corner of the sky, it covered miles in several directions...back and forth several times before they disappeard. I waited and watched for two more days, but it has been raining here, ever since we saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42702.html](http://www.nuforc.org/webreports/reports/042/S42702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
