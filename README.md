@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:57 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:44 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Okeechobee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately at work - at work minutes.</sub><blockquote><sub>There were three white lights on the  corners under the object with a flat light grey bottom.This object first appeared as a shiny star South-East of me, growing bigger by the seconds,like a big bright yellow ball of fire with a flame behind it, headed towards me as I drove fast away from it. Then when I came into a lighted area with another Officer approaching me with his work vehicle, I noticed the bright object lift up into the sky appearing to have a flat light grey bottom, white lights in all three corners, clear sky with few stars around area, unidentifying object gliding and heading North-East, with no sound at all.. This all happened very suddenly. 'wish I had a witness to what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42643.html](http://www.nuforc.org/webreports/reports/042/S42643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.7 - 0.7 minutes.</sub><blockquote><sub>Potential UFO turns 90 degrees, vapor trail follows and makes an L in the sky.  UFO entry with splashMarch 2, 2011 6:46am MST Globe, Arizona  US 60 East bound        33.418739360628  - 110.816420895193   While traveling through Globe Arizona on US 60 eastbound I observed what appeared to be a bright white condensation vapor trail from a jet airliner at the 11 o’clock position East about 070 degrees true.  The extremely bright object traveling south was creating a vapor trail that was reflecting the sunrise light extremely bright.  This object being viewed for 40 seconds had traveled about 20 percent of the total length of the existing vapor trail.The object made an absolute immediate 90 degree turn east, as I watched; the vapor trail also followed the path of the object.  An L shaped vapor trail appeared, and the object disappeared in less than two seconds after the turn.Stopping my vehicle I watched the length of the vapor trail reflect light brightly by the rising sun.  As the vapor trail dispersed it widened.  The area of the newest vapor trail including the L shape dispersed to nothing observable first.  At the same time the beginning of the vapor trail that had looked like regular airliner vapor trail widened to about 10 times the width.Now with the vapor trail quite larger, the beginning of the vapor trail looked like a round splash of paint with 10 or so loops sticking out (image clay pottery suns but the points sticking out were rounded and not the same size)  in the sky, with a perfect circular hole in the middle. The hole size was about 20 percent of the total area and was absent of any visual vapor trail.  The sky could be clearly seen through this hole in the middle.Observed by a professional environmental scientist</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80295.html](http://www.nuforc.org/webreports/reports/080/S80295.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
