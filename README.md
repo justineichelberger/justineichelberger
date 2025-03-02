@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:16 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>several red lights with no sound ascending to the sky in AlaskaI was out walking my dog by Jewel Lake and a truck pulled up in the parking lot and asked me if I had seen the lights.  I hadn't been paying attention, but when I looked - we all (two other people besides myself) saw several red lights that were coming from the ground going to the sky. Did not see them leave the ground because we were approximately 5 miles away and the tree's were blocking the ground.  Looked like it could have been coming from the old Airforce Base off of Raspberry Road. First, three came up and went to the sky then four, then one, then two (not in that order) probably 12 - 20 in all.  I don't know - but, there's probably some sort of rational explaination. I would not say that I believe in extraterrestial UFO's nor would I say I don't believe, there's just no proof.  So, right now - I just saw some unidentified flying objects.  I'm just curious if anyone else in Anchorage saw the lights and can say what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87497.html](http://www.nuforc.org/webreports/reports/087/S87497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange appearing/disappearing white lightI was outside at 2:30 am having a smoke (wife does not allow smoking in the house), I was looking up at the stars wondering if I could get a photograph of them. Suddenly a bright white light appeared out of nowhere traveling south to north at a very high rate of speed and then disappeared into the dark. No noise was heard, was to low to be a shooting star. There was no trail. It appeared more oval that a ball. No other lights visable. It was hard to determined altitude but it appeared low like about the altitude of a low flying airplane. It just lasted for just a few seconds. It would be like if you were invisible and running and then threw a switch, exposed yourself and quickly shut it off. You would appear and then disappear... Normally I don't make these types of reports because when I told my friends this tale, they asked what I was smoking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49446.html](http://www.nuforc.org/webreports/reports/049/S49446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
