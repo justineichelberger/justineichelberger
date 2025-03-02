@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:39 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Belmar (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This description must be classified as a UFO for the present time, however, my explaination claims otherwise. For the past several months, we have noticed at Sunset, viewing at sea level on the New Jersey shore, looking west, there are objects that are crossing the Sun's path, 3 which I, and several others, believe are actually comets and possibly something else, which can only be seen when looking towards the sun at that skewed angle of declination. We have repeatedly seen these objects, which look similar to a short burst contrail from a plane, however, they stay the same length and move at the same skew line, each and every night, and have done so, for the past several months. We took some photos and video and will be submitting it soon. If anyone has knowledge of what these objects are, that would be great. We are very curious at this point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35389.html](http://www.nuforc.org/webreports/reports/035/S35389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Killeen (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw an object on the ground that was origami in shape and moved like a robot.  It was very bright in color with red and orange hues and metallic like, it seemed to have one white light on it.  It appeared to be maybe taking samples and at one time went up for awhile, than came back down.  It moved quickly and at one time it changed shape flattening itself down, than transformed itself back up into the sharp edged origami like robot.  It was very bright outside at that time, almost as if a full moon was in the sky.  There were some reports that night of a bright unidentified lighted object up in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155197.html](http://www.nuforc.org/webreports/reports/155/S155197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
