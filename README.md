@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>cylander shaped flying object flying low with blue lights coming from bottom.I was driving home from work at about 10 P.M., when I saw a very bright, white light in the sky.  At first I thought it was a star or one of our planets in Earth’s view but then it started getting closer.  I rolled down my window and looked up as it was flying into my line of vision. It had a red light flashing every few seconds as a normal airplane would, and it sounded like a helicopter.I thought it was a helicopter until it passed directly over me and I was completely shocked. The flying object looked like a missile or a spaceship.  It was cylinder shaped with no wings, and appeared to have blue lights on the bottom.It was flying lower to the ground than an airplane would fly in a residential area.  I would estimate it was flying at about 150 to 200 mph.  (It was traveling slow enough to make the object out.  It wasn’t just a blur.)  I’m certain this unidentified flying object was not any commercial airplane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126176.html](http://www.nuforc.org/webreports/reports/126/S126176.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>across the sky faster than most anythingWorking in backyard, close in SE PDX.  The flight path of this craft is a familiar one, as it is a common route for fighter jets since 911. The difference with this occurance was the speed and shape of the craft. I heard a boom of what I have grown accustom to hearing prior to spotting the fighters flying over. This craft moved at least twice as fast and had a different sort of shape, almost like a small convential personal craft albiet larger. This thing just shot across the sky, then sun got in my eyes and I lost it. Very clear and bright sunny for this event. perhaps it was a stealth??  but not that shape. who knows, but it was cruisin...............</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35364.html](http://www.nuforc.org/webreports/reports/035/S35364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
