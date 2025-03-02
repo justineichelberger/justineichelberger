@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 1 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Keller (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>They looked like 4 arched windows of white light that faded into the night.At first 2 bright lights were observed side by side in the east sky, a third appeared next to the first 2, they were in a straight line side by side, a fourth appeared, only it gave the impression that it was dropped down from the other 3 in a row. At times it gave the effect of a light reflecting on the clouds around it. Each 3 of the lights blinked off and on very slowly though not in any sequence. The sky was so cloudy that stars and airplane lights were not visible. The lights were caught on video tape, when my son tried to zoom in on the lights, they looked like arched windows of white light that faded. After approximately 3-5 minutes they went out one by one till they were gone. The lights never moved in any direction and there was no sound of aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22175.html](http://www.nuforc.org/webreports/reports/022/S22175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vado (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>WHITE OBJECT COMES OUT OF BRIGHT LIGHT IN CLOUDFIRST I NOTICED A VERY BRIGHT LIGHT NEXT TO THE SUN ALMOST AS BRIGHT AS THE SUN.  AT FIRST THE LIGHT WAS BETWEEN YELLOW AND WHITE AND AFTER A COUPLE OF MINUTES IT CHANGED COLOR FROM YELLOW TO ORANGE AND THEN TO RED AND A LITTLE BIT PURPLE. AND WHILE THAT COLOR CHANGING I CAPTURED A WHITE DOT COMING OUT OF THE LIGHT MOVING AROUND AND GOING BACK TO THE LIGHT.   WHEN THE WHITE DOT GOT CLOSER TO THE SUN IT WOULD LOOK RED. I have it on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87449.html](http://www.nuforc.org/webreports/reports/087/S87449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [419](http://www.nuforc.org/webreports/reports/162/S162273.html)
-- [418](http://www.nuforc.org/webreports/reports/163/S163102.html)
-- [417](http://www.nuforc.org/webreports/reports/162/S162314.html)
-- [416](http://www.nuforc.org/webreports/reports/162/S162252.html)
-- [415](http://www.nuforc.org/webreports/reports/162/S162277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
