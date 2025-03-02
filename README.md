@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Marshall (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At 19:30 of Mar 2, 2007, my neighbor and I observed a very bright light west of Marshall, Missouri.  It was 5 to 10 miles west of town, brighter than Venus has ever been, but the light did not move for 30 minutes.  After 30 minutes, the bright light flickered on a very cloudy night, disappeared for 30 seconds, then came back on for approximately 2 miutes, then disappeared for good.  There had to be other witnesses, but there was no report to Marshall Police in a community of 15 thousand, one hour east of Kansas City, Missouri, along I - 70.  I am used to watching the B-2 bombers fly over Marshall on take off and final approach to their home at Whiteman AFB, 30 miles south at Knob Noster, Missouri.  This bright light did not move and come closer to the city limits.  It just hung in the western night sky. There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55786.html](http://www.nuforc.org/webreports/reports/055/S55786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Dark "loud-like" shape suddendly appeared on the sky, then changed into a funnel-like shape then split into three round disk shapesI was driving north from San Diego to my house in Escondido at around 4:30pm. on a sunny, clear blue sky with some white clouds. When I reached the top of the hill at Racho Bernardo, I saw a small (far away) dark (grey) cloud-like shape suddendly appear on the sky over the San Pascual Mauntains. The dark shapped "cloud" changed shaped very quickly and it streched to a funnel-like shape and then back to more rounder shape. a few seconds later it split into three round shapes that started moving left and right slowly and they appear to fade in and out. the round shapes then started moving faster in short, random directions like a pinball getting smaller and larger, and then all three shapes "flew" or disapeard from my sight behind the mountain.Seriously????? I even took off my sun glasses to make sure it wasn't anything stuck to them.. I looked away and then back to see if it was only my vision but no it was real.I'd be interested to know if I was the only one who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80300.html](http://www.nuforc.org/webreports/reports/080/S80300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
