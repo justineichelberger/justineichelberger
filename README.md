@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seen two bright lights hovering in sky, then disappear in a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107598.html](http://www.nuforc.org/webreports/reports/107/S107598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 128</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154498.html](http://www.nuforc.org/webreports/reports/154/S154498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
