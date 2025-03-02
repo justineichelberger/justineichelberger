@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bridgetown (Barbados) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Fast,  high altitude tubular object with short uneven narrow contrail in clear skies with silvery body.Looking aprox SW, vehicle was headed approx. SSW and was visible over a 10 degree arc between 60 and 70 degrees above horizon. Short singular contrail from main body, body was thin, silvery or reflective , I did not see any wings as it was at a high altitude, it disappeared behind large cumulus cloud.I was walking on beach at time and usuually watch the airplanes coming in to land at nearby airport ( they are at 1 to 2000 feet about 1/2 mile off coast from where I saw this).I have seen airpanes at high altitude but with large wide contrails and am familiar with their speed  and I would guess this one to be at least twice as fast as any I have seen.I called to my wife to look but she was 20 feet away and missed it.I estimate that other than a UFO, it could also be space junk in re-entry, or military , or ?  I also do not know if airliners from Europe on route to SA fly over Bridgetown airport as a checkpoint.Contrail was short, uneven and evaporated quickly and stretched about 10 or 15 lenghts behind object and seemed to be uneven with apparent bubbles as if using pulses.Of course I had no camera and the event was so fast, I wouldn't have been able to focus it fast enough.I estimate body length to width ratio of 5:1 to 10:1.I am sending this from back home after the end of my vacation.Image is clear as a bell in my mind. I was not looking for it, it just captured my eye as I scanned the beautiful Caribbean sky .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22105.html](http://www.nuforc.org/webreports/reports/022/S22105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Golden Meadow (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Traveling From Fourchon north on LA1 Bridge.  Bright Silver/Chrome object flying through sky vanishes.On 3-2-14 at approximately 1700 hrs, I was driving from Port Fourchon on the Toll bridge north bound heading up toward Golden Meadow.  About midways between Fourchon and the first intersection on the bridge, a co-worker and I noticed a bright silver object moving through the sky from East to West.  This object seemed to be very high in the sky and was larger than a jet/plane/helicopter but smaller than the space station which I have personally watched pass overhead during the daytime.  It was moving as fast as the space station does across the sky from East to West.  We watched the object for approximately 40 to 50 seconds.  The sky was very clear where the object was.  There were clouds on the horizon, blue skies above those clouds, and a cloud or two directly above us.  While my co-worker and I were watching the object and discussing what it may be, it disappeared.  He and I were both looking directly at the object when this happened.  It just vanished.  To further describe the object, it looked like it was completely covered in chrome.  It was very bright but it was not reflecting the sunlight.  We could see the outline which looked like an elongated oval shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107591.html](http://www.nuforc.org/webreports/reports/107/S107591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
