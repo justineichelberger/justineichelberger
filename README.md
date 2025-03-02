@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:16 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:23 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Strange appearing/disappearing white lightI was outside at 2:30 am having a smoke (wife does not allow smoking in the house), I was looking up at the stars wondering if I could get a photograph of them. Suddenly a bright white light appeared out of nowhere traveling south to north at a very high rate of speed and then disappeared into the dark. No noise was heard, was to low to be a shooting star. There was no trail. It appeared more oval that a ball. No other lights visable. It was hard to determined altitude but it appeared low like about the altitude of a low flying airplane. It just lasted for just a few seconds. It would be like if you were invisible and running and then threw a switch, exposed yourself and quickly shut it off. You would appear and then disappear... Normally I don't make these types of reports because when I told my friends this tale, they asked what I was smoking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49446.html](http://www.nuforc.org/webreports/reports/049/S49446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Dark "loud-like" shape suddendly appeared on the sky, then changed into a funnel-like shape then split into three round disk shapesI was driving north from San Diego to my house in Escondido at around 4:30pm. on a sunny, clear blue sky with some white clouds. When I reached the top of the hill at Racho Bernardo, I saw a small (far away) dark (grey) cloud-like shape suddendly appear on the sky over the San Pascual Mauntains. The dark shapped "cloud" changed shaped very quickly and it streched to a funnel-like shape and then back to more rounder shape. a few seconds later it split into three round shapes that started moving left and right slowly and they appear to fade in and out. the round shapes then started moving faster in short, random directions like a pinball getting smaller and larger, and then all three shapes "flew" or disapeard from my sight behind the mountain.Seriously????? I even took off my sun glasses to make sure it wasn't anything stuck to them.. I looked away and then back to see if it was only my vision but no it was real.I'd be interested to know if I was the only one who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80300.html](http://www.nuforc.org/webreports/reports/080/S80300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
