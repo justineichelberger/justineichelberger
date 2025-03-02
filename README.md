@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:57 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vado (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>WHITE OBJECT COMES OUT OF BRIGHT LIGHT IN CLOUDFIRST I NOTICED A VERY BRIGHT LIGHT NEXT TO THE SUN ALMOST AS BRIGHT AS THE SUN.  AT FIRST THE LIGHT WAS BETWEEN YELLOW AND WHITE AND AFTER A COUPLE OF MINUTES IT CHANGED COLOR FROM YELLOW TO ORANGE AND THEN TO RED AND A LITTLE BIT PURPLE. AND WHILE THAT COLOR CHANGING I CAPTURED A WHITE DOT COMING OUT OF THE LIGHT MOVING AROUND AND GOING BACK TO THE LIGHT.   WHEN THE WHITE DOT GOT CLOSER TO THE SUN IT WOULD LOOK RED. I have it on film.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87449.html](http://www.nuforc.org/webreports/reports/087/S87449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Okeechobee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately at work - at work minutes.</sub><blockquote><sub>There were three white lights on the  corners under the object with a flat light grey bottom.This object first appeared as a shiny star South-East of me, growing bigger by the seconds,like a big bright yellow ball of fire with a flame behind it, headed towards me as I drove fast away from it. Then when I came into a lighted area with another Officer approaching me with his work vehicle, I noticed the bright object lift up into the sky appearing to have a flat light grey bottom, white lights in all three corners, clear sky with few stars around area, unidentifying object gliding and heading North-East, with no sound at all.. This all happened very suddenly. 'wish I had a witness to what I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42643.html](http://www.nuforc.org/webreports/reports/042/S42643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
