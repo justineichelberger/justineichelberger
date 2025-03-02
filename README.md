@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Dark "loud-like" shape suddendly appeared on the sky, then changed into a funnel-like shape then split into three round disk shapesI was driving north from San Diego to my house in Escondido at around 4:30pm. on a sunny, clear blue sky with some white clouds. When I reached the top of the hill at Racho Bernardo, I saw a small (far away) dark (grey) cloud-like shape suddendly appear on the sky over the San Pascual Mauntains. The dark shapped "cloud" changed shaped very quickly and it streched to a funnel-like shape and then back to more rounder shape. a few seconds later it split into three round shapes that started moving left and right slowly and they appear to fade in and out. the round shapes then started moving faster in short, random directions like a pinball getting smaller and larger, and then all three shapes "flew" or disapeard from my sight behind the mountain.Seriously????? I even took off my sun glasses to make sure it wasn't anything stuck to them.. I looked away and then back to see if it was only my vision but no it was real.I'd be interested to know if I was the only one who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80300.html](http://www.nuforc.org/webreports/reports/080/S80300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While stargazing at The Orion Nebula I heard a noise over my head like aero-braking or something. As I looked up I witnessed a jet banking hard to follow a sphere to a higher altitude then to the east.This evening I was looking at the Orion Nebula when I heard a strange noise over my head. It sounded like a short burst of claps or compress- ions.  As I looked up I noticed several aircraft before I viewed the source of the noise.Tha aircraft I observed first were a passenger jet heading West towards Love Field and a helicopter heading N/NW. As I looked  straight up I saw a military jet making a severe bank up into the sky following a sphere that was about 60 foot in diameter.The jet followed the object East to an altitude of at least 4000 feet(yes it was that low) Then the sphere was gone,into thin air. I watched as the jet leveled out and climbed gradually heading south as it slowed it's speed.Within sixty seconds two helicopters were in the vicinity,both hovering about and scanning the area it seemed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05773.html](http://www.nuforc.org/webreports/reports/005/S05773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
