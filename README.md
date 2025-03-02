@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 2 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Winessed several "white dots" in the skyThe "dots" seemed to appear as if they were being laid down by unseen planes across, what started out to be a mostly clear sky. These were not contrails.  In fact, that is one of the important points I would want to make about this.  There were several other planes in the sky that day, and they ALL made contrails.  This object, or formation of jets, made these white "balls" instead. They would appear the way an image can be "swiped" onto a screen with a special effect.  Each group of rows were confined within in a rectangle-shaped area. Although it is possible to have jets sky-write with a similar teqhnique, the width of the rows and the fact that we could not see any planes at all makes me doubt it.  Even though we could see all the other planes in the sky, including high altitude ones, which you could at least make out the mass of the body, i.e., darker area in the front of it's contrail, we could never locate the objects that were responsible, with the naked eye.  Also, this didn't take place in a small corner of the sky, it covered miles in several directions...back and forth several times before they disappeard. I waited and watched for two more days, but it has been raining here, ever since we saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42702.html](http://www.nuforc.org/webreports/reports/042/S42702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>whole city witnesses falling light (not meteor, nor plane distress flare)I wasnt actually a witness but its been on the news and radio for 3 days straight and they said no one reported it so i will.they said it was a falling light that ressembled a plane distress flare but after investigation authorities found out that no plane launched a flare nor distress signal. then people said that the light crashed in phinizy swamp, when authorities investigated the area with infrared helicopters and other means nothing turn up.But the whole city made calls in that night seeing the falling light over the city of Augusta</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42723.html](http://www.nuforc.org/webreports/reports/042/S42723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162284.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162289.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162286.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162288.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162285.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
