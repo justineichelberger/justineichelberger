@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw four firey round objects floating in the sky, North Easterly direction, watch them about 15 minutes until they disappeared.Around 8:00 p.m. again, at the same restaurant, we were getting out of the car, and noticed three firey looking round objects, floating in an upright V formation heading in a north eastern direction. There was no sound or smoke. All of a sudden we watched a fourth object shoot up from the ground, to the same altitude as the other three, but never joined them. It stayed by itself but yet moved in the same direction as the other three until they all disappeared. My kids and I watched them for about 15 minutes, during which time, several employees of the restaurant had joined us in watching the objects. They told me that they have seen these lights several times before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12196.html](http://www.nuforc.org/webreports/reports/012/S12196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Many different colors and lights.................We was having a wind storm and all at once bright lights was in my back yeard near my sliding glass door to my bedroom and I got out of bed and seen this big light from the sky and the around UFO was also turning different colors with lights around the craft. There was no real noise but yet you could feel it was there. I never seen any one get out of it for it never landed. Just stayed in my back yard area for (10+) min. Then left at once. I felt a strong feeling that I had been visited from another world. When I was (13) I seen a UFO in the forest and never have for got that and now at age (49) I seen another UFO and know it was here for some unknown reason to me. My God be the glory of the unknown..............…((FOLLOW-UP COMMUNICATION/CORRECTION))Peter Last year I seen a UFO and did report it. But I made a major err in my report. I said that UFO was outside my sliding class door for (10-min) and it was less the (10-seconds) and this makes my report a joke. Please clear this for me. Blessings, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16884.html](http://www.nuforc.org/webreports/reports/016/S16884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
