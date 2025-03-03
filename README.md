@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Allegany (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 silver discsI was driving down the Four Mile rd. in Allegany on the way to class one warm afternoon in March when I happen to glance up in the sky and see three circular discs.  They were traveling in a straight line, one after another.  I watched them descend to my left, very slowly.  Because I was running behind, I couldn'd stay and watch, but I did get pictures.((NUFORC Note:  Date is approximate.  We will request copies of the photos from the student who submitted the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37901.html](http://www.nuforc.org/webreports/reports/037/S37901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw four firey round objects floating in the sky, North Easterly direction, watch them about 15 minutes until they disappeared.Around 8:00 p.m. again, at the same restaurant, we were getting out of the car, and noticed three firey looking round objects, floating in an upright V formation heading in a north eastern direction. There was no sound or smoke. All of a sudden we watched a fourth object shoot up from the ground, to the same altitude as the other three, but never joined them. It stayed by itself but yet moved in the same direction as the other three until they all disappeared. My kids and I watched them for about 15 minutes, during which time, several employees of the restaurant had joined us in watching the objects. They told me that they have seen these lights several times before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12196.html](http://www.nuforc.org/webreports/reports/012/S12196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
