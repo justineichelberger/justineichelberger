@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Circular Red Glowing/Flashing Objects Hovering Together In The Night Sky Faded Out SlowlyTwo Red Circular Flashing Lights.  One Was Moving Slowly Towards The 2nd One Which Appeared To Be Still, Then The Moving Object Slowly Drifted Away From The Second Object Which Began To Fade Out.  They were Both Extremely Bright And Flashing As Orange/Red Glowing Balls.  Not In Flight, Hovering, Near Each Other Under Intelligent Control.  Then They Slowly Drifted/ And/Or Faded Away, One At A Time.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126190.html](http://www.nuforc.org/webreports/reports/126/S126190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Allegany (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 silver discsI was driving down the Four Mile rd. in Allegany on the way to class one warm afternoon in March when I happen to glance up in the sky and see three circular discs.  They were traveling in a straight line, one after another.  I watched them descend to my left, very slowly.  Because I was running behind, I couldn'd stay and watch, but I did get pictures.((NUFORC Note:  Date is approximate.  We will request copies of the photos from the student who submitted the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37901.html](http://www.nuforc.org/webreports/reports/037/S37901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
