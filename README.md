@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Nashville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Have never seen anything this bright and fast in the sky.First, saw a bright white, stationary light in the sky, after a few seconds it appeared to be heading west at a high rate of speed...we were going 75 MPH in a westward direction.  It did not have any flashing lights and was not an airplane. The light was very, very bright and FAST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139050.html](http://www.nuforc.org/webreports/reports/139/S139050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Boone (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright Blue/silver light,right over head,statonary,thought it was a star,The objict moved due North as it dimed to a very small light.Very clear warm night, for march,Stars all very bright infact I thought this was a star until it moved and dimed this was somithing being controled and it was no air craft that I have ever witnesed at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12195.html](http://www.nuforc.org/webreports/reports/012/S12195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
