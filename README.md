@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monrovia (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Possible Cattle MutilationReported in The Washington Post, Saturday, March 6, 2004, page B3: (e-mail jackmant@washpost.com)  4 Calves Attacked in Frederick; 2 Die  Frederick County authorities are investigating an act of animal cruelty after four cows on Gladhill Brothers Road in Monrovia were attacked with a sharp object late Wednesday, a spokesman for the county Division of Animal Control said yesterday. Two 6-month old calves died of the wounds, which were discovered by the animals' owner Thursday morning. Two other calves - also about 6 months old and about 350 pounds - were severely cut but survived, said division spokesman Harold Domer. The animals' owner, Aubrey Mullineaux, told authorities that sonmething spooked the 28 animals in his herd about 10:15 PM and caused them to bolt across tha pasture, Domer said.((NUFORC Note:  If two calves survived, our suspicion would be that humans, not aliens, probably were the perpetrators of this crime.  Just a guess.  Subsequent investigation may resolve the issue.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35425.html](http://www.nuforc.org/webreports/reports/035/S35425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Nashville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Have never seen anything this bright and fast in the sky.First, saw a bright white, stationary light in the sky, after a few seconds it appeared to be heading west at a high rate of speed...we were going 75 MPH in a westward direction.  It did not have any flashing lights and was not an airplane. The light was very, very bright and FAST.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139050.html](http://www.nuforc.org/webreports/reports/139/S139050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
