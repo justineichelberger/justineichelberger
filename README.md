@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Mt. Pleasant (MI) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Grid/cage like light event in the evening skyThis event happened when I was a young girl living in Michigan, so it will more than likely be of little importance now.  I was outdoors playing with the neighbor kids in the evening when we noticed a bright point of light at the highest point in the sky.  From the single point of light a cage or grid (similar to the longitude and latitude lines drawn on a globe), grew from this single point began to grow.  I ran in to get my dad and step mom and in the end there were a number of us from the neighborhood standing in the street watching the event.  At the most impressive point of the event it looked like a net/grid/cage covered our sky overhead.I think about this from time to time but have never really spoken about it, and have basically summed it up as an odd event.  Unfortunately, because so much time has passed I can no longer recall an exact date of the event.  However, the event itself remains fairly clear.If any information on what that could have been exists, I would be thrilled to receive it.It would be understandable if no data exists, or if the event itself is insignificant.((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138759.html](http://www.nuforc.org/webreports/reports/138/S138759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Chazy (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  65</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154506.html](http://www.nuforc.org/webreports/reports/154/S154506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
