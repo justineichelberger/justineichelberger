@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw three bright white lights hovering in the same spot in a triangle formation.I was in the passenger set of my car as we were driving north bound down Boy Scout Rd.  To the left of my car I saw three bright white lights in a triangular formation.  At first I thought it was an airplane, but there was little to no motion.  The lights just hovered in place, keeping a triangular formation.  We kept driving but I could see the lights still in the same spot behind us.  Unfortunately, we drove far enough that I could not get another look at the lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107616.html](http://www.nuforc.org/webreports/reports/107/S107616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was late at night and I was over my grandmother's house awaiting my mother to pick me up.  We both looked up into the dark night sky and saw several lights close together as if attached red, blue, green and so on giving the appearance of a large craft looking from the bottom similar to one of a star wars movie.  My mother soon arrived and as we drove home three spherical lights seemed to follow and hovered over my house as I exited the car from the short drive two more lights emerged and hovered over as well.  Going inside I looked out my window and within the few seconds it took for my going inside they disappeared.  I later heard of similar events on the news over tower city.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104447.html](http://www.nuforc.org/webreports/reports/104/S104447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
