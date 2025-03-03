@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mayaguez (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>MY wife and I  driving On road # 2 PR going south in Mayaguez, Puerto Rico, at approx 8:10 pm on March 3, 2017,  My wife and I saw a blueish green fireball, streaming with a lighted tail from west to east,  It was going very fast sighting was just  of a few seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132963.html](http://www.nuforc.org/webreports/reports/132/S132963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Derry (Republic of Ireland) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Large diamond shaped UFO with escape craftThis was very wierd, im glad i have found this site so i can let the people know what i saw.  This Diamond shaped craft looked sa if it was in trouble like it was going down but as it fell further and further down alot of smaller craft shot out of it and up through the atmosphere.  The larger diamind shaped craft then vaporised.  The Diamind shaped craft looked like it was a green that waved into a blue then into a red like one of those stickers you get on a VHS video.  I wish to be contcted by you about this, if there have been similar occurances.  Please do not pass my information onto anybody else.  People already think that me and the witneses are crazy.((NUFORC Note:  We do not release personal information about witnesses.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18481.html](http://www.nuforc.org/webreports/reports/018/S18481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
