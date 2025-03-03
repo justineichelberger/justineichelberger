@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:29 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. John (Canada) (NB) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were driving home just past Spruce Lake area when we noticed the light to the left of the road just below plane height, then by the time we got to Maces Bay it had changed position as well as color, and seemed to have headlights as well as lights out from the bottom side,  then there were three very distinct flashes of to the right of the main lights,  then it moved up over us and we could see the bottom of it which looked like flashing arrows of some sort,  different colors.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87464.html](http://www.nuforc.org/webreports/reports/087/S87464.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Many different colors and lights.................We was having a wind storm and all at once bright lights was in my back yeard near my sliding glass door to my bedroom and I got out of bed and seen this big light from the sky and the around UFO was also turning different colors with lights around the craft. There was no real noise but yet you could feel it was there. I never seen any one get out of it for it never landed. Just stayed in my back yard area for (10+) min. Then left at once. I felt a strong feeling that I had been visited from another world. When I was (13) I seen a UFO in the forest and never have for got that and now at age (49) I seen another UFO and know it was here for some unknown reason to me. My God be the glory of the unknown..............…((FOLLOW-UP COMMUNICATION/CORRECTION))Peter Last year I seen a UFO and did report it. But I made a major err in my report. I said that UFO was outside my sliding class door for (10-min) and it was less the (10-seconds) and this makes my report a joke. Please clear this for me. Blessings, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16884.html](http://www.nuforc.org/webreports/reports/016/S16884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
