@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Unusual very bright looking star with the distinctive shape of an upward pointing arrow.In western sky on evning of 03Mar2017, at aprox 19:30, in Longmont, CO, was seen a very bright looking star.  What made it unusal was its brightness and distinctive shape of an upward pointing arow which gave the impression of, 'What the hell is that thing?"  Many people must have seen it.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132960.html](http://www.nuforc.org/webreports/reports/132/S132960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Machesney park (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>While driving west in Machesney Park, I noticed a string of lights located low in the sky, below where the stars are.  There were about five lights and they were not moving in the sky, which I would expect if it was a plane.  The two lights on the rightmost section, and the one on  the leftmost section, were the brightest.  I followed the lights which appeared to flash periodically and they were red and green.  It was a clear night with no clouds in the sky and almost full moon.  At one point the lights turned off, then turned on, then off again,and finally turn back to stay.  The lights appeared to eventually lean to the right.  The lights traveled from the northeast to the southwest.  I had called my wife to tell her what I saw and and our kids looked outside and could see it too, even when I was 25 miles away from home.  I drove from Winnebago County to Stephenson County till it was getting late and I was not catching up to it.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139053.html](http://www.nuforc.org/webreports/reports/139/S139053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
