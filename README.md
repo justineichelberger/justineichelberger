@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:00 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:12 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in LaVeta (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>USAF craft chasing lights.  Pattern of orange fireballs USAF turning off running lights disappearing reappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126187.html](http://www.nuforc.org/webreports/reports/126/S126187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pollock Pines (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Ten small, white, shiny objects hovered over our house in changing formations before drifting upwards and disappearing.On March 3rd, my mother and I were on our back porch, watching a large flock of waterfowl fly overhead, when we noticed something else among the birds.  At first, they appeared to be another flock of some kind of fowl, until we realized how slowly they were moving.  There were ten of them, and they were small, white dots, and, from what I saw through a pair of binoculars, appeared to look slightly like deformed bowling pins.  Over 20-30 minutes, they slowly made their way through the sky for about four or five hundred yards and then stopped directly over our house.  Then they hovered there soundlessly (the noisy geese were long gone), and the ten of them would move slowly into differnt formations, mostly triangles.  They did this for about ten minutes, and then slowly seemed to drift upwards until disappearing into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87675.html](http://www.nuforc.org/webreports/reports/087/S87675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
