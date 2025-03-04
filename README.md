@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid light same brightness as stars high in atmosphere or space moving north to south across Utah.It was a clear night sky and I could see multiple stars. I saw a point of light about the same brightness as the surrounding stars but I noticed it was moving relative to the stars. From north north east to south southwest. It's speed appeared similar to a satellite and it was clearly far away but also very bright relatively. Once it reached about a 45 degree angle from my perspective it was no longer visible. It was a smooth flyby at a constant pace but how do I confirm if it was a satellite? Photos I have are interesting. They all show 3 points of light for this object. Could be from the image processing its movement but I don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162324.html](http://www.nuforc.org/webreports/reports/162/S162324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Colville (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Jet breaking sound barrier folowed by a bright green fireballMy wife had stopped by my place of work to meet me for my break.We stepped outside to have a cigarette. We heard a sudden sound of a jet breaking the sound barrier.(this is not very common in this area) I looked up in the sky facing north and said to my wife "they are probably going to spray us (con-trails) at that instant the jet sound went away and I saw a brilliant green fireball shoot coming from the south to north, and from very high in the sky towards the ground and over north mountain range.It was partly cloudy and I could see it come in and out of the cloud cover, it lasted in my view about 2 seconds. This is the second green fireball I have seen in this area. In September I saw one in approximately the same place in the sky, except it came out of the east heading west and went over the horizon this was at dusk and it lasted about 3 seconds and was more parallel with the ground. Very awsome sight!!! Hope we can be of some help, and I appreciate all the hard work you do. I listen to Art every night and hear all the reports, just didn't think I would ever see anthing like this, now I have seen two. There is sure something to this, and with you and Art I believe we will find out someday. THANKS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05825.html](http://www.nuforc.org/webreports/reports/005/S05825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
