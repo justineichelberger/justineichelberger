@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Edisto Beach (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Half-circle formation of 10-20 dim lights moving quickly down coastline of Edisto Beach.A formation of 10-20 dim lights in a half circle formation appeared over the coast and then shot down the coastline.  At first it was thought to be shooting stars, but they were just a tad slower, much faster than an airplane could possibly go.  They had appeared out of nowhere and disappeared after 5-10 seconds.  It was a clear sky at the time of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139059.html](http://www.nuforc.org/webreports/reports/139/S139059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looking west, very low in the sky (if I compare it most of the planes that go to and from the airport we have nearby),  I noticed a bright white light racing across the sky heading north.  I did not think it was a shooting start because it was closer than I had ever seen one before and it did not leave the bright trail of light  behind it ....at first.  Seeing it at first I thought it was an airplane and was concerned at tithe fact that it seemed to be traveling much faster than any plane I had seen, so my next thought was that it might be in trouble and perhaps going to crash.  After a few more seconds I observed the light produce two more smaller lights that seemed to break of or fall of the original one.  The two lights each went off in different directions then disappeared soon after.  The original larger white light began changing color from a blue green hue to almost all green and gave off a flickering or kind of flashing light display and seemed to be sl! owly of fading (or what I’d picture sputtering to look like), still heading north it seemed to descend as it sputtered out and soon disappeared.  Once it had began changing color from the white to the green and gave off a lighter green aura around it   I noticed it had also started to produce a trail of light behind it, just like I’ve always seen accompanying shooting stars but much more colorful, brighter, and larger than any I’ve seen before.  Could very well be a shooting star or many other perfectly normal explanation for it but I thought I’d post in the case that it’s  not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145112.html](http://www.nuforc.org/webreports/reports/145/S145112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
