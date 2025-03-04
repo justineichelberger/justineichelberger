@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Substantial amount of 'satellites'.It was dark outside and I was letting my dogs outs when I thought I saw the International Space Station making a pass in the north sky below the Big Dipper heading east northeast.  I looked up the ISS and it was not scheduled for a visible pass.  I then saw what looked like satellites emanating just east of the 'pot' of the Big Dipper also heading east northeast.  These satellites were appearing every 1-2 seconds.  I called my wife to see this. We must have seen 40 - 50 lights.  The lights then started appearing with a longer time gap between them.  We also saw another 10 - 15 lights emanating in the west sky and going the same direction.  The lights were not flashing and just looked like satellites.  This happened for probably 15 minutes.  I tried filming this with my phone video camera and another video camera but it was very hard to see them. I have never seen anything like this before.  Did anyone else see these lights?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153829.html](http://www.nuforc.org/webreports/reports/153/S153829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Edisto Beach (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Half-circle formation of 10-20 dim lights moving quickly down coastline of Edisto Beach.A formation of 10-20 dim lights in a half circle formation appeared over the coast and then shot down the coastline.  At first it was thought to be shooting stars, but they were just a tad slower, much faster than an airplane could possibly go.  They had appeared out of nowhere and disappeared after 5-10 seconds.  It was a clear sky at the time of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139059.html](http://www.nuforc.org/webreports/reports/139/S139059.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
