@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:31 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Ogden (UT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object appeared out of nowhere, pulsed super bright white, and then slowly faded out and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153857.html](http://www.nuforc.org/webreports/reports/153/S153857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>this was really weird experienceIt was dark we were driving down 15 th nw and were stoping for a traffic light.  I looked out the side window and I saw a big ship looking thing flying towards us over the houses..  it was very close maybe 75 to a 100 ft away it was very big maybe a city block or bigger it was lite up with white lights up the sides then one side went dark then the other..  it flew right over us I put my phone out the window and recorded some of it it shows the ship and I cought some other things that look like red dots in a row zipping off... clouds that look like they have demon looking faces and real bright in the middle they look like they're going in and out of a bright light..two days later I was at my friends in bonneylake, wa the same friend who saw this with me her house is in the middle of the woods it was close to 4:00 am I was in the kitchen cooking I looked out the window I saw lights coming through the trees  it was a saucer shapped  thing it was 4 or 5 feet across it had lights around the whole thing it stayed about 10 ft off the ground for at least an hour I stopped looking I was try to film it out the window I saw 3 lights come onto  my screen  dropping from the sky  straight down.  After I looked at the video it shows red dots in a line zip across the screen real fast they go have way then up and down at the end it shows something lite up pop up real fast and back down its really weird I have it on video .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117924.html](http://www.nuforc.org/webreports/reports/117/S117924.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
