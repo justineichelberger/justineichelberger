@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 3 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pontotoc (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light in the sky. UFO or What?Coming home from Alabama, I saw this bright light just staying in place and by us as we drove to Pontotoc, MS I first saw it in West Point, MS then my son (24 yrs) asked me what that bright light was....we watched for nearly 1 hour.  When we arrived home Iwent outside in the back facing Due West I looked for that bright light....it was no longer there..((NUFORC Note:  We suspect the witnesses may have been observing a celestial body, perhaps Venus or Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16820.html](http://www.nuforc.org/webreports/reports/016/S16820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plymouth (NH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three witnesses see multiple UFO sightings over the Plymouth, NH area.We were to exit 23 off I-93 North heading home to Bristol, NH when in the sky (to high for street lights) were there were six or seven teardrop shaped lights flashing off and on with and orange-peach colored glow in a sequetial pattern but they were all over the section of the sky in front of us. I almost made my wife pull over on the off ramp to observe, but we continued until we found a safe place, but the view was obscured so we moved to another area all the times with the lights flashing.  We have never seen anything like this before also my car radar detector was going haywire, I reset it only to have it freak out again.  We finally found a place to view them at the New Hampton Fire department when the lights lined up then disappeared leaving only a star in their place. We then jumped back onto I-93 N. to track where they went, followed all the way to Plymouth but they were gone.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43252.html](http://www.nuforc.org/webreports/reports/043/S43252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [241](http://www.nuforc.org/webreports/reports/162/S162282.html)
-- [240](http://www.nuforc.org/webreports/reports/162/S162319.html)
-- [239](http://www.nuforc.org/webreports/reports/162/S162403.html)
-- [238](http://www.nuforc.org/webreports/reports/162/S162700.html)
-- [237](http://www.nuforc.org/webreports/reports/154/S154149.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
