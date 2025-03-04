@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Tucson sighting from Catalina Foothills:  4 lights, triangle formation, moving low and silent in a northwest direction in the Tucson skyOur Tucson apartment is on Sunrise Drive between Swan and Craycroft.  Sunrise is a main road that runs east to west along the base of the Catalina Mountains and Swan (to the west of our apt) and Craycroft (to the east) are roads that run perpendicular north and south. Tues night (3/4/14) at 7:39pm, my son was sitting on our third-floor, south-facing apt balcony.  From the balcony, which faces Sunrise, we have a panoramic view that includes city lights to the southwest, Davis-Montham/TIA lights to the south, and Tucson Mountains to west.  At around 7:39, my son noticed what appeared to be a large triangle-shaped "craft" with 3 point lights (spaced evenly apart in a straight line) along the back and a single light at what would be the point of the triangle or front of "craft".  This large, expansive-looking "craft" was moving slowly and silently at an angle over Swan heading northwest in the direction of I-10.  He immediately called me as he was watching it and I happened to be driving north on Craycroft towards Sunrise with a friend following two cars back.  All the way up Craycroft to the light at Sunrise (about 1 mile), I was unable to see anything and thought he was exaggerating.  However, as I turned left to go west on Sunrise, there it was up ahead directly in front of me up in the sky.  My view of it was of the back three lights only as it moved away from my direction, heading west over Sunrise.  I did not see the front point light.  A Pima County Sheriff's Supervisor SUV had been directly behind me at the Craycroft/Sunrise light and as soon he turned the corner behind me, he gave one blast of the siren, stomped on the gas, cutting around me and the car to the left, racing up Sunrise in that direction.  I reached home in about three minutes and it had already disappeared from my view.  My friend, who had been behind the Sheriif, had seen it as well as soon as we turned on Sunrise. My son, however, said he watched all four lights seemingly disappear and ran to the other side of the building but it was not visible after that from any direction.  Nothing on the news or anywhere today about this. We've seen odd lights in the sky before from the balcony but never anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107650.html](http://www.nuforc.org/webreports/reports/107/S107650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Caldwell (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Jutting lightAn object was spotted high in the sky shortly after darkness on Hwy 21. The object appeared to be a distant light. When viewed through the video camera, it "jutted" in a box-shaped pattern, occasionally shifting out of the pattern. The object did not appear to have any destination.((NUFORC Note:  Witness does not indicate time of sighting.  We do not know what a "jutting" light is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55587.html](http://www.nuforc.org/webreports/reports/055/S55587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
