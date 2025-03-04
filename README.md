@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green fireball over San FranciscoAs I was driving north on 280, about 10 minutes away from San Francisco, I was over the city a green fireball traveling from South-South West to North-North East that disappeared in just a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35687.html](http://www.nuforc.org/webreports/reports/035/S35687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Brilliant white light race across the sky at an unbelievable rate of speed.I was looking into the night sky.  I just was panning the beautiful clear skies and all the stars were visible. I looked almost completely vertical from my standing position and noticed a brilliant ball of light and I would say "star-like" in appearance racing across the sky from west to east.  It travelled at an unbelievable rate of speed. I saw it moving and I always see either planes or falling stars or just familiar objects in the sky.  I had to take a deep breath and gather my thoughts. I immediately reached for my phone to attempt to record a small portion of video.  By the time I reached down and the fraction of a second i had to take my eyes off of the object it just disappeared.  I would also like to say that the altitude of this object seemed to be in the range of deep space.  It really looked like a star to me but it never appeared to get closer to me, like a falling star.  It appeared to stay at the same elevation during the entire observation time and just zip across the sky like a vehicle under some sort of propulsion.  It really got me to think of what the object was.  I would say that it was an unidentified object in the night sky.  It was nothing I have ever seen before and I am a sky watcher, and not for UFO's just because I love nature and enjoy the sky clouds and at night stars and the moon.  It was just weird and wanted to post something to see if anyone could either explain this object or maybe someone else saw the same thing I did. THANKS((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74595.html](http://www.nuforc.org/webreports/reports/074/S74595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
