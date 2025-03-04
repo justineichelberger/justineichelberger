@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Donaldsonville (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>High speed orange light observed from northeast of Donaldsonville, GA, to southwest.Bright orange light first spotted northeast of our campsite and was traveling southwest bound at constant high rate of speed.  The object was first spotted approximately 10 degrees above the horizon and continued to be visible until it was approximately 10 degrees above the southwest horizon!  No sound was noticed as it passed by nor several minutes after it passed.  There were five sober adult witnesses to the object!  Including three Law Enforcement Officers!((NUFORC Note:  We spoke via telephone with the witness, who works in law enforcement, and we found him to be sincere and sober-minded.  He added that all of the witnesses are skilled at observing satellites passing overhead, and that the object had a distinctly orange appearance to it.  We have corrected the date above, to reflect a sighting on March 04, 2017, which is the date the witness intended.  PD))((ADDENDUM FROM WITNESS))This is a supplement to my original report made on 03/04/2017.  Several important things came to mind.  Myself, as well as the other witnesses with me, enjoy spotting satellites while camping!  This is often done with the aid of the iPod app SkyView, as well as the Sky View Satellite guide!  When this object was noticed, we all commented on how different it was, compared to a normal sighting of a satellite.  The object was faster, brighter, and maintained the same intensity in illumination during the entire observation, from approximately 10 degrees above the northeast horizon, over our location, to about 10 degrees above the southwest horizon.  Most satellites will get brighter or dimmer, depending on its relationship to the earth and sun!  The moon that night was about half full but the object was still very visible! My wife was able to orient her IPad in the direction of the object, but no satellite was noted on her app!  I know that not all satellites may be allowed to appear on this app, as well as all space junk (rocket bodies)!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132978.html](http://www.nuforc.org/webreports/reports/132/S132978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4 cross shaped craftsat 11:17 in the morning i was late and on my way to work and i had stopped at traffic lights. I looked up at them and they were there. I put my hazzard warning lights on. I got out and i thought i was dreaming but it was real there were 4 of them i stopped there for about 6 minutes. i was so amazed i didnt even blink for the 6 minutes.((NUFORC Note:  Possibly not a serious report?  Witness provides no description of the objects he allegedly witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49969.html](http://www.nuforc.org/webreports/reports/049/S49969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
