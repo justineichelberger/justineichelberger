@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:46 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4 cross shaped craftsat 11:17 in the morning i was late and on my way to work and i had stopped at traffic lights. I looked up at them and they were there. I put my hazzard warning lights on. I got out and i thought i was dreaming but it was real there were 4 of them i stopped there for about 6 minutes. i was so amazed i didnt even blink for the 6 minutes.((NUFORC Note:  Possibly not a serious report?  Witness provides no description of the objects he allegedly witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49969.html](http://www.nuforc.org/webreports/reports/049/S49969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid light same brightness as stars high in atmosphere or space moving north to south across Utah.It was a clear night sky and I could see multiple stars. I saw a point of light about the same brightness as the surrounding stars but I noticed it was moving relative to the stars. From north north east to south southwest. It's speed appeared similar to a satellite and it was clearly far away but also very bright relatively. Once it reached about a 45 degree angle from my perspective it was no longer visible. It was a smooth flyby at a constant pace but how do I confirm if it was a satellite? Photos I have are interesting. They all show 3 points of light for this object. Could be from the image processing its movement but I don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162324.html](http://www.nuforc.org/webreports/reports/162/S162324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
