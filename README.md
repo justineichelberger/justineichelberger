@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ocklawaha (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately nite - nite minutes.</sub><blockquote><sub>White diamond shape, seems to move different places, also white flashes changing directionsHi!It happened in front of my house at 9:00 pm, March 4, 2016, and I have seen it the next three nights after that.It's shaped like a diamond, there are three of them one stays in the same place the others move around,and then I saw three flashes going through the sky, one in the day too I saw something go across the sky in the naked eye, it was silver, and it wasn't a plane.  I tried to get pics but all you see is a white circle in the pics, i blew one up and it looks green, the video clip I got you can see a white circle move a little ,but the flashes I can't get on video, the flashes same to go different directions.   I am so freaked out.  These are my first sightings ever!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126226.html](http://www.nuforc.org/webreports/reports/126/S126226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Laguna Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking up at a large hole in a large cloud from a north facing window of my house and within it saw a bright point of white light similar in size to the planet Venus moving East at a speed similar to a light plane.  It was behind the cloud briefly but was always visible through the cloud except for a second or two when a dense spot in the cloud obscured it completely. Another identical point of light appeared from behind the cloud trailing the first point of light at about a 2" distance at arms length.  There was no relative motion of the two points.  I noticed a third point of light trailing the second by 2" at arms length, but this point of light was definitely below the cloud and a light greenish blue in color, similar to an airport beacon.  The three points of light slowed and drew closer together, forming an equalateral triangle.  They stopped completely, but at that point the cloud blew between myself and the objects and I could no longer see them.  The motion of the objects was opposite the motion of the cloud, and the clouds were at the 5000 foot level.  Assuming the objects were at cloud level, the triangle formation would have occurred approximately between Thurston Middle School and the large S curve in highway 133.  John Wayne airport is approximately 10 miles North from that location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49429.html](http://www.nuforc.org/webreports/reports/049/S49429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
