@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Caldwell (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Jutting lightAn object was spotted high in the sky shortly after darkness on Hwy 21. The object appeared to be a distant light. When viewed through the video camera, it "jutted" in a box-shaped pattern, occasionally shifting out of the pattern. The object did not appear to have any destination.((NUFORC Note:  Witness does not indicate time of sighting.  We do not know what a "jutting" light is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55587.html](http://www.nuforc.org/webreports/reports/055/S55587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Daly City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>JUST BEFORE SUNSET, I NOTICED A SMALL DARK CLOUD ABOUT 40 DEGREES ABOVE THE HORIZON WHILE CAUGHT MY ATTENTION BECAUSE ITS SHAPE AND SIZE WERE DIFFERENT THAN ANY OTHER CLOUDS AND, WHILE OTHER CLOUDS WERE IN MOTION, THIS ONE WAS STATIONARY.  AT THE SAME TIME I SPOTTED A TINY SOURCE OF BRIGHT LIGHT, APPEARING THROUGH OTHER LESS DENSE CLOUDS ABOUT 2 DEGREES, HORIZONTALLY TO THE RIGHT OF THE SUBJECT CLOUD, WHICH I THOUGHT MIGHT BE VENUS.  AFTER ABOUT 5 MINUTES OF VIEWING SAID ITEMS, I NOTICED THERE WAS A VERY SMALL, DARK EMISSION FROM THE SUBJECT CLOUD, WHICH CAME OUT FROM THE BOTTOM LEFT PART OF SAME.  IT WAS SMALL (ABOUT 1/50 THE SIZE OF THE CLOUD) CYLINDRICAL AND WAS OF THE SAME COLOR OF THE CLOUD BUT WAS PUFFY, I.E. LESS DENSE.  ALSO, AT THIS TIME, I NOTICED THE LIGHT SOURCE APPEARED BRIGHTER WHILE ANOTHER LIGHT SOURCE (OBJECT), SMALLER AND LESS BRIGHT.  APPEARED AT AN ANGLE OF ABOUT 30 DEGREES UP AND TO THE RIGHT OF THE NOW BRIGHTER LIGHT.  I NOW GRABBED A PAIR OF BINOCULARS (8X21) AND BEGAN CLOSE OBSERVATION OF ALL OF THE ABOVE STATED OBJECTS.  OVER THE NEXT HALF HOUR THE SUBJECT CLOUD SEEMED TO VERY, VERY SLOWLY SORT OF EXPLODE WHILE THE BRIGHTNESS OF THE FIRST LIGHT AND THE SECOND LIGHT GOT BRIGHTER AS THESE OBJECTS GREW A BIT LARGER.  I ALSO NOTICED RED AND GREEN LIGHTS CONNECTED WITH THE SECOND LIGHT, BUT NOT WITHE FIRST LIGHT. DURING HIS TIME THE EMISSION FROM THE CLOUD CONTINUED TO EXTREMELY SLOWLY DESCEND VERTICALLY WHILE LEAVING A DARK TRAIL BEHIND.  BOTH LIGHTS NOW GOT BRIGHTER AS THE FIRST (BRIGHTER ONE) BEGAN SHOWING RED AND GREEN LIGHT JUST LIKE THE SMALLER LIGHT.  THE RED  AND GREEN LIGHTS WERE NOW QUITE EASY TO SEE BUT IN EACH CASE THE RED LIGHT APPEARED BELOW THESE LIGHT OBJECT WHILE H GREEN LIGHT WAS VERTICALLY. ERGO, NOT VENUS!  THE EMISSION, AS IT DESCENDED, APPEARED TO HAVE A MORE SOLID HEAD A ITS LOWEST END WHICH REMINDED ME OF THE SHAPE OF A COMET. IT NOW BEGAN A RIGHT TURN AND FADED WHILE TE FIRST BRIGHT LIGHT WENT BELOW THE HORIZON AS THE SECOND THE SECOND ONE FADED AND DISAPPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139061.html](http://www.nuforc.org/webreports/reports/139/S139061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
