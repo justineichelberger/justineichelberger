@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:56 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Galt (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Formations of 25-30 lights that followed closely, clearly see them climbing in elevation and leaving atmosphere in a rope like formation, definitelynot satellites.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153836.html](http://www.nuforc.org/webreports/reports/153/S153836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>seen objects in sky above pittsburgh on March 4th about 8:30 at nightmy wife and I were coming home from our high school musical at approx. 8:30 at night .We have always checked the international space station and use to log on to the site spot the station . As we puled into our drive way my wife said there is the space station , As we looked another one came on the same line and another . They kept coming kind of  evenly spaced you could watch them until they faded . This is what the international space station looks like when you see it . I'm not sure what we saw but it was pretty cool !!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154010.html](http://www.nuforc.org/webreports/reports/154/S154010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
