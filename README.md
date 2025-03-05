@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:47 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:07:39 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5:00 - 5:00 minutes.</sub><blockquote><sub>Slow moving triangle craft, bright white lights on sides and front, 3 rows of red lights on bottom.I was driving down one of the main streets of town going to my friends house and the first thing that I noticed was a very bright low light.  As it got closer to my car I noticed that it was a very large triangle shape, about 3 times the size of an airplane.  I pulled out my phone and took 5 pictures of it. The craft appeared to be black, and had white lights around the sides and on the front, and 3 rows of red lights underneath the craft.  It moved very slowly and appeared to be hovering more than flying.  I opened up my window to see if I could hear any noise and there was nothing.  There were also no blinking likes on the object, like you would see on a plane or helicopter.  I watched the craft until it disappeared behind trees about 5 minutes after I started watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97033.html](http://www.nuforc.org/webreports/reports/097/S97033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Princeton (ME) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A Spherical/Cylindrical object that suddenly changes to chevron shape and abruptly disappears.I was in my Pickup Truck headed north from work at 4:45 pm on the afternoon of 5 March 2020. The sky was clear with no clouds but did have a slight haze to it.As I came into the town of Princeton, I noticed an object to my north at about a 45-degree angle.  The object was approximately 2-3 miles in front of me and appeared to be the same altitude as most commercial jets fly.I believe the object was heading in a northerly direction as I watched it for approximately a minute and the object never moved to the East or West and did not appear to be moving toward me. It was either headed in a northerly direction or was stationary.The distance it was from me made it appear baseball size and to my eye it appeared to be Spherical, but I believe it was more Cylindrical.  It had a very bright silvery aura around the whole object.  I thought it could be the sun shining on it, but the sun was in the West and the aura encircled the whole object.Approximately a minute into viewing the object it changed into looking like a chevron pointed toward the ground and about softball size.  The object appeared to glow brighter than before.  Within 2-4 seconds after the shape change it abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154274.html](http://www.nuforc.org/webreports/reports/154/S154274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
