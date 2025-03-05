@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 4 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Rectangular shape with two rows of yellow lights flying extremely low and above me.I walked outside to take my dog out and looked up at the sky to see what looked like two rows of yellow lights moving above me. They were flying at a fast but constant pace. As I looked in the direction that it was going, I saw one light ahead which made me realize it appeared to be a giant craft above me instead of just the rectangular lights. Being 5 am it was still not light out but it was clear enough to see it was not a plane and there was absolutely no noise coming from the craft. Lots of planes fly above this apartment complex and I have never witnessed anything like this before. We have a lot of tall evergreens here and as I tried to follow it, it disappeared behind some of the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162280.html](http://www.nuforc.org/webreports/reports/162/S162280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light over Albuquerque.I was outside my house when a bright light lit up the whole sky.  It looked like a police helicopter shined my brother and I with the spot light then I saw a bright blue ball falling towards the northern part of Albuquerque.  Then a few seconds later we heard a faint boom like it actually fell and hit the ground.((NUFORC Note:  Date may be flawed.  We wonder whether the event might have occurred on the morning of Thursday, March 06th, 2014.  The source of the report elects to remain totally anonmymous, so we have no way of contacting him/her, to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107674.html](http://www.nuforc.org/webreports/reports/107/S107674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162324.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162276.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162402.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162400.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162322.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
