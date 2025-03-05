@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:21 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anola (Canada) (MB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>March 5 2017 anola MB Canada 1:30 pm witnessed 2 black spheres overhead, treetop height, travelled north. Photos shows more than twoI just took my 4 dogs for a walk in the woods.  We got to a clearing and looked around for signs of deer or coyotes, when all the dogs looked up.  I looked up and saw, to my surprise, two black spheres above our heads.  I gasped a took my phone out and snapped a bunch of pictures.  They zoomed north to the opposite tree line and hovered over the trees.  Then they were just gone.  Only one of the photos shows them.  Of course, it's not clear, but you can see more than two.  Like I said, they were black spheres that were reflecting the sunlight.  They were about the size of a medicine ball or bigger.  No sound.  They seemed to be spinning, but it was so fast that I couldn't really see much.((NUFORC Note:  We spoke with the witness, and she seemed to us to be exceptionally sober-minded.  We suspect that she is a highly reliable witness.  We have requested copies of her photos, which she saws are not very distinct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132991.html](http://www.nuforc.org/webreports/reports/132/S132991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, quick flashes of light directly above my house in AlbuquerqueI was in my backyard, on the patio, and heard a hum, like an engine or generator starting up.  A couple of seconds later, about half of the yard became illuminated, without any sound, from a bright light directly overhead for maybe a second.  After that, a quicker flash of light illuminated a smaller area in the yard, again without sound, about twenty feet to the right of me, immediately followed by a even quicker flash of light.  The hum and flashes didn’t last longer than 5 seconds.  It was not a spotlight or the sweeping lights used to advertise a new nightclub opening.  No other houses or yards, as far as I can tell, were lit up.  The light was not far off in the distance; it seemed like it was right above me.  I did not see any objects at any time.  My home is near Constitution and Morris.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107689.html](http://www.nuforc.org/webreports/reports/107/S107689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
