@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Nambour (Australia) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>There was a big cone in the sky and it was scary and I was scared.There was a big cone in the sky when I was with my frends, it was very big and i was really scared. I thought it was going to kill me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164947.html](http://www.nuforc.org/webreports/reports/164/S164947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Port Townsend (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>7 bright orange lights in formation travel across  sky then extinguish light and disappear.Saw 7 bright orange circular lights slowly travel in line formation at about small aircraft height for  1 minute across the sky until they one by one extinguished their individual lights and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74559.html](http://www.nuforc.org/webreports/reports/074/S74559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
