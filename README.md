@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Trooper (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Extreme bright light in the sky Trooper, PA, 5:30 3/5.Extreme bright light in the sky stayed stationary for approx 1 hour, slightly oval, bigger than a star at dusk.  Disappeared within an hour.  Trooper, PA, Montgomery County.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139095.html](http://www.nuforc.org/webreports/reports/139/S139095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vista (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>3 OVAL SPINNING CRAFT OVER VISTA AREA3 OVAL SHAPED CRAFT ROTATING COUNTER CLOCKWISE HOVERING THEY SEEMED TO HAVE SOLAR PANELS OR SOME SORT OF GLASS GLOSS ON THE CENTER OF THEM THEY MOVED OVER US IN V SHAPE FORMATION THEN IN A STRAIGHT LINE THEN THEY BEGAN CLOSING IN TO EACH OTHER THEY SEPERATED WHEN I BEGAN TAKING PHOTOS WITH DIGITAL CAMERA ONE ZAPPED NORTH BOUND LIKE THE SPEED OF LIGHT WHILE THE OTHER TWO WHERE STILL HOVERING OVER US ABOUT 15,000 FEET THEN THEY STARTED HEADING SOUTHEAST TOWARDS POWAY,CA....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80363.html](http://www.nuforc.org/webreports/reports/080/S80363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
