@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Medford (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Object seen on 93S by Exit 31.While on 93S, i saw a bight explosion of light  and an oval object with what seemed like 3 red lights below appeared.It seemed to hover and the descend slowly horizontally and move west.  It was not an airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107653.html](http://www.nuforc.org/webreports/reports/107/S107653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5:00 - 5:00 minutes.</sub><blockquote><sub>Slow moving triangle craft, bright white lights on sides and front, 3 rows of red lights on bottom.I was driving down one of the main streets of town going to my friends house and the first thing that I noticed was a very bright low light.  As it got closer to my car I noticed that it was a very large triangle shape, about 3 times the size of an airplane.  I pulled out my phone and took 5 pictures of it. The craft appeared to be black, and had white lights around the sides and on the front, and 3 rows of red lights underneath the craft.  It moved very slowly and appeared to be hovering more than flying.  I opened up my window to see if I could hear any noise and there was nothing.  There were also no blinking likes on the object, like you would see on a plane or helicopter.  I watched the craft until it disappeared behind trees about 5 minutes after I started watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97033.html](http://www.nuforc.org/webreports/reports/097/S97033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
