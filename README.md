@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:39 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, quick flashes of light directly above my house in AlbuquerqueI was in my backyard, on the patio, and heard a hum, like an engine or generator starting up.  A couple of seconds later, about half of the yard became illuminated, without any sound, from a bright light directly overhead for maybe a second.  After that, a quicker flash of light illuminated a smaller area in the yard, again without sound, about twenty feet to the right of me, immediately followed by a even quicker flash of light.  The hum and flashes didn’t last longer than 5 seconds.  It was not a spotlight or the sweeping lights used to advertise a new nightclub opening.  No other houses or yards, as far as I can tell, were lit up.  The light was not far off in the distance; it seemed like it was right above me.  I did not see any objects at any time.  My home is near Constitution and Morris.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107689.html](http://www.nuforc.org/webreports/reports/107/S107689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kingsport (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering disk and flashing lights.  Very clear.Disk shaped, three solid lights on one side, flashing lights were rotating on ends.  Hovering much closer than any airplane would fly with very slow movement in any direction.  Drove away and turned around, in that split second it was completely gone.((NUFORC Note:  We suspect that the time reported by the witness is flawed.  We believe that the sighting may have occurred at 8:30 p.m., not a.m., and we have amended the time above.  The witness elects to remain anonymous, and provides no contact information, so we are unable to confirm the time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107651.html](http://www.nuforc.org/webreports/reports/107/S107651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
