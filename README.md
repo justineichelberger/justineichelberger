@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5:00 - 5:00 minutes.</sub><blockquote><sub>Slow moving triangle craft, bright white lights on sides and front, 3 rows of red lights on bottom.I was driving down one of the main streets of town going to my friends house and the first thing that I noticed was a very bright low light.  As it got closer to my car I noticed that it was a very large triangle shape, about 3 times the size of an airplane.  I pulled out my phone and took 5 pictures of it. The craft appeared to be black, and had white lights around the sides and on the front, and 3 rows of red lights underneath the craft.  It moved very slowly and appeared to be hovering more than flying.  I opened up my window to see if I could hear any noise and there was nothing.  There were also no blinking likes on the object, like you would see on a plane or helicopter.  I watched the craft until it disappeared behind trees about 5 minutes after I started watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97033.html](http://www.nuforc.org/webreports/reports/097/S97033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bath (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light traveling west to east, zig-zag course, with pauses and accelerationObject traveled from west to east, slightly north of sight.  Traveled in a slight zig-zag pattern, slowed, sped up, then stopped, and appeared to travel straight up, as the light grew dimmer until out of view.  There was no sound, a perfectly clear night, the object was a bright light, traveling higher than jets, but lower than satellites.  Observer is 52, business owner, college education, never seen anything like this before.((NUFORC Note:  Possible sighting of International Space Station: 4 Mar	-2.7	18:38:32	10	SSW	18:41:14	37	SE 	18:42:34	23	E4 Mar	0.2	20:13:55	10	W 	20:14:10	12	W 	20:14:10	12	W5 Mar	-3.2	19:04:22	10	WSW	19:07:13	68	NNW	19:08:06	39	NE6 Mar	-2.8	17:55:16	10	SW 	17:58:01	42	SE 	18:00:46	10	ENE6 Mar	-1.7	19:30:45	10	W 	19:33:23	30	NNW	19:33:28	30	NNSource:  www.Heavens-Above.comISS appeared at 19:04 on this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74596.html](http://www.nuforc.org/webreports/reports/074/S74596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
