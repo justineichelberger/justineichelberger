@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Greenup (KY) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>11 star looking lights in a straight line evenly separated going across the night sky and disappearing 1 at a time in the same spot inA straight line of lights in the sky, looked like moving stars in a straight line. 1 after another came out of what I first thought was a cloud bank but realized no clouds was in the sky, (Icould see all the stars.) 11 lights in a straight line came out spaced the same distance between them and vanished one at a time in the same spot in the sky???  What did we just see??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153917.html](http://www.nuforc.org/webreports/reports/153/S153917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Madera (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>30 to 40 white lights flying in formation, all equally apart in straight line.30 to 40 circular white lights flying in a straight line formation all equally same distance apart...Started counting them after about 2 min. Personally counted 25, so I'd say around 30 to 40. There were 5 of us that witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153881.html](http://www.nuforc.org/webreports/reports/153/S153881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
