@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Springer (NM)/Colorado City (CO) (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Large craft with blue lights followed meOn March 5 2004 Appox 2:00 am, I was heading north on I-25 in New Mexico around the town of Springer the weather had been rainy that day so there were low clouds in the area. When I got north of springer I noticed two blue lights in the low clouds,I did'nt think much of it at the time,I proceeded to Colorado drove over Raton Pass and through the town of Trinidad the weather was clear on the Colo side. I then noticed the two blue lights to the west of the Interstate,there was a full moon just above the mountains the lights were approx 100 feet apart and keeping pace with me I was doing 65 mph. The lights tilted slightly as it was travelling north, then all of a sudden the lights went out a minute later I looked and the craft appeared in the moonlight it was very close to the highway,it was BIG!!! the craft appeared to have a light blue glow and the front was flat with dark lines running up and down the front of it. At approx 5:00 am I approached Colorado City,Co the craft went right over the town up against the foothills. The craft dissappeared for a few minutes then reappeared in front of me about 200ft high lights pointed at me, I started getting nervous after that then I pulled over and it got behind the the truck and it tilted downward toward the truck I got out to look at it and it backed up but made no noise. I then proceeded north to Pueblo and did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36537.html](http://www.nuforc.org/webreports/reports/036/S36537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anola (Canada) (MB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>March 5 2017 anola MB Canada 1:30 pm witnessed 2 black spheres overhead, treetop height, travelled north. Photos shows more than twoI just took my 4 dogs for a walk in the woods.  We got to a clearing and looked around for signs of deer or coyotes, when all the dogs looked up.  I looked up and saw, to my surprise, two black spheres above our heads.  I gasped a took my phone out and snapped a bunch of pictures.  They zoomed north to the opposite tree line and hovered over the trees.  Then they were just gone.  Only one of the photos shows them.  Of course, it's not clear, but you can see more than two.  Like I said, they were black spheres that were reflecting the sunlight.  They were about the size of a medicine ball or bigger.  No sound.  They seemed to be spinning, but it was so fast that I couldn't really see much.((NUFORC Note:  We spoke with the witness, and she seemed to us to be exceptionally sober-minded.  We suspect that she is a highly reliable witness.  We have requested copies of her photos, which she saws are not very distinct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132991.html](http://www.nuforc.org/webreports/reports/132/S132991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
