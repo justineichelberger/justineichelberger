@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bath (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white light traveling west to east, zig-zag course, with pauses and accelerationObject traveled from west to east, slightly north of sight.  Traveled in a slight zig-zag pattern, slowed, sped up, then stopped, and appeared to travel straight up, as the light grew dimmer until out of view.  There was no sound, a perfectly clear night, the object was a bright light, traveling higher than jets, but lower than satellites.  Observer is 52, business owner, college education, never seen anything like this before.((NUFORC Note:  Possible sighting of International Space Station: 4 Mar	-2.7	18:38:32	10	SSW	18:41:14	37	SE 	18:42:34	23	E4 Mar	0.2	20:13:55	10	W 	20:14:10	12	W 	20:14:10	12	W5 Mar	-3.2	19:04:22	10	WSW	19:07:13	68	NNW	19:08:06	39	NE6 Mar	-2.8	17:55:16	10	SW 	17:58:01	42	SE 	18:00:46	10	ENE6 Mar	-1.7	19:30:45	10	W 	19:33:23	30	NNW	19:33:28	30	NNSource:  www.Heavens-Above.comISS appeared at 19:04 on this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74596.html](http://www.nuforc.org/webreports/reports/074/S74596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Stationary circle of star-shaped lights.While driving southbound on Capitol Blvd in Olympia (Very near the Tumwater border at the three-way intersection of Capitol/SunsetWay and Canyon Ave.),  I glanced to my left (East) and saw what I thought was a burst of fireworks but was stationary.  I slammed on the brakes, reversed to where I could observe and studied the item.  It was a series of star shaped (with possibly six or eight points) arranged in a circle hence my original thought that it was a starburst-type circle.  I stuck my arm out fully and with my thumb up found it to be about the size of my thumb from the knuckle up.  I observed for about four minutes.  The object/light or item never moved nor changed color or brilliance. I have lived in this neighborhood for nearly seven years and know the geography and landmarks fairly well.  There is no radio tower or any solid object in that direction.  I could only poorly estimate it's altitude as about 1000 feet but that's difficult.   It was blue-white in colo!r.  I drove off to get to my destination reminding myself to return in a half-hour and observe again.  I forgot to do that.  Later tonight (03/06/10) I will return to that locale to check again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74578.html](http://www.nuforc.org/webreports/reports/074/S74578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
