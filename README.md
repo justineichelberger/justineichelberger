@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:07:39 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Princeton (ME) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A Spherical/Cylindrical object that suddenly changes to chevron shape and abruptly disappears.I was in my Pickup Truck headed north from work at 4:45 pm on the afternoon of 5 March 2020. The sky was clear with no clouds but did have a slight haze to it.As I came into the town of Princeton, I noticed an object to my north at about a 45-degree angle.  The object was approximately 2-3 miles in front of me and appeared to be the same altitude as most commercial jets fly.I believe the object was heading in a northerly direction as I watched it for approximately a minute and the object never moved to the East or West and did not appear to be moving toward me. It was either headed in a northerly direction or was stationary.The distance it was from me made it appear baseball size and to my eye it appeared to be Spherical, but I believe it was more Cylindrical.  It had a very bright silvery aura around the whole object.  I thought it could be the sun shining on it, but the sun was in the West and the aura encircled the whole object.Approximately a minute into viewing the object it changed into looking like a chevron pointed toward the ground and about softball size.  The object appeared to glow brighter than before.  Within 2-4 seconds after the shape change it abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154274.html](http://www.nuforc.org/webreports/reports/154/S154274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pleasant Grove (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Counted 50 perfectly spaced identical looking white Lights, Traveling in a straight line moving from west to east very fast and very silent. They had the appearance of a satellite in the upper atmosphere but they were perfectly spaced and too many in a row. We waited 90 min. They did not appear again, as a normal orbiting satellite would Traveling around the planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154060.html](http://www.nuforc.org/webreports/reports/154/S154060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
