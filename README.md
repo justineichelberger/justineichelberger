@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 5 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Parkersburg (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>8 Extremely  bright lights move across the horizon in unison in a matter of 2 minutes or lessWalked out to let my dogs out  .looked up to the North star and seen a light extremely high in the horizon but extremely bright... But as I watched I seen 7 more directly behind the other spaces perfectly... The crafts went from one side of the horizon to the other in a matter of 1.5-2 minutes...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153911.html](http://www.nuforc.org/webreports/reports/153/S153911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Massillon (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Too high and too fast to be from here.My wife and I watched what looked like flying stars coming out of the west sky heading north east.  They would then fly straight up and disappear from sight.  They were moving very fast.  When we thought it was over, 5 of them formed a cluster and blended in with the rest of the stars.  A completely clear night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153906.html](http://www.nuforc.org/webreports/reports/153/S153906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/162/S162257.html)
-- [333](http://www.nuforc.org/webreports/reports/162/S162270.html)
-- [332](http://www.nuforc.org/webreports/reports/162/S162269.html)
-- [331](http://www.nuforc.org/webreports/reports/162/S162399.html)
-- [330](http://www.nuforc.org/webreports/reports/162/S162868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
