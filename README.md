@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Durand (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>possible crashI looked out the passenger window of my car because a thought i saw a small explosion in the sky overhead.  I saw an oval shape with a very long tail indicating that it was burning up in the atmosphere.  It then split into two and went out.  It was glowing as it went out of view.  I saw several aircraft at multiple altitudes including a helicopter that followed the flight path of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107683.html](http://www.nuforc.org/webreports/reports/107/S107683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some '' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Two inverted diamond shape objects moved across my field of view at around 200 yards on a crystal clear day.I was trying to cut a limb from a tree in my yard when I saw 2 objects in the sky, moving from west to east.  At first I thought they were ducks because there are a pair of wood ducks living in a tree by our house, but as I watched them move across my field of view, I could see they were not anything I have ever seen before.  They were upside down diamond shape, shining like silver on the top, black on the bottom.  They were completely silent, moved together at the same speed.  I saw them for about 6 seconds at a distance of about 200 yards.  I would say that they were 10-12' tall.  I watched them until the trees blocked my view, when I moved around the side of my house to try to continue watching them, they were gone.  The sky conditions were very clear, no clouds or haze, almost no wind, temperature of 40 degrees.  They were moving over the lake that we live on, at around 500' altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145089.html](http://www.nuforc.org/webreports/reports/145/S145089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
