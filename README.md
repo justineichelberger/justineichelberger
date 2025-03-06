@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oneida (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>White light in the sky, left to right instant turns, flew over changed colors and dissapeared.My roommate and I noticed the "fingernail moon" was out, so i got out my telescope.  As we observed the moon, my roommate pointed out a light in the sky coming from the northwest.  at first we thought it might be an airplane, but it was just one solid white light, no flashing lights whatsoever.  there was no sound coming from it either.  as it passed overhead we thought we might start to hear the sounds of a small airplane, but still we didn't hear anything.  As it flew overhead we noticed it was making small, instantaneous slips to it's left and right.  It passed over us at a relatively low speed, headed to the southeast.  Right around the time we figured it would have been over Austin-Straubel Airport, the light slowly began to dim and changed from white to a orange that got darker as it dimmed.  Within seconds it was gone altogether.  We have never seen anything like this before, hopefully somebody can read this an shed some light on our "sighting."  What! ever it was, it has us pretty excited :D</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80369.html](http://www.nuforc.org/webreports/reports/080/S80369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Silent running triangular craft, 7 very dim orange lights outlining the part of the craft I could see .At 23:58 hrs, Saturday night, March 06, 2005, I stepped out of the guard house at a local marina where I am a security officer. I was looking ESE, up aprox. 45 degrees above the horizontal.  A movement of light caught my eye.  There were four dim orange lights in a straight line moving at aprox. 175 kts. in a NNW direction. As the craft passed at aprox. 1200 feet away and at about the same altitude, I noticed three more dim orange lights across the after end of the craft.  The craft was definitely triangular in shape as outlined by the lights on the craft.  There was NO SOUND from the craft what so ever.  There was 4 orange lights from front to back and 3 lights across the rear end, the underbody was grey as iluminated from the reflection from the bridge lights reflecting off the intercoastal waterway.  That is how I was able to determine the distance and height of the craft, and as well the direction and aprox. speed. There were NO STROBE LIGHTS either. The temp. was 48 deg. wind 8 kts. out of the NNW and light overcast at about 1500 ft. Duration of the observation was about eight seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42805.html](http://www.nuforc.org/webreports/reports/042/S42805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
