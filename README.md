@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bonduel/Pulaski (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hovering, 1 white light in front 2 red in back, low flying, no sound, unexplainable movements.Me and my friend were heading home from another friends house near hofa Park rd when we noticed a a bright blinking light that was not moving but hovering at about 1500-2000 ft I took a video of it Then started to do circles then it flew over us heading East at a low speed no sound of engine but could hear rushing wind that’s it we decided to chase it for about 10 minutes going about 90-100 mph on average we couldn’t keep up but we could see it almost perfect from about 5 miles away the craft appeared to hover AGAIN it made a 90 degree shift to the right in a second with little to no effort it the decended into a woods off of laney rd by hwy 29 could not find it then as we were heading west towards our home either the same or a different craft appeared heading east again making same crazy movements.  After this happened I went to look at the video it wasn’t in my phone anymore instead was replaced by a photo that said “MOV” some research MOV means military ow! ned vehicle is it possible that they Erased my video? Have photo graphic memory of what I saw it was nothing I have ever seen before ik what I saw wasn’t a drone nor a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154040.html](http://www.nuforc.org/webreports/reports/154/S154040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four spheres flying in pairs apparently in formation swooped down and away and dissapeared in a flash.I was watching a rescue helicopter fly above my parents house directly following a brief earthquake and noticed four interesting objects in the sky obove the saddleback mountains. They where close enouph for me to see that they where not the jets that normally fly in the area from the El Toro Marine base wich has been closed for a while now with no activity. These were round like a ball and I wouldn't say they where much larger than an f-14. They were flying south/east and went down slightly and it looked like they went suddenly north and just disappeared. I was amased and confused because I have never seen anything weird in the sky that I couldn't explain. They were round with no lights, grey in color. The sun was in a position where the top half of the body was lit and grey in color and the bottom half was darker as if in the shadow of the sun. That's all I know and i am interested in seeing if anyone else in my area had wittnessed this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12231.html](http://www.nuforc.org/webreports/reports/012/S12231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
