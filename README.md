@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some '' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Two inverted diamond shape objects moved across my field of view at around 200 yards on a crystal clear day.I was trying to cut a limb from a tree in my yard when I saw 2 objects in the sky, moving from west to east.  At first I thought they were ducks because there are a pair of wood ducks living in a tree by our house, but as I watched them move across my field of view, I could see they were not anything I have ever seen before.  They were upside down diamond shape, shining like silver on the top, black on the bottom.  They were completely silent, moved together at the same speed.  I saw them for about 6 seconds at a distance of about 200 yards.  I would say that they were 10-12' tall.  I watched them until the trees blocked my view, when I moved around the side of my house to try to continue watching them, they were gone.  The sky conditions were very clear, no clouds or haze, almost no wind, temperature of 40 degrees.  They were moving over the lake that we live on, at around 500' altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145089.html](http://www.nuforc.org/webreports/reports/145/S145089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange orbs - Troy MIObserved two orange orbs in Square Lake Rochester Road area (again).  Orbs moved from east to west at speed slower than airplane.  Unknown height, but much higher than tree lines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87627.html](http://www.nuforc.org/webreports/reports/087/S87627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
