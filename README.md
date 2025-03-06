@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light in the sky, two smaller orange lights emitted from bottom like teardrops.I was driving in my city of Eureka when I looked up into the sky and in the near distance saw an orange light.  At first I thought it was a bright star, but it was much bigger (closer) and couldn't have been.  It seemed to be moving further away when all of a sudden 2 smaller orange lights came from under it, like teardrops, one, and then the other right behind it.  The object did this again a minute later, dropping two "teardrop lights" from it.  I've never seen anything quite like it, and there were other witnesses.  The object ended up floating into the distance beyond sight.  I don't know what this is, and would like some feedback if anyone does know what I might have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74579.html](http://www.nuforc.org/webreports/reports/074/S74579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dunnville, Ontario (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Approximately 9:00 PM to 9:15 PM EST, in the southern sky, at approximately 60 degrees from the horizon, there was a very fast moving light.  I can place it very accurately on a chart. The speed varied, (ie it was not constant like a satellite), it stopped, it remained motionless for several minutes, it changed direction about 50 degrees from the original path, it then appeared to accelerate away from the earth, (that is, it got fainter so you could barely see it), it "returned", and was stationary for another period.  It was a constant light, no strobe light, perhaps one or maybe two magnitudes less than the brightest star, "very" noticeable.  It was a very clear night, no cloud, no wind, approximately zero Celsius, with practically no ambient light.  The viewing site was on the north shore of Lake Erie, approximately 8 kms west of Dunnville Ontario, Canada. I have one very impartial objective witness who saw it with me. The viewing area has a very clear 180 degree line of sight East/West, and 90 degrees from the horizon to overhead, so it is clear of interference from other sources. We watched it for about 15 imnutes, before leaving.  It was still fairly visible however.   .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42877.html](http://www.nuforc.org/webreports/reports/042/S42877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
