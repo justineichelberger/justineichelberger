@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Silent running triangular craft, 7 very dim orange lights outlining the part of the craft I could see .At 23:58 hrs, Saturday night, March 06, 2005, I stepped out of the guard house at a local marina where I am a security officer. I was looking ESE, up aprox. 45 degrees above the horizontal.  A movement of light caught my eye.  There were four dim orange lights in a straight line moving at aprox. 175 kts. in a NNW direction. As the craft passed at aprox. 1200 feet away and at about the same altitude, I noticed three more dim orange lights across the after end of the craft.  The craft was definitely triangular in shape as outlined by the lights on the craft.  There was NO SOUND from the craft what so ever.  There was 4 orange lights from front to back and 3 lights across the rear end, the underbody was grey as iluminated from the reflection from the bridge lights reflecting off the intercoastal waterway.  That is how I was able to determine the distance and height of the craft, and as well the direction and aprox. speed. There were NO STROBE LIGHTS either. The temp. was 48 deg. wind 8 kts. out of the NNW and light overcast at about 1500 ft. Duration of the observation was about eight seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42805.html](http://www.nuforc.org/webreports/reports/042/S42805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (near I-494 and Hwy. 77) (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Massive hovering translucent and reflective ball over Hwy. I-494 and I-35W intersection.It initally caught the corner of my eye with the sun's glare reflecting on the southern facing side.  It was massive, silver translucent and reflective.  I can't believe it didn't cause a huge car pile up.  It sat in the same point in the air and hovered about 1000 ft in the air without movement.  It was near Hwy. I-494 and I-35W intersection.  Silver yet see through and reflective all at the same time.  It sat for a little less than an hour and disappeared at an angle into the southern sky (impossible speed).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117279.html](http://www.nuforc.org/webreports/reports/117/S117279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
