@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (near I-494 and Hwy. 77) (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Massive hovering translucent and reflective ball over Hwy. I-494 and I-35W intersection.It initally caught the corner of my eye with the sun's glare reflecting on the southern facing side.  It was massive, silver translucent and reflective.  I can't believe it didn't cause a huge car pile up.  It sat in the same point in the air and hovered about 1000 ft in the air without movement.  It was near Hwy. I-494 and I-35W intersection.  Silver yet see through and reflective all at the same time.  It sat for a little less than an hour and disappeared at an angle into the southern sky (impossible speed).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117279.html](http://www.nuforc.org/webreports/reports/117/S117279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange lights moving slowly south to north over Woodland - not blinking on/off - not a plane- not a satelliteUFO moving south to north aprox 50-60 degrees above western horizon. UFO appeared as two bright orange lights one above and one below smaller less intense orange lights. UFO appeared to move slowly crossing our field of vision in approx 5-7 minutes. Altitude 10,000-20,000 ft (?).  Lights flickered and disappeared before leaving our field of view.  Lights did not flash on and off like aircraft and were none of the standard red, green or white.  I've observed a lot of things in the night sky - planes, satellites, meteors etc.- nothing like this though.  Anybody else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49473.html](http://www.nuforc.org/webreports/reports/049/S49473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
