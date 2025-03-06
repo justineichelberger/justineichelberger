@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:09 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Double lighted chevron type object passes directly over me in succession- fast and low with no visible structure.Facing towards the east, laying on my back, 5 minutes later than the first reported sighting at 5:12am came another unknown object also from the north. To describe it as precisely as I can, At arms length two amber-whitish lights were about the size of a half-dollar on both sides of the craft, about 10 inches apart. My hands are 8 1/2 inches long, so I feel conservatively confident concerning the size. In regards to the structure, I couldn't see any visible shapes connecting the spheres. It caught me slightly off guard. No sooner than I could look left, this object silently swoops downwards moving south passing directly over me, when I put my eyes into the eyepiece of my camera It was already over my head. Then veering southwestward beyond the trees and over my house before losing sight of it in 5 seconds. Using the same size-scale as in the prior chevron sighting with five lites, I would surmise that it's very likely that this would be the same object having all three center lights off, and an altitude of within 200 feet. As incredible as it seems;I would further add that it's far too coincidental of the timing and the speed of direction unless the first chevron during it's surveying, instructed the second object to come down for a closer cross scanning over me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42770.html](http://www.nuforc.org/webreports/reports/042/S42770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed about 20-25 objects that were appearing from the West and heading East and then disappearing into the night sky. They were in a straight line and evenly spaced apart from one another. There were no sounds from the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154046.html](http://www.nuforc.org/webreports/reports/154/S154046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
