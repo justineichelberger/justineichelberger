@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed about 20-25 objects that were appearing from the West and heading East and then disappearing into the night sky. They were in a straight line and evenly spaced apart from one another. There were no sounds from the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154046.html](http://www.nuforc.org/webreports/reports/154/S154046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fort collins (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Parade or line of star like objects in formationI was out on the street on the phone looking at the sky, I witnessed 2 star like objects, one trailing the other relatively close, easily miles above and moving fast.  I pointed them out to 2 of the friends and they went back into the garage, maybe 10 seconds later, one more, then another, then another.  Up to 15 more lights, all following the same path, much more distanced than the 2 before.  We tracked them in the sky for almost two minutes, a parade of starlike objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154078.html](http://www.nuforc.org/webreports/reports/154/S154078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
