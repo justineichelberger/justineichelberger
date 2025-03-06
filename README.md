@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four spheres flying in pairs apparently in formation swooped down and away and dissapeared in a flash.I was watching a rescue helicopter fly above my parents house directly following a brief earthquake and noticed four interesting objects in the sky obove the saddleback mountains. They where close enouph for me to see that they where not the jets that normally fly in the area from the El Toro Marine base wich has been closed for a while now with no activity. These were round like a ball and I wouldn't say they where much larger than an f-14. They were flying south/east and went down slightly and it looked like they went suddenly north and just disappeared. I was amased and confused because I have never seen anything weird in the sky that I couldn't explain. They were round with no lights, grey in color. The sun was in a position where the top half of the body was lit and grey in color and the bottom half was darker as if in the shadow of the sun. That's all I know and i am interested in seeing if anyone else in my area had wittnessed this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12231.html](http://www.nuforc.org/webreports/reports/012/S12231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>12 bright lights following each other over Columbus.I just got off work and i started heading to the gym, i am about fifteen minutes away when i look up because i was checking to see if the street light was going to change when i see these 4 lights moving along the sky, so i look for other lights around them because maybe it was few helicopters or something,  when i really started to look at these lights traveling together in this kind of square formation, i could tell they were not helicopters, i really wanted to get it on video so i pulled over and started filming i got maybe 3 second of the light of the bottom right end of the square, as they moved along the sky, each corner, right and left both seem to kind of move into one another and then it was just two lights moving and fading away,as they moved i look behind and 4 more are coming over the building to my right, they kind of just went in a straight line in the same direction as they previous 4 as they faded away 4 more from the same direction foll! owed suit.  i called my friend to tell him what i was witness, when another person was walking through the parking lot, looking up, i asked if she was seeing this.  To make sure i wasn't going crazy, she said yes and we stood and watched.  One of the most amazing things i have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126233.html](http://www.nuforc.org/webreports/reports/126/S126233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
