@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:00 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Silver Spring (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>v shape but no lights , very grayand thin type object.It left no trail</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12220.html](http://www.nuforc.org/webreports/reports/012/S12220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>four to five circular dark objects at spring mountian state parkOn March 6 2011 my family and I were just leaving spring mountain state park, after spending the evening there.  We proceeded to my truck in the east side parking lot, when one of my family members had gone to the restroom.  I then hopped on the bed cover of my truck to wait for her.  I laid back with my hands behind my head looking straight up with my legs pointing north and the mountain to my left.  When I stared at the clouds I seen what looked like bugs flying around but realized that the objects were not bugs, but were dark and circular. I could not determine the size, if anyone can hold a pencil strait out it would be the size of the tip of the lead but in a circular shape.  It was roughly 4-5 objects flying like as if they were playing and with great speed, they would even stop in mid air and were flying in and out of the clouds. I stared at them for about four to five minutes while trying to tell my wife what I was looking at but unfortunately  my wi! fe has really bad eye sight and could not see what I was seen. Finally my eye sight was getting bleary from focusing too hard and look way to recuperate my eyes, after one or two minutes I looked again and only seen one and it wasn’t event five seconds when it bolted with tremendous speed north toward the red rock scenic view and disappeared after a few hundred feet. Never had I seen with my own eyes anything in any nature that fast in my entire life and will always remember this day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80371.html](http://www.nuforc.org/webreports/reports/080/S80371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
