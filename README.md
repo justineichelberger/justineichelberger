@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dunnville, Ontario (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Approximately 9:00 PM to 9:15 PM EST, in the southern sky, at approximately 60 degrees from the horizon, there was a very fast moving light.  I can place it very accurately on a chart. The speed varied, (ie it was not constant like a satellite), it stopped, it remained motionless for several minutes, it changed direction about 50 degrees from the original path, it then appeared to accelerate away from the earth, (that is, it got fainter so you could barely see it), it "returned", and was stationary for another period.  It was a constant light, no strobe light, perhaps one or maybe two magnitudes less than the brightest star, "very" noticeable.  It was a very clear night, no cloud, no wind, approximately zero Celsius, with practically no ambient light.  The viewing site was on the north shore of Lake Erie, approximately 8 kms west of Dunnville Ontario, Canada. I have one very impartial objective witness who saw it with me. The viewing area has a very clear 180 degree line of sight East/West, and 90 degrees from the horizon to overhead, so it is clear of interference from other sources. We watched it for about 15 imnutes, before leaving.  It was still fairly visible however.   .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42877.html](http://www.nuforc.org/webreports/reports/042/S42877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bonduel/Pulaski (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Hovering, 1 white light in front 2 red in back, low flying, no sound, unexplainable movements.Me and my friend were heading home from another friends house near hofa Park rd when we noticed a a bright blinking light that was not moving but hovering at about 1500-2000 ft I took a video of it Then started to do circles then it flew over us heading East at a low speed no sound of engine but could hear rushing wind that’s it we decided to chase it for about 10 minutes going about 90-100 mph on average we couldn’t keep up but we could see it almost perfect from about 5 miles away the craft appeared to hover AGAIN it made a 90 degree shift to the right in a second with little to no effort it the decended into a woods off of laney rd by hwy 29 could not find it then as we were heading west towards our home either the same or a different craft appeared heading east again making same crazy movements.  After this happened I went to look at the video it wasn’t in my phone anymore instead was replaced by a photo that said “MOV” some research MOV means military ow! ned vehicle is it possible that they Erased my video? Have photo graphic memory of what I saw it was nothing I have ever seen before ik what I saw wasn’t a drone nor a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154040.html](http://www.nuforc.org/webreports/reports/154/S154040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
