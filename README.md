@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 6 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange orbs - Troy MIObserved two orange orbs in Square Lake Rochester Road area (again).  Orbs moved from east to west at speed slower than airplane.  Unknown height, but much higher than tree lines.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87627.html](http://www.nuforc.org/webreports/reports/087/S87627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cape Neddick (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.006666666666666667 - 0.006666666666666667 minutes.</sub><blockquote><sub>Ocean-bound low-flying saucer glimpsed in MaineI was parked outside a buddies apartment building the other night, gazing out the front windshield of my car I glimpsed somthing move overhead and behind some trees and buildings.  It obscured the stars behind it in a circular form, and had what appeared to be two lights on either side, it moved swiftly and silently, and appeared to be flying very low. I moved my head and checked lighting inside the car to confirm it was not a reflection on the glass (it wasn't).  The object was headed towards the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74564.html](http://www.nuforc.org/webreports/reports/074/S74564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/162/S162258.html)
-- [304](http://www.nuforc.org/webreports/reports/162/S162261.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162263.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162264.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162260.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
