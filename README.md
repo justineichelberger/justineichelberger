@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:14 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Venice/North Port (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving south on I-75 I spotted a bright metallic object reflecting the early morning sun.While driving south on I-75 in SW Florida, I spotted a bright pea sized oval object in the early morning sky. It was just after sunrise and it apeared directly ahead of me at 45 degrees, roughly 10,000 feet altitude and stationary. I watched it for 10 seconds then it faded out. Within 1 second it or another object reapeared about 20 degrees to the right at the same altitude, but this time it was moving slowly to the left for about 30 seconds. Then, with an extremely bright flash it vanished. Seconds before the flash, the object looked like two ovals connected side to side. Initially I had considered the objects to be satillites reflecting the sunrise, until the object changed it's course.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12266.html](http://www.nuforc.org/webreports/reports/012/S12266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Somis (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>multiple orange balls fall from skyAt approx. 7:32 pm in the evening on March 7th my daughter and I saw approx. 15 round orange objects falling from the sky slowly and systematically downward and to the left.  We were on Los Angeles Ave also known as highway 118.  I pulled over to try and figure out what I was seeing.  When it was not easily identifiable, I moved towards them with curiosity to North Street in Somis, California.  At that point they were right in front of us but I still could not identify what they were.  As we got closer to them and they got lower in the sky the lowest light seem to turn white.   By the time we got under them they all disappeared without a trace.  It was the weirdest thing I have ever seen in my lifetime and definitely nothing I could explain.  It definitely was not planes nor gliders as I thought they may have been and they did not seem like meteoroids.  When I got home I searched the internet to see if anyone had seen the same thing as us but perhaps it as too early and I did not find any search results,  However what did come up is other reports outside this incident about orange orbs.  The photos I saw on the previous sightings appear to be the same objects my daughter and I saw that evening returning home from dinner.  Hopefully this information is helpful I was not sure who I should report this to so hopefully this is the correct site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117641.html](http://www.nuforc.org/webreports/reports/117/S117641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
