@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Woman sees four bright lights moving across sky, w/ red, flashing light on tail.  Loud sound.  Flew south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00325.html](http://www.nuforc.org/webreports/reports/000/S00325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3/7/04  Winter Springs, FL   EGG shaped; 15 secs. partly cloudy and sunny day, looked up in the sky and saw an egg shaped craftWell it has been a couple of months ago when I think I saw an UFO. Never wrote anything down, but listening to Jeff Rense and Peter Davenport, decided to write. Maybe someone else seeing this in Central Florida..... Partly cloudy and sunny afternoon during the FCATs in beginning of March that were being given and had taken 2 of my high autistic students outside for alittle breather. I am at this point about 15 miles northwest from Orlando International Airport. I am fairly new to FL and was looking east at the large birds that fly around the area and planes going overhead. I would imagine planes are at a height where it would be about 5-10 minutes before they arc and land at OIA. (Couldn't tell you what the feet above was). Had just seen a plane fly by and not 2 minutes later saw cruising at the same altitude as the plane had just passed, (I thought first was another plane)an silver egg shaped craft. No noise, no wings and no trail behind it. It was going slower than the plane previously, about 15 sec of viewing time. Smaller part of the egg was flying in front. Didn't notice it until I could see the side and then the back of it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37009.html](http://www.nuforc.org/webreports/reports/037/S37009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
