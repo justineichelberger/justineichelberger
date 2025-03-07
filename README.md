@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Champaign (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i was riding in the car and i looked out the window and saw some strange lights in the sky. i thought it was just and air plane but the light pattern kept changing. i wathced it for a few minutes and then it dissapeared. when i got to my sisters apartment i saw it agian. it was only there for about a minute then it dissapeared again.It was 3 lights in a triangle and kept blinking in a random pattern. while i was wathcing it in the car it seemed to be following me.(i wasnt driving) i didnt want to scare the driver so i kept to my self. when i saw it form the apartment it just hung there and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07728.html](http://www.nuforc.org/webreports/reports/007/S07728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several lights making formations seen north of Layton, UTEntered the city of Layton close to 7pm when I had noticed a formation of lights while entering the city from the Antelope Drive exit.  At first I thought it might have been just a bunch of helicopters or something of that sort, until I realized the lights were not moving nor flashing.As I drove through town towards the Layton Hills mall, I noticed that the lights I had seen moments before were now shaped differently than before.They went from a 55 degree angle, to 40 degree angle, to a 70 degree angle within moments.  When at 70 degrees it was curved at the top (completely mind blowing)  As I left the city it was almost as if all the lights completely scattered and spread out.  There were 6 to 7 of them with the exception of one disappearing and reappearing in different spots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107713.html](http://www.nuforc.org/webreports/reports/107/S107713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
