@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:31 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>At above hour and minute I was flying my DJI Phantom 3 adjacent my garage.  I wanted night videos of the city and elevated the craft to 120 meters where it hovered.  As I was looking up at it my eye caught a craft flying in from the South, proceeding North.  I estimate its elevation at approx 1000 feet.  It was just below the cloud cover.  The craft appeared to light up via a blinking light which immersed most of the craft.  It was like nothing I have ever seen on an airplane.  It was as though it completely enveloped the craft in a strange sort of grey light, at intervals, or perhaps a running light lit the sides of the craft, the sides perhaps being grey in color, I am not sure.  I am former Air Force and a retired Police Officer.  I do watch the skies.  The object was moving very quickly and was lost to sight as it proceeded North.  There was no noise associated with the object.  Had this been a fighter Jet, for instance an F-18 out of Beale, I would have certainly heard the jet engines.  I redirected my attention to the Phantom, and then quickly noticed that there was a large multi-prop airplane coming directly at (so it appeared) my Phantom.  This aircraft appeared to be VERY LOW.  It flew in from the West and proceeded East until lost to sight.  It was running a number of lights that were turned on, I am not sure if these were landing lights, but I dont think so.  It actually intersected the course of the unknown craft only be about 20 seconds, and this airplane really startled me.  I am still a little shaken by the whole thing.  We do have P-3's flying out of Beale I believe and you see them in this area quite often, BUT this P-3 (I'm assuming it was P-3) was EXTREMELY LOW.  I attempted to bring down my Phantom quickly because it almost appeared both phantom and aircraft were at the same altitude, and for a minute I thought they might collide.  The whole thing was quite "freaky" and I gotta tell you that "unknown" was quite ! spectacular.  I think I will attempt the same thing again tomor! row even ing, although I am sure my phantom had nothing to do with what I saw, or at least I hope   LOL  I will leave it up to you if you care to contact me.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126247.html](http://www.nuforc.org/webreports/reports/126/S126247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Huron (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>strang flashing red lights in sky. Flashing red light in sky no set pattern.  People were coming out of houses to see.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96564.html](http://www.nuforc.org/webreports/reports/096/S96564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
