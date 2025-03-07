@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3/7/04  Winter Springs, FL   EGG shaped; 15 secs. partly cloudy and sunny day, looked up in the sky and saw an egg shaped craftWell it has been a couple of months ago when I think I saw an UFO. Never wrote anything down, but listening to Jeff Rense and Peter Davenport, decided to write. Maybe someone else seeing this in Central Florida..... Partly cloudy and sunny afternoon during the FCATs in beginning of March that were being given and had taken 2 of my high autistic students outside for alittle breather. I am at this point about 15 miles northwest from Orlando International Airport. I am fairly new to FL and was looking east at the large birds that fly around the area and planes going overhead. I would imagine planes are at a height where it would be about 5-10 minutes before they arc and land at OIA. (Couldn't tell you what the feet above was). Had just seen a plane fly by and not 2 minutes later saw cruising at the same altitude as the plane had just passed, (I thought first was another plane)an silver egg shaped craft. No noise, no wings and no trail behind it. It was going slower than the plane previously, about 15 sec of viewing time. Smaller part of the egg was flying in front. Didn't notice it until I could see the side and then the back of it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37009.html](http://www.nuforc.org/webreports/reports/037/S37009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Central Florida (Melbourn to West Palm to Orlando) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two lights in their own haze.  Very bright one on right moves off and dissapears 30 sec. later other light moves in same directiona and disapears.At around 7pm on 3-7-98 the objects apeared.  They were very bright and you could see the beam of light shining towards the ground. You could see the beam because the objects were both in a type of haze that was only around the light objects.  The haze was not a cloud! The objects were in the eastern sky and it was still light enough to where the clouds were.  All the clouds were to the west.  The light that was on the right was lower then the light on the left.  The objects seemed to be moving to the west very slowly.  They lasted from anywhere around 3 to 5 minutes.  Then the first moved away.  The first objected moved off to the and up to the right.  It was hard to see where it was going because of the haze, and then it disapeared.  The second objected was visable for about another 30 seconds and then it moved off in the same direction as the first object.  No physical object could be seen only the lights could be seen.  I saw this in Melbourne, FL.  People((NUFORC:  Probable missile launch.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03280.html](http://www.nuforc.org/webreports/reports/003/S03280.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
