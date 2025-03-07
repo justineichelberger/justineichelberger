@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Monument (event observed over Cheyenne Mtn.) (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright trail of light over Cheyenne Mountain.Driving down the road and looked up into the darkness over Cheyenne mountain, a string or trail of bright yellowish lights manifested high in the sky for a moment and seemed to move south east away from Cheyenne Mountain at high speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145083.html](http://www.nuforc.org/webreports/reports/145/S145083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Venice/North Port (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving south on I-75 I spotted a bright metallic object reflecting the early morning sun.While driving south on I-75 in SW Florida, I spotted a bright pea sized oval object in the early morning sky. It was just after sunrise and it apeared directly ahead of me at 45 degrees, roughly 10,000 feet altitude and stationary. I watched it for 10 seconds then it faded out. Within 1 second it or another object reapeared about 20 degrees to the right at the same altitude, but this time it was moving slowly to the left for about 30 seconds. Then, with an extremely bright flash it vanished. Seconds before the flash, the object looked like two ovals connected side to side. Initially I had considered the objects to be satillites reflecting the sunrise, until the object changed it's course.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12266.html](http://www.nuforc.org/webreports/reports/012/S12266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
