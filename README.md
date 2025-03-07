@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Atascadero (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright Ligtht sighted over Morro Bay and Atascadero California for about an hour on 3/7/7I observed a bright light hovering over the hills between Morro Bay and Atascadero.  I looked at it through binoculars and it seemed to change brightness levels going from very bright and colorful to very dim and white.  Every once in a while it would move back and forth up and down very quicly but not very far.  I would say it moved about 2-4 inches in the sky each time it moved.  I left for about ten minutes at about 7:50 and when I returned the object was gone.((NUFORC Note:  Sirius or Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55586.html](http://www.nuforc.org/webreports/reports/055/S55586.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>What did I see last night?Last night, around 8 PM, I was on the back porch, sky watching. I noticed a very bright light in the western sky. I focused on it, expecting to see the strobes of typical aircraft. There was only a constant, bright white light. It was quite high and far away, traveling from southwest to northeast. I thought that as it neared my position, I would see strobes. This never happened. After a couple of minutes, I decided to go inside and get my binoculars (9x35 Leupold).While once again looking at this object, I noticed a high flying jet, crossing the below the path of this object, although they appeared very distant from one another. As the unknown object continued its northeast path, at least two other hight flying jets came into view (separately) but again, this object was higher and much brighter.Under magnified vision, I was unable to ascertain the true shape of this object but, the light was a solid mass (no smaller lights), and the white light had a silver tint to it. What really made it different for me was that it was one large area of light. I kept thinking that this object was much larger and brighter than all the satellites I've seen before.For all I know, I was viewing the space station. I just don't know.After about five minutes, it went out of viewing range, still heading northeast. At one point, when it was passing between the earth and Polaris, I thought I detected a directional change, to the east but, I may be mistaken.The night was the first clear night we've had in days and the temperature was around 70 degrees. Ugain, under magnification, this object was qhite large and just a solid bright, white (silvery) light and of course it was silent.If what I saw was man-made, I apologize for wasting your time but still, I did want to report this. The last thing I'll say about this is it was quite spectacular in that I had plenty of time to watch it and the magification gave me a pretty clear view of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42803.html](http://www.nuforc.org/webreports/reports/042/S42803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
