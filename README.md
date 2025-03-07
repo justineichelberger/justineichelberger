@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Colchester (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>illuminated object very high in the atmosphere moving extremely quickly like a shooting star but in a lazy S shaped path.I had just finished my piano lesson and I was about to cycle back to the university. My piano teacher commented on how clear the sky was and started talking about the constellations. He asked which one was the Plough (Ursa Major), and I replied that I couldn't see it but that was the Orion and another constellation was the Pleiades. He did see where I was pointing but as I was doing so, an object, very high up in the atmosphere, (I could tell this because it was not luminous but had light dimly reflected off it, but it was 20:00 so it was dark in Colchester) moved at great speed across the sky. I exclaimed, "Shooting star!" but as the object reached the end of its travel, it swerved in a S shaped path, still moving at the same speed.The object appeared to be falling but that was a trick of perspective and in fact the object was travelling across the sky and into the distance. I have seen shooting stars on many occasions and I have also seen satelites in orbit as they pass overhead at dusk. This was moving extremely quickly and I know that in order for it alter its course it must be acted upon by a force. I am not saying it was aliens or anything but it was certainly something that was very strange and that I cannot attribute to aircraft, satelites or shooting stars. I was very excited and I was disappointed that my piano teacher did not see it.((NUFORC Note:  Date is approximate.  We will invite the witness to establish the date accurately, if possible, so we can determine whether the object could have been an Iridium satellity.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28211.html](http://www.nuforc.org/webreports/reports/028/S28211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Small, multicolored, spinning, and hovering light in Ogden, UT.Small sphere of multicolored lights flashing, spinning, and hovering in the sky under the Leo constellation, right above star Alphard.  When going back outside an hour later, had vanished.  Used Sky map app to see if it was a star, there were no stars registered in the area it was seen before it had vanished.((NUFORC Note:  Possible "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126259.html](http://www.nuforc.org/webreports/reports/126/S126259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
