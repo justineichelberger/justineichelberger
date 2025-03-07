@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Carmichael (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Unknown flying craft circle in shape and dark grey ship approx. 40’ in diameter.We were standing outback partly cloudy skies with a full moon and the craft came across the moon no ligh ts no sound in about 40 feet in diameter.  Four adult individuals all sought at the same time. There were no other flying after aircraft near. The craft was gray in color  Circle in shape unknown markings below no visible sound or lights.  All for our adult males to from the age of 18 to 22 one 831 the other age 51 all employed all work in the Utility sector. Nobody was drinking and no drugs were in use.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153990.html](http://www.nuforc.org/webreports/reports/153/S153990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in West Palm Beach (Road House Grill) (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was working at Roadhouse Grill Saturday night, at 6:30 pm my co workers send he so 2 ufo outside at 6:30. Then at 7:30 when I help take out the restuarant trash , I notices 3 objects moving flying in perfect straight formation, (they didn't look like a plane or any normal aircraft). Then I went inside to get trash bags for the cans, my coworker said he saw two planes flying together chasing the 3 objects the 1950ish type planes split up (east to west) , the one plane heading east towards the 2nd ufo in formation zoomed over me and my coworkers head , the planes were flying low. Then all of the sudden the middle ufo stop (like it had breaks) "no plane I know can do this" the other two ufos moved closer to the middle ufo. Then I went inside quick because I had to go back to work.There were 3 objects flying in formation moving due south following the beach at 7:30 . Two planes flying after the 3 objects separated east to west. One of the pilots flying late model war planes flew low over us. The objects were bright like moving stars. In no-way looked like a plane. The 3 objects had get breaking ability, also the ability to fly in perfect formation like a perfect line. Also it was a clear night so many others may have witnessed what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03298.html](http://www.nuforc.org/webreports/reports/003/S03298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
