@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:14 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:44 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Somis (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>multiple orange balls fall from skyAt approx. 7:32 pm in the evening on March 7th my daughter and I saw approx. 15 round orange objects falling from the sky slowly and systematically downward and to the left.  We were on Los Angeles Ave also known as highway 118.  I pulled over to try and figure out what I was seeing.  When it was not easily identifiable, I moved towards them with curiosity to North Street in Somis, California.  At that point they were right in front of us but I still could not identify what they were.  As we got closer to them and they got lower in the sky the lowest light seem to turn white.   By the time we got under them they all disappeared without a trace.  It was the weirdest thing I have ever seen in my lifetime and definitely nothing I could explain.  It definitely was not planes nor gliders as I thought they may have been and they did not seem like meteoroids.  When I got home I searched the internet to see if anyone had seen the same thing as us but perhaps it as too early and I did not find any search results,  However what did come up is other reports outside this incident about orange orbs.  The photos I saw on the previous sightings appear to be the same objects my daughter and I saw that evening returning home from dinner.  Hopefully this information is helpful I was not sure who I should report this to so hopefully this is the correct site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117641.html](http://www.nuforc.org/webreports/reports/117/S117641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coralville (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights in arch formation, low altitude, slow speed, no sound.reddish formation of lights, arch shaped, maybe 8-10 total lights.  Low altitude, moving slow...too slow to be a plane or heli.  Turned off radio and rolled down windows and kept looking at them to the right in the sky.  NO SOUND.  Weird.  What were they?  Was driving home to North Liberty from Coralville on 965</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117654.html](http://www.nuforc.org/webreports/reports/117/S117654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
