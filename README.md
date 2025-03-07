@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mckeesport (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular star shaped vessel with 4 red lights which omitted another identical one from inside it. Hovers does not move.Standing on my deck noticed a diamond shaped object at first thought it was a star until I noticed 4 red lights in the shape of a triangle.  It did not move nor did it make a sound.  Then it omitted an identical craft that came out of it somehow.  So now there are 2 just sitting there.  This is the second night in a row.  I go in to get my phone and it is gone then reappears in a different area in the sky over a rural area.  It is not a plane!!!  Kinda spooky.  My husband has also seen the same thing on a separate occasion.  We are both Security officers trained to observe and have an eye for detail.  This happened in Elizabeth Twp. Area, facing South</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145079.html](http://www.nuforc.org/webreports/reports/145/S145079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>red flashing light over downtown salem oregon, then hovers over bush park.This was in the middle of downtown Salem.  I can't be the only one.  I was at Mission Mill Museum, taking trash out the back. It flew right over me, semi big, no sound, primarily redish orange.  It was pulsing white and red.  It was low enough where the building would have blocked it out if I was standing on the other side.  Flew quickly (faster than an airplane) over 12th St. and Willamette University soccer field.  Then stopped 5 blocks further over Bush Park area and just hovered for about 2 mins.  I grabbed the only person around (an older laidy) she agreed it was hovering and looked abnormal.  It stayed for about 2 mins.  Moved further slowly, then blinked in and out a few times, the disappeared, like someone turned off the light switch.  I took a video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117646.html](http://www.nuforc.org/webreports/reports/117/S117646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
