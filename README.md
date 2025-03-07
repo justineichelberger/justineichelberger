@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Central Florida (Melbourn to West Palm to Orlando) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two lights in their own haze.  Very bright one on right moves off and dissapears 30 sec. later other light moves in same directiona and disapears.At around 7pm on 3-7-98 the objects apeared.  They were very bright and you could see the beam of light shining towards the ground. You could see the beam because the objects were both in a type of haze that was only around the light objects.  The haze was not a cloud! The objects were in the eastern sky and it was still light enough to where the clouds were.  All the clouds were to the west.  The light that was on the right was lower then the light on the left.  The objects seemed to be moving to the west very slowly.  They lasted from anywhere around 3 to 5 minutes.  Then the first moved away.  The first objected moved off to the and up to the right.  It was hard to see where it was going because of the haze, and then it disapeared.  The second objected was visable for about another 30 seconds and then it moved off in the same direction as the first object.  No physical object could be seen only the lights could be seen.  I saw this in Melbourne, FL.  People((NUFORC:  Probable missile launch.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03280.html](http://www.nuforc.org/webreports/reports/003/S03280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Colchester (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>illuminated object very high in the atmosphere moving extremely quickly like a shooting star but in a lazy S shaped path.I had just finished my piano lesson and I was about to cycle back to the university. My piano teacher commented on how clear the sky was and started talking about the constellations. He asked which one was the Plough (Ursa Major), and I replied that I couldn't see it but that was the Orion and another constellation was the Pleiades. He did see where I was pointing but as I was doing so, an object, very high up in the atmosphere, (I could tell this because it was not luminous but had light dimly reflected off it, but it was 20:00 so it was dark in Colchester) moved at great speed across the sky. I exclaimed, "Shooting star!" but as the object reached the end of its travel, it swerved in a S shaped path, still moving at the same speed.The object appeared to be falling but that was a trick of perspective and in fact the object was travelling across the sky and into the distance. I have seen shooting stars on many occasions and I have also seen satelites in orbit as they pass overhead at dusk. This was moving extremely quickly and I know that in order for it alter its course it must be acted upon by a force. I am not saying it was aliens or anything but it was certainly something that was very strange and that I cannot attribute to aircraft, satelites or shooting stars. I was very excited and I was disappointed that my piano teacher did not see it.((NUFORC Note:  Date is approximate.  We will invite the witness to establish the date accurately, if possible, so we can determine whether the object could have been an Iridium satellity.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28211.html](http://www.nuforc.org/webreports/reports/028/S28211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
