@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:44 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coralville (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights in arch formation, low altitude, slow speed, no sound.reddish formation of lights, arch shaped, maybe 8-10 total lights.  Low altitude, moving slow...too slow to be a plane or heli.  Turned off radio and rolled down windows and kept looking at them to the right in the sky.  NO SOUND.  Weird.  What were they?  Was driving home to North Liberty from Coralville on 965</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117654.html](http://www.nuforc.org/webreports/reports/117/S117654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a very bright light in the sky which then faded and revealed the shape of  the craft. It looked similar to a helicopter and was extremely low, but it definitely was not a helicopter and didn’t have propellers. It seemed like it noticed us watching it and after being slow, it went away very fast at least a few miles away. Rolled down the car windows and it made a faint humming sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154000.html](http://www.nuforc.org/webreports/reports/154/S154000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
