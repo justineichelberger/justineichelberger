@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 7 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Several lights making formations seen north of Layton, UTEntered the city of Layton close to 7pm when I had noticed a formation of lights while entering the city from the Antelope Drive exit.  At first I thought it might have been just a bunch of helicopters or something of that sort, until I realized the lights were not moving nor flashing.As I drove through town towards the Layton Hills mall, I noticed that the lights I had seen moments before were now shaped differently than before.They went from a 55 degree angle, to 40 degree angle, to a 70 degree angle within moments.  When at 70 degrees it was curved at the top (completely mind blowing)  As I left the city it was almost as if all the lights completely scattered and spread out.  There were 6 to 7 of them with the exception of one disappearing and reappearing in different spots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107713.html](http://www.nuforc.org/webreports/reports/107/S107713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Trinidad (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was on patrol in the county between Hoehne and Trinidad. I took a break on CR 83.1 and looked up at the stars.  I observed a white light at what appeared to be a very high altitude, moving from West to East at an extremely high rate.I could observe 4 aircraft moving within my field of view. Using the other aircraft as a reference, this object was approximately 90,000 to 100,000 foot altitude and traveling several thousand miles per hour. The object passed over head and then headed South by Southeast.I thought that it could be the space shuttle, but the shuttle is still on the ground.  It did not behave like a metorite the light remained steady the entire time.((NUFORC Note:  Meteors are not visible for two minutes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55588.html](http://www.nuforc.org/webreports/reports/055/S55588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/162/S162497.html)
-- [316](http://www.nuforc.org/webreports/reports/162/S162317.html)
-- [315](http://www.nuforc.org/webreports/reports/162/S162316.html)
-- [314](http://www.nuforc.org/webreports/reports/162/S162320.html)
-- [313](http://www.nuforc.org/webreports/reports/164/S164277.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
