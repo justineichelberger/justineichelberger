@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>THE SPACE CRAFT WAS VERY FAST AND HAD A LOT OF LIGHTS.IT HAD DIFFRENT LIGHTS AND IT MOVED FAST ACROSS THE SKY.I COUTED THE TIME IT WAS ABOUT 15FOR IT TO GET ACROSS THE SKY.I PROMISE I WOULD NEVER LIE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28030.html](http://www.nuforc.org/webreports/reports/028/S28030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alliance (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing triangular cluster flies over house with 3-4 chasing from behind9:02 pm 3-8-13 pm lights over house coming out of north east about 10 or so in a cluster trangular shaped.  Then 3-4 sporadically after in no formation but coming much faster as if to catch up to the cluster. Called 911 patched thru to alliance police dept. office Johnson and welch responded with a ride along guy.  Saw it was a clear night saw airplane blinker lights in sky at 9:35 and laughed until I showed them the video.  My wife witnessed it to the entire event.  Definitely not normal.  No wind that night and perfectly clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96611.html](http://www.nuforc.org/webreports/reports/096/S96611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
