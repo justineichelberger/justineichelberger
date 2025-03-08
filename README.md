@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>bright 'star' shrinks out of sightmy girlfriend and i were walking to the store at 7pm last night.  i looked up and saw a very bright 'star' to the east of orion.  i thought it was a planet at first but it then proceeded to shrink in size as if it was going straight up.  within 3 seconds, maybe less, it was gone.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42850.html](http://www.nuforc.org/webreports/reports/042/S42850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Claflin (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Cluster of yellow lights over Holyrood KansasDriving home from claflin, I and everyone in my van saw a cluster of bright medium-yellow lights to the North-East (over or beyond Holyrood, Ks). There was a slight haze (maybe reflected light off of clouds) around the lights. My first impression was fireworks or flares of some kind, however, these lights were hovering, and not falling, (like flares) or extinguishing (like fireworks). The large cluster was visible for about 2 miles (driving at 45mph), then were cut off from view by a shelter belt. After passing said shelter belt, three were still visible. We then drove towards the holyrood area just to gawk. (Hey, it was interesting OK?) The size of the lights never seemed to change, though after six miles, perspective demonstrated the lights to be over 300 feet in the air. Only two were visible at this point, and much higher than the red warning light on Holyrood's grain elevator, and possibly at great distance, since they seemed to stay in a given area thought the red lights postion changed with distance our vehicle traversed. These two remained until 10 to 15 minutes after we returned home (three more miles). I do not know or claim as what they were, as I just saw hovering lights. However, the color was wrong for any type of aircraft searchlight (second though I had) or aircraft designator or landing lights (third thought).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42822.html](http://www.nuforc.org/webreports/reports/042/S42822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
