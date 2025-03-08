@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:47 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Springfield (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three lights spanning 20 feet, in the shape of a boomerang, change orientation and disappear.(Disappointed that I didn't capture it on film, I ran back in the house and drew what I saw. The account below sync's with the picture I have attached.)  -Tuesday, March 08, 2011 -9:00 pm EST -West Springfield, Pa. (Just beyond the Ohio/Pennsylvania border on Rt. 20) -Facing Northwest   Heres what happened:  The second witness and I were on her back stoop putting a dog on a chain before we walked down to the barn for the night.  She looked up and pointed to the front of the house next door and said "LOOK!" I thought she was looking at the stars which were all amazing, since it was a completely clear night.  You could see every star in the sky as well as very distant and purposefully moving southbound planes.I looked over quickly and my eyes focused on three lights in the shape of a boomerang that were the length of the height of her neighbors' house, which is a two story home.Lasting a total of four or five seconds, the lights continued moving across the neighbors side of the sky, in sync with one another, horizontally.  It was moving fast, what seemed like 65-75 mph from left to right.  As they moved from front of the house (south) to the rear (north), they shifted from flat and horizontal, to completely vertical (like in the picture).  It didn't just slowly become verticle, it snapped straight up in less than 1/2 a second with no sound, and no hesitation.  The craft continued northbound, and when it passed behind the brown porch pole in front of us, it completely disappeared. Poof.  Into nothing.  It didn't get smaller, fade out, or disappear over the trees.  Just gone.  Again, this was all completely silent, aside from the other witness asking where it went.This object was large and by the looks of it, if it were a plane banking at an extremely sharp angle, it would have surely hit its wings on the ground or the trees ahead.I also learned that less than a mile towards the neighbors yard and beyond is a prison that, according to a former prison guard at the facility, is a no-fly zone.  There is no small near by airport there either.  Less than a mile beyond the prison and to the north is a set of railroad tracks and a salt/sand mine and harbor, docked directly on Lake Erie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80404.html](http://www.nuforc.org/webreports/reports/080/S80404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Double or triple bright lights, not moving, just side by side/ clustered for several minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153976.html](http://www.nuforc.org/webreports/reports/153/S153976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
