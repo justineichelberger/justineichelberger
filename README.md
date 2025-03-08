@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alliance (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing triangular cluster flies over house with 3-4 chasing from behind9:02 pm 3-8-13 pm lights over house coming out of north east about 10 or so in a cluster trangular shaped.  Then 3-4 sporadically after in no formation but coming much faster as if to catch up to the cluster. Called 911 patched thru to alliance police dept. office Johnson and welch responded with a ride along guy.  Saw it was a clear night saw airplane blinker lights in sky at 9:35 and laughed until I showed them the video.  My wife witnessed it to the entire event.  Definitely not normal.  No wind that night and perfectly clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96611.html](http://www.nuforc.org/webreports/reports/096/S96611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wabash (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights in the northern sky of wabash indiana dissapeared within 5 min. no noisesaw 8 lights in a row with orange glow in the sky pulled over to observe and they disappeared one at a time. no noise((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Probable hoax; date flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62105.html](http://www.nuforc.org/webreports/reports/062/S62105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
