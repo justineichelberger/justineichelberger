@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>32 obects over the south Texas sky.From our view point 32 objects traveled from the ne towards the sw around 0615-0730. The objects spanned a 3-5 degree arc.  All traveled the same direction and speed.  As a retired Navy controller, I never seen any A/C traveling this high in a straight row.  No warning lights!  The night sky was bright with a full moon, the objects reflected nicely.  We could predict the next viewing based on the objects being equally spaced.incredible show this morning!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153994.html](http://www.nuforc.org/webreports/reports/153/S153994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Montclair (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangular aircraft flying low over New Jersey (NYC suburbs)My fiance and I were watching a television show that started last night, March 8, 2015, at 11:00 PM.  Sometime around 11:15-11:30PM, while sitting on the couch watching the show, I saw something outside the window to my right.  Immediately upon looking at it I realized that I had never seen something like that in my life.  It was an aircraft, perfectly triangular in shape, with all sides straight lines, with a light in each corner, flying very low and relatively slow over my town which is approximately 10 miles from NYC.  The aircraft was heading east towards the city.I jumped up onto the other couch to get a better look out the window.  The aircraft appeared to be flying at a very low altitude, but probably still over 1,000 feet in the air (maybe even quite a bit more) and was low/large enough for me to see the craft itself, not just the lights.  I remember seeing some of the detail of the craft but immediately after seeing it I had a hard time remember the little details like what color the lights were, etc..  I believe, but am not certain, that at least one of the lights was red, and at least one of the lights was white.  If I remember correctly, two of the lights were the same color and one was a different color.I called for my fiance who jumped up onto the couch with me.  While she saw the aircraft and confirm that it was indeed a flying object that I witnessed, by the time she saw it it was far enough away that all that could be seen were the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117678.html](http://www.nuforc.org/webreports/reports/117/S117678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
