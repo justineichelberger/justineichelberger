@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving down hill a semi main street, boy friend and I were going home and we both happened to see what seemed like a bright green orb falling like a shooting star- lasted less than five seconds and than dissapeared. From our position, it looked like the size of a basketball in contrast to the sky- so, im guessing its a lot larger than. It did not morph or change colors- it just sailed across and dissapeared. oh and it did have a tail on it, but dissappeared when the orb dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62165.html](http://www.nuforc.org/webreports/reports/062/S62165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dry Fork (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A big round ball of light moving swiftly overhead, turned completely red for a split second, and suddenly vanished.I am a full-time homemaker.  I was sitting on the steps of the deck, when I looked straight up into the sky overhead.  What I saw was a large round object moving far above me at a relatively high rate of speed.  As this object raced across and was sort of more forward of my sight than it was straight overhead, it turned completely red for just a split second and then absolutely...DISAPPEARED.  To clarify it, I have to say that the object was 100% white light---there was nothing else to be seen (such as perhaps some type of framing); it was simply a round, solid white light, although it did not appear to be shiny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117671.html](http://www.nuforc.org/webreports/reports/117/S117671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
