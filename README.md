@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Amsterdam (Netherlands) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>IT WAS JET BLACK (THE SIZE OF A SMALL ROOM) DIAMOND SHAPED AND HOVERING ABOUT 50 FEET ABOVE THE GROUND.I WAS TAKEING A GROUP OF STUDENTS TO AMSTERDAM, WE SAW ACCROSS THE FLAT LANDSCAPE, AN OBJECT HOVERING ABOUT 50 - 60 FEET ABOVE THE GROUND, IT WAS (JET BLACK)AND AROUND THE SIZE OF A SMALL ROOM.THIS OBJECT WAS THERE FOR AT LEAST 10 MINUTES MOVING VERY SLOW IN DAYLIGHT.THE TIME WAS:08.00 AM MARCH 8th 2004((NUFORC Note:  Witness does not provide contact information.  Report does not appear to have been submitted from outside the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35709.html](http://www.nuforc.org/webreports/reports/035/S35709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>32 obects over the south Texas sky.From our view point 32 objects traveled from the ne towards the sw around 0615-0730. The objects spanned a 3-5 degree arc.  All traveled the same direction and speed.  As a retired Navy controller, I never seen any A/C traveling this high in a straight row.  No warning lights!  The night sky was bright with a full moon, the objects reflected nicely.  We could predict the next viewing based on the objects being equally spaced.incredible show this morning!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153994.html](http://www.nuforc.org/webreports/reports/153/S153994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
