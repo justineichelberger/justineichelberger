@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>First one, then two white lights in the sky, visible in midafternoonAt approximately 10:30 am on Thursday, march 8th, while walking alone in a field near Zilker park, I observed a very small white light standing motionless in the sky, almost directly above me and a bit to the north. I watched the light for approximately 20 minutes, during which time the object did not appear to move at all. Very suddenly there was a second white light that appeared to be hovering quite close to the first. I do not believe that this was an optical illusion, given that I closed my eyes several times to find the same set of lights in the sky when I reopened them. This second light appeared brighter than the first, and it was slowly moving within close proximity of the first light. Moments later it was gone all at once, only to return again a few minutes later. At this point I began to walk toward the nearest convenience store, and when I arrived there, I was able to point the lights out to a strange man who was getting into his car. Together watched the lights dance, and soon after they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55642.html](http://www.nuforc.org/webreports/reports/055/S55642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>THE SPACE CRAFT WAS VERY FAST AND HAD A LOT OF LIGHTS.IT HAD DIFFRENT LIGHTS AND IT MOVED FAST ACROSS THE SKY.I COUTED THE TIME IT WAS ABOUT 15FOR IT TO GET ACROSS THE SKY.I PROMISE I WOULD NEVER LIE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28030.html](http://www.nuforc.org/webreports/reports/028/S28030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
