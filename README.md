@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Huddersfield (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two egg shaped crafts hovering over Marsden moor, Huddersfield, uk.It was a dark night and me and some mates were up on the moors at marsden huddersfield. We regulary use this site as a haven to smoke pot. Dont think that the siting was due to us being drugged up because we spotted it while we were skinning up before  we began smoking the pot. I myself and my freinds have never used halucinogenics before so we know what we saw was real. There were two sort of egg shaped crafts in the sky hovering around each other.One seemed to dissapear into the other but it turned out it was just behind it. ThIS went on for a few minutes and then all of a sudden they dissapeared. I found it hard to discribe but thats as precice as i can get. we havnt told anyone else as we are scared that people will not believe us. THIS IS NOT ((deleted)) IT IS TRUE! there have been no further sightings since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16942.html](http://www.nuforc.org/webreports/reports/016/S16942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Vallejo (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving down hill a semi main street, boy friend and I were going home and we both happened to see what seemed like a bright green orb falling like a shooting star- lasted less than five seconds and than dissapeared. From our position, it looked like the size of a basketball in contrast to the sky- so, im guessing its a lot larger than. It did not morph or change colors- it just sailed across and dissapeared. oh and it did have a tail on it, but dissappeared when the orb dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62165.html](http://www.nuforc.org/webreports/reports/062/S62165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
