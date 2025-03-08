@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:35 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Guadalajara (Mexico) () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>amorphous, floating balloon-like object in the skyThe submitted photograph was shot from a plane just after taking off from Guadalajara’s airport, (Mexico).The unknown object was not noticed until very recently over two years after the flight-.It looks like a balloon, but I can not be positively certain it is, nor do I remember seeing it. I was snapping shots of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77431.html](http://www.nuforc.org/webreports/reports/077/S77431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Amsterdam (Netherlands) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>IT WAS JET BLACK (THE SIZE OF A SMALL ROOM) DIAMOND SHAPED AND HOVERING ABOUT 50 FEET ABOVE THE GROUND.I WAS TAKEING A GROUP OF STUDENTS TO AMSTERDAM, WE SAW ACCROSS THE FLAT LANDSCAPE, AN OBJECT HOVERING ABOUT 50 - 60 FEET ABOVE THE GROUND, IT WAS (JET BLACK)AND AROUND THE SIZE OF A SMALL ROOM.THIS OBJECT WAS THERE FOR AT LEAST 10 MINUTES MOVING VERY SLOW IN DAYLIGHT.THE TIME WAS:08.00 AM MARCH 8th 2004((NUFORC Note:  Witness does not provide contact information.  Report does not appear to have been submitted from outside the U. S..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35709.html](http://www.nuforc.org/webreports/reports/035/S35709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
