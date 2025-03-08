@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wabash (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights in the northern sky of wabash indiana dissapeared within 5 min. no noisesaw 8 lights in a row with orange glow in the sky pulled over to observe and they disappeared one at a time. no noise((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Probable hoax; date flawed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62105.html](http://www.nuforc.org/webreports/reports/062/S62105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grants Pass (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a very fast moving starlike light, changing direction then color then vanishedstarlike but  brighter came from nw going se was too fast for plane , no noise, changed color just b4 going dim then out went in half circle not straight?((NUFORC Note:  ISS overflight of Grants Pass at this time, on this date.  Schedule below.  PD))07 Mar 2.5 20:36:09 10 WSW 20:36:40 14 W  20:36:40 14 W  08 Mar -0.9 19:29:02 10 SW  19:32:04 74 SE  19:32:59 40 ENE 09 Mar 0.6 19:57:41 10 W  20:00:33 37 NNW 20:00:51 36 N  10 Mar -0.7 18:50:23 10 SW  18:53:26 88 N  18:56:29 10 NE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42823.html](http://www.nuforc.org/webreports/reports/042/S42823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
