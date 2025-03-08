@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 8 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Possible UFO over Green Bay, WIOn Monday, March 8, 2007, at approximately 7:30pm, I witnessed what I thought at first was a LARGE shooting star.   (However, it was MUCH larger than the average star, but smaller than the moon.)  It was not a plane or any other kind of aircraft I have ever seen in the sky, day or night.I was driving home, turning onto I-43 from HWY 172, when I saw a large circular, white-greenish light with a black or dark area in the middle.  It arced in the sky and started to "fall" and then shot VERY FAST to the East and completely disappeared.   The entire sighting only lasted about 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74615.html](http://www.nuforc.org/webreports/reports/074/S74615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a triangle was looking at me and than went away very fasttwo lights on each side and a red light in the middle. the triangle hovered over some woods with one of the points was pointing at me than it flew away very fast, faster than a airplane.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35513.html](http://www.nuforc.org/webreports/reports/035/S35513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/162/S162373.html)
-- [260](http://www.nuforc.org/webreports/reports/163/S163265.html)
-- [259](http://www.nuforc.org/webreports/reports/162/S162627.html)
-- [258](http://www.nuforc.org/webreports/reports/162/S162626.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
