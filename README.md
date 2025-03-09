@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A V shaped craft with about 6 lights on each "wing" above Bloomington IL.Last night I let my dog out in the back yard and earlier in the night I had seen Venus and Jupiter.   I was looking to see if I could still see them but they had set by this point.  When I looked up to the south west away from my house I saw a V shaped object flying from left to right (south to north).  It was a flying V of orangish dim lights with the point of the V being the front.  There were about 6 lights on each "wing" of the V.  The individual lights looked strange and more of a halo than a normal light having a dimmer center and brighter ring around the center of each light.  I watched the object for about 30 seconds and tried to pull my phone out and take a picture but was not able to get one, probably because it was too dim.  Within a few seconds of this the object moved behind some trees and I lost track of it behind the bare branches.  I live close to the Bloomington IL airport and am used to hearing and seeing planes.  This was not like anything I have ever seen before and it was completely silent.  I did have the thought that it may be multiple planes flying in formation, but the lights did not look like lights I've ever seen on a plane before.   In addition to that, it would have been about a dozen planes flying in a perfect V formation which does not seem likely.  It was not moving across the sky very fast so it was either low and slow, or at a pretty high altitude.  If this object was moving the speed of a normal jet and at about the same altitude as them then it was much larger than any passenger plane.   I have no idea what this thing was.  The only thing I've ever seen before this that looked anything like it was from a Discovery tv show about UFOs.  I'm not exactly convinced it was some alien spaceship, but I do know it wasn't something we normally see flying around. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87592.html](http://www.nuforc.org/webreports/reports/087/S87592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Detroit Lakes (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>When looking at sirus as it was the brightest star in the sky, I noticed one after another, a hand span behind each other in a staight line.  My friend from Brainerd called me and was seeing the same thing many miles away.  Another friend saw it at the same time in Indiana! A literal ring around the mid west!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153945.html](http://www.nuforc.org/webreports/reports/153/S153945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
