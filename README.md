@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Seattle (Shoreline) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>There were four of us, we are almost %100 what we saw was a UFO.  WE followed, it moved rapidly and had multi colored lights.  It would disappear and re-appear.  We followed it and tried to keep it insight. It traveled rapidly along the eastside of I5.  We aren't totally positive, but it didn't seem like a plane or helicopter.  It just hovered, and would move rapidly from one location to another.  The observers are all music students in college.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05846.html](http://www.nuforc.org/webreports/reports/005/S05846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Dimas (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange Red light traveling from west to east very slowly, then went straight upI was sitting on my patio this evening, which faces the North.  I watched a large orange-red oval shaped object traveling very slowly from west to east.  It was bright and very noticeable.  It did not have any strobe lights did not blink at all and had no noise.  After watching it for approximately 10 minutes, it went straight up into the sky and disappeared.  I contacted the local sheriff's department, and spoke with a deputy.  He said he would step outside and look, however he stated we do not make reports to the FAA or anywhere else.  I then contacted the Ontario International Airport which is within 20 minutes of my home, east of my home town.  After seeing this object I noticed a jet taking off from Ontario, as some jets travel over my City on there way to the Burbank Airport or elsewhere.  I spoke with a gentleman, an air traffic controller in the Ontario Tower.  He said the pilot had not reported anything to him, however the pilot may have reported it down the line. I have two pilots in my family, I have flown in both small planes and jets.  This is not something I could identify.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55616.html](http://www.nuforc.org/webreports/reports/055/S55616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
