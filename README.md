@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge, black, completely silent, slow gliding triangle. Cruised by close to the ground.Huge black triangle with large, white circular lights around the edges.  It was completely silent and was slowly gliding by.  This didn't seem right because the object was flying really low..about the height of a 5 story building.  Had to turn my head right to left to see the entirety of the craft.  I was in my car and made a turn to to follow it, only to see it hover down over a patch of trees where its lights began to dim then it completely vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107793.html](http://www.nuforc.org/webreports/reports/107/S107793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>A silvery oval-shaped object was seen shadowing two jetliners, suddenly changing directions, and flying in other parts of the sky south of Fort Smith, Arkansas.Looking towards the horizon to the south-southwest, an oval, silvery object was seen by both of us as we walked along the sidewalk.  The object was flying parallel to a jetliner in a southerly direction for a few minutes, then abruptly turned west and disappeared.  About five minutes later the object was again seen in the same general area of the southern sky, flying by itself towards the south.  The object then shadowed a jetliner that was flying from the east to the southwest, at first keeping a parallel path and then slowly veering west until it disappeared entirely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12292.html](http://www.nuforc.org/webreports/reports/012/S12292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
