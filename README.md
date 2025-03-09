@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glenwood (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object made a yellowish beam and made a strange fire like noise.we heard a fire like noise sort of like a deep rumbling in the sky. so we looked up and saw a yellowish beam of light that disapeared after a while the beam disapeared over the horizon and then flashed. the aircraft had a yellowish aura.((NUFORC Note:  Second report for same incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22173.html](http://www.nuforc.org/webreports/reports/022/S22173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Springs (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Report taken by the Missouri Investigators Group:  http://ufomig.yolasite.com  It was about 11:30 and I just got the kids to sleep and I was playing the wii, when I heard a loud engine like a plane going by.  I looked out my door, walked down the steps and looked over the roof of my house where I saw a large craft flying west.  I assumed it was a plane flying low towards Ft Leonard wood. then went back inside and finished my game.  Then I heard the loud noise again, and looked up and a large dark object was flying over my property, it had lights on all three points and a bright red light in the middle of its front.  It was huge!!!   I stood there with my mind racing and I went inside and grabbed my camera, and I saw it bank turn around and fly over me again.  My camera's battery was dead.  So after it passed I ran in and grab my spare battery.  Came back out, and it flew over once again.  I took pictures but the flash didn't go off and it was still on VGA.  on its fourth pass over I tried taking picture but it couldn't get it because a tree obscured my view.  I did get a picture of it I thought but once again didn't turn out.  The video did though.  I called the highway patrol and when it came back through again I heard a loud helicopter like sound but it didn't have the shape of a helicopter, I had a large red light on it, but the triangle was following it!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87351.html](http://www.nuforc.org/webreports/reports/087/S87351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
