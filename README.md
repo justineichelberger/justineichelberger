@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in  (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Circles in triangle formation flying east to west, very fast over Orem Utah.Objects were flying in a triangular formation east to west. The lead circle was slightly ahead of the two behind that were next to each other, which were followed by three in a row forming a triangle shaped group. The circles were dark in the middle with a greenish halo around the perimeter that defined them as round.  There seemed to be a slight occilation, or jiggling effect of the light circle.  It wasn't very bright, there was no audible indication, no red flashing lights, no trail.The sky was clear except for a few puffy clouds. There was no wind, and it was probably around 80 degrees.This was witnessed by myself, male aged 51, and by my 12 year old son.  We were at an outdoor concert (America) surrounded by approximately 5000 people. They were all looking at the stage,we were laying back looking at the sky.  We were tired having been at the Bonniville Salt Flats at the motorcycle speed trials from 5 am to 4 pm earlier in the day.  I have seen a few other unexplained things in the sky over the course of my life.  Nothing, however, as impressive in such a short period of time as this.I'm glad I pointed up as soon as I saw it, and that my son saw it too.  If it had been moving slower, I would have thrown a fit and had 5000 witnesses.  As it was, it was moving so fast I didn't even have time to tap my wife on the shoulder to show her.  Overall it was a very short,very memorable experience.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We assume the date of the sighting was March 09, 2007, and not September 03, but we cannot be certain.  We do not know when "America" played in Utah.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58573.html](http://www.nuforc.org/webreports/reports/058/S58573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Glenwood (NM) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>the object made a yellowish beam and made a strange fire like noise.we heard a fire like noise sort of like a deep rumbling in the sky. so we looked up and saw a yellowish beam of light that disapeared after a while the beam disapeared over the horizon and then flashed. the aircraft had a yellowish aura.((NUFORC Note:  Second report for same incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22173.html](http://www.nuforc.org/webreports/reports/022/S22173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
