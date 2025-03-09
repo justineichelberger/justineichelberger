@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:27 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chawton (near) (Hampshire) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright white light hovering in night sky that faded came back and faded again.Coming out the door of my upstairs flat and looking south, I noticed a very bright white light in the night sky over a nearby field at an altitude of about 900-1,000 feet (so it cannot of been a star or planet),  I watched it for some seconds walked downstairs and It looked for a few seconds like it had some kind of aura or haze underneath it or emitted this aura/light/haze deliberatetly or not.  It the light then seemed to fade away come back and then fade away again.  This is the same field where I observed and filmed a highly strange glowing pure white disc/saucer shape craft hovering over on 22nd June, 2002.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133048.html](http://www.nuforc.org/webreports/reports/133/S133048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>unknown falling object from the sky over tampa flSomething falling from the sky, falling down and to the left leaving 2 pink lines behind it.Seen with a bag boy in a parking lot.From where we where it we looked south to see it.Thought it was a part of a NASA shuttle falling to earth, appeared to be leaving a pink train behind it.It was during sunset, so the lines left behind looked pink in that light.I watched it for at least 4 minutes, until it faded around some</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80416.html](http://www.nuforc.org/webreports/reports/080/S80416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
