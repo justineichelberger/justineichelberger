@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>We are being chipped in our sleep.For the past month, I've been noticing very unusual activity.  I live on the flight path to Char/Doug airport and have seen 'airplanes' that are not real - ie. they are morphing in and out of orb-like shapes into what most would think are real aircraft.  (Differences for me are very apparent between a real airplane & the ET variety)  Also, there are red light areas (one behind my house, where a new road is under construction, and other red light area somewhere in front of my house (not directly in front, maybe a few miles away).  I believe these red light areas are the 'main' craft locations, whereby, people are being taken to in order to get probed/chipped etc.. - im sorry if this sounds weird).  My daughter has been having vivid dreams as of late, as well as unexplained marks on her body (left hand predominant).  Also, my son has woken up numerous times with nose bleeds, and most recently, red lumps on his ear lobes.  He also had a mark on his left hand that he was unaware of doing anything in order to cause it.I have seen flashes of light, and flashes of dark & flashes of visions that are so surreal that i am afraid to tell anyone for fear of being institutionalized.  This is real, i have videos.  And something is going to happen on April 6th..... I dont know wot as yet, maybe ufos will be disclosed by govmt, maybe ison will hit the Mediterranean, or else China will attack.Sorry again for all this, that may or may not make sense.......((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107743.html](http://www.nuforc.org/webreports/reports/107/S107743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rochester (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge, black, completely silent, slow gliding triangle. Cruised by close to the ground.Huge black triangle with large, white circular lights around the edges.  It was completely silent and was slowly gliding by.  This didn't seem right because the object was flying really low..about the height of a 5 story building.  Had to turn my head right to left to see the entirety of the craft.  I was in my car and made a turn to to follow it, only to see it hover down over a patch of trees where its lights began to dim then it completely vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107793.html](http://www.nuforc.org/webreports/reports/107/S107793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
