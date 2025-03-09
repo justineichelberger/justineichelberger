@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>low vapor sound in sky, accompanied ground rumblingI was standing outside my house.  I heard a low, vapor sounding noise.  It was accompanied by the ground rumbling under my feet.   But, NO visible object seen. Minutes later, helicopters were circling the direction I heard the noise heading to (North).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55617.html](http://www.nuforc.org/webreports/reports/055/S55617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Driving on West Road saw a stationary craft in the sky above me with at least 3 lights too close to me to be a plane and not moving.  It seemed like a sparkly thing was coming down slowly from it like a slow moving pin of light toward my car and i stopped my car and said to myself what is that? Got scared and wanted to keep moving...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153948.html](http://www.nuforc.org/webreports/reports/153/S153948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
