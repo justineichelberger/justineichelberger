@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:34 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kuala Lumpur (Malaysia) () reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange lights?Malaysia flight 370 missing?  Picked up by UFO?  Bright lights then vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We have no reason to believe that the disappearance of the Malaysia airliner was UFO-related, although there have been disappearances of aircraft that may be related to the presence of a UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107851.html](http://www.nuforc.org/webreports/reports/107/S107851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was looking at the stars, orion constellation, double stars X1 and X2 on top of the head. with a small telescope with an equatorial mount, when in a second i saw a big flash with sparkings, I keep looking at the same spot, when  I saw a UFO only the bottom part that was like a cooper color and i saw how the UFO MOVE SIDEWAYS banking left to right, the UFO  was there for like 5 second and when i was looking at it it just disapear.The bottom part had across the lenght of if like a tunnel, wider at the ends and narrow at the middle.this is my four ufo that i have seen, I do not what it is the chance of seen an UFO using a small telescope f900mm 60mm eye 22mm.The UFO filled the diameter of the eye piece Sincerely ((name deleted))((NUFORC Note:  One of several reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43151.html](http://www.nuforc.org/webreports/reports/043/S43151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
