@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:58 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:27 on 9 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>rectangular ufo seen in ArizonaMy friend and I were playing outside when we spoted a rectangle in the sky.  It was about a mile away and moving fast.  it looked like mercury inside of a digital camera.  It seem to shift from gray to a reddish color.  Sadly we couldn't catch it on video.  After a time it dissapered and we lost it from veiw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87559.html](http://www.nuforc.org/webreports/reports/087/S87559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chawton (near) (Hampshire) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright white light hovering in night sky that faded came back and faded again.Coming out the door of my upstairs flat and looking south, I noticed a very bright white light in the night sky over a nearby field at an altitude of about 900-1,000 feet (so it cannot of been a star or planet),  I watched it for some seconds walked downstairs and It looked for a few seconds like it had some kind of aura or haze underneath it or emitted this aura/light/haze deliberatetly or not.  It the light then seemed to fade away come back and then fade away again.  This is the same field where I observed and filmed a highly strange glowing pure white disc/saucer shape craft hovering over on 22nd June, 2002.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133048.html](http://www.nuforc.org/webreports/reports/133/S133048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162331.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162423.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162338.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162329.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162327.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
