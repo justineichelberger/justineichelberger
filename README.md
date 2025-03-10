@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Huson (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several Minutes - Several Minutes minutes.</sub><blockquote><sub>Three large circular crafts moving towards Missoula.I was travelling along I-90 from Missoula towards Huson very early in the morning after leaving work.  I saw in the sky an extremely large round craft with lights protruding out from the sides.  The lights were yellow, red, and blue.  It was very low, maybe about three tree lenghts high. And it made no sound.  It was moving towards Missoula and I passed underneath it.  There were two other same shaped crafts behind it higher up in the sky.  When I got off the exit at Huson, I spotted another one that looked like the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74630.html](http://www.nuforc.org/webreports/reports/074/S74630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wolverhampton (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 70.0 - 70.0 minutes.</sub><blockquote><sub>small satalite shaped object seen doing turns and curcuits over wolverhampton,10th march 07hi there ..at ten pm on the 10 th of march a silent star looking object ,sort of like a satalite, was seen by me and a few freinds doing circuits over fordhouses in wolverhampton..it travelled from the south until it was over us and then turned 90% or so it was facing south west and travelled for a fair portion of the horizon then back towards the north of fordhouses maintaining a fairly consistant speed ..it then turned quite sharply over the pendeford area then started the loop all over again ..id say it did this loop 8 or 9 times .i lost count.. it was scarely moving over towards the north east upon each loop it completed and after the last loop it turned sharper and seemed to wobble and vibrate slightly .then it straightened from the turn and headed near enough north in direction ...it gained speed ever so slowly and remained on a straight course until it was faint and slowly dissapeared from the horizon in the north..note that when it was turning at the north east ,it was shining like gold and it seemed to brake in two  two and rejoin to a bright star shaped colourful ball of light..ive seen strange things in the day whilst out walkin that also need explaining...maybe i will tell you bout the other incedent if u get back to me on this..thanx .((name deleted))((NUFORC Note:  We cannot be certain that this is intended as a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55611.html](http://www.nuforc.org/webreports/reports/055/S55611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
