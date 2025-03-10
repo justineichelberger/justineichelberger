@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:44 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:43 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>TEN OBJECT'S SEEN BY ME AND MY CREW OF NINE AND IT'S REAL!!!!!!!!!!!!!!!!!!!!!!!i was at work talking to a guy on a roof when i saw a object that looked like a globe at around 50,000 feet and isaid whats that to my co-workers no one could figure out what it was then a co-worker said look over there . we looked and there were nine more all sitting perfectly still. after about 15 min they started leaving towords calafornia they moved so fast .put it this way i know what a 737 looks like at 30,000  and at 500mph these thjings moved 5000mph at least at 50,000 from a stop and just go the human body could never take that kind of g's we dont know what we saw but it's very real and this is the honest truth. keep looking up you just might see them too.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!((NUFORC Note:  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22214.html](http://www.nuforc.org/webreports/reports/022/S22214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Charles (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large arrowhead object with white lights around perimeter, flew over my hot tub.I was in my hot tub only 10 sec looking up at the clear star lite night when a large triangular object flew over my head. It appeared very low very large. It looked like an arrowhead with a concave back. It was a dark smooth somewhat curved body. It had a thin body like an arrowhead. The perimeter of the craft had little white lights around the object. It was traveling east to west very fast, NO SOUND. If the perimeter was not lit up you would not have seen it. I saw it for only 4 seconds, but I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55651.html](http://www.nuforc.org/webreports/reports/055/S55651.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
