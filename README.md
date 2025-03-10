@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Price (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large light the color of a freeway light (orange huge).  observe with feild glasses. No noise as it continued South and  blinked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12565.html](http://www.nuforc.org/webreports/reports/012/S12565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Superior (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange Orange/red glowing object with multicolor lights in the middle.I'm not sure how to report this. It was unusual at the least. I've been riddiculed at work all day. Last nite (03/10/2005)at approximately 11:30 pm. I was on our front porch having a cigarette with my girlfriend. Then I noticed a small bright orange glowing light in the sky. It started to get bigger and bigger. Then it stopped in the sky. And slowly moved towards lake superior. I aksed my girlfriend if she can see it. She just spat out it's probally a helicopter. I told her I grew up as son of a loadmaster in the air force. And that is no helicopter. It had a orange/red glow on the bottom like molten steel. In the middle section it had pulsating lights of different colors. It moved extremely slow towards lake superior, then hovered. When it hovered the blinking lights got really fast and colorful. Then it slowly decended to the lake and I lost sight of it. No Sound. I was In the navy for 4 years on an aircraft carrier. That was not any aircraft that I know of. I don't know if anyone else has seen or reported this. But I know We could not of been the only ones to see it. The orage/red bottom side of it was really bright. I didn't believe in UFO's till last nite. I'm still trying to believe what I saw. I can draw a picture of the craft and how it looked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42888.html](http://www.nuforc.org/webreports/reports/042/S42888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
