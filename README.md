@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Worley (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Vertical Triangular object hovers high above ground.Trveling south on Hwy 95, North Idaho, 5:40 PM, noticed a narrow, vertical, shining, triangle shaped object hovering in the sky.  We estimated it was approximately at 7 to 10 thousand feet above the ground.  It did not appear to be moving.  Within 3 minutes, a large jet, traveling south to north, did cross between the object and our location.  The object remained stationary for approximately 6 minutes and then just dissapeared.  There is a military base within 60 to 70 miles of our location.  We were south of Couer D'Alene, approximately 25 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42858.html](http://www.nuforc.org/webreports/reports/042/S42858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange orbs flying over OrlandoI was standing outside with some friends and their parents and happen to see 2 lights flying accross the sky at a slow speed.  They looked like orange orbs. We watched them fly over a few minutes then they disappeared.  A couple minutes later another one came out over the trees, following the same path, then another.  The last one was the strangest one though. It was changing altitudes. It started coming down, then it started going up and started moving at a faster speed.  We followed it in the sky until it flickered out.  I tried taking a picture but it was too dark and the street lights were on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87593.html](http://www.nuforc.org/webreports/reports/087/S87593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
