@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights moving through the sky at alarming speedsWent outside to my car to retrieve something when I noticed three bright lights above me.  I watched the lights cross cross one another.  I returned upstairs on my back porch and watched the lights fly around for about ten minutes.  It was partly cloudy so when the craft broke through the clouds I saw the shape of the craft before it took off at a alarming speed.  All crafts were silent and moving all around the wooded area around my house for a total of 15 minutes then they took off in the night sky.  (Event as recorded for a few minutes)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133129.html](http://www.nuforc.org/webreports/reports/133/S133129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winters (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>3-amber colored ovals in Winters, Tx sky.My Grandmother and I were driving back from a roping in Winters, Tx on March 10, 2011 at 8:36, to be precise. And my grandma said, "Son, look at those lights."  I looked and there was two amber colored, ovals in the sky.  They sat there for approximate seven seconds, and then they slowly disappeared.  As those disappeared then another one just like the other two lighted up behind them, then it sat there for about six seconds, then it disappeared as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80465.html](http://www.nuforc.org/webreports/reports/080/S80465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
