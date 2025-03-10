@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oshkosh (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>strobe ligts surrounding orange craftObserved oval orange craft followed by 2 strobe lights. the strobe lights followed the craft and all 3 objects stayed the same distance apart from each other.  The objects made a circle in the sky suddenly 3 more strobe lights just appeared  surrounding the orange craft one above two below.  The two original  strobes where still in view (formation) behind the orange craft the then flew out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126306.html](http://www.nuforc.org/webreports/reports/126/S126306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Spring Lake (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large light very high in night sky, no sound, could have been ISS.Light directly overhead moving south/southeast. Probably higher than 30,000 feet but still large enough to see clearly. Could possibly have been ISS. No sound, too large to be aircraft((NUFORC Note:  Probably the International Space Station, whose schedules over Spring Lake, NC, are shown below.  Our thanks to <www.heavens-above.com> for the information.  Witness elects to remain totally anonymous.  PD))Search Period Start:  12:00 Sunday, 07 March, 2004  Search Period End:  12:00 Wednesday, 17 March, 2004  Observer's Location:  Spring Lake ( 35.1680°N, 78.9730°W) Local Time:  Eastern Standard Time (GMT - 5:00)  Orbit:  360 x 375 km, 51.6° (Epoch 17 Mar)  Click on the date to get a star chart and other pass details. Date Mag  Starts Max. Altitude  Ends Time Alt.  Az.  Time Alt.  Az.  Time Alt.  Az.  09 Mar 1.6 05:26:14 10 NNW 05:28:43 22 NNE 05:31:12 10 E  10 Mar 2.5 04:24:48 11 NNE 04:24:48 11 NNE 04:25:44 10 NE  10 Mar -0.7 05:57:41 10 NW  06:00:48 88 ENE 06:03:50 10 SE  11 Mar 1.1 04:55:57 24 N  04:56:54 30 NE  04:59:43 10 E</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35576.html](http://www.nuforc.org/webreports/reports/035/S35576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
