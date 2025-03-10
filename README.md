@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winters (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>3-amber colored ovals in Winters, Tx sky.My Grandmother and I were driving back from a roping in Winters, Tx on March 10, 2011 at 8:36, to be precise. And my grandma said, "Son, look at those lights."  I looked and there was two amber colored, ovals in the sky.  They sat there for approximate seven seconds, and then they slowly disappeared.  As those disappeared then another one just like the other two lighted up behind them, then it sat there for about six seconds, then it disappeared as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80465.html](http://www.nuforc.org/webreports/reports/080/S80465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Huson (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately Several Minutes - Several Minutes minutes.</sub><blockquote><sub>Three large circular crafts moving towards Missoula.I was travelling along I-90 from Missoula towards Huson very early in the morning after leaving work.  I saw in the sky an extremely large round craft with lights protruding out from the sides.  The lights were yellow, red, and blue.  It was very low, maybe about three tree lenghts high. And it made no sound.  It was moving towards Missoula and I passed underneath it.  There were two other same shaped crafts behind it higher up in the sky.  When I got off the exit at Huson, I spotted another one that looked like the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74630.html](http://www.nuforc.org/webreports/reports/074/S74630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
