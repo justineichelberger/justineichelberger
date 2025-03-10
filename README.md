@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Estero (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Thirty to forty red orbs Estero, Florida.Was driving down Estero Parkway and noticed a circular red orb by the moon. For some reason I thought it was Mars, but it was too big and moving.  Then out of nowhere about thirty to forty red orbs appeared out of nowhere and weren't traveling fast and heading north.  They stayed light for about a minute then blinked out and would see several appear and disappear intermittently.  I left cell phone at the house otherwise I would've taped them.  I served in the military and they weren't planes and thought maybe they were some kinda light balloon, but were far to big to be so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117729.html](http://www.nuforc.org/webreports/reports/117/S117729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red orb at 23:52 3/10/11 took a picture zoomed in to see a diamond shaped ufo. Please helpI am such a skeptic; I went outside to smoke a ciggy at about 23:45 when this red light caught my eye.  To my eyes was a good size but I could not give a shape other than a glowing circle, before i took the picture.  It was not flashing light, blinking, it was a steady red glow.  Was not airplane or helicopter.  It was completely silent.  It was low enough for me to see its speed.  It was going at about the speed of a low flying helicopter.  It stopped dead in its tracks when I stood up.  Came back a ways then become still.  Then it went back the other way. I followed it into my back yard and watched it fade into the distance.  I do not get scared easily!  I am such a skeptical person when it comes to things like this.  But I was bone chillingly freaked out!!!  After i regained my thought process i ran inside and woke my girlfriend up in tears.  I thought I was going crazy.  She reassured me after I showed her the picture that I was not.  If you zoom into the picture you ca! n see the object outline.  It looks diamond shaped. It is weird because this happened the same time all of the stuff in japan started.  Please help me prove that I am not going crazy.  I am scared only because I have never seen anything like it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80527.html](http://www.nuforc.org/webreports/reports/080/S80527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
