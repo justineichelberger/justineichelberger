@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:23 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Loud (house shaking)  booms in the areaLoud booms heard in the area for the past few weeks. 20-30 calls have been reported to local police. Reports have been made in several different areas of the city.  Noises are loud enough to shake the house and draw neighbors into the street.  No aircraft is ever seen at the time of the booms.  I'm familiar with explosives and have ruled them out as being able to cause the noise. I'm remaining anonymous but if you want proof just pull local police records and see for yourself the amount of calls that have been made this month.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107850.html](http://www.nuforc.org/webreports/reports/107/S107850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dollard des Ormeaux (Canada) (PQ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large blue fireball streaking through the skyI was watching television on a friday night and suddenly something caught my eye outside.  I quickly turned my head and saw a large fireball-like object of bright blue streak quite fast downward through the sky and over the horizon.  Since I had been studying Astrophysics at McGill University I thought I'd ask my teacher about what I saw, and after I told her about it she couldn't identify what it could have been.  She says it couldn't have been a shooting star (because I wouldn't be able to see such a small faint light through a window with lights on in the house), and it couldn't have been an airplane (unless it was completely engulfed in flames and burning so hot that they were blue flames).  So what else could it be?  It is definitely an Unidentified Flying Object.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18565.html](http://www.nuforc.org/webreports/reports/018/S18565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
