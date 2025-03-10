@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Was going to my car to retrieve something, when I noticed three lights in the sky, flying close to one another.  The lights then proceeded to crisscross one another (far too close together to be a aircraft).  I went inside and got my husband and son and we watched the lights for about 7 minutes.  The lights shined through the clouds.  I tried to dismiss it as possible spotlights, until the object broke through the clouds and it was a craft I have never seen before.  Moved very quickly and quietly.  Eventually they flew off and I have not seen the lights since. (Have video evidence)  The animals in the neighborhood were also going nuts during this event and it ceased when the objects left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133085.html](http://www.nuforc.org/webreports/reports/133/S133085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tacoma (Lakewood) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately unk - unk minutes.</sub><blockquote><sub>While on Patrol in the North parking lot at Pierce College, I observed a green spherical ball of light descending from west to east. This occured on 03/10/99 at 22:15pm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05906.html](http://www.nuforc.org/webreports/reports/005/S05906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
