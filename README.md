@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:44 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Floating oval aircraft with red lights, moderate to fast smooth movementIt was an oval aircraft hovering over the area. With Red lights.  First it was just hovering, than it moved at a moderate speed somewherelse at that point I tried to follow it with my car, but could not catch up.  I took some photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88205.html](http://www.nuforc.org/webreports/reports/088/S88205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>TEN OBJECT'S SEEN BY ME AND MY CREW OF NINE AND IT'S REAL!!!!!!!!!!!!!!!!!!!!!!!i was at work talking to a guy on a roof when i saw a object that looked like a globe at around 50,000 feet and isaid whats that to my co-workers no one could figure out what it was then a co-worker said look over there . we looked and there were nine more all sitting perfectly still. after about 15 min they started leaving towords calafornia they moved so fast .put it this way i know what a 737 looks like at 30,000  and at 500mph these thjings moved 5000mph at least at 50,000 from a stop and just go the human body could never take that kind of g's we dont know what we saw but it's very real and this is the honest truth. keep looking up you just might see them too.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!((NUFORC Note:  Source elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22214.html](http://www.nuforc.org/webreports/reports/022/S22214.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
