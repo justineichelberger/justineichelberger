@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My age was 8 at the time and I was in bed just starting to fall asleep. Mother was in the den calling me to come "see something". I did not respond so she got me out of bed to show me this object in the sky throgh the den window. When she pointed at this object with her eyes and mouth wide open it had almost a hypnotic effect on you. Estimates on it's size are difficult but the main feature of this object was the different colors that consistenly evolved around it. There was red white yellow and i believe blue as well.I have two semi different recollections in terms of the shape of the object. One being flat as a pancake and the other changing as a larger craft as the evolving lights became larger. The movements of the lights could be compared to a light house or even a siren. We wathched the object for at least 15 minutes in complete amazment((NUFORC Note:  Date is approximate; source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18235.html](http://www.nuforc.org/webreports/reports/018/S18235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Worley (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Vertical Triangular object hovers high above ground.Trveling south on Hwy 95, North Idaho, 5:40 PM, noticed a narrow, vertical, shining, triangle shaped object hovering in the sky.  We estimated it was approximately at 7 to 10 thousand feet above the ground.  It did not appear to be moving.  Within 3 minutes, a large jet, traveling south to north, did cross between the object and our location.  The object remained stationary for approximately 6 minutes and then just dissapeared.  There is a military base within 60 to 70 miles of our location.  We were south of Couer D'Alene, approximately 25 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42858.html](http://www.nuforc.org/webreports/reports/042/S42858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
