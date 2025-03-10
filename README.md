@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cedarville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Spotted hovering in midair perfectly still, then silently accelerated away at great speedOne large black triangle, with a white light at each corner. Triangle was longer on two sides (not equilateral). I saw it from a distance, and it looked like the top of a radio tower or something.  It was late afternoon, and we were driving down a long, straight back road next to a field, so visibility was far and the sun had not set yet.  I was in the back seat, looking out the left window, and the object was in the air a few thousand feet up at about 10 o'clock high.As we got closer to it, the other kids noticed it, and we pulled over the car and started piling out.  By the time all 6 of us had piled out of the sedan, it was moving.  It accelerated in a straight line away in the direction that we had been driving, and was gone in the distance in maybe 5 seconds.  I never heard a sound.  One of the other kids claimed to have heard a low hum.The most interesting thing about how it had initially hovered is that it was not moving at all.  Not bobbing, not leaning from the wind.  It was steady enough to cause me to think it was the top of a tower initially. Then, when it accelerated away, it was in a perfect, straight line.  Ohio is notoriously windy, and that day was no exception - yet the object was floating very, very steadily, without any deviation whatsoever.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48296.html](http://www.nuforc.org/webreports/reports/048/S48296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright lights moving through the sky at alarming speedsWent outside to my car to retrieve something when I noticed three bright lights above me.  I watched the lights cross cross one another.  I returned upstairs on my back porch and watched the lights fly around for about ten minutes.  It was partly cloudy so when the craft broke through the clouds I saw the shape of the craft before it took off at a alarming speed.  All crafts were silent and moving all around the wooded area around my house for a total of 15 minutes then they took off in the night sky.  (Event as recorded for a few minutes)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133129.html](http://www.nuforc.org/webreports/reports/133/S133129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
