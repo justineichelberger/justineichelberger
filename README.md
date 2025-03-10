@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakeside (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I was in the Spinreel Dunes area trying to watch a comet that was supposed to be seen that night. We had been out there for about 30 minutes.  There were some clouds, but mostly it was clear and visibility was great. As my wife was looking straight up above us she noticed a bright flashing up high.  It flashed twice before telling me. I looked up and seen the same thing.  It would flash once, then pause about 3 to 4 seconds, then flash again. When it flashed, I could partially make out it was a triangle.  The flash itself was a brilliant one looking like the flash you see during welding with a plasma cutter. We both counted at least 6 flashes and it was gone.  It also moved fast, silent and made a turn unlike anything I ever seen. It came from the west and made a turn to the north.  My wife was getting her cell phone to video it, but it was gone.  We even seen a couple of Meteors flashing across the sky.  This was not a meteor.Now, I am very well familiar with how aircraft fly, I have even flown myself. I am a retired Firefighter and know the dunes very well from doing rescues, firefighting brush fires and just playing in the dunes in our old Jeep. I've never seen anything like this out there before. It was amazing and left us a little stunned. It was my second experience of seeing a "UFO" within my 58 years of life.I hope this helps you in your trying to understand if we have extraterrestrials trying to contact us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96738.html](http://www.nuforc.org/webreports/reports/096/S96738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cedarville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Spotted hovering in midair perfectly still, then silently accelerated away at great speedOne large black triangle, with a white light at each corner. Triangle was longer on two sides (not equilateral). I saw it from a distance, and it looked like the top of a radio tower or something.  It was late afternoon, and we were driving down a long, straight back road next to a field, so visibility was far and the sun had not set yet.  I was in the back seat, looking out the left window, and the object was in the air a few thousand feet up at about 10 o'clock high.As we got closer to it, the other kids noticed it, and we pulled over the car and started piling out.  By the time all 6 of us had piled out of the sedan, it was moving.  It accelerated in a straight line away in the direction that we had been driving, and was gone in the distance in maybe 5 seconds.  I never heard a sound.  One of the other kids claimed to have heard a low hum.The most interesting thing about how it had initially hovered is that it was not moving at all.  Not bobbing, not leaning from the wind.  It was steady enough to cause me to think it was the top of a tower initially. Then, when it accelerated away, it was in a perfect, straight line.  Ohio is notoriously windy, and that day was no exception - yet the object was floating very, very steadily, without any deviation whatsoever.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48296.html](http://www.nuforc.org/webreports/reports/048/S48296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
