@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:43 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in St. Charles (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Large arrowhead object with white lights around perimeter, flew over my hot tub.I was in my hot tub only 10 sec looking up at the clear star lite night when a large triangular object flew over my head. It appeared very low very large. It looked like an arrowhead with a concave back. It was a dark smooth somewhat curved body. It had a thin body like an arrowhead. The perimeter of the craft had little white lights around the object. It was traveling east to west very fast, NO SOUND. If the perimeter was not lit up you would not have seen it. I saw it for only 4 seconds, but I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55651.html](http://www.nuforc.org/webreports/reports/055/S55651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My age was 8 at the time and I was in bed just starting to fall asleep. Mother was in the den calling me to come "see something". I did not respond so she got me out of bed to show me this object in the sky throgh the den window. When she pointed at this object with her eyes and mouth wide open it had almost a hypnotic effect on you. Estimates on it's size are difficult but the main feature of this object was the different colors that consistenly evolved around it. There was red white yellow and i believe blue as well.I have two semi different recollections in terms of the shape of the object. One being flat as a pancake and the other changing as a larger craft as the evolving lights became larger. The movements of the lights could be compared to a light house or even a siren. We wathched the object for at least 15 minutes in complete amazment((NUFORC Note:  Date is approximate; source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18235.html](http://www.nuforc.org/webreports/reports/018/S18235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
