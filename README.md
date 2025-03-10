@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 10 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Dayton Ohio Area Pale Orange/White Circular Light in Night Sky.I was finishing a walk of the block with my dog and was thinking about walking her a bit farther down a street running to the south so turned to look down that street and noticed the light from what I assumed was a plane flying high above treetop level to the south. Living in one of the flight paths sometimes used by the Dayton International Airport, I didn't think much of it until I realized (as I waited for my dog to finish sniffing the ground) it didn't appear to be moving either horizontally or any closer or farther away.  I watched the light and there was only a solid, steady pale orange glow -- the blinking lights I anticipated would appear never did.  Maybe most noticeable was the total absence of sound that always accompanies the aircraft I see at this approximate distance.  I did see a flight cross in the distance from west to east, its lights appearing smaller indicating it was probably either smaller or farther away than whatever it was I had noticed! which remained stationary as the aircraft passed behind it to the south; the aircraft was easily identifiable by the blinking of its lights.  The brightness of this light varied just slightly in intensity, getting a bit brighter or growing more dim for a few seconds.  The color remained the same.  It never seemed to move, but I glanced down at my dog for a second, looked up, and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145057.html](http://www.nuforc.org/webreports/reports/145/S145057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Cloud (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Loud (house shaking)  booms in the areaLoud booms heard in the area for the past few weeks. 20-30 calls have been reported to local police. Reports have been made in several different areas of the city.  Noises are loud enough to shake the house and draw neighbors into the street.  No aircraft is ever seen at the time of the booms.  I'm familiar with explosives and have ruled them out as being able to cause the noise. I'm remaining anonymous but if you want proof just pull local police records and see for yourself the amount of calls that have been made this month.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107850.html](http://www.nuforc.org/webreports/reports/107/S107850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162436.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162336.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162349.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162534.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162648.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
