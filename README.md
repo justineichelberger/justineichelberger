@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>picture of police copter and two ufos.I was waiting at an outside resturant, a police copter was circleing around looking for some one, so i decided to take some pictures of it, i took six pictures, after downloading them on computer, the picture showed two objects and a police copter,i didn't see the two objects when taking pictures. i will e-mail picture.((NUFORC Note:  We have reviewed the photos, and although they are interesting, they are, nevertheless, ambiguous.  One of the unidentified objects, apparently at a hight altitude that the helicopter alluded to by the witness, has a faint appearance that is suggestive of a six-bladed helicopter main rotor.  It makes us wonder whether the unidentified objects are also helicopters at a considerable altitude.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22272.html](http://www.nuforc.org/webreports/reports/022/S22272.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orr (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Driving home from Minneapolis, MN, on the phone talking to my wife.  Couple hundred feet in front of me, and about 150 feet above the road, there was a craft that was probably hexagon shaped craft, lots of lights, multi colored, and lots of different spinning parts.  This happened on a very clear Minnesota night.  No other lights around.  Probably about 6-8 rings underneath spinning in opposite directions.  There was only one craft.  As I approached closer in my vehicle, my XM radio lost satellite single (sic. Signal) for a moment, and it’s never lost satellite single there before as I make this trip 2x a week for last year and half.  Once I got closer, it all of a sudden of vanished, kind of like warp speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145050.html](http://www.nuforc.org/webreports/reports/145/S145050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
