@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>a medium sized sphere with no windows or visible doors it was making sharp turns and angular movements.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28097.html](http://www.nuforc.org/webreports/reports/028/S28097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Saturday evening in Ottawa, Ontario, Canada, at precisely 21:31hrs., I was in service driving my regular city bus route along a dark residential neighborhood.  I then noticed at the top of my windshield an unusual glow coming from the southwest sky heading towards the north east.At that time, I thought it was a comet or a meteor crossing the atmosphere, but it occurred to me that it was way to close to earth be neither one of those two.Then the object slowed down.  I immediately came to an abrupt stop with my bus to have a better look at this object and realize it was definitely out of this world.When I started to focus more on the object I saw that it was a teal colour.  It was an oval shaped and had a transparent see through look to it.  Very strange.  To try an describe it to the best of my knowledge it was basically like looking at a firefly you see in the woods glowing at night, but this object had a constant glow to it and did not flicker off like a firefly.After quickly glancing at the object, it then pickup up at a phenomenal speed and dashed out to the north east sky and it was gone.  The speed that it took off was absolutely phenomenal, just mindboggling.  It's as if it went into warp mode, like in Star Trek. Absolutely something I will never forget for the rest of my days.Just to be clear this all happened from the time I first saw the object to when it disappeared was in the matter of 3 to 5 seconds.  I had no witnesses on board as I had just finished dropping off a group of teenagers a few minutes prior to my experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133080.html](http://www.nuforc.org/webreports/reports/133/S133080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
