@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Forest (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Two bright lights appear over norther IllinoisTwo bright lights seen over norther Illinois since 3-9-12. One craft lower and the second craft higher altitude. Both same shape.  Appear as lights to the naked eye but when photographed they are identical "space crafts".   They appear to be concealed in the Taurus constellation but looking at the photographs they are not stars.  Appear to be flying in a spiral formation but from earth apper to be standing still.  Have asked friends to look at the sky for this, and all have seen it but no one can explain it. (on the first night of viewing this-Friday- there were aircraft that appears to be circling these objects-- like military or something very human checking it out)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87625.html](http://www.nuforc.org/webreports/reports/087/S87625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I think I have had a close encounter in Oranger County CaliforniaI was observing and airplane overhead going west, and I could hear it.......... just then I saw a silent formation of 5 aircraft flying east in formation all in one row, each about the size of a 727, guessed size from  lights, they were in my view for only 8 - 10 seconds and disappeared.  There was not any sound from these 5 aircraft at all.  The odd thing is the silence and the fact the lights disappeared when it was a clear nite, I could have followed for at least another 2 minutes, but their lights were gone.  I have never seen any thing like this before in my life.  I am at a loss for an explaination as too late tin the evening for reflections, definetley were not birds migrating as i have never seen a flock with lights all traveling at the same speed etc//</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55667.html](http://www.nuforc.org/webreports/reports/055/S55667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
