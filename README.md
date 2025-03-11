@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:51 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two hawk shaped objects paceing small jet at high alt. and speedI was driving and when came to a stop light I looked out of my open window up into the semi puffy wierd cloudy crystal clear blue sky of which i have a slight habit of doing , quite frankly i observe the skys every day, so to say i have a keen eye like a hawk again my sight is highly trained and practiced. well,I quickly spoted a small leer jet type plane at 11:00 position headed north east at about 20,000 ft. just above the cloud level. I was observing the plane mainly for a con-chemtral when i noticed just behind the plane on both ends of the wings of the plane where to hawk shaped objects paceing the plane they where both the same distance behind the plane about a thumbnail length but seemed to be just higher then plane they looked like two souring hawk at high altitude but they flew at the exact same speed as the plane, they and the jet plane flew  pretty much right over my head and off to the north going extremely fast I just kept looking and looking saying to myself no no no hawks dont fly at the same speed and hieght of a jet air plane I have been perplexed ever since that bazarre event oh every one in traffic was laughing at me as i pulled myself back through my car window((NUFORC Note:  We have corrected the date above.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49551.html](http://www.nuforc.org/webreports/reports/049/S49551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hoquiam (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I was sitting at my kitchen table at around 1:00am pacific time ..and heard what sound like crackling electricity, as I was going to go outside to smoke a cigarette  I proceeded to my front porch, I heard the strange noise throughout the entire time, then I  looked up and saw a bright round disc shaped object.  It was spinning ,it appeared to be a u.f.o. I ran back into my house and got my digital camera  ran back outside and took three pictures as the craft was flying away it was going from west to east in an upward progression.  When I attempted to take a fourth picture it shot out of site extremely fast.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62146.html](http://www.nuforc.org/webreports/reports/062/S62146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
