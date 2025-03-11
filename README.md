@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:12 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:51 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights aligned in the shape of a circle moving slow and quietly, then disappearing into the sky.The Stars were out.  But I noticed something strange. There were lights in the sky, all aligned in the shape of a circle.  I noticed this above a tree and I was studying these strange lights.  Then I knew for sure they weren't stars either because I realized they were moving.  Very slow and quietly, and all of a sudden it disappears into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126330.html](http://www.nuforc.org/webreports/reports/126/S126330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two hawk shaped objects paceing small jet at high alt. and speedI was driving and when came to a stop light I looked out of my open window up into the semi puffy wierd cloudy crystal clear blue sky of which i have a slight habit of doing , quite frankly i observe the skys every day, so to say i have a keen eye like a hawk again my sight is highly trained and practiced. well,I quickly spoted a small leer jet type plane at 11:00 position headed north east at about 20,000 ft. just above the cloud level. I was observing the plane mainly for a con-chemtral when i noticed just behind the plane on both ends of the wings of the plane where to hawk shaped objects paceing the plane they where both the same distance behind the plane about a thumbnail length but seemed to be just higher then plane they looked like two souring hawk at high altitude but they flew at the exact same speed as the plane, they and the jet plane flew  pretty much right over my head and off to the north going extremely fast I just kept looking and looking saying to myself no no no hawks dont fly at the same speed and hieght of a jet air plane I have been perplexed ever since that bazarre event oh every one in traffic was laughing at me as i pulled myself back through my car window((NUFORC Note:  We have corrected the date above.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49551.html](http://www.nuforc.org/webreports/reports/049/S49551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
