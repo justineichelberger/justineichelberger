@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in The Dalles (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Two Bright lights seen west of Hood River ORTwo bright lights about 40 degrees due west of The Dalles OR.  No movement seen.  Stars can be seen to be behind and to the sides of the two lights.  The northerly light appears brighter, both are magnitudes brighter than stars. ((NUFORC Note:  Sighting of Jupiter and Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87613.html](http://www.nuforc.org/webreports/reports/087/S87613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orangevale (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 Objects traversing the sky, burning out eventuallyI was looking roughly to north and noticed 3 bright yellow lights in the sky about 35 degrees above the horizon altitude unknown.  They moving one behind the other approximately from the north to the south at about the same speed as a high altitude jet liner would be moving.  With my arm extended straight out, each object was two hand widths from the next in a single file.  When they reached the highest point above the horizon, about 75 degrees, the middle light went out.  As it went out, smaller bright yellow pieces fell off.  They looked to be burning.  These pieces went out after a few seconds.  As the remaining two objects approached about 45 degree off the southern horizon, each burned out within about 10 seconds of each other.  They also dropped pieces that were lit for about 2-3 seconds.  This is all I saw. My first guess was some kind of missle.  What is strange is that they were moving north to south.  I am not aware of any missle ranges north of Sacramento.  Also, if they were dropping debris, it is likely that some might fall onto a city.  Beale AFB is close by.  Perhaps they were testing something.  About 2 years ago, I saw something similar occur over my house, but the direction was south to north.  I did not file a report on this object, but could if you want.  There were some unique features of this other account that may interest you.  I left my phone number off below.  Please contact me via email if you would like any more info.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12365.html](http://www.nuforc.org/webreports/reports/012/S12365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
