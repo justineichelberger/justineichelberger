@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Larnca (Cyprus) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I noticed the light which was like a flame.  It was not moving and was there for a long time.  As I took a photo and I noticed two spaceship looking objects moving towards the light.I eventually lost sight of the light as I carried on driving.  I drove back to see if I could find the light again, but I didn't.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81285.html](http://www.nuforc.org/webreports/reports/081/S81285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light in the sky- HUGE object, going faster then anything iv ever seen, then disappeared on 85sMy fiancé and I were driving down 85 south, we were speaking casually when all of a sudden a HUGE bright light went from Left of my windshield to Right.  It was going down in a slanted motion but incredibly fast.  At that moment, we were both like, "Are you seeing what I'm seeing!?"  It looked as if the object would crash but just disappeared.  This was a light so bright we immediately knew it wasn't a shooting star.  It wasn't a plane (nothing crashed) it also had no streak tail in the sky and no sound.  It looked way to large to be anything logical.  We couldn't believe what we just saw.  My fiancé is not a believer and was in shock from what we had seen.  NOTHING like it.  There would be no way nobody else driving on the interstate could have missed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133095.html](http://www.nuforc.org/webreports/reports/133/S133095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
