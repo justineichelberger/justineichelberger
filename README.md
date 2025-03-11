@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Reston (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange amber lights, streaming from the east, making now sound and disappearing.Last night, at about 9:30, as I was watching TV, I noticed out my sliding glass door (which faces woods) bright amber lights coming up out of the east.  I watched at least 15 to 20 of them come one right after the other.  They made ZERO sound and disappeared right before my eyes, as they hit a certain point in the sky.  I'm not a believer in UFO's but this freaked me out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126345.html](http://www.nuforc.org/webreports/reports/126/S126345.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>picture of police copter and two ufos.I was waiting at an outside resturant, a police copter was circleing around looking for some one, so i decided to take some pictures of it, i took six pictures, after downloading them on computer, the picture showed two objects and a police copter,i didn't see the two objects when taking pictures. i will e-mail picture.((NUFORC Note:  We have reviewed the photos, and although they are interesting, they are, nevertheless, ambiguous.  One of the unidentified objects, apparently at a hight altitude that the helicopter alluded to by the witness, has a faint appearance that is suggestive of a six-bladed helicopter main rotor.  It makes us wonder whether the unidentified objects are also helicopters at a considerable altitude.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22272.html](http://www.nuforc.org/webreports/reports/022/S22272.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
