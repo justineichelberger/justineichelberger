@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a triangular shame with white lights marking the corners no lines conecting the dots but flying in syncronized form.  to far in the sky to be a plane. flew across the sky for a minute and then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12651.html](http://www.nuforc.org/webreports/reports/012/S12651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Manassas (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>UFOs in Manassas, VA!!!I was outside smoking a ciggrett, looking at the stars, and noticed a weird looking one.  I stared at it for a few minuets then saw other lights on it and figured it was a airplane,  i live near the flight path of Dulles Airpor, but it seem to hover in the same spot for a while.  It was just a ball of light with a flashing light on it.  It started to move a little bit when an airplane started going towards it, but still stayed where i could see it.  Then i saw what looked like a shooting star pass by it, and another one appeared a few feet away from the other one.  The second one looked like a red star and moved the same way as the other, they both just hovered for a while, i went inside to get a camara but when i came back out they were gone.  I've always been skeptical but now I'm a Believer!!!!((NUFORC Note:  In a telephoned message, the source of the report assures us that the report is an accurate representation of the facts.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139148.html](http://www.nuforc.org/webreports/reports/139/S139148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
