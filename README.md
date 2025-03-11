@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:40 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:12 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My boyfriend yelled out to me as he was outside smoking to hurry and come out I came out he was pointing at the sky at at first two big large balls of light that were flashing in a long duration and then would go dark all the sudden and then would show up way further down in the sky this was not aircraft there was no noise and they don't aircraft don't move this way it was followed by two other ones as well</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145049.html](http://www.nuforc.org/webreports/reports/145/S145049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights aligned in the shape of a circle moving slow and quietly, then disappearing into the sky.The Stars were out.  But I noticed something strange. There were lights in the sky, all aligned in the shape of a circle.  I noticed this above a tree and I was studying these strange lights.  Then I knew for sure they weren't stars either because I realized they were moving.  Very slow and quietly, and all of a sudden it disappears into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126330.html](http://www.nuforc.org/webreports/reports/126/S126330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
