@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It was about midnight me and a couple of friends had been eating at my dinner table and i just decided to look outside.  Once i did every thing just turn into a big flash and the power had went out in the house and about 30 secs later it just came back on.  It was like a giant thing just hovering there just as if it was camouflaged in the sky.  Then it was gone just like that like light fast like gone no where to be seen I was shocked so i just looked up ufo sighting this is where it brung me..PS:  Just saying if there is another life out there the human life will not exist much more.Some one think about that like i did please....((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Source of report indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133212.html](http://www.nuforc.org/webreports/reports/133/S133212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indore City (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I get what I want?12/ma/2020: UST 7:20PM Again observed a very small glowing dot the size of a tiny star up in the sky.  However this moving UFO was travelling in the opposite direction with regard to the UFO which were travelling in my sighting which I reported previously.  This UFO was much smaller in size which means it was travelling very deep in the space when compared to the earlier sighting.  I got very excited and wanted to record this sighting but unfortunately I could not observe it back again. Just before the sighting 2 white birds flew in the same direction of the earlier sighting indicating/which I suspect must be some kind of connection between UFO and life on earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154144.html](http://www.nuforc.org/webreports/reports/154/S154144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
