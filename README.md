@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was cloud coverage, but I can see the circular objects they did not flash but they went from white to a red when they flew by there was no noise the 2 came from the east and flew across the house and flew to the west towards Ft. Collins and Loveland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126333.html](http://www.nuforc.org/webreports/reports/126/S126333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Viewed Cigar 2 light object change into a Complete triangle With 3 lights.3/12/10 Approx Time of 07:56 PM Lasted 5mins Weather: Clear. Wind about 5-10 Mph  Me And My Wife Were Traveling West On Buffalo Road That Evening And we both witnessed  a comet like object falling from the sky with a very bright white light emitting from it. Then a few seconds later the object Stopped emitting the light and the light started up again but it jumped in the sky the. left and right before going blank to no lights.  Me and my wife came upon were the object was about 1 Mile up buffalo Road at the intersection of buffalo Rd and McClelland Ave.  We seen two red lights side by side hovering in the air without any noise or movement then a 3 light that was white appeared and the view of a giant triangle took place.  While my wife was driving I opened up the sunroof and we drove under the craft.  It was Amazing seeing something odd and big Without any noise.  We passed under the object and about 30 seconds went by and the lights were gone. Thank you for your time and I hope More people come forward with information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74635.html](http://www.nuforc.org/webreports/reports/074/S74635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
