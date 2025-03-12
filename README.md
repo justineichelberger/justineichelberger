@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gray (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My wife and I went outside and we saw two very bright light's standing still. One light was off to the left and just below the other. Then they begin to move slowly as if flying away. Then the lower light began to fade out, and after it did the 2nd did as well.These were not airplanes or satellites. These were very bright even with a full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49583.html](http://www.nuforc.org/webreports/reports/049/S49583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Death Valley (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>This World Nuclear Missiles Must Stop  500 Lights On Object 0: YesOn the night of March 12, 1997 I was returning to Las Vegas, NV from California I decided to take a short cut and travel through Death Valley. When I pulled over to go to the bathroom I exited the driver side of the rental car while standing there I happen to look back behind me and this triangle shape plane was coming over the mountain while watching this I realized this was not a plane anyways this ship stop right under me and I seen this beam of light hit me and the next thing I remember is standing with these little people with big heads and big eyes showing me a 3 D map pointing at military bases and nuclear devices like missiles they where telling me that we must stop using these devices and was informed by these people that all military bases around the world are watch by them they told me they have the ability to disengage all our nuclear missiles and have done so before as I was looking at this map I could see cities and military bases like Phoenix, AZ they would fly over these cities and explain what these military bases do to there world then they showed me different demissions with our earth. When I returned back to my car I happen to look at my watch and it said 9:40 pm I was missing almost one day but I remember little thing about that night.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Possible hoax, but we have no way to document that fact.  We post this report, principally because NUFORC received a somewhat similar report for the same date, which appears to us to be quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54904.html](http://www.nuforc.org/webreports/reports/054/S54904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
