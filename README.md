@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:56 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:04 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saint Joseph (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright orange lines that turned into balloon looking objectsAs I was closing the back door, I saw the two bright stars.  As I looked at them I also saw two bright orange lights like lines in the sky in the west moving to the east.  The orange lines appeared to be the size of large planes but had bright orange liights on the bottome of the plane from the nose to the tail.  I watched them as they came closed.  As they got almost overhead, the left one started disappearing but the right one (north side) turned into a large bubble or balloon.  I watched it go down as I looked to the northwest.  I could see it through the branches of a big tree.  I stood in amazement thinking I had seen a UFO.  Then in the west there was two more of the long orange lines.  Again I watched them.  The one on the right started going over my house and the one on the left turned into a big balloon.  I watched it go down as it disappeared on the other side of the house next door to me.  I'm sure it was much farther away but looked closer.  I di! d not hear any sounds that sounded like an airplane going over.  The orange lights were very bright.  I've looked several more times but have not seen any more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87626.html](http://www.nuforc.org/webreports/reports/087/S87626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Cumberland (PA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright red object spotted falling from sky at 22:06 pm on 3-12-2-016 in Cumberland County, PA.At 10:06 pm, on 3-12-2016, traveling east on the Pennsylvania Turnpike, about 1 mile from Exit 242, a bright red ball suddenly appeared in the sky coming from the north.  The ball was traveling at a fast pace, seemed to hover overhead then started to rise when it just vanished.  Photos were taken with a cell phone.  When photos were enlarged, ball actually appears to be a tear drop shape containing a bright white light, surrounded by a red exterior.  Prior to seeing the red object, there were two bright lightening type flashes that occurred about 2 miles from where the red object was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126348.html](http://www.nuforc.org/webreports/reports/126/S126348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
