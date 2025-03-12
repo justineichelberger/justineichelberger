@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 11 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light in the sky- HUGE object, going faster then anything iv ever seen, then disappeared on 85sMy fiancé and I were driving down 85 south, we were speaking casually when all of a sudden a HUGE bright light went from Left of my windshield to Right.  It was going down in a slanted motion but incredibly fast.  At that moment, we were both like, "Are you seeing what I'm seeing!?"  It looked as if the object would crash but just disappeared.  This was a light so bright we immediately knew it wasn't a shooting star.  It wasn't a plane (nothing crashed) it also had no streak tail in the sky and no sound.  It looked way to large to be anything logical.  We couldn't believe what we just saw.  My fiancé is not a believer and was in shock from what we had seen.  NOTHING like it.  There would be no way nobody else driving on the interstate could have missed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133095.html](http://www.nuforc.org/webreports/reports/133/S133095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 orbs in a triangular formation high in the sky with no sound or explanation.While my wife and I were eating lunch I noticed a triangle of 3 orbs in the sky. I watched for a few seconds to try to ID what I was seeing and then one orb broke formation and then held a different pattern. I knew it was an unknown object at that time so I began filming. What’s weird is the objects flashed out of view and my camera went blurry. I thought I lost them for the rest of the clip but they were moved to the top part of the video. I didn’t move my camera down, they just went upward out of view. You can tell be the clouds in the video. Pretty wild! I’ll send clip to the link provided.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163469.html](http://www.nuforc.org/webreports/reports/163/S163469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [294](http://www.nuforc.org/webreports/reports/162/S162352.html)
-- [293](http://www.nuforc.org/webreports/reports/162/S162353.html)
-- [292](http://www.nuforc.org/webreports/reports/165/S165819.html)
-- [291](http://www.nuforc.org/webreports/reports/162/S162356.html)
-- [290](http://www.nuforc.org/webreports/reports/164/S164334.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
