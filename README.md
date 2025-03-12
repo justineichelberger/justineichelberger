@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:35 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 orbs in a triangular formation high in the sky with no sound or explanation.While my wife and I were eating lunch I noticed a triangle of 3 orbs in the sky. I watched for a few seconds to try to ID what I was seeing and then one orb broke formation and then held a different pattern. I knew it was an unknown object at that time so I began filming. What’s weird is the objects flashed out of view and my camera went blurry. I thought I lost them for the rest of the clip but they were moved to the top part of the video. I didn’t move my camera down, they just went upward out of view. You can tell be the clouds in the video. Pretty wild! I’ll send clip to the link provided.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163469.html](http://www.nuforc.org/webreports/reports/163/S163469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockaway Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>fast but steady moving light across the horizon perpendicular not up or downLooking eastward while unhooking a utility trailer, I looked up and it was a brighter moonlit night and just above a small mountain horizon running left to right (north to south) for about 30 seconds I watched a faster than airplane light moving and then before it went over the horizon the light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154241.html](http://www.nuforc.org/webreports/reports/154/S154241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
