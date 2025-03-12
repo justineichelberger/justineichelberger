@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 120</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161891.html](http://www.nuforc.org/webreports/reports/161/S161891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black Triangular Shaped Craft Sighting8:24 PM 3/12/97 Tonight my wife and I took our daughter outside to see the stars and to show our daughter comet hale bopp in the north west sky. while I was showing my daughter the comet my wife was looking southwest and screamed "my name and what is that"! and as I turned and looked up we all saw this object just hovering and had 3 sets of lights below it and it was hovering just a little southwest of our garage near an Interstate. Then it seemed as though it knew we had discovered it and the UFO started to glide towards us and over our property and over the top of us and it was hugh.! It covered approx. 2 acres in size.These three lights were all under a triangular shaped craft, which seemed to rotate as they went.This triangular shaped craft glided silently over our entire yard and and a neighbors yard and had a violet to brownish amber color from the lights under it by then.I also noticed that there seemed to be a  like a "field" around the edges the triangle shaped craft, I say this because at the object passed over our heads the stars seemed to wiggle around the perhirphy of the outside circumference like heat stagger or like when you look out over the hood of your car on a hot sunny day, you see the heat rising off of it. Then the stars would disappear untill the object moved past us and stopped blocking the view of the stars.The National guard radar did not paint a target they told me, as i called them. but this triangle shaped craft suddenly moved faster than a jet plane as it left our area, and I wonder if there radar could even register that speed.This object was close, real close to us, like 1-200 feet above us, and all black.There was also no sound either before, during or after the sighting from the object.It gained enomous speed and curved north and east as it departed in a big hurry.We have not seen it since. I later contacted Dr. Stanton Friedman via e-mail and he suggested I report this. I have ponderd it for awhile before mentioning it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61408.html](http://www.nuforc.org/webreports/reports/061/S61408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
