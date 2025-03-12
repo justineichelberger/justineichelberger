@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:35 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:56 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockaway Beach (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>fast but steady moving light across the horizon perpendicular not up or downLooking eastward while unhooking a utility trailer, I looked up and it was a brighter moonlit night and just above a small mountain horizon running left to right (north to south) for about 30 seconds I watched a faster than airplane light moving and then before it went over the horizon the light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154241.html](http://www.nuforc.org/webreports/reports/154/S154241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Saint Joseph (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright orange lines that turned into balloon looking objectsAs I was closing the back door, I saw the two bright stars.  As I looked at them I also saw two bright orange lights like lines in the sky in the west moving to the east.  The orange lines appeared to be the size of large planes but had bright orange liights on the bottome of the plane from the nose to the tail.  I watched them as they came closed.  As they got almost overhead, the left one started disappearing but the right one (north side) turned into a large bubble or balloon.  I watched it go down as I looked to the northwest.  I could see it through the branches of a big tree.  I stood in amazement thinking I had seen a UFO.  Then in the west there was two more of the long orange lines.  Again I watched them.  The one on the right started going over my house and the one on the left turned into a big balloon.  I watched it go down as it disappeared on the other side of the house next door to me.  I'm sure it was much farther away but looked closer.  I di! d not hear any sounds that sounded like an airplane going over.  The orange lights were very bright.  I've looked several more times but have not seen any more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87626.html](http://www.nuforc.org/webreports/reports/087/S87626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
