@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ashtabula (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>First saw lights in sky (thru my high window) Object sitting still with lights 5 or 6? Down low--no sound I turned out light--it veered sharply, slowly to the right headed north eastward.  By the time ran to back door--it was gone.  Now have binoculars--am watching the sky at night.  This has made a believer out of me--UFO's do exist.I am considered to one who is interested in science the unusual and yet honestly I am considered a bit stange and different by others (whom I consider to be too normal). However--you can be assured that I do know what I saw was real and not a plane nor a helicopter.  I still do not know what it was but I am watching the skies now.  I am divorced, live alone in a 3rd floor apartment with large window that is nice for viewing the skies.  I study astrology--was studying psychology at KSU.  Recently the sky has been cloudy since 3/12 & I am watching at 10:10 pm each night to verify if there is a 10:10 flight pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03377.html](http://www.nuforc.org/webreports/reports/003/S03377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light briefly seen around Orion's beltI was looking up at the night sky on a clear night, around 9PM, March 12. I was staring at Orion's belt.  Between the stars "Meissa" and "Betelgeuse" I saw a bright white light.  I would say it quickly appeared like within 1 second, but it was not instantaneous.  It was a constant white light that did not flicker or distort in any way, and was about twice the size of the nearby stars.  It then moved between those 2 stars from right to left (west to east) within 2.5-3 seconds and then faded out as quickly as it had appeared.  It had no trail or anything typical of a "shooting star."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154188.html](http://www.nuforc.org/webreports/reports/154/S154188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
