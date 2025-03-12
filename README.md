@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:04 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Cumberland (PA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright red object spotted falling from sky at 22:06 pm on 3-12-2-016 in Cumberland County, PA.At 10:06 pm, on 3-12-2016, traveling east on the Pennsylvania Turnpike, about 1 mile from Exit 242, a bright red ball suddenly appeared in the sky coming from the north.  The ball was traveling at a fast pace, seemed to hover overhead then started to rise when it just vanished.  Photos were taken with a cell phone.  When photos were enlarged, ball actually appears to be a tear drop shape containing a bright white light, surrounded by a red exterior.  Prior to seeing the red object, there were two bright lightening type flashes that occurred about 2 miles from where the red object was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126348.html](http://www.nuforc.org/webreports/reports/126/S126348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Unusually shaped object flying over North Scottsdale.North Scottsdale, Arizona.  My wife and I had been observing the night sky and noticed something strange.  The object was flying from South to North.  We observed the object for about 20 seconds as we watched from the central courtyard of our house; the house prevented us from viewing any longer.I’ve seen the international space station fly over before and this was most definitely not the same viewing experience.This object seemed to be in the normal flight path, however, no visible navigation lights and the object was dimly lit, almost bluish.  It was cauliflower shaped and seemed to be tumbling end over end.Approximate altitude was 10-12,000 feet.My wife and I have over 60 years of combined (military and civilian) aviation experience and have not seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126390.html](http://www.nuforc.org/webreports/reports/126/S126390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
