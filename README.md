@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White light briefly seen around Orion's beltI was looking up at the night sky on a clear night, around 9PM, March 12. I was staring at Orion's belt.  Between the stars "Meissa" and "Betelgeuse" I saw a bright white light.  I would say it quickly appeared like within 1 second, but it was not instantaneous.  It was a constant white light that did not flicker or distort in any way, and was about twice the size of the nearby stars.  It then moved between those 2 stars from right to left (west to east) within 2.5-3 seconds and then faded out as quickly as it had appeared.  It had no trail or anything typical of a "shooting star."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154188.html](http://www.nuforc.org/webreports/reports/154/S154188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>5 stationary lights suspended above the ground North of Highway 98 in Destin, Fl. then disappearing one by one.My wife and I were driving back to our condo just after eating out.  We were eastbound on Hwy 98 in Destin, Fl. Having just left the restaurant which is at 21000 Emerald coast highway.  After driving about a half mile east, I happened to notice a series of lights to the north of the highway, hanging in the sky.  They were quite bright and stationary, so I thought they were probably some outdoor stadium lights.  They literally lit up the bottoms of some low clouds that were passing above them.  That’s when I realized they weren’t stadium lights, since they wouldn’t have projected upwards.  My wife also saw them and thought they were lights on top of a hill, then realized that there are no hills around here and wondered what they were. When I saw them, there were three lights, when she saw them, there were two , but then.another showed up to form a triangular light pattern, then two more showed up below and to the west of the first group.  We continued to drive east and talked about them.  At first I thought they were helicopters with their front lights on,  but as we drove along, they got neither closer nor farther away and also seemed suspended in one spot relative to one another.  Also, there was no familiar sound such as 5 helicopters would have made.  Here in Destin, helicopters are flying around all the time and there is no such thing as a silent flight of them. We continued to drive east, discussing what they might or might not be……all the time they were just hanging in the sky.  Finally we came to an intersection about two miles away at Matthew Road where I could pull off, which I did and turned into the parking lot of a service station.  I grabbed our FLIP camera, rolled down the window and started filming them.  Shortly after that, the lights began dimming, one by one, till they were gone from the sky as shown on the video. Some observations that are not apparent from the video:  The lights were VERY bright, lighting up the bottom of the clouds more than is apparent in the video  They were absolutely stationary relative to our position, even though we drove over two miles on the ground as we observed them. The lights were also sharper and better defined than on the video.    That’s about it.  We leave the rest of it up to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74664.html](http://www.nuforc.org/webreports/reports/074/S74664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
