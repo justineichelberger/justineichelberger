@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:21 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On the date of 3-12-00, A friend and I was outside in front of DENY'S in Simi Valley. When at 1:19 am in the moring when we both seened a Fire ball in the South-West sky which looked like a meteor then changed shape and hover above us.On the moring of 03-12-00, I was waiting outside in front of Denny's located at 590 E Los Angeles Av. Simi Valley, Ca. for a friend to show up, which she did at 1:19 pm. At that moment, we both seen a white/orange fire ball with a tail approx. 20 times longer the the Dim. of the object in the South-west sky heading toward us. To me, it looked like a meteor going through the lower atmosphere,or an airplane with it's wing on fire. This lasted approx. 2 minutes. then the odject turn into a white dot with a blue haze around it and slowed down very fast. That this point the odject was almost above us in the clear early morning sky. Then the odject stop above us at a high altitude for approx. 3 to 4 minutes it turn into a hazes red ball, and faded away into the morning sky. .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12259.html](http://www.nuforc.org/webreports/reports/012/S12259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bethlehem (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Orange triangle.Tonight, a Flaming triangle flew over my house making no sound,  It appeared to be a orange in color but the back end appeared to be flaming and the front looked pointed.  It's cloudy here and I could see it clearly so it was under the clouds.  It kept on a straight and level path.  I was startled but it kept moving away, so I called my daughter to come see it...  I listen to you on the Rense Network.  If you have any questions please use my email.  Thank You.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96721.html](http://www.nuforc.org/webreports/reports/096/S96721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
