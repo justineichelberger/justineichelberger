@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:21 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bradley (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>i saw what appeared to be a large triangular shaped object floating in the sky.i was walking my dog harley around 10 pm on 3/12 when all the sudden my pitbull became quite aggitated and began barking upward and toward the northeast of my position when i looked up i didnt really see anything at first but then it was almost as if the craft tilted toward me and i could then see the outline of the craft and the lights below they we're a white and yellow mix in color it must have been putting off some kind of high pitch sound that i couldnt hear but that my dog could because he was going nuts just like when i blow a dog whistle the craft just hoovered over a field near a big industrial complex for about 60 or 70 secs it almost appeared to me like it was searching for something because it kept tilting from left to right and moving very slowly i would guess the craft was about 1/2-3/4 of a mile away from me when the craft did depart it rose staight up maybe a mile and started slowly moving south southeast from where i was i have never seen anything like this before but i have seen something like it since about two nights ago i was outside with a friend when we noticed several lights coming out of the north from chicago i and he watched these lights for approx 2 the first set to pass over us had what appeared to be about 10 lights on its belly 5rows of 2 and it made absolutly no noise when it went over it could not have been more than a 1/2 mile up because it was cloudy that night with only 1/2 visibility but the next two sets of lights to pass over we're jets very noisey and fast moving and they we're criss crossing each others patterns thats all i know i hope this info is somehow beneficial to you and i hope i never see anything like that again it really scares me know that i have had all this time to think about it good luck in your vetures and god bless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06177.html](http://www.nuforc.org/webreports/reports/006/S06177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On the date of 3-12-00, A friend and I was outside in front of DENY'S in Simi Valley. When at 1:19 am in the moring when we both seened a Fire ball in the South-West sky which looked like a meteor then changed shape and hover above us.On the moring of 03-12-00, I was waiting outside in front of Denny's located at 590 E Los Angeles Av. Simi Valley, Ca. for a friend to show up, which she did at 1:19 pm. At that moment, we both seen a white/orange fire ball with a tail approx. 20 times longer the the Dim. of the object in the South-west sky heading toward us. To me, it looked like a meteor going through the lower atmosphere,or an airplane with it's wing on fire. This lasted approx. 2 minutes. then the odject turn into a white dot with a blue haze around it and slowed down very fast. That this point the odject was almost above us in the clear early morning sky. Then the odject stop above us at a high altitude for approx. 3 to 4 minutes it turn into a hazes red ball, and faded away into the morning sky. .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12259.html](http://www.nuforc.org/webreports/reports/012/S12259.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
