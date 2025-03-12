@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One Bright  Orange/ Red Light - Diminishing Straight Up Into Outer Space.At 0133 hrs. on 03-12-03 I observed a bright orange/red light in the western sky.  The light was much brighter than any star in the sky.  I watched the light for a couple of minutes.  The bright light suddenly appeared to diminish straight up into outer space.  End Of Report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28095.html](http://www.nuforc.org/webreports/reports/028/S28095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ashtabula (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>First saw lights in sky (thru my high window) Object sitting still with lights 5 or 6? Down low--no sound I turned out light--it veered sharply, slowly to the right headed north eastward.  By the time ran to back door--it was gone.  Now have binoculars--am watching the sky at night.  This has made a believer out of me--UFO's do exist.I am considered to one who is interested in science the unusual and yet honestly I am considered a bit stange and different by others (whom I consider to be too normal). However--you can be assured that I do know what I saw was real and not a plane nor a helicopter.  I still do not know what it was but I am watching the skies now.  I am divorced, live alone in a 3rd floor apartment with large window that is nice for viewing the skies.  I study astrology--was studying psychology at KSU.  Recently the sky has been cloudy since 3/12 & I am watching at 10:10 pm each night to verify if there is a 10:10 flight pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03377.html](http://www.nuforc.org/webreports/reports/003/S03377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
