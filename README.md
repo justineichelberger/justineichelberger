@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Red Rock Canyon (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 flashing and moving objects over Red Rock Canyon.((NUFORC Note:  We are uncertain as to whether this report is intended as a serious-minded account of a sighting.  PD))One bright light that I was trying to locate with my sky view app and could not recognize as I got behind the wheel I handed the phone to my 10 yr old to try to identify the Very bright light my thought it was probably a planet again my sky view app could not identify the bright light my detection was facing west into Red Rock canyon and 3 flashing lights were in formation flashing blue and red I saw some green my son said red and blue &#128547; I was trying to exit and snap a picture but flashing lights were moving east into the city I can't explain never saw anything coming out of the dark canyon at that hour I lost sight ... Air Force maybe I don't know but what ever was in control of the objects were pro in the formation and coordination &#128533; did anyone one else experience this tonight((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117751.html](http://www.nuforc.org/webreports/reports/117/S117751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Council Grove (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashing red and green lights hovering in the skyI was sitting on my couch chatting on messenger, and my curtains were moved to the side because my cat had been playing in the window.  I looked out the window because I am facing the window and saw a flashlight red and bluish green light.  There was no sound outside at all. I watched the flashing lights curiously.  I saw the blue light disappear and then the rest light hovered, got a little brighter then went sideways in the sky.  These lights were low in the sky.  Then they disappeared.  I got up and looked out and saw nothing. Still no sound in the sky.  I closed my curtains, feeling a little freaked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154153.html](http://www.nuforc.org/webreports/reports/154/S154153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
