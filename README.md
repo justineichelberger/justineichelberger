@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark triangular craft with white light on each point and large white light in middle.My boyfriend is sane and sober so when he phoned me immediately to tell me about this, I believed him.  I’m hoping someone else in the area has witnessed the same, for it was so very conspicuous. It was late at night when he was on his balcony (facing south) and off to the west, in the distance, approached what looked like a helicopter with a searchlight.  As it drew closer, he realized this was nothing man-made.  It drifted in a straight line ever so casually over the trees across the parking lot in front of him heading toward Oshawa. It was somewhat larger than a bus. He described it as triangular with a small white light on each point.  In the middle was a massive white light but with no beam coming off it.  The ship was darker than the sky behind it and the lights on it reflected faintly on the underside of the ship.  It made absolutely no sound. I don’t know if this is significant, but the next day he found a burn mark on his left shoulder the size of his thumb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55746.html](http://www.nuforc.org/webreports/reports/055/S55746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Raymore (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.45 - 0.45 minutes.</sub><blockquote><sub>Blinking light, heading North, appeared to be cylinder like.Looked up in the sky and noticed a blinking light, traveling from the south, shape appeared to be cylinder like.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145178.html](http://www.nuforc.org/webreports/reports/145/S145178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
