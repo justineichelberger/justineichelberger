@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (Ahwatukee) (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : Sighted red to white horizontal line on the north west horizon. As the object got closer it looked like a 5 light triangle. It passed over head and diasppeared into the south east horizon in about 10 to 15 minutes.The object was first spoted by ((name deleted)) at approximately 2015 on 3/13/97.  The object was seen on the northwestern horizon.  It appeared as a horizontal line with a red glow.  We arrived home and got some binoculars to see what it was.By this time it had changed color to a brilliant white and was in the shape of a triangle.  The best discription at this time was the leading edge of the B2 bomber.  A light on the nose, one on either side and toward the back, then one moreon either side spaced farther back than the first pair.  There were five lights in all.  The object moved from the northwest to the southeast, almost directly over head of our house.  As it moved across the sky is believe I was able to seethe stars between the light formation.  We tried to hear a sound from the objects, thinking it might be helicopters flying in formation, but there was no strobe or red and green marker lights.  The formation of the five objects did not changeas you would expect from aircraft.  There was no change in spacing, no noise and it was as bright overhead as it was comming or going.  We could not tell how high the objects were, but while discussing what we saw the next day we realized thatwe might have see these objects while they were over Prescott because they started out red then changed to white while over Phoenix.  We do not have any explanation for what we saw, but we both saw something we've never seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02070.html](http://www.nuforc.org/webreports/reports/002/S02070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Unexplained Arizona SightingAt approximately 8:45PM I went the front yard of my Phoenix home which is located in the southern part of the city, an area called Ahwatukee. I looked to the east and saw a very strange looking craft flying (?) very slowly in the sky. It was moving away I assume as it was getting smaller. It was very visible against the Superstition Mountains. It moved slowly from north to south and back again in what appeared to be a ric-rac pattern. It was quite large, I agree with the others who put their arm up and measured with a closed fist. It appeared triangular in shape, I related it to a "squashed" pyramid. I saw three very bright white lights, one in each corner and one at the top of the  "pyramid".  In the center was a very, very bright pulsating red light, bigger in circumference than the three white lights. I would describe the white lights as three powerful strobe lights. We watched the object for several minutes and we amazed that something that large could move so gracefully! and so silently. We could hear no sound at all. It gradually faded into the south east sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02514.html](http://www.nuforc.org/webreports/reports/002/S02514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
