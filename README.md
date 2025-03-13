@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orange Park (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright object comes up from behind trees hovering over the water.Son wakes me up at 5 in the morning.  Catching a bright pulsing object hovering in the sky. Had a red beam at the bottom.  Then 15 minutes later a flashing ball of lughts shoots pass the object in a circular motion.  All caught on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107846.html](http://www.nuforc.org/webreports/reports/107/S107846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a very fast moving light heading due north along Puget Sound at approximately 11:30 PM March 13 2001.Approx. 11:30PM, looking due west from Normandy Park, just south of Seattle I saw a very fast moving light heading due north right over Puget Sound, it was low against the horizon and my guess is 5000-8000 ft high.  I am in the Air and Ocean Freight business and have worked around Sea-Tac Airport for 25 + years.  This was not a commercial Aircraft, it was moving way to fast and there was a single light, no blinkers.  If I was to guess I would say it was moving at close to 1000 Knots, was too low to be a sattelite and made no noise whatsoever.((NUFORC Note:  We spoke at length over the telephone, and we found him to be an unusually credible witness.  He is very experienced at looking at, and identifying aircraft, and he was adamant that what he saw was not a conventional aircraft.  He mentioned that the time he first indicated was only an estimate.  We have corrected the time to what we feel is a more accurate time for the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16830.html](http://www.nuforc.org/webreports/reports/016/S16830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
