@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cass City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My dad and mom was comming home from town after a stop at a grocery store in caro, they head east on deckerville rd. then turned left(north) down phillips rd. for two miles and then all of the sudden the lights came on, It was hovering over a 80 acer woods about three hundred feet above. the woods was a good half mile from road. My dad said it looked so big that it might have been a mile wide. when the lights came on they said it looked like a christmas tree red,blue,green,yellow lights. my mom saw vit first, and said what is that, dad looked and said lets get home, they were scared, they headed home, only one mile from sighting got out of car look around, did not see anything for two minutes, then all of a sudden looking tords town (cass City) north east above town they saw lights, then military jets flu by. that same night at the same time in town my sister who lives in town was letting the dog out saw the object hover slowly going north the who time over the town of cass city michigan, she got scared and ran back in. that was the same knight of the lights in Arazona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36711.html](http://www.nuforc.org/webreports/reports/036/S36711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Coxsackie (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Went outside on the porch to smoke a cigarette looked up into the sky. And there I saw a white flash. Too big for a shooting star.  Disappeared into the cloudy sky.  I do not do drugs nor a drinker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154159.html](http://www.nuforc.org/webreports/reports/154/S154159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
