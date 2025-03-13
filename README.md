@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:12 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jacksonville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Large wing shaped mother ship with over 80 small craft  formationIt was going on 9:30..im always looking in the sky at night and i finally seen what my wifes been talking about. This UFO appeared to be in space..it was very dim but very visible to the naked eye, it  appeared to be the mother ship for what was to come. The shape of the craft resembled that of a wing. It just lookied like a huge wing. judging by the distance it was at, i beileve this ufo was miles long. A 747 flys a 32,000 feet. This object was in space and completely dwarved what planes look like in the sky. It crossed the sky in about 15 seconds. Within an hour this ufo was seen twice. Also, with and without the "mothership" there were massive formations. They were in Formations resembeling the "mothership". there were about 8 different goose like formations each consisting of 8 to 9 craft. to creat one massive formation. The awesome part was. When it was directly above us in the clearest part of the sky, you can actually see individual craft drifting in and out of formation. these formations crossed the entire sky south to north within 15 seconds. FYI My wife and i are completely aware of what airplanes look like, what stars look like, and what satilites look like in orbit. This incident consited of none of the above. This happens every single night. several times a night. Something is going on in the NC skys. i HIGHLY SUGGEST A PROFESSIONAL COME AND CHECK THIS OUT!..like i said..it happens everysingle night. I am far to lazy to make a report everyday. THIS should be taken seriosly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55709.html](http://www.nuforc.org/webreports/reports/055/S55709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cass City (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>My dad and mom was comming home from town after a stop at a grocery store in caro, they head east on deckerville rd. then turned left(north) down phillips rd. for two miles and then all of the sudden the lights came on, It was hovering over a 80 acer woods about three hundred feet above. the woods was a good half mile from road. My dad said it looked so big that it might have been a mile wide. when the lights came on they said it looked like a christmas tree red,blue,green,yellow lights. my mom saw vit first, and said what is that, dad looked and said lets get home, they were scared, they headed home, only one mile from sighting got out of car look around, did not see anything for two minutes, then all of a sudden looking tords town (cass City) north east above town they saw lights, then military jets flu by. that same night at the same time in town my sister who lives in town was letting the dog out saw the object hover slowly going north the who time over the town of cass city michigan, she got scared and ran back in. that was the same knight of the lights in Arazona.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36711.html](http://www.nuforc.org/webreports/reports/036/S36711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
