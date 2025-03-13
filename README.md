@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 12 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Viewed Cigar 2 light object change into a Complete triangle With 3 lights.3/12/10 Approx Time of 07:56 PM Lasted 5mins Weather: Clear. Wind about 5-10 Mph  Me And My Wife Were Traveling West On Buffalo Road That Evening And we both witnessed  a comet like object falling from the sky with a very bright white light emitting from it. Then a few seconds later the object Stopped emitting the light and the light started up again but it jumped in the sky the. left and right before going blank to no lights.  Me and my wife came upon were the object was about 1 Mile up buffalo Road at the intersection of buffalo Rd and McClelland Ave.  We seen two red lights side by side hovering in the air without any noise or movement then a 3 light that was white appeared and the view of a giant triangle took place.  While my wife was driving I opened up the sunroof and we drove under the craft.  It was Amazing seeing something odd and big Without any noise.  We passed under the object and about 30 seconds went by and the lights were gone. Thank you for your time and I hope More people come forward with information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74635.html](http://www.nuforc.org/webreports/reports/074/S74635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yokohama (Japan) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO Swarm, Minato Mirai, Yokohama, Japan, 13 MARCH 2011 @ 15:37 (JST)Witnessed approximately 10 to 15 small craft, hovering, and also moving very slowing, appeared to be a flock of birds at first, but after closer examination, they looked almost as if small stars, either reflecting the afternoon sun, or generating their own light.  First thought they were a flock of birds, because a small Piper Cub or Cessna, which was passing by at probably a few thousand feet under VFR, suddenly revved its engine, which caused me to look up, and then I noticed what appeared to be a flock of birds, directly in it's path, so I mention to my friend, that the Cessna  was probably trying to avoid that flock of birds, but my stated they weren't birds.  So subsequently, I took out my camera, and started to try to zoom in on the objects, but because the sky was bright, was unable to film the entire even, which lasted, approximately, 3 to 5 minutes.  But did manage to capture approximately 10 or 12 frames, with the lights, objects clearly visible.  The object, subsequently, slowing drifted approximately, 15 or 20 degrees, across my line of sight, then slowing gained elevation, until they were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80455.html](http://www.nuforc.org/webreports/reports/080/S80455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [340](http://www.nuforc.org/webreports/reports/162/S162377.html)
-- [339](http://www.nuforc.org/webreports/reports/162/S162355.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162367.html)
-- [337](http://www.nuforc.org/webreports/reports/163/S163469.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
