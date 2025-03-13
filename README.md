@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>A spaceship flys through the sky in a V shape.It was about 9:00 pm and I saw this V shaped thing with lights on the bottom.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We suspect that he may be alluding to the events of March 13, 1997, so we have changed the date above.  We will write to request more information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54463.html](http://www.nuforc.org/webreports/reports/054/S54463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO over Phoenix 1997I just saw the show on tv called UFO over Phoenix or something similiar speaking about flares from airplanes. I lived around 35th ave and deer valley at the time and was 16-17.  I was jokingly looking through a cardboard telescope I had made at the sky when I saw the v shaped UFO.  If I recall the lights looked red, not sure if they even were testing stealth bombers at the time. I for a fact saw the v shaped lights and saw it very slowly fly over my house.  It was also completely silent. I pointed for my mom to look and she saw it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64542.html](http://www.nuforc.org/webreports/reports/064/S64542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
