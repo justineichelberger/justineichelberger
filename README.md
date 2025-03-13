@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tumwater (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A brilliant gold light over the Black Hills in the west. It did not move and remained there for 20 minutes then dissapppeared.A brilliant golden light was observed over the Black Hills, facing west from Tumwater. I went out to take the dog to a field in the evening and while I waited for her to do her thing I observed this brilliant large golden light. It did not move. It sometimes seemed to pulse. I had never seen a light like this over this hill. It was not like some house light or beacon light- it was very large and very bright. I went inside and got my binnoculars and called 2 people to come out and join me on my deck to see it. We all observed it through the binnoculars but could not discern a specific shape as the light was too bright, obfuscating any shape. I went back inside for about 5 minutes and when I came back out it was gone.((NUFORC Note:  If the witnesses were looking west, as they faced the object, we believe that Venus is a possible explanation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35626.html](http://www.nuforc.org/webreports/reports/035/S35626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (Ahwatukee) (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Summary : Sighted red to white horizontal line on the north west horizon. As the object got closer it looked like a 5 light triangle. It passed over head and diasppeared into the south east horizon in about 10 to 15 minutes.The object was first spoted by ((name deleted)) at approximately 2015 on 3/13/97.  The object was seen on the northwestern horizon.  It appeared as a horizontal line with a red glow.  We arrived home and got some binoculars to see what it was.By this time it had changed color to a brilliant white and was in the shape of a triangle.  The best discription at this time was the leading edge of the B2 bomber.  A light on the nose, one on either side and toward the back, then one moreon either side spaced farther back than the first pair.  There were five lights in all.  The object moved from the northwest to the southeast, almost directly over head of our house.  As it moved across the sky is believe I was able to seethe stars between the light formation.  We tried to hear a sound from the objects, thinking it might be helicopters flying in formation, but there was no strobe or red and green marker lights.  The formation of the five objects did not changeas you would expect from aircraft.  There was no change in spacing, no noise and it was as bright overhead as it was comming or going.  We could not tell how high the objects were, but while discussing what we saw the next day we realized thatwe might have see these objects while they were over Prescott because they started out red then changed to white while over Phoenix.  We do not have any explanation for what we saw, but we both saw something we've never seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02070.html](http://www.nuforc.org/webreports/reports/002/S02070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
