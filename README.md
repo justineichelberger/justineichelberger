@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:47 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information; elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133111.html](http://www.nuforc.org/webreports/reports/133/S133111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Summary : 5 BRIGHT orange lights flying in a V formationAround 7:30 p.m. my husband first observed 1 light moving across the sky in a SW direction.  No flashing lights just steady.  I saw it also.  30 min later he was looking NW in the Hale-Bopp comet direction and saw a fuzzy light above the horizon.  Too late for the comet so we got a pair of binoculars and WOW.  5 BRIGHT orange lights in a V formation.  Not moving at first and then they were moving very slowly.  We went to get a better view and they were gone!  Where we live they would have been flying over the Lake Mead area .  Possibly Red Lake.   My husband and I are in our 40's.  We own a taxidermy business.  We are interested in astronomy so we are usually looking at the sky.  We know a plane from something wierd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02058.html](http://www.nuforc.org/webreports/reports/002/S02058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
