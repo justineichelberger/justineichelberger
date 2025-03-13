@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yokohama (Japan) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO Swarm, Minato Mirai, Yokohama, Japan, 13 MARCH 2011 @ 15:37 (JST)Witnessed approximately 10 to 15 small craft, hovering, and also moving very slowing, appeared to be a flock of birds at first, but after closer examination, they looked almost as if small stars, either reflecting the afternoon sun, or generating their own light.  First thought they were a flock of birds, because a small Piper Cub or Cessna, which was passing by at probably a few thousand feet under VFR, suddenly revved its engine, which caused me to look up, and then I noticed what appeared to be a flock of birds, directly in it's path, so I mention to my friend, that the Cessna  was probably trying to avoid that flock of birds, but my stated they weren't birds.  So subsequently, I took out my camera, and started to try to zoom in on the objects, but because the sky was bright, was unable to film the entire even, which lasted, approximately, 3 to 5 minutes.  But did manage to capture approximately 10 or 12 frames, with the lights, objects clearly visible.  The object, subsequently, slowing drifted approximately, 15 or 20 degrees, across my line of sight, then slowing gained elevation, until they were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80455.html](http://www.nuforc.org/webreports/reports/080/S80455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information; elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133111.html](http://www.nuforc.org/webreports/reports/133/S133111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
