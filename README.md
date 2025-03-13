@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Unexplained Arizona SightingAt approximately 8:45PM I went the front yard of my Phoenix home which is located in the southern part of the city, an area called Ahwatukee. I looked to the east and saw a very strange looking craft flying (?) very slowly in the sky. It was moving away I assume as it was getting smaller. It was very visible against the Superstition Mountains. It moved slowly from north to south and back again in what appeared to be a ric-rac pattern. It was quite large, I agree with the others who put their arm up and measured with a closed fist. It appeared triangular in shape, I related it to a "squashed" pyramid. I saw three very bright white lights, one in each corner and one at the top of the  "pyramid".  In the center was a very, very bright pulsating red light, bigger in circumference than the three white lights. I would describe the white lights as three powerful strobe lights. We watched the object for several minutes and we amazed that something that large could move so gracefully! and so silently. We could hear no sound at all. It gradually faded into the south east sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02514.html](http://www.nuforc.org/webreports/reports/002/S02514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Northwest Baja (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BRIGHTLIGHT MOVING NORTH NO TRAIL MOVED NORTH FOR 20 MIN.THEN TURNED EAST FOR 10MIN. THEN FADED OUT OF SITE.......((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69190.html](http://www.nuforc.org/webreports/reports/069/S69190.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
