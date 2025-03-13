@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:12 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Northwest Baja (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BRIGHTLIGHT MOVING NORTH NO TRAIL MOVED NORTH FOR 20 MIN.THEN TURNED EAST FOR 10MIN. THEN FADED OUT OF SITE.......((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69190.html](http://www.nuforc.org/webreports/reports/069/S69190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jacksonville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Large wing shaped mother ship with over 80 small craft  formationIt was going on 9:30..im always looking in the sky at night and i finally seen what my wifes been talking about. This UFO appeared to be in space..it was very dim but very visible to the naked eye, it  appeared to be the mother ship for what was to come. The shape of the craft resembled that of a wing. It just lookied like a huge wing. judging by the distance it was at, i beileve this ufo was miles long. A 747 flys a 32,000 feet. This object was in space and completely dwarved what planes look like in the sky. It crossed the sky in about 15 seconds. Within an hour this ufo was seen twice. Also, with and without the "mothership" there were massive formations. They were in Formations resembeling the "mothership". there were about 8 different goose like formations each consisting of 8 to 9 craft. to creat one massive formation. The awesome part was. When it was directly above us in the clearest part of the sky, you can actually see individual craft drifting in and out of formation. these formations crossed the entire sky south to north within 15 seconds. FYI My wife and i are completely aware of what airplanes look like, what stars look like, and what satilites look like in orbit. This incident consited of none of the above. This happens every single night. several times a night. Something is going on in the NC skys. i HIGHLY SUGGEST A PROFESSIONAL COME AND CHECK THIS OUT!..like i said..it happens everysingle night. I am far to lazy to make a report everyday. THIS should be taken seriosly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55709.html](http://www.nuforc.org/webreports/reports/055/S55709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
