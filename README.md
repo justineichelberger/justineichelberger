@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO over Phoenix 1997I just saw the show on tv called UFO over Phoenix or something similiar speaking about flares from airplanes. I lived around 35th ave and deer valley at the time and was 16-17.  I was jokingly looking through a cardboard telescope I had made at the sky when I saw the v shaped UFO.  If I recall the lights looked red, not sure if they even were testing stealth bombers at the time. I for a fact saw the v shaped lights and saw it very slowly fly over my house.  It was also completely silent. I pointed for my mom to look and she saw it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64542.html](http://www.nuforc.org/webreports/reports/064/S64542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Orange Park (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright object comes up from behind trees hovering over the water.Son wakes me up at 5 in the morning.  Catching a bright pulsing object hovering in the sky. Had a red beam at the bottom.  Then 15 minutes later a flashing ball of lughts shoots pass the object in a circular motion.  All caught on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107846.html](http://www.nuforc.org/webreports/reports/107/S107846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
