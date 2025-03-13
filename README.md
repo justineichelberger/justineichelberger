@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately steady - steady minutes.</sub><blockquote><sub>3 long silver cylinders not moving placed like in a half moon shapeOn March 13, 2019, approximately 6:30pm I was driving west in the Spokane Valley, WA, and saw 3 cylinder objects in the sky.  I thought they were jets at first but could see that they were not because they were long silver cylinders in shape and not moving with lights.  There was no white smoke coming from them either like jets.  The 3 long cylinders were placed in a half moon shape.  The sky was clear.  I noticed off to the left but looked far from them was a jet for sure because it had a trail of white smoke.  I was concerned and went home as fast as I could.  Called my brother about it and he told me to report it on your sight.  Do you know what these cylinders are?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145156.html](http://www.nuforc.org/webreports/reports/145/S145156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New Braunfels (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Huge black triangle with 7 lights, very silent, right above trees.March 13, 1997 about dusk I was coming in from the grocery store when I noticed an unusually bright light just above the trees close to home here north of San Antonio, TX. We live under the flight path from Austin to San Antonio and out in the country. I just figured it was an airplane. I watched it get brighter and brighter as it approached. Then I saw that it was a black triangular shape. It looked HUGE as it passed slowly and silently over me. I stopped the car and got out to watch and study it, as I had never seen anything like it.  I wanted to memorize every detail. It was close enough that I could see that it had lights recessed under the wings and they were of different colors.  There were 4 down one wing and 3 down the other. I watched till it disappeared behind the trees, heading west.  Oddly I didn’t feel any fear of it, only intense curiosity. I went home and told my husband who just kind of blew me off so I didn’t mention it again.During the night I got up with the baby and had the radio on.  When I heard the news of the lights appearing above Phoenix I just knew that this was what I had seen earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55754.html](http://www.nuforc.org/webreports/reports/055/S55754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
