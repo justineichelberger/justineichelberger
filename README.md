@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:02:21 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was about 1:35 in the morning,and i wasspending the night at a friends house, wegot bored because there was nothing to do,so we went outside and were walking aroundtalking for about 10 Minutes and i look upand there is a very, very small light slowlycreeping along, so i told my friend, and hesaid its nothing, so thats when i thought,then it started getting bigger, and bigger,so i told told my friend again that it issomething, and not a star, then he looked atit again  and said i was right it wasnt awe both kept walking, then it just all of ajust lit up very bright, and started movingin an oval pattern, then it lit up evenbrighter than before, stopped, and shot dimbeam of light from the underside. About thattime i said "Name deleted)), we better go, NOW!!"And the whole time we were running back hishouse it kept up with us, we sat in his roomand watched if for five more minutes beforeit just shot off at an unbelievable speednorth. and that was the last time either ofus ever saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02313.html](http://www.nuforc.org/webreports/reports/002/S02313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Halifax (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately STILL THERE - STILL THERE minutes.</sub><blockquote><sub>Two lights moving in the sky, viewed in the sky (looking south) from village of Shelf in Halifax, England.  They are both like oval shaped beam lights, but with no source, and they are moving independently from the other.   They are going from left to right and moving diagonally.  They have so far been there for about half an hour and are still there.  They look to be in the distance, miles away, but can be clearly seen nevertheless.  Our neighbour drew them to our attention.  We told another neighbour and together we have watched them for some minutes.  We keep checking from the window and they are still there.  We don't know who to contact about them and this is the only place we've found, but you're too far away!  Still, at least they're reported now.  I don't possess anything to video or photograph them with (my camera not powerful enough for such a situation). Regards ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62189.html](http://www.nuforc.org/webreports/reports/062/S62189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
