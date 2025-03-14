@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:09 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>7/14/07 Craft sighting 10:40 on Sepulveda Blvd near Veterans Cemetary,Los Angeles, partially cloaked and hovering.On Wednesday, March 14, 2007, at 1040, I was heading south on Sepulveda Blvd, in the vicinity of the Veteran's Cemetary. At the time of the sighting, I was at a stop light when I saw an odd reflection in the windshield of the car. When I looked up, I saw the leading edge of a spacecraft which appeared to be heading west. The craft was about 25 feet in diameter, hovering slowly. I do not recollect seeing any color but remember that the portion I did see looked darker than the rest. There was a shimmery effect over most of the craft. It looked similar to the creature in the movie Predator. Could that have been an effect of "cloaking"?  I remember thinking the craft was round even though I could not see all of it. I did not see any lights, hear any noise from it, nor did it disappear. Unfortunately, the light changed to green and I was forced to move on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55741.html](http://www.nuforc.org/webreports/reports/055/S55741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in N. Judson (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports sighting. ( Facts unclear; no return call.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00355.html](http://www.nuforc.org/webreports/reports/000/S00355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
