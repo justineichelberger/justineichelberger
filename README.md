@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Halifax (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately STILL THERE - STILL THERE minutes.</sub><blockquote><sub>Two lights moving in the sky, viewed in the sky (looking south) from village of Shelf in Halifax, England.  They are both like oval shaped beam lights, but with no source, and they are moving independently from the other.   They are going from left to right and moving diagonally.  They have so far been there for about half an hour and are still there.  They look to be in the distance, miles away, but can be clearly seen nevertheless.  Our neighbour drew them to our attention.  We told another neighbour and together we have watched them for some minutes.  We keep checking from the window and they are still there.  We don't know who to contact about them and this is the only place we've found, but you're too far away!  Still, at least they're reported now.  I don't possess anything to video or photograph them with (my camera not powerful enough for such a situation). Regards ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62189.html](http://www.nuforc.org/webreports/reports/062/S62189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medilia (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White lights moving fast over medilia minnesota2 people witnessed at least 6 lights flying over medilia they were equally spaced flying very fast and they all disappeared in the same spot</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154193.html](http://www.nuforc.org/webreports/reports/154/S154193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
