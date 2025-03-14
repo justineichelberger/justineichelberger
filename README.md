@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:29 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hale (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 or 3 star like objects in night sky, but not stars or satellites.  Kept moving back and forth/up and downWoke up at quarter or so after midnight to use bathroom.  Back in bed curtain to window was open and a weird twinkle in sky caught might eye.  Immediately got a feeling of strangeness and got up to look: thought these were bright stars or satellites, but they kept blipping then moving back and forth quickly with very tiny lights that would flash next to them.  Would also move up and down.  I watched for a few minutes to make sure what I saw was not aircraft or tricks on my eyes.  Definitely ufo of some kind.  The light they emitted was strange, like a star but would almost go a dark blue opalescent but I could see it against the blackness of the dark sky.  Two craft but I might have seen 3.  To be honest I lost interest because it was unique but no one else to share experience.  But still in my mind  I figured I would report.  South west direction, mid to low in sky.  Too bright to be stars that would be there, I know the night sky well and I’ve never seen bright stars! in that area of sky.  Not to mention moving back and forth and overall strange feeling it gave me that this was not normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154173.html](http://www.nuforc.org/webreports/reports/154/S154173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sterling (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Triangular glow races across Michigan sky on 3-14-2012 at around 11 pmI saw a massive triangle that had a hazy glow travelling North West at an incrededible speed.  It travelled in a straight line and went across the sky so fast that had I not been looking up into the sky I would have missed it. It took about 3 seconds to travel over half the distance of the sky before it dissappeared.  My 10 year old son saw it before me but I can not attest to what exactly he saw.  I have played this over in my head a hundred times and it seemed that this object was way up in the upper atmosphere.  This makes no sense.  It had to have been thousands of feet across to be seen from the ground.  There is no possible way this object was man made.  It travelled way too fast. I have been trying to come up with a different explanation for what I saw but I have come to the same conclusion that I had as it appeared and disappeared the night before last.  This was an aircraft not of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87712.html](http://www.nuforc.org/webreports/reports/087/S87712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
