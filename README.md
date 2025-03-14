@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Falls Church (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>At 2:10am, March 14, 2001, 2 dimly lit craft observed mirroring one anothers movements 8mi. west of the Washington Monument.At approximately 2:10am, Wednesday, March 14,2001, I observed 2 incredibly fast light sources moving North to South. They were at an altitude of less than 1000ft. and were both dimly lit with at least 15 white lights each. I could not distinguish either objects form due to their incredibly fast speed. Generally they mirrored one anothers movements but clearly the craft on the East side was jumping to the East as much as 100ft. and changing its altitude 100ft. simultaneously without any overt sign of acceleration yet jumped back to mirror the general flight path of the craft to its immediate West. Both crafts appeared to move effortlessly and the only sound I could distinguish was a slight whishing noise when they were almost directly overhead. I am a former ((one word deleted)) Investigator(GS-1((digits deleted)) with an Executive agency of the U.S. Government and served as a member of an elite recon unit in Viet Nam during the war. My military job(MOS) was that of an ((one word deleted)) Recon Specialist(11D) and I consider myself an effective observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16833.html](http://www.nuforc.org/webreports/reports/016/S16833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in N. Judson (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports sighting. ( Facts unclear; no return call.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00355.html](http://www.nuforc.org/webreports/reports/000/S00355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
