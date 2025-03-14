@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Coquitlam (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I saw a bright object very high in the night sky. It just appeared and the light entensified to about five times larger than the brightest star. After the bright object shot straight out until the light dissapeared. It took about five seconds to dissapear. It appeared that it accelated upwards and out of site.((NUFORC Note:  We suspect a sighting of an Iridium satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42969.html](http://www.nuforc.org/webreports/reports/042/S42969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was about 1:35 in the morning,and i wasspending the night at a friends house, wegot bored because there was nothing to do,so we went outside and were walking aroundtalking for about 10 Minutes and i look upand there is a very, very small light slowlycreeping along, so i told my friend, and hesaid its nothing, so thats when i thought,then it started getting bigger, and bigger,so i told told my friend again that it issomething, and not a star, then he looked atit again  and said i was right it wasnt awe both kept walking, then it just all of ajust lit up very bright, and started movingin an oval pattern, then it lit up evenbrighter than before, stopped, and shot dimbeam of light from the underside. About thattime i said "Name deleted)), we better go, NOW!!"And the whole time we were running back hishouse it kept up with us, we sat in his roomand watched if for five more minutes beforeit just shot off at an unbelievable speednorth. and that was the last time either ofus ever saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02313.html](http://www.nuforc.org/webreports/reports/002/S02313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
