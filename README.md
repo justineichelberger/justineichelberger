@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sterling (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Triangular glow races across Michigan sky on 3-14-2012 at around 11 pmI saw a massive triangle that had a hazy glow travelling North West at an incrededible speed.  It travelled in a straight line and went across the sky so fast that had I not been looking up into the sky I would have missed it. It took about 3 seconds to travel over half the distance of the sky before it dissappeared.  My 10 year old son saw it before me but I can not attest to what exactly he saw.  I have played this over in my head a hundred times and it seemed that this object was way up in the upper atmosphere.  This makes no sense.  It had to have been thousands of feet across to be seen from the ground.  There is no possible way this object was man made.  It travelled way too fast. I have been trying to come up with a different explanation for what I saw but I have come to the same conclusion that I had as it appeared and disappeared the night before last.  This was an aircraft not of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87712.html](http://www.nuforc.org/webreports/reports/087/S87712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 5760.0 - 5760.0 minutes.</sub><blockquote><sub>If anyone around us has a chance, this is happening right now!((name deleted)), sitting outside on the balcony, suddenly notices a bright light facing west that is somewhat brighter than that of any aircraft known.  this sphericle object will not move in directions up down left or right but does seem to lose potency of light either exiting the hemisphere or reducing energy.  ((name deleted))  notifies ((female name deleted))  and ((female name #2 deleted)).  The event continues for the next two days then the object is no longer there for the duration of one evening.  Best guess would be either a sattelite or a planet.  Then upon going outside on March 18th, the object is in the exact same place as it was before.  Again getting brighter then less and so again.  The only reaction to this in my opinion would be a ufo hovering acknowlidging human conduct or some sort of plan…((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35685.html](http://www.nuforc.org/webreports/reports/035/S35685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
