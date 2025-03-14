@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While standing in my back yard I was watching the dark clouds coming in.  As I looked west I noticed what I thought was a plane, but as I watched it, it moved differently and made no noise.  Looking closer I saw that it was disc shaped.  Silver shine on top and shadowed bottom. Went in a straight line.  I lost it in trees for a second.  Then it continued north across the sky.  Then it disappeared without obstruction or sound.  I see planes all the time, having an airport close by but I can here them as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126371.html](http://www.nuforc.org/webreports/reports/126/S126371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Micco (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large formation of blinking lights break apart into hundreds of smaller lightsWe saw a large formation of individual lights split apart into probably about 100 small blinking lights of red, green, and white.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145208.html](http://www.nuforc.org/webreports/reports/145/S145208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
