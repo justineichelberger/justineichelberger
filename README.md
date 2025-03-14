@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Medilia (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White lights moving fast over medilia minnesota2 people witnessed at least 6 lights flying over medilia they were equally spaced flying very fast and they all disappeared in the same spot</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154193.html](http://www.nuforc.org/webreports/reports/154/S154193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large round bright circle moving behind cloud.Went outside Saturday evening around 8:00 pm.  Looked toward the Southern sky and noticed a large round object slowly moving behind a cloud.  It appeared to be the size of a moon.  At first I thought it may be an “event” light but it did not move in the typical fashion.  The light moved back and forth, up and down in a random pattern behind a cloud.  It neared the edges but never came out from behind the small patch of cloud.  After about 2-3 minutes it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117811.html](http://www.nuforc.org/webreports/reports/117/S117811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
