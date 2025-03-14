@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 13 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in New Braunfels (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Huge black triangle with 7 lights, very silent, right above trees.March 13, 1997 about dusk I was coming in from the grocery store when I noticed an unusually bright light just above the trees close to home here north of San Antonio, TX. We live under the flight path from Austin to San Antonio and out in the country. I just figured it was an airplane. I watched it get brighter and brighter as it approached. Then I saw that it was a black triangular shape. It looked HUGE as it passed slowly and silently over me. I stopped the car and got out to watch and study it, as I had never seen anything like it.  I wanted to memorize every detail. It was close enough that I could see that it had lights recessed under the wings and they were of different colors.  There were 4 down one wing and 3 down the other. I watched till it disappeared behind the trees, heading west.  Oddly I didn’t feel any fear of it, only intense curiosity. I went home and told my husband who just kind of blew me off so I didn’t mention it again.During the night I got up with the baby and had the radio on.  When I heard the news of the lights appearing above Phoenix I just knew that this was what I had seen earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55754.html](http://www.nuforc.org/webreports/reports/055/S55754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cancun (Mexico) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar-shaped orange emitting light over the beach in Cancun, MexicoOn March 14, 2009, just after we arrived to Cancun, my wife and I were relaxing on a terrace of one of the Royal Resort hotels, watching stars shimmering on a clear night sky.  It was at about 6:30 PM local time, when we suddenly observed a cigar-shaped object moving noiselessly fast from North to South.  It was emitting orange flickering light from window-like openings of this object.  Then it suddenly stopped, reversed its direction of movement, stopped again, begun to continue its North-bound path, and finally performed a zigzag kind of a dance and finally rapidly moved over the horizon.We have to stress that are both scientists and are not easily subjected to illusions.  We have never seen anything like that in our lives, and now we are convinced that we were seeing a true UFO.  After coming back to Boston, we checked at Internet and found out that Cancun is the location at which numerous UFO sightings were reported by many people.  It would be interesting to know why Mexico and particularly Cancun is such a UFO’s favorable place.  Maybe they are also attracted by a warm climate and beautiful scenery of this place?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69395.html](http://www.nuforc.org/webreports/reports/069/S69395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/162/S162744.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162416.html)
-- [345](http://www.nuforc.org/webreports/reports/163/S163057.html)
-- [344](http://www.nuforc.org/webreports/reports/162/S162625.html)
-- [343](http://www.nuforc.org/webreports/reports/162/S162384.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
