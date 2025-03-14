@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Ramon (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>I filmed starry white objects in sky that I believe to be circular UFO's.3/14/04                            UFO'S SITED 21:15PM  I am from California, and I witnessed an extraordinary event tonight that I filmed on camera. I got a good fifteen minutes of what I saw in the sky. What I saw in the sky were objects spaced apart from each other that looked like stars. Some were up high in the sky and others were moving by the horizon. Of course, where I live I could not see the moon and that made it better. Now these UFO's, when looking into the camera at them had a circular look to them and one was white another was blue, and the others were pulsating different colors. The white one was just white and it would move to the left and then to the right when my back was turned. It was a very extreme movement in the sky. The blue one was pulsating and it moved very slowly and again only when my back was turned.  Later on in the film I noticed some by the horizon and when I mean some I mean a few. At first I only saw two moving East, and these lights were very bright but faraway. When you look at them through the camera they were white like a ship or pulsating with multiple colors. I then saw one or two more by the horizon moving East. These were to my farther left but were moving East. They weren't moving fast, and the oddest thing about these UFO's is that they looked like very small planets but they also were white when zoomed in upon and looked like they had a black spot in the center of the UFO but to the far right of the center but not close enough to touch the end of the circular objects. I know it wasn't my camera because I saw this on all the bright UFO oblects that I saw. It almost seemed like an invasion! The reason why I say this is because this is the first time I have witnessed UFO's and I saw five to six of them in one night, and mind you these were perfect circles. These were awesome and I got fifteen minutes on tape. I hope I see more tomorrow night, and the funny thing was that after I saw these objects I still saw the first one when the others were gone and I filmed them all in order of how I saw them, and my Grandpa also! witnessed it but he believes it was satellites but these were bigger then satellites. My camera also stopped zooming in or out at times but I don't know if that had anything to do with the UFO's.((NUFORC Note:  We suspect the witness may have been looking at stars or planets, but we will request a copy of the tape.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35603.html](http://www.nuforc.org/webreports/reports/035/S35603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Black diamond shaped object slowly moving in the sky.Looked up, noticed something in the air.  It was slowly moving through the sky. It was diamond shaped and black.  Took a few pictures from my wife's phone and mine.  And 1 video.  Could have been about 1500 or lower in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117808.html](http://www.nuforc.org/webreports/reports/117/S117808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
