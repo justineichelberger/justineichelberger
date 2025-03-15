@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately different times - different times minutes.</sub><blockquote><sub>Very large disc with multicolored lights hovering not exactly horizontally, but slanted, seen by 4 people in different places.First I was the only one that saw it while i was playing volleyball with some of my friends in Stone Meadows near Hulen, i thought it was a plane, and told my friend "Whoa! whats that, its huge! And it just hovering!" Without looking he just said, "that would be called a plane." After that, my friend called me from her house asking me to come over and she mentioned a UFO over her house, but kiddingly, when i told her i had seen it too, so i went over to her house, but it was gone, after that i went over to pick one of my friends from her house to go eat when while we were driving down Colombus we saw it again, but some houses were in the way, and we drove faster, and it just hovered over towards Granbury Rd. which is the last place we saw it. Took a video, but it is against all these other lights, so you can't really see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42987.html](http://www.nuforc.org/webreports/reports/042/S42987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dyersburg (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>two orange objects moving at high speeds.As we pulled off side of this back county road to get out and use bathroom. We notice orange light moving across sky at high rate of speed from easy to west.  Within 5 seconds same looking object headed in same direction but zigzag'd from left to right until reaching same position of first seen object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96657.html](http://www.nuforc.org/webreports/reports/096/S96657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
