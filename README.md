@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I WAS WALKING OUT MY BACK DOOR AND LOOKED UP AND SAW A SHAPE MOVING FROM SOUTH TO NORTH ABOUT AS FAST AS A SMALL PLANE, IT WAS CHANGING SHAPE AS IT CROSSED MY FIELD OF VEIW I THEN KNOCKED ON MY NEIGHBORS DOOR SO HE COULD GET A LOOK AT IT HE GRABBED HIS CAMERA A DISPOSABLE AND STARTED TO TAKE PICTURES WHEN THE OBJECT MOVED TO THE FRONT OF OUR APT WE RAN TO THE FRONT AND TOOK MORE PHOTOS WHEN MY NEIGHBOR HAD THE PICTURES DEVELOPED THE OBJECT DID NOT SHOW UP IN ANY OF THE SHOTS BUT OTHER STRANGE THINGS DID IN ONE OF THE SHOTS THERE WAS A BLUE ALMOST TRANSPARENT BALL OF LIGHT JUST BELOW THE TREE LINE AND IN ANOTHER ONE AMONG THE FIRST TAKEN ON THE BACK PATIO WITH ROUND WHITE SHAPES AGAINST A BLU SKY WE EXAMEND THE NEGATIVES AND FOUND NOTHING IF YOU SEEN THIS SAME OBJECT PLEASE POST IT((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15609.html](http://www.nuforc.org/webreports/reports/015/S15609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately different times - different times minutes.</sub><blockquote><sub>Very large disc with multicolored lights hovering not exactly horizontally, but slanted, seen by 4 people in different places.First I was the only one that saw it while i was playing volleyball with some of my friends in Stone Meadows near Hulen, i thought it was a plane, and told my friend "Whoa! whats that, its huge! And it just hovering!" Without looking he just said, "that would be called a plane." After that, my friend called me from her house asking me to come over and she mentioned a UFO over her house, but kiddingly, when i told her i had seen it too, so i went over to her house, but it was gone, after that i went over to pick one of my friends from her house to go eat when while we were driving down Colombus we saw it again, but some houses were in the way, and we drove faster, and it just hovered over towards Granbury Rd. which is the last place we saw it. Took a video, but it is against all these other lights, so you can't really see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42987.html](http://www.nuforc.org/webreports/reports/042/S42987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
