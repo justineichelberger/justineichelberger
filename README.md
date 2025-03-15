@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Castlegar (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was 12 years old and I was at the old Castlegar arena about 10:00 p.m. waiting for my brother to finish a hockey practice. I went outside the arena with my mother and a friend of hers. We walked to a coffee shop about 1/2 mile away. While on the way back, we all noticed a very bright light in the sky. It was a cool clear night in mid-March. The object was extremely bright. It sort of was going straight and slow for about 20 seconds, then made a very sudden turn to the right. It suddenly stopped after a few more seconds. It was quite high up it seemed - 2-3 miles? At that point, several smaller lights or objects - I counted at least seven, emerged from the light and were flying around the still stationary larger object. The objects eventually made their way across the sky away from view. Total time - about 2-3 minutes. We were all quite puzzled by the event. On a side note - I remember we were talking with my mom's friend and her husband a few weeks later when they were over for dinner. He told us when he was with the US military in the early 1970's, he was a radar operator responsible for an area in the US mid-west. He used to track objects on the screen flying at extreme speeds - but he was also warned to ignore them and to keep his mouth shut. He was convinced from our descriptions, that what we saw was definitely not a normal aircraft. Brian Vike, Director HBCC UFO Research Home - Phone 1 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35488.html](http://www.nuforc.org/webreports/reports/035/S35488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aguilar (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two metallic boxes connected by a cylinder witnessed near Aguilar, ColoradoI am reporting this sighting on behalf of my brother and mother who would never consider such a thing. According to them they were returning from home from a trip to Pueblo, CO in the afternoon and witnessed a craft that looked like two metalic boxes connected in the middle by a shorter cylinder. The craft was high in the sky and slow moving. It had no apparent wings and moved across the sky until out of view. They had enough time to stop the car and watch the object move out of view. The size of the craft was hard to determine because the skies were clear and blue, possibly the size of a large helicoptor or slightly larger. It was consistent in speed and did not appear to be moving with the wind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16500.html](http://www.nuforc.org/webreports/reports/016/S16500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
