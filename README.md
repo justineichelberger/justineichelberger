@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:40 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in East Moline (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 glowing amber disks fly slowly overhead in different directions.I should have reported this when it happened.  I suppose some incredulity upon my part prevented me from doing so but as time has passed I can't seem to forget about it and upon looking up the NUFORC web site and seeing your request for reports of such sightings I have decided to make a report even though it is after the fact.  As quite a bit of time has elapsed I can't remember exactly when it occurred. I do know that it was 2011 the end of Winter, early Spring. I can also not recall the time, although am fairly certain that it was between 10:00 PM and 2:00 AM.  I had gone outside to make a trip to the nearby 7-11 and had noticed how remarkably crisp and clear the night was with the stars very visable. I decided upon returning to go and sit outside for awhile and stargaze.  I got out a lawn chair and before I could even sit down noticed an object directly above me. It was a disk-like glowing amber light flying from directly overhead to my 11 o'clock disappearing over the roof of my house to the north.  I then noticed another object just like the first to my 3 o'clock flying south/ southeast which disappeared from sight behind the tree line.  Both objects emitted a steady muted amber glow and flew at a constant velocity similar to the speed of a commercial airliner. The height of the objects was indeterminate.  There were no flashing lights.  Each object was roughly 1/8 the size of the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83042.html](http://www.nuforc.org/webreports/reports/083/S83042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1962, an anonymous witness in Camden (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large "sphere" shaped object sighted hovering with an up and down motion.I wanted to report this event though it happened many years ago.  I never reported it to anyone before and thought it may be of interest to someone. I was 14 years old at the time of this sighting.  I lived in a rural area, on a farm.  On a Saturday morning I left my house to do some chores.  Across the road and approximately 100 yards from me, I immediately saw a large "sphere" shaped object about 50 feet in diamater, smooth and dark gray in color.  It hovered about 4' to 6' above the ground and moved in a slight up and down movement but made no sound. Being frightened by this unexpected sight, I quickly went back into my house.  After some time, I ventured back outside to see if the sphere was gone.  After looking around I saw that it had traveled across the road, and over our large farm pond and was now down behind a row of trees on the other side.  It's up and down movement seemed to be more pronounced but otherwise remained stable.  I once again retreated back into my house.  Not untill that evening did I venture back out to find that the object was gone.((NUFORC Note:  We have assigned an arbitrary date in March 1962.  PD))((NUFORC Note:  Date of sighting may be approximate, although the witness does not indicate that fact.  One of two excellent reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61670.html](http://www.nuforc.org/webreports/reports/061/S61670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
