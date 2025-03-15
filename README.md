@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aguilar (CO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>two metallic boxes connected by a cylinder witnessed near Aguilar, ColoradoI am reporting this sighting on behalf of my brother and mother who would never consider such a thing. According to them they were returning from home from a trip to Pueblo, CO in the afternoon and witnessed a craft that looked like two metalic boxes connected in the middle by a shorter cylinder. The craft was high in the sky and slow moving. It had no apparent wings and moved across the sky until out of view. They had enough time to stop the car and watch the object move out of view. The size of the craft was hard to determine because the skies were clear and blue, possibly the size of a large helicoptor or slightly larger. It was consistent in speed and did not appear to be moving with the wind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16500.html](http://www.nuforc.org/webreports/reports/016/S16500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in hernando (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my family along with a friend of my sister are in are car and driving to the hotel. When we see About 8 or 9 light in the sky..  I few we did find out they are planes the more closer we get but, about 5 of them.  1 they are wht to low but high enough in the sky and some of them are getting why to close.  Well the others are moving to fast or to slow as well as just staying still and then start's to move.  They are also almost in a line and moving around like crazy but,  you could tell they are not planes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145203.html](http://www.nuforc.org/webreports/reports/145/S145203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
