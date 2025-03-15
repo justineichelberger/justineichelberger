@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Aberdare (UK/Wales) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Silver ball in the sky hides in a cloudI was driving home from a shopping trip in Aberdare (A small town in Wales, UK) with my Wife and 2 yr old son - when a very shiny silver object in the sky caught our attention. It was clear daylight with a few clouds broken up across the sky. The object was spherical in shape and moved slowly across the sky. It didn't leave any trail behind it and we watched it while we were in traffic on a slip road. It went behind one of the few clouds in the sky and we waited for it to emerge from the other side of the cloud. All the time we were watching (about 10 min)we couldn't understand why it hadn't emerged since the clouds weren't moving much and a plane would have continued on a path and emerged from the other side of the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22318.html](http://www.nuforc.org/webreports/reports/022/S22318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large, glowing, floating, red fireball/orb spotted in the sky for a very short time before it disappeared.I was playing basketball in my backyard and out of the corner of my eye I noticed something in the sky. I turned and saw a large, bright, red, glowing object that looked like a fireball or an orb. It was a few miles away and made no sound and it was slowly floating downwards for a second before it just disappeared. I told my family and no one believed me. After a few minutes of them telling me that they didn't believe me, I started to question whether I had actually seen it because it was for such a short amount of time. The next morning I turned on the local radio and they were saying that people reported seeing UFOs in Mexico the day before. I am sure that it wasn't a meteorite or anything of that nature.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62218.html](http://www.nuforc.org/webreports/reports/062/S62218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
