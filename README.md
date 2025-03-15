@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UfO seen at Camp Pendleton, San Diego, CAMy name is ((name deleted)), and I am a ((deleted--thirties)) year old ex-US Marine, honorably discharged. I entered the Marine Corp in 1997, and that is the year the event took place.  I heard about this on Coast to Coast, and they said to report any event no matter how much time has elapsed.  I was in boot camp at MCRD San Diego, and during my thirteen weeks there, there are several times that we were taken to Camp Pendleton.  On this particular occasion we made our way there, and had to hump (hike) a mountain by the name of Old Smokey.  Old Smokey is a mountain on Camp Pendleton that was particularly high and steep.  Three quarters of the way up you have to basically crawl up the mountain it is so steep.  I remember actually passing through the clouds on the way up the mountain it is so high.  At approximately 21:00 hours my company was getting ready to go to bed when a huge craft appeared right above us.  It was so close it seemed as though we could almost touch it.  It hovered above us as though it was looking right at us.  There was about 200 Marines looking at this enormous craft, including enlisted and officers.  After about ten mins, we heard our helicopters, and jets heading right for the craft.  When our jets came within a couple of feet, the craft sped off with speed that I have never seen before.  After it left I’ll never forget the beautiful blue like exhaust that floated in the air for about two hours.  The following day we were told by our commanding officer never to speak of what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98646.html](http://www.nuforc.org/webreports/reports/098/S98646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball at dusk in south Florida.We just finished eating some tacos and walked out of the restaurant. I looked up at the sky and saw what looked like a fireball shooting straight down in the distance.  This ball did not disappear and left a trail as it continued to shoot downward and disagreed behind some thick dark clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126383.html](http://www.nuforc.org/webreports/reports/126/S126383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
