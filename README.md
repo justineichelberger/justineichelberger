@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:06:58 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Muscatine (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangle object with 4 white lights silently flys through the sky very low to the ground.A few of us were standing in the back yard around a fire late at night.  I turned from the fire to warm up my back side and just stared up at the cool night sky.  The moon was bright and there were a few slow moving clouds, the stars were shining bright.  I noticed what I thought was one small cloud moving faster then the others, that is what first caught my eye.  Then I realize it was not a cloud but rather a dark triangular object moving silently through the clouds.  The object flew in a straight line and I did notice 4 large lights underneath, the lights did not flash or blink and they had a strange color to them.  The color was like an aluminum flashlight beam.  I yelled at my wife and her brother to look but the triangular object was too hard to see, they looked further on and saw an airplane in the distance.  I kept my eye on the object; it was low to the ground, triangular, silent, with 4 eerie white lights.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72099.html](http://www.nuforc.org/webreports/reports/072/S72099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jefferson City (MO) reported seeing craft that fit the description of some '' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>MO Hwy. Patrol officer & 2 other officers witness blue-green, bright light hovering.  Winked out.  Good rept..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00342.html](http://www.nuforc.org/webreports/reports/000/S00342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
