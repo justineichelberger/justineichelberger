@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jefferson City (MO) reported seeing craft that fit the description of some '' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>MO Hwy. Patrol officer & 2 other officers witness blue-green, bright light hovering.  Winked out.  Good rept..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00342.html](http://www.nuforc.org/webreports/reports/000/S00342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Picacho (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 orange fireball shapes floated over Picacho ArizonaOn 3/15/21 21:15, I witnessed 3 orange fireball shapes 6 miles out in the west-north-west skies a couple hundred feet over Picacho, Arizona. They didn't move at all. One slowly started to fade and the other two faded shortly after. They lit up once more before fading into the dark. I stayed out for 10 mins but did not see them again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162380.html](http://www.nuforc.org/webreports/reports/162/S162380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
