@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:33 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Oakton (VA) reported seeing craft that fit the description of some 'Delta' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Summary : I saw two large bright round white lights moving forward together but keeping the same distance apart.  Then the two lights changed direction. Then I saw what appeared to be the bottom of a large moving object.  It was covered with rows of lights, mostly white lights and a few red lights.The two bright white lights appeared at night outside my house.  Then they turned across the backyard. It was very quiet.  Then when I went outside and looked up into the sky I saw rows of much smaller white lights mixed with a few red lights near the middle.  These lights were all moving slowly together as though they were on the bottom of a very large moving object. The shape was elongated but it appeared to have wings on each side in the middle. The lights covered this base and wing surface area. I felt that I was looking up underneath the object.  It slowly and quietly moved in a straight line right above the trees across my backyard and my neighbors backyard.  It moved at the same speed until it disappeared.  I listenend for a helipcopter or plane noise but only noticed a low level hum as it disappeared in the distance. Then I heard a swhoosh noise.  The object was massive and it seemed as though it was deliberately scanning the area. Later I saw the two lights again bu!t this time they darted away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02069.html](http://www.nuforc.org/webreports/reports/002/S02069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Danvers (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orb-like craft moving right to left at nightWe were sitting, drinking coffee, talking and looking out the sunroof as usual. We both spot and orb moving right to left above us, very high in the sky.  Was not pulsating, just an orb-like dot moving along.  We were amazed to say the least.  As the object was almost out of sight, a meteor-like object displayed above us and disappeared quick like a comet or a meteor shower.  But it was only one.  About 1 min after that I saw a bright light flash in the cloud above us and 3 f-16 planes appeared parallel to each other moving in the direction of the orb.  Also this is probably unrelated by I should mention that right after that I witnessed 10-12 albino bats flying around within 20-30 feet from us.  About 2 hours after that, we were still there as another business partner showed up.  Around 11pm or sometime between 11-12, we all witnessed a second orb identical to the previous one.  It was flying at the same rate of speed but a different direction.  Sightings like these ! don't change my life, weird things happen around me all the time but I thought it would be cool to post as their were 5 strange things in one evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107353.html](http://www.nuforc.org/webreports/reports/107/S107353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
