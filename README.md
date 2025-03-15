@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 14 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Micco (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large formation of blinking lights break apart into hundreds of smaller lightsWe saw a large formation of individual lights split apart into probably about 100 small blinking lights of red, green, and white.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145208.html](http://www.nuforc.org/webreports/reports/145/S145208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in East Moline (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 glowing amber disks fly slowly overhead in different directions.I should have reported this when it happened.  I suppose some incredulity upon my part prevented me from doing so but as time has passed I can't seem to forget about it and upon looking up the NUFORC web site and seeing your request for reports of such sightings I have decided to make a report even though it is after the fact.  As quite a bit of time has elapsed I can't remember exactly when it occurred. I do know that it was 2011 the end of Winter, early Spring. I can also not recall the time, although am fairly certain that it was between 10:00 PM and 2:00 AM.  I had gone outside to make a trip to the nearby 7-11 and had noticed how remarkably crisp and clear the night was with the stars very visable. I decided upon returning to go and sit outside for awhile and stargaze.  I got out a lawn chair and before I could even sit down noticed an object directly above me. It was a disk-like glowing amber light flying from directly overhead to my 11 o'clock disappearing over the roof of my house to the north.  I then noticed another object just like the first to my 3 o'clock flying south/ southeast which disappeared from sight behind the tree line.  Both objects emitted a steady muted amber glow and flew at a constant velocity similar to the speed of a commercial airliner. The height of the objects was indeterminate.  There were no flashing lights.  Each object was roughly 1/8 the size of the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83042.html](http://www.nuforc.org/webreports/reports/083/S83042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/162/S162438.html)
-- [303](http://www.nuforc.org/webreports/reports/162/S162371.html)
-- [302](http://www.nuforc.org/webreports/reports/162/S162615.html)
-- [301](http://www.nuforc.org/webreports/reports/162/S162359.html)
-- [300](http://www.nuforc.org/webreports/reports/162/S162365.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
