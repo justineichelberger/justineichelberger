@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in hernando (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my family along with a friend of my sister are in are car and driving to the hotel. When we see About 8 or 9 light in the sky..  I few we did find out they are planes the more closer we get but, about 5 of them.  1 they are wht to low but high enough in the sky and some of them are getting why to close.  Well the others are moving to fast or to slow as well as just staying still and then start's to move.  They are also almost in a line and moving around like crazy but,  you could tell they are not planes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145203.html](http://www.nuforc.org/webreports/reports/145/S145203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I WAS WALKING OUT MY BACK DOOR AND LOOKED UP AND SAW A SHAPE MOVING FROM SOUTH TO NORTH ABOUT AS FAST AS A SMALL PLANE, IT WAS CHANGING SHAPE AS IT CROSSED MY FIELD OF VEIW I THEN KNOCKED ON MY NEIGHBORS DOOR SO HE COULD GET A LOOK AT IT HE GRABBED HIS CAMERA A DISPOSABLE AND STARTED TO TAKE PICTURES WHEN THE OBJECT MOVED TO THE FRONT OF OUR APT WE RAN TO THE FRONT AND TOOK MORE PHOTOS WHEN MY NEIGHBOR HAD THE PICTURES DEVELOPED THE OBJECT DID NOT SHOW UP IN ANY OF THE SHOTS BUT OTHER STRANGE THINGS DID IN ONE OF THE SHOTS THERE WAS A BLUE ALMOST TRANSPARENT BALL OF LIGHT JUST BELOW THE TREE LINE AND IN ANOTHER ONE AMONG THE FIRST TAKEN ON THE BACK PATIO WITH ROUND WHITE SHAPES AGAINST A BLU SKY WE EXAMEND THE NEGATIVES AND FOUND NOTHING IF YOU SEEN THIS SAME OBJECT PLEASE POST IT((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15609.html](http://www.nuforc.org/webreports/reports/015/S15609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
