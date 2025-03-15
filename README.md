@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:33 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Danvers (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orb-like craft moving right to left at nightWe were sitting, drinking coffee, talking and looking out the sunroof as usual. We both spot and orb moving right to left above us, very high in the sky.  Was not pulsating, just an orb-like dot moving along.  We were amazed to say the least.  As the object was almost out of sight, a meteor-like object displayed above us and disappeared quick like a comet or a meteor shower.  But it was only one.  About 1 min after that I saw a bright light flash in the cloud above us and 3 f-16 planes appeared parallel to each other moving in the direction of the orb.  Also this is probably unrelated by I should mention that right after that I witnessed 10-12 albino bats flying around within 20-30 feet from us.  About 2 hours after that, we were still there as another business partner showed up.  Around 11pm or sometime between 11-12, we all witnessed a second orb identical to the previous one.  It was flying at the same rate of speed but a different direction.  Sightings like these ! don't change my life, weird things happen around me all the time but I thought it would be cool to post as their were 5 strange things in one evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107353.html](http://www.nuforc.org/webreports/reports/107/S107353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Sao Paulo (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Summary : Hovering orange light over the train terminal of the city's subway and in line with the final approach of S.P. international airport. Hundreds saw it. The eve. news confirmed UFO.I was 13 at the time and was playing outside a church while my parents were in choir practice. It was dark. From the hill where the church sat, I could see the terminal station of the Sao Paulo subway system. Suddenly I noticed an orange light that changed intensity, sometimes changing to red. I called my parents and the other church members who came out to see. We were there for about 20 minutes. The location of the light was exactly on the path of the Sao Paulo International Airport (Congonhas) final approach. As airplanes would align with final, the light moved very fast and dissapeared, to reappear when tha plane had passed. Later that evening, channel 5 (Globo television network) reported the incident and interviewed several eye witnesses, who reported the same story. They also interviewed officials at the airport who reported an "unidentified object" on the radar screens at the reported location. Airline pilots also reported seeing the object. No further explanations w!ere given, and airforce officials declined to comment.The date is approximate, since I don't remember exactly when it happened. But it was around then.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02349.html](http://www.nuforc.org/webreports/reports/002/S02349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
