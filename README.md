@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:48 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:29 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Acres/Fort Myers (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of four redish orange diamond shaped objects in SW Florida sky heading North EastI was walking through my front yard looked up at the western sky at the cresent moon and saw 3 strange lights traveling slowly east just below the moon.  As they climbed higher (I thought they could have been firework), they stopped then one by one disappeared.  After the first one disappeared I yelled to my husband to come look.  He came and was amazed too.  I had to make sure I was seeing this right.  He saw them, then a fourth showed up and one by one they stopped, slowly disappated, then disappeared until they were all gone.  I've never seen anything like this.  They were shaped like diamonds with four fire red colored corner dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96649.html](http://www.nuforc.org/webreports/reports/096/S96649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 9:15 - 9:15 minutes.</sub><blockquote><sub>march 16, 2012 ufo fireball sighting!At approximately 9:00-9:15 pm est I witnessed a fireball going west to east as i was driving up peach street in Erie pa. I was at stop light looking south as I seen what appeared to be a high definition fireball flying at such a even speed as if it was never going to stop until it crashed into something. It also appeared to be going on such a straight path.  It was not like a shooting star where u barely have time to see.  It was like a computer animated fireball that gracefully cut through space for 5-8 seconds till it dissappeared.  I can't believe I'm the only one to see this UFO or super advanced technology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89169.html](http://www.nuforc.org/webreports/reports/089/S89169.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
