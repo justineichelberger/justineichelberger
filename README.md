@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:29 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cambridgeshire (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO witnessed on Space LIVE UK (C4)Whilst watching a LIVE broadcast called Space Live on UK tv (Channel 4), I witnessed this, as did many others. http://www.youtube.com/watch?v=VbRnhRzgzrs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108052.html](http://www.nuforc.org/webreports/reports/108/S108052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange fireball moved across sky, hovered over my house, went high into the sky, then light disappeared as it went to a larger craftI was outside and looked up and a burning light that looked like a large orange fireball was glowing (not blinking, and it appeared to be only one light).  At first, I thought maybe it was a plane but as it moved closer, I thought it might be some sort of meteor.  As it came closer I realized it wasn't anything that I've ever seen before.  It moved laterally through the sky at a fast pace at about a helicopter's height in the sky and then it hovered over my house, stopped, went back a bit, went forward a bit, then went up higher and higher and got darker and darker.  Then the light went out but I could still see something there, way up in the sky.  The larger darker object stayed stagnant for about 20 seconds, moved forward slowly at first and then it went toward the northwest at a much faster pace than before and traveled across the sky till I couldn't see it anymore because of the distance.  This thing was pretty huge for me to see it clearly fly across the sky with no illumination.  To me it looked black and long, maybe cylinder or rectangle-shaped but hard to tell since it was so dark in the sky.  My stupid phone is so cheap I couldn't get any good shots of it.  I have two pictures but they are very small and I need a usb cord to retrieve them.  I realized later that the fireball was flying in virtually the same path the military jets take when they fly over our house.  I'm in NW Fresno, CA, and they usually come from the east and fly northwest.  The sky was nice and bright and clear with an almost full moon.  It was really big, whatever it was.  It had no trail, it was silent, and appeared to be lower than an airplane until it stopped and went higher.  It definitely wasn't any kind of weather balloon or anything I've ever seen before.  The sky was clear with an almost full moon.  There appeared to be no other air traffic until a few minutes after it went away.  The entire sighting lasted about 4 minutes or less.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107996.html](http://www.nuforc.org/webreports/reports/107/S107996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
