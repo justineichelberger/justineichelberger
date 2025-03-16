@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular aircraft tumbling on it's side!I was driving down a street at night and saw lights ahead of me and to the right out of the corner of me eye. I saw what appeared to be a triangle on it's side at about a quarter mile ahead and just above the tree line. I could not see the triangle shape, but saw lights at each corner (three lights) that made up a form of a triangle. The lights were not blinking. I do not recall if there was a blinking light or not anywhere on the object. The aircraft appeared to be on it's side and appeared to be "tumbling" forward. It then leveled off and made a 90 degree turn. This aircraft was going very fast. This sighting took place about a mile from Kelly Air Force Base, Texas. I do not know what this aircraft was, but I do know three things: 1) I have never seen an aircraft tumble forward and then level off in this manner.2) I have never seen an aircraft travel at the rate of speed it was traveling.3) I know of no aircraft that can make a 90 degree turn at this rate of speed, although the B-2 Stealth Bomber comes close, but I know that it does not tumble on its side.I have been observing aircraft for a long time and have worked on different types of aircraft in my carrer. This was no regular aircraft!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49682.html](http://www.nuforc.org/webreports/reports/049/S49682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ironton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a bright yellow/orange football shaped light low over Ironton,Ohio.3/16/07: At approximately 10:15am, I saw a bright yellowish, orange football shaped light pulse over western Ironton in Ohio. It was cloudy and raining as I was driving towards the most westerly exit of Ironton, I noticed this bright yellowish orange football shaped light in a horizontal position, low over the most westerly part of Ironton, to the south of the McDonalds’ arch I pulled off the second exit, turned left toward the Ironton Hills mall and proceeded to the nearest portion of the mall that would allow me an unobstructed view of the town below me. I thought about getting the attention of the nearest person to me who was a man smoking a cigarette alone. I let him be due to the nature of this situation as he might think I was mentally ill. I kept my mind on the task at hand: to get a good photo. I took two photos, one on the horizontal axis and the second on the vertical. I viewed the object through the viewfinder when I took the pictures as I sat in my truck facing the south. Nothing showed up the photos after they were developed but I saw it with mine own eyes. I went back to the same exact area at the Ironton Hills mall (about 11:30am), after my appointment, and I could not find what I had seen before. However, I took a third photo of the same area but of course nothing appeared on film. As a side not I saw on the news (6pm WSAZ on 3/15/07) that there was a contaminated soil removal from a closed plant in New Boston, Ohio.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55761.html](http://www.nuforc.org/webreports/reports/055/S55761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
