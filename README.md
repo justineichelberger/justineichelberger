@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westerly (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object flying along side an airplane disappeared into the clouds, emerged 5 minutes later and flew southwest.I was looking out the window at 12:45 when I saw a plane flying in the direction from north to south at a high altitude.  I then noticed a small circular object flying along side it.  The circular object slowed down to a speed much slower then the plane and disappeared behind the clouds.  At this point the plane flew over head, and I went outside for a closer look.  About 5 minutes passed and I then noticed the same object emerged from the clouds, stayed at the high altitude and started to fly south west at what looked like at a slow speed.  I could see the object better when it was directly over my house because it was heading closer to the sun.  The object looked like it was rotating because every time it rotated there was a brief reflection.  The Object stayed at a slow pace for 5 more minutes heading south west until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74678.html](http://www.nuforc.org/webreports/reports/074/S74678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Livingston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Thought it was the moon, but no moon in the sky.I was sleeping and awoke to the moon glaring through my window.  I wear contacts and did not have them in while I was sleeping so I was looking up at the moon slightly blurred due to not having my contacts in. I decided to get up even though it was still an hour or so before I was due to wake.  I went outside to smoke a cigarette and looked up, no moon.  The sky was relatively clear and there was no moon.  I know it was shining on my face and illuminated the bedding around me but there was nothing in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69241.html](http://www.nuforc.org/webreports/reports/069/S69241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
