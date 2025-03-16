@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ironton (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a bright yellow/orange football shaped light low over Ironton,Ohio.3/16/07: At approximately 10:15am, I saw a bright yellowish, orange football shaped light pulse over western Ironton in Ohio. It was cloudy and raining as I was driving towards the most westerly exit of Ironton, I noticed this bright yellowish orange football shaped light in a horizontal position, low over the most westerly part of Ironton, to the south of the McDonalds’ arch I pulled off the second exit, turned left toward the Ironton Hills mall and proceeded to the nearest portion of the mall that would allow me an unobstructed view of the town below me. I thought about getting the attention of the nearest person to me who was a man smoking a cigarette alone. I let him be due to the nature of this situation as he might think I was mentally ill. I kept my mind on the task at hand: to get a good photo. I took two photos, one on the horizontal axis and the second on the vertical. I viewed the object through the viewfinder when I took the pictures as I sat in my truck facing the south. Nothing showed up the photos after they were developed but I saw it with mine own eyes. I went back to the same exact area at the Ironton Hills mall (about 11:30am), after my appointment, and I could not find what I had seen before. However, I took a third photo of the same area but of course nothing appeared on film. As a side not I saw on the news (6pm WSAZ on 3/15/07) that there was a contaminated soil removal from a closed plant in New Boston, Ohio.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55761.html](http://www.nuforc.org/webreports/reports/055/S55761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw three red lights, in a triangle, in Mokena ILThere were three red dots in the sky. This was in Mokena, Illinois, heading southeast away from Tinley Park. They were moving in a triangle then to a straight line. I saw the same thing in August 2004 a little over four years ago. It was just like it had been. They were nothing like airplanes; they were far away and moving fast. They were together in a triangle then went to a straight line, back to a triangle. The one started moving away from the other two. It was like nothing I had ever seen before.I watched the UFO Hunters season opener- about the Illinois invasion. The Tinley Park phenomenon featured these lights.  I watched it three times. Right when I saw the lights it reminded me of that. It was NOT a hoax.  Nobody could stage that. I still can’t believe they were back.  They were flying the same path they did in 2004.  The UFOs flew right over us heading in a southeastern direction.My neighbors (who also sent you a report) were out there watching it with me.  They were the ones that told me to come outside and they said the UFOs are back!  There were seven witnesses and we all saw the three red moving lights.((NUFORC Note:  Witness indicates a date in 2008.  We have amended the date to reflect the event that occurred over that city on March 16, 2009.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69232.html](http://www.nuforc.org/webreports/reports/069/S69232.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
