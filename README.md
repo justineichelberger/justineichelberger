@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Yakima/union gap (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangle shape craft going up and down above house and tree's, about 60mph.I was going south down the Freeway by the Mill in Yakima Washington,on March 16th 2007 about 1:30 pm, when I first noticed the 2 objects in the air,it was going up and down in the air about(tree line height) and I, my Husband and are 3 children,and other driver's on freeway noticed the crafts watching them, We kept watching them while we we're driving down the freeway, doing 60 mph and they were keeping up pace with us going up and down above the house's and tree's and doing flips & turns, it was very low towards the house's, when it did flips to the side it was very thin almost disappearing it looked like it was about 12-15 feet long and 5 feet wide, they were a gray color, triangle shape they had no propellers or visible engine ,We watched it for about 3 minutes before it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55763.html](http://www.nuforc.org/webreports/reports/055/S55763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I drive for work, was out on a delivery, thought the scenery was beautiful so I snapped a few photos. The very last one I had taken was accidental and I realized there was something different about it, something that had appeared in the sky.  When I looked up it was clear as day, three white circular lights... I thought maybe I was not seeing correctly,  and when I looked to take another photo it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154279.html](http://www.nuforc.org/webreports/reports/154/S154279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
