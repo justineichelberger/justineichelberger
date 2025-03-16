@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Livingston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Thought it was the moon, but no moon in the sky.I was sleeping and awoke to the moon glaring through my window.  I wear contacts and did not have them in while I was sleeping so I was looking up at the moon slightly blurred due to not having my contacts in. I decided to get up even though it was still an hour or so before I was due to wake.  I went outside to smoke a cigarette and looked up, no moon.  The sky was relatively clear and there was no moon.  I know it was shining on my face and illuminated the bedding around me but there was nothing in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69241.html](http://www.nuforc.org/webreports/reports/069/S69241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in River Ridge (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>In New Orleans, approximately 7 spheres silently travel in a straight line then become triangle as they move overhead.At approximately 9:15 pm I was walking my dog in River Ridge, Louisiana.  River Ridge is a suburb of New Orleans.  I glanced over my right shoulder and noticed a group of grayish, white spheres traveling through the air.  They were silent, and fast.  The whole event took less than 10 seconds.  I continued to watch them fly overhead, and just as they did, the line broke formation and formed a triangle with one sphere in the middle.  I noticed as they moved they sort of fluttered, not much though, as if they were being knocked by slight currents in the air.  They appeared small to me, and I probably wouldn't have noticed them had there not been so many of them.  I will admit that I have never believed in these sorts of things.  I am not a sci-fi fan, or anything like that.  I am still skeptical of what I saw, but I will certainly never forget it.  One more fact to add to my skepticism, I live within 10 miles of the New Orleans International Airport.((NUFORC Note:  Sighting occurred on Tuesday night, March 16, 2004.  We have corrected the date above.  Please see other similar report for this date from Mt. Pleasant, SC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35646.html](http://www.nuforc.org/webreports/reports/035/S35646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
