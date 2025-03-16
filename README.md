@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw three red lights, in a triangle, in Mokena ILThere were three red dots in the sky. This was in Mokena, Illinois, heading southeast away from Tinley Park. They were moving in a triangle then to a straight line. I saw the same thing in August 2004 a little over four years ago. It was just like it had been. They were nothing like airplanes; they were far away and moving fast. They were together in a triangle then went to a straight line, back to a triangle. The one started moving away from the other two. It was like nothing I had ever seen before.I watched the UFO Hunters season opener- about the Illinois invasion. The Tinley Park phenomenon featured these lights.  I watched it three times. Right when I saw the lights it reminded me of that. It was NOT a hoax.  Nobody could stage that. I still can’t believe they were back.  They were flying the same path they did in 2004.  The UFOs flew right over us heading in a southeastern direction.My neighbors (who also sent you a report) were out there watching it with me.  They were the ones that told me to come outside and they said the UFOs are back!  There were seven witnesses and we all saw the three red moving lights.((NUFORC Note:  Witness indicates a date in 2008.  We have amended the date to reflect the event that occurred over that city on March 16, 2009.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69232.html](http://www.nuforc.org/webreports/reports/069/S69232.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Trianglular shaped object with colored lights on each side seen in rural Beloit.I saw a triangle shaped craft that landed about 100 feet from my home.  It remained there for about a minute and then lifted straight up to about 20 feet from the ground.  The object was triangle shaped and about 3 feet long on each side.  It had pinkish red lights on one side, blue/green lights on another, and white lights on the last side.  It was rotating so I could see each color.  It moved toward my home and while doing so it moved erratically up and down.  It looked like it was diving down then lifting up.  There was no sound from this object.  I live in rural Beloit, in a wooded area and I can't imagine a drone flying over this area. It moved over the woods and then out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141888.html](http://www.nuforc.org/webreports/reports/141/S141888.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
