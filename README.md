@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Trianglular shaped object with colored lights on each side seen in rural Beloit.I saw a triangle shaped craft that landed about 100 feet from my home.  It remained there for about a minute and then lifted straight up to about 20 feet from the ground.  The object was triangle shaped and about 3 feet long on each side.  It had pinkish red lights on one side, blue/green lights on another, and white lights on the last side.  It was rotating so I could see each color.  It moved toward my home and while doing so it moved erratically up and down.  It looked like it was diving down then lifting up.  There was no sound from this object.  I live in rural Beloit, in a wooded area and I can't imagine a drone flying over this area. It moved over the woods and then out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141888.html](http://www.nuforc.org/webreports/reports/141/S141888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Maricopa (southwest of town) (AZ) reported seeing craft that fit the description of some 'light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Summary : 8-10 bright stationary orange lights, plus a small line of 6-8 smaller  bluish-white lights which flashed in succession from l. to r., moved off rapidly to the west, disappeared, reappeared, and repeated event 3 times.While traveling south on Maricopa road 2 women, one a Sales Manager and the other a Director of Sales for a large telecommunications firm witnessed a group of 8-10 bright orange stationary lights in the sky just above a line of mountains to the SW of the town of Maricopa, AZ.  In the midst of these lights a small line of 6-8 bluish-white smaller lights suddenly appeared; the lights flashed in sequence from left to right 3 times, then suddenly moved very quickly off to the West and disappeared.  Approximately 30-45 seconds later, the bluish-white lights reappeared in approximately the same position as the first time and repeated the flashing and movement; then reappeared just to the west of te original location repeated this once more.  About 30 seconds after the last repeat, the orange lights simply disappeared.  The orange lights appeared very similar to the sightings on Sept. 13 in the area around Phoenix, but we have heard no one mention the bluish-white lights which we s! aw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02692.html](http://www.nuforc.org/webreports/reports/002/S02692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
