@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 15 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Massillon (OH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Humming noise with light.Humming sound with white light during Eclipse near moon.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74741.html](http://www.nuforc.org/webreports/reports/074/S74741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in North Stonington (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw something strangeOn a Friday night about the middle of March, 1966, just after 8:00a.m., we were going down a hill, newly excavated, as part of the I-95 project.  Half way down the hill at the bottom of a newly excavated roadway, a round silver, metallic object came over the brow of the embankment very slowly and hovered there slightly wobbling.  It suddenly disappeared.  A coil of black smoke was seen in the light of the traffic light at the bottom of the hill.  There is an electric power sub station on the top of the embankment at the bottom of the hill.There was a care ahead of us.  It stopped and  so did we.  Then we saw a round ,silver metallic object.  It looked like one saucer upside down over a right side up saucer.  On the top, at the bottom of the rise of the dome were opaque, lit, windows.  At the center of the bottom was a black disc that rotated.  Iridescent sparks were seen at the perimeter of the disc.  There was no noise noted from the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73153.html](http://www.nuforc.org/webreports/reports/073/S73153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [560](http://www.nuforc.org/webreports/reports/163/S163555.html)
-- [559](http://www.nuforc.org/webreports/reports/162/S162380.html)
-- [558](http://www.nuforc.org/webreports/reports/162/S162508.html)
-- [557](http://www.nuforc.org/webreports/reports/162/S162378.html)
-- [556](http://www.nuforc.org/webreports/reports/162/S162379.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
