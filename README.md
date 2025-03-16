@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Trianglular shaped object with colored lights on each side seen in rural Beloit.I saw a triangle shaped craft that landed about 100 feet from my home.  It remained there for about a minute and then lifted straight up to about 20 feet from the ground.  The object was triangle shaped and about 3 feet long on each side.  It had pinkish red lights on one side, blue/green lights on another, and white lights on the last side.  It was rotating so I could see each color.  It moved toward my home and while doing so it moved erratically up and down.  It looked like it was diving down then lifting up.  There was no sound from this object.  I live in rural Beloit, in a wooded area and I can't imagine a drone flying over this area. It moved over the woods and then out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141888.html](http://www.nuforc.org/webreports/reports/141/S141888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Belmont (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>round object shooting across the sky, low ,very bright light, a blue white color,, seen by 2 people.A circular object just appeared in the night sky.  My husband and I were outside, he was having a smoke break and the object was there right above us in the sky, he said what is that, and I looked up, in the direction over our house, and the object was moving very fast through the trees behind our house.  It sort of reminded me of a comet with a very short tail.  We kept looking but did not see anything else.  It just seemed to disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96680.html](http://www.nuforc.org/webreports/reports/096/S96680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
