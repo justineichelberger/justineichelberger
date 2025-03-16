@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Flint (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Orange orbs (glowing) moving SW over the lake. Definately not aircraft or balloons.watched 2 then 1 30 seconds behind the first two.  Glowing orange orbs moving SW from the NE over lake Palestine.  Orbs were not static or drifting, appeared to be under power.  No noise, at approx 400-600 feet (estimated).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145216.html](http://www.nuforc.org/webreports/reports/145/S145216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent object flying relatively low, beneath clouded skyI casually looked out a southern window in my house to see if Sirius was visible.  I saw a bright flashing white light and a dimmer flashing red light close together.  I assumed it was an aircraft coming into the airport that is less than a mile away from my house.  I stepped outside the house to see if I could spot the crescent moon.  I saw that the sky was completely could covered.  The lights I saw were below the clouds, and moving from the west to the east.  What puzzled me was that these lights were completely silent.  The lack of sound gave the object the impression of gliding.  I waited for it to bank toward the airport but it continued moving to the East.  Again, this object was below the clouds, which were low level clouds.  The object was close enough to be heard in my opinion.  I watched it slowly move to the East, hoping to hear the sound of the object following behind it.  Nothing was heard.  Yes, this could have been an airplane.  I could only ! see the flashing lights.  I did not see a form.  But having lived near the airport since the 1956, I have a pretty good understanding of the sounds that aircraft make when I see them fairly low in the sky.  I’m documenting my observation just in case someone else, either west or east of me, might report this object.  As the object was going out of sight, a plane took off from the airport.  It was a prop plane and it’s noise reminded me that the object I saw was very curiously devoid of noise; noise that I’m sure should have been apparent.  As I’m writing this, I can easily hear the sound of a jet high in the sky.  I just went outside and I could not see it because of the clouds.  But I know it there even though I can’t see it.  As I write this, I’m more certain that I should have heard the sound that the object was making.  It wasn’t that far away from me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162394.html](http://www.nuforc.org/webreports/reports/162/S162394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
