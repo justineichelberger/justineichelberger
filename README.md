@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:20 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:48 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving home from the grocery store and as I approached my home, I saw an orange orb glowing in the sky.  I could not take my eyes off it as I was driving.  I was mesmerized. It appeared to be driving with me and when I got on my street, I stopped right in front of my house to just watch it and it did not appear to move.  I then called my fiancee and told him to run out side.  I then jumped back in the car and then the orb appeared to go back out into the night sky put stayed parallel to the landscape.  It was a clear night tonight.  My fiancee saw the orb as well when it was flying away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145215.html](http://www.nuforc.org/webreports/reports/145/S145215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Acres/Fort Myers (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of four redish orange diamond shaped objects in SW Florida sky heading North EastI was walking through my front yard looked up at the western sky at the cresent moon and saw 3 strange lights traveling slowly east just below the moon.  As they climbed higher (I thought they could have been firework), they stopped then one by one disappeared.  After the first one disappeared I yelled to my husband to come look.  He came and was amazed too.  I had to make sure I was seeing this right.  He saw them, then a fourth showed up and one by one they stopped, slowly disappated, then disappeared until they were all gone.  I've never seen anything like this.  They were shaped like diamonds with four fire red colored corner dots.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96649.html](http://www.nuforc.org/webreports/reports/096/S96649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
