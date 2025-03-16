@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:05 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:20 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lawrenceville (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My little dog was barking like crazy in the dogpen.  My big dog was inside and clawing at the backdoor.  I went to the backdoor to let my big dog out.  She wouldn't go out even though she had been clawing at the backdoor.  I exited the backdoor to bring in the little dog in the pen.  I walked about 1/3 of the way to the pen, when I saw something red in the sky in the distance.  It was west of Lawrenceville but headed east.  It looked diamond shaped.  I continued to get my dog in the pen.  Then I look in the sky again and the object was no longer in the distance but was closer.  It came closer and closer and made absolutely no noise.  I had believed it was a helicopter or a very large drone at first.  But I heard nothing.  It finally came close enough that it appeared as a red diamond the size of my fist in the sky.  I then thought.... holy ((one word deleted)), this is a UFO.  I ran to the door and opened it and yelled to my wife "Come here.  Come here.  UFO! UFO! Come see it.  I then run in the house and yell again.  My wife is snoring and almost snorting and she says leave me alone.  My 7 year old son comes sprinting out of his bedroom in his underwear and no shirt and says "Show me, Daddy".  He goes out back with me and it is leaving.  It was heading southwest but you could still see it through the canopy of trees.  It was now the size of a diamond shaped silver dollar in the sky and appeared to be getting smaller and then finally went black.  My son was amazed.  I wish he had seen it when it was the size of my fist in the sky.  One of the top 25 moments in my life.  I've always wanted to see one.  Who knows, maybe it really was alien in origin?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145231.html](http://www.nuforc.org/webreports/reports/145/S145231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving home from the grocery store and as I approached my home, I saw an orange orb glowing in the sky.  I could not take my eyes off it as I was driving.  I was mesmerized. It appeared to be driving with me and when I got on my street, I stopped right in front of my house to just watch it and it did not appear to move.  I then called my fiancee and told him to run out side.  I then jumped back in the car and then the orb appeared to go back out into the night sky put stayed parallel to the landscape.  It was a clear night tonight.  My fiancee saw the orb as well when it was flying away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145215.html](http://www.nuforc.org/webreports/reports/145/S145215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
