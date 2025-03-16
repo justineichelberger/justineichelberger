@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 16 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 9:15 - 9:15 minutes.</sub><blockquote><sub>march 16, 2012 ufo fireball sighting!At approximately 9:00-9:15 pm est I witnessed a fireball going west to east as i was driving up peach street in Erie pa. I was at stop light looking south as I seen what appeared to be a high definition fireball flying at such a even speed as if it was never going to stop until it crashed into something. It also appeared to be going on such a straight path.  It was not like a shooting star where u barely have time to see.  It was like a computer animated fireball that gracefully cut through space for 5-8 seconds till it dissappeared.  I can't believe I'm the only one to see this UFO or super advanced technology.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89169.html](http://www.nuforc.org/webreports/reports/089/S89169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Westerly (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object flying along side an airplane disappeared into the clouds, emerged 5 minutes later and flew southwest.I was looking out the window at 12:45 when I saw a plane flying in the direction from north to south at a high altitude.  I then noticed a small circular object flying along side it.  The circular object slowed down to a speed much slower then the plane and disappeared behind the clouds.  At this point the plane flew over head, and I went outside for a closer look.  About 5 minutes passed and I then noticed the same object emerged from the clouds, stayed at the high altitude and started to fly south west at what looked like at a slow speed.  I could see the object better when it was directly over my house because it was heading closer to the sun.  The object looked like it was rotating because every time it rotated there was a brief reflection.  The Object stayed at a slow pace for 5 more minutes heading south west until it was no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74678.html](http://www.nuforc.org/webreports/reports/074/S74678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [278](http://www.nuforc.org/webreports/reports/162/S162396.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162394.html)
-- [276](http://www.nuforc.org/webreports/reports/162/S162426.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162381.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162472.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
