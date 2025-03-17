@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>See VideoLeaving work at Everett (Paine Field), I noticed a silent object at about 500 to 1000 feet up and traveling 50 to 100kts against prevailing wind direction.  Object was traveling east to west, wind direction was north to south.  Object was completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139388.html](http://www.nuforc.org/webreports/reports/139/S139388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Highland (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>v formation lights looks like glowing geese flyingMy fiance and I were sitting outside. I was looking at the stars and saw a bunch of lights in a V formation traveling north(looked like glowing geese) I pointed to the sky and my fiance saw it as well. We watched it for a few seconds and right before it disappeared it made a zig zag pattern crossing over top of eachother. We watched for a little bit longer and could not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74688.html](http://www.nuforc.org/webreports/reports/074/S74688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
