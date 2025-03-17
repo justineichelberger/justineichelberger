@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:08 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norway (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Clear sky night, noticed a bright light much more visible than stars, slightly above 2000'. Rapidly changing in brightness and sometimes color.  Slowly moving up and down & side to side.  Dog and parrot were startled for no apparent reason.  Light disappeared after about 15 minutes.  Have about 3 minutes of video recorded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154248.html](http://www.nuforc.org/webreports/reports/154/S154248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>St. Patrick's Day U.F.O. sighting in Lawton, OKI witnessed a bright white light traveling through the (north-eastern) sky behind my back yard. It appeared to be slightly smaller in diameter than that of a pencil eraser when held at arm's length.  The object moved smoothly and in a fluid like motion through a "J" shape arc and then stopped momentarily continuing on with a quick start into a sort of "S" shaped arc before "blinking" out of visability.  It appeared to be flying at a fairly high altitude above the low lying scant cloud cover and its speed seemed to be about twice as fast as a conventional commercial aircraft.  It should be noted that not far from the location of observation is a rather sizable and active Army base, (Fort Sill.)  We routinely witness unique displays of military air transport (hundreds of black helicopters and fighter jets, as well as orange and yellow flares.)  This object did not appear to be a flare, or a military or civilain aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80519.html](http://www.nuforc.org/webreports/reports/080/S80519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
