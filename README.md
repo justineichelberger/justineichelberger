@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>St. Patrick's Day U.F.O. sighting in Lawton, OKI witnessed a bright white light traveling through the (north-eastern) sky behind my back yard. It appeared to be slightly smaller in diameter than that of a pencil eraser when held at arm's length.  The object moved smoothly and in a fluid like motion through a "J" shape arc and then stopped momentarily continuing on with a quick start into a sort of "S" shaped arc before "blinking" out of visability.  It appeared to be flying at a fairly high altitude above the low lying scant cloud cover and its speed seemed to be about twice as fast as a conventional commercial aircraft.  It should be noted that not far from the location of observation is a rather sizable and active Army base, (Fort Sill.)  We routinely witness unique displays of military air transport (hundreds of black helicopters and fighter jets, as well as orange and yellow flares.)  This object did not appear to be a flare, or a military or civilain aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80519.html](http://www.nuforc.org/webreports/reports/080/S80519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue "energy egg" beamed down from spacecraft over San Antonio Texas eludes airport radar.On a saturday night mid march (either the weekend of march 12 or 18th)2000 at approximately 4:00 am, myself and a friend who are avid skywatchers and stargazers observed a triangle shaped craft moving from south to north directly overhead in northwest san antonio texas. The craft emitted a blue laser beam from the craft to the ground and a blue egg shaped object which looked like it was comprised of millions of tiny particles of energy,was "beamed down" to the earth from this craft as if from some star trek movie. The blue egg shaped object was carefully projected down the laser beam and once it was "released" at ground level the laserbeam retracted back into the spacecraft.  We had the local airport tower on the phone during the event and the airtraffic controller on duty assured us that there was nothing on the radar fitting this description and that the only thing they had on radar was a medivac unit coming into san antonio from boerne flying from west to east into the airport.The air seemed to buzz with an electric/static during the event, and as soon as the blue egg was released from the beam the spacecraft took off at an extremely high rate of speed then disappeared.Could anyone tell us what it was that we witnessed being beamed down ? Was this of an alien nature or that of our own governme Thanks, ((Name deleted))((NUFORC Note:  No other reports about this incident, that we are aware of.  It is not clear what date the witness is alluding to, the 12th or 13th, the 17th or 18th of March.  We will attempt to clarify with witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14670.html](http://www.nuforc.org/webreports/reports/014/S14670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
