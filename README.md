@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:53 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 very bright lights in a V formation, no sound and flying very slowlyOn March 17, 2004, around 8:30pm, I was taking my daughter to the hospital because she was having a flare up of her Crohn's Disease. When she was going around to the passenger side of the car she saw 3 bright lights to the north of us and said "mom, what is that?" I came out and looked, and saw 2 very bright white lights and one smaller one in kind of a triangular formation, but closer than any planes I've ever seen. They didn't seem to be moving and looked fairly close to the ground. I ran in and got my daughters' digital camera, and told my son to come out and look at them too. When I came back, they were still in the same spot. She took a picture & they started moving toward us, so she took another picture. They turned SSE of us, moving toward Ahtanum Ridge slowly. We could see lights flashing, so at first I thought it might be planes, but they didn't make a sound. We watched them go south over the ridge towards Wapato, then they were gone. My daughter called the newspaper the next morning to see if anyone else had reported it & they said no. She also called the FAA tower at the airport to see if they saw them, but the guy she talked to said none of them were on duty the night before. He also jokingly asked someone in the room with him if he could tell her it was ufos, and they said "No".I found this site tonight because I was still thinking about what we saw, and when i read the reports from Ellensburg & Yakima on the same date, i had to file my report too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35877.html](http://www.nuforc.org/webreports/reports/035/S35877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Wickenburg (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A bright, silent,  white circular light hovered for about 20 minutes and then sped off and disappeared.Two of us were sitting on the back porch looking up at the crystal clear sky and observed a white circular bright light hovering at about 500 feet. It remained stationary for about 20 minutes. We went in and called the local airports and their response was: there are no reported aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53218.html](http://www.nuforc.org/webreports/reports/053/S53218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
