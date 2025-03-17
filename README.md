@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two white, spherical shaped craft flying Eastbound over Ventura Boulevard from Sale Avenue. Very slow, maybe about 25mph and at about two thousand feet above ground altitude. They both maintained a fixed distance from each other as they moved and going in the same direction. Sid not speed up or slow down during the minute or two during the observation. These were not drones, fixed wing aircraft, balloons, or helicopters. They looked like two golf balls flying in formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162415.html](http://www.nuforc.org/webreports/reports/162/S162415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There was extreamly bright lights or a extramly bright light  on craft.I had seen one extremely bright light.  Came into focus fast and hovered over building.  Dropped about 15' out of the air & rose about the same all in a matter of seconds.  Had some what of a crown but was hard to look at due to the blinding light.  Zipped away leaving a trail of light in it's path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154298.html](http://www.nuforc.org/webreports/reports/154/S154298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
