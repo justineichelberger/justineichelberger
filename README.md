@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Riverside (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright spere flying through the skyto sum it up, the object was about as bright and big as venus was a few weeks ago moving through the sky. I thought it may have been an airplane but as it passed the brightness remained constant so I am sure it was not an airplane. There were no other lights just a bright blue-white spere very large and very high. It was not racing across the sky just moving at a moderate speed about as fast an airliner would fly by us being that we are close to ohare and midway airports. I was on the phone with my brother at the time who lives in the same town about a mile away and he could see it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69244.html](http://www.nuforc.org/webreports/reports/069/S69244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>phoenix lights over san diegothis is just an update to what i saw back in march 13 1997..it was when i lived in san diego,,and during the night around 8 or 9 as i was heading to the garage to watch t.v. i saw 24 red lights,,,but not that bright...there was two formation of light 12 lights to each formation...each formation was slightly over lapping each other from the middle,,kind of like the olympic symbols except only 2 but lying flat in the sky...plus i could make out the stars threw each formation,,but im still not sure if this formation was solid,,,just the lights,,that were 200 yards above and slightly right of my grandparents house....what i saw that night was totally stunning,,,plus my friend had the chance to encounter these red lights too!!!.the really stunning thing about all this was that all together the lights were in the sky for 20 minutes and suddenly one by one each light from the middle outwards went out like a light switch except only 2 lights were left in the sky....the 2 lights that were left were the out side lights from each each formation,,,the two lights started flying towards each other at a low rate of speed and came together to make one light.this one light slowly started blinking,,,the rate of blinking was slower then that of most aircraft on board lights,,anyway's this slow blinking red light took off really slow away from us over the hills and towards the ocean,never to be seen again by me or my friend,,until i saw on unsolved mystery's about the "phoenix light",,when i saw that i freaked out because i thought until then that only me and my friend saw that kind of formation!!! i was wrong!,,,but i get mad because people always make a huge deal aboutwhat happened in phoenix,,maybe because more people seen the red lights!!!,but now i had seen them over are house in and over the sky's of san diego!!.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51451.html](http://www.nuforc.org/webreports/reports/051/S51451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
