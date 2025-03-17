@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue "energy egg" beamed down from spacecraft over San Antonio Texas eludes airport radar.On a saturday night mid march (either the weekend of march 12 or 18th)2000 at approximately 4:00 am, myself and a friend who are avid skywatchers and stargazers observed a triangle shaped craft moving from south to north directly overhead in northwest san antonio texas. The craft emitted a blue laser beam from the craft to the ground and a blue egg shaped object which looked like it was comprised of millions of tiny particles of energy,was "beamed down" to the earth from this craft as if from some star trek movie. The blue egg shaped object was carefully projected down the laser beam and once it was "released" at ground level the laserbeam retracted back into the spacecraft.  We had the local airport tower on the phone during the event and the airtraffic controller on duty assured us that there was nothing on the radar fitting this description and that the only thing they had on radar was a medivac unit coming into san antonio from boerne flying from west to east into the airport.The air seemed to buzz with an electric/static during the event, and as soon as the blue egg was released from the beam the spacecraft took off at an extremely high rate of speed then disappeared.Could anyone tell us what it was that we witnessed being beamed down ? Was this of an alien nature or that of our own governme Thanks, ((Name deleted))((NUFORC Note:  No other reports about this incident, that we are aware of.  It is not clear what date the witness is alluding to, the 12th or 13th, the 17th or 18th of March.  We will attempt to clarify with witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14670.html](http://www.nuforc.org/webreports/reports/014/S14670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two redish lights moving together, quickly, without sound in a West to East manner.We were viewing Jupiter and my daughter pointed out something she saw in the NW sky.  I observed two redish lights, not very bright, moving together.  One was above the other and they moved from West to East (generally).  They seemed to be darting slightly and their path was not a perfectly straight line.  They seemed to be moving very quickly and covered 90 degrees or so in less than five or six seconds.  There was absolutely no noise whatsoever. There were no aircraft in the vicinity.  My daughter's first impression was that she was seeing moths, as she described the motion as "fluttering".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05959.html](http://www.nuforc.org/webreports/reports/005/S05959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
