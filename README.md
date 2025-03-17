@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lake Almanor (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>i witnessed 3 crafts, in the sky, with strange lighting, and suspicious movements, tonight at about 9:00pm over dyer mountain, near Lake Almanor, CA.At 9:00 pm, out for an evening walk, i noticed what appeared to be an airplane flying southeast over dyer mountain. It was moving quite slowly, white and red lights flashing.  i then witnessed it to completely change directions, suddenly, headed back towards where it came.  two more craft then appeared, towards the north, with red lights, not flashing. they moved suspiciously together, then apart, moving to and from, not in straight lines, neither vertically or horizontally.  the first, seemingly larger craft then "joined" the two others, and they flew off slowly over the mountain.  for about an hour afterwards, i noticed a remarkable number of planes flying over the area, about 1 every 60 seconds.  the sighting of the craft lasted about 60 seconds before they flew out of sight.  just an ordinary evening stroll turned quite curious.  this was the first sighting of this type i have ever had.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05960.html](http://www.nuforc.org/webreports/reports/005/S05960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in California (city unspecified) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangular shape with 3 red lights one yellow light in the center((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87762.html](http://www.nuforc.org/webreports/reports/087/S87762.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
