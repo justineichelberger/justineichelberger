@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in California (city unspecified) (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Triangular shape with 3 red lights one yellow light in the center((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87762.html](http://www.nuforc.org/webreports/reports/087/S87762.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SMALL GLINTING OBJECT WITH "PROPELLERS" IMAGED IN DIGITAL SLROUSIDE LOOKING FOR UFOS WITH DSLR READY.CAUGHT SIGHT OF A SMALL OBJECT GLINTING IN SUNLIGHT AT ELEVATION OF 80-85 DEGREES. AIMED THE CAMERA AT OBJECT AND SHOT ABOUT FIFTY FRAMES.OBJECT GLINTED IN VIEWFINDER AT 3-4 SECOND INTERVALS,SO TRIED TO TIME SHUTTER RELEASE WITH GLINTING.THE OBJECT SEEMED QUITE HIGH,BUT MOVING STEADILY FROM NORTH-WEST TO SOUTH-EAST,(MAYBE)SIMILAR SPEED TO AIRLINER.AS OBJECT MOVED AWAY,NOTICED A B737 HEADING FOR VICINITY-THEN LOST SIGHT OF OBJECT.WENT INSIDE AND LOADED IMAGES INTO LAPTOP.UFO LOOKED VERY ODD METALLIC OVAL WITH PROPELLER-LIKE PROTRUSIONS.THESE PROTRUSIONS ARE SLIGHTLY DIFFERENT IN EACH IMAGE-ALMOST LIKE THEY WERE ROTATING RAPIDLY.DUE TO THIS CHANGING SHAPE,CANNOT SAY THIS WAS A BALLOON.OBJECT WAS SHINY ALUMINIUM METALLIC,WITH SOME DARK SPOTS IN THE CENTRE PORTION THAT STAYED IN POSITION RELATIVE TO "PROPELLER" MOVEMENT.VERY STRANGE.NO NOISE OR VAPOUR TRAIL WAS NOTED.NO LIGHTS WERE OBSERVED ON OBJECT EXCEPT FOR SUNLIGHT REFLECTION.SENT AN IMAGE TO NUFORC DIRECTOR EMAIL.HAVE RETAINED THE IMAGES ON COMPACT FLASH CARD.CAMERA USED:CANON 400D +200MM L TELEPHOTO LENS. IM A 40 YEAR OLD ELECTROPLATER,AND AN AMATEUR ASTRONOMER,WITH 30 YEARS EXPERIENCE OBSERVING THE SKY!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55825.html](http://www.nuforc.org/webreports/reports/055/S55825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
