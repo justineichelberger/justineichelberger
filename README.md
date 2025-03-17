@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>There was extreamly bright lights or a extramly bright light  on craft.I had seen one extremely bright light.  Came into focus fast and hovered over building.  Dropped about 15' out of the air & rose about the same all in a matter of seconds.  Had some what of a crown but was hard to look at due to the blinding light.  Zipped away leaving a trail of light in it's path.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154298.html](http://www.nuforc.org/webreports/reports/154/S154298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>25 miles west of Tucson, Az.  Strange orange balls in a triangle pattern, in march of 1997.I didn’t realize it at the time of course, but this sighting was on the same night as the famous Phoenix lights in 1997.  I heard the mention of them on Coast to Coast AM on Saturday and it got me re-excited.  I live aprox 30 miles west of Tucson Az, between Tucson and the Barry Goldwater Air Force Range.  I do not live close enough to the range to ever see flares or ordinance dropped, however.  Between 19:30 and 21:00 I was driving a friend of mine home on my ATV, when he spotted 9 orange balls in the sky in a triangle pattern.  When my friend hit me on the shoulder and made me look six of them had gone out and I only saw 3 orange balls in a triangle pattern.  They way they went out was strange.  It seemed like they turned, or maybe like a larger black circle had covered them, almost like an eclipse over them. I stared at them for aprox. 5 seconds and then 2 of them went out at the same time, then the last one about 1 second later.  The Impression I got was that they were about 10 miles away, and very large.  When I returned home, 2 of my neighbors called me over and told me they had seen weird lights in the sky out towards Kitt Peak (which is a observatory in the same direction I saw my lights).  Because they were towards the Barry Goldwater Range, I dismissed them as flares, even though they appeared to be well outside the boundaries of the range. "What else could they be?" I thought.  A few weeks later I heard about the Phoenix lights from my neighbor who also saw my lights, and told me she wondered if the ones we had seen and the Phoenix lights were related.  Since this sighting, I spent 4 years in the Marine Corps, and became familiar with aerial and ground fired flares and I have never seen anything that looked like this.  When I heard On Coast to Coast AM that there were sightings west of Tucson on that night as well, I wanted to report mine, even though it is late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34565.html](http://www.nuforc.org/webreports/reports/034/S34565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
