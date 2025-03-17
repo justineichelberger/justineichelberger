@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 17 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Montague (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Many dancing orbs across the night skyOn the evening of March 17, 2017, upon arrival home from work, I turned onto Cemetery Road from State Hwy. 206, heading toward my home, when I saw 4 bright white orbs lined up from the mountain in diagonal fashion.  Then they suddenly scattered in various directions.  After they disappeared, 2 white orbs, 2 red orbs and 2 gold orbs took their place.  The 2 gold orbs took off toward the west.  The 2 red orbs took off toward the north. The 2 white orbs remained.  The gold and the reds returned.  More white orbs spawned from the stationery white orbs.  The new white orbs seemed to bounce along the mountaintop then way up in the sky.  They seemed to travel in tandem.  At one point 10 white orbs gathered a cluster of 5 pairs above the mountaintop.  This went on for several hours with orbs breaking away from a pair or cluster and seemingly dancing across the sky.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133201.html](http://www.nuforc.org/webreports/reports/133/S133201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>See VideoLeaving work at Everett (Paine Field), I noticed a silent object at about 500 to 1000 feet up and traveling 50 to 100kts against prevailing wind direction.  Object was traveling east to west, wind direction was north to south.  Object was completely silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139388.html](http://www.nuforc.org/webreports/reports/139/S139388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/162/S162934.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162420.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162501.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162411.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162413.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
