@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:21 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Robertsville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>03/18/12 Robertsville mo 4 high altitude  fast zig zagging UFOs over south /south east sky03/18/12 I was on porch today  smoking my morning cigg looking to the south west and looked left toward the south / south east  and seen 4 high flying zig zagging objects moving at high speed much higher than the normal planes I see all the time, the objects made turns 90 degrees and shot around faster than a falling star  but were constant and as bright as a star that one could see on a clear night , this is my first experience encountering these objects, they were like bright  ping pong balls that were intelligent moving fast and very precise maneuvering around together like a group but doing things I've never seen like stopping and going 90 degree turns and  reverseing and then disappeared behind the trees on the horizon , but we're still very high altitude . I have seen planes, comets, satellites,  ext this was different enought that I got online to find out how to report what I saw. Thanks((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87765.html](http://www.nuforc.org/webreports/reports/087/S87765.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cherry Valley (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 540.0 - 540.0 minutes.</sub><blockquote><sub>Red pulsing light over Cherry Valley, NYOn Tuesday, March 18th, 2008, I was walking my dog around the yard at approximately 8:45pm.  I looked up in the sky to see the stars and saw a large red pulsing light in the western sky.  My immediate thought was, ‘who put that huge tower up today??’.  Realizing the light was too big to be a light on top of a tower, and the fact that we live in a very rural part of NY state and do not have cell towers or otherwise in the area, I continued to watch the light.  It did not move.  It pulsed brighter, then duller in a continuous rythym.  I went into the house and up to my bedroom window on the second floor to continue to watch it.  I called both my son and daughter into the room so they could see it also.  We were all mystified as to what it could be.   It was continuing to pulse but was not moving in any way.  I went to sleep and when I awoke in the morning to take my dog out again, it was STILL in the same position at 6:30am.  After watching it again for a few minutes it was just gone.  I waited to send this report so that I could see if the same thing happened again last night (thereby possibly being some distant tower, knowing it couldn’t be), but there was nothing.  For the life of me, I do not know why I didn’t film it.  I  have no explanation.  That’s not like me.  I asked a neighbor if she’d seen anything and she said she saw a strange light when she was coming out of her barn, but told herself it was a plane, even though she knew it wasn’t moving.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62255.html](http://www.nuforc.org/webreports/reports/062/S62255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
