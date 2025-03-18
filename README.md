@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 round white disks flying in formation, hovered then a forth appeared, then all four sped off.Three objects in triangle formation in the skys above the San Bernardino Mtns/Devore, three lights at each point, then one light broke formation spun around the two and then a fourth object/light appeared hovered momentarily then all four sped off and disappeared into the northward sky. approx 3 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69265.html](http://www.nuforc.org/webreports/reports/069/S69265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metalic Pyramid like object seen over Tampa Florida Downtown in daylight.I'm a 31 year old female.  I Spotted a highly reflective, metallic pyramid like object hovering around the Hotel Floridan in day light at Tampa Downtown.  Appeared to be 5x5 feet in height and width.  The object rotated slowly showing it's flat metallic surfaces, reflecting the sun on its panels.  I watched it slowly move down from the sky in the distance towards the building 15 floors up from my apartment.  At first I thought it was a helicopter but as it got closer, I noticed it looked nothing like it.  I then tried to see if it was a balloon.  But when I saw it move in a zig zag movement going up, down, left and right, I scratched that idea too.  I watched it move up and down along the building and then quickly move off into the horizon, changing its speed as it eventually zipped upwards into the sky.  I'm hoping other's saw this object too. Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118005.html](http://www.nuforc.org/webreports/reports/118/S118005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
