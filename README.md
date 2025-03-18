@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Long isosceles triangle shaped jet like flying object seen at irregular visibility pattern as it continued to fly, seen flashy at times.I was in my balcony of the house near University of Central Florida, I just lifted my head to see the jet hearing the jet noise, but then I also saw some other jet like flying object.  It was moving faster than the jet, it was flashy seen at irregular pattern as it continued to fly.  There was no trial left behind like jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139194.html](http://www.nuforc.org/webreports/reports/139/S139194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>As I was checking street lights, suddenly appearing from the north-west horizon a trail of fire, then the intensity of light dimmed to a glowing orange/yellow object appearing to slow down to almost overing for few seconds over city,  Object then accelerated toward the east, ocean. Picture taken.((NUFORC Note:  Launch of Delta IV out of Cape Canaveral at 20:18 hrs., 18MR17:http://www.space.com/36117-wgs9-military-satellite-delta-iv-launch-photos.html PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133182.html](http://www.nuforc.org/webreports/reports/133/S133182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
