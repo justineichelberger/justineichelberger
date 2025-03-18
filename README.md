@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely high,barely visible,sudden change of direction, change of light colour from white to amber.I WAS SITTING IN MY FRONT YARD AT ABOUT 16:15 AND NOTICED A FAINT LIGHT IN THE SKY. I"VE NEVER SEEN AN OBJECT THAT HIGH BEFORE IN AN ABSOLUTELY CLEAR BLUE SKY.WHEN I CAME OUTSIDE WITH MY BINOCULARS AND FOUND THE OBJECT IT WAS COMING FROM THE EAST AND CONSISTED OF FOUR EXTREMELY BRIGHT LIGHTS IN A TRIANGULAR FORMATION AND IT HAD A FAINT BUT DISCERNABLE CONTRAIL. I LOST SIGHT OF THE OBJECT MOMENTARILY AND WHEN I RE-ACQUIRED IT THE OBJECT WAS TRAVELLING IN A NORTH -WESTERLY DIRECTION EXTREMELY FAST AND EARLIER BRIGHT WHITE LIGHTS WERE NOW A AMBER COLOUR.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35655.html](http://www.nuforc.org/webreports/reports/035/S35655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 49.0 - 49.0 minutes.</sub><blockquote><sub>Looked like a brighter star almost blueish, was zig zagging and then would dance around then another light darts and up and joined bouncing around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133187.html](http://www.nuforc.org/webreports/reports/133/S133187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
