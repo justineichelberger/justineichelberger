@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Pale, ruddy starlike objectWhile stargazing, I noticed a "star" that should not be there, and while I stared at it, it started to move slowly. Noticed it in the Bootes patch of sky, it moved slowly through Ursa Major. Looked like a reddish star, near the color of Antares perhaps. It did not blink, flash, or change color. Visual magnitude, approximately 3.5. It seemed to speed up just a little while it traveled between Arcturus and eta-UM. Slowed down in Ursa Major, and I lost it to the sky. I'm estimating very high altitude or low Earth orbit. The satellites I'm used to seeing move faster than what I am reporting here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16888.html](http://www.nuforc.org/webreports/reports/016/S16888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Stanton (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 06:45=06:50 - 06:45=06:50 minutes.</sub><blockquote><sub>Big triangle shaped craft with two bright lights just above tree line.  It vanished as I got passed.I was on my way to work driving along the Mountain Parkway when i saw something large in the sky ahead of me.  I wouldn't have noticed it if it weren't for the lights on the front.  It was just above the trees and sat motionless.  From the distance I thought it was perhaps a plane or a helicopter but as I drew nearer I saw that it had a triangular shape and didn't wasn't making any sound.  I pressed the gas harder and quickly hurried on down the road.  I chanced a look back and was shocked to that it was gone. Where could something that big go that fast?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69306.html](http://www.nuforc.org/webreports/reports/069/S69306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
