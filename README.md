@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Timmins (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Many lights passing over head same directionWas shovelling my driveway looked up at clear night sky and from the North West to the South East many lights all in a line one after another crossed the sky. Not blinking lights just a solid light one after another. I counted 25 of them. Brought my wife and daughter out to see this happening. Same speed same distance apart (roughly estimated). Any ideas to what it was?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154286.html](http://www.nuforc.org/webreports/reports/154/S154286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Toms River (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silent Rectangular aircraft sighted mid-march, toms river, new jerseyLater to mid-day, i was standing out on my deck which faces southwest, and i saw to the right a gray rectangular-shaped aircraft, guessing about 500 feet up, silent, moving eastward, slowly, low enough that i could see it did not have landing gear, or windows, like a flying box, with lights around the perimeter, not underneath, red and green and white, AND another identical flying gray "box" on the opposite side of me, westbound, and then a third one further in distance, flying toward my house, coming from the west.  Size?  I'm guessing about the size of a conventional 747 aircraft, but rectangular with no wings.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62366.html](http://www.nuforc.org/webreports/reports/062/S62366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
