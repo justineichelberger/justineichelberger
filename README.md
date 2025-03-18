@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Clear day cylinder UFO caught on tape over Santa Monica , California.An associate of mine observed a cylinder shaped object high in the clear blue sky on Monday the 18th of March 2002. I work near this valet associate. We speak every day as I make office transactions. I encouraged him to get a video camera because he's outside all day and would catch something on video in the clear daytime sky. Yes he got something on tape. I viewed it and made copies. He said that he was just looking around the blue sky and boom there was a giant cylinder tube like object. It appeared greenish, then completely white. He focused on the daytime moon and panned over to the object. He said the object was small and stretched out like a giant straw. The object moved slowly changing shape and position. It later faded. As he shot the footage, he date and time stamped it. I have copies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22273.html](http://www.nuforc.org/webreports/reports/022/S22273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aliquippa (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  68</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155077.html](http://www.nuforc.org/webreports/reports/155/S155077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
