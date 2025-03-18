@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Berwyn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>BRIGHT RED/ORANGE LIKE LIGHT CONSUMED ENTIRE LIVING ROOM.I WAS SLEEPING ON MY COUCH IN THE LIVING ROOM  I HEARD A VERY STRANGE NOISE LIKE SOMETHING FALLING OR RISING FROM THE SKY, SOMETHING LIKE A PLANE BUT IT WASN'T A PLANE.  AS I HEARD THIS NOISE I GET UP FROM THE COUCH AND I LOOK AT MY WINDOWS AND A VERY BRIGHT RED LIGHT CONSUMED MY ENTIRE LIVING ROOM EVEN THOUGH I HAVE DRAPES IT WENT RIGHT THRU REALLY BRIGHT RED.  I THEN OPENED MY FRONT DOOR AND I LOOK STRAIGHT TO THE STREET AND THAT LIGHT RAPIDLY STARTED TO FADE AND IT KIND OF SHOT UP IN AN ANGLE AND THE LIGHT KIND OF TRAILED THEN  DISAPPEARED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107913.html](http://www.nuforc.org/webreports/reports/107/S107913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Robertsville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>03/18/12 Robertsville mo 4 high altitude  fast zig zagging UFOs over south /south east sky03/18/12 I was on porch today  smoking my morning cigg looking to the south west and looked left toward the south / south east  and seen 4 high flying zig zagging objects moving at high speed much higher than the normal planes I see all the time, the objects made turns 90 degrees and shot around faster than a falling star  but were constant and as bright as a star that one could see on a clear night , this is my first experience encountering these objects, they were like bright  ping pong balls that were intelligent moving fast and very precise maneuvering around together like a group but doing things I've never seen like stopping and going 90 degree turns and  reverseing and then disappeared behind the trees on the horizon , but we're still very high altitude . I have seen planes, comets, satellites,  ext this was different enought that I got online to find out how to report what I saw. Thanks((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87765.html](http://www.nuforc.org/webreports/reports/087/S87765.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
