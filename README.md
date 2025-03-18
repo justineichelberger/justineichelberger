@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Metalic Pyramid like object seen over Tampa Florida Downtown in daylight.I'm a 31 year old female.  I Spotted a highly reflective, metallic pyramid like object hovering around the Hotel Floridan in day light at Tampa Downtown.  Appeared to be 5x5 feet in height and width.  The object rotated slowly showing it's flat metallic surfaces, reflecting the sun on its panels.  I watched it slowly move down from the sky in the distance towards the building 15 floors up from my apartment.  At first I thought it was a helicopter but as it got closer, I noticed it looked nothing like it.  I then tried to see if it was a balloon.  But when I saw it move in a zig zag movement going up, down, left and right, I scratched that idea too.  I watched it move up and down along the building and then quickly move off into the horizon, changing its speed as it eventually zipped upwards into the sky.  I'm hoping other's saw this object too. Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118005.html](http://www.nuforc.org/webreports/reports/118/S118005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>red light which move slowly and gone rapidly  a red ligh  seen in northwest of city without any sound or noise and with slowly move.its stay for 5-7 minutes and it gone rapidly.and the red light was stoped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55772.html](http://www.nuforc.org/webreports/reports/055/S55772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
