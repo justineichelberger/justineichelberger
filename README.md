@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Noblesville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Moving light that slowed down, stopped, stood still and then disappeared.I was taking my dogs out; I just moved into a new development and there's a field behind my house.  I looked up and saw a light moving across the sky left to right.  I thought it was a plane, but you could see planes and they had blinking lights.  I read yesterday there would be an asteroid you could see from earth so I thought maybe that was it.  I kept watching it and it slowed down.  Asteroids don't do that.  Then it stopped.  I wanted to run inside to get my coat. As I was going in the back door I had a feeling if I turned around it would be gone.  I took another look at it through the screen door and it wasn't moving.  I ran to get my coat, maybe 20 seconds when I came back out it was gone.  I ran to the field and looked in every direction, but it was gone.  Weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35691.html](http://www.nuforc.org/webreports/reports/035/S35691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bryant (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 light crafts captured on videoWife yells "UFO," so I jump up and run outside to see my wife and son, age 11, watching 2 disc shaped "Ships of Light" straight up Rollin.  They were two separate craft, one following the other.  They weren't physically connected but were connected, or synced rather.  Each craft was the most brilliant orange, probably about 30 ft across cruising maybe 25, 30 mph.  We all watched until they eventually faded away northbound.  My son captured 4 seconds of video of this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134717.html](http://www.nuforc.org/webreports/reports/134/S134717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
