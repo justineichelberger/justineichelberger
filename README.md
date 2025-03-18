@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bryant (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 light crafts captured on videoWife yells "UFO," so I jump up and run outside to see my wife and son, age 11, watching 2 disc shaped "Ships of Light" straight up Rollin.  They were two separate craft, one following the other.  They weren't physically connected but were connected, or synced rather.  Each craft was the most brilliant orange, probably about 30 ft across cruising maybe 25, 30 mph.  We all watched until they eventually faded away northbound.  My son captured 4 seconds of video of this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134717.html](http://www.nuforc.org/webreports/reports/134/S134717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 round white disks flying in formation, hovered then a forth appeared, then all four sped off.Three objects in triangle formation in the skys above the San Bernardino Mtns/Devore, three lights at each point, then one light broke formation spun around the two and then a fourth object/light appeared hovered momentarily then all four sped off and disappeared into the northward sky. approx 3 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69265.html](http://www.nuforc.org/webreports/reports/069/S69265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
