@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:00 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>V-Shaped cloudy object with 6 lights.Saw lights in a v-shape formation move across the sky silently.  Seemed almost cloudy around it.  Could see through it, like it was a boomerang shape instead of a full triangle.  V shape was narrow compared to the stealth bomber.  Witnessed by two people.  After losing sight and still looking at the stars for a while, I saw it, or a second, come back around.  This time I counted 6 lights, 3 on each side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107957.html](http://www.nuforc.org/webreports/reports/107/S107957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Observed light for forty-five min before it moved away.I watched an object in the sky of North central Indiana. The object appeared as a star, but brighter than any normal star in the sky.  Something about the object continuously grabbed my attention and made me pay more attention to it than I would a normal star or planet.  I am certain it was not Jupiter or Venus, due to the fact that both of these planets were visible in the western sky and the object in question was much more northerly in direction.  I observed the light in the sky for close to forty-five minutes from Kokomo, Indiana north along US-31 to the Indiana State route 10 at the town of Argos, Indiana.   As I passed the Argos junction, I noticed the light began moving in a clockwise rotation in front of me.  This lasted almost three seconds for the entire rotation.  The object then proceeded in a north western direction towards Plymouth, IN.I am a truck driver and drive this route five days a week.  I have never noticed anything unusual or strange in the sky and I am very familiar with the stars and planets in the sky at night along this stretch of highway.  The light stayed stationary for close to an hour before moving, but I was drawn to keep looking at it.  There was something different about it, but I am still not sure what it was besides the movement at the end of the event.I was very shaken by the experience and really need to get some grasp on what I have seen.  I have never seen anything stay stationary for so long and rocket off with such speed.  I truly have no idea what I observed, but I know it was no plane or planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88201.html](http://www.nuforc.org/webreports/reports/088/S88201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
