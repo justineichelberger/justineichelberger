@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Observed light for forty-five min before it moved away.I watched an object in the sky of North central Indiana. The object appeared as a star, but brighter than any normal star in the sky.  Something about the object continuously grabbed my attention and made me pay more attention to it than I would a normal star or planet.  I am certain it was not Jupiter or Venus, due to the fact that both of these planets were visible in the western sky and the object in question was much more northerly in direction.  I observed the light in the sky for close to forty-five minutes from Kokomo, Indiana north along US-31 to the Indiana State route 10 at the town of Argos, Indiana.   As I passed the Argos junction, I noticed the light began moving in a clockwise rotation in front of me.  This lasted almost three seconds for the entire rotation.  The object then proceeded in a north western direction towards Plymouth, IN.I am a truck driver and drive this route five days a week.  I have never noticed anything unusual or strange in the sky and I am very familiar with the stars and planets in the sky at night along this stretch of highway.  The light stayed stationary for close to an hour before moving, but I was drawn to keep looking at it.  There was something different about it, but I am still not sure what it was besides the movement at the end of the event.I was very shaken by the experience and really need to get some grasp on what I have seen.  I have never seen anything stay stationary for so long and rocket off with such speed.  I truly have no idea what I observed, but I know it was no plane or planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88201.html](http://www.nuforc.org/webreports/reports/088/S88201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bogota (Colombia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sighting of white opalescent lenticular UFO.I was smoking a cigarette at my 4th floor apartment‘s balcony when I saw an opalescent white disc flying at constant speed, let’s say 100 Km/h or more and 100 to 150 meters above, with no sound and directed north.  At first, I thought it was a balloon but it didn’t have any oscillatory movement and a few seconds later I realized that it was lens-shaped.  I couldn’t follow its path because it passed over the building. I am 43 years old, physician, MSc.  In Biomedical Sciences and work as a biomedical researcher in a local hospital.  Night was clear and with almost full moon bright at east.((ADDENDUM FROM WITNESS))Hi.  It was like 3/4 the size of the moon.((END ADDENDUM))((ADDENDUM #2 FROM WITNESS))Peter,  Thanks for your kind reply.  I have to add I am very sceptical about this things but this was very weird.  The object also traced a perfect lineal trayectory and had no lights neither fumes.Regards,((END ADDENDUM #2))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107960.html](http://www.nuforc.org/webreports/reports/107/S107960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
