@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:05:43 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:42 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Islamorada (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a silvery white cigar shaped object, very high in the sky, no wings, no contrails, move steadily from north to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117910.html](http://www.nuforc.org/webreports/reports/117/S117910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Mobile (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 13:10 - 13:10 minutes.</sub><blockquote><sub>Woman w/ children & neighbor see dark obj. fly overhead, go through roof of townhouse, Flashing lights in house next day F-16's.I was in the front yard with children and two neighbors and their children (all children under 3 yrs old).  We we sitting in our chairs and looked up and saw a disk shaped shadow that descended from the sky and appeared to penetrate into the second floor of my town home the room where my children sleep.  We all freaked out a little bit, and joked that it looked like UFO.   The next morning, a little after 8 am.  I had just came down stairs.  My two and a half year old son... was already down stairs and the phone rang.  My neighbor called to see what time to meet outside with the kids to play.  And I saw my 1 yr old coming down the stairs so, I hung up and grabbed him.  I walk with him in my arm into my kitchen.  And all the sudden, I saw white flashing lights.  I looked out front and the back windows and there was nothing outside.  That's when I realized it was coming from inside my townhouse.  And the light was emanating white beams that began to  speed up violently...  Then it got faster and faster and faster and my chandelier was shaking and then it was gone.  That episode lasted approx. 45 seconds.  The light was not as bright as it was White the Whiteness of it was striking to me.  I grabbed both children and ran next door to my neighbor (who witnessed the prior night disk in the sky).  I called the Mobile Police Dept from her townhouse the was next to me.  And spoke to someone to took down my story and assured me that my story was important and to call the National UFO Reporting Center and gave me the phone number.  I went was in yard on the cordless phone... to call my husband, when I witnessed at least two F-16 fly over my town house.... they flew back and forth a few time (probably two times).  I called the National UFO Reporting Center and submitted a written account of the entire 11 hours span.  Then a few days after, my two and a half year old son, began talking about "diamond girl" (as her referred to what he s! aw).  He said Mommy... diamond girl came to visit in my room.  Every day... for he talked about it.  He is grown now and 26 yrs old.  But remember very clearly.  He describes what was in his room as a "Glowing Figure" standing in his room next to his brothers crib.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143794.html](http://www.nuforc.org/webreports/reports/143/S143794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
