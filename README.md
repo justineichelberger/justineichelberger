@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wilkes-Barre (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was in y room wathcing T.V. and I heard a faint humming noise,like alot of bees very far away,.So I went to my wndow to see what it was,and I saw a black triangle about the size of a big pick-up truck.On each corner of it there was one white light,and right in the center was a really big red light.I only saw it from my window for afew seconds,then I had to go into the room nextdoor to see itmore clearly.In the room my stepdad was one the computer,and then I told him what was outside,then it stoped for a second and then started to go really fast over the mountains,then my stepdad came to the window and said "thats moving way to fast to be one of ours".I followed it with my eyes as long as possible,but it was night time and an very hrd to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23617.html](http://www.nuforc.org/webreports/reports/023/S23617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Stephens City (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Captured an interesting light object from the east on the way to work this morning.  It was stationary in the sky for at least five minutes.  Managed to take a photo, before I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133672.html](http://www.nuforc.org/webreports/reports/133/S133672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
