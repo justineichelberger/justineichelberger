@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 18 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:05:43 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>For about three minutes, we watched a formation of orangish lights all taking turns twinkling, then fading out.Four of us were getting ready to leave the house tonight, when suddenly my boyfriend, looking far out Northwest, began shouting "Look! Look! There's those lights!" (There have been previous sightings in town, supposedly). Everyone was freaking out- calling out their parents and neighbors. All in formation, I know there were at least six dim orange lights, but amidst the hustle-&-bustle it was hard to tell... especially since the lights appeared to be taking "turns" blinking EXTREMELY bright like flares (one-at-a-time). Each burst of light lasted, I'd say, about ten seconds or so. None of the lights moved-- they appeared to remain in the same spot the whole time I observed. It seemed during each interval between the twinklings, that each light "faded" into the darkness, and with the final visible light, there were eight witnesses standing in the same lawn-- seeing the same thing. Within 3 minutes from when I first saw the formation, they were all out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16900.html](http://www.nuforc.org/webreports/reports/016/S16900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Islamorada (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Observed a silvery white cigar shaped object, very high in the sky, no wings, no contrails, move steadily from north to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117910.html](http://www.nuforc.org/webreports/reports/117/S117910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [270](http://www.nuforc.org/webreports/reports/162/S162620.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162410.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162429.html)
-- [267](http://www.nuforc.org/webreports/reports/154/S154280.html)
-- [266](http://www.nuforc.org/webreports/reports/154/S154282.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
