@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:32 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was visiting Greenville, SC, driving with my sister-in-law.  We first saw them on Pleasantburg between Wade Hampton and Rutherford. NE to SW.  At first my sister-in-law thought they were lights on Paris Mountain, and as we got closer she said that they are not lights on the mountain, because they were moving, lower then an airplane, going in line and heading in a SW direction.  They stood still in their course and began to rise up into space and finally disappeared.  We pulled over during the event, it was a very bright area,  I took a picture and video.((NUFORC Note:  We have requested that the witness forward the photos and video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133262.html](http://www.nuforc.org/webreports/reports/133/S133262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chicago (Hwy. 531) (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I viewed object heading west moveing very fast.Craft then changed direction heading east,craft again changed direction moved straight up.I was Heading north on rt.53 I noticed an object in the sky heading west moveing fast. Haveing airports to the n.east(O`hare)and east -(Midway) and even a small airport to the west. Air traffic is always present in this area. when object quickly reversed direction heading east I knew right away that this was ordinary aircraft.As object moved east it then changed direction heading straight up disappearing as it left my range of sight. I also notice an airline just to the east of the object approx.20 miles distance. Object appeared to be a sphere and silver colored.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05975.html](http://www.nuforc.org/webreports/reports/005/S05975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
