@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:53 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:00 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright light entering cloud with major lightning activity and disappearing.I was sitting outside letting my dog do her business. There was very odd lightning to the NorthEast of my location, just south of Charleston, WV.  I have seen strange things in the sky before, and I know what meteorites look like, I know what satellites look like, stars, planets, etc.  The closest thing I xan compare ot to was that it looked about the same relative brightness as Venus has looked lately. Venus has been quite bright and this objects was as well.  It seemed to just appear, and looked to be going SW to NE, although it was at least as far away as an airliner flying around 25-30' ft. _t was moving faster than a Jet though anwas headed straight toward the small spot in the sky that had the strange lightning.  It never changed direction much but once it got into the cloud with the lightning it seemed to vanish without a trace.  Very shortly thereafter, the lightning stopped as well.  It was all very strange and had me very intrigued.  This is my first post ! here because it is the first time I have seen something I felt truly significant enough to post. I believe there was a correlation between the object and the lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87824.html](http://www.nuforc.org/webreports/reports/087/S87824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>V-Shaped cloudy object with 6 lights.Saw lights in a v-shape formation move across the sky silently.  Seemed almost cloudy around it.  Could see through it, like it was a boomerang shape instead of a full triangle.  V shape was narrow compared to the stealth bomber.  Witnessed by two people.  After losing sight and still looking at the stars for a while, I saw it, or a second, come back around.  This time I counted 6 lights, 3 on each side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107957.html](http://www.nuforc.org/webreports/reports/107/S107957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
