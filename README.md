@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>San JoseI was doing some work at my dining room table and noticed a big green (turquoise) glow outside of my balcony.I had dismissed this first glow as “I must be crazy”.   When the second glow came, I was really surprised.  I immediately told my girlfriend in the adjacent room.I walked outside thinking that maybe a transformer blew.  There was no noise outside of the whipping wind and rain.  I waited for the familiar “pop” of a transformer while looking at the sky.  Puzzled, I thought that it could have been an airplane or something else that, if the green glow was a catastrophic event, I should be able to see something.. Anything..I returned to my PC and did a web search for the glow…  strange things.  I read up on this Thundersnow but the web sources pretty much said that the colors were blue and a sound followed.  This did not seem to fit..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80529.html](http://www.nuforc.org/webreports/reports/080/S80529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bogota (Colombia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sighting of white opalescent lenticular UFO.I was smoking a cigarette at my 4th floor apartment‘s balcony when I saw an opalescent white disc flying at constant speed, let’s say 100 Km/h or more and 100 to 150 meters above, with no sound and directed north.  At first, I thought it was a balloon but it didn’t have any oscillatory movement and a few seconds later I realized that it was lens-shaped.  I couldn’t follow its path because it passed over the building. I am 43 years old, physician, MSc.  In Biomedical Sciences and work as a biomedical researcher in a local hospital.  Night was clear and with almost full moon bright at east.((ADDENDUM FROM WITNESS))Hi.  It was like 3/4 the size of the moon.((END ADDENDUM))((ADDENDUM #2 FROM WITNESS))Peter,  Thanks for your kind reply.  I have to add I am very sceptical about this things but this was very weird.  The object also traced a perfect lineal trayectory and had no lights neither fumes.Regards,((END ADDENDUM #2))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107960.html](http://www.nuforc.org/webreports/reports/107/S107960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
