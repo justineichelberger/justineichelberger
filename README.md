@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chicago (Hwy. 531) (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I viewed object heading west moveing very fast.Craft then changed direction heading east,craft again changed direction moved straight up.I was Heading north on rt.53 I noticed an object in the sky heading west moveing fast. Haveing airports to the n.east(O`hare)and east -(Midway) and even a small airport to the west. Air traffic is always present in this area. when object quickly reversed direction heading east I knew right away that this was ordinary aircraft.As object moved east it then changed direction heading straight up disappearing as it left my range of sight. I also notice an airline just to the east of the object approx.20 miles distance. Object appeared to be a sphere and silver colored.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05975.html](http://www.nuforc.org/webreports/reports/005/S05975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Strange sound, like a whistle going high then low then high, then a plane emerged from a cloud that I hadn't seen enter it.  Looked like a normal plane, far as I can tell but made a very strange sound.  Simply flew off north after emerging from the cloud at normal plane speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145260.html](http://www.nuforc.org/webreports/reports/145/S145260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
