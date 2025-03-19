@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Brilliantly colored orange oval shaped object, seen from very close range.The sighting occurred at approximately 9.40 pm on the night of March the 19th, in New Paltz, New York.  My step sister and I were having a cigarette on the side deck of my home when I noticed an extremely brightly colored orange light moving across the sky from a westward direction heading south.  It was a very dark, clear night sky and I immediately recognized the light to be brighter than anything I have ever seen before.  My step sister had her back to it and after allowing it a split second to register I immediately grabbed her attention and pointed her to the light source.  We quickly moved off the deck to get a better view and angle on the light.  I initially thought I would see a blinking light or quickly see an explanation.  Soon realizing what was happening I ran back to the deck side door and called for my mother and stepfather.  Then I ran back to my left side yard and saw the definite shape of a oval object that looked as if it were blazing on fi! re.  The object was roughly 300 feet above the ground and the easiest way to describe it was a Japanese balloon glowing bright orange, this was the logic I used to portray it.  The object/orb was impossibly brilliant orange and from a point blank view had a definite shape with absolutely no wings/sound/or blinking lights.  The light remained consistent throughout its entire flight.  My mother and stepfather and stepsister and I all watched as it gently moved almost hovering across the sky as if it were being pulled by a string.  The object appeared to be moving very gently and slowly but covering a lot of space at the same time.  The speed seemed to remain the same but within a few minutes it was very high in the sky and it seemed to be moving at a gradual incline.  The four of us agreed without question it was something we had never seen before and was simply unexplainable.  The defining details I clearly have imprinted in my mind were its brilliant color, definite shape a! nd precise smooth line of travel and ability to cover a lot of! space i n a short amount of time.  There in my opinion was zero chance of misidentifying this object, it was from a point blank view point and very definite in shape and color.  My stepfather thought at first it was a fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96640.html](http://www.nuforc.org/webreports/reports/096/S96640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was visiting Greenville, SC, driving with my sister-in-law.  We first saw them on Pleasantburg between Wade Hampton and Rutherford. NE to SW.  At first my sister-in-law thought they were lights on Paris Mountain, and as we got closer she said that they are not lights on the mountain, because they were moving, lower then an airplane, going in line and heading in a SW direction.  They stood still in their course and began to rise up into space and finally disappeared.  We pulled over during the event, it was a very bright area,  I took a picture and video.((NUFORC Note:  We have requested that the witness forward the photos and video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133262.html](http://www.nuforc.org/webreports/reports/133/S133262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
