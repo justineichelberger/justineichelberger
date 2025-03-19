@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:30 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Went outside to let pet out and saw in the southwest sky a cluster of lights flashing red, green and blue.  The object did not move but stayed in one place in the sky for at least 45 minutes or more.  It was not a plane or helicopter or satellite but nothing any of us have ever witnessed before.  Eerie feeling watching this.  Not a usual sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49730.html](http://www.nuforc.org/webreports/reports/049/S49730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Five white lights int he sky, like stars or planets, move around one another and then move quickly over the tree line and out of sight.I was walking to my car and noticed the sky was packed with visible stars. It was something that is not a common sight in the city.  As I was taking in the sky I noticed, what looked like, 5 stars that were brighter than the others. They looked to be as bright as planets in the sky. I don't know much about astronomy but I do know that there aren't that many planets to be seen that well, not to mention these "stars" were very close to one another.  After a couple minutes of trying to figure out what they could be they began to move.  They had been fixed in the sky and now were moving towards one another.  They were in very close proximity and moving all around each other.  The best way to describe them is to compare them to gnats or moths flying around a light source only a lot slower.  When they first started moving I thought maybe they were lights from helicopters but I don't think helicopters fly that close to one another and not in those kinds of patterns. After 30 seconds or so of being confused by what I was watching they moved, in unison and fairly quickly, over the tree-line and I could no longer see them.  These objects never made a noise that I could hear. I am generally a skeptic when it comes to UFOs but I am really perplexed by what I saw. I have been searching the web since, trying to find a similar sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69316.html](http://www.nuforc.org/webreports/reports/069/S69316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
