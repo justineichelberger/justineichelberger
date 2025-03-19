@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The clincher was that after viewing the bright peachy/orange/red light it moved perpendicular to where I was standing vanished in 2sec.19 March 2008   I am a 58 year old male, former science/math teacher, bakery/restaurant owner, realtor.  I am the only person here, in my home who witnessed what I am reporting.It was approximately 8pm, I was seated , relaxing with two of my three dogs.I have a full view of the mountains (the San Jacinto Mt. range).  I have floor to ceiling windows which allow me a pretty full view of the sky and the mountains.While seated, I saw an abnormally bright peachy/red/orange light approach.  It was as if it appeared from out in the sky, not from over the mountain top, like a jet or helicopter. It was the color that caught me off guard.  We have many helicopters flying to the Desert Hospital over head, but this was not the same, they usually come from the south.  The item in my view was much higher in the sky, and actually much brighter.  It moved from the top of the mountain range, east, slowly, maintaining its brightness.  The brightness was such that I could not discern any shape.  It was as if I were approaching a car with bright lights on in the evening, a stary glare.  I immediately felt that due to its color, which did not change, that it was very peculiar.  I was tempted to go inside and get my camera, but was afraid I would miss something, movement, whatever.  So, I kept watching it.  It moved from the mountain top to approximately 1/3 - ½ across the sky.  It stopped, as if hovering, as if it was a helicopter, and then, it took off, perpendicular to where I was standing, out into space and the very bright light was gone in  less then a two seconds.  I tried to garner any fragment of light available by using the light sensitive area of the outer peripheral portion of my eye, but it was gone.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62247.html](http://www.nuforc.org/webreports/reports/062/S62247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seven balls of fire spaced perfectly all vanished at a certain pointThere were 7 objects spaced 1/2 mile perfectly traveling in a western direction climbing at a 30dgree level.Traveling at about 200 miles per hour estimate.Looked like fireballs untill they reached a certain point then fire was gone and could see a cylinder craft for just a short time then it would vanish. All 7 did this same thing in a parade like manner.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80538.html](http://www.nuforc.org/webreports/reports/080/S80538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
