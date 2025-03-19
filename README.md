@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped craft hovering over a desert /mountain area of  N. E. ScottsdaleOn March 19, 2008, I was leaving my gated neighborhood by car to teach a spinning class.  I noticed one bright light in the air about 4-500 feet above the road I was appproaching to make a turn on. I thought, "What is that?"  I looked out the window and then noticed there were 2 bright lights, like the headlights of a car.  I was frightened as I was the only car around...and this THING in the air right above me.  I kept thinking "What in the H--- is that?" Then I noticed 3 lights,2 in the front again like car headlights and one in the back of them, the craft shaped like a triangle.  I had the windows down, there was no sound.  It seemed to hover for awhile then started to gain speed and disappeared over the mountains in our area.  As it left the area, I noticed some twinkling lights, muted colors, behind the back light.It did not look like an airplane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62280.html](http://www.nuforc.org/webreports/reports/062/S62280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large bright orange ball of light slowly crossed sky, stopped, sped off very quickly out of viewI saw a very large bright orange ball move across the sky and stop. If I hold my arm straight out it was the size of my thumb nail.  It looked close by.  It stopped for about 10-15 seconds then sped off west toward mountains so fast it was gone in 2-3 seconds from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118048.html](http://www.nuforc.org/webreports/reports/118/S118048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
