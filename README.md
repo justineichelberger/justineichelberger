@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:31 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball from the center of sky moving SE , perhaps falling downward. Faster than a plane but too slow for a meteorThe object looked like a meteor but moved slower than normal. No change in direction though. Very bright like a star. Lasted about 4 seconds and briefly went "out" then back on and then ended abruptly. Most likely a meteor or other common object.  Many planes were on approach to SFO so it was likely reported by another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12399.html](http://www.nuforc.org/webreports/reports/012/S12399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>San JoseI was doing some work at my dining room table and noticed a big green (turquoise) glow outside of my balcony.I had dismissed this first glow as “I must be crazy”.   When the second glow came, I was really surprised.  I immediately told my girlfriend in the adjacent room.I walked outside thinking that maybe a transformer blew.  There was no noise outside of the whipping wind and rain.  I waited for the familiar “pop” of a transformer while looking at the sky.  Puzzled, I thought that it could have been an airplane or something else that, if the green glow was a catastrophic event, I should be able to see something.. Anything..I returned to my PC and did a web search for the glow…  strange things.  I read up on this Thundersnow but the web sources pretty much said that the colors were blue and a sound followed.  This did not seem to fit..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80529.html](http://www.nuforc.org/webreports/reports/080/S80529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
