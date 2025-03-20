@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mounds View (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three shining dots lingering in the shape of a triangle then disappearedThe sky was dark with a slightly cloudy sky. I saw 3 bright lights they were in a triangle. I thought they were stars at first, and then the bottom left one disappeared.  The top one the tip of the triangle moved to the right slowly and then the bottom right just disappeared. The top one was more of a white bright lightbulb color the two bottom were more like shimmer gold color I thought at first these are really bright stars like two headlights shining right at me until I saw the top one and I knew it was something other then stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154311.html](http://www.nuforc.org/webreports/reports/154/S154311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monroeville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>strange sound above a house in Monroeville, New JerseyI woke up, i would say sometime around 3:30am by a loud vibrating humming sound.  At first i thought it was the wind so i turned on the light to look outside and i could not see anything.  I kept hearing this loud sound hoovering above the house.  I walked around the inside of the house thinking maybe it was the house settling from the wind but there was no possible way the sound was inside of the house.  It just kept pulsating a loud deep vibration (it made a noise that sounded like this.. wawawawawa...).  I could not explain what was going on and it wasnt until my brother came down the steps in the morning and told me about a bizzare dream in which unknown beings who had larger eyes than normal were trying to convince him to go with them, (i dont want to say the word alien but he described them as sort of a hybrid half human/alien look, he even said some of them looked deformed) he was frightened by his dream because he said it felt so real.  I know this story sounds off the wall, but i find it very strange that i heard something hovering over the house for a long period of time and he woke up to tell me about a ufo dream.  I am hopeing other people heard or saw something in the sky that night so i dont think i am crazy.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62250.html](http://www.nuforc.org/webreports/reports/062/S62250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
