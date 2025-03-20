@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:25:34 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:09:11 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A red light flashed followed by 2 more red lights near it showing they were coming from a parallelagram patterned object, and then it seemed to notice us watching it and the lights went out as the object shot off horizontally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108055.html](http://www.nuforc.org/webreports/reports/108/S108055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On Sunday, March 20th, 2016, at approximately 11:20 am, I was leaving my house to take my usual exercise walk around the neighborhood.  As I hit the sidewalk and began walking West, I looked up at the sky and saw several distinct points of light - which looked much like stars against the clear blue sky background.  These points of light formed a large square.  I viewed this with both the naked eye, and with my polarized sunglasses.  I quickly ran into the house to retrieve my binoculars, but by the time I returned - a minute or so later - nothing was there to be seen.  I put away the binoculars and began my walk.  A short distance down the street, I saw a single, bright point of light in the same area of the sky.  This remained stationary until approximately 11:30 am, and I have not seen anything else as of the time of this report.  I am mainly reporting this because I really hope to hear that someone else around the Cincinnati Tri-State witnessed the event.  It is a s! unny day here, clear blue sky and I have never seen what appeared as a small constellation-like group of stars showing up in the daytime sky.  Just before 11:30 a large airliner flew on a N-NW to S-SE path and would have appeared to have been between myself and the object I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126456.html](http://www.nuforc.org/webreports/reports/126/S126456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
