@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Orange circular/orb like balls of light appearing and disappearing across sky, radiating intense orange hue of light.First witnessed 3 orange glowing orbs floating in triangle. 10 minutes later:  1 giant orange orb radiating bright light in one spot, then in groups of 4 and 5 appearing and disappearing in different positions across sky.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107997.html](http://www.nuforc.org/webreports/reports/107/S107997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Patterson (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A single craft of unique shape moving very fast, no sound or vapor trail, very high, towards open waters of the Gulf of Mexico.I was sitting outside in my back yard; it was a clear evening and I happened to see something in the sky that I’ve never seen before.  It was a single craft unlike any other to my knowledge, very high, moving very fast but what was different is that it was heading towards the open Gulf of Mexico and not in the usual flight paths for this area, i.e., nothing but the open gulf is in the direction it was moving and it left no vapor trails of any sort.The only description I can think of as to how it was moving was that it appeared to be like that of a fast ball in that although it moved very fast it seemed to be “shimmying” as it went.  The shape was in general like two delta wings hooked together at the apex of each.  I’m sorry I can’t give a better analogy but it was unique in my experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108262.html](http://www.nuforc.org/webreports/reports/108/S108262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
