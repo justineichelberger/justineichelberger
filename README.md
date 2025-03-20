@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Kentwood (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft motionless above us we pulled over and stopped very large triangle shape several glowing lights on bottom, craft as big as one or two football fields after a min or two craft slowly moved west up and away turned north picking up speed ...no noise  when above us it was only about 100 to 300  feet up.....Father and daughter (39 and 15 in age) Father Had been in Army Rangers trained to observe and report information, familer with aircraft Daugher your average 15 year old drug free.....She was first to see it and kept telling me to look as I looked I could see some lights and a shape so I pulled into a gas station and got out of the car the craft was large a triangle shape pointing west.....the first thing I noticed was that it made no noise and seemed to have bigger brighter lights near the bottom of each point of the triangle smaller lights in from those it was so big and close we could not see the sides of it until it started to move away.......it seemed to have some lights or windows along its sides moviing west ....up and away it still made no noise......it turned towards the north and we got in our car and started to drive along the road ....soon it was gone ....it seemed to be 20 to 50 feet in hieght......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04227.html](http://www.nuforc.org/webreports/reports/004/S04227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wright (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Tonight around 11 pm i walked outside to see if it was still raining when i saw  a huge flash in the sky.  It was kind of purple in color.  Then saw a tiny ufo speed off out of sight.  was very very creepy.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145285.html](http://www.nuforc.org/webreports/reports/145/S145285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
