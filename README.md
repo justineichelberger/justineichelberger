@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Monroeville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>strange sound above a house in Monroeville, New JerseyI woke up, i would say sometime around 3:30am by a loud vibrating humming sound.  At first i thought it was the wind so i turned on the light to look outside and i could not see anything.  I kept hearing this loud sound hoovering above the house.  I walked around the inside of the house thinking maybe it was the house settling from the wind but there was no possible way the sound was inside of the house.  It just kept pulsating a loud deep vibration (it made a noise that sounded like this.. wawawawawa...).  I could not explain what was going on and it wasnt until my brother came down the steps in the morning and told me about a bizzare dream in which unknown beings who had larger eyes than normal were trying to convince him to go with them, (i dont want to say the word alien but he described them as sort of a hybrid half human/alien look, he even said some of them looked deformed) he was frightened by his dream because he said it felt so real.  I know this story sounds off the wall, but i find it very strange that i heard something hovering over the house for a long period of time and he woke up to tell me about a ufo dream.  I am hopeing other people heard or saw something in the sky that night so i dont think i am crazy.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62250.html](http://www.nuforc.org/webreports/reports/062/S62250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ajo (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw a huge traingular shaped object, red lights at each point for about 5 minutes.My wife and I stepped outside to see what our dogs were barking at and heard a humming/jet engine sound.  (We hear & see jets all the time because we are 10 miles south of BMGR training area.)  This was not a "normal" jet engine sound.  When we looked straight up, we saw a HUGE triangular shaped something with red lights at each point  of the triangle.  This thing appeared to be as big as a baseball park (not just the diamond, the stands and everything).  It was flying in a totally different direction than the jets we see almost every night training on BMGR.  We never see commercial aircraft down here because of BMGR.  It's pretty much a no-fly zone.  This was the first time my wife and I have ever thought that we definitely saw a UFO (we're in our early 60's).  Stealth bomber?  If it was, it was by far the biggest aircraft we've ever seen.  We watch it until it faded out of sight.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133233.html](http://www.nuforc.org/webreports/reports/133/S133233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
