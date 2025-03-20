@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ajo (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and I saw a huge traingular shaped object, red lights at each point for about 5 minutes.My wife and I stepped outside to see what our dogs were barking at and heard a humming/jet engine sound.  (We hear & see jets all the time because we are 10 miles south of BMGR training area.)  This was not a "normal" jet engine sound.  When we looked straight up, we saw a HUGE triangular shaped something with red lights at each point  of the triangle.  This thing appeared to be as big as a baseball park (not just the diamond, the stands and everything).  It was flying in a totally different direction than the jets we see almost every night training on BMGR.  We never see commercial aircraft down here because of BMGR.  It's pretty much a no-fly zone.  This was the first time my wife and I have ever thought that we definitely saw a UFO (we're in our early 60's).  Stealth bomber?  If it was, it was by far the biggest aircraft we've ever seen.  We watch it until it faded out of sight.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133233.html](http://www.nuforc.org/webreports/reports/133/S133233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>A stationary red light which emitted a bright flash after 10 minutes high above the sky and changed colors.  On March 20, 2018, at 10:15pm, in Wellington, Florida, I was walking my dog in the neighborhood.  As I looked up at the star filled sky toward the east, I noticed a red light sitting in one place almost straight up (1:00 o’clock setting).I watched the object for 10 minutes with no movement what so ever as planes flew high overhead and low overhead not far from Palm Beach International airport.  This object was miles high and pulsing a red light every other second.  Suddenly two red beams came out of the object east and west some hundred yards from the object but they traveled equidistant from the centered object and stopped.Then the light pulsed blue and the object moved over to the east a bit further, hovered for another 3 or 4 minutes and then just disappeared.  No weather balloon does that type of movement nor does it send out a microburst of light side to side that stops.  A helicopter cannot go that high, ever!  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139245.html](http://www.nuforc.org/webreports/reports/139/S139245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
