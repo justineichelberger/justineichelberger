@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 19 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was visiting Greenville, SC, driving with my sister-in-law.  We first saw them on Pleasantburg between Wade Hampton and Rutherford. NE to SW.  At first my sister-in-law thought they were lights on Paris Mountain, and as we got closer she said that they are not lights on the mountain, because they were moving, lower then an airplane, going in line and heading in a SW direction.  They stood still in their course and began to rise up into space and finally disappeared.  We pulled over during the event, it was a very bright area,  I took a picture and video.((NUFORC Note:  We have requested that the witness forward the photos and video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133262.html](http://www.nuforc.org/webreports/reports/133/S133262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One quick sighting.I saw a ufo trailing my car at least ten minutes, I was giving 2 co-workers a ride and we all saw it for a brief time period. My car lights were flickering as it drove past us!((NUFORC Note:  Source of report provides bogus contact information.  We suspect that the report may be a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108145.html](http://www.nuforc.org/webreports/reports/108/S108145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [276](http://www.nuforc.org/webreports/reports/162/S162428.html)
-- [275](http://www.nuforc.org/webreports/reports/162/S162441.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162425.html)
-- [273](http://www.nuforc.org/webreports/reports/163/S163566.html)
-- [272](http://www.nuforc.org/webreports/reports/162/S162419.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
