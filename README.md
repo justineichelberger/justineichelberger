@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Petaluma (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>When walking the dog, I saw two red lights in the southern sky.  The lights at first were one above the other, and then they gradually moved around, sometimes circling each other, sometimes parallel, appearing to come closer to me, until one of them faded out.  The other one then got farther and farther away until it was lost in the clouds.  They moved slowly, and there was no sound associated with this at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117945.html](http://www.nuforc.org/webreports/reports/117/S117945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Southbend (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I seen a ufo it was flying I told it in my head to prove its a ufo, it flew over me high above my high school bus.I was riding my bus in the morning to my highschool, I was stargazing I saw 2 lights they looked like stars so I was thinking its nothing, then one started to move it appeared to be white, I was watching closely and, I AM NOT KIDDING, I dont know if they can hear our thoughts but I told the ufo to prove it was a ufo a few times in my head then it changed direction and flew high above the bus.  I didn't see it again I believe thier was 2 lights red and just the white color the object was.  I don't know why but since that sighting I have expirienced the most realistic ufo dreams I have had.  Please e-mail me I don't want my parents to know im telling investigators this kind of stuff, do not mail stuff either.  I have seen a transparent ufo, triangular ufo, big green orb ufo, and others by my home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108081.html](http://www.nuforc.org/webreports/reports/108/S108081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
