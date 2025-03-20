@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Harriman State Park (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While camping on top of a moutain me and 2 friends saw a star start to come at us. As it got closer it shined a white light at the to of the moutain.It made no noise, and moved in any direction it seemed to want to, stop, then move again. Then if just blinked out.Ive read another report on this site, and it sounds like the exact same thing we saw.This is the first time ive seen this, but my friends have seen it once before.The state park we were in is named harriman st. park, it also is known as bear moutain. Its not far from NYC about an hour drive, north. Its close to some millitary bases, stwert airforce base is about 20 miles north east, camp smith is about 3 miles south west, and west point property borders part of the park. The light left no trail behind it.Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05153.html](http://www.nuforc.org/webreports/reports/005/S05153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sturgis (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>50 UFOs flew in a straight line, perfectly spaced apart.At approximately 8:10pm MST, around 50 flying objects which were lit up flew over our house. They were in a straight line, and perfectly spaced apart. It lasted for about 15 minutes. We were unable to film as they were too far away and it was dark outside. There was actually an airplane flying underneath them that moved slower and had the lights that an airplane does.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154319.html](http://www.nuforc.org/webreports/reports/154/S154319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
