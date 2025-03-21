@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:44 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White orbs in the clouds, both as big as a two story house, seen near Issaquah, Wa. on I-90, March 21st, 2010I was riding in the passenger seat of a vehicle that my friend was driving.  It was about 4:00am or so, on Mar. 21st, 2010.  We were coming back from Ellensburg, Wa., headed towards Seattle.We were dropping down into the valley, near Issaquah, Wa., on I-90, headed west.  I saw two big white glowing orbs in the clouds.  And then they dove down out of the clouds, and disappeared after about 5 to ten seconds.My best guesstimate as to how big the orbs were, were that each of them were probably as big as a two story house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75200.html](http://www.nuforc.org/webreports/reports/075/S75200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Amber light moving westward over Vero Beach,  Florida.Around 21:35 on 3/21/11, I went out as usual to walk my dog for the last time.  I often look at the stars, planes, etc.   This caught my eye right away.  It was a solid amber light to the south, far brighter than any aircraft light.  When I first noticed it, it was very bright and oval shaped, very far away and about halfway up into the sky.  It was moving at what appeared to be a slow rate straight across the sky towards the west from my location.  Although the rate seemed slow, it only lasted about 2 minutes from when I first saw it, and slowly faded away, giving the appearance it may have been moving very quickly due to its apparent distance away.  There were no sounds, no flashing lights, just solid amber.  I was in the Coast Guard and also fish in the ocean frequently at night.  I have NEVER even thought I saw anything resembling a UFO, but I can say without a doubt I have NEVER seen anything like this.   My gut reaction was to go get my wife to come loo! k at it, since I knew she would think I was crazy, but I was afraid if I did, I would miss something, or it would be gone.  Awesome experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80552.html](http://www.nuforc.org/webreports/reports/080/S80552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
