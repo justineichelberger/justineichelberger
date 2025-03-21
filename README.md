@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>At 21:00pm night I saw very bright blue light as far as Ajax and its going more bright slowly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96626.html](http://www.nuforc.org/webreports/reports/096/S96626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hillsborough (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Slow moving long vertical object with two orange and one green lights.2021-03-21  UFO Sighting over Hillsborough NJ  I was looking Eastward towards the moon and noticed it was about at first quarter. That would make the sun approximately 90 degrees away in the sky. The moon’s terminator was not perpendicular to the horizon and I was thinking about the spatial geometry as I looked away towards the light side of the moon. That’s when I saw an object in the sky. The object was bright. And as I watched it, it seemed to be hanging in the sky and not moving. I grabbed my phone and took some pictures. It appeared long and cylindrical or cigar shaped. Then I perceived it to be actually moving albeit slowly. I watched it for a few minutes and decided to run over to my parent’s house to use their binoculars. They live behind me and we have adjoining properties. Looking through a pair of 16x26 binoculars I observed the object to be long and vertically oriented. There appeared to be three lights or three sections of high reflectance. The top was orangish. The middle was greenish. And the bottom was orangish; The same color as the top one. The underlying structure appeared to be black. I pointed out the object to my parent’s neighbor and asked if they wanted to see a UFO. She came over with her two children. I gave the son the binoculars and he looked at the object. The neighbor remarked that she heard there may be meteors and I said this is moving was too slow. My mother came from the bottom of the garden and my father came out of the house. I pointed and said, “It’s a UFO”. They said it’s not a UFO. And I said it’s not identified so it is an Unidentified Flying Object. We watched for about 15 minutes as the object slowly made its way over us in the sky. It was fairly close to passing directly overhead. I will approximate +/- 15 degrees North-South from zenith. The object seemed to move constantly from East to zenith. At which point it became hard to see and was lost in the sky. This makes me think the object was reflecting light from the sun. The sky was cloudless. The weather warm 65 degrees F. Photos taken from 40.46208787255178 North, -74.62081433617985 West (taken from Google maps). Altitude at original sighting was approximately 40 degrees above the East-SouthEast horizon. Moon can be seen in one of the pictures. Foreground tree used to help locate object when zooming. I am currently the Director of Engineering at a small automation company. I have an undergraduate degree in Engineering Physics. I taught astronomy lab at the University of Maine and volunteered at the Maynard F. Jordan Observatory for public observing. I have a Master’s in Experimental Particle Physic. I spent three years at CERN working on the forward muon system for the ATLAS experiment as part of an unfinished PhD.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162444.html](http://www.nuforc.org/webreports/reports/162/S162444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
