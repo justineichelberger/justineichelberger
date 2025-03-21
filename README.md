@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:54 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Mutable glowing objects in sky following each otherLooked up saw what I thought was a star but it was moving as I keep looking identical objects where following all spaced  evenly apart but 1 was to the right doing erratic movements in sky this lasting about 30 minutes none had any blinking light like planes just solid white glow they was flying left to right in sky very high up once the objects got to 2 o’clock position in sky they disappeared like they accelerate straight up in sky it was very clear night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154901.html](http://www.nuforc.org/webreports/reports/154/S154901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Walking the dog looked up in the sky and a pretty fair size white lit up circular object was flying at a high rate of speed downwards, originally thought it was a shooting star but it was much larger then out of nowhere it went from going down to earth it veered right and then shot back up into the sky then to the left went higher and disappeared.  It had a little trail of haze around and behind it.The sky is extremely clear so the visibility was very good</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154357.html](http://www.nuforc.org/webreports/reports/154/S154357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
