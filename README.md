@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:54 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Walking the dog looked up in the sky and a pretty fair size white lit up circular object was flying at a high rate of speed downwards, originally thought it was a shooting star but it was much larger then out of nowhere it went from going down to earth it veered right and then shot back up into the sky then to the left went higher and disappeared.  It had a little trail of haze around and behind it.The sky is extremely clear so the visibility was very good</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154357.html](http://www.nuforc.org/webreports/reports/154/S154357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Whitesboro (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orb with no sound that moved slowly east and stayed low in the sky.Bright "orb".  Thought it was a bright star until I realized it was moving.  Assumed plane or satellite, but it was moving too slow for satellite and was larger in size and had no other lights on it (i.e. red).  Did not "blink", but stayed bright white.  Appeared low in the sky.  Moved east.  Watched for about 4 minutes until it disappeared in beginning morning light.  Made no engine sound.  Stayed very quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87916.html](http://www.nuforc.org/webreports/reports/087/S87916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
