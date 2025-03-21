@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Framingham (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Various bright lights in night sky..thought was helicopters but werent moving..objects just kept getting brighter & brighter & then they all disappeared at same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133237.html](http://www.nuforc.org/webreports/reports/133/S133237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Akron (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three fireball-like objects crossed the sky from east to west in succession.We were sitting on the porch when we noticed a fireball-like object coming from the east. It took several minutes to pass by, then seemed to ascend, and then faded out.  Then, it faded back on, and out again.  It was about a minute later when another fireball came out of the south-east, and faded out again in the west.  I woke my neighbor up to see the last bit of the second fireball, and it wasn't long until we saw a third once again coming from the south-east. It took a few minutes to pass, and then faded out.  All three UFO's seemed to change speed, but were moving very slowly.  They were all orange in appearance and seemed to flicker.  They made no sound and had no tail whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87956.html](http://www.nuforc.org/webreports/reports/087/S87956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
