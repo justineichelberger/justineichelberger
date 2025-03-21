@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Port Carbon (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my friend saw 3 blinking in the mountains no where near civilization((NUFROC Note:  No other data provided.  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17034.html](http://www.nuforc.org/webreports/reports/017/S17034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>10 orange orbs 1/2-1 mile above on Morningside Dr SE/13th Street SE Salem, OR 9:00 pm - 9:07pm in a file, banked to right, slow vanishI went to the top of a street 1313 Morningside Dr SE, Salem, OR, 97302, and as I  turned right onto a short drive called 13th Street SE going towards Hillendale, I pulled over to observe an orange illuminated orb about 1/2 - mile in slow movement, over the trees coming from the west to east in a straight line.  It was incredibly close.  Then it took a right angle turn going south just about in front of me and began to get dimmer and dimmer with the glow turning more into embers or slight flares and then I could see its outline continuing southward and upward but without light of any kind, just fading into the night sky, but could see the outline for many seconds, without the orange, and the outline did not appear to be round, like the orb was. Then this exact thing happened again, and again, and again, up to 10 times.  The 3rd one seemed to try to catch up to the 2 in front and sped up a bit, it also seemed larger, and it slightly veered further straight before it took its right angle turn.  Each one had the basic same protocols.  I could not see where they came from because they would come over a tree top to the west of this small tiny street about the size of 3 houses.  In all it was 7 minutes.  I waited about 10 minutes to see if any more came, and none did.  One seemed to stop a short while, or slowed way down before it banked right.  I am not technical, I have an old fashioned cell, and I don't know how to take pics.  Now I should learn.  And did not have your ph # with me, but now I will.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117954.html](http://www.nuforc.org/webreports/reports/117/S117954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
