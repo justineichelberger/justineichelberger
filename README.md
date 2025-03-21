@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Early morning sighting of glowing blue object that dead falls, stops, then moves due north at an incredible speedWhile walking our beagle early Friday morning, I was looking skyward, almost due north.At about 80 degrees up in the sky, I immediately noticed a "star", medium in size, glowing blue...a shade or 2 darker than a "robin's egg" hue.I use the term "glowing" because the quality of the light it gave off was not reflected, nor was it incandescent...it was not "twinkly". It was a glow.It stood out to me because of the quality of light and the unusual color.As I watched it, it moved slightly in a very minimal southerly direction. The it stopped, and after a couple of seconds it did something that truly took my breath.It dropped, straight down, in a dead fall, at quite a fast speed.Of course, it was so high up that it never did have a great deal of detail in its appearance, remaining a glowing blue medium star size object...but it dropped from about 80 degrees up, to approximately 30 degrees above the horizon.And then it stopped...sat seemingly motionless for a few seconds at that 30 degree level...then took off at an incredible speed, heading due north.The whole event lasted approximately 30 seconds or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62326.html](http://www.nuforc.org/webreports/reports/062/S62326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Parsippany (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It is a very clear night here in New Jersey.  I was walking in my complex when I started to look up at the stars since they were so visible.  That's when I noticed an object moving across the sky very fast with NO SOUND.  It appeared to be almost invisible with a outline of a boomerang.  On the bottom there were two dim orange lights almost like a flashlight when the battery dies.  And has it went by it just faded away while still moving very fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108003.html](http://www.nuforc.org/webreports/reports/108/S108003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
