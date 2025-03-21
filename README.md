@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Highland (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light with a arch like U red lights make square in back.I saw a bright light out of the norm south southeast and seemed to be still.  Then it started flying north west which is a flight pattern I have not seen a plane fly near my house before.  The front of the craft was like a bright white light that was extremely bright in the very center and the light seemed to tail off to make a arch like shape pretty much like a U pattern but a side ways U which meant the bottom of the U would be to the left or facing North.  After the sideways U in front there was another set of white lights in the shape of a cross starting with the front light of the craft and going towards the back of the craft.  Besides the U in front and the cross there were also a bunch of extremely fast and random and the blinking lights seemed to be blue in color and then there was 4 or 5 red lights in the back in the shape of  a circle or square.                                                                                                         ! Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126472.html](http://www.nuforc.org/webreports/reports/126/S126472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Port Carbon (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Me and my friend saw 3 blinking in the mountains no where near civilization((NUFROC Note:  No other data provided.  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17034.html](http://www.nuforc.org/webreports/reports/017/S17034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
