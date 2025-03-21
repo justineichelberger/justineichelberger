@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Castro Valley (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Shiny white object flys silently over our homeMy friend and I were standing on our front porch talking, when I noticed a strange WHITE object hovering in the sky over a neighboring town. I ran in the house to get my binoculors, and when I got back it was closer than before. I watched the object for about a minute, making no erratic movements. I got such a good look at the object I made a drawing of the object on the computer, which I will send when I am done writing this. The object did not glow, but it was shiny, and looked like it was made from some really polished plastic. It made no noise, and it appeared to have some sort of protrusion at the top, but I never got a very good look at that, since it mostly right above me during observation. The object accelerated quite rapidly and was gone in a blink of an eye after that two minutes. My friend got a look at it and he even said it looked like a giant flying egg. The object was about the size of a small plane, sans wings, in estimation. I've never seen such a shiny object like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43111.html](http://www.nuforc.org/webreports/reports/043/S43111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Braintree (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.23333333333333334 - 0.23333333333333334 minutes.</sub><blockquote><sub>Black craft flew over the tree line in my back yard!I was in my bathroom about to take a shower, when I looked outside the window and saw this black, almost Triangular shape craft flying slowly in the dstance over the tree line!  It did a sort of loopty loop, then flew on its side and vanished!  And when I mean vanished, it flew off so fast if you blinked, it was gone. It sort of looked like a stealth plane but MUCH bigger!((NUFORC Note:  We are uncertain as to whether this is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62273.html](http://www.nuforc.org/webreports/reports/062/S62273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
