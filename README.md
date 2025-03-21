@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Parsippany (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It is a very clear night here in New Jersey.  I was walking in my complex when I started to look up at the stars since they were so visible.  That's when I noticed an object moving across the sky very fast with NO SOUND.  It appeared to be almost invisible with a outline of a boomerang.  On the bottom there were two dim orange lights almost like a flashlight when the battery dies.  And has it went by it just faded away while still moving very fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108003.html](http://www.nuforc.org/webreports/reports/108/S108003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hudson (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>3-22-15 Hudson Wis. discs.  40 minutes reddish orange pulsing lites from 6+/- craft. spinning noted. multiple positions. 3-26-15Saturday nite midnight..  My daughter called in a panic.  She said there was aliens all around her.  Said how afraid she was yelling can't u see them..  I went outside..  Couldn't believe what I was seeing..  My wife jumped in her car and drove to where my daughter was..one craft was so close to her she cud see it spinning..were very bright like stars but all had reddish orange pulsing lites in the center..  I had my binoculars on them.  They moved from spot to spot but kept positioning themselves like orion.  Then they would seperate all the while the pulsing lites continued.  Approximately 12:40 am the 22nd the clouds started to roll in and they all disappeared..  I've seen many UFO's in my life..  But none like this.. none for this long...or that many together.. Was amazing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118042.html](http://www.nuforc.org/webreports/reports/118/S118042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
