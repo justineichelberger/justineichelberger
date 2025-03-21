@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Braintree (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.23333333333333334 - 0.23333333333333334 minutes.</sub><blockquote><sub>Black craft flew over the tree line in my back yard!I was in my bathroom about to take a shower, when I looked outside the window and saw this black, almost Triangular shape craft flying slowly in the dstance over the tree line!  It did a sort of loopty loop, then flew on its side and vanished!  And when I mean vanished, it flew off so fast if you blinked, it was gone. It sort of looked like a stealth plane but MUCH bigger!((NUFORC Note:  We are uncertain as to whether this is intended as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62273.html](http://www.nuforc.org/webreports/reports/062/S62273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ajax (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>At 21:00pm night I saw very bright blue light as far as Ajax and its going more bright slowly.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96626.html](http://www.nuforc.org/webreports/reports/096/S96626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
