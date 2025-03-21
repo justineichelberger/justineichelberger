@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 20 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A ball of fire that stoped and hovered befor blinking out.I'm making this report for the men who say this as they don't speak good English.  On the night of the 20th Casar standing at the back of the restaurant that he works for.  A light in the sky caught his eye.  He first thought it was a falling star as it fell towards the ground untill it stoped in mid-flight.  It hovered for about five min. or so moving some to the right and the left and then blinking out.  He yelled for the other workers to come look at it several of them used there camera/ phone to take pictures and video of it.  I have copies of the video and pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88048.html](http://www.nuforc.org/webreports/reports/088/S88048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White orbs in the clouds, both as big as a two story house, seen near Issaquah, Wa. on I-90, March 21st, 2010I was riding in the passenger seat of a vehicle that my friend was driving.  It was about 4:00am or so, on Mar. 21st, 2010.  We were coming back from Ellensburg, Wa., headed towards Seattle.We were dropping down into the valley, near Issaquah, Wa., on I-90, headed west.  I saw two big white glowing orbs in the clouds.  And then they dove down out of the clouds, and disappeared after about 5 to ten seconds.My best guesstimate as to how big the orbs were, were that each of them were probably as big as a two story house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75200.html](http://www.nuforc.org/webreports/reports/075/S75200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [314](http://www.nuforc.org/webreports/reports/162/S162446.html)
-- [313](http://www.nuforc.org/webreports/reports/162/S162447.html)
-- [312](http://www.nuforc.org/webreports/reports/162/S162495.html)
-- [311](http://www.nuforc.org/webreports/reports/162/S162617.html)
-- [310](http://www.nuforc.org/webreports/reports/162/S162616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
