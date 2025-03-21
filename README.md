@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Hudson (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>3-22-15 Hudson Wis. discs.  40 minutes reddish orange pulsing lites from 6+/- craft. spinning noted. multiple positions. 3-26-15Saturday nite midnight..  My daughter called in a panic.  She said there was aliens all around her.  Said how afraid she was yelling can't u see them..  I went outside..  Couldn't believe what I was seeing..  My wife jumped in her car and drove to where my daughter was..one craft was so close to her she cud see it spinning..were very bright like stars but all had reddish orange pulsing lites in the center..  I had my binoculars on them.  They moved from spot to spot but kept positioning themselves like orion.  Then they would seperate all the while the pulsing lites continued.  Approximately 12:40 am the 22nd the clouds started to roll in and they all disappeared..  I've seen many UFO's in my life..  But none like this.. none for this long...or that many together.. Was amazing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118042.html](http://www.nuforc.org/webreports/reports/118/S118042.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Mutable glowing objects in sky following each otherLooked up saw what I thought was a star but it was moving as I keep looking identical objects where following all spaced  evenly apart but 1 was to the right doing erratic movements in sky this lasting about 30 minutes none had any blinking light like planes just solid white glow they was flying left to right in sky very high up once the objects got to 2 o’clock position in sky they disappeared like they accelerate straight up in sky it was very clear night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154901.html](http://www.nuforc.org/webreports/reports/154/S154901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
