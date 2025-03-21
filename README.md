@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:44 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:18 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Amber light moving westward over Vero Beach,  Florida.Around 21:35 on 3/21/11, I went out as usual to walk my dog for the last time.  I often look at the stars, planes, etc.   This caught my eye right away.  It was a solid amber light to the south, far brighter than any aircraft light.  When I first noticed it, it was very bright and oval shaped, very far away and about halfway up into the sky.  It was moving at what appeared to be a slow rate straight across the sky towards the west from my location.  Although the rate seemed slow, it only lasted about 2 minutes from when I first saw it, and slowly faded away, giving the appearance it may have been moving very quickly due to its apparent distance away.  There were no sounds, no flashing lights, just solid amber.  I was in the Coast Guard and also fish in the ocean frequently at night.  I have NEVER even thought I saw anything resembling a UFO, but I can say without a doubt I have NEVER seen anything like this.   My gut reaction was to go get my wife to come loo! k at it, since I knew she would think I was crazy, but I was afraid if I did, I would miss something, or it would be gone.  Awesome experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80552.html](http://www.nuforc.org/webreports/reports/080/S80552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two UFO craft sighted in Denver - One strobing with forward momentum, the other hovering.Brilliant white strobe in circle shape VIDEO TAPED flying southbound against mountain range.  Balcony viewpoint was 10th Avenue in Denver, for perspective, cross street Broadway.   This craft appeared to be totally cylindrical, and would go from 100% illumination extremely bright white light, to absolutely 0% and totally dark, back to fully lit, back to fully dark, repeat until out of site.  Full video available.After this craft appeared to have gone out of site, within approximately two minutes, a SECOND craft appeared (first craft gone, may have been same craft but different scenario).Second craft was full bright white/orange light, also totally cylindrical, appeared to hover in place for a solid two minutes, brilliantly lit, and then appeared to gain altitude.  Zero presence of flashing lights as would be indicated on traditional commercial craft.  This literally floated/hovered mid air with no observable movement.  Southbound from balcony at 10th and Broadway, no flashing, not sure if different craft or if same craft as above but using different lighting scheme and hovering as opposed to forward/southbound momentum.Have video footage of both.  Not exactly eager to post online given scrutiny factor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126648.html](http://www.nuforc.org/webreports/reports/126/S126648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
