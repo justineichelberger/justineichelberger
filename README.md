@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 21 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bangalore (India) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A bar like object  sighted in India which was in a stand still position illuminating light downwards on to ground.I am a civil engineer,and i was a one of the responsible person for constructing the National highway no:4,in India.This runs between Nelamangala to Tumkur, about 50Km from Bangalore city towards bombay. we had just finished the NH work and a Toll Plaza had been established as it was a BOT Project,I joined  my two friends back home at about 2.30 am(in the Night),in a vehicle after they finished their 2nd shift duty,as we were travelling on the highway,we saw a bar like structure which was illuminating a grayesh white light downwards,and we were looking at slightly disturbed mood since we could not match it with an aircraft or helecopter,and we tried to move as close as possible to the strange object on the highway so as to have a close watch,finally the driver stopped the car at a best visible place,where we were about 600m(approximate) away from the object. we could now understand that it was about 50ft high above the ground level.it was on a stand still position for about 5minutes with the same illuminating light below,it had different small colour lights continously onn on the sides.my friend instructed the driver to put on the indicators of the car and as he did it we saw slight disturbance in the strange object,and about a couple of minutes aferwards we saw it moving slowly rising vertically and also moving horizontally,now we could see that it was a long object just a bar, and we could see it for about 4minutes before it disappered in the skies. we did not discuss this with anybody because we thought they would not believe us.I don't know whether this will help you in our research operations, but i have done my duty.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37082.html](http://www.nuforc.org/webreports/reports/037/S37082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Framingham (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Various bright lights in night sky..thought was helicopters but werent moving..objects just kept getting brighter & brighter & then they all disappeared at same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133237.html](http://www.nuforc.org/webreports/reports/133/S133237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/162/S162442.html)
-- [280](http://www.nuforc.org/webreports/reports/162/S162444.html)
-- [279](http://www.nuforc.org/webreports/reports/162/S162560.html)
-- [278](http://www.nuforc.org/webreports/reports/162/S162443.html)
-- [277](http://www.nuforc.org/webreports/reports/162/S162525.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
