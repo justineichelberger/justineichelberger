@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:24:55 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:10 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three bright lights in triangle formation travel night sky,  horizon to horizon in 3 seconds.Last night March 21, 2011 in University Place Washington USA, at > approximately 10:00PM I was outside looking up at the sky. Seeing very > few clouds and lots of stars. From the southern horizon I noticed > three lights that were the size and brightness of Venus traveling > north in a triangle formation. They started joining to form one light > then back to triangle (this happened several times), then just one of > three made several in/out/up/back movements. It disappeared over the > north horizon. I put my hand up and moved it across the sky in the > same line the lights had traveled, counting up to 3 seconds.There were no engine noises, no sonic boom, and they traveled the > south to north horizon in just 3 seconds.This morning I looked on www.historychannel.com for the UFO Show.Under sightings I found another sighting similar to mine in the USA.This was an amazing thing to see, even at only 3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80582.html](http://www.nuforc.org/webreports/reports/080/S80582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I don't know if this was a dream or if i was abducted.  If I was abducted I don't know if the images I keep seeing where planted by aliens.  But during the night, I saw a saucer shaped craft with a bright fiery red light on bottom what I had seen was me behind the wheel of a pickup I had not seen since I was 18 any way this craft kept following me and flying very rapidly around me there are flashes of images of beings I can't make out but another images I kept seeing was a black bubble domed cockpit helicopter with wings on each side and two heat seekers on each wing as I said I don't know if what happened was a nightmare or images planted by aliens during an abduction I was at home the entire night with my dog sleeping next to me with his head on my knees so if I was abducted how was I taken without stirring my wife or my dog</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126501.html](http://www.nuforc.org/webreports/reports/126/S126501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
