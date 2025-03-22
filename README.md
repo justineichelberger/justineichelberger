@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White, oval shaped object, disappeard suddenly. Another sighting more recently, same kind of object.I was outside feeding my animals when I notice they're all looking at something. So I look up and I see a totally weird object. It's this white oval shaped object hovering in the sky. It was not a cloud, as it was moving too rapidly to be a cloud, and it was not a plane. I am certain of this. It was not a balloon or anything like that. I don't think it was from around here. Anyway, I look up to see it heading towards a range of mountains we call "The Pinnacles". I watched it for a few seconds and all of a sudden, it was gone! I was astonished. No flash of light. No sound. Nothing. It was just gone. And the weird thing is, it was just this spooky object that made no sound. I got the chills, and I'm not sure if it was because I was really scared or if it was because I was pumped that I saw this. But then I thought, 'Probably just my mind playing tricks on me.' And that was that. Until a month or so ago.I went outside on the porch and I see that same white oval shaped object in the sky. It made no sound or anything, and it certainly didn't look like a plane. But the weird thing was, it was kind of near The Pinnacles where I saw the first white oval object. I rushed inside to grab the binoculars to see whether or not I could discern what the object was, and I couldn't find them so I rushed back outside. It was gone. I had only been inside for a few seconds, so I was puzzled. There were no traces of it whatsoever. It was totally weird. Then I look up to see another object, but it wasn't otherworldly or anything. Just a plane.((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44587.html](http://www.nuforc.org/webreports/reports/044/S44587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Xenia (west of) (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distinct shadow over ground, nothing in the air.Driving east on St Rt 35 just west of Xenia, Ohio, shortly after 1330 EDT.  High, blue sky, temp in the low 40s F.  Saw large tapered shadow (narrow end leading, shadow heading WSW) pass over car, but nothing above me.  Looked out windows and sunroof....no aircraft, birds, clouds, etc.  No noise was heard.  Location is near local municipal airport, and maybe 10 miles from WPAFB, but no aircraft were in the the area.Aerospace engineer with 30+ years expereince, aviation enthuisiat entire life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96618.html](http://www.nuforc.org/webreports/reports/096/S96618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
