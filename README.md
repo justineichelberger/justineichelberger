@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Forest (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed an amber/orange light silently fly over, stop for 3 minutes, moved again and stopped only to release 2 more smaller orange lights & then vanish.My wife & I were taking our son & daughter to Chuck'E Cheese in Lake Forest to celebrate our son's 11th birthday. It was a little past 8 p.m. when I was driving south on El Toro road. I had to get gas first so I headed for the Arco gas station near the 5 freeway. One block before I pulled in I saw a bright orange ball/light slowly moving South East. I told my son to check out the light. I saw it because it was in front of me at about 200 feet up & 1/4 mile away & it was a clear night. I continued to glance at it until I got to the gas station. After I pulled in my son & I got out of the van & ran over to see it. My wife didn't care to see this. The orange light slowly drifted in the same direction over our heads & then stopped. At this time I was facing south. It was silent. The light stayed there for 3 minutes & started drifting to our right (south west) which placed it above the 5 freeway. At this time I was telling my wife to please see this & she wouldn't budge. The light stopped again & then it flickered & two smaller orange lights came out of it about 2 seconds apart. After this happened the light started to move away & then flickered out. It's as though it released some scout crafts & took off. When it disappeared it was like turning off a light bulb. A few minutes later I saw two military aircraft flying at top speed in the direction of the UFO. I figured that the UFO saw the military jets, launched some scouts & took off before they reached them. My son & I were very excited. This was an amazing event that took place. I knew this wasn't any craft that we have because it didn't have any other lights that are required for aircraft & it was silent. In 1987 while I was in Miami I remember seeing this same type of glowing orange light silently drifting south & when it was overhead it became brighter & then released four smaller orange lights which flew in a "V" formation with the brighter light in front. It continued flying until it was out of my sight. I use the words "light" or "ball" to describe! what wa s viewable. I would have loved to see the craft itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12533.html](http://www.nuforc.org/webreports/reports/012/S12533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port St. Lucie (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Silent fireballs.South going north along  St. Lucy river north fork following river.  totally quiet red fireballs.  the third fireball when I shouted at it and pointed at it stopped grew in size flared then continued on its way.  shortly all fireballs extinguished their flames.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108032.html](http://www.nuforc.org/webreports/reports/108/S108032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
