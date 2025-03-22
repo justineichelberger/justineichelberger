@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round shiny object fewed sitting way up in the sky for a few seconds before drifting to the right and disappearing completley.My 13 yr old son and I were throwing frisbee in the front yard.  It was late afternoon, around 6pm.  I noticed something really high in the sky and started staring.  My son asked what I was staring at, and then turned around and exclaimed, "Wow, that is really high in the sky." We both proceeded to watch it sitting still in the sky, and then after a few seconds, moved slowly, sort of drifting, to our right for a few seconds, and then disappeared.  At this time, my son swung back around with excitement and asked, "Where did it go?!".  I wondered the same and shrugged my shoulders.  The object was round and very shiny, silver looking.  It made no noise and had no chemical trail behind it.  Very strange...???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133832.html](http://www.nuforc.org/webreports/reports/133/S133832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Last night a large round object came out of a forest behing my house, the next day we explored the area to find no leaves.Instead of a backyard, I have a forest behind my house. Last night, a sonic boom woke all four of us. The boom repeated about 8 times. We ran to the edge of the forest to see what was happening, and from somewhere in the middle, a large round disk, about 300 yards away rose up and sped off in the opposite direction (south). The bottom of it was mezmerizing, like a light show. A large blue light in the center of it moved around in a spiral toward the outer edges; and the object was outlined in a flashing changing color light. The next day, we followed one of our trails to where the object had been. What we founfd was unbelivable. A 40ft by 40ft area of the forest, in the shape of a circle, had no leaves at all. None were on the ground, and there were no plants. And all around the area lush greens leaves were everywhere. The trees were untouched, no branch was out of place. The end. P.S. As I was typing this, I heard the same sonic booms nosies, only much further away.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55887.html](http://www.nuforc.org/webreports/reports/055/S55887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
