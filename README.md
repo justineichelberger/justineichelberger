@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Xenia (west of) (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distinct shadow over ground, nothing in the air.Driving east on St Rt 35 just west of Xenia, Ohio, shortly after 1330 EDT.  High, blue sky, temp in the low 40s F.  Saw large tapered shadow (narrow end leading, shadow heading WSW) pass over car, but nothing above me.  Looked out windows and sunroof....no aircraft, birds, clouds, etc.  No noise was heard.  Location is near local municipal airport, and maybe 10 miles from WPAFB, but no aircraft were in the the area.Aerospace engineer with 30+ years expereince, aviation enthuisiat entire life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96618.html](http://www.nuforc.org/webreports/reports/096/S96618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in El Dorado (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Spheres the night of Iraqi  invasionTodays date is 08/22/04. I am slow in reporting this, but after seeing the info concerning the objects(spheres of light)sighted in Mexico, I felt compelled to write about what I had witnessed.The night/early morning of my sighting was the night we invaded Iraq. I had been on the computer most of the night talking with friends and following links about what was happening world wide. I was upset about the war,and at about 1:30 I finally turned the computer off and walked out onto my back deck, which faces directly South. As I stood there breathing in the cool night air, I was looking up at the sky, just thinking about the war and such. Over to my right,Southwest, at about 50 degrees, I saw a trail(pieces)of fire shooting off to my right into the night sky. My first thought, someone is shooting off a flare of some sort? (I live in the country miles from town and city lights)...then directly in front of me 90 degrees, between two large leafless oak trees, Two side by side orbs or spheres of light came on...they just seemed to turn on....if you held two 24" peices of circular paper at arms length, that was how large they appeared in the sky. They seemed very close, or were extremely large. I have seen planes with their landing lights come over before, but, these spheres of light were nothing like that. They were perfectly spaced(like headlights)...the light was a pale white/greenish yellow, a non color really...and there was no illumination coming from the light...I stood there just staring at them, wondering how long would they last,what were they...they were not moving, there was no sound coming from them...then just as quietly as they had turned on, they turned off. Fading to the blackness of the sky. I stood there for maybe 10 minutes or more to see if something else might happen. Nothing did. The next day I asked a friend who was in the military if he had ever heard of government flares of that sort, he told me no, he never had.Thank you for letting me post this. B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38803.html](http://www.nuforc.org/webreports/reports/038/S38803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
