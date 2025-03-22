@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:37 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:24:55 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Reading (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Driving to Boston.  Passing through North Reading.  On highway ball of light dropping above me.  A blue/white color, like a gas stove.  Fell almost to the grown disappeared.Time 12:15 a.m..  A few cars were driving. .but their was alot of State troopers on they must have seen it.they were pulling over cars.  My car started stalling, it was weird.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118027.html](http://www.nuforc.org/webreports/reports/118/S118027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in University Place (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three bright lights in triangle formation travel night sky,  horizon to horizon in 3 seconds.Last night March 21, 2011 in University Place Washington USA, at > approximately 10:00PM I was outside looking up at the sky. Seeing very > few clouds and lots of stars. From the southern horizon I noticed > three lights that were the size and brightness of Venus traveling > north in a triangle formation. They started joining to form one light > then back to triangle (this happened several times), then just one of > three made several in/out/up/back movements. It disappeared over the > north horizon. I put my hand up and moved it across the sky in the > same line the lights had traveled, counting up to 3 seconds.There were no engine noises, no sonic boom, and they traveled the > south to north horizon in just 3 seconds.This morning I looked on www.historychannel.com for the UFO Show.Under sightings I found another sighting similar to mine in the USA.This was an amazing thing to see, even at only 3 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80582.html](http://www.nuforc.org/webreports/reports/080/S80582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
