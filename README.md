@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>tear shaped object over hamilton ontarioThe sighting began at around 12am on friday morning. When me, my friend, mother, and girlfriend were on the way back from picking up my girlfriend.  My mother and I noticed a small white/yellow, tear drop shaped object turned on its side. At first it was thought to be an air plain.  As we continued back to my house we noticed that the same object was moving and then it would stop in mid-air.  It would move and hover for a few seconds then move agian.  We considered it a helicopter until we turned the car around to take a better look it as it darted away faster.  We decided to follow the object and as we moved closer the object darted even faster.  Then the object darted off passing over a forest area, beyond the Hamilton escarpment.  Then the object was now out of eye sight.  We got out of the car to see if we could find where it had gone, but we had no luck.  This all occured within 10 minutes and by this time we started to drive home and noticed a helicopter with blinking red(front) and blue(back) lights.  We belived it was a police helicopter when we saw it heading toward where we last saw the object dart from our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22292.html](http://www.nuforc.org/webreports/reports/022/S22292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>fading lightmyself and my friend well call him ((name deleted)) and these two girls we jsut picked up from a concert were driving to a private spot when a light appeared over the hill and then we thought it was just a big rig truck but as we got closer the light was reversing away from us. then we slowly came to a stop and then i preceded to put the car in reverse and the light began to come towards us as if it would stay within a distance of about 30 yards then the light faded away and that was all of that matter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23034.html](http://www.nuforc.org/webreports/reports/023/S23034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
