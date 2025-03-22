@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ilfeld (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>WWII plane about to crash into valley foothills, then appeared to turn into white orb and disappeared completelyI was sitting at my computer desk in front of a large window, facing the back yard (north/northwest) at 7:02 PM last night.  My partner and I were arguing because a brand-new, expensive hard drive had just stopped working, and lost valuable information, when suddenly it sounded like a plane was about to crash into the house. As I stood up and demanded, "Where is that coming from?!," an enormous plane flew dead-center over where I had been sitting, swooping lower in front of the window and into the Ilfeld valley.  It looked (and sounded)like a World War II era plane with three engines (protrusions/turbines?) on each wing.  The entire plane was dark (black? gunmetal grey, or dark green?)  The wings were at 90* angles to the body as was the flat squarish tail.  It was less than 200 feet above where I sat, speeding north, and diving even lower in to the valley below the hilltops.  My partner ran to find a camera.  We both were screaming, "It is going to crash!" when next we saw it turn upside down.  We watched in shock as it pulled up vertically just before the opposing hills and did a sharp barrel roll to the right (east) like it was out of control.  Then it dove down into the hills toward the ground.  We braced for an explosion.  When there wasn't one, we both feared that it might come back towards us, but saw only a white orb/round light that then darted briefly to the left (northwest)toward the base of the foothills, where it disappeared completely.  I ran outside to watch and try to see more clearly where the plane had gone.  Nothing happened after that, but it left us in a state of excitement and completely baffled.  I'm not sure that what we heard and saw was actually a plane, which is why I am reporting it here.  If it was, it looked exactly like the old WWII bombers:  too large, low and unwieldy to do the kind of aerial maneuvers we witnessed.  The cameras in the backyard had stopped working at this time, but the front camera did catch a large black plane coming off the mesa in front of the house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133278.html](http://www.nuforc.org/webreports/reports/133/S133278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Princeton (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Four bright redish white flashes of light then they vanished.4 bright flashes of light side by side then they just vanished.((NUFORC Note:  This is the only information provided by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16955.html](http://www.nuforc.org/webreports/reports/016/S16955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
