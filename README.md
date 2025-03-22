@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:10 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I don't know if this was a dream or if i was abducted.  If I was abducted I don't know if the images I keep seeing where planted by aliens.  But during the night, I saw a saucer shaped craft with a bright fiery red light on bottom what I had seen was me behind the wheel of a pickup I had not seen since I was 18 any way this craft kept following me and flying very rapidly around me there are flashes of images of beings I can't make out but another images I kept seeing was a black bubble domed cockpit helicopter with wings on each side and two heat seekers on each wing as I said I don't know if what happened was a nightmare or images planted by aliens during an abduction I was at home the entire night with my dog sleeping next to me with his head on my knees so if I was abducted how was I taken without stirring my wife or my dog</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126501.html](http://www.nuforc.org/webreports/reports/126/S126501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Hour - Hour minutes.</sub><blockquote><sub>Pulsing object emitting red objects?!The object was pulsing, and emitted many red objects.  These looked like planets and/or stars, but could not have been.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87957.html](http://www.nuforc.org/webreports/reports/087/S87957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
