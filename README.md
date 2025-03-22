@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in El Dorado (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Spheres the night of Iraqi  invasionTodays date is 08/22/04. I am slow in reporting this, but after seeing the info concerning the objects(spheres of light)sighted in Mexico, I felt compelled to write about what I had witnessed.The night/early morning of my sighting was the night we invaded Iraq. I had been on the computer most of the night talking with friends and following links about what was happening world wide. I was upset about the war,and at about 1:30 I finally turned the computer off and walked out onto my back deck, which faces directly South. As I stood there breathing in the cool night air, I was looking up at the sky, just thinking about the war and such. Over to my right,Southwest, at about 50 degrees, I saw a trail(pieces)of fire shooting off to my right into the night sky. My first thought, someone is shooting off a flare of some sort? (I live in the country miles from town and city lights)...then directly in front of me 90 degrees, between two large leafless oak trees, Two side by side orbs or spheres of light came on...they just seemed to turn on....if you held two 24" peices of circular paper at arms length, that was how large they appeared in the sky. They seemed very close, or were extremely large. I have seen planes with their landing lights come over before, but, these spheres of light were nothing like that. They were perfectly spaced(like headlights)...the light was a pale white/greenish yellow, a non color really...and there was no illumination coming from the light...I stood there just staring at them, wondering how long would they last,what were they...they were not moving, there was no sound coming from them...then just as quietly as they had turned on, they turned off. Fading to the blackness of the sky. I stood there for maybe 10 minutes or more to see if something else might happen. Nothing did. The next day I asked a friend who was in the military if he had ever heard of government flares of that sort, he told me no, he never had.Thank you for letting me post this. B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38803.html](http://www.nuforc.org/webreports/reports/038/S38803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Round shiny object fewed sitting way up in the sky for a few seconds before drifting to the right and disappearing completley.My 13 yr old son and I were throwing frisbee in the front yard.  It was late afternoon, around 6pm.  I noticed something really high in the sky and started staring.  My son asked what I was staring at, and then turned around and exclaimed, "Wow, that is really high in the sky." We both proceeded to watch it sitting still in the sky, and then after a few seconds, moved slowly, sort of drifting, to our right for a few seconds, and then disappeared.  At this time, my son swung back around with excitement and asked, "Where did it go?!".  I wondered the same and shrugged my shoulders.  The object was round and very shiny, silver looking.  It made no noise and had no chemical trail behind it.  Very strange...???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133832.html](http://www.nuforc.org/webreports/reports/133/S133832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
