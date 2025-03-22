@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fond du Lac (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no detailed information about his sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149388.html](http://www.nuforc.org/webreports/reports/149/S149388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>UFO in Wenatchee, Washington. Multiple videos including myself for evidence.Went outside to smoke and I seen this light come out of nowhere.  And then I stood outside and I watched it for about 20 minutes and then I called my next-door neighbor out and we stood there for about an hour and watched it. And during the whole hour and a half or so this object never moved.  I thought it was a droin, or a satellite balloon or the planet Venus.  Then I called my friend who lives in East Wenatchee and I asked if he could see it and he said yes.  But then I go outside and hour and 15 minutes later and it still there and then all of the sudden it takes off superfast and then it’s nowhere in sight.  I wrote about it in our town Facebook page and apparently a lot of people caught this on Camera. And said that it’s been happening often since last summer.  It’s my first account of any such thing.According to my friend in East Wenatchee & other video recordings that were made when I seen it fly off it really wasn’t gone it had moved to over the mountain . But it is all over town‘s Facebook page.My video is a bit shaky but if you look on Wenatchee rants and raves then you will see under my posting other videos that were taken last night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154423.html](http://www.nuforc.org/webreports/reports/154/S154423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
