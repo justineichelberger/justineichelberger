@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:52 on 22 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hastings (Hawkes Bay)  (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>very bright blueish light..moved in a large half circle..then stayed in one spot and seemed to be moving away from us as the light was getting fainter..it took about ten mins to dissapear over the horizon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35776.html](http://www.nuforc.org/webreports/reports/035/S35776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>About 7:30 PM, heard the loud blades of a helicopter, sounding as if flying close to the ground.  I went into the backyard and saw what I first thought was a large airplane flying dangerously low, with a helicopter following very closely on its tail.  I at first assumed it was a plane having problems, and was trying to reach the MTSU airport. Again, one hour later, same scenario headed in the opposite direction.  This time I got a closer look.  It was shaped much like an airplane, gray in color with absolutely no lights or windows that I could see.  The helicopter was again following very closely and did have its lights on.  I could clearly hear the helicopter, but the plane shaped object made no sound whatsoever.  It dawned on me then I had seen something extraordinary, that a plane could not fly that low or that slow without crashing.  I contacted Murfreesboro police who transferred my call to MTSU police to ask what was going on?  My call was returned after the person who took my call said she would try to find out what was going on.  She said she was unable to reach anyone at the MTSU airport.  One other person witnessed the object and helicopter flying over our residence both times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133287.html](http://www.nuforc.org/webreports/reports/133/S133287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/162/S162454.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162448.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162870.html)
-- [254](http://www.nuforc.org/webreports/reports/154/S154404.html)
-- [253](http://www.nuforc.org/webreports/reports/154/S154394.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
