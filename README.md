@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:01 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Thomasville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that moved low in the night sky.It looked like a bright star, but it moved very slowly side to side and up and down.  It was fairly low in the east sky aroound 8 o'clock in the evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133282.html](http://www.nuforc.org/webreports/reports/133/S133282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Nashville (near) (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving home from Missouri to Florida..near Nashville, TN at 2:32 in the morning, I saw a large circular craft in the sky. At first I thought it was a plane, but it was hovering, not flying forward...I watched it and it continued to hover. The craft seemed to have three spokes, and there were bright lights at the end of each spoke. There was also a large blinking light in the center that was much brighter.I have no idea what it was, and don't even know if it was a "real UFO," though it is certainly unidentified to me. Doesn't make sense to me that a UFO would have blinking light in the center. Also, since it was night, I am not certain whether it was a smaller object closer by, or a huge object at a distance.If other people near Nashville have reported a similar thing, then my report would further support theirs.((ADDENDUM))Dear ((deleted)),Thank you very much for the excellent report!I have no idea what the object you witnessed could have been.  Given youracademic background, I would presume that you had ruled out all obviouspossibilities, e.g. aircraft, blimps, advertising lights, celestial bodies,aurora borrealis, etc..Did you stop your vehicle at any time to look at the object, or were youdriving during the sighting, please?  Also, were you looking through thewindshield or window, or did you roll down a window to look at it?We will post your report to our website, probably tomorrow, and perhapsothers will respond from Nashville, if they saw it, or if they know what itwas.Thank you very much for taking the time to share the information with ourCenter!Cordially,Peter Davenport((RESPONSE))i Peter,Certainly wasn't any plane, cause it wasn't moving like a plane...was hovering, then went kind of back and forth, whereas planes fly forward. At first, I thought it was a helicopter, but I that wouldn't explain the three glowing lights at the edges. And I know it was not any celestial body or aurora borealis. I did not stop the vehicle and look...I was looking through the windshield, but the windshield was not obscuring or altering my view. I was not looking through a crack or dirty area. Moreover, as I passed, I got the same view of the object through my driver's side window as through the windshield. I tried to turn around, but I was on the interstate and couldn't turn around for like five or ten miles. Feel free to post my sighting. The University of Tennesee has a Space Institute somewhere near there, so who knows, maybe it was an experimental aircraft. There were other people driving on the interstate that evening, I was hoping there had been other reports, and that someone would have more visual detail on the thing than I did. Collectively, we might have had an interesting report.Really wish I'd been carrying a camera with telephoto lens that night.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22327.html](http://www.nuforc.org/webreports/reports/022/S22327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
