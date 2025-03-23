@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:06 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:15 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light over St. Cloud, MN.The sky was still clear and blue as it was getting dark.  There was 1 flame colored orange ball of low intensity light moving south over south St. Cloud, MN.  Moving very slowly silently and appearing to coast to a stop, it began to move again seconds later and seem to rise and disappear as if entering a haze and fading out completely.  There were no other lights around it as an aircraft would display.  I’m quite sure the object was visible for at least several minutes before it first caught my eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108099.html](http://www.nuforc.org/webreports/reports/108/S108099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>A craft over a house in East Mesa..On this evening,  facing as I was coming down the street I saw a craft about the house it seemed to be on its left side I thought it was a helicopter but then I noticed it had no propeller it was facing Southwest as I approached the area a big flood light flashed over the entire house got my attention.  in the craft turned more towards the West and then it was gone, nothing.  I did approach the house and I asked the people that were leaving the house at the time at the same exact time if they saw anything, and they said, no, they said nothing.  they jumped in their cars and rode away in this took place on Colby Street on the east side of Mesa.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127058.html](http://www.nuforc.org/webreports/reports/127/S127058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
