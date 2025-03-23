@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Thomasville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that moved low in the night sky.It looked like a bright star, but it moved very slowly side to side and up and down.  It was fairly low in the east sky aroound 8 o'clock in the evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133282.html](http://www.nuforc.org/webreports/reports/133/S133282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Very bright, star-like object making loopy or jerky motions.First, let me say that I have seen this type of incident many times in my life, but this is the first time I am reporting it.I got up at approx. 4 am, because of a bad dream.   I walked into my living room which is all glass, and the night sky was exceptionally clear, no clouds.  In between some palm fronds I noticed something that was EXTREMELY bright, like a planet, but upon further inspection, I noticed it had a somewhat strange shape, somewhat of a triangle, with a larger flat top and pointed bottom.  It seemed to be " pulsing" bright, dimmer,brighter, dimmer, AND was moving in a jerky side to side motion, while very slowly moving upward, I lined my head up with the wall of the sliding glass door to make sure I wasn't moving and I watched this thing making a weird, loopy motion, sort of wobbling here and there, but always slowly moving upwards, while it still kept getting VERY bright, then dimming, and getting bright, over and over.  I know it wasn't a plane, or a helicopter, or a satellite, or a star, etc........ and as I said, I have seen this same type of " star like" object, ( MANY times through my life from the time I was a teenager, and I am now 56) that if you were to just glance at it, would seem like a planet or star, but if you start to stare at it, you notice it is doing very bizarre things, just subtlely, as you study it.I once observed an object like this on a beach in Oxnard, Calif. at 5 am.which was just above the horizon of the ocean.  Some surfers were in the ocean, and the sun was just barely starting to come up.  The object went directly into the ocean !!!!!   I was STUNNED, and apparently the surfers were too because they started yelling and screaming and going wild !!!! We had all witnessed something of the most bizarre nature, not knowing what to think.   I witnessed the object I am reporting now, for about 30-40 min. before I noticed it started waning in intensity, and it just " went out" and vanished in a perfectly clear night sky............((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69369.html](http://www.nuforc.org/webreports/reports/069/S69369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
