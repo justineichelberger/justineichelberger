@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lake Havasu (AZ) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Five adults see very bright cylinder (or saucer??) in clear night sky.  Multiple colors.  Called 911.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00368.html](http://www.nuforc.org/webreports/reports/000/S00368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Grand Island (NE) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large black rectangular object above grand island with a red light on each side.I was sitting in my room, looking out the window when I noticed a strange object in the sky.  It appeared to be some sort of stealth jet at first, I left my room and told my friends to come look at this thing.  We stepped out into the backyard and looked up at the object.  As it moved across the sky, we noticed that it was more of a black bar or rectangular shape with a red light on each side.  We heard a distant humming sound, but it was well above the clouds, so my friends and I belived it's size to be about 6-7 times larger than a commercial jet.  It moved incredibly slow.  It appeared to have turned, but never faltered from its initial direction.  We attempted to get the on video but the sky was too dark and our phone cameras weren't that great.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119050.html](http://www.nuforc.org/webreports/reports/119/S119050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
