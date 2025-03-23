@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:06 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oregon (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>cloaked craft with 3 dim tail lights silently passes over house.At 23:41 exactly, I walked out of the back door of my house to go for a midnight jog. As I shut the door and looked up into the clear sky, I was shocked to observe something I can not explain. In the sky to my 11 'o clock traveling from west to east was a blurred almost invisible formation, only one; with what looked to be three tailing lights [tail lights?]. The lights were dim and blurred/covered partially as if what ever was making the rest of the craft [invisible] was having trouble or could not fully cloak the three tail lights. I know that this craft in fact was not invisible because as it traveled off at about a couple hundred feet above tree line, it blurred the stars it passed under from my point of view. I only saw the craft for what seemed to be a full ten seconds and in that 10 seconds the unknown craft covered 25 degrees of the sky from over my head towards the eastern sky, but I did notice there was no sound at all in the sky's at the time it w! as passing. I could not make out the actual full shape of the craft. Again I want to add this was a clear night sky with all stars visible in a suburban neighborhood with calm to no wind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74773.html](http://www.nuforc.org/webreports/reports/074/S74773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Cloud (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light over St. Cloud, MN.The sky was still clear and blue as it was getting dark.  There was 1 flame colored orange ball of low intensity light moving south over south St. Cloud, MN.  Moving very slowly silently and appearing to coast to a stop, it began to move again seconds later and seem to rise and disappear as if entering a haze and fading out completely.  There were no other lights around it as an aircraft would display.  I’m quite sure the object was visible for at least several minutes before it first caught my eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108099.html](http://www.nuforc.org/webreports/reports/108/S108099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
