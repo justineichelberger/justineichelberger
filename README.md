@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fast ball in the skyI was outside at the family farm 45 minuets from Edmonton Alberta, having a cigarette; all the dogs in the county were barking away and at first I passed it off as being a large amount of coyote activity. As I was walking in from my smoke I noticed a star far brighter then the rest, but then I noticed it was moving with a in a "z" motion through the sky near Oran’s ((sic.  Orion's)) belt in a north eastern direction sometimes giving the appearance of a tail, it seemed to slow down and became brighter as this happened the our dogs (who had calmed down) started barking even louder then they had been all night the horses could even be heard running around there was a little larger flash and it was gone. After all this our dogs clamed down but you could still here the other dogs most of the night. My mother and Stepfather were in the house when all this happened and aside from the dogs barking and then just stopping my family did not wittiness any of the lights.To my knowledge there have been several sightings in the area over the past ten years or so. Some of these sightings have been recorded and seen by many people, others were by a few and far between.((name deleted))((NUFORC Note:  Witness does not indicate units of the time duration above.  We do not know if it is seconds, or minutes.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35801.html](http://www.nuforc.org/webreports/reports/035/S35801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Multiple FAA controllers experience 3rd sighting: 19FE, 17MR, 23MR.  Obj. returned light signal; no radar sig.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00367.html](http://www.nuforc.org/webreports/reports/000/S00367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
