@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:01 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Woman witnesses extremely bright light in neighboring field behind trees.  Hears a huge "crash" that rattles neighborhood.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01384.html](http://www.nuforc.org/webreports/reports/001/S01384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Thomasville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that moved low in the night sky.It looked like a bright star, but it moved very slowly side to side and up and down.  It was fairly low in the east sky aroound 8 o'clock in the evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133282.html](http://www.nuforc.org/webreports/reports/133/S133282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
