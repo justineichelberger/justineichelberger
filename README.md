@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:15 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:36 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>A craft over a house in East Mesa..On this evening,  facing as I was coming down the street I saw a craft about the house it seemed to be on its left side I thought it was a helicopter but then I noticed it had no propeller it was facing Southwest as I approached the area a big flood light flashed over the entire house got my attention.  in the craft turned more towards the West and then it was gone, nothing.  I did approach the house and I asked the people that were leaving the house at the time at the same exact time if they saw anything, and they said, no, they said nothing.  they jumped in their cars and rode away in this took place on Colby Street on the east side of Mesa.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127058.html](http://www.nuforc.org/webreports/reports/127/S127058.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 lights in sky in triangle formation which eventually separated very quickly.saw 3 solid lights in a triangle form out in the distance, it didn't change shape at for over 3 minutes eventually the lights separated and but remained close.  2 of the lights gradually flew off in distance and the other moved to the East.  The rate at which they moved away from each other was very fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126518.html](http://www.nuforc.org/webreports/reports/126/S126518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
