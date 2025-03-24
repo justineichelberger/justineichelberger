@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 23 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Seen above Woodland Hills, California. Viewing the front of my house which faces south west on my Nest Security Camera via the Nest Hub Monitor, I see an oval shaped Blue light in the night sky above Woodland Hills, California. Only visable with security camera. Was not able to see it with the naked eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154418.html](http://www.nuforc.org/webreports/reports/154/S154418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lihue (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>0ne round red light object in clouds  not moving for about 3 minutes the just in a blink of the eye was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145313.html](http://www.nuforc.org/webreports/reports/145/S145313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/162/S162742.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162450.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162451.html)
-- [261](http://www.nuforc.org/webreports/reports/163/S163289.html)
-- [260](http://www.nuforc.org/webreports/reports/162/S162465.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
