@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:14:01 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tahoe City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I STILL AM SEEING IT, IT HAS MOVED NOW IN A COURSE GOING EAST TO WEST ALMOST OVERHEAD. I SAW A HELICOPTER GO BY BUT THIS LIGHT WAS VERY FAR AWAY FROM THE HELICOPTER, SO I KNOW IT WASN'T A HELICOPTER, IT IS JUST TOO FAR AWAY TO GET ANY DETAIL, BUT IT IS STILL GOING AT A VERY SLOW PACE.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Satellites generally do not go east to west.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62319.html](http://www.nuforc.org/webreports/reports/062/S62319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fenton (MO) reported seeing craft that fit the description of some 'Cone' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellow-Orange flickering conical shaped light over St. LouisMy wife and I were in the car traveling South on highway 141 in Fenton when I noticed a bright yellow orange colored light in the Eastern sky several miles away.  At first it looked moved like a police helicopter, but the odd thing about it, it flickered like a flame.  My wife noted the light had a conical shape with the top of the cone pointing upward and the light faded at the tip of the cone.   I told my wife it looked like something was on fire and it might be a meteor or a piece of space junk.  We pulled over and kept watching it.  It was headed slowly in a NE direction.  As we watched it, it made a turn and started heading in a due South direction.  We got back on 141 since we were close to home and I wanted to get my binoculars to get a better look.  Unfortunately, as I drove into my driveway I noticed it was getting much smaller and had changed directions again and was heading back in the NE direction.   Within a second or two, the light had gotten s! o faint I could barely see it then it appeared to gain altitude and was gone.  I watched for a few more minutes but never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88018.html](http://www.nuforc.org/webreports/reports/088/S88018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
