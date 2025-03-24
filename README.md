@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>while driving on i690 by the lake.looking to the south.a small blue light shot down like a falling star but it blinked out not fading like a star dose.i seen many many fallen stars.this was between the trees and the sky line.it happened in a split second (the disappearing part). i also,sent a email about it to art bellok...while driving on i690 in syracuse,ny about between 0315 to 0330 going west looking left or south.I seen out of the corner of my eye a seen a small blue light zipping downward.thean it blinked out.it was between the tree line or horizon and the sky or star moon area.now i have seen lots of shooting stars and i am in through there all during the week at nite.i know it was not a star,light,plane,shooting star or anything as such.shooting stars fade and there ar no lights that high and i kepp looking for several min. and there was no plne around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12438.html](http://www.nuforc.org/webreports/reports/012/S12438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Montrose (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Round peach colored object heading wswI went outside to put the dog out and observed a beautiful clear star filled co. sky.  I observed one jet aircraft heading west to east.  I looked to the north about 80 degrees up and noticed an object traveling east north east to west north west that was round in shape and peach colored.  It headed to a tree which I ran around to try to observe better and on the other side a jet appeared.  The jet was high in elevation, about the same as the other object.  The jet had its light flashing and the other object had no flashing lights.  I didn't see the other object again but its diameter was larger than the jet.  It may have been shadowing it.  I would guess their elevation over 20 thousand feet as ours is 5890.  There were no flashing lights on the unknown object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108090.html](http://www.nuforc.org/webreports/reports/108/S108090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
