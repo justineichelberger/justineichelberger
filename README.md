@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:45 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:14:01 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Sturgis (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>They  could have been traveling by power from magnetic fields, they  appeared to slip through the sky.These disk were sighted as I turned off Highway 25 South on to the Craig Spring Road, South of Starkville, Mississippi.  The Moon was very bright and just before making my right turn I glanced up and there they were.  They looked to be approximately 20 feet in diameter, shaped like a disk, they looked silver in color,I didn't see any lights on these things, they were traveling West. They seemed to be about100 yards apart, one was leading the way and the other one was following.  As I traveled West on the Craig Spring Road, they were traveling West on the South side of the Craig Springs Road.  After watching them for approximately 4 minutes they had gotten far away and looked the size of a half dollar. With the bright Moon and the silver color of these things they had a kind of glow and could be seen easily.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36013.html](http://www.nuforc.org/webreports/reports/036/S36013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tahoe City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I STILL AM SEEING IT, IT HAS MOVED NOW IN A COURSE GOING EAST TO WEST ALMOST OVERHEAD. I SAW A HELICOPTER GO BY BUT THIS LIGHT WAS VERY FAR AWAY FROM THE HELICOPTER, SO I KNOW IT WASN'T A HELICOPTER, IT IS JUST TOO FAR AWAY TO GET ANY DETAIL, BUT IT IS STILL GOING AT A VERY SLOW PACE.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Satellites generally do not go east to west.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62319.html](http://www.nuforc.org/webreports/reports/062/S62319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
