@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Montgomery (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed a bright white light shaped like a sphere hovering over pine trees in back yard. No sound, no other lights or color.Stepped into my back yard around 8pm calling my dog to come in.  My dog was standing in the center of the back yard looking up towards the sky growling.  I looked up and saw a bright white light shaped like a sphere.  No other lights or color.  No sound.  It appeared low in the sky, hovering over the pine trees for less than 60 seconds and then took off faster than I could blink my eyes and disappeared.  I can’t begin to describe the speed.  I’ve never witnessed that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145591.html](http://www.nuforc.org/webreports/reports/145/S145591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>giant red light that came in fast then hovered silently about two minutes before vanishing.Bright red fireball looking object shot into the sky and appeared to be a comet at first. Very bright red and very fast moving.  It suddenly stopped in mid air, brightness turned to a subtle red flickering dot and sat in one position for about two minutes.  Silent!  Not one sounds from it at all.  A picture taken appears to be a long shaped red object. Video taken shows red object blinking and just sitting there.  Towards end of video the object is clearly visible with eyes but somehow quit showing up in video.  It then just disappeared completely.  Within ten minutes naval destroyer cruised up James river as did a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96783.html](http://www.nuforc.org/webreports/reports/096/S96783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
