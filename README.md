@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw what appeared to be an exploding satellite @ ~9:10 PM March 24, 2016At about 9:10PM March 24, 2016, I saw a momentary explosion high in the atmosphere that lasted less than a second.  There was no sound.  It looked like a firework explosion at its largest size about 1/3 the size of my pinky finger nail held at arm's length.  (~1/3 cm)  My impression is that of an exploding satellite.  The “shrapnel” was red in color and was either glowing from an explosion, or reflecting red from the sun, that had set earlier.  It did not streak through the sky; rather, it just exploded.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126528.html](http://www.nuforc.org/webreports/reports/126/S126528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fort Pierce/Orlando (between) (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We watched for 45 minutes 2 lights, then 1 light in the sky. It looked like a orange fireball and stayed with us as we drove north bound on the FL turnpike. It disappeared suddenly.My husband and brother in law were talking in the front seat of our van while I sat in the back trying to figure out what these 2 lights were that remained at the same size and distance to the NE of the van. We were traveling N on the Turnpike and we were N of Fort Pierce at approx 10 PM Tuesday March 24th. The lights were the color of flame, very bright and appearing to be high enough up to stay in a fixed position as we headed north. We lost them, maybe in trees, then they appeared again to the NW of our position. We lost them again, then one reappeared. It was very clear, no trees, no hills, no clouds, just stars and this bright flame colored light. We watched these lights for about 45 minutes which would have been quite a distance at the high rate of speed we were traveling. While all 3 of us were staring at the light trying to figure out what it was is just disappeared and there was nothing to see but a large number of stars in the bright sky. We all agreed that is was unlike any thing we had seen before. Observers are (2) college graduates (Accounting), 44 year old female and 33 year old male self employed in the computer industry and a 26 year old male employed at a grocery chain distribution center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03391.html](http://www.nuforc.org/webreports/reports/003/S03391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
