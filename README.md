@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 bright red lights in formation over Scottsdale Arizona March 24 2012 at 9:30 PM.We had finished working in downtown Scottsdale, Arizona and were loading up our equipment into our vehicle before we noticed the event that took place in the sky above.  It was around 9:30PM.  We got in our vehicle and noticed 3 bright red lights in the clear sky, moving slowly toward us from far away in the West.  Friends were outside our vehicle in the parking lot and we mentioned the lights to them.  One of our friends took a picture with her cell phone.  The lights were equal-distant apart from each other as if in formation.  They were steady and not flashing during the whole sighting.  They then turned to the South and looped back in a Southwesterly direction and upward until they disappeared.  They stayed in formation the entire time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88067.html](http://www.nuforc.org/webreports/reports/088/S88067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>while driving on i690 by the lake.looking to the south.a small blue light shot down like a falling star but it blinked out not fading like a star dose.i seen many many fallen stars.this was between the trees and the sky line.it happened in a split second (the disappearing part). i also,sent a email about it to art bellok...while driving on i690 in syracuse,ny about between 0315 to 0330 going west looking left or south.I seen out of the corner of my eye a seen a small blue light zipping downward.thean it blinked out.it was between the tree line or horizon and the sky or star moon area.now i have seen lots of shooting stars and i am in through there all during the week at nite.i know it was not a star,light,plane,shooting star or anything as such.shooting stars fade and there ar no lights that high and i kepp looking for several min. and there was no plne around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12438.html](http://www.nuforc.org/webreports/reports/012/S12438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
