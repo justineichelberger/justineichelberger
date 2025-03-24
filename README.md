@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsburg (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>giant red light that came in fast then hovered silently about two minutes before vanishing.Bright red fireball looking object shot into the sky and appeared to be a comet at first. Very bright red and very fast moving.  It suddenly stopped in mid air, brightness turned to a subtle red flickering dot and sat in one position for about two minutes.  Silent!  Not one sounds from it at all.  A picture taken appears to be a long shaped red object. Video taken shows red object blinking and just sitting there.  Towards end of video the object is clearly visible with eyes but somehow quit showing up in video.  It then just disappeared completely.  Within ten minutes naval destroyer cruised up James river as did a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96783.html](http://www.nuforc.org/webreports/reports/096/S96783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Yorktown Heights (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was standing in the back yard of my parents house when I noticed, coming from the north a triangular set of seven lights all white in color, moving very slowly on a direct straight line due south in the general direction of New York City.  The triangular formation of lights seemed to be fixed in relation to each other as if the lights were part of one solid object that I would estimate to have been over one football field in diameter.  The lights from this huge, dark object seemed to be "floating" no more than maybe 1000 feet above the ground.  At no time did I hear any sound coming from this object at all and as it passed over me the seven white lights all turned to a deep red color all at once.  I continued to follow this object with my eyes until it was lost by me still heading south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114218.html](http://www.nuforc.org/webreports/reports/114/S114218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
