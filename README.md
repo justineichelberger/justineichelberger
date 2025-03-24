@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:54 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:45 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>An object which was constantly changing shape moved very slowly across the sky.The object was very dark in color. It was either dark gray or black.  The object seemed to be changing shape rhythmically.  It would go from being a perfect sphere and then flatten out to be an extremely thin disk and then back to a sphere.  It was changing shape constantly while moving across the sky.  It was too high to get any kind of clear picture using my phone.  It was moving in a northward direction for about 15 to 20 minutes and then turned and went west until it was far enough away that I could not see it anymore.  It was never so high that it was in the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108142.html](http://www.nuforc.org/webreports/reports/108/S108142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Sturgis (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>They  could have been traveling by power from magnetic fields, they  appeared to slip through the sky.These disk were sighted as I turned off Highway 25 South on to the Craig Spring Road, South of Starkville, Mississippi.  The Moon was very bright and just before making my right turn I glanced up and there they were.  They looked to be approximately 20 feet in diameter, shaped like a disk, they looked silver in color,I didn't see any lights on these things, they were traveling West. They seemed to be about100 yards apart, one was leading the way and the other one was following.  As I traveled West on the Craig Spring Road, they were traveling West on the South side of the Craig Springs Road.  After watching them for approximately 4 minutes they had gotten far away and looked the size of a half dollar. With the bright Moon and the silver color of these things they had a kind of glow and could be seen easily.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36013.html](http://www.nuforc.org/webreports/reports/036/S36013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
