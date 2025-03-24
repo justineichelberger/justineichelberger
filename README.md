@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:54 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lihue (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>0ne round red light object in clouds  not moving for about 3 minutes the just in a blink of the eye was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145313.html](http://www.nuforc.org/webreports/reports/145/S145313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>An object which was constantly changing shape moved very slowly across the sky.The object was very dark in color. It was either dark gray or black.  The object seemed to be changing shape rhythmically.  It would go from being a perfect sphere and then flatten out to be an extremely thin disk and then back to a sphere.  It was changing shape constantly while moving across the sky.  It was too high to get any kind of clear picture using my phone.  It was moving in a northward direction for about 15 to 20 minutes and then turned and went west until it was far enough away that I could not see it anymore.  It was never so high that it was in the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108142.html](http://www.nuforc.org/webreports/reports/108/S108142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
