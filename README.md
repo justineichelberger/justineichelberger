@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:23 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Fraser Lake (Canada) (BC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00/03 - 00/03 minutes.</sub><blockquote><sub>Star like sphere appeared over ridge. Rose 5 degrees above horizon. Stayed stationary for 30 seconds. Went horizontal at incredible speed. Not sure if it was in atmospere.I was watching the stars from my bed. Very dark here in the North. A light appeared from the edge of the ridge and climbed a few degrees. I went to the window and tried to discern where it was. A very bright light that should have lit up the trees but didn't. Therefore I figured it was at a high altitude. The light remained stationary for a few moments and then sped off to the west at an incredible speed. More lights have been observed here off and on. I am a surveyor and I am very familiar with identifying landmarks from the air. I am also trained in airial photo interpretation and I habitually try to bring everything into perspective. I couldn't do that here though. There was nothing to judge by except the ridge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08887.html](http://www.nuforc.org/webreports/reports/008/S08887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three lighted circular aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88022.html](http://www.nuforc.org/webreports/reports/088/S88022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
