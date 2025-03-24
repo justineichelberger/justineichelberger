@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 24 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waldport (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Group witnesses 50 lights in formationA group of witnesses was already gathered, looking up at a formation of 40 lights streaming east when my son and I arrived on a mountain-top 7 miles east up the Alsea River from Waldport, Oregon.  We watched for 15 minutes.  The velocity of motion was pulsing or wavelike.  When a light was directly above, there was a burst of orange and multi-colored light.  It looked like one went up, out of the atmosphere.  My 18 year old son noticed two lights traveling side-by-side.  The next day, we learned that a maintenance worker at a coastal hotel in Newport, Oregon, also counted 50 lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154683.html](http://www.nuforc.org/webreports/reports/154/S154683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Approx. 7 lighted objects in a Northeast to Southwestern travel pattern above Billings Heights.The objects started above the horizon northeast of my residence as bright orangish light.  It started as two visible lights zig-zag from one another traveling in a southwestern direction.  The lights did not appear to have any type of vibration to them, and appeared to alternate between red/white light fast enough to appear orangish in color.  The objects continued southwest to directly east of my residence where I noticed several more on the horizon following.  The objects were traveling slowly, and the lights on the first two to three faded as they reached an area east of my residence.  The other objects continued in the same direction, extinguishing their lights at different locations in the sky, not being seen again.  At this time I noticed what appeared to be an airliner in a east to west flight pattern extremely high in the sky.  The last two objects were on a path to intersect visually at some point above my location with the airliner.  The last two o! bjects both slowed or possibly stopped in the air, and made a very smooth vertical climb, and extinguished their lights not to be seen again before reaching an intersecting point with the airliner.  There was absolutely no noise from these objects at all, and they were possibly around 1000 to 2000 feet AGL.  The night sky is clear, there is a partial moon, and many stars tonight.  The temperature is in the upper 30's to low 40's, and a slight breeze.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88010.html](http://www.nuforc.org/webreports/reports/088/S88010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [228](http://www.nuforc.org/webreports/reports/162/S162461.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162473.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162540.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162464.html)
-- [224](http://www.nuforc.org/webreports/reports/154/S154439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
