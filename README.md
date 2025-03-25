@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving formation that looked much like the London sighting.It was on a clear day last week, around the 25th of March. I was standing next to my house, looking up at the sky, observing the chemtrails which I do often. It wasn't a heavy chemtrail day, just a couple of Xes and lines that were spreading out. Suddenly I noticed something moving quickly past the trails. My eyes focused on what I first thought was a flock of birds in the far distance. It looked like bunch of dots in a formation. I'm wasn't sure how many, maybe ten or twelve, because this formation of dots was moving very fast. When I noticed them, they were directly in front of me, but within 2 to 3 seconds they had traveled across the sky to my left until they vanished in the distance.I stood there a few minutes thinking about what I just saw, wondering what it could have been. If it wasn't for the speed, it could have been a flock of birds so far away that they looked like dots. Then I thought it could have been a group of insects that were quite close to me streaking by and staying in a perfect formation. Maybe a squadron of jet fighters? But there was no noise made by this UFO. I thought it couldn't have been any of these things because it was just moving to fast.I didn't think much more about my sighting until last night when I saw the photo of the London sighting. It appears to be the same kind of formation only closer to the viewer. Could it be that there's a UFO squadron speeding around globe? I think it's a possibility. I have a degree in Nursing and have worked in the manufacturing field.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69501.html](http://www.nuforc.org/webreports/reports/069/S69501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Interstate 40, East Bound (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>on 03-25-99 me and my wife were on interstate 40 east bound when we saw a bright light in front of us it stoped and then all of a sudden it was gone at a very fast speed it lasted about 8 sec. and left at a very fast speed I do not think that this was any of our aircraft . Not it they way it was going i donot know if anyone else reported this because other vehicles were pulling over on the interstate to watch this thingthis was a very bright light  the object was round this whole event took place in about 8sec. this all took place on interstate 40 going east bound .as  I said other vehicles were pulling over to watch this alltook place  in the state of North Carolina goine east bound i never seen a light so bright never and to be gone so quick is something else iam not a person who makes up things because of what i do Iam a Deputy Sheriff For Guilford county Retired i could not give you a county location because of passing from one to anouther on the Interstate when i got home i checked with the highway patrol to  see if this had been reported They told me that they had no information</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06133.html](http://www.nuforc.org/webreports/reports/006/S06133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
