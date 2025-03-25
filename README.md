@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two lights moving in formation in northern Colorado skyMy wife and I were out walking the dog.  I was looking at the little dipper and noticed two lights moving.  They kept the same distance apart, one behind the other.  It was hard to tell how far apart they were as I assume they were thousands of feet above the ground, but I’ll guess no more than a couple of miles.  I didn’t see any flashing lights so I’m guessing it wasn’t commercial aircraft.  Each was a single steady light.  They were moving eastward or northeastward.  I assume military aircraft or satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154462.html](http://www.nuforc.org/webreports/reports/154/S154462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Strange lights over Palm Springs, CAMy wife and I were on vacation in Palm Springs two weeks ago. When walking back to the hotel from dinner with two friends from Switzerland that we met at our hotel, the four of us stopped to admire the night sky, so clear in the desert air. As we looked up, our eyes were drawn to motion. Four or five lights, indistinguisable from stars, suddenly moved very quickly in separate curvilinear paths and disappeared. It was a few seconds of motion in total, directly overhead. One in our group said aloud 'um, did you see that?' We all had. Whereas I've seen metorites in the past, they've all featured tails as they burned and broke up in the atmoshpere. These lights did not - they simply were dots of light that moved extremely fast and disappeared. This, I cannot explain. Sighting occured near the corner of W. Arenas and S. Cahuilla in downtown Palm Springs. It's been on my mind ever since so I figured I should search out a registry and report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36003.html](http://www.nuforc.org/webreports/reports/036/S36003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
