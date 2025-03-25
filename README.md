@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Man & wife witness vertical streak of white light descend from sky.  Very fast.  South of Auburn.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00371.html](http://www.nuforc.org/webreports/reports/000/S00371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elizabeth (NJ) reported seeing craft that fit the description of some '' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>03:30 AM I was walking in dark section in Newark, NJ, & in direction south, in the sky, on top Elizabeth City, I saw unexplained lite aurora.  This huge light maybe 0.5 -1.0 mile big, every 2-3 seconds was pulsing light less or more brite.  Was very cold wind, after 17 min I stop watching that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88141.html](http://www.nuforc.org/webreports/reports/088/S88141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
