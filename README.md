@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving in my neighborhood,we noticed a huge triangular plane hovering super low looking like it was going to land.It was at a stand still.It had two white lights on bottom brightly shining downward,also red and yellow lights noted on bottom moving in a square pattern.It had a aura around it.We were under it,and once we turned the corner,it had vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154460.html](http://www.nuforc.org/webreports/reports/154/S154460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>edit dateI sent you a report about a light which turned into two flying vehicles.   I need to edit the date, as I gave you April 3, 2008 but it was really March 25, 2008....I looked at the wrong date..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63498.html](http://www.nuforc.org/webreports/reports/063/S63498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
