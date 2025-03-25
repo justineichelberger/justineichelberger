@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two bright, large crafts moving slowly in a north to south direction over Bloomington, IL on Sunday, March 25th at 8:45pm.At 8:45pm, Central Standard time, I was in my driveway and witnessed a large, glowing object moving from the north to the south directly above my position at a relatively slow rate of speed.  It was the color of a flame - the illumination remained consistent - except that, looking through binoculars, it appeared as if the "light" was moving from left to right - as if scanning the sky, in a consistent pattern.  The craft made no sound, and appeared to be at an altitude of approx. 2,000 - 3,000 feet.  When the craft was directly overhead, the light was no longer visible, however it was apparent that it was circular in shape.  As the craft moved from directly overhead southward, a dim light was visible, but only a fraction of what was emanating from the "front."  After the initial craft disappeared in the south sky, a second craft appeared moving in the same north - south track, at the same rate of speed.  Both crafts were identical in appearance.  Neither craft had any blinking lights, nor were they moving at a speed that would be required by an airplane to remain aloft. I took a few pictures of the crafts, only one of which turned out decent.  I also filmed some HD video, however, because it was dark, it did not turn out well. The first craft was witnessed by my wife and myself.  The second craft was also witnessed by our nextdoor neighbors (who we invited to watch with us).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88123.html](http://www.nuforc.org/webreports/reports/088/S88123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very large rectangular grid of lights. At about 1000' and moving silently3/25/11    UFO Friday night 3/25/11 at around 11:00 pm.  I was traveling westbound in a top down convertible at 75 MPH on Alligator Alley, (I-75)  At around MM 51.  There are no lights on this road.  The highway is divided by a very wide grass median.  Ahead of me, over the median came a very large square and very flat grid of lights.  The grid was almost as wide as the median about a 100’ +or- and twice as long, like a football field.   There were bright white marker light’s at evenly spaced intervals and lessor light’s making up a grid pattern within the square perimeter.  I was moving at 75 and it appeared to be moving at about 100 +/-, eastbound, not faster.  Altitude was about 1000’.  It was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80660.html](http://www.nuforc.org/webreports/reports/080/S80660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
