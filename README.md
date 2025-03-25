@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Strange lights over Palm Springs, CAMy wife and I were on vacation in Palm Springs two weeks ago. When walking back to the hotel from dinner with two friends from Switzerland that we met at our hotel, the four of us stopped to admire the night sky, so clear in the desert air. As we looked up, our eyes were drawn to motion. Four or five lights, indistinguisable from stars, suddenly moved very quickly in separate curvilinear paths and disappeared. It was a few seconds of motion in total, directly overhead. One in our group said aloud 'um, did you see that?' We all had. Whereas I've seen metorites in the past, they've all featured tails as they burned and broke up in the atmoshpere. These lights did not - they simply were dots of light that moved extremely fast and disappeared. This, I cannot explain. Sighting occured near the corner of W. Arenas and S. Cahuilla in downtown Palm Springs. It's been on my mind ever since so I figured I should search out a registry and report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36003.html](http://www.nuforc.org/webreports/reports/036/S36003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very large rectangular grid of lights. At about 1000' and moving silently3/25/11    UFO Friday night 3/25/11 at around 11:00 pm.  I was traveling westbound in a top down convertible at 75 MPH on Alligator Alley, (I-75)  At around MM 51.  There are no lights on this road.  The highway is divided by a very wide grass median.  Ahead of me, over the median came a very large square and very flat grid of lights.  The grid was almost as wide as the median about a 100’ +or- and twice as long, like a football field.   There were bright white marker light’s at evenly spaced intervals and lessor light’s making up a grid pattern within the square perimeter.  I was moving at 75 and it appeared to be moving at about 100 +/-, eastbound, not faster.  Altitude was about 1000’.  It was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80660.html](http://www.nuforc.org/webreports/reports/080/S80660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
