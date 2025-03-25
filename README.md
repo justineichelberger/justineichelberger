@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 red parrellel lines cross highway, head for springs.There was 3 red parrallel lines, followed by a quiet hum, that crossed Highway 50, then headed in the direction of Colorado Springs, me and my friend witnessed this on the side of the road (on industrial blvd.), along with his girlfriend.  There was an airplane in the area too, a small prop plane.((NUFORC Note:  Student report.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35835.html](http://www.nuforc.org/webreports/reports/035/S35835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ho Chi Minh (Viet Nam) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two green lights travelling at incredible speed.My friend and i were walking the streets of Ho chi mihn (Saigon), it was about 7pm, it was just starting get dark. As my friend is a photographer, she was always looking round for a good shot, when suddenly she screeches, "whats that". I looked up at the sky, which had a few clouds, but mainly blue sky, i saw two bright green lights following one another making no sound whatsoever. They were just like lasor pointers, but green. As they came from behind one cloud and disapeared behind another, there is no way that they were lasor pointers. All they were, were two dots, tavelling at an incredible speed. They definately were not fireworks. I have no rational explanation for what we'd seen, does anybody out there know? I dont know if anybody else seen what we did that day, All i know is that it terrified us for the rest of our trip.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36675.html](http://www.nuforc.org/webreports/reports/036/S36675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
