@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Very large rectangular grid of lights. At about 1000' and moving silently3/25/11    UFO Friday night 3/25/11 at around 11:00 pm.  I was traveling westbound in a top down convertible at 75 MPH on Alligator Alley, (I-75)  At around MM 51.  There are no lights on this road.  The highway is divided by a very wide grass median.  Ahead of me, over the median came a very large square and very flat grid of lights.  The grid was almost as wide as the median about a 100’ +or- and twice as long, like a football field.   There were bright white marker light’s at evenly spaced intervals and lessor light’s making up a grid pattern within the square perimeter.  I was moving at 75 and it appeared to be moving at about 100 +/-, eastbound, not faster.  Altitude was about 1000’.  It was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80660.html](http://www.nuforc.org/webreports/reports/080/S80660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salem (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving formation that looked much like the London sighting.It was on a clear day last week, around the 25th of March. I was standing next to my house, looking up at the sky, observing the chemtrails which I do often. It wasn't a heavy chemtrail day, just a couple of Xes and lines that were spreading out. Suddenly I noticed something moving quickly past the trails. My eyes focused on what I first thought was a flock of birds in the far distance. It looked like bunch of dots in a formation. I'm wasn't sure how many, maybe ten or twelve, because this formation of dots was moving very fast. When I noticed them, they were directly in front of me, but within 2 to 3 seconds they had traveled across the sky to my left until they vanished in the distance.I stood there a few minutes thinking about what I just saw, wondering what it could have been. If it wasn't for the speed, it could have been a flock of birds so far away that they looked like dots. Then I thought it could have been a group of insects that were quite close to me streaking by and staying in a perfect formation. Maybe a squadron of jet fighters? But there was no noise made by this UFO. I thought it couldn't have been any of these things because it was just moving to fast.I didn't think much more about my sighting until last night when I saw the photo of the London sighting. It appears to be the same kind of formation only closer to the viewer. Could it be that there's a UFO squadron speeding around globe? I think it's a possibility. I have a degree in Nursing and have worked in the manufacturing field.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69501.html](http://www.nuforc.org/webreports/reports/069/S69501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
