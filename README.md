@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Canmore (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>close to earth.. not stars, silent.. very very very myserious!we were driving into the town of canmore, here in the rockies.. i notices 2 light.. they looked like stars.. i have NEVER NOTICED these stars over the mountaine before.. ever... then.. the lights were coming closer.. there was a dim one in front of a brighter one.. the dim one kept getting brighter and dimmer... they were perfectly apart the whole time we were watching them.. and silent.. wow!((NUFORC Note:  The ISS and Space Shuttle undocked at 13:52 hrs. (EDT) on this date, and flew in formation for two days.  However, it was not visible on this date at the time indicated.  The witness does not indicate the duration of the sighting.  PD))24 Mar	-2.3	20:44:54	10	W 	20:47:51	77	N 	20:50:35	11	E24 Mar	-0.8	22:20:18	10	W 	22:22:12	34	W 	22:22:12	34	W25 Mar	-2.4	21:11:57	10	W 	21:14:54	86	SSW	21:16:34	23	ESE25 Mar	0.6	22:47:30	10	W 	22:48:12	15	W 	22:48:12	15	W26 Mar	-1.9	21:38:58	10	W 	21:41:50	50	SSW	21:42:33	38	SSE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69380.html](http://www.nuforc.org/webreports/reports/069/S69380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carson (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>My cousin and I saw what looked like a firework at first glance.  It was a blue fireball shaped object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49818.html](http://www.nuforc.org/webreports/reports/049/S49818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
