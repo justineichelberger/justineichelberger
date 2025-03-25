@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Saw three orange lights that formed a triangle, and moved across the sky super fast.  At first I thought they were lights from below shinning up for attention until it moved past the clouds and the lights didn't shine any higher they just kept moving toward the Sandia mountains.  I saw it for about three seconds.  I've seen plains fly higher than this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126541.html](http://www.nuforc.org/webreports/reports/126/S126541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Man & wife witness vertical streak of white light descend from sky.  Very fast.  South of Auburn.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00371.html](http://www.nuforc.org/webreports/reports/000/S00371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
