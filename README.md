@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>large black triangle passed directly overhead headed NNE. height guestimate: 20,000 ft. speed was constant, similar to jet.  lights on sides.  notched ends.  absolutely silent.10:45pm.  northern suburb of Pittsburgh called McCandless.  waiting to enter building. casually looking skyward at big dipper while friend approached. very clear sky. noticed light directly overhead. thought it was a shooting star. called to friend to look up. realized that the object was a very large black triangle flying directly overhead at the speed of a normal jet. smooth movement. straight flight path.  the object was headed NNE.  we were able to track it for about ten seconds before it could no longer be seen. plenty of time to take a mental picture. no question about it. it was perfect black triangle with lights on the sides and notched ends.  eerily silent for such a large craft.  approximate height is 20,000 feet.  about four times the size of a normal jet at that height. our location is under a jet flight path.  we noticed no cross traffic.  (the following night at the same time, we noted the sky was very active with various jets and planes overhead every 30-seconds).  because it was a black object against the black sky, the height is definitely a guestimate.  but the object was most definitely a large black triange.  two of us saw it.  after it passed, I asked my friend to give a specific description of what he had seen so I could validate what I had seen.  We both went inside and individually drew a picture of what we'd seen.  We drew the exact same object.  My friend noticed a light on the bottom that I did not notice.  You ask for a brief description of us: we are college educated, in our 40s, neither had ever seen such a thing, I am in TV, he is a musician.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12544.html](http://www.nuforc.org/webreports/reports/012/S12544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Pleasant (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Silent black triangle with orange lights about 500 feet up, eerily silentThree bright orange lights in a line hovering no more than 500 feet in the air above a pond approximately 50 yards from my driveway.  My girlfriend and I ran towards the object to try and get a better look.  We were able to clearly see the it was a black triangle with bright orange pointed lights on the ends.  The middle light appeared to suddenly shrink in size and then the object moved right over our heads at an incredibly slow speed.  There was no sound whatsoever.  It was eerily silent.  My girlfriend took a video on her Iphone.  In the video, I am approximately 20 yards ahead of her yelling for her to film what was happening.  She was able to film the object sitting perfectly still.  She was holding her Iphone in landscape mode (horizontal) for the first 23 seconds.  She began to run while filming the object for the remainder of the video holding her phone in portrait mode (vertical).  33 seconds into the video shows the middle light shrink and then ends.  Once the light shrank, it began to move over us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108110.html](http://www.nuforc.org/webreports/reports/108/S108110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
