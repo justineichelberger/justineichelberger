@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mount Pleasant (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Silent black triangle with orange lights about 500 feet up, eerily silentThree bright orange lights in a line hovering no more than 500 feet in the air above a pond approximately 50 yards from my driveway.  My girlfriend and I ran towards the object to try and get a better look.  We were able to clearly see the it was a black triangle with bright orange pointed lights on the ends.  The middle light appeared to suddenly shrink in size and then the object moved right over our heads at an incredibly slow speed.  There was no sound whatsoever.  It was eerily silent.  My girlfriend took a video on her Iphone.  In the video, I am approximately 20 yards ahead of her yelling for her to film what was happening.  She was able to film the object sitting perfectly still.  She was holding her Iphone in landscape mode (horizontal) for the first 23 seconds.  She began to run while filming the object for the remainder of the video holding her phone in portrait mode (vertical).  33 seconds into the video shows the middle light shrink and then ends.  Once the light shrank, it began to move over us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108110.html](http://www.nuforc.org/webreports/reports/108/S108110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Acrobatics and in broad daylight over city.It hovered in the distance, above near-by tree line, and for the first moment I thought it was a blimp circling on a route around the university stadium.  It was about that size, and from the side it appeared to have an oval shape.  There was a flashing light to the right side, which went out of view as the object rotated.  The light was visible again as the object pitched so the apparent top was visible.  At this angle it looked like a Vinn-diagram, with three areas of the structure coming together at the middle.  These three areas were equally spaced, equal in size, and if the spaces between them were filled the perimeter would have been roughly circular.  The color was dark and slightly metallic, but overall blackish and in the southern sky versus the setting sun.  As the object continued to hover, it spun and also flipped over completely very slowly more than once, moving eastward and we though downward slightly.  At this point we discussed the possibilities of a stunt plane (a completely unfamiliar variety moving entirely too slowly), an RC disc (which typically would have had a limited range and would have been either enormous or easily distinguished), and a helium balloon in free fall (which would explain the manuevers but not the shape and apparent size at that distance).  The loss of altitude we determined to be an illusion as the object was becoming smaller and we observed it traveling away from us.  The object then rapidly decreased in size, moving very quickly away southward.  The altitude also changed as the object got further away  and apparently gained height.  We observed it until it was a barely visible dot in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49835.html](http://www.nuforc.org/webreports/reports/049/S49835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
