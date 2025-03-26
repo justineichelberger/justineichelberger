@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>large black triangle passed directly overhead headed NNE. height guestimate: 20,000 ft. speed was constant, similar to jet.  lights on sides.  notched ends.  absolutely silent.10:45pm.  northern suburb of Pittsburgh called McCandless.  waiting to enter building. casually looking skyward at big dipper while friend approached. very clear sky. noticed light directly overhead. thought it was a shooting star. called to friend to look up. realized that the object was a very large black triangle flying directly overhead at the speed of a normal jet. smooth movement. straight flight path.  the object was headed NNE.  we were able to track it for about ten seconds before it could no longer be seen. plenty of time to take a mental picture. no question about it. it was perfect black triangle with lights on the sides and notched ends.  eerily silent for such a large craft.  approximate height is 20,000 feet.  about four times the size of a normal jet at that height. our location is under a jet flight path.  we noticed no cross traffic.  (the following night at the same time, we noted the sky was very active with various jets and planes overhead every 30-seconds).  because it was a black object against the black sky, the height is definitely a guestimate.  but the object was most definitely a large black triange.  two of us saw it.  after it passed, I asked my friend to give a specific description of what he had seen so I could validate what I had seen.  We both went inside and individually drew a picture of what we'd seen.  We drew the exact same object.  My friend noticed a light on the bottom that I did not notice.  You ask for a brief description of us: we are college educated, in our 40s, neither had ever seen such a thing, I am in TV, he is a musician.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12544.html](http://www.nuforc.org/webreports/reports/012/S12544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>four lights, spaceship in triangle form.  One red blinking one in the middle, hovering motionI and the other witness were driving down the street when he turned to me and said that he saw a ship in the sky.  I first did not believe him but then heard the urgency in his voice, so I proceeded to pull over. We saw 4 lights:  one at the front and two in the back and a blinking red one in the middle.  The other witness saw the craft for about 25 seconds and I saw it for about 5.  We look at it for a second as it hovered and then watched it until it slowly hovered downward to where we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88027.html](http://www.nuforc.org/webreports/reports/088/S88027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
