@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Acrobatics and in broad daylight over city.It hovered in the distance, above near-by tree line, and for the first moment I thought it was a blimp circling on a route around the university stadium.  It was about that size, and from the side it appeared to have an oval shape.  There was a flashing light to the right side, which went out of view as the object rotated.  The light was visible again as the object pitched so the apparent top was visible.  At this angle it looked like a Vinn-diagram, with three areas of the structure coming together at the middle.  These three areas were equally spaced, equal in size, and if the spaces between them were filled the perimeter would have been roughly circular.  The color was dark and slightly metallic, but overall blackish and in the southern sky versus the setting sun.  As the object continued to hover, it spun and also flipped over completely very slowly more than once, moving eastward and we though downward slightly.  At this point we discussed the possibilities of a stunt plane (a completely unfamiliar variety moving entirely too slowly), an RC disc (which typically would have had a limited range and would have been either enormous or easily distinguished), and a helium balloon in free fall (which would explain the manuevers but not the shape and apparent size at that distance).  The loss of altitude we determined to be an illusion as the object was becoming smaller and we observed it traveling away from us.  The object then rapidly decreased in size, moving very quickly away southward.  The altitude also changed as the object got further away  and apparently gained height.  We observed it until it was a barely visible dot in the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49835.html](http://www.nuforc.org/webreports/reports/049/S49835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw blue lights that were formed into a circle moving right to left for 30 seconds then went all the way to its right and disappearedMy dad was evtering the freeway, as he entered i looked up and imediately notice at least 6 blue lights forming a circle. I looked very closely and the object did not have any wings, just a circle, it looked as if it was very far yet so close. after 30 seconds of moving right to left, we continued driving and i turned to look through the rear window, it loked as if it was landing  fastly, after 40 seconds it disappeared into the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49843.html](http://www.nuforc.org/webreports/reports/049/S49843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
