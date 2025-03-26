@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 25 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wichita Falls (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>edit dateI sent you a report about a light which turned into two flying vehicles.   I need to edit the date, as I gave you April 3, 2008 but it was really March 25, 2008....I looked at the wrong date..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63498.html](http://www.nuforc.org/webreports/reports/063/S63498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>37 objects that looked like satellites all flying same direction,some inline,others spaced apart.Solid white light,super high up,in WI.37 objects that looked like satellites flying in the same NorthEast direction, extremely high up. Some were flying in a straight line, others where spaced apart side to side. They were moving fast like satellites do. There was no sound. They gave off a lite white light. They were so high up we couldn't even get pictures. They were moving extremely fast, less the a minute to cross the entire sky. This took place at night. We've never seen anything like this before.We saw them in over Green Bay WI.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154566.html](http://www.nuforc.org/webreports/reports/154/S154566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/162/S162481.html)
-- [289](http://www.nuforc.org/webreports/reports/163/S163150.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162489.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162490.html)
-- [286](http://www.nuforc.org/webreports/reports/162/S162486.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
