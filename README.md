@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:12 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in La Mesa (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Flashing lightsIt was a  light that was flashing at an incredible speed all through out the sky It wasn’t a plane or helicopter because it moved so fast and made no noise it was night time so it was so clear after it disappead I saw what I would call a huge orb around the sky that disappeared a few moment later</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154567.html](http://www.nuforc.org/webreports/reports/154/S154567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5833333333333333 - 1.5833333333333333 minutes.</sub><blockquote><sub>on march 26, 2018 @ approximately  0:01 PMT, a single object crosses sky in san jose, ca, usa,  then explodes.On March 26, 2018, about 1 minute after midnight a very loud explosion was heard & felt in the southern portion of san jose, ca  (Robertsville area ).  Video was taken by a Nest camera.  An object crosses the sky from left and then ~ 1 minute later explodes and appears to fall.  The explosion/report was heard and felt by many neightborhoods on the NextDoor App.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139284.html](http://www.nuforc.org/webreports/reports/139/S139284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
