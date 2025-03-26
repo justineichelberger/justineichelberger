@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Beautiful Home Community of Monroe County (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A large white light, moving from north to east.I watched this large white light come closer to me as I set on back of pick-up ,in the yard .I was a little scared when I first saw it, but the longer I watched it the more scared I became, because it getting closer and I felt as if it was coming after me. I was so scared I jumped in the truck and took off, I didn't stay around to see where it went. It was not of this wourld. I am a mature 19 year old farm girl who isn't afraid of much. I called my dad and told him and mom what I had saw. I was really upset, this was not a happy experence because I was horrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03442.html](http://www.nuforc.org/webreports/reports/003/S03442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Very bright white shape from cylindrical to round, hovered in same place for 40 minutes, eventually went higher and faded from view.Bright light which seemed to float closer to the ground and then return higher.  Had a cylindrical shape but then seemed to change into a circular pattern.  Estimated altitude was ~15,000/20,000 feet.  No other light in the sky.  Shape hovered in the same place for 40 minutes prior to getting smaller (higher in atmosphere) and fading from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154551.html](http://www.nuforc.org/webreports/reports/154/S154551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
