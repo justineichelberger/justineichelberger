@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw blue lights that were formed into a circle moving right to left for 30 seconds then went all the way to its right and disappearedMy dad was evtering the freeway, as he entered i looked up and imediately notice at least 6 blue lights forming a circle. I looked very closely and the object did not have any wings, just a circle, it looked as if it was very far yet so close. after 30 seconds of moving right to left, we continued driving and i turned to look through the rear window, it loked as if it was landing  fastly, after 40 seconds it disappeared into the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49843.html](http://www.nuforc.org/webreports/reports/049/S49843.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Naples (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it was 7:22 pm,and it was snowing out,and i was out side shoveling,when i saw this triangular shape come across the sky.it made no sound,and was only their for about 1 minute.((NUFORC Note:  Witness identifies self as a public employee in the position of considerable responsibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22350.html](http://www.nuforc.org/webreports/reports/022/S22350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
