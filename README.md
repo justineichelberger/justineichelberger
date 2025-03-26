@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sykesville (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green, red, yellow triangle object near Liberty DamI was driving home from work 3am on 3/26/14 driving up Marriottsville Road going toward Sykesville when a low lying triangle shaped object appeared in front of me just above the trees.  It appeared to have multiple green ligts, 2 red blinking lights and 1 yellow light in the back.  I pulled  my car off to side of the road and rolled down my windows to try and listen, it was slient with no down wind.  At first I thought it was a helicopter but there was no noise. It stayed in one position then slowly just went off to right in direction of reservoir I lost track of it through the trees. There were no cars on the road and there are no houses on that particular part of Marriottsville.  It lasted about a minute just wondering if anyone else in area saw anything?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108139.html](http://www.nuforc.org/webreports/reports/108/S108139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO or runaway astroid or religious.I arrived home parked in driveway noticed blue & reddish northern Star decending  I got out observed after 10 min it had passed 4 house shadows from afar wich concludes it was traveling at thousand of miles per min?  Then it slowly faded to a small spec as it went deeper into the unkown universe scary makes you wonder</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118040.html](http://www.nuforc.org/webreports/reports/118/S118040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
