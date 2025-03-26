@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:12 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5833333333333333 - 1.5833333333333333 minutes.</sub><blockquote><sub>on march 26, 2018 @ approximately  0:01 PMT, a single object crosses sky in san jose, ca, usa,  then explodes.On March 26, 2018, about 1 minute after midnight a very loud explosion was heard & felt in the southern portion of san jose, ca  (Robertsville area ).  Video was taken by a Nest camera.  An object crosses the sky from left and then ~ 1 minute later explodes and appears to fall.  The explosion/report was heard and felt by many neightborhoods on the NextDoor App.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139284.html](http://www.nuforc.org/webreports/reports/139/S139284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in McArthur (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Multiple lights in skyWhite spheres moving in formation across sky . No noise. They appeared across entire skyline until they disappeared moving from upper right of sky to lower left on the horizon. This was not a falling star or asteroid. Each moved independently. No landing lights. Not a plane. Not sure what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154486.html](http://www.nuforc.org/webreports/reports/154/S154486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
