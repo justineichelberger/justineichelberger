@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:23 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:47 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>strange yellow lights have been appeared an disappeared for about the last three months i was able to take over four hours of video if you would like a clip from the video please e-mail me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07674.html](http://www.nuforc.org/webreports/reports/007/S07674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>BALL OF LIGHT BLUEISH WHITE LIGHT HOVERING FOR ABOU 25-30 IN SAME LOCATION THEN SLOWLY MOVED OFF HORIZON OT OF SIGHTWENT OUTSIDE TO SMOKE A CIGARETTE SAW A BALL OF BLUEISH WHITE LIGHT WITH RED LIGHTS VISABLE AT THE BOTTOM HOVERING ABOVE A SCHOOL AREA.  WATCHED LIGHT FOR ABOUT 10 MINUTES (LONG ENOUGH TO SMOKE A CIGARETTE).  WENT INSIDE FOLDED SOME CLOTHES WHICH TOOK ABOUT 10 MINUTES AND PUT SOME MORE CLOTHES IN WASHER. THOUGHT ABOUT GOING OUT TO SEE IF LIGHT STILL THERE.  OBJECT WAS STILL VISABLE IN SAME LOCATION THEN IT MOVED DOWN MUCH LIKE A SUNSET SLOWLY AND DISAPPEARED.  OBJECT WAS VERY CLEAR SUBJECT FELT LIKE "YOU'RE LOOKING AT ME AND WE'RE LOOKING YOU!  YA WE'RE HERE!" LOCATION WAS CLOSE IN NE PORTLAND ABOUT 4MILES FROM DOWNTOWN AROUND JEFFERSON HIGH SCHOOL, I5 & ALBERTA EXIT FROM FREEWAY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03436.html](http://www.nuforc.org/webreports/reports/003/S03436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
