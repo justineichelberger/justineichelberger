@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>four lights, spaceship in triangle form.  One red blinking one in the middle, hovering motionI and the other witness were driving down the street when he turned to me and said that he saw a ship in the sky.  I first did not believe him but then heard the urgency in his voice, so I proceeded to pull over. We saw 4 lights:  one at the front and two in the back and a blinking red one in the middle.  The other witness saw the craft for about 25 seconds and I saw it for about 5.  We look at it for a second as it hovered and then watched it until it slowly hovered downward to where we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88027.html](http://www.nuforc.org/webreports/reports/088/S88027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sykesville (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green, red, yellow triangle object near Liberty DamI was driving home from work 3am on 3/26/14 driving up Marriottsville Road going toward Sykesville when a low lying triangle shaped object appeared in front of me just above the trees.  It appeared to have multiple green ligts, 2 red blinking lights and 1 yellow light in the back.  I pulled  my car off to side of the road and rolled down my windows to try and listen, it was slient with no down wind.  At first I thought it was a helicopter but there was no noise. It stayed in one position then slowly just went off to right in direction of reservoir I lost track of it through the trees. There were no cars on the road and there are no houses on that particular part of Marriottsville.  It lasted about a minute just wondering if anyone else in area saw anything?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108139.html](http://www.nuforc.org/webreports/reports/108/S108139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
