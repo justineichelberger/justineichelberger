@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Naples (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>it was 7:22 pm,and it was snowing out,and i was out side shoveling,when i saw this triangular shape come across the sky.it made no sound,and was only their for about 1 minute.((NUFORC Note:  Witness identifies self as a public employee in the position of considerable responsibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22350.html](http://www.nuforc.org/webreports/reports/022/S22350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bloomington (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Larger craft dropping off smaller crafts that lingered for over 5 hours.I first saw a strange light in the sky that very much looked like an approaching helicopter.  It caught my attention because it was orange, where usual helicopters have a white glow.  I stared at it for a few seconds and then it started dropping smaller white lights, and my first reaction was that it was dropping bombs.  I didn;t think it was a UFO at this point, I thought it was an army helicopter or other army aircraft.  I left my room to go get my mom;s camera and returned with her and the camera only to find that the mysterious orange light was gone.  I looked throughout all the windows in the house, it was nowhere in sight.  I thought about it and brushed it off as a helicopter dropping flares because it was the only logical explanation I could come up with.  This was at approximately midnight on March 27, 2010.About an hour later, I woke up and my window was still open.  It was then I saw that the smaller crafts that were dropped were all clustered and flying around in unusual patterns in the North West sky out of my window.  I looked at them for four hours and couldn't figure it out.  I'm positive that they were what came out of the orange glowing craft.  They would fly diagonally, horizontally, vertically, and make turns that couldn't possibly be made by any aircraft here on Earth.  I seen them appear from point A to point B.  There was no trace of light as they flew because it was so fast.  They, like the orange UFO, were silent.  I watched them from 1:00 AM to about 5:00 AM then I thought I had enough and shut the blinds and tried to sleep.  I didn't see when, or if, they left, but I did hear a loud and unusually low jet fly by a little before sunset that woke me up.  I checked, and didn't see them anymore after that.The orange UFO was high in the open sky, and the white smaller ones were unusually lower than the mountain range that is outside my window.  Both the crafts looked like simple circular lights.  It was an extremely windy night so the sky was clear.I don't see how I could be the only one to see this, I'm sure others seen it as well.  It lasted for hours.  My moms camera and my phone couldn't focus on the objects, so no pictures came out that would show anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74801.html](http://www.nuforc.org/webreports/reports/074/S74801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
