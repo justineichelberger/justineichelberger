@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:32 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Very bright white shape from cylindrical to round, hovered in same place for 40 minutes, eventually went higher and faded from view.Bright light which seemed to float closer to the ground and then return higher.  Had a cylindrical shape but then seemed to change into a circular pattern.  Estimated altitude was ~15,000/20,000 feet.  No other light in the sky.  Shape hovered in the same place for 40 minutes prior to getting smaller (higher in atmosphere) and fading from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154551.html](http://www.nuforc.org/webreports/reports/154/S154551.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in California (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two photos in a series where an object can be seen.Photographing the Moon and Venus in close proximity.  Upon inspection of the photographs there appeared to be a object present that was out of place in two of the photos.   Thought it might be a satellite but it took almost 2 minutes to cover an apparently short distance, and then in the next photo 10 seconds later could not be seen.  In the before and after photos in the sequence there appeared to be nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88052.html](http://www.nuforc.org/webreports/reports/088/S88052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
