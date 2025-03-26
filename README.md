@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:48 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:23 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Barcelona (Spain) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately segundos - segundos minutes.</sub><blockquote><sub>dos avistamientos bolas en el cielo sin estelaEn cosa de 3 o 4 meses eh podido ver dos destellos de luz en el cielo muy poco normales.  Explicare cada una por separado.En la primera hace 4 meses mas o menos, estaba con dos companeros de trabajo tomando una copa en una terraza, cuando me parecio ver un destello que nos iluminaba.  Mire al cielo y vi como una estrella muy muy luminosa.  Duro muy poco pero cuando la vi estoy casi seguro de que estaba quieta, y al momento cogio velocidad y sin dejar estela visible desaparecio.  Nunca habia visto algo parecido y dije lo que vi a mis compaÃ±eros, pero con ellos quise dejarlo en que vi una estrella fugaz... o que almenos eso tenia que ser.La segunda vez fue cosa de una semana, estaba fumando en el balcon de mi casa, estaba entrando la noche, y vi una "gran bola de fuego" sin estela esta tambien, a unos pocos kilometros y que perdio su destello a no una gran altura.Esta segunda vez no me altere para nada.((NUFORC Note:  Witness describes two sightings, the second, a "fireball," over the last four months.  Dates of sightings are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88171.html](http://www.nuforc.org/webreports/reports/088/S88171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>strange yellow lights have been appeared an disappeared for about the last three months i was able to take over four hours of video if you would like a clip from the video please e-mail me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07674.html](http://www.nuforc.org/webreports/reports/007/S07674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
