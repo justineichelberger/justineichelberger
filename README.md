@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 26 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>MOST INTERESTING UFO I HAVE SEEN.I am a commercial pilot/cfii, aircraft mechanic MASTERS FROM EMBRY RIDDLE.OBJECT SEEN LOOKING TO THE WEST OVER KLAX.  CLEAR SKY NO HUMIDITY.  THE OBJECT WAS SLOW MOVING.  VERY LARGE LIGHTS WITH CHANGING FOG LIKE LENSE X THREE BEAMS THAT WERE 120 DEGREES APART HORIZONTAL TO MY OBSERVER VIEW.  THE OBJECT MOVED VERY SLOWLY TOWARD MY ADAVANTAGE POINT.  THEN STOPPED AND SLOWLY OVER SECONDS DISAPPEARED.  AFTER SCANNING THE AREA THERE WAS TOTAL DARKNESS FOR AT LEAST FIVE MINUTES.  THE AN AIRCRAFT THAT WAS OBVIOUS FLEW FROM SOUTH TO NORTH OVER THE LAX CORREODOR WITH RUNNING LIGHTS AND THERE WAS NO EVIDENCE OF HUMIDITY.  MEANING NO FOG SEEN.((ADDENDUM FROM WITNESS))The beams appeared conically eminiating from a central point. but they were limited in their projection.  The beams terminated maybe at max 50 yards and did not penetrate like a laser.  Appeared like headlights in the fog, but did not project very far.I am a commercial pilot/flight instructor.  Also teach aircraft mechanics.  I have a background in microcontroller programming and optical sensor design. with lasers.  Masters degree in human factors in aviation/aerospace safety.  Specialty in human vision and machine interaction.  As well as being a nurse.  Not my first UFO sighting.  I am very careful about judging what I see.  This one was very interesting.  I gave you my background because I have good analytical skills.  Would love to assist your organization from time to time.Thanks((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114428.html](http://www.nuforc.org/webreports/reports/114/S114428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Beautiful Home Community of Monroe County (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A large white light, moving from north to east.I watched this large white light come closer to me as I set on back of pick-up ,in the yard .I was a little scared when I first saw it, but the longer I watched it the more scared I became, because it getting closer and I felt as if it was coming after me. I was so scared I jumped in the truck and took off, I didn't stay around to see where it went. It was not of this wourld. I am a mature 19 year old farm girl who isn't afraid of much. I called my dad and told him and mom what I had saw. I was really upset, this was not a happy experence because I was horrified.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03442.html](http://www.nuforc.org/webreports/reports/003/S03442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [256](http://www.nuforc.org/webreports/reports/162/S162506.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162753.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162960.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162479.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162476.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
