@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Red light in sky, looked with binoculars and saw reddish white circle with perfectly positioned white lights and lace-like structure.  Maybe too big for a craft of some kind but not a star or aircraft.  It is just sitting in the sky!?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108150.html](http://www.nuforc.org/webreports/reports/108/S108150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Holbrook (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>Orange round fireballs in the sky, at least 30 of them hovering over street above treetopsI was driving home from work at about 7:50 p.m. on Friday night.  I was in Holbrook driving towards Weymouth/Abington on Route 139.  In the distance through the tree tops, I could see a bunch of orange dots in the sky.  It was very strange.Then as I got closer, I could see much clearer, they were bigger.  There were at least 30 of them in the sky hovering over route 139 above the trees.  They did not make any sound.  They were roundish in shape, kind of like firey look coming out of the bottom.  They were all pointed in the same direction and scattered everywhere.  They did not appear to be moving, however I was driving so they could have been traveling at a very slow speed, not sure.There were not a lot of cars out that night.  The car in front of me pulled over.  I kept driving.  Three cars coming the opposite direction had pulled over too.  I drove under them and did not stop.  I wish I had stopped to take a picture or video.  I was talking on my cell phone at the time, and the whole thing came upon me so quickly, I was not expecting it.  It was the strangest thing ever. I have never experienced anything like this in my life before.  I just could not believe what my eyes had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118098.html](http://www.nuforc.org/webreports/reports/118/S118098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
