@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>wired objects in West TexasOn this day, at first one object caught my eye.  That shined and hovered in place for about a 5 mins. Then it moves the opposite direction and fade away and a few minutes latter two show in formation and hovered also above this another object much higher was a very large air craft which it held it position.  and accented ((sic.  Ascended??)) higher till no longer to see but the two turned to three. Then headed south for about two miles then west for 20 mins. and headed up and disappeared.  I know that these were not airliners or bombers.  cause the shape and also other aircrafts flying for east to west.. and  his objects were heading in a different direction. very bizarre.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126595.html](http://www.nuforc.org/webreports/reports/126/S126595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sun Prairie (WI) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Woman called to describe her sighting in a park.  She had gone to the park with her son, and she noticed a glint of sunlight off an object, which appeared to be high in the sky, which was clear.  The object was moving from SE to NW, and it was very small.  Its color was either white or silver. At first, the caller, an amateur  bird watcher, thought it might be a bird, but she could see no flapping.The object went in a straight path at first, and it exhibited no contrail, and there was no apparent sound.  Suddenly, the object began to turn, executing a 180 reversal of course in 5-10 seconds. The observer walked in front of a tree, losing sight of the object for a moment.  She called it to the attention of other people in the park, who saw it as well. The object reversed its directionb, and suddenly began to climb.  It accelerated, and disappeared in approximately 3 seconds, or so. She added that the object had exhibited three speeds:  slow and deliberate; it accelerated somewhat; and very fast. She called the Dane County Sheriff's office.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02009.html](http://www.nuforc.org/webreports/reports/002/S02009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
