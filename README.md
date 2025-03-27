@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>orange then red lightI was driving to work on night shift looking like I always do  since I saw the orbs on the 19th of February,  I saw a orange light sitting in sky, I had to look away because I was driving and looked back for it but it was gone, while looking for it I saw a red flash above the clouds much closer to my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108171.html](http://www.nuforc.org/webreports/reports/108/S108171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Small yellow light following jetlinerMy home is in north central Phoenix, along the approach pattern for aircraft landing at the local airport. (sky harbor) I am familiar with most types of aircraft (civilian and military) and can usually identify them quickly, due to their low altitude. (about 5000 feet)  Most of the aircraft are Boeing 737's, moving from due east to due west flying the approach to Sky Harbor, though there are a few Air Bus 300's, Boeing 757's, and MD-80's. On Tuesday evening (3/27/01) at about 9:30 pm I was standing in my backyard. There were a few aircraft in the approach pattern, I would say one every 3 to 5 minutes. As I looked to the south I noticed an aircraft (looked like a Boeing 757) moving from south west, to northeast, passing just east of my position. I then noticed a very small, dim yellow light which seemed to be following the 757 about one and a half plane lengths behind. As the jet got closer (to me) the light began a slow arc to the northwest, executing a turn of roughly 90 degrees. If I had to estimate the size of the light, I would say it was less than 10 feet in diameter, based on its proximity to the aircraft. The strangest thing of all was the way in which the light moved. It was like a fish swimming. It continued on a northwest course and just "blinked out" after about 10 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17013.html](http://www.nuforc.org/webreports/reports/017/S17013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
