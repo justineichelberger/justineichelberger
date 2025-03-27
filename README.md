@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in East Haddam (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 600.0 - 600.0 minutes.</sub><blockquote><sub>Fire woods far UFO radiationFire occurred in woods very far in woods in dry weather.  I have not seen many fires there at all.  Fire Department was there for a while.  Could be UFO with radiation.Can not believe anyone would go out into those woods.((NUFORC Note:  One of two similar reports, with different dates, from the same source.  The other report from source is for Simsbury, CT, on November 05, 2007.  PD))((NUFORC Note:  One of many reports submitted by the same source, who elects to remain totally anonymous, and who provides no contact information.  Probable hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115916.html](http://www.nuforc.org/webreports/reports/115/S115916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Medina (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While observing the sun with telescope, 8" LX200, I saw a black dot cross in front of the sun moving quickly from about the 5 o'clock position exiting at the 1 O'clock position making a slight arc...clearly not on the lense or in earth orbit...thought at the time it could be the satelite we have around the sun but after hearing Mr. Davenport on the radio and hearing the report from the astronomer from Texas I thought I would report it. I am also an ameteur astronomer and have been viewing for years...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31695.html](http://www.nuforc.org/webreports/reports/031/S31695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
