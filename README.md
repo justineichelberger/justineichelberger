@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in cynthiana (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>my best friend and i were sitting on the porch i was facing the roof toward the road, we were behind the house, and she was facing the back yard. as we were talking i looked up to see a small red dot with an orange glow, it moved just to the left of a star below the moon, it is worth mentioning that it was a full moon. i looked back to her and when i looked back up it was like it had retraced itself and moved back to where it had been, like de je vu. i told me friend to look up and we watched it continue in an arch and fade out, it made no sound nor smoke trail and seemed to be too high to be a flare. we talked about it for a while and then i saw another one go out from the adjacent side of the house. we went and got her two sisters and about ten minutes of being out there the youngest saw another one die out parallel to where we’d seen the last one. we saw nothing after this and we never heard any noises</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162496.html](http://www.nuforc.org/webreports/reports/162/S162496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sauk Centre (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ONE LIGHT BECAME 3 LIGHTS IN TRIANGLE FORMATION AND SHOT ACROSS THE SKY.I WAS GATHERING FIREWOOD AND LOOKED UP AT FIRST THOUGHT IT WAS A SHOOTING STAR.  ONE LIGHT BECAME 3 LIGHTS IN A TRIANGLE FORMATION AND SHOT FROM SOUTH TO NORTH ACROSS THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154741.html](http://www.nuforc.org/webreports/reports/154/S154741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
