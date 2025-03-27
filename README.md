@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sauk Centre (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>ONE LIGHT BECAME 3 LIGHTS IN TRIANGLE FORMATION AND SHOT ACROSS THE SKY.I WAS GATHERING FIREWOOD AND LOOKED UP AT FIRST THOUGHT IT WAS A SHOOTING STAR.  ONE LIGHT BECAME 3 LIGHTS IN A TRIANGLE FORMATION AND SHOT FROM SOUTH TO NORTH ACROSS THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154741.html](http://www.nuforc.org/webreports/reports/154/S154741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light spotted moving very fast heading NE and quickly turning W. Other simular round lights seen w/ same characteristics. Objects moved to fast and silently to be planes.Myself and two friends witnessed a strange light moving North East very fast. The object was moving very quietly. It then turned very sharply twards the West. About a minute later we witnessed another object, which seemed to come out of nowhere heading North East. It was also moving fast and quietly. It turned sharply to the North and quickly faded. Another minute later we saw a light come from the North and quickly turn East a fade like the other lights. About 30 seconds later we saw another quickly moving object come from the North West and then fade. I am 13 and my friends are 13 and 14. I hope you won't use that against us. There usually aren't many planes around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03403.html](http://www.nuforc.org/webreports/reports/003/S03403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
