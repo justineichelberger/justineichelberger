@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:46 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manistique (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distinct teardrop light over Lake Michigan. (red&green)A perfectly round bright red circle with a tapering green tail. Very bright and very distinct. Clean edges, with no glow or haze. Against a Clear black night sky over Lake Michigan, due south of Manistiques harbor. Appeared to be traveling straight down, and suddenly dissapeared totally. It was very high above horizon, and appeared large, but could not tell true size or distance. Nothing to compare it to. Looked very large compared to anything else in the sky. ((NUFORC Note:  Probable meteor/asteroid entering atmosphere.  For video, captured by South Have, Michigan, Police Department cruiser, please see the following website:  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28263.html](http://www.nuforc.org/webreports/reports/028/S28263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mexico Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three circular objects disappearing and reappearing over the ocean.Right off the coast were up to three large round orange to white lights disappearing and then reappearing, sometimes one at a time and sometimes three at a time over the same general area. When more than one would appear they would always seem to be in line from east to west either descending or ascending. This happened for about thirty minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12482.html](http://www.nuforc.org/webreports/reports/012/S12482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
