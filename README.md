@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>UFO FLYING OVER RACEWAY IN CAOk...I'm not an expert at all but I took this video back on March 27th 2010 at Famoso Raceway near Bakersfield CA.. It's footage of a dragster racing at 236 MPH.  As fast as that is, that isn't the interesting thing about this video.  What is interesting is at the end of the video is what appears to be a UFO flying very fast (perhaps faster than the human eye can see)into the upper right hand side of the frame.  I didn't notice this until a few months ago when I was reviewing this footage. If you slow it down you can see what appears to be some kind of glowing thrust.  It's at the end of the video about 28 seconds into it. Had I noticed this at the time I took the footage   I would've kept the camera rolling. Please let me know what you think.  I apologize for the F-bomb that I made just before the footage end.  It was aimed at just how fast this car was going and not at the UFO that I didn't know was there until now.  I'm also sorry that the advertisements pop in ju! st about at the very end and make it so that you can't view the very end.  I don't know how to fix it so that doesn't happen.  I sent video footage..not sure if you will be able to view however because I'm not very good at using the video editor.  I just trimmed the video down to the last few seconds but for some reason I don't know how to save it in a format I can e-mail and have the receiver view it. here's the your tube version: http://www.youtube.com/watch?v=fhi98ew0rLk</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88159.html](http://www.nuforc.org/webreports/reports/088/S88159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rigaud (Canada) (QC) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Il érait environ 8 heures lorsque nous roulions sur l'autoroute 40. J'ai dit à mon copain de regarder le ciel car il y avait une planète.Mais se n'était pas une planète cela brillait fortement et à certain moment cela arrètait. Rendu chez nous nous avons sorti notre caméra et nos jumelles. Cela devenais de plus en plus bizare. Lorsque nous la regardions avec les jumelles nous avons vu une grosse boule lumineuse qui cachait quelque chose en arrière.On aurrait dit que le cercle était une sorte de gaz. Sur la caméra nous pouvons voir le cercle et l'intencité de la lumière qui grossi et diminu. Elle décendait toujours. Vers dix heures la elle était décendu très vite elle était devenu orange et des chose bixare arrivais à coter,j'ai du mal 'a l'expliquer en l'écrivant mais contacté nous nous avons l'enregistrement et nous aimerons en savoir d'avantage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35865.html](http://www.nuforc.org/webreports/reports/035/S35865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
