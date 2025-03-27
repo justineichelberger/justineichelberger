@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Mexico Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three circular objects disappearing and reappearing over the ocean.Right off the coast were up to three large round orange to white lights disappearing and then reappearing, sometimes one at a time and sometimes three at a time over the same general area. When more than one would appear they would always seem to be in line from east to west either descending or ascending. This happened for about thirty minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12482.html](http://www.nuforc.org/webreports/reports/012/S12482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>orange then red lightI was driving to work on night shift looking like I always do  since I saw the orbs on the 19th of February,  I saw a orange light sitting in sky, I had to look away because I was driving and looked back for it but it was gone, while looking for it I saw a red flash above the clouds much closer to my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108171.html](http://www.nuforc.org/webreports/reports/108/S108171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
