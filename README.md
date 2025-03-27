@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>It was a red fireball hovering hologram type ball if that makes sense.I was woke up abruptly this morning about 4 am and seen 1 red fireball about the size of a large grapefruit hovering on my bedroom wall where the ceiling meets the wall, almost straight in front of me. It did not make any noise or wake my husband or dog, only me. I just shut my eyes and said to myself I'm not afraid. Opened my eyes after a minute and it was gone.  I was not dreaming and I did not imagine this.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88075.html](http://www.nuforc.org/webreports/reports/088/S88075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>wired objects in West TexasOn this day, at first one object caught my eye.  That shined and hovered in place for about a 5 mins. Then it moves the opposite direction and fade away and a few minutes latter two show in formation and hovered also above this another object much higher was a very large air craft which it held it position.  and accented ((sic.  Ascended??)) higher till no longer to see but the two turned to three. Then headed south for about two miles then west for 20 mins. and headed up and disappeared.  I know that these were not airliners or bombers.  cause the shape and also other aircrafts flying for east to west.. and  his objects were heading in a different direction. very bizarre.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126595.html](http://www.nuforc.org/webreports/reports/126/S126595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
