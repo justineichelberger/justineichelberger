@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:46 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light spotted moving very fast heading NE and quickly turning W. Other simular round lights seen w/ same characteristics. Objects moved to fast and silently to be planes.Myself and two friends witnessed a strange light moving North East very fast. The object was moving very quietly. It then turned very sharply twards the West. About a minute later we witnessed another object, which seemed to come out of nowhere heading North East. It was also moving fast and quietly. It turned sharply to the North and quickly faded. Another minute later we saw a light come from the North and quickly turn East a fade like the other lights. About 30 seconds later we saw another quickly moving object come from the North West and then fade. I am 13 and my friends are 13 and 14. I hope you won't use that against us. There usually aren't many planes around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03403.html](http://www.nuforc.org/webreports/reports/003/S03403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Manistique (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Distinct teardrop light over Lake Michigan. (red&green)A perfectly round bright red circle with a tapering green tail. Very bright and very distinct. Clean edges, with no glow or haze. Against a Clear black night sky over Lake Michigan, due south of Manistiques harbor. Appeared to be traveling straight down, and suddenly dissapeared totally. It was very high above horizon, and appeared large, but could not tell true size or distance. Nothing to compare it to. Looked very large compared to anything else in the sky. ((NUFORC Note:  Probable meteor/asteroid entering atmosphere.  For video, captured by South Have, Michigan, Police Department cruiser, please see the following website:  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28263.html](http://www.nuforc.org/webreports/reports/028/S28263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
