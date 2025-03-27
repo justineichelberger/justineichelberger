@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:27 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:46 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Middlesex (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Star like object  moving while watching Nasa's Anomalous Transport Rocket Experiment (ATREX)While is was watching NASA's March 27th,2012  - Anomalous Transport Rocket Experiment (ATREX)at about 5:20am, I seen a star/orb like object (I've seen these exact objects many differant times in the past)move from the north towards the area where nasa's experiment was taking place, it was moving slow and then started to fade away while going on a south west direction, it was going towards where the first two rockets were fired.  The object looks like a star/orb but moves, had no blinking lights and seems to be very high up, there is no way it's a plane, satellite or meteorite..  It was visible for about 2 to 3 min....Im going to get a camera and start to document these objects, i see them alot..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88062.html](http://www.nuforc.org/webreports/reports/088/S88062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Clifton Park (30 min north of Albany) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>it came after me and my dog, i was walking him that nightHi my name is Jason and i'am 16 years old.  Tonight 11:30pm. {3/27/98} I was walking my dog in my development {New York, in clifton park, 30 min north of Albany} when i noticed a bright yellow light.  At first iI thought it was a airplane but then it moved from side to side and then it got as small as a star then it got bigger again.  it started to move away so i walked down to the end of the street to get a better look at it.  The light started to get bigger and bigger and i started to make out the shape of what it looked like.  As it got closer to me i started to run away.  It was shining 4 or 5 spot lights around were i was but just for about 3 sec. then it was following me and then it crossed {behinde me which was the road i was standing on} it looked like a top hat but all the coners were cut of like if u take a square and off a coner of it, and it had just to lines for the door going from the bottom of it to the top.  It also had little windows around the whole thing.  As i looked at it as i was running it was coming down on a angle.  it was about a 100 feet from the tree tops. It had lights all around the whole ship and one on the top of the ship. As it got closer it had a mist of the color cyan around it.  As I ran back to my house with my dog i noticed i couldn't see it anymore because the trees were in the way.  When i got back to my house I told my dad what happened.  We went looking outside my dad saw the bright yellow light in the distance and it was heading north then dissapeared.  I have attached a picture that i have drawn of what i saw.  I would like to know if u had any pictures that looked like this one and if there was any other ufo sightings in that areaaround that time.  Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03407.html](http://www.nuforc.org/webreports/reports/003/S03407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
