@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shiprock (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White Orb with Miniture Lights Captured in Photo. NM, USA.On the evening of 3/27, at exactly 7:00pm; I took a number of pictures of the clouds, during the sunset, facing west, as a light rain was coming in, and when I went to look at the pictures, I took, I noticed that this round light was in the center of my picture, and it ruined a good shot.  I zoomed into the picture and noticed a weird orb-looking light with mini lights on it.  Later that evening, I should my older brother and he noticed the same orb in the next picture, behind some clouds. I didn’t know what I had taken a picture of.((NUFORC Note:  We have not seen the photo, but we suspect lens flares.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133365.html](http://www.nuforc.org/webreports/reports/133/S133365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two Crafts. One sighting.2/27/08 At about 430 pst we noticed what we thought was a balloon rapidly rising and falling and changing colors from red to silver to white and emitting a strange aura in the northwestern sky above Lake Union. We called a third person over to show him and ask his opinion about what he thought it could be only for him to point out a white ball/egg shaped craft flying from the east over lake Washington, continuing over lake union, and eventually disappearing behind the Space Needle.The craft made no sound and was flying at speeds not normal with planes that usually fly over Seattle. When we looked for the balloon object after the second object flew by, it was gone.  We have never seen anything like it before.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62064.html](http://www.nuforc.org/webreports/reports/062/S62064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
