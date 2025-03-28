@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fall City (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two lights brighter than Jupiter, one above the other, suddenly disappeared.While reviewing the more recent reports, I noticed a report of "anomalous lights" seen in Renton, WA, on 03/28/04.  My 16 year old daughter and I also observed these lights.  I was setting up my telescope in our front yard to observe Saturn when my daughter asked me to look at two stars behind us.  I turned around (facing NNE)and saw through the trees what I thought were two very bright stars, one above the other, very near to Polaris in the sky. The apparent magnitude of both was brighter than Jupiter.  I began to reposition my telescope away from the tree branches and when I turned both stars were gone.  My daughter reported that they both had just "vanished".  I am a former Army aviator and these lights did not appear to be either flares or conventional aircraft.((NUFORC Note:  We wonder whether the lights might have been landing lights on distant aircraft, although the witness, an aviator, seems to have ruled that out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36266.html](http://www.nuforc.org/webreports/reports/036/S36266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sedalia (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular shaped craft over Sedalia, MOMe and a friend of mine went outside around 11:20 to take out the trash and observe the wintry weather we are experiencing here.  We were standing in the alley behind my house, near my girlfriend's car having a cigarette when I noticed the strangeness.  There where three identical lights in a triangular form moving at a fast pace across the sky, due west I believe.  From my point of view it was about a few miles from our position and maybe 25-30,000 feet up, appeared quite large in the sky and was completely silent.I could almost make out a blackish shape within the lights.  The lights where solid, no strobes or emergency lights where visible. About a minute later we witnessed what appeared to be two military jets flying the same direction and could be heard.  The jets had the standard lighting most airplanes have when flying at night.  I live a few miles away from Whiteman AFB and have seen hundreds of B-2 bombers and I believe what I saw was not a B-2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69421.html](http://www.nuforc.org/webreports/reports/069/S69421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
