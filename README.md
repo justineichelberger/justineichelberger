@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort. Deposit (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>One large triangular craft with one dim light on each end and a smaller craft which looked like a helicopter.  Both of which made no noise.I was traveling North on Highway 65 when I noticed a very large triangular shaped craft and a smaller craft which crossed over the interstate traveling around 50 mph.  The larger craft had 3 small dim lights at each end of the triangular shape and a larger red light on one side.  The smaller craft had many lights and looked more like a helicopter.  By the time I had reached the part of the interstate where they had crossed, they were over the trees heading southeast.  I stopped my car on the side of the road, got out, and continued to watch these two craft continue to travel very slowly.  I heard no noise at all from these two craft.  I got back in my car and continued to travel North.  About 5 minutes later I saw about 6 military helicopters cross the interstate in the opposite direction.  I knew they were helicopters by the very loud sound their blades made.  This all happened about 20 or 30 miles south of Montgomery, AL at 9:15 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12471.html](http://www.nuforc.org/webreports/reports/012/S12471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fall City (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two lights brighter than Jupiter, one above the other, suddenly disappeared.While reviewing the more recent reports, I noticed a report of "anomalous lights" seen in Renton, WA, on 03/28/04.  My 16 year old daughter and I also observed these lights.  I was setting up my telescope in our front yard to observe Saturn when my daughter asked me to look at two stars behind us.  I turned around (facing NNE)and saw through the trees what I thought were two very bright stars, one above the other, very near to Polaris in the sky. The apparent magnitude of both was brighter than Jupiter.  I began to reposition my telescope away from the tree branches and when I turned both stars were gone.  My daughter reported that they both had just "vanished".  I am a former Army aviator and these lights did not appear to be either flares or conventional aircraft.((NUFORC Note:  We wonder whether the lights might have been landing lights on distant aircraft, although the witness, an aviator, seems to have ruled that out.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36266.html](http://www.nuforc.org/webreports/reports/036/S36266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
