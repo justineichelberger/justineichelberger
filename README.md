@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Blue-Green flash in the night sky.I was driving on Route 15 in Hamden after entering the highway from exit 60.  I was headed south west towards Orange when I saw a blue flash in the cloudy sky to my south, probably over New Haven or the Long Island Sound.  At first I assumed the flash was lightning - it was an incredibly windy night and lightning wouldn't have been out of the question - but over 1 or 2 seconds the flash turned green before lingering for another second or two, and then disappearing.  There was no discernible thunder.  The flash could have been one of many things:  environmental phenomena, a flare, a bi-product of some sort of industrial/scientific activity, a bi-product of military testing, or a UFO.  Interestingly, later that night as I was driving in Orange, there was a tree down, (from the wind), in the middle of the road.  I called the Orange PD to alert them about the tree in the road and they sent an officer out to the scene - this police officer said that she had also seen the flash in the sky.One final thing to note - there was what seemed like some sort of fire in Milford/Stratford today. The smoke could be seen and smelled from where I live in Orange.  The smoke from this fire may have weirdly filtered the light from a lightning bolt from blue to green and I may have been unable to hear the thunder because it was either too far off or my car was too noisy.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126601.html](http://www.nuforc.org/webreports/reports/126/S126601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort. Deposit (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>One large triangular craft with one dim light on each end and a smaller craft which looked like a helicopter.  Both of which made no noise.I was traveling North on Highway 65 when I noticed a very large triangular shaped craft and a smaller craft which crossed over the interstate traveling around 50 mph.  The larger craft had 3 small dim lights at each end of the triangular shape and a larger red light on one side.  The smaller craft had many lights and looked more like a helicopter.  By the time I had reached the part of the interstate where they had crossed, they were over the trees heading southeast.  I stopped my car on the side of the road, got out, and continued to watch these two craft continue to travel very slowly.  I heard no noise at all from these two craft.  I got back in my car and continued to travel North.  About 5 minutes later I saw about 6 military helicopters cross the interstate in the opposite direction.  I knew they were helicopters by the very loud sound their blades made.  This all happened about 20 or 30 miles south of Montgomery, AL at 9:15 pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12471.html](http://www.nuforc.org/webreports/reports/012/S12471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
