@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Driving South on a well lit suburban street.  Witness was in the front passenger seat and saw a well-defined bar of bright yellow light flash suddenly into view.  The light had the clarity and intensity of a performance grade laser.  The object was angled about 45 degrees from horizon and moved out of view as we drove along.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145387.html](http://www.nuforc.org/webreports/reports/145/S145387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange linear lights hovering in the sky two nights in a rowI witnessed two object floating in the sky, a linear formation of 3 lights.  One object was orange and green.  The other object was blue and purple.  Previous night a blue and purple object was shooting red projectiles down to earth.  It smelled like a forest fire outside in Florida on an evening not meant for fires.  Mysteriously there was a power outage due to a lighting strike at power plant in Fort Lauderdale when there were no storms in area, causing a massive blackout for the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145373.html](http://www.nuforc.org/webreports/reports/145/S145373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
