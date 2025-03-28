@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:58 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:29 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gassville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My boyfriend and i came outside. He said to look at the stars. I thought he was talking about the moon and the bright star beside it. It was beautiful.and he said no it's 4 stars lined up perfectly spaced out. Perpendicular to the ground.and one by one moved up and disappeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154623.html](http://www.nuforc.org/webreports/reports/154/S154623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lauderdale-By-The-Sea (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Three changing form objects at daylightI reported this images when I saw those objects back on 2011, but recently I decided to magnify the images and found out that the objects changed its shapes as they go.  Here is the text I submitted to Mufon at the time: "I live in a ocean front condo and I was walking my dog in an area of my building where I was able to see the ocean.  This was around 3PM.  Suddenly something caught my eye and when I looked I saw 3 small super bright round (could not really see the material, only light) objects playing around in a fast pace, above the seashore.  I knew I never saw something similar like this before and I decided to rush upstairs (I live in the 14th floor) and try to take a picture if they were still around (I don’t have a great camera with a big zoom).  It took me about 30 seconds to spot one of them above the ocean, and one of them going along the shore in opposite direction (later in the poicture, I could spot a very bright light on the sky and a black shadow Notice that they were really small.  From my terrace, they were no longer bright but yellow and orange shaped as a blimp and were now going very slow. I could not hear a sound.  There was no one at the beach at that time that I could see.  (I thought about remote control toys but no one was there controlling them and I also, later on, did a research about remote control toys that are similar to the ones I saw.  I could not find any)  Suddenly I lost one of them and the one I took a picture, was flying very close to the water horizontally. Suddenly it stopped and started to go up in the sky until I could not see it anymore.  I saw no strings, no fire, no smoke, no sound."((NUFORC Note:  We have looked at the photo provided by the witness, and we see an object in the frame, which appears to be floating on the surface of the ocean.  We are unable to identify it, although it seems to us that it could be a buoy, or perhaps detritus.  We cannot certify that it has anything to do with an alien space craft, but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111851.html](http://www.nuforc.org/webreports/reports/111/S111851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
