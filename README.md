@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Boulevard (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Just past Jacumba I-8 South, 2 red dots appeared 60° directly South of said location as I am driving my rig in a desolate area.  dot1 stopped mid air for dot2 to catch up.  Made sure I was seeing correct.  Both lights went out.  Reappeared 2gether in different location, zoomed off!((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133346.html](http://www.nuforc.org/webreports/reports/133/S133346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was looking south over south town plaza watching the jets making clouds way up by the cirrus when i noticed about a quarter mile out in front of me an object that was slowly moving away to the ssw . What i saw was a pure white bubbulous object with brilliant tiny red twinkling lights in a small area on the underside. this was viewed through 10x42 binoculars. i need a witness. I jumped in my truck and drove 200ft to a garage handed the binoculars over and pointed it out as we proceeded to view it as it drifted up at about a thirty five degree angle. when i first looked at it i thought it was about fifteen, 10 foot weather balloons tied together with twelve volt blinking lights on it but then i relized it was moving off towards the ssw and the wind was blowing due east.there was also an airplane that passed close behind it from airport.i have been watching the skies since i was eight (1969) and i have never seen any thing until now.  ex air force f-15 tech  comm/nav((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55985.html](http://www.nuforc.org/webreports/reports/055/S55985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
