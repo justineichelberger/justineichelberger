@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Monroe (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sitting on my porch with my cousin, I look up at the sky and I see a light in the sky eastway of where I was sitting.  The light changed colors, colors are as followed; red, green, white, and orange.  At 9:35 (sic.  p.m.), the craft moved to the right, making its appearance more clear.  The craft was a cubed shaped aircraft.  The lights were both on top and bottom of the craft.  The craft had tripod bottom.  It stayed in that position for about 5 minutes.  At 9:45, the craft started slowly moving upward towards the sky, then shot off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126592.html](http://www.nuforc.org/webreports/reports/126/S126592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silent, orange ball of "fire" seen in the sky over Boynton Beach, FL - HAVE VIDEO AND PICTURE.I was sitting with my parents on their back porch and my dad pointed out a strange object in the sky.  We all walked out further into the yard to get a better look, and I immediately took a picture, and then started recording it on my phone.  The object looked like an orange ball of fire. At first my dad thought an airplane was on fire, but then pointed out there was absolutely no noise coming from it at all.  It moved very slowly in our direction and wasn't making any erratic movements.  Once it passed overhead it quickly ascended (not lightening bolt fast, but just a relatively hurried steady pace) and the light became dimmer, until we finally lost sight of it.  I can provide the picture and video I took upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118119.html](http://www.nuforc.org/webreports/reports/118/S118119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
