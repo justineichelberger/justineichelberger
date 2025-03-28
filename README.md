@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:43 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brighton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft with strange lighting alignmentWhen I was laying on my bed getting ready to go to sleep I noticed a bright light peak through the blinds from my window. Being the curious little man I am I decided to get up and have a look. I was amazed at what I saw. It sounded like a jet but was moving too slow to be a jet, it was moving at the speed of a helicopter but didn't sound anything like it. There was 2 lights on opposite side both blinking and one at the back forming the craft into a triangle shape. But what really got me was that there was another light in the middle at the front of the craft that was in alignment with the 2 blinking lights. I haven't heard or seen a type of plane with a flat/straight front. This light was like a flood light causing a visible ray of light directing ahead as if it was searching for something. After watching it got out of my view and on the other side of my house. I went into the other room to look out for it and alerted my brother who didn't seem to be bothererd. I failed to see anything. I then proceded back into my room to see that it was going back the opposite direction taking a "U" turn around my house, red lights flashed as it got far into the distance as it was no longer visable to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35850.html](http://www.nuforc.org/webreports/reports/035/S35850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rocklin (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Light seen over Auburn Ca.While driving east bound on I-80 in Rocklin I saw a light blue-green light.  At first I thought it was an aircraft but realized it was moving much too fast.  It moved from South to North.  I had an unobstructed view of the sky.  The light suddenly appeared and traveled downward at about a 30 degree angle to the horizontal until it disappeared at my horizon line but in front of the backdrop of the Sierra's.  It traveled in a straight line.  There were no red/green/white marker lights to be seen.  Had it been a meteor, it appeared to be headed for Auburn.  As I drove through the area, there was no emergency vehicle activity to be seen.  There are no airports in the area that could accomidate a plane that was this fast.  There was no "tail" indicating atmospheric ablating of material as should be seen from a meteor this low in the atmosphere.  After returning home at 19:20 I checked off my back deck for any signs of fire or other activity.  There were none.  From my back deck I can see about 50,000 acres of the Sierra Foothills along with the entire North Sacramento Valley.I am an engineer, amateur radio operator and pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22378.html](http://www.nuforc.org/webreports/reports/022/S22378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
