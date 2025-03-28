@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 27 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:27 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Sun Prairie (WI) reported seeing craft that fit the description of some '' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Woman called to describe her sighting in a park.  She had gone to the park with her son, and she noticed a glint of sunlight off an object, which appeared to be high in the sky, which was clear.  The object was moving from SE to NW, and it was very small.  Its color was either white or silver. At first, the caller, an amateur  bird watcher, thought it might be a bird, but she could see no flapping.The object went in a straight path at first, and it exhibited no contrail, and there was no apparent sound.  Suddenly, the object began to turn, executing a 180 reversal of course in 5-10 seconds. The observer walked in front of a tree, losing sight of the object for a moment.  She called it to the attention of other people in the park, who saw it as well. The object reversed its directionb, and suddenly began to climb.  It accelerated, and disappeared in approximately 3 seconds, or so. She added that the object had exhibited three speeds:  slow and deliberate; it accelerated somewhat; and very fast. She called the Dane County Sheriff's office.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02009.html](http://www.nuforc.org/webreports/reports/002/S02009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brighton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Craft with strange lighting alignmentWhen I was laying on my bed getting ready to go to sleep I noticed a bright light peak through the blinds from my window. Being the curious little man I am I decided to get up and have a look. I was amazed at what I saw. It sounded like a jet but was moving too slow to be a jet, it was moving at the speed of a helicopter but didn't sound anything like it. There was 2 lights on opposite side both blinking and one at the back forming the craft into a triangle shape. But what really got me was that there was another light in the middle at the front of the craft that was in alignment with the 2 blinking lights. I haven't heard or seen a type of plane with a flat/straight front. This light was like a flood light causing a visible ray of light directing ahead as if it was searching for something. After watching it got out of my view and on the other side of my house. I went into the other room to look out for it and alerted my brother who didn't seem to be bothererd. I failed to see anything. I then proceded back into my room to see that it was going back the opposite direction taking a "U" turn around my house, red lights flashed as it got far into the distance as it was no longer visable to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35850.html](http://www.nuforc.org/webreports/reports/035/S35850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [236](http://www.nuforc.org/webreports/reports/162/S162516.html)
-- [235](http://www.nuforc.org/webreports/reports/162/S162496.html)
-- [234](http://www.nuforc.org/webreports/reports/162/S162503.html)
-- [233](http://www.nuforc.org/webreports/reports/162/S162500.html)
-- [232](http://www.nuforc.org/webreports/reports/162/S162754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
