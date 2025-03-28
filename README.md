@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:43 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:58 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rocklin (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Light seen over Auburn Ca.While driving east bound on I-80 in Rocklin I saw a light blue-green light.  At first I thought it was an aircraft but realized it was moving much too fast.  It moved from South to North.  I had an unobstructed view of the sky.  The light suddenly appeared and traveled downward at about a 30 degree angle to the horizontal until it disappeared at my horizon line but in front of the backdrop of the Sierra's.  It traveled in a straight line.  There were no red/green/white marker lights to be seen.  Had it been a meteor, it appeared to be headed for Auburn.  As I drove through the area, there was no emergency vehicle activity to be seen.  There are no airports in the area that could accomidate a plane that was this fast.  There was no "tail" indicating atmospheric ablating of material as should be seen from a meteor this low in the atmosphere.  After returning home at 19:20 I checked off my back deck for any signs of fire or other activity.  There were none.  From my back deck I can see about 50,000 acres of the Sierra Foothills along with the entire North Sacramento Valley.I am an engineer, amateur radio operator and pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22378.html](http://www.nuforc.org/webreports/reports/022/S22378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Gassville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My boyfriend and i came outside. He said to look at the stars. I thought he was talking about the moon and the bright star beside it. It was beautiful.and he said no it's 4 stars lined up perfectly spaced out. Perpendicular to the ground.and one by one moved up and disappeared .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154623.html](http://www.nuforc.org/webreports/reports/154/S154623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
