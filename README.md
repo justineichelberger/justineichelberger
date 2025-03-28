@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:19 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was walking my dog.  And I'm always looking up into the sky. There was a light cloud with lighs streaking through it. It was weird light green lights.  Ran back in to get my cell phone to take pictures but they were going to fast.  Not sure what was going on behind that small cloud.  Sky was clear except that cloud.  Then to the right there was this round object.  And it was gone.  But the lights still continue behind that small cloud.  Strange.  Thought it was the northern lights. But not as big and not as bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154613.html](http://www.nuforc.org/webreports/reports/154/S154613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Boulevard (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Just past Jacumba I-8 South, 2 red dots appeared 60° directly South of said location as I am driving my rig in a desolate area.  dot1 stopped mid air for dot2 to catch up.  Made sure I was seeing correct.  Both lights went out.  Reappeared 2gether in different location, zoomed off!((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133346.html](http://www.nuforc.org/webreports/reports/133/S133346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
