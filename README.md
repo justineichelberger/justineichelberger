@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silent, orange ball of "fire" seen in the sky over Boynton Beach, FL - HAVE VIDEO AND PICTURE.I was sitting with my parents on their back porch and my dad pointed out a strange object in the sky.  We all walked out further into the yard to get a better look, and I immediately took a picture, and then started recording it on my phone.  The object looked like an orange ball of fire. At first my dad thought an airplane was on fire, but then pointed out there was absolutely no noise coming from it at all.  It moved very slowly in our direction and wasn't making any erratic movements.  Once it passed overhead it quickly ascended (not lightening bolt fast, but just a relatively hurried steady pace) and the light became dimmer, until we finally lost sight of it.  I can provide the picture and video I took upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118119.html](http://www.nuforc.org/webreports/reports/118/S118119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>i was playing catch with my self, when i saw something in the sky. i looked up, and i saw alot of yellow dots flying in the sky. i loked at it foy about 30 sec. then i went inside, and got my sisters. they both saw it! it was yellowish and silverish. each dot had all lights. it looked about a quarter inch wide. at one point, they formed sort of like a L and a V. they all remained togeter. they kept flashing on and off. like they were going in and out of dimensions while flying. they were flying very high.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22614.html](http://www.nuforc.org/webreports/reports/022/S22614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
