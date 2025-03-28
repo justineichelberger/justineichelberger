@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 28 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>i was playing catch with my self, when i saw something in the sky. i looked up, and i saw alot of yellow dots flying in the sky. i loked at it foy about 30 sec. then i went inside, and got my sisters. they both saw it! it was yellowish and silverish. each dot had all lights. it looked about a quarter inch wide. at one point, they formed sort of like a L and a V. they all remained togeter. they kept flashing on and off. like they were going in and out of dimensions while flying. they were flying very high.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22614.html](http://www.nuforc.org/webreports/reports/022/S22614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ochopee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I was driving to work going east bound on I-75 Alligator Alley when I saw in a distance bright red lights about a half mile in distance.  The lights caught my attention and were unusually low and about 90 to 100 ft  directly above the right breakdown lane.  I was traveling 75 mph and as I approached it I looked straight up from my windshield and could see the clear out line silhouette of a triangular blackish object with 3 very red lights on the bottom one on each corner but more in the center not the tip.  It was still night time but the back drop from sky I saw clearly the object..I would say it was over 2 car lengths wide aprox. 35 to 40 feet wide.  I slowed down to 55mph and was like, "What was that!" it was between Mile marker 55 and 53.  Eastbound lane .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155014.html](http://www.nuforc.org/webreports/reports/155/S155014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [245](http://www.nuforc.org/webreports/reports/162/S162541.html)
-- [244](http://www.nuforc.org/webreports/reports/162/S162518.html)
-- [243](http://www.nuforc.org/webreports/reports/162/S162536.html)
-- [242](http://www.nuforc.org/webreports/reports/162/S162517.html)
-- [241](http://www.nuforc.org/webreports/reports/162/S162519.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
