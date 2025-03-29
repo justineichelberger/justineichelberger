@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Avon/Rushford (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Watched as craft travelled through the sky, hovered as we passed on the highway, two very bright front lights, 5 lights on the bottom that formed a cross shape.  Between Avon and Rushford near Rochester NY around 9pm.  Hovering high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96841.html](http://www.nuforc.org/webreports/reports/096/S96841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coombs (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i live in the woods so there are no other lights around, plus tonite is overcast so there were no stars in the sky or no moon, I was taking my dog out to do her business,when i stepped out the door icouldn't help but notice a bright yellow orange circle moving very slow from west to east just above me I would say possibly a mile up, It was below the clouds, then it stopped for about 15 seconds, then I ran in the house and grabbed my camera, I took a couple of pictures then all of a sudden it turned north going very slowly, then all of a sudden sparks shot from it it was still staying in the same place for another 10 seconds{ iwas talking to my brother on the phone telling him and describing what it was doing and then it just disappeared, I got 3 or 4 pictures</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22379.html](http://www.nuforc.org/webreports/reports/022/S22379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
