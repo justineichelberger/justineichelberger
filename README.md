@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Paris (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>3/29/2015 9:57PM in western sky seen from east of downtown Paris, Tx.9:57PM in western sky, just above the roofline of 1 story apt building across parking lot; but it appeared to be far away, seen from a distance; duration seconds, then gone. cloudy skies; partial moon on my left now and then light dulled by cloud movement but this was in front of me as I looked to the west; my sister was with me and I asked her what that was.  At about the same time she looked in that direction it simply blinked out or just disappeared. I watched the skies for a bit, in case it had merely moved but did not see it again.  We are on an elevated area east of downtown Paris; it was too far away to gauge a size.  It would have fit into a circle of my closed-into-an-o fingers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118133.html](http://www.nuforc.org/webreports/reports/118/S118133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dedham (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>No noise reported.Source: conversation with witness.  Oakdale section of Dedham.A chain of large glowing orange balls proceeded in single file heading NNW.One was observed dropping down to an unknown location.A male witness drove off trying to find a possible landing site but was unsuccessful.Female pedestrian witness stayed behind.Female does not remember exact date, but sighted a large bolide 2 days previous.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127476.html](http://www.nuforc.org/webreports/reports/127/S127476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
