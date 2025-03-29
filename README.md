@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:05 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Waukesha (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>triangle craft , 9 lights, hovering with extremely quiet jet engine sound, no helicopter sound.About 9 lights in a triangle shape evenly spaced.  Appeared to be one craft. Hovered about 200 yards off the ground, hovered over local farm field above Hwy 164 and skyline Ave for approximately 3 minutes with extremely quiet jet engine sound.  No rotor thump of that of a helicopter.  I drove under it and it slowly flew away at about 30 mph, with no engine increase in sound.  Clear night sky but I could not get a clear visual of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88116.html](http://www.nuforc.org/webreports/reports/088/S88116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Morro Bay (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>unusually bright aircraft-like light that suddenly dimmedAs I was returning to the house after walking the dog, I noticed a light which I assumed was an airplane traveling overhead.  It was moving from the SW to the NE at a speed and altitude I normally associate with our usual air traffic.  Nevertheless, something seemed odd about it although I couldn’t pinpoint exactly what that was.  I let the dog in, grabbed binoculars, and crossed through the house to the backyard.  I easily picked up the object on the same trajectory, which made me think again that it was an airplane.  However, when I looked with binoculars I could not make out the body of an aircraft or any blinking lights.  I could only see a very bright, bluish-white light with a smaller, dimmer, reddish light on the upper right side/edge of the bright light.  The bluish-white light appeared circular, with the smaller red light located along the perimeter at a 1 o’clock position.  As I watched, waiting to glimpse a blinking navigation light, it seemed to me that the white light was too bright.  The intensity reminded me of the rocket that passed by here on November 7, 2015.  This light was not nearly that spectacular, but the quality of the light seemed similar (magnesium-like), if that makes any sense.  Then as I was tracking it eastward, the bluish-white light appeared to grow even brighter and more intense.  As I was puzzling about this, the bluish-white light began to rapidly dim until it extinguished, leaving only the barely visible reddish light which then also disappeared.  The entire time it had maintained a steady speed and it appeared to track at a consistent altitude and in the same (NE) direction.  The brightness followed by the rapid fading out reminded me of a flare, except that this object was traveling horizontally, was moving more slowly, and remained visible for a much longer amount of time than the maritime flares I have seen. For the same reasons, it also did not appear to be a meteor.  I scanned the skies for 10-! 15 minutes longer but never saw any additional sign of the obj! ect.  Several small aircraft did fly overhead during this time, following the more typical aircraft routes from S to N/ N to S.   Also, I did not hear any engine noise associated with the object, but did hear the noise of the planes that passed overhead minutes later.  Skies were clear with no moonlight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126615.html](http://www.nuforc.org/webreports/reports/126/S126615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
