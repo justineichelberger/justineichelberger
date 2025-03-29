@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Inverness (FL) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>An extremely loud noise lasting 3-4 minutes.  Booming and hissing.  Slowly faded away.I’m reporting this here for lack of a better avenue.  I’ve already reported this to the local police and they had no idea (though they took the report seriously).  But then again, this is a very small town and people tend to be very unconcerned here.A little before 11pm, an extremely bizarre series of noises awoke me and my husband.  It was a very loud series of booms or clangs along with a very loud hissing or static noise.  The booms were about 1-3 seconds apart and were random.  The "hissing" noise was consistent.The noise was coming from the sky and we determined it was moving.  The first few minutes very loud and it got progressively quieter.   No car stereo could possibly muster that much volume and it really sounded it was coming from above.Now, we live ½ mile from a race track and small airport and I’m from a large city.  I’ve heard a lot of noise in my life but NOTHING REMOTELY LIKE THIS.  It was way louder than the nearby racetrack or airport ever was.It was so loud and disconcerting we were watching the news because we thought something crazy happened but nothing.  Again, it’s very bizarre.  I wouldn’t know what to make out of this.  My husband half-jokingly said it could be one of those military aircrafts but what would they be doing flying over a small town like this?  Neither of us could remotely recognize either the clanging/booming nor the air pressure-like hissing to anything.P.S.  The police did say there was a boat show but that’s at least 20 minutes away.  We’ve heard fire works go off (the big ones) and this was nothing like it.  Again, the booms were a little random but where going off in a pattern for about 3-4 minutes straight.Somebody else must’ve heard this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62430.html](http://www.nuforc.org/webreports/reports/062/S62430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Indian Shores (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Accelerated UFO Flight Pattern with abrupt stop and continuation of flightWhile taking my dog out during the late evening hours of the 29th of March, 2017, I witnessed a green/red light appearing side by side.  The lights caught my eye due to the speed at which it was flying.  Flight path was east to south west out and over the Gulf Of Mexico.  The factor in which the UFO came to an abrupt stop, and then made a 90 degree flight movement to the south, and at a speed not commensurate with a jet or prop plane was the key factor in this report.  Conditions that night were clear, no clouds, no heavy winds, nor rain/lightning.  Moon phase was a waning crescent of 24 percent illumination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133380.html](http://www.nuforc.org/webreports/reports/133/S133380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
