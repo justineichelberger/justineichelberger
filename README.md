@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two slow, black heart changing to tear shaped objects decend with no lights and unheard witnessed by family over e.Mesa,AZ!I was standing outside watching the kids riding bikes, one of them asked what was in the sky. I look went inside to grab family and binoculors, came back to see 2 black heart shaped objects wiht out lights or sound going from north to south about 05 to 10 natical miles apart.  For about 7 to 10 min. they have traveled about 35 to 50 natical miles guessing by judgment that is, as they decended they both changed shape to a tear and slowly disappeared in altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88117.html](http://www.nuforc.org/webreports/reports/088/S88117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bloomington (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast moving chevron pattern moving east to westFast moving formation of 4 diffuse lights in a chevron pattern moving east to west.  Spotted over head moving west at a high rate of speed.  No sound.  Lights disappeared sooner than I expected they should have.  Not sure what to make of it.  Clearly seen and moving fast.  Lights were dime sized held at arm's length.  Lights were not pin point, but rather larger and diffuse.  White in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145408.html](http://www.nuforc.org/webreports/reports/145/S145408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
