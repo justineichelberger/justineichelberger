@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:36 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bloomington (MN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast moving chevron pattern moving east to westFast moving formation of 4 diffuse lights in a chevron pattern moving east to west.  Spotted over head moving west at a high rate of speed.  No sound.  Lights disappeared sooner than I expected they should have.  Not sure what to make of it.  Clearly seen and moving fast.  Lights were dime sized held at arm's length.  Lights were not pin point, but rather larger and diffuse.  White in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145408.html](http://www.nuforc.org/webreports/reports/145/S145408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rockland (ME) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright Strobe Lights Over Rockland, Maine.This was a flashing object in the sky.  The flashes were bright and blue/white light.  The light pattern was irregular but there did appear to be strobes in an irregular fashion.  The light being emitted appeared to stay in one spot the entire time.  We thought it might be on a cell tower on the mountain but it was above the mountain in the sky.  It almost appeared like this was just above a cloud and was hidden due to the cloud that didn't move.  It was there over one hour.  We did see two other vehicles heading in the direction as well - we weren't the only ones who saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108168.html](http://www.nuforc.org/webreports/reports/108/S108168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
