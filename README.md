@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Indian Shores (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Accelerated UFO Flight Pattern with abrupt stop and continuation of flightWhile taking my dog out during the late evening hours of the 29th of March, 2017, I witnessed a green/red light appearing side by side.  The lights caught my eye due to the speed at which it was flying.  Flight path was east to south west out and over the Gulf Of Mexico.  The factor in which the UFO came to an abrupt stop, and then made a 90 degree flight movement to the south, and at a speed not commensurate with a jet or prop plane was the key factor in this report.  Conditions that night were clear, no clouds, no heavy winds, nor rain/lightning.  Moon phase was a waning crescent of 24 percent illumination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133380.html](http://www.nuforc.org/webreports/reports/133/S133380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Belton (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A strange formation of 9 UFOs flew in an undetermined pattern over an abandoned field for approximately 5 minutes.The objects changed shape as they flew. They flew in a somewhat circular pattern over an abandoned field. There were 9 of the crafts, all with a circular space that could seemingly open on the bottom. They were all a silvery color, although th light was not very good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12480.html](http://www.nuforc.org/webreports/reports/012/S12480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
