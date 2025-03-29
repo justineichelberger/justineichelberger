@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:42 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nassau (Long Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>four white lights in a straight line with one another.On march 29, 2005, I wittnesed four lights that were in a line with one another. The objects appeared to be at a equal distance to one another. I was looking off to the west toward nyc and JFK airport.  It was 11:00 pm. The objects hovered most of the time and than one of the objects moved slowly toward another and went on top of the other. When this happen the object on top began to glow a very bright white light. The other three objects were mostly still but at times moved across the horizon slowly. At times they would become bright and than dim. The lights moved parellel to the horizon line. This was the second time I saw these lights. The first time was superboewl night at 9:00pm. They exhibited the same behavior. I have lived in Long Island, atlantic beach for 25 years in the same location. Besides these two sightings I have never seen this  before. Four other people wittnesed the same thing. Finally, I contacted JFK and the local fort hamilton airforce base and both have said they were unaware of the lights.This excludes an airplane of helicopters.((NUFORC Note:  Possible landing lights on airliners??  We spoke with this witness, and he sounded to us to be quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43434.html](http://www.nuforc.org/webreports/reports/043/S43434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Man reports three brightly lighted obj. over mtns. Move erratically, then fly west very fast.  Calls 911.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00385.html](http://www.nuforc.org/webreports/reports/000/S00385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
