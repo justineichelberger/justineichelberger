@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Coalfield (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red green fire ball.Round red fire ball surrounded by green fire with trail of red green behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145391.html](http://www.nuforc.org/webreports/reports/145/S145391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Two slow, black heart changing to tear shaped objects decend with no lights and unheard witnessed by family over e.Mesa,AZ!I was standing outside watching the kids riding bikes, one of them asked what was in the sky. I look went inside to grab family and binoculors, came back to see 2 black heart shaped objects wiht out lights or sound going from north to south about 05 to 10 natical miles apart.  For about 7 to 10 min. they have traveled about 35 to 50 natical miles guessing by judgment that is, as they decended they both changed shape to a tear and slowly disappeared in altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88117.html](http://www.nuforc.org/webreports/reports/088/S88117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
