@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>looking up at the b dipper top star on the dipper going SW about a yard stick at arms length a light moving to the NE about the two foot mark on the yard stick then turned north and went outThe light was as bright as Saturn moving to the NE ( I have owned a telescope all my life since, I was 10 years old I know what I am looking at when I look up in the night sky,I know the planets and the speed and brightness of satellites moving across the night sky ) the object caught my eye right away, I believe that this object was large and in space it started making a slow turn to the north and then blinked out, I saw the Phonix lights and it seemed to blink out light those lights itgot brighter and then dimmer and then a little brighter the dimmer and then out. The object was moving slow but it may have been moving fast but just so high about 2 feet at arms lenght for about 5 sec,  I have a very good pair of binoculars I had them in hand with in 15 sec after the light blinked out( thats just what it looked like blinkeding out) I scanned the sky for 5 min and never saw anything I was looking for navigation lights thinking that it could have been a very high flying aircraft, I saw nothing, I believe that this was strange, I do not have the math skills to figure out how high an object would have to be to reflect light two hr's after sunset, it was almost 80` in the sky almost over head. My impression was that this object was large and in space. I was not going to report this matter but after listening to you on Jeffs show I think on 4/16/00 I decided to, I had not thought that it was any big deal because of the lack of details but I had noted the date and the time in my head because of the strangness of and after listening to you the other night and you saying that it's just a story unless you report it and log it< i have decided to do so. Respectfully ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12663.html](http://www.nuforc.org/webreports/reports/012/S12663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alhambra (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was walking my dog in alhambra on 3/29/20. looked up around where orions belt is located and to the left flying down towards the middle of the belt were a set of 3 lights flying close together accompanied by 2 sing lights almost flying in unison. either it was one really large craft or a group of 2 small ufos flying along with bigger ones. drifted off and disappeared as it went into orions belt. not sure what it was or if it was satelites but ive never seen what ive seen before. Im officially now looking up more for UFOS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154655.html](http://www.nuforc.org/webreports/reports/154/S154655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
