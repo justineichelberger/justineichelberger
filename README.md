@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:27 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lawley (AL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>Unknown lights filmed descending into wooded areaMy sister and I spotted a group of lights descending into the wooded area behind our house.  We grabbed the camcorder and started filming.  We were looking almost directly west, through the tops of the trees.  We could see the lights clearly and having no idea what it was were looking at, zoomed in on one of them. We followed it down, until we lost sight of it in the heavier underbrush near the ground.  It took about 16 minutes from the time we started filming until we lost it.  We waited around for over an hour, to see if it would come back up.  We never saw it leave. Some background - we were filming it from the second floor deck. The camera used was a JVC GR-D270u, mounted on a tripod.  We started filming at 7:15pm and stopped approximately 16 minutes later when we could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52179.html](http://www.nuforc.org/webreports/reports/052/S52179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>disk-shaped aircraft with colorful lights seen over Disney's Hollywood Studios and Epot .A lighted disk-shaped object was seen over Walt Disney World.  It was sighted over Disney's Hollywood Studios and Epcot.  It hovered at about 300 feet high.  Colored lights surrounded it.  It turned on its side, and then zoomed off into the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62585.html](http://www.nuforc.org/webreports/reports/062/S62585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
