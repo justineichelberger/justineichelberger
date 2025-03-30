@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:20 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>A object next to tje moonI was coming back from the store that night. I look at the moon to see if it is full that night. It was but something was beside the moon just sitting there. I look at it to see if it was a plane or maybe a star. But it just did not look right.  My phone was on the charger in the house. I ran in the house and when I came out, it was there same spot.  I took many pictures and a video. I was amazed but I know this was not right.  The next night I look up again and nothing was there. I put the pictures on Facebook.  Someone said to me it was not a star because it is on the wrong side, and it the star would be visible in Oct.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88324.html](http://www.nuforc.org/webreports/reports/088/S88324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rockville (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was taking a break and laying on the sidewalk in front of our office looking straight up into the sky. The weather was clear, visibility unlimited. A friend was with me. A balloon had floated by us going north. Something caught my eye slightly to my south.It was cigar shaped, very dark color, silent, & no vapor trail. The size was about ½ inch between my fingers at arms length. I have no way to estimate actual size and altitude. There were two civilian jets in the sky at high altitude in the area.It traveled on a straight trajectory and covered maybe 10 degrees of arc in 10 or 15 seconds, heading due east. Then it vanished as we were observing it, literally. It was almost directly overhead, slightly to the south of my position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56012.html](http://www.nuforc.org/webreports/reports/056/S56012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
