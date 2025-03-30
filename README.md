@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Martinez Lake (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The friends I was with decided to take their boat up river 10 to 15 miles and go swimming in one of the inlets. While we were out there a couple of the people were looking up at the sky. They were pointing and saying "look up there" after focusing my eyes i saw 5 round white objects floating around. At first it looked like thay had formed a circle and moving around it, then they proceeded to float out into a line. I then lost track of them.((NUFORC Note:  Please see reports for the incident from other witnesses in the same group .  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22463.html](http://www.nuforc.org/webreports/reports/022/S22463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While orb falling before disappearing into thin airOn the morning of 3/30 at 245 am I’m sitting on my deck once again staring into the sky and out of nowhere a very very bright white orb appears out of nowhere traveling slightly vertical and very quickly started falling and then disappeared into thin air as quickly as it appeared this was the same thing I saw 2 nights previously except this time wasn’t nearly as hazy but only lasted for probably less than 2 seconds no sound was heard no trail seen again low 8-10 thousand feet is my best guess</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162528.html](http://www.nuforc.org/webreports/reports/162/S162528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
