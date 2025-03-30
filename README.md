@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:27 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While orb falling before disappearing into thin airOn the morning of 3/30 at 245 am I’m sitting on my deck once again staring into the sky and out of nowhere a very very bright white orb appears out of nowhere traveling slightly vertical and very quickly started falling and then disappeared into thin air as quickly as it appeared this was the same thing I saw 2 nights previously except this time wasn’t nearly as hazy but only lasted for probably less than 2 seconds no sound was heard no trail seen again low 8-10 thousand feet is my best guess</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162528.html](http://www.nuforc.org/webreports/reports/162/S162528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single suspended sphere seperates into multiple pulsing spheres and departs rapidly after warping back to oneI  was driving south bound on the overpass near Gila Bend, when I noticed an object hovering on the right hand side of my car, I was immediately drawn to the object, due to its unfamiliarity.  I took direct notice of the stars and realized it was not a planet, star, or satellite.  The object stood stationary as I pulled off to the side of the road to analyze it further.   There were no buildings, lamp posts or any object near the sphere, which was a bright orange/red in coloring.  I had my camera near me, for earlier I had taken some landscape photos while on my drive.  I lifted my camera to the object and the object began to move, I captured a movement picture of the object, I could not quite get a clear picture so I switched my camera to video mode.  The object then began moving drastically as if trying to avoid being captured on film.  The object darts drastically in my video, and the camera starts making noises with every movement of the object, and an interaction between the two is obvious, which is also captured on the video, you can also see rings in the object with an almost nucleus center. I then lowered my camera to grab another photo and while switching over the camera the object separated into multiple spheres now white in color, the spheres were in two lines, the spheres from right to left glowed and pulsed out light with greater intensity one at a time, when the the last sphere pulsed with light the spheres joined from right to left and formed back into one to disappear at a phenomenal speed. When zooming in on the photo of the object multiples of colors can be viewed.Like I mentioned before, I have video footage of what I have described but I'm not to positive of how to send video via internet.If somebody could  get back to me and explain how to do so, I'd be happy to send over the footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69551.html](http://www.nuforc.org/webreports/reports/069/S69551.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
