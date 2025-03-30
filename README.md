@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighted over Downtown San Diego.As I was about to interchange from State Route 94 to Interstate 5, I saw a stationary black aircraft in the sky.  The car was moving quickly, so I didn’t have much time to look at the detail of the aircraft. When I was on the interchange I could see that the aircraft had a triangular shape to it that was pointed downward.  It came out of view once I got on Interstate 5 and it briefly came back into view as the freeway was curving.  I didn’t see it again after the curve.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96839.html](http://www.nuforc.org/webreports/reports/096/S96839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Disks spinning over markland dispersing glowing balls.I was driving down markland, by markland mall and 31 when I noticed a shining circular disk in the sky, pulled over to make sure and just as I did that, it started spinning faster and two other disks came out and formed a triangular shape, while continuing to spin... They dispersed millions of 'ball' like things which were glowing, then disks flew off very quickly and the glowing balls vanished, I'm still very shocked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108229.html](http://www.nuforc.org/webreports/reports/108/S108229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
