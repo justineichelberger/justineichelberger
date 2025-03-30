@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Brighton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white starlike object travelling at speed west to east no soundi saw a starlike object moving from the west to the east at approximately 21:05 pm .it was travelling in a perfectly straight line at speed and there was no sound whatsoever (sattelite?)((NUFORC Note:  We observe that the International Space Station passed just south of the UK, traveling from west to east, at 20:52-22:58 hrs. on this date.  For ground track details, please see the following page at <www.Heavens-Above.com>:  http://www.heavens-above.com/gtrack.asp?date=37710.8305310791&lat=50.853&lng=-0.927&alt=8&loc=New+Brighton&TZ=GMT&satid=25544We are not certain that the witness observed the ISS, but it looks to us to be a strong possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28266.html](http://www.nuforc.org/webreports/reports/028/S28266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bellows Falls (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A star-like object appears close to the sunI was sitting on my porch (second floor) watching the sunrise and drinking tea. There were no clouds in the sky and it was about 35-40 degrees F. The sun had been above the hills for maybe an hour when I looked up from my cup of tea and saw a bright white "star" below and a little to the right of the sun (about 1 inch below the sun from my perspective). It must have been very bright indeed because it was  close to the sun and I was wearing sunglasses, and yet, it was still very visible. It was not moving. After 1.5 - 2 seconds the light faded quickly(it didn't just "Blink" off, but it still faded very fast).At first I thought it might be a passenger jet that was reflecting the sunlight, but after it disappeared I saw no jet or airplane, there was no white trail, nor was there any sound.About 2 seconds after the first light faded another light appeared (it sort of "faded in" instead of out) farther to the right of the first position. From my perspective the two object's positions were roughly 2 inches apart in the sky. The second light was just as bright as the first, at the same distance above the horizon, and it was also motionless. It lasted around 1 second, and then faded just like the first one.Again I looked for any sign of an aircraft but there were none.I've lived in this apartment for almost three years, and I sit on the porch with my tea almost every day (except during the winter) and I have never seen anything like this before.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  Since she submitted the report on the date of the sighting, we do not understand her apparent confusion over the date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43241.html](http://www.nuforc.org/webreports/reports/043/S43241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
