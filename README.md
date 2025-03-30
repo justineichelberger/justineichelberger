@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>disk-shaped aircraft with colorful lights seen over Disney's Hollywood Studios and Epot .A lighted disk-shaped object was seen over Walt Disney World.  It was sighted over Disney's Hollywood Studios and Epcot.  It hovered at about 300 feet high.  Colored lights surrounded it.  It turned on its side, and then zoomed off into the sky.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62585.html](http://www.nuforc.org/webreports/reports/062/S62585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>A object next to tje moonI was coming back from the store that night. I look at the moon to see if it is full that night. It was but something was beside the moon just sitting there. I look at it to see if it was a plane or maybe a star. But it just did not look right.  My phone was on the charger in the house. I ran in the house and when I came out, it was there same spot.  I took many pictures and a video. I was amazed but I know this was not right.  The next night I look up again and nothing was there. I put the pictures on Facebook.  Someone said to me it was not a star because it is on the wrong side, and it the star would be visible in Oct.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88324.html](http://www.nuforc.org/webreports/reports/088/S88324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
