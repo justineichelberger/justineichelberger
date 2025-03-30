@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While orb falling before disappearing into thin airOn the morning of 3/30 at 245 am I’m sitting on my deck once again staring into the sky and out of nowhere a very very bright white orb appears out of nowhere traveling slightly vertical and very quickly started falling and then disappeared into thin air as quickly as it appeared this was the same thing I saw 2 nights previously except this time wasn’t nearly as hazy but only lasted for probably less than 2 seconds no sound was heard no trail seen again low 8-10 thousand feet is my best guess</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162528.html](http://www.nuforc.org/webreports/reports/162/S162528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wheeling (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two lights, in close proximity (approximately 3-4 degrees apart, very bright (brighter than venus) and without flicker, in the NNE. . .At approximately 9:00PM, went outside, and noticed two lights, in close proximity (approximately 3-4 degrees apart, very bright (brighter than venus) and without flicker, in the NNE sky, about 30-40 degrees above the horizon.  I would have initially dismissed them as stars, except their proximity, extreme brightness, and lack of flicker were notably out of place for what I am accustomed to see in that direction of the sky - which caught my attention enough to notice that they were slowly moving N / NNE.  Having seen the international space station traverse the night sky at an astronomy event once, I would suggest these were as bright and similar in style, except there were two of them and much slower moving.  I went inside to get my fiance to invite her to share in this unusual event, and was gone for about 10 seconds.  When I returned, they were gone.  I do not necessarily think it was a UFO - could have possibly been a satellite or something like that.  Hoping to corroborate other reports?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56020.html](http://www.nuforc.org/webreports/reports/056/S56020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
