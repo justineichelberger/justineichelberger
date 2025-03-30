@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Rockford (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Single,quiet ,bright, non-blinking, spherical light that moved east by south east and had some zig zag movementsThe object appeared in the east, moving east by south east.  The object was a single bright round white light.  The object had no bliking lights like an aircraft would.  The object/light was too big to be a light from from an aircraft.  There was no noise, the object was close enough to be heard if it was an aircraft.The object was not moving very fast.  The object had speed, but not like a shooting star, satelite or a meteor.The object made some short zig zag movements that were too fast to be made by a normal aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69457.html](http://www.nuforc.org/webreports/reports/069/S69457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Brighton (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white starlike object travelling at speed west to east no soundi saw a starlike object moving from the west to the east at approximately 21:05 pm .it was travelling in a perfectly straight line at speed and there was no sound whatsoever (sattelite?)((NUFORC Note:  We observe that the International Space Station passed just south of the UK, traveling from west to east, at 20:52-22:58 hrs. on this date.  For ground track details, please see the following page at <www.Heavens-Above.com>:  http://www.heavens-above.com/gtrack.asp?date=37710.8305310791&lat=50.853&lng=-0.927&alt=8&loc=New+Brighton&TZ=GMT&satid=25544We are not certain that the witness observed the ISS, but it looks to us to be a strong possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28266.html](http://www.nuforc.org/webreports/reports/028/S28266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
