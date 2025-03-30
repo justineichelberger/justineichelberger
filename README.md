@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 29 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Baltimore (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UNBELIEVABLE!Extremly bright light hovering with a distinct red laser for about 1 min.  Then red laser disappeared and the brightness of the craft dimmed and then brightening continously.  Was traveling at high speeds faster than any helicopter or airplane I ever saw.  Then vanished in thin air!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80682.html](http://www.nuforc.org/webreports/reports/080/S80682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Glen Rock (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular UFO 300 ft, slow moving not linear, just above treesI drove home and my son said he saw a UFO.  He said it was triangular with lights on the points and center.  His account was that it was hovering then went up quickly and flew over him.I dismissed it as youthful imagination, however, I also saw the UFO while driving down rock road.It was over the trees, rotating very slowly and following a non-linear path, I tried to get a clear view of it, however, it was further away by the time I did.  I estimate the it was about 200 feet above the trees and about 200-300 wide.  It was not a dronex not a blimp, not a helicopter or plane.  It moved too slowly and meandered.  I don't know what it was.  It had lights on the 3 points which is what gave away its shape and size.I was unable to take photos, unfortunately.  I do not wish to be contacted.One more detail, about 10 days earlier, my sons denied said they saw the same UFO.  I was not present.  My wife thought it was odd, but did not make much of it.We have not seen it since.((NUFORC Note:  We wonder whether the witness might have meant to indicate a date of 04/30/2019.  We will e-mail him to inquire as to whether the date above is correct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145978.html](http://www.nuforc.org/webreports/reports/145/S145978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [285](http://www.nuforc.org/webreports/reports/162/S162542.html)
-- [284](http://www.nuforc.org/webreports/reports/162/S162526.html)
-- [283](http://www.nuforc.org/webreports/reports/162/S162537.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162758.html)
-- [281](http://www.nuforc.org/webreports/reports/162/S162763.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
