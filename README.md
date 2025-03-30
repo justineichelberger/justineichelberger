@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Classical UFO seen to have 'dropped' from 11 o'clock high--hover in-place--then whisked off to the due NNW. Fort Worth, Tx.Driving north on 831 (Crowley Road)--just crossing the Fort Worth city limits from Crowley, Texas: the sky was light gray with patchy clouds in this area, as to the south, west and east: there was a moderate, steady rain and darkened skies. Temp: 54 F. Wind: 3 mph out of ENE. The rain had stopped at this point in time and in distance of my travel by car, and suddenly: I was 'compelled' to look up to the due NNW (330 degrees) whereupon a 'classical' UFO of a dull, silvery shade of color dropped straight down from 11 o'clock high to 9 o'clock high and loomed in-place for only a few seconds--just long enough for me to see it, then it whisked away in a straight line to the due NNW at incredable speed. There was no 'contrail,' nor 'tail' of smoke/vapor of any sort. The 'UFO' appeared 'exactly' as the image videotaped by me on June 11, 1995, as a 'freeze-frame' can be seen at: http://((URL deleted)).org This was a delightfully, awesome sighting--as I did feel compelled to look up--right at it--then it zipped away . . . I affirm that the above is true and a correct accounting of this stated sighting. ((name deleted.  ((NUFORC Note:  We have spoken with the source on several occasions, and he has at least one video record of something interesting, which he has been kind enough to share with our Center.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17084.html](http://www.nuforc.org/webreports/reports/017/S17084.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While orb falling before disappearing into thin airOn the morning of 3/30 at 245 am I’m sitting on my deck once again staring into the sky and out of nowhere a very very bright white orb appears out of nowhere traveling slightly vertical and very quickly started falling and then disappeared into thin air as quickly as it appeared this was the same thing I saw 2 nights previously except this time wasn’t nearly as hazy but only lasted for probably less than 2 seconds no sound was heard no trail seen again low 8-10 thousand feet is my best guess</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162528.html](http://www.nuforc.org/webreports/reports/162/S162528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
