@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wheeling (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Two lights, in close proximity (approximately 3-4 degrees apart, very bright (brighter than venus) and without flicker, in the NNE. . .At approximately 9:00PM, went outside, and noticed two lights, in close proximity (approximately 3-4 degrees apart, very bright (brighter than venus) and without flicker, in the NNE sky, about 30-40 degrees above the horizon.  I would have initially dismissed them as stars, except their proximity, extreme brightness, and lack of flicker were notably out of place for what I am accustomed to see in that direction of the sky - which caught my attention enough to notice that they were slowly moving N / NNE.  Having seen the international space station traverse the night sky at an astronomy event once, I would suggest these were as bright and similar in style, except there were two of them and much slower moving.  I went inside to get my fiance to invite her to share in this unusual event, and was gone for about 10 seconds.  When I returned, they were gone.  I do not necessarily think it was a UFO - could have possibly been a satellite or something like that.  Hoping to corroborate other reports?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56020.html](http://www.nuforc.org/webreports/reports/056/S56020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighted over Downtown San Diego.As I was about to interchange from State Route 94 to Interstate 5, I saw a stationary black aircraft in the sky.  The car was moving quickly, so I didn’t have much time to look at the detail of the aircraft. When I was on the interchange I could see that the aircraft had a triangular shape to it that was pointed downward.  It came out of view once I got on Interstate 5 and it briefly came back into view as the freeway was curving.  I didn’t see it again after the curve.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96839.html](http://www.nuforc.org/webreports/reports/096/S96839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
