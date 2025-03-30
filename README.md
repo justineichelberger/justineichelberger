@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:09 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:20 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gulf Shores (AL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A friend and myself were sitting on the deck of our rental house on the evening of March 30th, 2019.  Skies were clear at time of incident.  We were having conversation, when out of nowhere, right above the treeline, facing the back of house, a green sphere like object just appeared, and shot down below the tree line.  There was no noise from craft. Distance is unknown, but appeared to have dove into the water.We have thought about this all night, and day.  Nothing makes sense.  It wasnt a firework.  It just appeared.  Couldn't have been a boat, a plane, or balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145427.html](http://www.nuforc.org/webreports/reports/145/S145427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 Circular Objects with Orange Lights Shine Down on Worcester, MassachusettsOn March 30, 2013 at around 1:00AM, I ran outside after hearing my children screaming. They were pointing up at the sky, and when I looked up at the sky I noticed 4 circular objects beaming orange lights off of them.  They were close enough to appear large to us.As they hovered away, they got smaller until they disappeared.  Another one then showed up and disappeared. Just then, 3 more showed up in the sky, making them 8 total. They were all coming from and going towards the same direction.The last three that showed up in the sky formed a triangle, to only then disappear before our eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96830.html](http://www.nuforc.org/webreports/reports/096/S96830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
