@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I'm  a college student at the University of Washington.  I regularly spend nights on the roof looking at stars.  I have taken astronomy classes and this was nothing that I knew how to describe.  As usuall, planes were crossing the sky every 5 minutes or so.  Very regular.   Then, two red lights about the size of a shining star in the night sky began moving across the sky.  Fast, and making sporadic movements that I have only seen performed before by aircrafts.  They appeared near alkade and dubly, and continued there way towards Capella and Perseus where they took and odd turn and flew between the two where they continued into disappearing.  WHAT WAS THAT?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108253.html](http://www.nuforc.org/webreports/reports/108/S108253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large light moving in a pendulum like motionI came outside with a friend that was visiting to smoke a cigarette and noticed what I initially though was a very bright and large star.  After looking closer, I realized no other stars were visible because it was quite overcast with clouds that night.  So I'm looking at it trying to figure out whether it was a plane but it was originally not moving at all, just sort of hovering there.  I called my other friend who was visiting to come outside to see what he thought of it.  After he came outside it started maneuvering back and forth from right to left for around a minute.  After the back in forth motion, it started moving back and forth again but this time descending.  The motion this time was kind of odd.  It almost looked like it was a light on a pendulum being lowered.  This motion lasted for around another minute.  Shortly after the light slowly faded out or went behind a cloud and we saw no more of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126644.html](http://www.nuforc.org/webreports/reports/126/S126644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
