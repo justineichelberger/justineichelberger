@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:20 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two objects in the AM sky over Los Angeles moving together.About 5 AM I was doing my daily workout routine in Griffith Park (above Ferndale). The sky was slightly hazy and the stars were slightly dimmed. I look into the early morning sky and noticed 2 bright objects moving from north to south. The one in front was brighter than the one behind. The object that was behind was slightly staggered to the left of the front object. They were moving fairly quickly. I lost sight of them when they went behind some thicker clouds and trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56047.html](http://www.nuforc.org/webreports/reports/056/S56047.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple (14) object spotted flying equidistant and vanishing in the sky.My wife and I were taking our dogs outside from 2130-2145 on 3/31/2020. I looked up and saw an extremely high altitude object flying a linear flight path from ~240 degrees southwest to 60 degrees NE.  I took note of a commercial aircraft flying substantially lower than the first object I saw, so I know what we saw we not a conventional aircraft.  I pointed out the first object to my wife, who at first though it was an object in orbit.. as we have watched the ISS fly over before.  The object was bright enough to be seen by the naked eye. We were watching it, and it blinked a few times, dimmed, and vanished. There was no cloud coverage at the time, it simply vanished.  One object would not have been that big of a deal.. however, what happened next was certainly a big deal.  My wife and I stood outside and watched 13 more object flying in linear flight paths, from three different origins and end points. I verified the flight paths using a compass on my phone.  The o! bjects were flying equidistant, extremely high, just appeared as orbs of light.  They all flickered, dimmed, and vanished at the same spots in the sky. There may have been more objects, but cloud coverage moved in and blocked our view of the sky. It was astonishing! I hope others saw them too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154717.html](http://www.nuforc.org/webreports/reports/154/S154717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
