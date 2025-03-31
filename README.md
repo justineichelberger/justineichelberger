@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:00 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple (14) object spotted flying equidistant and vanishing in the sky.My wife and I were taking our dogs outside from 2130-2145 on 3/31/2020. I looked up and saw an extremely high altitude object flying a linear flight path from ~240 degrees southwest to 60 degrees NE.  I took note of a commercial aircraft flying substantially lower than the first object I saw, so I know what we saw we not a conventional aircraft.  I pointed out the first object to my wife, who at first though it was an object in orbit.. as we have watched the ISS fly over before.  The object was bright enough to be seen by the naked eye. We were watching it, and it blinked a few times, dimmed, and vanished. There was no cloud coverage at the time, it simply vanished.  One object would not have been that big of a deal.. however, what happened next was certainly a big deal.  My wife and I stood outside and watched 13 more object flying in linear flight paths, from three different origins and end points. I verified the flight paths using a compass on my phone.  The o! bjects were flying equidistant, extremely high, just appeared as orbs of light.  They all flickered, dimmed, and vanished at the same spots in the sky. There may have been more objects, but cloud coverage moved in and blocked our view of the sky. It was astonishing! I hope others saw them too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154717.html](http://www.nuforc.org/webreports/reports/154/S154717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangular object the disk shaped veiwed in bloomington ilfor five to ten min. me and a friend stood out side and seen bright circluler lights going around a trianguler object in the distance over a corn field it was coming towards us it was about as high as the tree tops it got pretty close and it was disked shaped with lights all around it and it seemed to just float through the air then turned around and it just seemed to disappear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80693.html](http://www.nuforc.org/webreports/reports/080/S80693.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
