@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:00 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:34 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bloomington (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangular object the disk shaped veiwed in bloomington ilfor five to ten min. me and a friend stood out side and seen bright circluler lights going around a trianguler object in the distance over a corn field it was coming towards us it was about as high as the tree tops it got pretty close and it was disked shaped with lights all around it and it seemed to just float through the air then turned around and it just seemed to disappear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80693.html](http://www.nuforc.org/webreports/reports/080/S80693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I saw a bright white light approaching west to east that disappeared after a few seconds. This happened 3 times in roughly 10 minutes. I couldn't see a craft and there was no sound. A fourth light I was able to see with binoculars. Looked like satellite</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154769.html](http://www.nuforc.org/webreports/reports/154/S154769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
