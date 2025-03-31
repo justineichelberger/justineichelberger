@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:20 on 30 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Slovakia (in flight)(Slovakia) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I am writing about something quite unusual I saw from a plane back in March 30, &#8206;2014, as I was flying from Bucharest, Romania to Beauvais, France.It was a fine day and  I took some pictures of the landscape below with my Canon camera. Then I closed the camera and put it in my handbag.After a while, I looked out of the plane porthole again and I saw something like a yellowish plastic bag floating in the air at some distance below.  While watching, the shape started to change quickly.  A sort of brown nucleus was just forming at its top.  Then the shape developed a tail like a comet and started to move in the opposite direction of the flight (see my drawing).It was then that I thought of taking a photo of it.  But as the camera was inside the handbag in its case, a few seconds passed until I could press the starting button.  All I could get was the jet trail (underlined in picture 1).At that time, the plane was flying somewhere above Slovakia or Austria.  The approximate spot could be estimated by means of the photos taken before and after the moment (photos 2 and 3).When I downloaded the photo on my PC, I could notice a cluster of lights in the upper right corner. They showed up in other pictures as well (e.g. photo 4).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146282.html](http://www.nuforc.org/webreports/reports/146/S146282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Covington (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple (14) object spotted flying equidistant and vanishing in the sky.My wife and I were taking our dogs outside from 2130-2145 on 3/31/2020. I looked up and saw an extremely high altitude object flying a linear flight path from ~240 degrees southwest to 60 degrees NE.  I took note of a commercial aircraft flying substantially lower than the first object I saw, so I know what we saw we not a conventional aircraft.  I pointed out the first object to my wife, who at first though it was an object in orbit.. as we have watched the ISS fly over before.  The object was bright enough to be seen by the naked eye. We were watching it, and it blinked a few times, dimmed, and vanished. There was no cloud coverage at the time, it simply vanished.  One object would not have been that big of a deal.. however, what happened next was certainly a big deal.  My wife and I stood outside and watched 13 more object flying in linear flight paths, from three different origins and end points. I verified the flight paths using a compass on my phone.  The o! bjects were flying equidistant, extremely high, just appeared as orbs of light.  They all flickered, dimmed, and vanished at the same spots in the sky. There may have been more objects, but cloud coverage moved in and blocked our view of the sky. It was astonishing! I hope others saw them too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154717.html](http://www.nuforc.org/webreports/reports/154/S154717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/162/S162643.html)
-- [270](http://www.nuforc.org/webreports/reports/162/S162641.html)
-- [269](http://www.nuforc.org/webreports/reports/162/S162761.html)
-- [268](http://www.nuforc.org/webreports/reports/162/S162608.html)
-- [267](http://www.nuforc.org/webreports/reports/162/S162538.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
