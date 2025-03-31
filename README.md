@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Dimas (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>UFO over LakeI did not observe the sighting at the time but rather when reviewing the images later that night. I am not sure what is on the image but it looks like it needs closer attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22402.html](http://www.nuforc.org/webreports/reports/022/S22402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO near Air Force Base.On Monday march 31, 2014 in Dayton, Ohio, my wife and I were cooking out in our back yard on a very clear night.  We were both sitting at our table in the back yard when all the sudden a very bright orange light moving very fast with what looked like bluish streaking light coming out of the back of it appeared in plain sight and stopped suddenly.The craft was very close to the ground, I'd say about 500 feet and maybe 5 miles from us.  At first I thought it was a meteor or large shooting star but when it hovered for about three to five minuets I knew I was looking at something out of the ordinary.  We live very close to Wright Patterson Air Force Base so I thought maybe they were doing something like they do, secret, ya know?  But as my wife and I watched it fly away rather slow, I noticed there was no Air traffic in the sky at all.  We took a video of this and watched it twice but, then the video just corrupted itself.  We then noticed Jets taking off from the Air Force Base (two that we seen) as the craft dissipated into the distance going from South West to North.  The Jets we witnessed turned their lights off at what seemed to me to be about 500-1000ft First Jet turned off its lights, then jet #2 did the same.I called 911 to make a report but they did not take me seriously.  I've never believed  in Flying Saucers of believed in UFO sightings but, what my wife and I seen on March 31, 2014, was real.  It was not a fleeting glimpse of something strange.  We seen something very much unexplainable and I think what ever it was, it spooked the Air Force Base by our house!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108286.html](http://www.nuforc.org/webreports/reports/108/S108286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
