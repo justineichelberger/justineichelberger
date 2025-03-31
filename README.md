@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in West Yarmouth (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My friend and I were driving Down route 28 in West Yarmouth about 10:50pm.  Straight ahead of us in the sky we witnessed a bright greenish cored fireball looking object moving slowly in a south, downward direction then suddenly shot straight up in northern direction as very high speed and then disappeared.  The entire sighting lasted between 3-5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118161.html](http://www.nuforc.org/webreports/reports/118/S118161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two objects in the AM sky over Los Angeles moving together.About 5 AM I was doing my daily workout routine in Griffith Park (above Ferndale). The sky was slightly hazy and the stars were slightly dimmed. I look into the early morning sky and noticed 2 bright objects moving from north to south. The one in front was brighter than the one behind. The object that was behind was slightly staggered to the left of the front object. They were moving fairly quickly. I lost sight of them when they went behind some thicker clouds and trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56047.html](http://www.nuforc.org/webreports/reports/056/S56047.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
