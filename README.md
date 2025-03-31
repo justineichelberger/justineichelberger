@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>huge silvery light  flys into atmosphere, then flys overhead in North Hollywood.I was in my hot tub in my backyard watching the dark sky.It was right about 8:10 or 8:15 pm on Wednesday March 31, 2010.I noticed what looked like a dim star or something moving too fast to be an aircraft. I thought maybe I can follow it with my eyes so I looked and sure enough I could see a craft moving at incredible speed. By the size of the airplanes that fly over, I estimate it to be bigger than a house and smaller than a school auditorium. The best way I can describe its flight pattern was a lot like A stunt kite. It moved in from high up almost straight above me from NE to SE but it got bigger doing so.The object then began to move evasively like a stunt kite from East to West looking much bigger as it passed.It was the color of a faint star but as big as a silver dollar at arms length.Which is huge looking in the sky The light eminating from it was lightly visible but visible none the less.(I am stone cold sober always.) As I watched it, I became terrified. I felt something was different about this one. This blurry glowing blob moved at incredible speed.It made no sound. I live a few miles away from the airport but that is some 4 miles to the South from me and all planes land behind me and are much much closer to the ground.This object was straight up 12:00.Flying obviously by something guiding it.Every thing that flies over is a small dot. An airplane. But this was huge.I am a Quality Control Manager Trained by Boeing. I have seen alot of airplanes in my life and this was no earthly known craft to me.I sat there blinking in disbelief at first but after going over all know Planes and copters as well as military craft, I knew that this was extremely odd or off the charts for other worldly craft in comparison.the way it zig zagged,at a high mach speed. (This was not a flying triangle.) It was a much larger indistinct shape.I have seen strange things in the sky before but this time I am going to do something about it by reporting it.Thank you for help.Sincerely, anonymous.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74852.html](http://www.nuforc.org/webreports/reports/074/S74852.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bristol (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Large object hovering in the skyMy spouse and I were traveling home, when we looked up and seen an odd object with lights in the sky.  The object was not moving.  We snapped some pictures and after about 20 minutes it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139394.html](http://www.nuforc.org/webreports/reports/139/S139394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
