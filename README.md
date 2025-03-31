@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:20 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw two small round lights flying together as if they were one and then the started to move slightly apart as they flew,then they stopped dead and did not move for about five seconds and started moving again and flew out of sight.I am a machine operator and am married and have three kids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12507.html](http://www.nuforc.org/webreports/reports/012/S12507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Singapore () reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 round lights fade in and out at certain interval while moving away slowly.Two orange round lights hanging on the sky above buildings.  Fade in and out together in certain interval. Move around the same place, but getting farther till disappear behind a building.  One time before disappear, one of that light move down, away from the other, but soon rejoin again with other light that seems maintain its position around the same height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74834.html](http://www.nuforc.org/webreports/reports/074/S74834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
