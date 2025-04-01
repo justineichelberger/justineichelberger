@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:17 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The caller and her three daughters were outside looking at the comet with their binoculars.  She looked at the Big Dipper, when she noticed an object moving "fast" across the night sky, which "entranced" the four of them. The object had a "rounded triangular" shape to the front of it, and it had "twenty or so" solid, distinct white lights on the leading edge of it.  It was larger than a clenched fist at arm's length, I.e. larger than a full moon.As the object moved rapidly to the south, it just seemed to disappear from sight.  The mother ran around the house to follow it as it moved south, but it was gone from sight before she could get there. They watched the object with binoculars, and all four of them drew its shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02019.html](http://www.nuforc.org/webreports/reports/002/S02019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright colorful Shooting Light.Me and my mother were sitting on our front steps of our house one night, having a ciggarette.  I always look at the sky and was, except i seen these lights blinky and coming close to the house.  It seemed like a plane from far away, but as it started getting over top of the house, it looked like a normal plane, but flying with its nose and tail vertical instead of horizontally like normal.  I waited for it to fly normal and so did my mom.  The weirder thing, was it didnt make ANY sounds while moving like most objects do. It almost seemed like this thing attempted to impersonate a craft we use, and while using it, screwed right up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76941.html](http://www.nuforc.org/webreports/reports/076/S76941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
