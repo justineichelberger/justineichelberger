@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:18:22 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:17 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Negley (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>15 bright round white lights traveling west to eastAppeared one at a time. Came on bright white, circle shaped light, appearing about 1 minute apart. Came across sky from west to east. Started out slow moving then picked up speed and faded out. There were 15 total. Clear sky. We live on a mountain top, in the country so it is quiet with very minimal lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154736.html](http://www.nuforc.org/webreports/reports/154/S154736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>The caller and her three daughters were outside looking at the comet with their binoculars.  She looked at the Big Dipper, when she noticed an object moving "fast" across the night sky, which "entranced" the four of them. The object had a "rounded triangular" shape to the front of it, and it had "twenty or so" solid, distinct white lights on the leading edge of it.  It was larger than a clenched fist at arm's length, I.e. larger than a full moon.As the object moved rapidly to the south, it just seemed to disappear from sight.  The mother ran around the house to follow it as it moved south, but it was gone from sight before she could get there. They watched the object with binoculars, and all four of them drew its shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02019.html](http://www.nuforc.org/webreports/reports/002/S02019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
