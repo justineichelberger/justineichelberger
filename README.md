@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:20 on 31 March 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Yellow, very fast, moved across sky from south to north then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62463.html](http://www.nuforc.org/webreports/reports/062/S62463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Siamese Ponds Wilderness (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Adirondack fishing trip turns into UFO sightingThis is about a trip into the adirondack mountains in northern ny.. This was on our way fishing on opening day of trout season in the spring of 1982. We were driving on rt 28 heading towards siamese ponds wilderness area at 330 am in the morning. Anyone who know the adirondacks knows that typically at 330 am you are lucky to see airplanes, let alone cars. Anyways as i recollect, out of nowhere came this oval shaped disk across this star filled sky, at a rate of speed like no other, this craft covered the sky so fast it was incrediable. We pulled the car over to just watch this bluish light shaped dome go back and forth in front of us, covering hundreds of miles in seconds.Ive never seen anything like it since and either has my friend. We always talk about this when we see each other it was a unique experience. As quickly as thing appereared it was gone in an instance, out of sight so fast it was truly remarkable, and it headed for space. And thats my story as i recollect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55636.html](http://www.nuforc.org/webreports/reports/055/S55636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/162/S162638.html)
-- [249](http://www.nuforc.org/webreports/reports/162/S162757.html)
-- [248](http://www.nuforc.org/webreports/reports/162/S162545.html)
-- [247](http://www.nuforc.org/webreports/reports/162/S162669.html)
-- [246](http://www.nuforc.org/webreports/reports/162/S162543.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
