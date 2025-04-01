@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:30:19 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:18:22 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Facing south east on Telegraph Road, I was walking and as I left a QT gas station, I looked up and saw a glowing sphere shaped object.  It was shing bright blue with a white glow to the back, almost like a propellant or exhaust.  The object was in my view only for a few seconds before it flew off at alarming speeds.  The fastest thing I have ever seen in my lifetime.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145455.html](http://www.nuforc.org/webreports/reports/145/S145455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Negley (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>15 bright round white lights traveling west to eastAppeared one at a time. Came on bright white, circle shaped light, appearing about 1 minute apart. Came across sky from west to east. Started out slow moving then picked up speed and faded out. There were 15 total. Clear sky. We live on a mountain top, in the country so it is quiet with very minimal lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154736.html](http://www.nuforc.org/webreports/reports/154/S154736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
