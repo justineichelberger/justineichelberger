@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:59 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Duncanville (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red orbs going west very fast whistlingaround six o'clock my sister and her boyfriend came into the house saying there were two red objects falling to teh west of duncanville and at first i thought it was an april fool's joke but i went and checked and there they were, two red orbs hurtling towards the horizon at immeasurable speed. they disappeared into the sunset but they made a slight whistling noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35957.html](http://www.nuforc.org/webreports/reports/035/S35957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Metallic sphere flying from south to north, relatively slowly. Seemed to change colors, but I believe it was the sun reflecting off the highly polished surface. Object flew with constant velocity and bearing despite wind. No sound. Original report received by MIG: Missouri Investigators Group www.ufomig.com B.Becker ufomig@yahoo.com  (Witness contact: Nothing much to add except that the witness said the exact location of the observation was around Business Loop 70 and College Blvd., which places it over a well traveled area. Columbia Police and Boone County Sheriff received no other reports. A call to Columbia Regional Airport, yielded nothing.  Personal comment:  I live in Columbia and I have seen a metallic sphere in the sky on two ocassions. BB  )((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32709.html](http://www.nuforc.org/webreports/reports/032/S32709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
