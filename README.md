@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three orange lightsnorthwest of my house i saw 2 red/orange lights and just assumed it as an plane or helio but it was moving so slow i dont think it was either of those. As it moved eastward it passed sum cell phone towers and i could see it was triangle shaped. It slowed to a stop then went like like a bat out of hell south then i couldn't see it anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68408.html](http://www.nuforc.org/webreports/reports/068/S68408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Although NUFORC does have a few UFO sighting reports that suggest UFO's have started fires on rare occasions, our records indicate no UFO activity in this area on this date.  We note that the date indicated is 01AP98, a.k.a. "April Fool's Day."  We hope this report is not intended as a hoax.))Strange Brush fires near Verazanno BridgeI moved to Bay Ridge, Brooklyn in the Spring of 1997 and have since noticed that brush fires are a common occurence on Staten Island near the old fortress.  I have never associated these fires with anything other than dry brush until April of this year.  As we were returning home my fiancee and I noticed a rather large fire that was in the shape of a near perfect rectangle roughly a quarter of a mile high, with a smaller circular fire off to the right of the rectangle.  Standing on Shore Rd. in Brooklyn you could clearly see the red rotating lights from the fire engines on scene but the location must have been a challenge as there is aparently no access to the area, the land on either side of the bridge is a very steep grade that does not allow any vehicle parking much less a fire engine and there is a great disance between the water and the portion of the hill that was on fire. We agreed with two other people wathcing the fire from Shore Rd. that it was peculiar place and time of year for a spontaneous brush fire and that it must have been intentionally set. But by whom? Unless a passenger on a passing ship was able to throw a huge molotov cocktail a distance of approx. 7500 feet it was difficult to imagine how this could have been accomplished.  My fiancee suggested that it may have been set by a ufo during takeoff. Given all that occurred, that sounded more plausible than any other explanation.  I was not aware of the numerous sighting in that particular area of Brooklyn until I read other reports listed in this database. Perhaps this occurrence was related.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08353.html](http://www.nuforc.org/webreports/reports/008/S08353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
