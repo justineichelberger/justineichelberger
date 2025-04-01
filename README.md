@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:32 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:59 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gardena (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately still - still minutes.</sub><blockquote><sub>Many small lights in sky all the time,unsure what.Fire flylike,some dark  some white,move fast.Not everyone can see them.Dont understand why.I have been seeing small lights in the night sky sense the summer of 1997.This is going to sound crazy but they almost seem like they play hide & seek with me,popping out from behind a tree or pole & jumping back behind again. Like they know I'm looking at them. I have tried to show people but most can't see & laugh.Two others have been able to see them. Sometimes there are hundreds of them & other times 1 or 2. I don't know how far away they are.I have seen them following the power lines in my back yard, and also off in the distence & they always look the same, like a tiny dot of light. A lot of times I see them off to the west where  bright lights are lighting the sky. They shoot up & down quickly, and seem to hang around the lights till dawn. They sometimes look like they are following a plain that is flying past following behind it. They hang in the clouds when clouds are in the sky, and when there are no clouds they seem to form a type of cloud around them to hide in. I don't know what it is I have been seeing. I can't fig. it out. I hope you don"t think I'm crazy or making this up. I just want to know what it is that I have been seeing for the past two years. If you have heard of anything like this please let me know what it might be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09463.html](http://www.nuforc.org/webreports/reports/009/S09463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Duncanville (TX) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red orbs going west very fast whistlingaround six o'clock my sister and her boyfriend came into the house saying there were two red objects falling to teh west of duncanville and at first i thought it was an april fool's joke but i went and checked and there they were, two red orbs hurtling towards the horizon at immeasurable speed. they disappeared into the sunset but they made a slight whistling noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35957.html](http://www.nuforc.org/webreports/reports/035/S35957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
