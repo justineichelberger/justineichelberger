@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santee (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately ONGOING - ONGOING minutes.</sub><blockquote><sub>Santee, CA. Lights seen in the sky.Muliple callers to the San Diego County Sheriff's Dept Communications Center regarding a formation of lights seen in the sky over the Santee/Lakeside/Alpine area. There were approximately 4-5 lights, possibly in a row. Some callers indicated it was hovering or moving slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96876.html](http://www.nuforc.org/webreports/reports/096/S96876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Three orange lightsnorthwest of my house i saw 2 red/orange lights and just assumed it as an plane or helio but it was moving so slow i dont think it was either of those. As it moved eastward it passed sum cell phone towers and i could see it was triangle shaped. It slowed to a stop then went like like a bat out of hell south then i couldn't see it anymore</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68408.html](http://www.nuforc.org/webreports/reports/068/S68408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
