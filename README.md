@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:23 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright colorful Shooting Light.Me and my mother were sitting on our front steps of our house one night, having a ciggarette.  I always look at the sky and was, except i seen these lights blinky and coming close to the house.  It seemed like a plane from far away, but as it started getting over top of the house, it looked like a normal plane, but flying with its nose and tail vertical instead of horizontally like normal.  I waited for it to fly normal and so did my mom.  The weirder thing, was it didnt make ANY sounds while moving like most objects do. It almost seemed like this thing attempted to impersonate a craft we use, and while using it, screwed right up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76941.html](http://www.nuforc.org/webreports/reports/076/S76941.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Bishop (south of, Hwy 395) (CA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An object with 3 lights travelled north, then west, then south, making 3 right angle turns. It then met up with a much larger, wing-shaped object of several lights. Together, they sped at hyper speed to the east, disappearing.Red lights on small object and white lights on large. It was dark, so no real outline of a hull could be seen. The observers were just a family of 4 traveling home. 2 adults, 2 kids. None of us has ever forgotten what we saw. The size and speed were way out of the ordinary! We were very "spooked" by the event and drove home to So. Cal. without stopping.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08663.html](http://www.nuforc.org/webreports/reports/008/S08663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
