@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Alice Springs (Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc Shaped Saucer over Alice SpringsI was doing a semester abroad in Australia.  Took a class that had us visit Alice Springs.  Arrived a day early.  Took a bus from a hostel into town.  When I wanted to go home, I sat at a circle waiting for the bus back to the hostel.  Clear day, nothing but blue sky.Happened to be looking up while I was waiting and saw a class silver disc saucer.  First noticed that it was much higher up than standard aircraft and traveling at a constant but noticeably faster speed than normal airplanes.I observed it travel across the sky this way for a good 30 secs.  Then, all of sudden it stopped on a dime in middair for a few seconds and hovered.  It then traveled extremely quickly for a short distance in a different direction before pausing again, this time only for a brief moment, then it took off in a third direction, this time at a rate of insane speed and became blur that left my field of view in a fraction of a second.Watched a TV show years later that pointed out that local Pine Gap facility is known to test disc shaped aircraft in the area and my sighting was likely another confirmation of that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144040.html](http://www.nuforc.org/webreports/reports/144/S144040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>As we were star gazing, this weird triangle formed object with 4 circle lights had flew right over our heads not super far off the ground not making a sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126643.html](http://www.nuforc.org/webreports/reports/126/S126643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
