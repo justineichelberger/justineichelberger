@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:21 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Siamese Ponds Wilderness (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Adirondack fishing trip turns into UFO sightingThis is about a trip into the adirondack mountains in northern ny.. This was on our way fishing on opening day of trout season in the spring of 1982. We were driving on rt 28 heading towards siamese ponds wilderness area at 330 am in the morning. Anyone who know the adirondacks knows that typically at 330 am you are lucky to see airplanes, let alone cars. Anyways as i recollect, out of nowhere came this oval shaped disk across this star filled sky, at a rate of speed like no other, this craft covered the sky so fast it was incrediable. We pulled the car over to just watch this bluish light shaped dome go back and forth in front of us, covering hundreds of miles in seconds.Ive never seen anything like it since and either has my friend. We always talk about this when we see each other it was a unique experience. As quickly as thing appereared it was gone in an instance, out of sight so fast it was truly remarkable, and it headed for space. And thats my story as i recollect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55636.html](http://www.nuforc.org/webreports/reports/055/S55636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange orb looking lights floating across night sky in CaliforniaMy cousins & I were sitting outside when she noticed a few lights in the sky floating across in the same direction.  They looked like orbs just floating across sky but there were so many and they made no noise like that of an aircraft.  They did not blink or have any flashing light  but just seemed to disappear.  They looked like white lights floating.  I have video of it to at a certain time frame a light or something below these lights is seen streaking thru the sky below them.  I can't find anything online as far as anyone else seeing this or an explanation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133479.html](http://www.nuforc.org/webreports/reports/133/S133479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
