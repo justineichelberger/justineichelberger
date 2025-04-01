@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 1 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Niagara-on-the-Lake (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Yellowish orbs over Lake Ontario, often in triangular formationI have read many reports here describing three yellowish lights in the sky about Lake Ontario.  Many times they are seen in a triangular "formation" and sometimes as one object. I have seen these lights on two occasions, and from the vantage point of Niagara-on-the-Lake.  From the rocks at the end of the main street they are evident after sunset, and usually appear in the direction of Missisauga.  One, two or three orbs may be seen, often taking the form of a triangle (one object higher than two others).  They hang in the atmosphere, going nowhere but occasionally growing dim or blinking out.  They have been videotaped and computer-analyzed by members of a Buffalo MUFON group, and are solid objects.  There is a website ("Orbwatch") devoted to them.  They are well worth investigation.  They are NOT airplanes, unless airplanes hover over lakes and emit non-blinking, yellowish light! The objects may be seen at any time of year but are more obvious in spring, summer and fall.  The date of my observation is approximate.  I am certain that many who have posted here are seeing the same objects, and that they have been around for some time. The date of observation posted is approximate.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16719.html](http://www.nuforc.org/webreports/reports/016/S16719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Gardena (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately still - still minutes.</sub><blockquote><sub>Many small lights in sky all the time,unsure what.Fire flylike,some dark  some white,move fast.Not everyone can see them.Dont understand why.I have been seeing small lights in the night sky sense the summer of 1997.This is going to sound crazy but they almost seem like they play hide & seek with me,popping out from behind a tree or pole & jumping back behind again. Like they know I'm looking at them. I have tried to show people but most can't see & laugh.Two others have been able to see them. Sometimes there are hundreds of them & other times 1 or 2. I don't know how far away they are.I have seen them following the power lines in my back yard, and also off in the distence & they always look the same, like a tiny dot of light. A lot of times I see them off to the west where  bright lights are lighting the sky. They shoot up & down quickly, and seem to hang around the lights till dawn. They sometimes look like they are following a plain that is flying past following behind it. They hang in the clouds when clouds are in the sky, and when there are no clouds they seem to form a type of cloud around them to hide in. I don't know what it is I have been seeing. I can't fig. it out. I hope you don"t think I'm crazy or making this up. I just want to know what it is that I have been seeing for the past two years. If you have heard of anything like this please let me know what it might be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09463.html](http://www.nuforc.org/webreports/reports/009/S09463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/163/S163283.html)
-- [436](http://www.nuforc.org/webreports/reports/162/S162614.html)
-- [435](http://www.nuforc.org/webreports/reports/162/S162639.html)
-- [434](http://www.nuforc.org/webreports/reports/162/S162609.html)
-- [433](http://www.nuforc.org/webreports/reports/162/S162642.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
