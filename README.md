@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Springville (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>two orange lights moving very fast and turningI went outside to get a cell phone charger out of my car and looked up at the stars and observed a pair of dim orange/red lights moving very rapidly from east to west.  As they went out of sight they seemed to turn from side to side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80717.html](http://www.nuforc.org/webreports/reports/080/S80717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately still going - still going minutes.</sub><blockquote><sub>I see a zigzagging light, maybe the size of an airship, about over Shoreline, as viewed from Bothell.There is no set pattern, like a message would be on an airship. The lights seem to be different colors but that could just be the refraction of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35963.html](http://www.nuforc.org/webreports/reports/035/S35963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
