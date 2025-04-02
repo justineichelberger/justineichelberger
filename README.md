@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:58 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:21 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MUFON State Dir./TN calls to request information about UFO sightings/explosion over TN on 01/07/95. Investigating incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00394.html](http://www.nuforc.org/webreports/reports/000/S00394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dark Triangle with red lights flying close to ground.  Made abrupt turn.  Made no sound.While working patrol, checking stores after hours, I observed a triangular shaped aircraft operating north to south.  The aircraft made an abrupt left turn and traveled east, which was within 1/4 mile or so from my location.  The aircraft was less than 1000 feet off the ground also.The aircraft was very dark with minimal lighting.  It had three very dimly lit red lights on each corner, in what most would consider a triangle.  The aircraft's lights never blinked, just remained dimly lit.As the aircraft passed in front of me, it made zero sound.  I figured it was a stealth fighter or bomber.  I briefly spoke to a few people from work.  One stated it could have been a drone.I did call the sighting in by phone and it's recorded at our 911 center.  I'm not one to believe in Alien spacecraft ... This made the hair on my neck stand up and I feel it's worth sharing.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99615.html](http://www.nuforc.org/webreports/reports/099/S99615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
