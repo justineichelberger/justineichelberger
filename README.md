@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>looked like satalight's but they were not,,Ok here is what i saw.i am not sure of the date because i am now reporting this and it happend about 1 1/2 months ago. I was walking to meet my friend from her work when i was walking down a dark street with no street light's,i was walking down that street so i can get a clear look at the stars because oregon is usualy cloudy.Anyways i looked up to see three things,one of which was a plane going normal speed,the other two thing were way farther up in the sky moving very fast.It was interesting because the plane was very high and the other objects were way higher but moving way faster.They were both going the same direction keeping the same distance from eachother but flying side by side.I used to watch the sky when i was younger and i saw a lot of satalights,these looked like satalights but you can tell they obviouly were not because satalights do not fly side by side.They also looked like they were in the atmosphere .I watched them go all the way accross the sky untill the were out of sight.I also saw them change course and fly off into the horison. I was looking at them for at least 30 seconds. They were not a jet or anythng like that because jets dont manouver like that and they dont move that fast either.They must have been some kind of new technology.The first feeling i got was that it was some kind of secret government technology.Either that or it was E.T.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17856.html](http://www.nuforc.org/webreports/reports/017/S17856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Haven (east rock area; facing W) (CT) reported seeing craft that fit the description of some 'Cross' over a period of approximately hour+ - hour+ minutes.</sub><blockquote><sub>looking due west from the east rock area on the 2nd floor, one could see a ovalish type group of very bright white lights coming from the ovalish object. that was when looking at it thru binoculars. before using binoculars the light pattern looked liked in a star shape. i got a few photos of it with a very inexpensive digital camera, you can see the lighted object's size as compared to a few stars in the sky. It's much much brighter and much larger than any stars. it was "hoovering" there for well over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88178.html](http://www.nuforc.org/webreports/reports/088/S88178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
