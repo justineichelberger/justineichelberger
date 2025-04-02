@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rogers County (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Orb moving across a telephone easement.Date:  Sunday, April 2, 2017, 9:53 pm Location: 7 miles northeast of Claremore, Oklahoma.  Clearing in a wooded area, closest dwelling 200 yards.  GPS coordinates:  N 36.21.xxx W 095.32.xxx Elev. 6xx Temperature:  54 degrees F  Duration:  9 seconds Captured on video by a game camera.  Video file available, 56.8 mb  The orb is a round spot of light, at first hovering in the upper left area of the frame, then moving toward and under the camera.At  the end of the video, another orb, or maybe the same one, appears to shoot across the upper right corner of the frame.The only thing unusual about the location is that it is on an easement for an interstate communications cable.In 2002, AT&T removed the old lead-shielded wire cable, and replaced it with six 2" dia. pvc  conduits for fiber optic cables.There are no electromagnetic fields anywhere around the easement.This is the only encounter I have had, in over 15 years of capturing video of animals on my property.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133450.html](http://www.nuforc.org/webreports/reports/133/S133450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately photo deep space - photo deep space minutes.</sub><blockquote><sub>Deep Space Hubble photo above  Aries faint star large cigar craft large as a small moon cordanceWhile searching deep space nights sky on Google sky just above Aries.A faint distant star 2h 48m 29.os  29degrees 17 2.2" is a star with a white center then orange and a blue haze outer just to the left of the star at about 10:00 Or 9:30 you will be amazed at the cigar shaped craft.You can see its a structure is made bye some one [UFO] ???  I'm sure its nothing we have out in deep space the size of a small moon or larger.Go to WWW.Google.com/Sky/ click Constalations go to Aries 2nd bottom frame.Aries pops up center frame blue dot a faint star just above it their is only two go too the brights of the two @ the above cordance. Let me know what you think. WWW.Google.com/sky/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88945.html](http://www.nuforc.org/webreports/reports/088/S88945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
