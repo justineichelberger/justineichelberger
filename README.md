@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately photo deep space - photo deep space minutes.</sub><blockquote><sub>Deep Space Hubble photo above  Aries faint star large cigar craft large as a small moon cordanceWhile searching deep space nights sky on Google sky just above Aries.A faint distant star 2h 48m 29.os  29degrees 17 2.2" is a star with a white center then orange and a blue haze outer just to the left of the star at about 10:00 Or 9:30 you will be amazed at the cigar shaped craft.You can see its a structure is made bye some one [UFO] ???  I'm sure its nothing we have out in deep space the size of a small moon or larger.Go to WWW.Google.com/Sky/ click Constalations go to Aries 2nd bottom frame.Aries pops up center frame blue dot a faint star just above it their is only two go too the brights of the two @ the above cordance. Let me know what you think. WWW.Google.com/sky/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88945.html](http://www.nuforc.org/webreports/reports/088/S88945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped object hovering in sky colors red, white, green and blue with a tail.  10 minutes hovered before moving slowlyOn patio of house, very clear night counted 6 stars in the sky one object in the sky.  Triangle shaped object with a tail turning various colors, red, white, blue and green.  Object just hovered in the sky for around 10 minutes and then slowly moved westbound towards the mountains.  It was not a helicopter or plane these objects cannot stand still in the air..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126696.html](http://www.nuforc.org/webreports/reports/126/S126696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
