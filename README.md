@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New Haven (east rock area; facing W) (CT) reported seeing craft that fit the description of some 'Cross' over a period of approximately hour+ - hour+ minutes.</sub><blockquote><sub>looking due west from the east rock area on the 2nd floor, one could see a ovalish type group of very bright white lights coming from the ovalish object. that was when looking at it thru binoculars. before using binoculars the light pattern looked liked in a star shape. i got a few photos of it with a very inexpensive digital camera, you can see the lighted object's size as compared to a few stars in the sky. It's much much brighter and much larger than any stars. it was "hoovering" there for well over an hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88178.html](http://www.nuforc.org/webreports/reports/088/S88178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circular multi-colored flashing light object flies erratically south to north near Sedona AZI went to bed about 12:30 am Saturday,  April 2, 2011, and was looking at the stars through our bedroom’s large plate glass window.  I that noticed one "star" seemed to be flashing and moving erratically.  I got up and got binoculars and viewed the object which appeared to be red, green, and white lights flashing in a circular pattern (unlike any aircraft I’m familiar with).  It was moving erratically from south to north, rising and dipping, and zigzagging left and right.  It seemed to be relatively high and briefly disappeared behind a mountain, only to reappear and ascend even higher in the sky as it moved farther north.  I observed it for about an hour and it was still very high in the sky when I stopped observing it.Regarding myself as the observer, I have never had another sighting. I have a post-graduate degree and am over 50 years of age.((NUFORC Note:  Witness elects to remain semi-anonymous; provides no contact information.  However, we believe that the report may have been submitted by a person who telephoned our Hotline.  I suspect that the witness was looking at either Sirius or Arcturus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80722.html](http://www.nuforc.org/webreports/reports/080/S80722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
