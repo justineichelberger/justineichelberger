@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Norcross (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Triangular object glowing, pulsating and slightly moving up and down.Okay so my cell phone goes off at 6am 4/2/2014I  look out my window and see this triangular shaped object glowing and pulsating and moving slightly up and down.  It hovered about an hour.  I decided to take a pic around 7:00am or so an as it turned daylight it was still there and I took the photo with my camera phone.  If you blow the pic up you can actually see something a right light with a light trail.  It actually moved slowly out of sight and that was about 7:24am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108271.html](http://www.nuforc.org/webreports/reports/108/S108271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Man standing outside house witnesses "star" moving W to E in N sky. "Star" suddenly "turns 90 deg., goes straight up out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01391.html](http://www.nuforc.org/webreports/reports/001/S01391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
