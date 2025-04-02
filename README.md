@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue dot in sky ascends and descends quickly with a plane flying by a reference.Looking SE from my 3rd floor apartment patio, saw what I thought at first glance was the police helicopter circling something but when I looked back it had done this super fast circle and immediately dropped behind the tree/building line of sight.  Seconds later, it reappeared and achieved a very high altitude in seconds.  I recorded it on my phone and will be sending that footage to you guys as well. In the video, it appears as a blue dot and seems to hover for a bit then starts descending again as a passenger plane approaches. It lowers below the aircraft, hovers for a second, then continues its descent until out of view again. Shortly after a helicopter flew over the area as well as other lights that looked to be small aircraft or helicopters in the distance for about 10 minutes afterwards.I understand this could just be someone playing with a drone or whatever, but the altitude it appears to achieve and the speed it occurs at is something I've honestly never seen before.  Never seen a "drone" or anything like this flying in this area of Mesa/East Valley in my whole life.  Like I said, could possibly be explained or "debunked" but I felt strong enough about it to let you guys take a look.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133411.html](http://www.nuforc.org/webreports/reports/133/S133411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in West Paris (ME) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>As I was watching deer feed in the field behind my house a small dark sphere of no more than 16" diameter passed quickly thru my yard.As I was watching deer feed in the field behind my house, a small dark sphere of no more than 16" diameter passed quickly thru my yard at an altitude of no more than 3'.  I did catch the object by accident on a cell camera.  It appears to be sliding along on brilliant somewhat flat bright reddish orange glow, as best as I can describe it.  I have noticed the color of this objects glow more than once in the woods behind my house, and became cold just after it passsed my back window, only 30' feet away.((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be quite sincere and sober-minded.  We suspect that he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139344.html](http://www.nuforc.org/webreports/reports/139/S139344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
