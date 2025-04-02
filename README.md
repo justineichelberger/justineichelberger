@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately about a 1 min - about a 1 min minutes.</sub><blockquote><sub>Small black sphere dancing in Virgina Beach skyI was sitting in my backyard reading a book being that if was a very beautiful day.  I noticed a swarm of buzzards or some type of bird of prey so I watched the circle overhead.  I then noticed a small black sphere moving across the sky at about the same speed an aircraft would fly.  At first I thought it was some sort of military craft, which is not unusual around Virginia Beach.  But then the craft stopped abruptly, backtracked dropped slightly in altitude and then continued in the direction it was originally heading.  It continued behind a cloud and then reappeared even slightly lower than it was before.  It then paused, hovered for a moment and then shot off amazingly quick up and to the left, back into the cloud.   I stared at the sky for a few more min, hoping to see  it again, but I didn’t.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56151.html](http://www.nuforc.org/webreports/reports/056/S56151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately bout two blocks at 35to 4 - bout two blocks at 35to 4 minutes.</sub><blockquote><sub>Headed north bound on Big Spring Street.35 to 40mph. Broad daylight no clouds in sky.After the object faded away my watch read 2:10pm.Really bright silver object.Was visible for a couple of blocks then seemed to retract and fade away.Headed north bound on Big Spring Street.35 to 40mph. Broad daylight no clouds in sky. After the object faded away my watch read 2:10pm.Really bright silver object.Was visible for a couple of blocks then seemed to retract and fade away. As hard as I tried to make out the craft I could not but that it was extremely bright metallic and it seemed to retract into the atmosphere. I was trying to convince my self that it was a plane but in truth I could not make out that it was a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03428.html](http://www.nuforc.org/webreports/reports/003/S03428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
