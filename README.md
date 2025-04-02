@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Tillsonburg (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Had just gotten in my hottub, when I saw movement above me.  2, in tandem,  either black or clear (as I only saw the dots of the lights, not flashing) went overhead moving SE to NW at a very high speed.  Silent.  Not very high up.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133403.html](http://www.nuforc.org/webreports/reports/133/S133403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>looked like satalight's but they were not,,Ok here is what i saw.i am not sure of the date because i am now reporting this and it happend about 1 1/2 months ago. I was walking to meet my friend from her work when i was walking down a dark street with no street light's,i was walking down that street so i can get a clear look at the stars because oregon is usualy cloudy.Anyways i looked up to see three things,one of which was a plane going normal speed,the other two thing were way farther up in the sky moving very fast.It was interesting because the plane was very high and the other objects were way higher but moving way faster.They were both going the same direction keeping the same distance from eachother but flying side by side.I used to watch the sky when i was younger and i saw a lot of satalights,these looked like satalights but you can tell they obviouly were not because satalights do not fly side by side.They also looked like they were in the atmosphere .I watched them go all the way accross the sky untill the were out of sight.I also saw them change course and fly off into the horison. I was looking at them for at least 30 seconds. They were not a jet or anythng like that because jets dont manouver like that and they dont move that fast either.They must have been some kind of new technology.The first feeling i got was that it was some kind of secret government technology.Either that or it was E.T.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17856.html](http://www.nuforc.org/webreports/reports/017/S17856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
