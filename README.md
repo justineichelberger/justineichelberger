@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:21 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:51 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chapel Hill (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dark Triangle with red lights flying close to ground.  Made abrupt turn.  Made no sound.While working patrol, checking stores after hours, I observed a triangular shaped aircraft operating north to south.  The aircraft made an abrupt left turn and traveled east, which was within 1/4 mile or so from my location.  The aircraft was less than 1000 feet off the ground also.The aircraft was very dark with minimal lighting.  It had three very dimly lit red lights on each corner, in what most would consider a triangle.  The aircraft's lights never blinked, just remained dimly lit.As the aircraft passed in front of me, it made zero sound.  I figured it was a stealth fighter or bomber.  I briefly spoke to a few people from work.  One stated it could have been a drone.I did call the sighting in by phone and it's recorded at our 911 center.  I'm not one to believe in Alien spacecraft ... This made the hair on my neck stand up and I feel it's worth sharing.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99615.html](http://www.nuforc.org/webreports/reports/099/S99615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Auburn (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright, fiery orange orb changing to white, green, different shapes and formations. Hovering just above garage and weaving in and out tThis is the first of 3 sightings of craft outside my bedroom window in 2021. Two of the sightings occurred in Auburn, MA right on the Worcester, MA border. . I have photos and video footage of all 3 separate sightings. I will submit all craft sightings on separate reports. The details for this report: I was home alone (all 3 of my craft sightings have occurred on nights I'm not with my husband which is rare, only when one of us traveling for work or to see family/friends) my husband was in South Carolina on a golf trip. I woke up at random at about 2am and noticed immediately a large orange, hovering light that was orb/sphere like floating just above our detached garage. The orange orb was larger than a basketball, I'd compare it to a large yoga ball, and was hovering slowly from left to right, moving through the trees but not higher or lower and not going horizontally very far either. I'd compare the way it moved to a large beach ball or blob of orange lava floating & bobbing in the open ocean, it moved ever so slightly up & down as it moved horizontally. I then witnessed many other kinds of strange lights, some joined in formation some seemed to operate independently but near by. There was a fairly loud but low humming, vibration like noise the entire encounter that can! be heard in the videos I took. Unlike my other two sightings since this one, I had a overwhelming sense of fear, doom & dread the entire time I watched these lights and had a odd sense that I should fear it & becareful "it" didn't see me or know I was awake filming it on my phone. Something about it gave me the impression it was "scanning" the surroundings though it's movements didn't appear purposeful or zoned into any one area. I will send video and photos via email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164730.html](http://www.nuforc.org/webreports/reports/164/S164730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
