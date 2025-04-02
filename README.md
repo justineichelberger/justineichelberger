@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 2 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Midland (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately bout two blocks at 35to 4 - bout two blocks at 35to 4 minutes.</sub><blockquote><sub>Headed north bound on Big Spring Street.35 to 40mph. Broad daylight no clouds in sky.After the object faded away my watch read 2:10pm.Really bright silver object.Was visible for a couple of blocks then seemed to retract and fade away.Headed north bound on Big Spring Street.35 to 40mph. Broad daylight no clouds in sky. After the object faded away my watch read 2:10pm.Really bright silver object.Was visible for a couple of blocks then seemed to retract and fade away. As hard as I tried to make out the craft I could not but that it was extremely bright metallic and it seemed to retract into the atmosphere. I was trying to convince my self that it was a plane but in truth I could not make out that it was a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03428.html](http://www.nuforc.org/webreports/reports/003/S03428.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wasilla (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>At first, 2 smaller glowing red/orange balls of light, floating across the sky, going up down bouncing around, but still moving forward together, and behind followed a group of about 10-12 larger orbs.  Moved across at a steady speed into the dark woods where they kind've hovered around in one area.  I got spooked & ran inside. The  weather was warm, about 46 degrees Fahrenheit, & cloudy skies.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126669.html](http://www.nuforc.org/webreports/reports/126/S126669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [258](http://www.nuforc.org/webreports/reports/162/S162695.html)
-- [257](http://www.nuforc.org/webreports/reports/162/S162636.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162634.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162613.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162635.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
