@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Teardrop shaped object (green base and trailing white light) drops from the night sky near Columbia Maryland.While returning from an evening out in Frederick, Maryland; at 2:06 AM, traveling on MD 32 East between Exit 18 and Exit 17, directly in our line of sight about 2-4 miles ahead of our vehicle.  We saw a single large teardrop object that was luminous green at the base and white light trailing it.  It seemed to drop out of the sky and disappear as it would have hit the ground.  There was no secondary flash or sound associated with this event.  MD 32 South turns to the right from where we saw the object drop and we looked at the area to see if there was any activity in the area, there was none.  There was no other traffic in the area when we saw the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126742.html](http://www.nuforc.org/webreports/reports/126/S126742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Pulsating light traveling steady with abrupt change of course, and accelerating outward suddenlyThe event was on april 3, 2010.  About 12 pm.My grandson and I were staying in my sailboat, located in Punta Gorda Fl.  I had him take the front bunk in the catamaran which has an opening hatch over the bunk.  He commented to me, that he could clearly see the stars as he lay there and we then we said good night.Shortly after this, he claims he was watching a large reddish, pulsating object progressing northward and wondered if it might be a satellite, but thought is was too big.  He claimed it to be as big as a silver dollar if held at arms length.About this time, the pulsating light took a sudden turn downward and made a figure S and then shot upward very, quickly upward and out of sight. The event only lasted a few minutes.  I was told the story when we got up in the morning.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74894.html](http://www.nuforc.org/webreports/reports/074/S74894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
