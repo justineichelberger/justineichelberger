@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glenview (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.8833333333333333 - 1.8833333333333333 minutes.</sub><blockquote><sub>2 strange light objects move across the north suburban evening sky presumably undetected, . . . or not?  Captured on video! !When taking trash out, I looked up and observed the 2 lights moving through the sky, no indication of them emitting any sound.  Caught them both on cell phone video camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154780.html](http://www.nuforc.org/webreports/reports/154/S154780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pine Bush (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Rapidly descending craft with large red and white lights entered residential area at very low altitudeDriving towards Burlingham Rd coming home from work at 8:15 or so in Pine Bush, NY, April 3, 2014. Saw a large series of five lights.  White small, large red, white small, large red, white small, arranged like they would be on a plane.  Except they were much larger, all on one craft, not separate lights.  It was about a mile or less up and it was descending rapidly.  I thought it was a plane about to crash, except I kept telling myself planes don’t have lights so big they touch each other.It got to a few hundred feet and made an abrupt turn to the right and disappeared behind a house.  I came to the end of the road and made a left turn, went a few feet and looked over my right shoulder to see where it was.  It was about 100’ high or less, in the backyard of a house right where I made the turn.  The lights were still visible in the same configuration.  This should have been the back of the craft, yet it looked the same. I had a brief thought that it was some type of radio controlled toy, but it was too large approx 20’ across or larger, and the lights were so big that they touched, so 5 lights covered a span of 20’ or so.  I drove home resisting the urge to follow it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108324.html](http://www.nuforc.org/webreports/reports/108/S108324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
