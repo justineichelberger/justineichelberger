@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:18 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Flash of lightsWalking dog, seen a flash of 3 bright lights then another flash, the flash was headed north. Flash and lights were blue white in hue above me.  Lasted like 2  Seconds could of been something entering atmosphere, debris?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154795.html](http://www.nuforc.org/webreports/reports/154/S154795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Palatine (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orbs of brilliant, pulsing white light & indistinct shape seen in a diagonal formation on the horizon in the SE skySunday, 04/03/2016, approximately 10:20PM:  I opened the back door to let my dog out, and was greeted by an incredible sight.  Three bright lights in a diagonal formation on the horizon in the southeast sky toward O'Hare...hovering for at least 10 minutes and pulsing brilliant white, the middle one brighter than the other two.  No unusual sounds.  Planes from O'Hare passing both above and below the objects, and the lights from the planes much smaller (1/8th the size) of the white orbs.  My wife got a digital camera shot of all 3; by zooming in you can see them clearly between the power lines with the water tower light for contrast.  We also have video of all 3 lights with planes in the sky as well.  At approximately 10:30PM, all three lights floated (best word possible) to the southwest and disappeared; the middle light, which was the largest and brightest, was the last to go.  With all due respect to healthy skepticism, I am both elated & mystified.  Both my wife and I are police officers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126711.html](http://www.nuforc.org/webreports/reports/126/S126711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
