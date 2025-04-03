@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winters (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Airplanes with silent engines?April 3, about 11:00 PM over the skies of Winters, TX. I looked up and saw a flashing red light as any airplane would have. This object was in the shape of a large sized normal airplane. It was flying rather low... not more than a couple thousand feet elevation. It was also going rather fast. I thought it may have been traveling faster than the speed of sound so I waited a moment for the sound to pass, but I never heard any noise. This plane was silent. I'm curious if it might be a new experimental technology. A friend that lives about 6 blocks away also saw it and described it in the same manner, before I ever mentioned it to him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62534.html](http://www.nuforc.org/webreports/reports/062/S62534.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glenview (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.8833333333333333 - 1.8833333333333333 minutes.</sub><blockquote><sub>2 strange light objects move across the north suburban evening sky presumably undetected, . . . or not?  Captured on video! !When taking trash out, I looked up and observed the 2 lights moving through the sky, no indication of them emitting any sound.  Caught them both on cell phone video camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154780.html](http://www.nuforc.org/webreports/reports/154/S154780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
