@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Medford (MA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>round silver saucer type craft just hovering.driving back frommy doctor appointment on 4-3 aprox 410pm i saw up in the sky a typical "saucer type UFO", i saw this craft for 7-10 seconds just hovering about 500 feet up (maybe) I was driving and saw it,silver in color,round saucer just hovering.  I couldnt pull over cause of traffic. As i kept looking i passed a tree which blocked the craft for less than 1 second,and then it kind of moved away from me just a bit, then completely disappeared. (or size comparison- it was as big as an M&M candy about 7 inches away from your eye, no lights just a silver round disk.  I did circle to go back to where i saw this craft,but observed Nothing else.I have submitted another report elsewhere,but was so excited I explained it rather wrong,and am submitting this one to clarify my sighting! I love my daughter more than life itself,and i SWEAR ON MY DAUGHTER ((daughter's name deleted)) LIFE I SAW THIS CRAFT!!!!  unmistakable and i will NEVER FORGET THIS!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96982.html](http://www.nuforc.org/webreports/reports/096/S96982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Teardrop shaped object (green base and trailing white light) drops from the night sky near Columbia Maryland.While returning from an evening out in Frederick, Maryland; at 2:06 AM, traveling on MD 32 East between Exit 18 and Exit 17, directly in our line of sight about 2-4 miles ahead of our vehicle.  We saw a single large teardrop object that was luminous green at the base and white light trailing it.  It seemed to drop out of the sky and disappear as it would have hit the ground.  There was no secondary flash or sound associated with this event.  MD 32 South turns to the right from where we saw the object drop and we looked at the area to see if there was any activity in the area, there was none.  There was no other traffic in the area when we saw the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126742.html](http://www.nuforc.org/webreports/reports/126/S126742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
