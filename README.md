@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:28 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20:35 - 20:35 minutes.</sub><blockquote><sub>Bright lightCraft moving north east close to sheep mtns moving slowly bright white.  Continued moving then light started to fade and then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118211.html](http://www.nuforc.org/webreports/reports/118/S118211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Converse (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A craft moving at a high rate of speed was quickly changing directions and then vanished.As a frined and I were travelling south on FM 78 in Converse, we happened upon an array of ligths, 3-4 red and about the same number of white lights.  At first, it looked as if it were a plane or helicopter with fog ligths on, but the way that the lights were moving suggested something else.  Th "fog lights" went around, searching, in a cricular motion.  As the craft was doing this, it seemed to be travelling upward, at a high speed.  Then, all of a sudden, it changed directions and headed in a southwestern direction, then dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06080.html](http://www.nuforc.org/webreports/reports/006/S06080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
