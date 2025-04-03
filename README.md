@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White-ish orb caught on my webcam.I decided to set up my webcam (logitech c310) along with simple motion detection software, and placed it on my bedroom's window seal.  It captured many birds and several airplanes, and this white orb thing, It happened in Fullerton, CA, on April 3rd, at 18:17 PST, and lasted for 1-2 seconds.  I'm going to leave the webcam on the window seal to see if it captures anything else.  I'm submitting video file by e-mail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88189.html](http://www.nuforc.org/webreports/reports/088/S88189.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Valdosta (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A great number of flying shiny objects flying in a group across the sky in Georgia.It was a clear, sunny day mabey a 10 to 15 miles away from Valdosta, my mother and I were driving when I looked up and saw a group of about 30 shapes flying in the sky. They were a shiny and white, however they were disappeing and reappering in diffrent spots in front of us in the sky. The seemed to be flying almost in a pattern. Then as suddenly as they had appeared they dissappered. They were traviling as fast as my car, around 70 mph or faster.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43312.html](http://www.nuforc.org/webreports/reports/043/S43312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
