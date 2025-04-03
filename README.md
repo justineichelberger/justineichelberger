@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmont (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>neon green lights hovering just above the treeline near wilmont,ar.On 4/03/11 at about 9;30pm, my friend and I saw an unusually bright neon green appearing light going up and down moving behind trees in a wooded area 5 miles south of Wilmont,Ar.  This is an area that is not very populated and has mostly farmland and swamps.  It was so bright that it looked like one object but when I took the pictures with my phone it turned out to be 4 lights which seemed weird to us.  I guess because it was super bright.  It seemed to be just moving around very slowly just about high as the trees and then just disappeared.  The object looked to be about 2-3 miles away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80783.html](http://www.nuforc.org/webreports/reports/080/S80783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Mudgee (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Probable abduction of child in 1993 - Strange craft which appears to be remotely pilotedIt happened at night in 1993, I was at my parent's friend's house. That house was always really strange, but I was young so I thought it was ghosts or something like that. But know that I have read about abductions, I know it wasn't ghosts. I was looking for my parents, and I realised that they must have gone out ito the yard.I walked into the kitchen, and saw that the wall in front of me was rippling like water after you drop a pebble into it. I watched this for about three seconds before the wall totally dematerialised. I walked into the room beyond the hole in the wall, and my mind seemed to slow down - everything slowed down, and the walls, the ceiling, the floor, every surface in the room was covered with wooden floorboards. There were absolutely NO shadows anywhere. In the middle of the room there was a floating 'Rectangular Prism' shaped craft with alien script scrolling down the walls on the inside. And there were plasma effects... gotta go((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28010.html](http://www.nuforc.org/webreports/reports/028/S28010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
