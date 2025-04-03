@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Punta Gorda (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Pulsating light traveling steady with abrupt change of course, and accelerating outward suddenlyThe event was on april 3, 2010.  About 12 pm.My grandson and I were staying in my sailboat, located in Punta Gorda Fl.  I had him take the front bunk in the catamaran which has an opening hatch over the bunk.  He commented to me, that he could clearly see the stars as he lay there and we then we said good night.Shortly after this, he claims he was watching a large reddish, pulsating object progressing northward and wondered if it might be a satellite, but thought is was too big.  He claimed it to be as big as a silver dollar if held at arms length.About this time, the pulsating light took a sudden turn downward and made a figure S and then shot upward very, quickly upward and out of sight. The event only lasted a few minutes.  I was told the story when we got up in the morning.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74894.html](http://www.nuforc.org/webreports/reports/074/S74894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Flash of lightsWalking dog, seen a flash of 3 bright lights then another flash, the flash was headed north. Flash and lights were blue white in hue above me.  Lasted like 2  Seconds could of been something entering atmosphere, debris?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154795.html](http://www.nuforc.org/webreports/reports/154/S154795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
