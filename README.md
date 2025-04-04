@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver object over San DiegoWhile waiting for a Traffic signal at Imperial and Euclid in San Diego I was watching an inbound Aircraft coming in on Approach, and as I was watching it I noticed another object flying above it but not on the same course, the object was low enough to know it was not a known aircraft,  It was a silver color except in some places a very light blue outlining certain aspects.  The main body of it was between a circle and oval shape with a circle in the bottom of it which was outlined by the light blue color noted earlier, it also had on each side what I would describe as silver rounded off piece's that could only be described as looking like ancient style ax heads they were attached but not part of the main body.  I watch as it came over head and slowed down for a brief moment then continued on it path heading from South Southeast, towards North Northwest, then as I watched it started picking up some speed and then it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108505.html](http://www.nuforc.org/webreports/reports/108/S108505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Eastbourne (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a flying saucer on 4 April 1999 over the shores of the English ChannelI saw a glowing ball of fuzzy white light the shape of a teardrop and the size of a jet fighter swerve silently across the night sky at jet fighter speed in a snake maneuver at 23:00 on 4 April 1999 from my bedroom window in Eastbourne, East Sussex, England initially SE parallel to the street although over the adjacent playing field at an elevation of about 30 degrees and then climbing away and then returning to a parallel course but further away and at an elevation of about 60 degrees to the horizontal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59960.html](http://www.nuforc.org/webreports/reports/059/S59960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
