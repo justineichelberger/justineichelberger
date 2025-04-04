@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:46 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My boyfriend, best friend, and i were out on the lenai and i saw this light very low in the sky and asked if they could also see it.... my boyfriend said it was the north star and was very skeptical we kept chatting and and my girlfriend and kept looking at it periodically at the same time we both saw red, blue, and white lights...my boyfriend then went to bed. the object was stationary and then begAN moving rapidly and was changing locations in the sky...10 minutes later we are still watching it as it moves my friend then grabs her digital camera and we go outside and started taking pictures. as we are taking pictures the distance was changing from close to far and then disapeared and would come back a few minutes after taking the flashes all of sudden their was another craft right in above my backyard. we then ran inside and watched through the glass doors.. then got really scared went inside for about one minute took another look and they were both gone.. would like to know if anyone else witnessed this..((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56101.html](http://www.nuforc.org/webreports/reports/056/S56101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange lights of fire in a straight line moving slow.the objects were not very big they looked like 3 balls of fire not very high but were very slow and made no noise at all they went in a line about maybe half mile apart the and they started to raise in the air and eventually disappered this was also reported yesterday about an hour after the time we saw them. In a different city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69533.html](http://www.nuforc.org/webreports/reports/069/S69533.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
