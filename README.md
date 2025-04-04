@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>after an MLK rally 4/4/08 in Memphis, TN, I found multiple white orbs in formation in one picture I snappedI did not see anything with my eyes.  I took pictures and saw the orbs in one of my photos.  I was using my digital camera, and they are very obvious when you notice them.  It was a very gloomy overcast day.  They were white orbs, in some sort of formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62535.html](http://www.nuforc.org/webreports/reports/062/S62535.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jefferson (ME) reported seeing craft that fit the description of some 'Cross' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>16 identical fixed wing objects moving apparently randomly, both indivdually and collectively, as hawks might do, very high up.The time of my sighting began at approximately 14:15 on April 4, 2014.  The location is Jefferson, Maine, about 20 miles east of Augusta.  I am a frequent watcher of the sky, and as I gazed up at this time toward the north, I saw very high up (several miles) at maybe a 70 degree angle from ground level to directly overhead  two white objects that caught my attention.  They were drifting, rather than flying in a linear manner as any airplane would normally do.  The motion seemed to be analogous to a hawk or eagle looking for prey far below, or perhaps a hang glider.  However, these objects were apparently around the height of normal jet plane, way too high for birds.  They were not drifting with a wind current as they were constantly changing direction.I watched for a few minutes and then went in to get binoculars. Upon locating them in the binoculars, I noticed color--orange, yellow, and green from from front to back respectively. I continued to watch for awhile then was about to put away the binoculars inside the house when I went out again and saw many more.  I was able to count 16 in all.  Every one was identical in size, shape and color.  After watching some more, I called a friend who also has a keen interest in UFO sightings.  She lives about a mile from me, also in Jefferson.  When she went out she could only see two, but only in white.  While she reported what she was seeing, I was inside on my land line phone with her.  Eventually, they disappeared into the haze of the thin clouds and we lost sight of them after about one half hour, seeming to be moving to the east from north.What struck me was their apparent random motion with respect to each other and also in rather looping circular motion individually, again, much as one might see with hawks or eagles.  The shape was like a small fixed wing airplane.  No sound was heard nor anything resembling a jet contrail.  I am a senior citizen in complete control of my mental capacity.  My friend is likely a bit younger, but over 50.((NUFORC Note:  We spoke via telephone with this witness, and he seemed quite serious and sober-minded to us.  We suspect that he is an excellent, and quite reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108322.html](http://www.nuforc.org/webreports/reports/108/S108322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
