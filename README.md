@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 3 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Jet-black, oval, fast, shiny, made sharp turns, Over Mccarran Airport/ Henderson.It was a black oval-shaped aircraft.  Nothing like I ever have seen before.  I first saw it while I was leaving Mccarran Airport; the aircraft was directly south of the airport, I think it might have been in the restricted airspace area.  At first, it was flying normally, except it wasn't in the shape of any aircraft I had ever seen.But about 15 seconds after that, it made a sharp 165 degree turn, speed up, and dissappeard into the south over Henderson and Black Mountain.  At my view, it was very shiny and jet-black.  Also, it turned, from my view, from the size of a penny to the size of a pen dot.  This was while it was speeding up and dissappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80744.html](http://www.nuforc.org/webreports/reports/080/S80744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My boyfriend, best friend, and i were out on the lenai and i saw this light very low in the sky and asked if they could also see it.... my boyfriend said it was the north star and was very skeptical we kept chatting and and my girlfriend and kept looking at it periodically at the same time we both saw red, blue, and white lights...my boyfriend then went to bed. the object was stationary and then begAN moving rapidly and was changing locations in the sky...10 minutes later we are still watching it as it moves my friend then grabs her digital camera and we go outside and started taking pictures. as we are taking pictures the distance was changing from close to far and then disapeared and would come back a few minutes after taking the flashes all of sudden their was another craft right in above my backyard. we then ran inside and watched through the glass doors.. then got really scared went inside for about one minute took another look and they were both gone.. would like to know if anyone else witnessed this..((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))((NUFORC Note:  Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56101.html](http://www.nuforc.org/webreports/reports/056/S56101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/162/S162577.html)
-- [228](http://www.nuforc.org/webreports/reports/162/S162760.html)
-- [227](http://www.nuforc.org/webreports/reports/162/S162756.html)
-- [226](http://www.nuforc.org/webreports/reports/162/S162633.html)
-- [225](http://www.nuforc.org/webreports/reports/162/S162994.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
