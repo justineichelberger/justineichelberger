@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>15 red orbs seen in formation across the sky.15 reddish/orange orbs were seen navigating across the sky in formation.  Some were moving at different velocities it seemed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118229.html](http://www.nuforc.org/webreports/reports/118/S118229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange lights floating in the sky then disappearingMy father and I were walking back to our car after eating dinner in west denver, he asked for the time.  I told him it was 8:30, as we got to the car and were unlocking the doors.  I looked into the sky and seen multiple objects floating up into the sky.They were orange orbs or teardrops I couldn’t tell very well.  They floated diagonally and as they got to a certain point in the sky they disappeared, in total there had to be about 35-40 of them.  This went on for about 5 or 6 minutes.  Both of us recorded the seen but they did not appear on our devices a kindle and a galaxy s3 phone.As we drove home i looked into the sky we were going north on I-25 and we seen this orange object flash go away, then flash again.  It was going very fast then it disappeared all together.  I have no clue if they are related incidents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118227.html](http://www.nuforc.org/webreports/reports/118/S118227.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
