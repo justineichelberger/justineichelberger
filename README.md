@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manchester (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle that matched the color of the night sky. One red light at the face of the triangle and two white lights in the back.Fairly large triangle shaped craft of some sort hovering in place for around ten minutes about a kilometer from my house.  It only had two white lights in the back and one red light at the front, which was pointed in my direction.  I pulled my phone from my pocket and aimed the camera at it and while it was a pretty clear night, it would not come up on my camera.  Needless to say it's left me a little spooked because I just sort of humored the idea before this experience.  It was also completely silent.  Also, earlier, my vehicle's battery was acting a little funny.((NUFORC Note:  Source of the report elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133465.html](http://www.nuforc.org/webreports/reports/133/S133465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw an orange light moving around in the sky and going out twice, for about ten minutes.We were in a parking lot, about to get into our car and go home, when I looked up and saw an orange light in the sky. I thought that it might be a planet, as it was too big to be a star, and it wasn't white or yellow- closer to red or orange. The sky was completely clear, and as we were looking at the light, we noticed that it was moving slightly, back and forth. Then, it went out completely for a few seconds, and flickered back to light. We drove back home, assigning the person in the backseat to "keep an eye" on the light, and watched it until it disappeared behind Mt. Eldon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69536.html](http://www.nuforc.org/webreports/reports/069/S69536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
