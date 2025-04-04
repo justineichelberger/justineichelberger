@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>triangle objects hoovered  an hour,flashing red, blue sometimes green lights, then it gradually moved with sudden dissapearanceMy 11 year old son called me outside to show me an unusually bright object in sky.  He got out his telescope and was able to determine that it was a triangle object hoovering in the sky with red pulsing lights and the blue flashed about every minuet. There appeared to be orange light.  It stayed in the same position over a tree for about an hour and then gradually moved to the right for around 10 minuets.  It stayed in this position and then gradually moved to the right taking about 20 minuets and then it suddenly dissapeared.There were about 4 other craft or object like this in the sky to the right of the above describe event, but they were further away.  However through the telescope we could see the same flashing lights.This was witnessed by myself, my 11year old ,my 7 year old and my neighbor.((NUFORC Note:  Celestial body, possibly a twinkling star, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49973.html](http://www.nuforc.org/webreports/reports/049/S49973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>after an MLK rally 4/4/08 in Memphis, TN, I found multiple white orbs in formation in one picture I snappedI did not see anything with my eyes.  I took pictures and saw the orbs in one of my photos.  I was using my digital camera, and they are very obvious when you notice them.  It was a very gloomy overcast day.  They were white orbs, in some sort of formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62535.html](http://www.nuforc.org/webreports/reports/062/S62535.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
