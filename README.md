@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:49 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:42 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Akron (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>1 light split into 3,hovered, then flew awaySaw a bright light remaining still above the horizon while I was looking out my bedroom window.  It caught my attention because it was larger and brighter than a normal airplane light.  I figured the plane was flying with its landing gear on.  Then the one light became 3 distinct lights.  One flew away to the left and at the same time one flew away to the right.  Seconds after that the center light flew over our house.  My bedroom window looks over the Cuyahoga Valley towards Cuyahoga Falls.  Not sure what the heck it was, but it was anything I'd ever seen before.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16836.html](http://www.nuforc.org/webreports/reports/016/S16836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 and shortly after 4 semi-reflective 'orbs',  swept the sky from east to west. They were white/greyI was taking my dog out and noticed how clear/bright the night sky was.  I went back inside to let my fiance know and as I was telling him, we looked out the window from inside the house and I thought I saw a shooting star (still think it was a shooting star...). We then decided to go out to the porch (south facing), not long after we saw two orbs, semi-reflective, at first we just thought they were birds, but they were moving quite fast (faster than a plane) and there was NO sound. They moved from west to east.  Not long after these two objects disappeared, we noticed 4 new 'dots; that were the same...at first weren't sure if they were birds, but the spacing between them was uniform as they moved.  When these 'dots' were further east, it appeared they moved into a formation, almost like a chevron or diamond shape.Crazy!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108332.html](http://www.nuforc.org/webreports/reports/108/S108332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
