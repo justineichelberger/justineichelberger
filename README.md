@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Seen on highway on back of Military flatbed w/"black" helicopter escort(1), 4 black Humvee's(black uniforms W/M16's inside). Object under tarpA traveling co-worker of mine described this strange site to me. First, He noticed the "black" Huey w/ no markings on it very low to the ground a little ways off the highway. Then, on the Highway Just behind it, was a convoy of two(2) Humvees w/soldiers(?) in all black uniforms w/m-16's traveling just ahead of a tractor trailer flatbed. On this flatbed was an object covered by a tarp, which was flapping in the wind. Enough so that from his vantage point, He could see a round object with "winglets" sticking out off of the side of it. These He estimated to be about four (4)ft.long. Length or dia. was estimated at 8-9 ft. Metallic in color. Truck was followed by two(2) more Humvees of same Description as front two. A ways back (mile?)there were several County Sheriffs in Chevy Suburbans traveling in same direction. This all took place near Cheyenne Mountain on a desolate Highway on a cold,clear morning. Direction of convoy was either Northerly or Eastern.*NOTE* This event  took place the same weekend as Mass UFO sightings were reported over northern Colorado according to MUFON CO. State Section Director on Art Bell's Radio Show.((NUFORC NOTE:  The author of this report indicates that the alleged sighting occurred near Cheyenne Mountain near Cheyenne, Wyoming.  Cheyenne Mountain is located at Petersen AFB near Colorado Springs, Colorado.  Since the information is a second hand report, there may be some confusion on the part of the author.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05233.html](http://www.nuforc.org/webreports/reports/005/S05233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two Triangular shaped objects with flashing white lights over the Southside of Chicago.Sitting in my bedroom and hearing the sound of a helicopter that was very loud, I  got up to look out of my window, and saw the the helicopter hovering over the expressway in the S.E.sky.  As I was about to sit down, out the corner of my eye, I noticed very high in the S.W. sky a triangular-shape object with five white lights on each side, and one big light in the center.To make sure I wasn't seeing things, I took out my binoculars, and noticed a smaller triangular shape object next to the big one with flashing white lights.  After watching it for fifteen minutes it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133470.html](http://www.nuforc.org/webreports/reports/133/S133470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
