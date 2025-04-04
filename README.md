@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw an orange light moving around in the sky and going out twice, for about ten minutes.We were in a parking lot, about to get into our car and go home, when I looked up and saw an orange light in the sky. I thought that it might be a planet, as it was too big to be a star, and it wasn't white or yellow- closer to red or orange. The sky was completely clear, and as we were looking at the light, we noticed that it was moving slightly, back and forth. Then, it went out completely for a few seconds, and flickered back to light. We drove back home, assigning the person in the backseat to "keep an eye" on the light, and watched it until it disappeared behind Mt. Eldon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69536.html](http://www.nuforc.org/webreports/reports/069/S69536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Low, no noise and quick 6-8 white globe like in shape in a linear pattern from west to east, disappearing in cloud cover to the east.Appeared odd, like fast geese had swallowed glow sticks and flying in a straight line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133429.html](http://www.nuforc.org/webreports/reports/133/S133429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
