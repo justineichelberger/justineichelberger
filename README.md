@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:41 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:58 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fife/Federal Way (between) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>BRIGHT BLUE SPHERE SITED, FELL INTO WOODED AREA IN WADRIVING NORTH FROM FIFE ON OLD HIGHWAY CONNECTING FIFE AND FEDERAL WAY PASSING BY A CATHOLIC CEMETARY ON THE RIGHT HAND SIDE 2 MIN. BEFORE SITING. LIGHT BRIGHT BLUE SPHERE THAT WAS POSSIBY GOING AROND 300-400 MILES PER HOUR DIVED DOWN INTO THE FOREST IN THE LEFT HAND SIDE OF THE ROAD AND NO SITE OF IT AFTERWARDS. COULD HAVE BEEN MISTAKEN FOR METEOR  BUT NEEDED TO HAVE HEARD A SOUND OR BOOM.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36000.html](http://www.nuforc.org/webreports/reports/036/S36000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright ball of light in the airThe object was first thought as a plane but it was stationary and very bright.  My friend thought it was the sun while witnessing it on a plane.  It was a bright yellowish orange in the middle and very faintly there were smaller blinking lights on the side, from my view from the ground it appeared blueish.  Then when I went under an over pass the object disappeared, and my friend also said it suddenly vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118257.html](http://www.nuforc.org/webreports/reports/118/S118257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
