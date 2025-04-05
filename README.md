@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>three very bright orange lightsWalking back from a friend’s house traveling east, I happen to look up as i turned a corner, and saw two very bright orange lights traveling.  From south to north at first i thought it was aircraft passing over very close to each other .but there was no flashing warring lights on the craft just a bright orange glow .they did not seem to be traveling very fast, but keeping up with each other, in a sort of a tag way.I got my phone out and snapped some picks of them,   Then one more came along bright orange, it seemed to be going faster than the last two. it seem to light up the clouds above it  I tried to video it butt it has not come out very well,   When i got back home kept a look out, but did not see anything else, but there was so many other aircraft flying around it look like that they was looking for something I have lived at my address for over 25 years and have never seen so many plains in the sky like this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80775.html](http://www.nuforc.org/webreports/reports/080/S80775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ellensburg/Thorp (WA) reported seeing craft that fit the description of some '' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>millitary stealth Low Alt."spy craft"...silient powerd (elect. ,?)GLIDER. intelligently controlled. USA/Canada.E. to W.  low  CANADIAN NAVY GRAY Painted   Boomarang (EXACTLY) in shape (includeing rounded wing tips)  not overly large  TOTOLY SILIENT  (quite low enough to hear props or jet enjin....DELIBERITLY Waited to "see" if "after-sound" could be heard. no!) makeing a slight angle that if maitained would put it left of Seattle/Kent area.  standred aircraft runing lights PLUS 2-3 EXTRA ("clear") that lit up most of undercarrage allowing excellent view of shape/six/color/lack of standred cockpit (exstended) and no tail or tail boom(s).  The clear lights giveing no indacation of landing light(s) but rather of over-large reg. "house"lights....IE: NO 4WARD "SWEEP". lights n size combo indacated LOW FLYING .... est. under 2000 ft., venture between 1000 to just under 1500 ft.  Size indacated would allow 3 personel, "tops".....yet SEEMED THIN!  More like n UN-MANED GLIDER that had a power sorce of some typ. SIZE Indicated 3 could fit...THINESS "said":  "Only if they were LAYING DOWN"!   summery; man-made, stealth, UN-MANED                     possability....."confussing" n deceptive to the eye.  IE: could have been lower / smaller then nite-site would indicate, yet safely high enough to be WELL OVER surroundeing hills/ridges.  n intrusting vehicle of flight. Impression: OURS' or CANADAS'.      YOU HAVE MY PERMMISION TO USE MY NAME.   Red Elk  Med./Wakian..intertrible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22458.html](http://www.nuforc.org/webreports/reports/022/S22458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
