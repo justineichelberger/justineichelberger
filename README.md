@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sutton in Ashfield (UK/England) () reported seeing craft that fit the description of some 'Cross' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Buzzing object in sky.2 red lights non flashing 2 green lights flashing.  Hovering, loud buzzing noise, spun round on spot then flew off with the green lights at front.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108349.html](http://www.nuforc.org/webreports/reports/108/S108349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>me and my roommate saw a fast moving object.  it covered a large distance in a matter of seconds.  we observed this object until it disapBright light moving at very fast velocity.  No contrails or noise heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108372.html](http://www.nuforc.org/webreports/reports/108/S108372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
