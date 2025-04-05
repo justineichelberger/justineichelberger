@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was sitting in my bedroom listening to my shortwave radio when the neighbors started yelling for me to get outside.I forget the exact date, it has been a long month for me. It was during the fist part of the month and about in the middle of the week.Upon going outside the kids said there was a dragoon in the sky,(their native americans) anyway I looked up and sure as shit there were several silver disc shaped things in the air. It was a very bright afternoon and the sun reflected off of them and they were silver.They formed some weird shape in a formation like pattern.The kids said it looked like a dragon.I did not put it together.We watched these things almost to the point of like they were supposed to be there.Accepted , is the only thing that comes to mind. One of them came over us and just stayed there and it looked like flames were shooting out to the west of the craft and these things were oriented to the South.Our eyes began to see dots from staring at them for so long we had to quit looking and take a eye break. I did not have any portable optics to enhance the viewing so we were screwed from a detailed look.Finally the one that hovered over slowly backed up until it was gone.My 73 yo mom even saw the one shoot flames out the side.And the others simply vanished from view before we even noticed. We watched for about a half an hour.I or anyone else was scared it was almost likethey belonged there some how, I don't know. This was during the start up phase of the war in Iraq that is why I was listening to my shortwave radio.Sorry about the date no body can remember the exact day or date.((NUFORC Note:  Date is approximate.  We will encourage the witness to have the other witnesses to the alleged event submit reports, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28450.html](http://www.nuforc.org/webreports/reports/028/S28450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Boyertown (PA) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Young woman sees bizarre green, white, & red "stick," which rotates 90 deg., expands laterally.  Good rept.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00406.html](http://www.nuforc.org/webreports/reports/000/S00406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
