@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gibsonton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black Triangle with white dots on each of the triangles angles viewed in riverviewOn Saturday April 5th 2008 I was in a parking lot of a grocery store waiting for a friend of mine to get off work. He told me to pick him up at 11:00PM but didn't get off until close to 12:00AM. I was stuck waiting outside for him for over a hour. It was pretty humid so I didn't want to wait inside the car so I got out and waited. The parking lot was almost all empty except the cars of the people that were cleaning up the store.At about 11:45PM I laid out on the roof of my car and looked up at the night sky. I looked at a couple of planes passing by and then something caught my attention. There was this object moving really slow directly above me. I'm a skeptic so I tell myself it's probably some balloons, until the object stopped moving. Then I got a really good look at it. Here is what I can describe as only a black Triangle and it was pointing north, and where the angles were, there where white dots in their place.The object was almost directly over me. I got a good look at it but because of the lights in the parking lot I had to cover up the light coming off the street lights so the glare wouldn't get to my eyes. So I just stared at it for about a minute, then it started to move north very slowly. Nobody was around so I could show them so I didn't bother taking my eyes off of it.It continued north until I couldn't see it anymore.I googled "Black triangle with white dots in the sky" and this website came up, and I saw that there was a string of sightings of the same thing in February of 2007 that described the exact same thing. So I was happy I'm not the only one who seen it. I hope this info was helpful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63405.html](http://www.nuforc.org/webreports/reports/063/S63405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three circular craft changing shape SW of Hobbs, NMJust got out of work with my friend at the school cafeteria at my college and seen these weird shapes in the sky.  They seemed to be changing shape but could not tell from what to what.  I zoomed in with my junk cell phone camera and snapped a pic.  It was just before sunset looking southwest from the NMJC campus.  It vanished and my buddy said "it's gone".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108470.html](http://www.nuforc.org/webreports/reports/108/S108470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
