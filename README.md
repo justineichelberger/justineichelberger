@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:41 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At first glance, it looked like a plane, we realized that it wasn't moven, but dancing in place with rainbow lights radiating off of itAt first glance, it looked like a plane to the south of my home, but as we watched closer, we realized that it wasn't moving, it was dancing with red, white, blue lights, with white extending from it. We then looked at it with binoculars, and noticed that it was a saucer. It had the rainbow affect to it, as if you were to hold an etched crystal to the sun. Further looking, we saw green lights on the side, spinning so fast the lights looked like they stood still. It faded in and out several times, then proceeded to radiate multi colored lights from the bottom (hence the rainbow affect) Pink, green, blue, purple, red, yellow, orange, and white. When, a plane flew under it, red was the promenint color. It was going from horizontal and tilting up enough to see the back, to almost vertical. After about fifteen minutes of the dancing, it moved quickly in a western direction. While none of the stars have shifted!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49983.html](http://www.nuforc.org/webreports/reports/049/S49983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fife/Federal Way (between) (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>BRIGHT BLUE SPHERE SITED, FELL INTO WOODED AREA IN WADRIVING NORTH FROM FIFE ON OLD HIGHWAY CONNECTING FIFE AND FEDERAL WAY PASSING BY A CATHOLIC CEMETARY ON THE RIGHT HAND SIDE 2 MIN. BEFORE SITING. LIGHT BRIGHT BLUE SPHERE THAT WAS POSSIBY GOING AROND 300-400 MILES PER HOUR DIVED DOWN INTO THE FOREST IN THE LEFT HAND SIDE OF THE ROAD AND NO SITE OF IT AFTERWARDS. COULD HAVE BEEN MISTAKEN FOR METEOR  BUT NEEDED TO HAVE HEARD A SOUND OR BOOM.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36000.html](http://www.nuforc.org/webreports/reports/036/S36000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
