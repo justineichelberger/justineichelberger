@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three circular craft changing shape SW of Hobbs, NMJust got out of work with my friend at the school cafeteria at my college and seen these weird shapes in the sky.  They seemed to be changing shape but could not tell from what to what.  I zoomed in with my junk cell phone camera and snapped a pic.  It was just before sunset looking southwest from the NMJC campus.  It vanished and my buddy said "it's gone".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108470.html](http://www.nuforc.org/webreports/reports/108/S108470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Millerton (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 104</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156089.html](http://www.nuforc.org/webreports/reports/156/S156089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
