@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pomona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The craft moved too much to be an airplane and it made certain moves that make it not man made.Well, frist of all I'd like o say that I'm very scared because ever since April the 1st of the year 2005, I saw what looked to me to be an alien craft, since that day i keep seeing it over and over every year on the same day exept for this day. Well, this time i was smart enough to call over my sisters to have some witnesses. This is how it happened i had come home from school and i went to go check on the dogs that we have, well the moment i went out there i felt has if something was wathching me and i loocked up and saw a small object preety high up in the air i was suprised and i started to think its gotta be an airplane or a ballon or something and then i started to remember about what happened one year ago and two years ago on the same day. It acted almost the same has the one from last time. It moved around pretty fast and it keept going back and forth, thn after probably 5 minutes i called my sisters and told them look i see it agian look come before it leaves. when they came they were like i dont see anything?? And then they looked closely and one by ione started seing the object. But then something more strange happened we saw one appear alomost alkl of a sudden they looked like they were close to each other aligned but then one would go ahead of the other, it was creepy and scary cause we started thinking that maybe more would appear and would see us. The object seemed silvernad round or oval shaped i couldn't figure it out cause ti was so high up in the air. Now one thing is for sure this were not an aircraft because aircraft or airplanes cannot go back and forth or make a turn in mid air, a ballon would leave out of sight, and another thing that day wasnt so windy at all, it was mostly clear. All i can say is i cant explain what i saw and i am always going to keep that question in my mind till i fnd answers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63477.html](http://www.nuforc.org/webreports/reports/063/S63477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright light with flikering red very high in SkyLights high in the sky, too high to be radio tower lights, hovering for long time.  flikering red, blue, on bright white background.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36011.html](http://www.nuforc.org/webreports/reports/036/S36011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
