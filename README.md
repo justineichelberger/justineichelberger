@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright, single light, strobe flash of white light seen overhead and to the south and west.  Object would flash intermittently while slowly moving toward the east a little south of Zenith.  Intervals were of various duration, and the flashes were of various intensity and duration.  Over all direction was toward the East.  Happened over 15 - 20 minutes.  Both my husband and I saw this as I went in the house to get him when it started.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126748.html](http://www.nuforc.org/webreports/reports/126/S126748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Medicine Hat (Canada) (AB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two Round Redish Orange Glowing Balls Seen Flying Over City.It was 11:15 pm, Sunday night, April 5, 2015, Medicine Hat, Alberta.  I went out in my backyard for a smoke.  I noticed out of the corner of my eyes, two round reddish orange balls, almost looked like roman candle fireworks.  They both came into view over the houses,  They both went pretty straight up,  Then they started moving from the south to the north.  Both were same size, One stated going higher then the other.  About 1/4 size of the moon, alot bigger then the stars.  I seen them travel a good ways, before they faded in the distance towards Redcliff Alberta.  It is hard to tell how close i was, it wasnt close enough to make out andy craft features,  All i could tell was the bottom looked to jet engines facing the ground.  No blinking lights, faster then an air plane which I see daily, just a steady glow.  I was very shocked, but very excited.  I have always been curious.  I took two poor quality videos with my cell phone.  I didn't think right at the moment.  If I ever experience this again I will make one long video without zooming in and better reference points although it was dark out very poor picture quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118278.html](http://www.nuforc.org/webreports/reports/118/S118278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
