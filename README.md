@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>me and my roommate saw a fast moving object.  it covered a large distance in a matter of seconds.  we observed this object until it disapBright light moving at very fast velocity.  No contrails or noise heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108372.html](http://www.nuforc.org/webreports/reports/108/S108372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two hovering orange circles drop third orange circle over oklahoma.My girlfriend and i were driving home when both of us noticed three "planes" within a mile of each other directly north of our location. We both have an interest for all thing abnormal and interesting so we kept our eyes on them hoping. One of the objects did turn out to be a plane and veered off from the location while the other two orange lights remained, hovering in the air. We stopped on a very slow overpass to watch further because they had been hovering in the same place for well over a minute. We watched as one of the lights began to get brighter and brighter and slowly drifted around in mostly the same place, it just sort of floated. The second object began to slowly fade out until it was no longer visible. Just as we were fixing to start the car and leave (she had to be home by 22:30) the one still hovering seemed to have a new seperate ship drop from its side. The first ship then began to lower until it was no longer visible over the city lights and trees. After it was gone the new ship began to glow brighter and brighter just as the first did. We watched this ship hover in place for around 2 minutes until it finally began to lower and dissapeared just as the first had.All three ships were orange/yellow in color similiar to the color of a street light. They were circular and generally had very little movement probably only travelling back and forth within a miles radius. They did have some horizontal movement but like i said they always stayed within a mile of where we first sighted them.The sighting occured in Oklahoma city, OK. I have contacted the news to see if anyone else noticed them last nite.The only thing that i can possibly think of to debunk what i saw is that the location i saw them is about 45 miles west of tinker air force base which has been known to test new planes, but even still i highly doubt they would of been testing anything like what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49992.html](http://www.nuforc.org/webreports/reports/049/S49992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
