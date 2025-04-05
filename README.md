@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 4 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange lights floating in the sky then disappearingMy father and I were walking back to our car after eating dinner in west denver, he asked for the time.  I told him it was 8:30, as we got to the car and were unlocking the doors.  I looked into the sky and seen multiple objects floating up into the sky.They were orange orbs or teardrops I couldn’t tell very well.  They floated diagonally and as they got to a certain point in the sky they disappeared, in total there had to be about 35-40 of them.  This went on for about 5 or 6 minutes.  Both of us recorded the seen but they did not appear on our devices a kindle and a galaxy s3 phone.As we drove home i looked into the sky we were going north on I-25 and we seen this orange object flash go away, then flash again.  It was going very fast then it disappeared all together.  I have no clue if they are related incidents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118227.html](http://www.nuforc.org/webreports/reports/118/S118227.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At first glance, it looked like a plane, we realized that it wasn't moven, but dancing in place with rainbow lights radiating off of itAt first glance, it looked like a plane to the south of my home, but as we watched closer, we realized that it wasn't moving, it was dancing with red, white, blue lights, with white extending from it. We then looked at it with binoculars, and noticed that it was a saucer. It had the rainbow affect to it, as if you were to hold an etched crystal to the sun. Further looking, we saw green lights on the side, spinning so fast the lights looked like they stood still. It faded in and out several times, then proceeded to radiate multi colored lights from the bottom (hence the rainbow affect) Pink, green, blue, purple, red, yellow, orange, and white. When, a plane flew under it, red was the promenint color. It was going from horizontal and tilting up enough to see the back, to almost vertical. After about fifteen minutes of the dancing, it moved quickly in a western direction. While none of the stars have shifted!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49983.html](http://www.nuforc.org/webreports/reports/049/S49983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [275](http://www.nuforc.org/webreports/reports/162/S162606.html)
-- [274](http://www.nuforc.org/webreports/reports/162/S162603.html)
-- [273](http://www.nuforc.org/webreports/reports/162/S162605.html)
-- [272](http://www.nuforc.org/webreports/reports/163/S163711.html)
-- [271](http://www.nuforc.org/webreports/reports/162/S162843.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
