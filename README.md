@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 5 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Arlington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a craft hovered over a barn on the side of the road and put a spotlight in my carabout 8 miles east of arlington east bound sr530 at 2330hrs i passed a barn about 150' from the road that had a craft hovering with no sound about 10' above it. it had a farm house about 100' to the east paralell to the road. the craft had a spotlight on the barn until i passed then it put the light on my car. it lit up my whole car brighter than day. i was traveling about 45mph so i locked up my brakes and busted a u-turn right after the house. as i got into veiw of the barn the light was on me. it was super bright, to me it looked like the light streched to the west and was gone. i had to think about it and try to comprehend what i saw. i am ex-military and i have never seen a helo like that. the date is scethcy because i tried to forget it, but i know what i saw. just to add a note: on my return trip of the mountain loop highway i was passing through granite falls. as i slowed down to 25mph entering the city limits a snohomish county sheriff pulled out behind me. the deputy would speed up and slow down behind me riding my ass. he followed me through town. at the other side of town it goes back to the highway. another sheriff coming the other way busted a u-turn so i had two deputys behind me. i thought i was getting pulled over till i turned off acouple miles down the road to head towards marysville and they kept going strait, this may have nothing in common but it was really weird after seeing what i saw.((NUFORC Note:  Date indicated is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10316.html](http://www.nuforc.org/webreports/reports/010/S10316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark blue with green lights and moving very fast.They were dark blue with a green light flashing in the middle. They moved faster than any aircraft that we know of and changed directions suddenly and often. It made a low humming sound like a humming bird. They then flew off quickley and were gone in a couple of seconds. A few minutes later three planes flew over the same area several times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17961.html](http://www.nuforc.org/webreports/reports/017/S17961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [299](http://www.nuforc.org/webreports/reports/162/S162581.html)
-- [298](http://www.nuforc.org/webreports/reports/162/S162589.html)
-- [297](http://www.nuforc.org/webreports/reports/163/S163237.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163899.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162765.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
