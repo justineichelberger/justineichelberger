@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright light in the sky a real close encounter.Me and my girlfriend were headed home from getting something to eat when i noticed some lightning and pulled down a little country road to watch the storm and eat. it was a empressive storm and the lightning seem to almost go with the music i noted to my girlfreind. After about 10 min. i saw a light on the horizon and jokingly said "look a ufo" not thingking much about it since we were close to the airport about 5 to 10 miles few min. later a red car that had also been watching the light show came speeding back past me to the main road afew moments later out the right side of my truck a bright blue light that seemed to rotate like a siren light and move horizontal back and forth fairly quick was right out side my window about 20 feet out and 20 feet up the light shut off quickly and the craft took off  I started my truck and begin to chase it while i was shuting off and on my lights to get its attention when i came to the end of the road which had turned into gravel and stopped by some type of mad made pond about 1 mile. i could still see the light way on the the horizon again now but this time it was brighter than ever glowing white green  blue and orange the light shut off and in a few seconds later at this time i have gotton out and am standing out front something flew over my head but this thing looked diferant it was dark  and the object had know lighs on it so all i could see was a outline of it as it passed over making very little noise a would say about 100 feet above me after it passed a noticed afew lights blink in afew differand parts of the sky i felt like their were many around seeing that this all was real weird i Decided maybe i should say something so I say out loud "c'mon show your self i won't freek or nothing" right after that we both herd what sounded like a few children giggle mind you were 2 miles from anything and it about 9 o'clock at that point i got in the truck to ask my girlfreind (now wife) if she herd the laugh she said she had. at that point i decided i better stay in the truck and watch the last of the dying lightning. By the way this lightning was the most unusual i had ever seen a saw one that was a yellow ball that shot lighting 3 ways off of it after some research i found it was possible just unlikly. anyways we waited for the lightning to stop and right after the last blast and no more lights to see, the pond we were next to filled with the sound of sometype of birds that we had not herd the ten or so minutes we were near that pond well thats my story crazy as it sounds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13359.html](http://www.nuforc.org/webreports/reports/013/S13359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sammamish (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>streak in skyIt was a quick streak in the sky.  But what got to me was the way it moved off balance and at a remerkable speed.  I am not positive, it could have been a shooting star, but there was something about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50031.html](http://www.nuforc.org/webreports/reports/050/S50031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
