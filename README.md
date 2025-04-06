@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:23 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red light and circular shape.A hard to see shape around a red light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96996.html](http://www.nuforc.org/webreports/reports/096/S96996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Seagoville (City of, and Dallas City) (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Driving on Highway 175 West towards I-635 north beltway of Dallas; less than one-half of a mile to I-635 north exit I saw a flying object that is circular in appearnce. Flight speed/velocity was very high. On zeroing and focusing this object, it propelled at a fantastic speed/velocity and in about two to five seconds it dissappeared into the sky. I looked back up into the same direction of the  skies and suddenly saw another simeilar flying object about 10 degrees to my left ( heading west on Highway 175) from the first sighting in my moving vihecle. This second object also flew very fast that it dissappeared into the skies in about the same time and speed/velocity as the first sighting. I called 911 on my cell phone and was given a number to call and report my sighting. Note: After merging into I-635 north at about the Seagoville Road exit, I did see a flying jet (aeroplance that does appear the same as my previous sighting- because it had a parrellel or straight shape) heading east (at about 15:31p.m. Texas time) and it did not speed or move in the skies as fast as the circular objects that I saw previously and did not dissappear so fast as my first other two observations did. In fact the aeroplane or jet stayed in sight untill I hit the Gross road exit on I-635 north in mesquite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12541.html](http://www.nuforc.org/webreports/reports/012/S12541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
