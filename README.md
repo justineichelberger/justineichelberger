@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw a black rectangle shape, in the horizontal postion, hovering over downtown Austin, Texas, and saw it rotate parallel to the ground and continue a path to Bergstrum Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133442.html](http://www.nuforc.org/webreports/reports/133/S133442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangle shaped UFO hovers overhead.We were out in the desert where we usually go to look for UFO's when this triangle shaped object appeared overhead, it didn't make a sound, and it hovered for about 10 minutes before disappearing,defiantly not a plane, and we were the only people around.  When it left a few fighter jets flew around the area,as if they were looking for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80784.html](http://www.nuforc.org/webreports/reports/080/S80784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
