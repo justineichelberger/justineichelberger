@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yuba City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two light objects Appeared the second one stayed longer and flashed it’s light and then disappeared the same way it came fromI was out side with my three friends they were in the car I was looking into the sky when outta no where a light zoomed in quickly and than disappeared . Not but a minute later the same light from the same dictation another zoomed in but this one stayed it seemed to go up and down going in to view and outta view in the clouds .  Than it paused in midair and turn off it’s light witch was just a bright white light and than the light came on but got brighter than it ever was before than it disappeared the same Direction it came from all in what seemed like a minute time frame.  I’ve seen many things but never before like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154840.html](http://www.nuforc.org/webreports/reports/154/S154840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw a black rectangle shape, in the horizontal postion, hovering over downtown Austin, Texas, and saw it rotate parallel to the ground and continue a path to Bergstrum Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133442.html](http://www.nuforc.org/webreports/reports/133/S133442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
