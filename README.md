@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hinkley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>string of 6 orange balls of light  float in formation slowly low over open desert northwest of Barstow, CAI live 5 miles north of Hinkley, CA is wide open undeveloped Mojave Desert. Out a north window of my house I saw a string of 6 orange balls of light moving slowly horizontally in smooth floating manner just above ground level. They were evenly spaced with bright centers and paler halo of orange light around the outside. The overall shape was like a large caterpillar. They moved from west to east in front of a hill 4 miles away to the northeast. I ran for my automatic digital still camera and set it on (15 second) "video" as I did not want to give my position away by using a flash setting. I just saw the tail end of this object(s) as it turned to the north and then west, around the back of the hill. Orange light was now coming out from both the east and west sides of the hill. Then all went dark. There is a dirt road out there that leads to Superior Valley.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43356.html](http://www.nuforc.org/webreports/reports/043/S43356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Yuba City (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two light objects Appeared the second one stayed longer and flashed it’s light and then disappeared the same way it came fromI was out side with my three friends they were in the car I was looking into the sky when outta no where a light zoomed in quickly and than disappeared . Not but a minute later the same light from the same dictation another zoomed in but this one stayed it seemed to go up and down going in to view and outta view in the clouds .  Than it paused in midair and turn off it’s light witch was just a bright white light and than the light came on but got brighter than it ever was before than it disappeared the same Direction it came from all in what seemed like a minute time frame.  I’ve seen many things but never before like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154840.html](http://www.nuforc.org/webreports/reports/154/S154840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
