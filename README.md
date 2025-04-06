@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norton Shores (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Seen over Lake Michigan with binoculars. Was changing colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154830.html](http://www.nuforc.org/webreports/reports/154/S154830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bacolod (Philippines) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 3 hrs. - 3 hrs. minutes.</sub><blockquote><sub>At exactly 10:00 p.m. me and some of my friends and neighbors have seen a coned shaped glowing object at the sky. As we looked through our binoculars, we observed that the flying object has differnt colors like red, blue, green, yellow and silver.  Three days before my uncle saw this flying object but he didn't bother to report it. They thought that it was only a star but it was different. It was not twinkling like a star. It only changes it's color every quarter of a second. We based it's movement from every other stars and it was faster and it moves to the east.  At 11:30 p.m., it was seen again at the south were it was seen at 10:00 p.m. I once red a book about this and the article said that most people that saw this U.F.O.'s always says that they have never seen anything like this before and now I am one of them who is amazed to see this object and will always be watching the sky at night to report this object again if ever I see this again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36036.html](http://www.nuforc.org/webreports/reports/036/S36036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
