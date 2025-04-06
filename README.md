@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Athens-East Limestone (AL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fast moving light streak with impossible movementI was standing in the exit door of my garage watching a plane on approach to Huntsville International Airport, circling from the south to the north approach to the airport.  As the plane banked right, approximate location was over the water towere off Menefee road, a small blue-white light appeared behind and above the aircraft that caught my eye.  The light turned into three comet like blue-white lights as it accelerated in descent, approximately a 60 to 70 angle traveling north west.  As it accellerated two small red lights appeared between the three blue-white lights, all five lights were in a straight line perpendicular to the flight path.  The tails from the blue lights went from the beginning point I saw the light to the point it leveled out, no less than 300 feet, then slowly retracted to a single light moving away towards the North East.  Very quickly its size shrank and disappeared.  No sound other than the airliner overhead.  There was also a plane to the! North West, looked like it may have taken off from Huntsville and swinging around towards Mempis, TN.  No aircraft accelerates that fast, moves that fast or glows like that with no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80780.html](http://www.nuforc.org/webreports/reports/080/S80780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ottovile (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright lights near Ottoville, OhioHeading westward on SR 189 out of Ft. Jennings, Ohio at the intersection of Putnam County Road 24 I saw the light. I was approaching Ottoville, Ohio and I noticed directly in front of me at a very low altitude, a steady white to amber bright light in the proximity of the twin clock towers of Immaculate Conception church. The light also had a less bright, blinking red light occasionally. As I turned north onto Road 24 it was to my left and appeared to be moving parallel to me. I slowed to approximately 5 mph and noticed the considerable brightness compared to the village lights and the stars. I proceeded north and noticed it was tracking along with me somewhat. I looked away briefly and when I looked to my left again it was totally gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49997.html](http://www.nuforc.org/webreports/reports/049/S49997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
