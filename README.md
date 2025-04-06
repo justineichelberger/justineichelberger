@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:15 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:55 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Branch (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Driving south on Garfield towards spring dale, during an early/bright sunset, I saw to the East a BRILLIANT large bright light, hovering 200-500ft from the ground (it was difficult to gage how far or close it was on the horizon in proximity to me) I watched the single stinging ball of light hover in the same spot for 2 minutes, then it simply vanished in the blink of an eye. I have seen strange lights in the sky many times before and not been able to explain it, but this one stood out to me and struck a chord for some reason.I am writing this 4 days after the initial sighting, because soon after something else unsettling happened to me.I’m not sure where to write this story for you, or if I should include it. Because it may seem a little crazy or  maybe even like nothing big at all,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156402.html](http://www.nuforc.org/webreports/reports/156/S156402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Redwood City (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>6 yellow lights in two triangle formationsI was walking my dog and looked up in the sky and saw 6 yellow lights in a triangle formation.  This formation lasted about 5 min or so. I thought it was military helicopters but then five lights disappeared and one stayed in the air for a while.  I don't believe in ufo but this was kind of strange, my own family doesn't believe me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97003.html](http://www.nuforc.org/webreports/reports/097/S97003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
