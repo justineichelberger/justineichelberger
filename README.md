@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bristol (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Object was coming from the west, and was completely silent. It had a large white light that kept going back & forthThe object was coming from the west, and was completely silent. It had a large white light that kept going back and forth, almost like an eye. It gave me the creeps and I froze, not wanting it to see me.. It suddenly vanished after passing over Bath Road. We proceeded to walk, and a second, identical object appeared following the first object. That one disappeared also! Again, I had that creepy feeling and felt like I did not want the object to detect us. They looked sinister. Unfortunately, I left my phone at home on the charger, so I could not take a picture.(MUFON CMS)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161581.html](http://www.nuforc.org/webreports/reports/161/S161581.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Norton Shores (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Seen over Lake Michigan with binoculars. Was changing colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154830.html](http://www.nuforc.org/webreports/reports/154/S154830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
