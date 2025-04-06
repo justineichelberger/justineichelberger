@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 6 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Florence (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange ball of fire floating across the sky.We were out at Country Thunder (and very sober!).  Saw an orange ball of light in the sky, slowly making its way across the desert south to northeast.  Too high to be a floating lantern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139382.html](http://www.nuforc.org/webreports/reports/139/S139382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Mead (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Solid White Lights seen south of Temple Bar Road Bonelli Landing Lake Mead Natl Rec AreaDuring a camping expedition across Arizona I drove offroad in my SUV in an attempt to get close to the water in the Lake Mead Natl Rec Area.  My exact location and whereabouts are uncertain but I can at least make a general guess that i was somewhere between Bonelli Bay and the Temple Bar Marina in a cove somewhere.  As the evening drew in the drive became hard to see.  I didn't want to fall into an unseen gully nor did I want to drive over a dried tree stump and get a flat so I decided to just wait out the night.  As it started to rain i felt that the best thing was to just fall asleep in the truck with blankets over me.  I noticed as the night time creept it started to get very dark and all the crickets and bugs around my truck started to get fiercely loud and active.  I was staring into the night sky sitting behind the steering wheel when I noticed a few bright white lights in a V formation head toward my direction.  At first I thought that they were interestingly playful because they would fly together and then the leader or point light would leave the other two and head closer in towards my way.  It was obviously not an airplane because they would stop and then proceed in alternating speeds.  I had a great view of them especially because it was so dark where i was parked there were no signs of obstructive clouds in their range.  I remember it being very cold and sort of windy.  As I watched these lights come in and move out I tried to listen to them in order to determine if they were helicopters or military style aircraft.  It was very interesting to watch them move, stop and then forward heading in a direction towards the Hoover dam area or Boulder City.  Over a couple of hours these lights were playing in the midnight sky but never seemed to make any noise or any sudden moves other than great speeds as they were darting in the sky.  After a few hours there were lower flying helicopters circling the area with what had appeared to be flood lights grooming the area.  But, the helicopters were distinctly recognizable compared to the playful lights in the sky as you could hear their blades cutting through the wind.  At one time you could see a wide panoramic view of airlines on route, helicopters and these UNKNOWN solid white lights moving high and stopping in an orderly fashion as to be watching me watch them hover and dart to the west.  It also appeared as if a light would stop and then another light would break off from its original making two independent solid white lights. They were actually fun to watch. By the morning I decided to leave and head to Las Vegas, Nevada.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45524.html](http://www.nuforc.org/webreports/reports/045/S45524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [257](http://www.nuforc.org/webreports/reports/163/S163034.html)
-- [256](http://www.nuforc.org/webreports/reports/162/S162551.html)
-- [255](http://www.nuforc.org/webreports/reports/162/S162582.html)
-- [254](http://www.nuforc.org/webreports/reports/162/S162764.html)
-- [253](http://www.nuforc.org/webreports/reports/162/S162590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
