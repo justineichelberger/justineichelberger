@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:28 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:58 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A very long string of white lights appearing to be of the same enormous object configured in a line traveling silently at a high speed.Very visible long straight line of white lights, not blinking but constant, very close together appearing to be originating from the same craft.  Craft was moving from NW to SE at a rapid rate but gave no sound at all. Craft appeared to be high in the sky, approximately 7000 ft.  Was not low, which adds to the enormous size of the craft.  Craft faded out very high in the sky after passing over, which again proves it was enormous and not an optical illusion. Craft flew at a constant speed.  Could not see a defined shape of the craft, only the lights. Took photo with camera on phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162565.html](http://www.nuforc.org/webreports/reports/162/S162565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cumbria (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange coloured orb in sky.Anyone who has been to Cumbria United Kingdom (Also known as The Lake District), will understand the landscape, everything is on a hill or mountain. (important to understand).Anyway, I recently traveld there to visit my boyfriend, I spent a week there which is why I am unsure of the date.  One of the nights we decided to take a night time drive through the landscape and country side.  We parked up on a hills side and we were sat talking for sometime when we ended up nodding off to sleep.I awoke and as I opened my eyes I could see straight out of the drivers window.  Hovering just over the hill was a orange/yellow light.  I woke boyfriend and we looked at it for sometime.  The object didnt move or change in anyway. after looking at it for about 5 mins, we came to the conclusion that it must be a star, even if the colour was different slightly.  We continued talking then 5 mins later, my boyfriend realised it had disapeared.  None of the other stars around it had moved, we hadnt moved in the car, we were still parked up in the exact same spot.We didnt hear any sounds that a helicopeter/plane would make.  It was the exact same colour as a flame.This would be the second UFO sighting I have reported to this sight.  My first one being a couple of years ago in Doncaster.I am unsure and so is my boyfriend what the postcode, of the road we were parked on, is.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75005.html](http://www.nuforc.org/webreports/reports/075/S75005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
