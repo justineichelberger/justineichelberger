@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Formation' over a period of approximately a long time - a long time minutes.</sub><blockquote><sub>I heard noises like jets warming up at Nellis,Ilooked up into some clouds over head & saw 4 white balls going back & forth from a white center of 4 ball, like lights in a steady pattern.I thought it could be a hallogram? from red flag?It was there the next night too. I live near Sam BOyd stadium.You know when the lights advertise something? Like that, only there was no light to attach from the ground.The balls went north.south,east & west & into the center &back to the direction from where it had come from.The balls could of been flat, as they were sorta ghost like in appearance,but i got a clear look & thought i don't get it, as we are not near the air port or Nellis.I could see the luxor light as well in the distance, but it comes from the casino & these lights were in the sky?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17233.html](http://www.nuforc.org/webreports/reports/017/S17233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Break of dawn, an orange sphere shooting thru the sky stops & hovers with an huge white light illuminating from it in a cone shape.I thought It was a meteor shooting thru the sky as it looked larger than a shooting star but bright and orangish in color.  It appeared to be gone when all of the sudden to the west something was in the sky and all I could see was a huge bright spotlight illuminating from it. I could not see the shape of the ufo as the light was too bright.  It seem to be still or moving very slowly and I stood mesmerized watching it for about one minute.  All of the sudden it was simply gone, no noise.  I looked around frantically and did see a light shooting off in the distance to the South upward.  I could then see a purple haze or vapor against the morning sky trailing off in the distance to the South.I also noticed in the sky as I continued my walk just southeast, some angular shaped white vapor trails like those an airplane would normally leave.  But since they were angular and zig zagging everywhere..I assume they also came from this ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50005.html](http://www.nuforc.org/webreports/reports/050/S50005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
