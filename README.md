@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright Green Light streaming from east to west, slowed then turned white.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69570.html](http://www.nuforc.org/webreports/reports/069/S69570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Granite Falls (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>a bright ????we were in the kitchen watching outside when we seen a single star just about deer mountain.we thought it was a helecopter because it seemed to "jerk"every so often.we looked around the sky and noticed there were no other stars in the sky at the time.we kept watching it because it was so bright and it seemed to move.it slowely went down and seem to have "landed"on the mountain.  we watched it for a while and then all of a sudden it shot up in the air and slowely flew up and then went n.e untill we could no longer see it.it reminded us of a helecopter surveying an area.but this wasnt one it was a bright light all the was around.it didnt twinkle like a star and it didnt have any flashing lights on it.well the next night we watched out the window again and it came back and did the same thing.when it landed it had a glow to it.you could see the glow above and around the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22467.html](http://www.nuforc.org/webreports/reports/022/S22467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
