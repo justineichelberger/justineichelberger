@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brentwood (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>V-shaped gliding over my house.I entered a report 3 weeks ago and I guess the author thinks I invented it and never published it. It was Monday evening, I was outside my house fixing my solar lights and by chance looked up the sky to watch the stars. I was staring towards the Big Dipper when I saw this huge V-shaped space craft, gliding silently about 30 to 50feet from my roof top. At first I thought it was jsut a glider but I realized that it was late at night and the object was so huge and so close.I thought maybe it was a stealth bomber but I saw a stealth bomber before and it is not even close to that. It has green lights, made no sounds nd was just gliding silently. It even resembles a wing of a dragon, green and black.It was very vivid.I watched it for almost 8 minutes until my roof covered the view. It cant be a plane cause it would be too low that it would have been illegal.I am glad Iam not the only one who saw it, or my co-workers would think that I just made it up.I am a Registered Nurse and I am not making this up.There is no airbase close to my place nor an airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62649.html](http://www.nuforc.org/webreports/reports/062/S62649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frankfurt am Main (Germany) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Translucent shimmering oval object in the fabric of the night sky over Frankfurt, Germany											April 15th, 2014.  I live at the north-eastern edge of Frankfurt, with my appartment balcony facing south-west.  One evening, about a week ago, around 10pm, I was on my balcony, having a look at the night sky to see just how busy Frankfurt Intl was, as the 11pm – 5am Flight curfew approached.I could see the lights of one aircraft to my right , heading south-west, which suggested that  r/w 07 was in use that night.  To just confirm that I looked to where I would expect departing aircraft to appear, as they departed r/w 07. There was no traffic … but I did notice something.It was a translucent 'shimmering' in the night sky, oval in shape, and the same size as I would expect a departing jet would be.  It was travelling from (my) left to right, just as if it had made a left turnout from the aiport. It was like a ripple in the fabric of the night sky.  I could switch my gaze between both the downwind aircraft and the object (which looked as if it was heading directly for the aircraft, even at the same height) without any problem.It passed well behind the commercial jet and I lost sight of the 'object' as it passed to the west.  The whole 'sighting' lasted around 2 minutes.I have never seen anything like this before.  As it had a size and speed agreeing with commercial traffic in the night sky, I immediately thought of it being some sort of stealth aircraft .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108661.html](http://www.nuforc.org/webreports/reports/108/S108661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
