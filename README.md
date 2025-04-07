@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:42 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5 red lights in the shape of a triangleMy girlfriend and I were driving down Abrams coming back from the grocery store when I noticed 3 crafts forming the shape of a triangle. I said to my girlfriend,  "Those planes are flying in a weird formation".  Upon closer inspection, each "dot" forming the shape shined red, as if they were rows of red lights next to each other.  At this time we realized it wasn't anything normal.  As the trees parted and the view cleared, a 4th and 5th "dot was added to the triangle shapes in that leftmost and rightmost corners.  The the entire formation vanished completely.  The whole ordeal may have only been about 30 seconds long.  We don't know how long they had been there before we noticed them.  My girlfriend and I have always been interested in UFOs (me more than her, as she thinks it's cool, but pokes fun at me).  I have never seen UFO in the past, but have researched and seen "live" video accounts.  The shape reminded me of the lights that appeared over Arizona.  This was both! exciting and scary.  We haven't seen anything else in the sky.  I hope someone else can confirm seeing this as it was over a very populated area. (sorry, I sent on accident the 1st time, the actual date for this occurrence is 4/7/12)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88257.html](http://www.nuforc.org/webreports/reports/088/S88257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Hovering UFO over Central Parkhttp://www.youtube.com/watch?v=JZSdrtEqcHU&feature=player_embedded I was watching a report on this writer that lives in a 90 ft apartment in new york and when they show a shot of Central Park it shows something hovering around on the left side of the screen, the above is the link on the youtube video of that report.If you watch on minute 3:49 to 3:56 of that video you will see the object hoovering and moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80790.html](http://www.nuforc.org/webreports/reports/080/S80790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
