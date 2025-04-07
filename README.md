@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:25 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:14:31 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Armidale (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 rapidly moving lights over ArmidaleStartred as 4 lights circling each other, then over the next 5 minutes another 4 appearred and started to move rapidly. The lights got closer to each other than joined into one than sped off.((NUFORC Note:  Date is approximate.  We would have to be convinced that the witness was not observing two advertising lights, before we could conclude that the lights were genuine UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41980.html](http://www.nuforc.org/webreports/reports/041/S41980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Strange, beautiful, confusing.  I wonder what I saw??Well I can’t believe it’s me writing this.Last night (April 7, 2004 from approximately 9:30 to 11:00 pm EST) I saw what I guess was a UFO. But it was not what I always thought of as a UFO. In the northwest sky there was an extremely bright, extremely white light so much so that it looked as you might expect a diamond would sparkle under a bright light. At times it also seemed to shift, for a second or so, to a slight reddish color and then back to white.  In size it was at least ten times that of the biggest star in the sky. Now from here on in I’m not sure if what I saw was real or imagined. There seamed to be small dot shaped, orangish – reddish in color, “balls, disks” in the surrounding area of the light. They numbered perhaps eight or ten. I referred to them as dots because they were perfectly round as a dot and with no extending light beyond the actual shape. Then I saw what appeared to be two of the dots move away at a fairly fast speed. The one followed the other in exact formation space and distance from the other. As they moved away a white light was added to the orangish/red color.  They continued moving away and finally disappeared. At one point approximately 30 minutes after I first saw the light it dropped lower in the sky, just a little, the reason I noticed this was because it was now just slightly below the tree line. Before going to bed, 11:00 pm, I went to take a last look and it was gone.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36049.html](http://www.nuforc.org/webreports/reports/036/S36049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
