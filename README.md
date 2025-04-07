@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:22 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:42 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small light seen in jackson, michiganMe and my cusin was out side on the swing and saw this light moving across the sky, we didn't think much of it we thought it was an air plane till it did a sharp turn going in to the sky, we ran in side to get my mom, aunt, uncol,and cusin. they came out side to see it and when we came out it was going fast to the east, then it went strait up, back down, left, up in the sky and disapeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26168.html](http://www.nuforc.org/webreports/reports/026/S26168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>5 red lights in the shape of a triangleMy girlfriend and I were driving down Abrams coming back from the grocery store when I noticed 3 crafts forming the shape of a triangle. I said to my girlfriend,  "Those planes are flying in a weird formation".  Upon closer inspection, each "dot" forming the shape shined red, as if they were rows of red lights next to each other.  At this time we realized it wasn't anything normal.  As the trees parted and the view cleared, a 4th and 5th "dot was added to the triangle shapes in that leftmost and rightmost corners.  The the entire formation vanished completely.  The whole ordeal may have only been about 30 seconds long.  We don't know how long they had been there before we noticed them.  My girlfriend and I have always been interested in UFOs (me more than her, as she thinks it's cool, but pokes fun at me).  I have never seen UFO in the past, but have researched and seen "live" video accounts.  The shape reminded me of the lights that appeared over Arizona.  This was both! exciting and scary.  We haven't seen anything else in the sky.  I hope someone else can confirm seeing this as it was over a very populated area. (sorry, I sent on accident the 1st time, the actual date for this occurrence is 4/7/12)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88257.html](http://www.nuforc.org/webreports/reports/088/S88257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
