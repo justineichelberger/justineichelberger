@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Stationary Object off Ocean Beach San DiegoI was out walking on the Ocean Beach Pier. There is a great deal of commercial and military air traffic in this area, so I was watching the sky. As I watched I saw what I first thought was a regular aircraft light, i.e. a commercial airliner "headlight".As I watched though the light increased n brightness. It was a lightly clouded evening and this object was positioned so that it was ringed (as though it were in the center -the doughnut hole- of a "doughnut-lke" cloud formation). It was a very dark night, I'm not sure if it was a new moon or the moon had already set.I could not tell the distance, but it seemed clearly too far for even an airliner light source to be so bright. Also it appeared to be stationary for the duration of my sighting. It became bright enough to illuminate the surrounding edges of the cloud formation that it was in. It grew and diminished slighty in brightness, until it eventually disappeared (it seemed to have 'winked out' rather than sped off).Very shortly after the lght's disappearence, a smaller plane, what I would perceive as a military or private sized plane (I do not know which), passed very quickly through an closely adjacent region of the sky. This craft did not appear to be the same object, but I presumed was there to 'check out' the light. I am not sure of this this is pure speculation.I consider myself a relatively competent observer (I am a visual artist), and I was a bit taken aback by the prominence of ths object in the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22963.html](http://www.nuforc.org/webreports/reports/022/S22963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Williamsport (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red, Blue & White Strobes Stationary in the Night Sky.On a clear night I happened to look though my 10x50 binoculars along a tree line of a forest. I noticed a cluster of strobe lights 1 red, 1 blue, & 1 white, the strobes were flashing very quickly (about 5-10Hz frequency) but not in any cadence with each other.  I could not see any details of the UFO, it was very far off in the distance, atleast 5 miles, I just saw the 3 strobes.  The strobes did not move in position relative to each other, they appeared to be of the same body.  I watched this object on and off for about 90 minutes and it did not move. I attempted to find it in a telescope but was unable before the sunrise washed it out. I have not searched for it again as of yet. What did I see? There may be a simple answer but I never saw anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97507.html](http://www.nuforc.org/webreports/reports/097/S97507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
