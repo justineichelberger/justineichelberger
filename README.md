@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White light in clear sky, flickered then appeared as thinner chrome object, 10-15 seconds duration.While driving south on Maple Canyon (about 50 yards north of the Dublin-Granville Rd intersection) I came to a stop due to a red traffic light.  A flash of white light ahead in the clear blue sky caught my eye, at first thinking it was an airplane.  By judging the distance/height of the object, I would place it somewhere around 15,000 ft in the air, appearing to be about the diameter of 1.5-2 commercial airliners.  The white light (circular/oval shape) became smaller (about half the size), returned to its original size, then with a flash of chrome suddenly appearing (as if turning or changing shape and reflecting sunlight possibly), a thinner flat shape became visible and without the white circular/oval light.  While still stopped due to traffic, I never lost focus of the object, but it then completely vanished.  No trails visible anywhere near where I witness the object, only clear blue skies.  The duration of the event was 10-15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133485.html](http://www.nuforc.org/webreports/reports/133/S133485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The hospital is 8 stories and when it became directly over our heads we could tell it was only 50 or 60 more feet high.Friday evening myself and my coworker were went outside Washington County Hospital to put our book bags in our cars because we were leaving work at 23:00.  As we were talking we both noticed a slow pulsating red light, about 3.5 miles south and Im not good at judging the height but it was maybe 100 feet higher then a cell phone tower. A few minutes pass and the light moved straight up and slowly started heading toward the hospital.  It was moving so slow that I asked "Is is me, or is that light moving toward us?"  She agreed with me and and it took about 5 minutes for the light to move 3.5 miles. Its movement was a constant speed and the light didn't change its speed of pulsations. I can't be sure how fast it was moving, but I can be sure it wasn't as fast as a helicopter.  The hospital is 8 stories and when it became directly over our heads we could tell it was maybe 50 or 60 more feet high. I was have never experienced something like this before.  I have been around air crafts all my life and it was not a helicopter or an airplane.  It was dead SILENT! We were so freaked out I think we both must have said to each other "noone's going to believe us" 100 times.  The object continued over the hospital and disapeared.  The whole time it was moving I concentrated on what was surrounding the light. Due to poor lighting however, I couldn't be sure shape or size.  I could only observe some black construction of an aircraft around the light. I also believe that what ever it was we saw had to be relitivly small.  I don't know what it was but I don't think it was military, because there are no military places in hagerstown, and it was too low and silent to be a helicopter.  Im puzzled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43418.html](http://www.nuforc.org/webreports/reports/043/S43418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
