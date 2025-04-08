@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:50 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:26:59 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rochester (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i went to feed my dog with my sister and there were yellowish orange lights in the south sky.there was 3 flashes of light then there was 3 more that moved a little bit the lights were yellowish orange.((NUFORC Note:  We wonder whether this might have been an evening sighting.  We have changed the time to 22:01 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36229.html](http://www.nuforc.org/webreports/reports/036/S36229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SIX ORANGE LIGHT MOVING QUICKLY ACROSS A NIGHT SKY6 ORANGE LIGHTS MOVING QUICKLY ACROSS A CLEAR NIGHT SKY.  I WAS ACTUALLY LOOKING AT THE STARS (THEY WERE VERY PRETTY) AND SAW A LIGHT MOVING.  I THOUGHT IT COULD BE A SATALLITE BUT THEN I SAW MORE LIGHTS.  I ASKED MY HUSBAND OUR 2 FRIENDS TO LOOK UP AND IF THEY KNEW WHAT THEY COULD BE.  THE LIGHTS WERE MOVING QUITE SWIFTLY AND SEEMED TO BE VERY HIGH UP.  WE CONCLUDED THAT THEY COULDN'T BE PLANES AS THEY WERE TOO CLOSE TO EACH AND CHANGED POSITION SEVERAL TIMES AND THERE WEREN'T ANY FLASHING LIGHTS OR NOISE.  WE THOUGHT THAT THEY MAY BE VERY LARGE WHITE BIRDS (SWANS MIGRATING) AND THAT MAY BE THE ORANGE GLOW FROM STREET LIGHTS MAY BE REFLECTING OFF THEM.  BUT AS THEY GOT FURTHER AWAY THE LIGHT INTENSITY DID NOT CHANGE AND THE APPEARANCE OF THE LIGHTS SEEMED TO BE TOO HIGH FOR US TO HAVE SEEN THE BIRDS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43416.html](http://www.nuforc.org/webreports/reports/043/S43416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
