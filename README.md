@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 7 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frankfurt am Main (Germany) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Translucent shimmering oval object in the fabric of the night sky over Frankfurt, Germany											April 15th, 2014.  I live at the north-eastern edge of Frankfurt, with my appartment balcony facing south-west.  One evening, about a week ago, around 10pm, I was on my balcony, having a look at the night sky to see just how busy Frankfurt Intl was, as the 11pm – 5am Flight curfew approached.I could see the lights of one aircraft to my right , heading south-west, which suggested that  r/w 07 was in use that night.  To just confirm that I looked to where I would expect departing aircraft to appear, as they departed r/w 07. There was no traffic … but I did notice something.It was a translucent 'shimmering' in the night sky, oval in shape, and the same size as I would expect a departing jet would be.  It was travelling from (my) left to right, just as if it had made a left turnout from the aiport. It was like a ripple in the fabric of the night sky.  I could switch my gaze between both the downwind aircraft and the object (which looked as if it was heading directly for the aircraft, even at the same height) without any problem.It passed well behind the commercial jet and I lost sight of the 'object' as it passed to the west.  The whole 'sighting' lasted around 2 minutes.I have never seen anything like this before.  As it had a size and speed agreeing with commercial traffic in the night sky, I immediately thought of it being some sort of stealth aircraft .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108661.html](http://www.nuforc.org/webreports/reports/108/S108661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Junction City (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife took video of a orangish / pink object eratically moving in the sky above Eugene Oregon.My wife was taking pictures of the full moon on the night of April 8th around 10:30 pm when she notices a orangish pink object moving erratically in the sky.  She started to video the object.  She got 1 minute and 45 seconds of the object flying around.  Then the object disappears twice and at the 12 second mark it lets out a flash of light, similar to sheet lightening.( looks like it was hit by something)  At about 1 minute and 38 seconds it disappears two more times and another bright light flashes across the sky.  This time it leaves a trail and disappears.( looks like it was shot down by something).  My wives phone battery instantly discharges to zero charge and shut off.We had no cloud cover that night and no planes were flying in or out of the airport at that time. I will send the video to back this up.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155070.html](http://www.nuforc.org/webreports/reports/155/S155070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [291](http://www.nuforc.org/webreports/reports/162/S162568.html)
-- [290](http://www.nuforc.org/webreports/reports/162/S162566.html)
-- [289](http://www.nuforc.org/webreports/reports/162/S162563.html)
-- [288](http://www.nuforc.org/webreports/reports/162/S162565.html)
-- [287](http://www.nuforc.org/webreports/reports/162/S162572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
