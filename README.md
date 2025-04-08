@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blenheim (New Zealand) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was fishing tryna get a good picture for facebook profile snapped a series of photos in a short period and got some interesting pictures worth a look into it was in my close proximity at one point close encounter maybe</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158235.html](http://www.nuforc.org/webreports/reports/158/S158235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>White light in clear sky, flickered then appeared as thinner chrome object, 10-15 seconds duration.While driving south on Maple Canyon (about 50 yards north of the Dublin-Granville Rd intersection) I came to a stop due to a red traffic light.  A flash of white light ahead in the clear blue sky caught my eye, at first thinking it was an airplane.  By judging the distance/height of the object, I would place it somewhere around 15,000 ft in the air, appearing to be about the diameter of 1.5-2 commercial airliners.  The white light (circular/oval shape) became smaller (about half the size), returned to its original size, then with a flash of chrome suddenly appearing (as if turning or changing shape and reflecting sunlight possibly), a thinner flat shape became visible and without the white circular/oval light.  While still stopped due to traffic, I never lost focus of the object, but it then completely vanished.  No trails visible anywhere near where I witness the object, only clear blue skies.  The duration of the event was 10-15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133485.html](http://www.nuforc.org/webreports/reports/133/S133485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
