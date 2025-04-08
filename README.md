@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Indiana (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>mysterious trip to indianaIt was about 5:00 am, me and my mom were on our way back to our house in indiana (we were visiting chicago and i had to go too school monday) so anyways we were near ALOT of wind mills and i starzed to o see this ovalish strange looking shape move up, and i told my mom about it and she quickly turnes around and saw it and i also noticed it had 3 legs, to land on.   So im going to go through it again it had an ovalish shape, a big window in the front or side, and 3 legs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97062.html](http://www.nuforc.org/webreports/reports/097/S97062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Blenheim (New Zealand) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was fishing tryna get a good picture for facebook profile snapped a series of photos in a short period and got some interesting pictures worth a look into it was in my close proximity at one point close encounter maybe</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158235.html](http://www.nuforc.org/webreports/reports/158/S158235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
