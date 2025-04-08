@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Continuous line of 10-15 satellite-like objects moving steadily and evenly-spaced across the skyWitnessed on April 8, 2019 at about 9:45pm. 	I was sitting outside looking up at the sky when I noticed what I assumed was a satellite traveling along the sky, headed from Northwest to Southeast or so. I looked away for a moment and lost sight of it upon looking back up. I began searching the sky in that area to see if I could catch it again, but instead I saw another one coming from where the previous one had just come. I watched that one for a moment and after traveling along for maybe about 10 seconds (toward whatever dipper constellation that’s currently above my neighborhood actually) it seemed to just sort of vanish, despite there being no cloud cover.	I then realized that there was another one coming from the same area with yet another following behind it. These were all traveling at the same rate of speed, which would be extremely fast for how far away they were, and were equally spaced apart. I witnessed up to three at the same time. They all traveled the same path and disappeared in the same general area. I watched this happen continuously for at least five minutes and, while I didn’t count them, there would have been 10 or more that I saw. I then saw three more come from further south, then travel toward where the others had headed and disappear in the same general area. There were no flashing or colored lights that I saw on any of them, nor did I see any evidence of exhaust, smoke or contrails behind any of them. There were also no accompanying noises. I tried to capture video, however my phone was unable to detect the objects. I am a 30 year old caucasian female and was not under the influence of any drugs, alcohol or substances otherwise at the time of my observation. I live in a residential neighborhood that is two miles south of Lake Ontario and have never witnessed anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154884.html](http://www.nuforc.org/webreports/reports/154/S154884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>a object fell, then two hours pased.the object burned brightly for 3 minutes.then it fell to the ground.Very slowly,though. then it hit our car.when we woke up,it was 10:31.but it felt like 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69752.html](http://www.nuforc.org/webreports/reports/069/S69752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
