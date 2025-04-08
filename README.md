@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:50 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Junction City (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife took video of a orangish / pink object eratically moving in the sky above Eugene Oregon.My wife was taking pictures of the full moon on the night of April 8th around 10:30 pm when she notices a orangish pink object moving erratically in the sky.  She started to video the object.  She got 1 minute and 45 seconds of the object flying around.  Then the object disappears twice and at the 12 second mark it lets out a flash of light, similar to sheet lightening.( looks like it was hit by something)  At about 1 minute and 38 seconds it disappears two more times and another bright light flashes across the sky.  This time it leaves a trail and disappears.( looks like it was shot down by something).  My wives phone battery instantly discharges to zero charge and shut off.We had no cloud cover that night and no planes were flying in or out of the airport at that time. I will send the video to back this up.  Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155070.html](http://www.nuforc.org/webreports/reports/155/S155070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rochester (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i went to feed my dog with my sister and there were yellowish orange lights in the south sky.there was 3 flashes of light then there was 3 more that moved a little bit the lights were yellowish orange.((NUFORC Note:  We wonder whether this might have been an evening sighting.  We have changed the time to 22:01 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36229.html](http://www.nuforc.org/webreports/reports/036/S36229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
