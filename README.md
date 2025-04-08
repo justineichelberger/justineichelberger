@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:55 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Griswold (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>UFO in Griswold ConnecticutI was driving to pick up my friend from his girls house and on the road we were goin down a hill and there was a saucer that apeared to be 5 ft from a distance with 3 huge lights and it was rotating/hovering through the sky about 75 ft from the top of the trees. when my friend entered the car from a few houses up he immediately said he had seen the same thing from out back on his porch. i was on janice lane off bethel in griswold connecticut. unfortunately i have no pictures or footage  if anyone else has seen this please contact me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88275.html](http://www.nuforc.org/webreports/reports/088/S88275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UFO with 2 White Lights.I was driving and stopped at a stop light & saw a moving craft hovering under the clouds.The craft was 2 bright white lights & it moved from right to left slowly.  The left to right movements were dramatic & thats what caught my attention.  It was in the visual range of less then a mile away from where I was located.It was a cloud covered night & you could not see the sky/stars.  It was also a night of high winds, so I dont think any small aircraft or helo's would be flying on a night like this.  The craft was mostly stationary other then the left to right movements.I would like to add I am a navy veteran & worked directly with aircraft & know what an aircraft looks like & how they move through the sky.  This sighting out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108472.html](http://www.nuforc.org/webreports/reports/108/S108472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
