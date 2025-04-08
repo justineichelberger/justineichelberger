@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Monroe (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>bright orbs of light in the skyAt first I thought it was a bright star then I notised it was flickering red, green and white.  I was it two nights in a row.  First night it was just one hovering low in the sky lasting for about an hour.  The next night (tonight) I saw it again at a different location and a second one appeared about an hour after the first one was hovering.  The second one was parallel to the other and brighter and flickered red and blue like a firecracker.  When the other appeared the other faded away and then the second one flew over my head slowly with out any sound just flickering red and blue and white slowly flying into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74950.html](http://www.nuforc.org/webreports/reports/074/S74950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Centerline (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Approx 11:45 pm I seen 2 sets of lights triangular or possibly diamond flying in unison.  It happened so fast, if west is 3 oclock and east is 9oclock while looking east the lights appeared say about 1 o'clock and disappeared at about 10 oclock.  this was my vidid observation the initial transpired before 1 oclock.  The lights were about 10 to thirty degrees south of zenith.  The lights disappeared in the haze before a cloud.  A jet followed about the same path.  Wow a shooting star just past by.  As im typing. Something is going on.  When I looked at my clock on the micro wave before I called my dad to tell him about came bacck looked at the micro wave again it showed seconds on it as if was interupted from cooking.  They know I know. Im gonna leave it at that.  Spooked but believe in Enoch.  Something is out there this is my third sighting in my life. ]Har dreams of abductions before sometimes feel as if im part of them.  Please leave me alone just trying to do right.  Ukraine? USA?  Are they screwing up?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108477.html](http://www.nuforc.org/webreports/reports/108/S108477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
