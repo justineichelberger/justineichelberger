@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:26:59 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:25 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oakville (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>SIX ORANGE LIGHT MOVING QUICKLY ACROSS A NIGHT SKY6 ORANGE LIGHTS MOVING QUICKLY ACROSS A CLEAR NIGHT SKY.  I WAS ACTUALLY LOOKING AT THE STARS (THEY WERE VERY PRETTY) AND SAW A LIGHT MOVING.  I THOUGHT IT COULD BE A SATALLITE BUT THEN I SAW MORE LIGHTS.  I ASKED MY HUSBAND OUR 2 FRIENDS TO LOOK UP AND IF THEY KNEW WHAT THEY COULD BE.  THE LIGHTS WERE MOVING QUITE SWIFTLY AND SEEMED TO BE VERY HIGH UP.  WE CONCLUDED THAT THEY COULDN'T BE PLANES AS THEY WERE TOO CLOSE TO EACH AND CHANGED POSITION SEVERAL TIMES AND THERE WEREN'T ANY FLASHING LIGHTS OR NOISE.  WE THOUGHT THAT THEY MAY BE VERY LARGE WHITE BIRDS (SWANS MIGRATING) AND THAT MAY BE THE ORANGE GLOW FROM STREET LIGHTS MAY BE REFLECTING OFF THEM.  BUT AS THEY GOT FURTHER AWAY THE LIGHT INTENSITY DID NOT CHANGE AND THE APPEARANCE OF THE LIGHTS SEEMED TO BE TOO HIGH FOR US TO HAVE SEEN THE BIRDS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43416.html](http://www.nuforc.org/webreports/reports/043/S43416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>9 orbs video over house Video Link https://ufostalker.com/sighting/1076251 orb is seen moving left to right. my brother & i both experienced missing time on the same day which was on sunday 3 days before this encounter. my whole family has been having encounters with aliens the grays & 7 other different species for over 3 decades. no matter where we move the aliens always find us.  We believe these craft are flown by aliens not of our world. there was no sound coming from these craft.  Video Link https://ufostalker.com/sighting/107625</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154972.html](http://www.nuforc.org/webreports/reports/154/S154972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
