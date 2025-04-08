@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 large cylinder shaped crafts flying near Lake ErieOn Monday April 8th 2013 My family and I witnessed a large cylinder shaped craft, grey in color, flying overhead.  It was a very clear day and there was no noise whatsoever associated with this craft.  It flew at a constant speed and left no chem-trail behind it.6 minutes later another cylinder shaped craft flew the exact same flight path as the first followed closely by a 3rd object.  I was terrified they were missiles but obviously they were not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97083.html](http://www.nuforc.org/webreports/reports/097/S97083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Monroe (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>bright orbs of light in the skyAt first I thought it was a bright star then I notised it was flickering red, green and white.  I was it two nights in a row.  First night it was just one hovering low in the sky lasting for about an hour.  The next night (tonight) I saw it again at a different location and a second one appeared about an hour after the first one was hovering.  The second one was parallel to the other and brighter and flickered red and blue like a firecracker.  When the other appeared the other faded away and then the second one flew over my head slowly with out any sound just flickering red and blue and white slowly flying into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74950.html](http://www.nuforc.org/webreports/reports/074/S74950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
