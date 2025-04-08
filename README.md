@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:25 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>9 orbs video over house Video Link https://ufostalker.com/sighting/1076251 orb is seen moving left to right. my brother & i both experienced missing time on the same day which was on sunday 3 days before this encounter. my whole family has been having encounters with aliens the grays & 7 other different species for over 3 decades. no matter where we move the aliens always find us.  We believe these craft are flown by aliens not of our world. there was no sound coming from these craft.  Video Link https://ufostalker.com/sighting/107625</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154972.html](http://www.nuforc.org/webreports/reports/154/S154972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Port Clinton (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 large cylinder shaped crafts flying near Lake ErieOn Monday April 8th 2013 My family and I witnessed a large cylinder shaped craft, grey in color, flying overhead.  It was a very clear day and there was no noise whatsoever associated with this craft.  It flew at a constant speed and left no chem-trail behind it.6 minutes later another cylinder shaped craft flew the exact same flight path as the first followed closely by a 3rd object.  I was terrified they were missiles but obviously they were not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97083.html](http://www.nuforc.org/webreports/reports/097/S97083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
