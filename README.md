@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nisku (Canada) (AB) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Long narrow cigar type object without wings or lights in sky at nightsAs a mobile patrol officer working in Nisku, AB.Always watching the sky as I am interested in UFO's.Stepped out of my truck around 1am.  Before stepping back in i looked up there i heard a humming sound.I noticed a very long but wide object dark grey/black without wings and any lights present fly over quite low straight over my head.  At first it looked like a missile there i did not see wings and it was quite long narrow shaped.In my mind i told myself it must be a plane till i saw it make a long round curve to my left.It left my eyeside right after.  Am in law enforcement for 20-year and know fighter jets and other planes.This was not a normal plane.  It had no wings or lights.I turned on radio and called friends there I assumed it was a missile of any sort.Am not sure what I saw.  The up to 90 degree curve, no lights and no wings confuse me still.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97043.html](http://www.nuforc.org/webreports/reports/097/S97043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Asbury Park (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>My wife and I were watching TV at approximately 10:05 pm when my wife looked out our bedroom window and noticed a strange object in the sky with a pulsating strobe light.   We observed the object due east at our two o'clock.  It was out over the Atlantic ocean which is approximately 1/4 mile from our location.  I estimate the object was further out over the ocean.  In the course of observing this craft two more appeared in the same part of the sky.  All three objects had three lights that emitted a steady glow and a pulsating strobe that circled around the object.  The objects danced in the sky and seemed to jump up and down.   I brought out my binoculars and went out onto my roof.  There I observed over the next thirty minutes four additional objects.  Two were in the same part of the sky where my wife first observed the initial object.  One was far to the north, approx 5 miles away and moving inland.  The other appeared from the southeast and continued north ! up the coast and disappeared.  These craft would move, appear stationary and then move in the opposite direction or up or down.  Approximately midway through the sighting, an aircraft flew directly overhead from the direction of either Lakehurst NAS or McGuire AFB and flew diectly toward one of the objects.  It appeared to be a large four engine aircraft, either a transport or a tanker. Both disappeared into a cloud bank.  We live close to an approach pattern for Newark Airport and are used to seeing commercial aircraft.  These objects were not flying in any sort of pattern.  My wife who is a confirmed skeptic wanted to report the incident to the police while it was happening.  Instead we tried the NUFORC hotline but the center reporting mailbox was full.  We would be very interested to know if any one else shared these observations as this part of the coast is heavily populated and many people were out and about this Saturday night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80829.html](http://www.nuforc.org/webreports/reports/080/S80829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
