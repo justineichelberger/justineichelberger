@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange lights in formationI was driving when I witnessed two bright orange lights moving in parallel silently low across night the sky.  The lights moved in perfect unison as if part of a single craft but too far apart to be anything I’ve ever seen.  Also the angle of the lights was wrong as one was above and in front of the other.  (The best way to describe it is fully extend your arm in front of you with your hand at a 45 degree angle.  As far as possible extend your thumb and little finger.  At the tip of your thumb and the tip of your little finger would approximate the formation).  It was 4:00 AM in the morning.  I stopped in the middle of the street and I reached for my phone to either call someone to corroborate what I witnessed and to take a picture.  By the time I woke the phone from sleep, the lights had vanished.  I’m relieved sort of to see other similar reports; I know I’m not nuts.  I’m not a UFO buff so I’d accept any plausible explanation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108568.html](http://www.nuforc.org/webreports/reports/108/S108568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Asbury Park (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>My wife and I were watching TV at approximately 10:05 pm when my wife looked out our bedroom window and noticed a strange object in the sky with a pulsating strobe light.   We observed the object due east at our two o'clock.  It was out over the Atlantic ocean which is approximately 1/4 mile from our location.  I estimate the object was further out over the ocean.  In the course of observing this craft two more appeared in the same part of the sky.  All three objects had three lights that emitted a steady glow and a pulsating strobe that circled around the object.  The objects danced in the sky and seemed to jump up and down.   I brought out my binoculars and went out onto my roof.  There I observed over the next thirty minutes four additional objects.  Two were in the same part of the sky where my wife first observed the initial object.  One was far to the north, approx 5 miles away and moving inland.  The other appeared from the southeast and continued north ! up the coast and disappeared.  These craft would move, appear stationary and then move in the opposite direction or up or down.  Approximately midway through the sighting, an aircraft flew directly overhead from the direction of either Lakehurst NAS or McGuire AFB and flew diectly toward one of the objects.  It appeared to be a large four engine aircraft, either a transport or a tanker. Both disappeared into a cloud bank.  We live close to an approach pattern for Newark Airport and are used to seeing commercial aircraft.  These objects were not flying in any sort of pattern.  My wife who is a confirmed skeptic wanted to report the incident to the police while it was happening.  Instead we tried the NUFORC hotline but the center reporting mailbox was full.  We would be very interested to know if any one else shared these observations as this part of the coast is heavily populated and many people were out and about this Saturday night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80829.html](http://www.nuforc.org/webreports/reports/080/S80829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
