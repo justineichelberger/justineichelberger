@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Me & my GF seen the lights in sky 8 of them there was no light beam shinning from ground and it was over cast and cloudy . Then they disappeared there was also a green light that kept flying in and out while I was recording it . I could only see green object through recording it couldn’t see it my self only through phone .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154930.html](http://www.nuforc.org/webreports/reports/154/S154930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>it was late, and i saw these things in the sky about 300ft over my head and there was no noise at all and no other cars or plains around ethierI was at my friends house with my other friends too, we where outside playing b-ball, and then I saw thes lights in the sky right over my head about 300 to 500 ft above. They moved around so fast and they where red. There was about 3 of them. And the wired thing was there was no sound at all. And we where out in the country side. no sound at all. Just these circle things in the sky. And we also get it on tape. we watched ot over and over again. We have about 4 mins of it. They just where flyinh around in the sky. One came really close over the trees in the forest. The forest is about 150 ft away from us. I new from the moment i saw it that it was a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12595.html](http://www.nuforc.org/webreports/reports/012/S12595.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
