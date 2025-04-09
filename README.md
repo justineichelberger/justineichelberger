@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Saint Leonard (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red/orange spheres flying across the sky and I have videoAbout 2300 on 04/09/2021 me and my wife we outside smoking a cigarette.  We saw two spheres of reddish orange.  They traveled a speeed and motions that were unlike Aircraft. Very quick and sudden moves as they crosses the sky.  Not a sound either.   I have a video of the encounter as well.  What made it so clear for us to see was because they were below the clouds and that night we had dark clouds so they illuminated as they traveled across the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162598.html](http://www.nuforc.org/webreports/reports/162/S162598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cottonwood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Incredible Sighting and top secret HelicoptersCottonwood, California 4/9/07  it was tonight at 8:03 pm just around nightfall but still light, i looked to the sky and saw a light, figuring it to be a satelite or meteorite, and or comet, but it had no trail, nor any blinking lights, it had a distinct whitish bright color i watched it forever as it seemed, i called my friends over, i was very tensed and said "get over here look!, look!, im not the only one who see's this im I, and my friend pete was seriously distrought at what he saw, and he ran in the house, i ran, as fast as i could i followed it, it then turned a bright orange, then a bright red, it stopped my friend pete in mid distance as he noticed it change colors in mid run, he stopped i also stopped and as quick as we saw it, it gradually disapeared but it did not just vanish it gradually dissapeared as if going up and up at such an incredible speed and eventually was lost out of sight, and then just as quickly as it happened seven, yes seven black unmarked helicopters flew over head some were cargo some were regular, they flew over head and then the wind, it was incredible the wind kicked up and dust was everywhere it was honestly very very weird and paranormal, they disapeared over the horizen and i couldnt see them anymore as it was getting dark, we saw what we saw and this is very weird, it was tonight ive just got home and im reportig this, somthing very big has just gone down and or somthing big is happening, again im just from a small little town, in california and this is new to me, please someone comment and tell me if anyone else has seen the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56170.html](http://www.nuforc.org/webreports/reports/056/S56170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
