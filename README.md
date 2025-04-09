@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Leesburg (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright light appearing out of nowhere and speeding offMy wife and I were sitting in our driveway looking at the Waxing Crescent in the Western sky. To the low-right of the Moon, in the North/North-Western sky, a light suddenly came into sight and proceeded to get brighter and brighter. The light was yellow,orange and white in color. At first, it looked like the lights of an oncoming aircraft heading directly towards us (Eastward), but the light, at its brightest point, suddenly moved in a Northern direction at a very high rate of speed and eventually faded out of sight. It's as if it just appeared out of thin air and shot off. Quite amazing! The whole thing took place in about 20 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62565.html](http://www.nuforc.org/webreports/reports/062/S62565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange lights in formationI was driving when I witnessed two bright orange lights moving in parallel silently low across night the sky.  The lights moved in perfect unison as if part of a single craft but too far apart to be anything I’ve ever seen.  Also the angle of the lights was wrong as one was above and in front of the other.  (The best way to describe it is fully extend your arm in front of you with your hand at a 45 degree angle.  As far as possible extend your thumb and little finger.  At the tip of your thumb and the tip of your little finger would approximate the formation).  It was 4:00 AM in the morning.  I stopped in the middle of the street and I reached for my phone to either call someone to corroborate what I witnessed and to take a picture.  By the time I woke the phone from sleep, the lights had vanished.  I’m relieved sort of to see other similar reports; I know I’m not nuts.  I’m not a UFO buff so I’d accept any plausible explanation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108568.html](http://www.nuforc.org/webreports/reports/108/S108568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
