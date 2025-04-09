@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 8 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>a object fell, then two hours pased.the object burned brightly for 3 minutes.then it fell to the ground.Very slowly,though. then it hit our car.when we woke up,it was 10:31.but it felt like 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69752.html](http://www.nuforc.org/webreports/reports/069/S69752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Durban (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>bright star like fast moving object making no sound flying past two nights in a rowYesterday evening we spotted a very bright red light (object), not flying very high,  just above the trees almost. Saw it again tonight,flying the same speed, same hight without any sound, approaching always from the same side,  from the north to the south, almost looking like a star shape.. came past round 6:30 yesterday evening and 7:30 tonight.  Don't know what it can be, it's not a helicopter, since they don't move that speed and they usually make a lot of noise.  Also did not see any other coloured lights.  Just red light moving past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80812.html](http://www.nuforc.org/webreports/reports/080/S80812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [253](http://www.nuforc.org/webreports/reports/162/S162557.html)
-- [252](http://www.nuforc.org/webreports/reports/162/S162556.html)
-- [251](http://www.nuforc.org/webreports/reports/162/S162559.html)
-- [250](http://www.nuforc.org/webreports/reports/162/S162554.html)
-- [249](http://www.nuforc.org/webreports/reports/164/S164665.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
