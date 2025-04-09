@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calcutta (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 lighted circular craft over calcutta,ohio.the object huvered over calcutta,ohio for at least 10 minuts. it changed colors from red, then blue, then  green the hole time it was there. then took off. then reapeired a few min later and started moving slowly from east to west. it was about 200 to 300 yards off of the ground just above the tree line still changing colors. it took the craft about 4minuts to move about 2 miles. then moved to the north and dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69647.html](http://www.nuforc.org/webreports/reports/069/S69647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Plainview (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange pattern of white, green, and red lights that hovered and had an erie humming noise.I was standing in my backyard waiting for my dog to do its business. I looked up for a second and saw a strange formation of white, red, and green lights that moved in an odd motion without blinking in the night sky. I first believed it to be a helicopter, but it did not sound like one. The craft moved very slowly, and then started hovering at the same altitude. The craft also made a low, humming noise similar to a blimp.  The problem was that the craft was much smaller than a blimp.  There was only one of these strange crafts.  Scared, I called out my two sons who inferred the craft to be a circular shape because of the light pattern.  The three of us examined the craft for approximately 25 seconds when the craft disappeared in the blink of an eye.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74956.html](http://www.nuforc.org/webreports/reports/074/S74956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
