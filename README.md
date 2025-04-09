@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Quapaw (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>silver cigar shaped object goes extremly fastheading south through quapaw i saw one silver,cigar shaped object hovering in the sky. i thought to myself " what the heck is that ?" and before i was able to finish the thought it took off from the east to the west faster than anything could possibly go. there was no vapor trail or anything left to indicate what propulsion it used.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50116.html](http://www.nuforc.org/webreports/reports/050/S50116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calcutta (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 lighted circular craft over calcutta,ohio.the object huvered over calcutta,ohio for at least 10 minuts. it changed colors from red, then blue, then  green the hole time it was there. then took off. then reapeired a few min later and started moving slowly from east to west. it was about 200 to 300 yards off of the ground just above the tree line still changing colors. it took the craft about 4minuts to move about 2 miles. then moved to the north and dissapered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69647.html](http://www.nuforc.org/webreports/reports/069/S69647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
