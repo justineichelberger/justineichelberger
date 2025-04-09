@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:47 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary light over Annapolis MDLooking out at night sky-some small planes-one light that I thought was a plane did not move.  Watched it for 5 minutes and since it didn't move thought it must be a star.  I got my binoculars and looked at it and it was a sphere-white greenish in color.  The strange thing was with my naked eye it appeared it had lights or glittering like a star but through the binoculars no light appeared.  It did not move after 10 minutes--then I went inside. I have never seen anything like this in 51 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81014.html](http://www.nuforc.org/webreports/reports/081/S81014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Powell River (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observed two glimmering craft over Powell River that faded and disappeared as a Coast Guard or military aircraft approached.I was on a sailboat by myself travelling from Sturt Bay to the Powell River government dock in the morning.  At approxiamtely 11:00 hours while I was just off Grief Point I noticed two very bright lights about 500-800 feet above the pulp mill/dam.  I took my sunglasses off to try and focus, they were glimmering bright like the sun shining on stainless steel and appeared circular disk shaped with a raised portion in the middle maybe equalling about half the total diameter, I can only guess at this because the brightness was different in the middle.The objects were also large, probably over 50 feet in diameter and their distance apart appeared equal to their distance above the ground.As I observed, I also saw what I believed was a local Coast Guard (large red aircraft) surveillance rescue aircraft coming from the south hearing directly towards the craft at a slightly higher elevation.  It appeared to fly between the objects.As the aircraft came closed the objects didn't move, it appeared they faded, the glimmering became less and less to dim shapes and then nothing, just the blue sky and cloud behind.  It almost looked like they became cloaked with the background sky.Please note, the sun was behind me as I was travelling, possibly accounting for the glimmering on the craft, also I was not looking directly at or at and angle into the sun.  I don't know what I saw, but don't think it was a trick of my eyes and the sun.Trying to contact me might be difficult as I am up the coast on my boat, poor cell service and limited access to computers.  Who knows what it was…sun dogs??  Take care ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155845.html](http://www.nuforc.org/webreports/reports/155/S155845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
