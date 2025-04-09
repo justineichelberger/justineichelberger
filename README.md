@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Spotted a cylindrical cloud behaving contrary to laws of physics at 2 PM. Took 7 very good photos.Was in backyard taking photos of clouds and planes (my house in directly under the approach to the Hartsfield-Jackson airport in Atlanta). I suddenly noticed a very peculiar looking to the East. It was a almost perfect elongated rectangle, about 10 times as long as it was wide, and it appeared like an iridesent cloud, but it's shape was not like any cloud I have ever seen or heard of , except possibly, the Pillar of cloud" that was credited with guiding the Hebrews out of Egypt about 3100 (?) years ago.I managed to get 4 good photos of it before Itemporarily lost track of it.It was travelling in roughly a North to South-West direction at a liesurely pace. It's size, after reviewing my photos, appears to be about 4-500 feet long, maybe longer.  It re-appeared about 10-11 minutes and I got to more photos of it as it was now going back to the North. although, it gave the general appearance of a cloud, it seemed to travel completely independently of any wind.During the aforementioned 10-11 minutes after I initially lost sight of the "cylinder" , which was to my East, the sound of a jet airliner, headed South towards the Hartsfield-Jackson airport, suddenly caught my attention and I turned my camera to the South and snapped a picture of the airplane(a commercial airliner) just before it disappeared over the top of the gum tree in my front yard. This was exactly 1 minute and 19 seconds after I had taken my last previous shot of the "cylinder". After I downloaded my digital photos, I discovered that I had not only captured the airplane in the image , but, over near the left edge of the photo was the top half of the "cylinder" plainly visible and sticking up out of a bank of clouds. As a bonus, this image also included a "small" round and dark unidentified object as well as a brilliant sky-blue object spherical appearing object. Both of the objects were between the airplane and the "cylinder". I have attached two very good photos for your viewing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51376.html](http://www.nuforc.org/webreports/reports/051/S51376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo between clouds4/9/09 8.12 pm I went out to the parking lot   Look at the stars I looked sw then I turn right, and when I look to the north a blog transparent and camouflaged for the blue tone of the sky was moving very slowly.  Extending my arm the UFO was the size of my hand.It was oval and long, wider in the center.  The UFO kept going from the north to south and then made a very soft turn south, then turned to the west and disappeared. I went out at 8.30 and I saw the same shape coming from the sw and made a left turn, went north and then a left turn west and disappeared, all what I can see is the shape and the borders blending with the sky.  It was a blue sky with a kind of fog and the shape was between the upper and lower part of the "cloud"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69605.html](http://www.nuforc.org/webreports/reports/069/S69605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
