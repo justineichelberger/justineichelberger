@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>it was late, and i saw these things in the sky about 300ft over my head and there was no noise at all and no other cars or plains around ethierI was at my friends house with my other friends too, we where outside playing b-ball, and then I saw thes lights in the sky right over my head about 300 to 500 ft above. They moved around so fast and they where red. There was about 3 of them. And the wired thing was there was no sound at all. And we where out in the country side. no sound at all. Just these circle things in the sky. And we also get it on tape. we watched ot over and over again. We have about 4 mins of it. They just where flyinh around in the sky. One came really close over the trees in the forest. The forest is about 150 ft away from us. I new from the moment i saw it that it was a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12595.html](http://www.nuforc.org/webreports/reports/012/S12595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Delamar Dry Lake (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Thousands of lights in sky some shooting beams at others, Orange orb at low altitudeThis event was witnessed by my wife and I as we returned home to Panaca, NV from Las Vegas late one night.  Dry Lake is about half way between Area 51 and Caliente, NV.  This event occurred approximately 25 miles after going through Alamo in a totally uninhabited stretch of the Great Basin Highway.  Up in the sky there were thousands of lights and it looked like someone was pouring stars from heaven and there were also objects shooting beams at each other but all were too high in the sky to make out the shapes.  In the mountains there were lights and since we traveled the road often at night we know no one lives in these mountains and there has never been any lights there before.  I got out of the car over my wife's objections and tried to film this with her pocket camera but suddenly a white globe that was hovering over the mountain started spinning and turned orange and shot directly toward me at which time I took my wife's advice and got back in the car and g! ot out of there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89131.html](http://www.nuforc.org/webreports/reports/089/S89131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
