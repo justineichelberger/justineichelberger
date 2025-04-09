@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:13:07 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>at about 9 pm on Friday, 9 Apr, 2004, I saw what appeared to be a bright burning object falling directly west by southwest of Ocala, Fl.  From the viewable distance, the object appeared to be quite large. I will guess maybe 20 feet in diameter. The falling point was bright white in color followed by red embers just behind the fireball that was followed by a white trail. It was very much larger than any meteor or falling star that I have ever seen. I expected to hear a sonic boom or an explosion as it seemed to crash near the center of Ocala from my viewing position. After reading resent reports, I think this may have been a piece of the Cosmos. I will be glad to give a more detailed report if required.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36155.html](http://www.nuforc.org/webreports/reports/036/S36155.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Me & my GF seen the lights in sky 8 of them there was no light beam shinning from ground and it was over cast and cloudy . Then they disappeared there was also a green light that kept flying in and out while I was recording it . I could only see green object through recording it couldn’t see it my self only through phone .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154930.html](http://www.nuforc.org/webreports/reports/154/S154930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
