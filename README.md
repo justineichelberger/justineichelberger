@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:47 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 9 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Powell River (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observed two glimmering craft over Powell River that faded and disappeared as a Coast Guard or military aircraft approached.I was on a sailboat by myself travelling from Sturt Bay to the Powell River government dock in the morning.  At approxiamtely 11:00 hours while I was just off Grief Point I noticed two very bright lights about 500-800 feet above the pulp mill/dam.  I took my sunglasses off to try and focus, they were glimmering bright like the sun shining on stainless steel and appeared circular disk shaped with a raised portion in the middle maybe equalling about half the total diameter, I can only guess at this because the brightness was different in the middle.The objects were also large, probably over 50 feet in diameter and their distance apart appeared equal to their distance above the ground.As I observed, I also saw what I believed was a local Coast Guard (large red aircraft) surveillance rescue aircraft coming from the south hearing directly towards the craft at a slightly higher elevation.  It appeared to fly between the objects.As the aircraft came closed the objects didn't move, it appeared they faded, the glimmering became less and less to dim shapes and then nothing, just the blue sky and cloud behind.  It almost looked like they became cloaked with the background sky.Please note, the sun was behind me as I was travelling, possibly accounting for the glimmering on the craft, also I was not looking directly at or at and angle into the sun.  I don't know what I saw, but don't think it was a trick of my eyes and the sun.Trying to contact me might be difficult as I am up the coast on my boat, poor cell service and limited access to computers.  Who knows what it was…sun dogs??  Take care ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155845.html](http://www.nuforc.org/webreports/reports/155/S155845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Buckingham (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Much quieter than a jet or a propeller plane, yet not a glider.  It made a mechanical sound.  Shaped like a triangle with two white lights on the tips and two red blinking lights in the center.  Flying south toward Newtown very low to trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108507.html](http://www.nuforc.org/webreports/reports/108/S108507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [310](http://www.nuforc.org/webreports/reports/162/S162598.html)
-- [309](http://www.nuforc.org/webreports/reports/164/S164038.html)
-- [308](http://www.nuforc.org/webreports/reports/162/S162671.html)
-- [307](http://www.nuforc.org/webreports/reports/162/S162703.html)
-- [306](http://www.nuforc.org/webreports/reports/162/S162693.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
