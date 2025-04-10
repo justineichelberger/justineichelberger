@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>V-shaped craft flying southwest over Boulder COI was sitting on my porch, having a cigarette, and looking up at the sky. It is a cloudy night, and there was a patch of sky without clouds.  I was looking at the stars I could see through that patch. From the northeastern part of that patch, I noticed what looked like a bright wisp of clouds moving at a steady rate southwest.  It was behind the clouds, however, and moving much quicker than any cloud, and it was not windy.I then realized it was in the shape of a perfect V, so I looked closer, and noticed it was nothing like I had ever seen.  I could tell that it was somewhere just above the cloud cover, and it looked as if it were a typical V-shaped UFO with its lights off.  As it moved away, I noticed the V-shape, from my perspective, now looked like a straight line.  That is when it disappeared behind thick clouds once more.  I hoped to see another opening in the clouds farther on, so as to see it again, but the clouds got thicker towards the mountains, the direction it was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93315.html](http://www.nuforc.org/webreports/reports/093/S93315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Langenfeld (Germany) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At around 22:21 I saw a light in the shape of like a star,, however I thought plain at first but then it zig zagd and bopped up and down, I immediately started a live video, then it stopped and just stayed where I filmed for a while 10 minutes later I looked again it was gone,, at around 23:45 I incidentally looked out the window to see it zigzag its way back to the same spot where it sits,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154942.html](http://www.nuforc.org/webreports/reports/154/S154942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
