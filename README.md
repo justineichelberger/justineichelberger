@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>V-shaped craft flying southwest over Boulder COI was sitting on my porch, having a cigarette, and looking up at the sky. It is a cloudy night, and there was a patch of sky without clouds.  I was looking at the stars I could see through that patch. From the northeastern part of that patch, I noticed what looked like a bright wisp of clouds moving at a steady rate southwest.  It was behind the clouds, however, and moving much quicker than any cloud, and it was not windy.I then realized it was in the shape of a perfect V, so I looked closer, and noticed it was nothing like I had ever seen.  I could tell that it was somewhere just above the cloud cover, and it looked as if it were a typical V-shaped UFO with its lights off.  As it moved away, I noticed the V-shape, from my perspective, now looked like a straight line.  That is when it disappeared behind thick clouds once more.  I hoped to see another opening in the clouds farther on, so as to see it again, but the clouds got thicker towards the mountains, the direction it was going.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93315.html](http://www.nuforc.org/webreports/reports/093/S93315.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silent ,cigar-shaped UFO with round,gold lights and orange tail traveled alongside car at tree levelI was driving my kids home at 10:15pm. My son saw something just above the car on the passenger side and asked me what it was. I could not see it until at that moment, it passed over the car to my side just above the tree line about 50 feet above the car.I had never seen anything like it in my life. It was a UFO that was cigar or rectangle shaped, bigger than a tour bus, dark gray colored, covered in round gold lights on the bottom, (10-12 lights)and had a bright orange "comet tail" on the end.The lights were like balls of sunshine floating in clear spheres of liquid. It was silent. No sound at all even though it was right over us.It traveled alongside of us for about 30 seconds at 40 mph, went up in the sky several thousand feet in a fraction of a second and came back to tree level just ahead of us and glided down the road toward the lake at fast pace until it disappeared.We were all in shock. My son in the back seat said that I could no longer deny the existence of UFOs. He was so excited at that moment because he has always wanted to see one.I have never believed in them before I saw it for myself. I have not slept well since and cannot stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62838.html](http://www.nuforc.org/webreports/reports/062/S62838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
