@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:07 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:26 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (Queens) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four oval shape lights in the sky (very large and bright) just over the clouds when it the skies became cloudy and windy on Maspeth, Queens (Zip: 11378), New York. spotted them at 01:04.Four shapes moved in large circles, at very fast speed, then they meet at center point and spread again, using the same straight path going to start pont, make circles again, and meeting at the center. I watched them for about 10 minutes. Took a video but hard to see them because it was cloudy((NUFORC Note:  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74951.html](http://www.nuforc.org/webreports/reports/074/S74951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Black Triangle, Three lights in the shape of a triangle.Last saturday at about 8pm, I saw a black triangle go over my house, I could barely see it, but then it went between me and clouds, I could see it clearly for just a second or two.  It was a black triangle, it was approximately 4-7000ft, it made no sound and was moving faster than any commercial aircraft I had ever seen.  The whole sighting lasted about 7-10 seconds.  I shrugged it off thinking that it was a commercial aircraft because I live close to MCO airport and it caught me by suprise and I didnt get time to focus and think.Tonight at approximately 11:35, I was in the back yard, and I looked up and saw three lights in the shape of a triangle. Tonight, it looked as if it was three lights in the shape of a triangle, but I couldnt make out the shape like I could before.  There was a very very slight overcast, but it was definately there, I followed it from almost righ above me to about 22.5 degrees and it disappeared into thin air.  The sky was hazy, but I could still see the stars through it.  The lights made no sound, they moved very quickly, and just disappeared.  I thoufht that I was crazy the first time I saw it, or maybe because I saw it by suprise and didnt get enough time to actually focus on it and thought it was a plane. Tonight I was able to fully watch it, and I know it wasn't a commercial aircraft. It disappeared right in front of my eyes.  It almost looked like three symetrical spotlights pointed at the sky then moved across and turned off.  I have never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69608.html](http://www.nuforc.org/webreports/reports/069/S69608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
