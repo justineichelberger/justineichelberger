@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gas City (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular UFO's Spotted in Gas City Indiana 4-10-2015 @12:45/1:00amWas leaving friends house at 12:45am on 4-10-2015 and seen what I thought to be lanterns flickering in distance toward west.  By time I made it to Gas City Park, the objects were closer, bigger and brighter and clearly not lanterns.  They were triangular with lights at 3points and several on bottom they were hovering, slowly toward the east.  Was in phone w friend who was coming from 69 far east and ask me ifiI seen them as well.  We discuss what we each see and next in main st gas city at circle k and observed, they were low silent and large.  Directly above us.  The 2 we saw were about 3 mins apart in flying over us.  One in distance as well headed same direction.  I posted on FB, and another friend, in Marion at the time, she comments she seen them from Marion but she and another saw 5 of them.  Storm was blowing in, and her friend assumed they were planes, she said she could see they weren't planes, but could tell they were toward gas city but couldn't see details.  Also appeared to be small plane following, also slow and way low. I attempted to get video of it I have four copies of that you can't make out.  I had got a new phone the day before so I don't know how to work the camera and these object seemed very very far away in the video and they were really really close in person.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118420.html](http://www.nuforc.org/webreports/reports/118/S118420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coventry (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 00:37 - 00:37 minutes.</sub><blockquote><sub>It was scary!It looked like f/a-18 super hornet, but was to fast to be anything Earthly. It also made a strange noise like noise from the ground was reflecting off the formation of ufos. Then a bang was heard and they disappeared.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22478.html](http://www.nuforc.org/webreports/reports/022/S22478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
