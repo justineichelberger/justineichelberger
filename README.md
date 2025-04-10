@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Margarita (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Don't know - Don't know minutes.</sub><blockquote><sub>A bright disk that was unmoving.We didn't see it in person with our own eyes. We only saw it through the phone camera.  It was white with bright lights on underneath.  The picture was while we were eating dinner at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162683.html](http://www.nuforc.org/webreports/reports/162/S162683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Burke (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It could heard us speaking to it.This event happened several years ago. Not that it has been on my mind since then and have been wondering whether to come forward, it just hasn't been on my mind recently since it happened so long ago. I was young when it happened (6th grade) I believe it was during spring break (honestly can't remember though.) I was with my friend sitting on a hill directly infront of my house. We were just sitting there for fun and as we were sitting there we noticed a bright light streak across they sky at a very high angle, perhaps 70 degrees. Neither of us could tell whether it was in the atmosphere or in space. It seems very strange when I look back on the event but my friend started talking to it. "If you are a UFO then streak to the left" and it did so, causing a white streak from right to left. We could not, however, see it when it was stopped, only when it was moving. I was very frightened, but stayed. Eventually both of us were setting rules, "you can pick us up but only if you bring us right back and to this time" because I had seen the movie The Flight of the Navigator before. By the time we had set down the rules we said "you can come and pick us up now" or something along those lines. There was a vertical streak that came from way up in the sky which took less than a second to reach the ground. We couldn't tell whether it was a large craft that landed far away or a small craft that landed near by. At the time however, we believed it was a large craft that landed in the forest further infront of my house. Either way, both of us were so afraid we went to our homes. We had also mentioned that if they did not pick us up to burn the grass we were sitting on. The next day when we went to the same spot there was no burnt grass, but there was dried out grass everywhere. I honestly can't say that it wasn't there before though. I am now, by the way, 17 years old.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36182.html](http://www.nuforc.org/webreports/reports/036/S36182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
