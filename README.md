@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:55 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I don't remember the exact date or even the month this happened. I know it was spring 2007 or 2008. I got off work at 12 & headed down East Market St.  I was on my way to Planet Fitness to work out.  I noticed bright lights to my left, like stadium light brightness.  I turned on Haines Road, keeping my eye on the lights.I turned onto 7th Ave & stopped before the stop sign in front of the playground & stuck my head out the window to see a huge black triangle with a bright light on each corner directly above me.  It was extremely low, barely above the trees & a house. It made absolutely no noise & was the size of a large plane.  I turned my car off to listen & heard nothing.  I looked around hoping someone else was seeing this thing but nobody was around.  I could see cars still going by on Haines Road but they didn't see it.  After 5 minutes, it began to slowly float toward Green Spring apartments & out of sight.I thought to myself, nobody would believe me & preceded to go to the gym, not once thinking anymore about it. I don't remember how much time passed.  I didn't tell my fiancee when I got home. I had "forgotten" it.  In fact, I didn't remember it happening until days later & I told him then.  He laughed it off but I know what I saw hovering above me. I find it convenient that my memory vanished right afterward.  Maybe I was abducted, I don't know.  When it came back to me, I couldn't believe I didn't say something about it right away!  When it did come back, it was a OMG!  Did I tell you what I saw?  Maybe they were abducting someone in the house they were over? I'm posting this now because I still think about it & wanted to share with other people without being laughed at.  My husband still can't answer me when I ask well what was it then?  No plane hovers & even if they did, it would make noise.  It wasn't a balloon & it was too big for a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152745.html](http://www.nuforc.org/webreports/reports/152/S152745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coon Rapids (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lights that traveled across the sky then disappeared and then from the same spot reappeared but in a new direction.April 10, 2012  I live in Coon Rapids, MN. Around 10pm on two different occasions my wife and I have seen something in the skies that we really cannot explain. We have seen lights, which at first I thought were satellites, traveling along and then they just disappeared. We continued to watch that area and then a few minutes’ later two lights came out of that same area traveling in totally different directions. For the two nights I have seen this happen I have about a total of 10 of these lights that are on a straight line just disappear and then minutes later appear but traveling in whole new direction. The one time the light I seen and was watching disappeared and about 10 minutes late a bright flash came from the area were the light disappeared, and a new light came from the flash and headed in the exact opposite direction. I have no clue what this is but it would be nice to find out.  I am going to try to film this if it ever happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88321.html](http://www.nuforc.org/webreports/reports/088/S88321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
