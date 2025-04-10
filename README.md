@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:55 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:07 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coon Rapids (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lights that traveled across the sky then disappeared and then from the same spot reappeared but in a new direction.April 10, 2012  I live in Coon Rapids, MN. Around 10pm on two different occasions my wife and I have seen something in the skies that we really cannot explain. We have seen lights, which at first I thought were satellites, traveling along and then they just disappeared. We continued to watch that area and then a few minutes’ later two lights came out of that same area traveling in totally different directions. For the two nights I have seen this happen I have about a total of 10 of these lights that are on a straight line just disappear and then minutes later appear but traveling in whole new direction. The one time the light I seen and was watching disappeared and about 10 minutes late a bright flash came from the area were the light disappeared, and a new light came from the flash and headed in the exact opposite direction. I have no clue what this is but it would be nice to find out.  I am going to try to film this if it ever happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88321.html](http://www.nuforc.org/webreports/reports/088/S88321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (Queens) (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four oval shape lights in the sky (very large and bright) just over the clouds when it the skies became cloudy and windy on Maspeth, Queens (Zip: 11378), New York. spotted them at 01:04.Four shapes moved in large circles, at very fast speed, then they meet at center point and spread again, using the same straight path going to start pont, make circles again, and meeting at the center. I watched them for about 10 minutes. Took a video but hard to see them because it was cloudy((NUFORC Note:  We have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74951.html](http://www.nuforc.org/webreports/reports/074/S74951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
