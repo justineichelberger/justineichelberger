@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Langenfeld (Germany) () reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At around 22:21 I saw a light in the shape of like a star,, however I thought plain at first but then it zig zagd and bopped up and down, I immediately started a live video, then it stopped and just stayed where I filmed for a while 10 minutes later I looked again it was gone,, at around 23:45 I incidentally looked out the window to see it zigzag its way back to the same spot where it sits,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154942.html](http://www.nuforc.org/webreports/reports/154/S154942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Santa Margarita (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately Don't know - Don't know minutes.</sub><blockquote><sub>A bright disk that was unmoving.We didn't see it in person with our own eyes. We only saw it through the phone camera.  It was white with bright lights on underneath.  The picture was while we were eating dinner at night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162683.html](http://www.nuforc.org/webreports/reports/162/S162683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
