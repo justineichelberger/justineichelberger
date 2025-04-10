@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:27 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Coon Rapids (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Lights that traveled across the sky then disappeared and then from the same spot reappeared but in a new direction.April 10, 2012  I live in Coon Rapids, MN. Around 10pm on two different occasions my wife and I have seen something in the skies that we really cannot explain. We have seen lights, which at first I thought were satellites, traveling along and then they just disappeared. We continued to watch that area and then a few minutes’ later two lights came out of that same area traveling in totally different directions. For the two nights I have seen this happen I have about a total of 10 of these lights that are on a straight line just disappear and then minutes later appear but traveling in whole new direction. The one time the light I seen and was watching disappeared and about 10 minutes late a bright flash came from the area were the light disappeared, and a new light came from the flash and headed in the exact opposite direction. I have no clue what this is but it would be nice to find out.  I am going to try to film this if it ever happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88321.html](http://www.nuforc.org/webreports/reports/088/S88321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Summersville (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>UFO flying west, in daylight, oval shape, silver, disappeared in about 5 seconds.Tuesday, April 10, 2012 Where: Summersville, WV   I came out on my front porch at 11:45 am., during the day. The sky was clear, not a cloud in the sky. The temperature was about 65 degrees.I happened to look up and I saw a silvery object flying slowly, west.  It looked to be about the same altitude of a jetliner, about 30,000 ft.  I could not tell if it was spinning or not.It had no plume like a jetliner.  I ran into my house to grab my digital camera and when I came out, the object was gone. An airplane cannot disappear that fast. Airplanes can be followed across the sky but this object just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88317.html](http://www.nuforc.org/webreports/reports/088/S88317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
