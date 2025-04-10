@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:41 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pleasant City (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright Stationary light seen that last for over an hour.This is the second time we have seen a light in the sky to the west of our house. Both times have been to the west but not in the same location. This orb was the brightest thing in the sky by far. I mean by a wide margin the brightest. At first you think it must be a helicopter with a search light (note. very small community with no police helicopters). Light is mostly stationary for the entire time (until you can't stand to look at it anymore) but it does seem to dance slightly. Object at times even seems to have a search light that moves around. Object is white light but seems to have a red and green corona at times.  That's all I can say about it. In previous jobs I have worked dusk to dawn in remote locations where all there was to do was look at the stars and this object was nothing I've ever seen. No star has ever been that bright, no satellite or planet "twinkles" like that. I'm dumbfounded by it.   (I have some cellphone video of object)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155544.html](http://www.nuforc.org/webreports/reports/155/S155544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cheyenne (WY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I accidentally entered the wrong date on my report that I just submitted.  It was on 04/10/2010 instead of 04/09/2010</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74973.html](http://www.nuforc.org/webreports/reports/074/S74973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
