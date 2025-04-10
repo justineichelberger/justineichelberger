@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 10 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Azle (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silent ,cigar-shaped UFO with round,gold lights and orange tail traveled alongside car at tree levelI was driving my kids home at 10:15pm. My son saw something just above the car on the passenger side and asked me what it was. I could not see it until at that moment, it passed over the car to my side just above the tree line about 50 feet above the car.I had never seen anything like it in my life. It was a UFO that was cigar or rectangle shaped, bigger than a tour bus, dark gray colored, covered in round gold lights on the bottom, (10-12 lights)and had a bright orange "comet tail" on the end.The lights were like balls of sunshine floating in clear spheres of liquid. It was silent. No sound at all even though it was right over us.It traveled alongside of us for about 30 seconds at 40 mph, went up in the sky several thousand feet in a fraction of a second and came back to tree level just ahead of us and glided down the road toward the lake at fast pace until it disappeared.We were all in shock. My son in the back seat said that I could no longer deny the existence of UFOs. He was so excited at that moment because he has always wanted to see one.I have never believed in them before I saw it for myself. I have not slept well since and cannot stop thinking about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62838.html](http://www.nuforc.org/webreports/reports/062/S62838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Riverdale (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3:19 - 3:19 minutes.</sub><blockquote><sub>Bright light saucer like objectAt 2:40 in the video a bright saucer like object fly in from the left of the screen and hovers then fly back and fourth and up and down multiple times before flying off the movement and speed of the object was not airplane like and u can clearly see it was under some intelligent control here is the link to my video  http://youtu.be/3Ox-DlFznTQ</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108525.html](http://www.nuforc.org/webreports/reports/108/S108525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [339](http://www.nuforc.org/webreports/reports/162/S162745.html)
-- [338](http://www.nuforc.org/webreports/reports/162/S162697.html)
-- [337](http://www.nuforc.org/webreports/reports/162/S162782.html)
-- [336](http://www.nuforc.org/webreports/reports/162/S162933.html)
-- [335](http://www.nuforc.org/webreports/reports/162/S162722.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
