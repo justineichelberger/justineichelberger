@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:48 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:18 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Grand Valley (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright neon green pickle shaped UFO flung across sky, seen on Lake MI Drive in Allendaleit was bright green and pickle shaped, it flung across the sky super super super fast, the green-ness of it made the dark night sky light up green, it was like a neon green sign, it made a long bright green tail as it flung across the sky and went to the horizon, where you couldn't see it any more, it only lasted for like 5 or 6 seconds, it was so fast yet if you saw it you could see it was pickle shaped((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88355.html](http://www.nuforc.org/webreports/reports/088/S88355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Leadgate (UK/England) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>Abduction by government.There were what i believe to be men in alien 3d cloaked costumes that looked like grey aliens, outside of my front garden?  I had been allerted to them by crackling sounds coming from outside my bedroom window.  They fitted high powered lights by my fence and raised a concave and convex cone shape that was two or three feet across in width and two cables ran to it from the lights.  They turned the lights on it was burning me through the glass and the cross of seletape i had on the window melted on hard.  They then entered my house and i grabbed one of the alien looking feinds around the neck it was indeed a suit of sorts because it felt like a normal width for a neck, about seven inches-however it looked like the neck was two inches. We strugled around until the thing put its left hand to my head i heard a buzz from the device it was holding and i done every action it did to walk around and open doors for it.  I was missing five days no 1 knows where i was((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106087.html](http://www.nuforc.org/webreports/reports/106/S106087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
