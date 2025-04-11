@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:10 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Perth Amboy (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The object was bright white at times stem like branches, object moved in various vertical and horizontal movements very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154984.html](http://www.nuforc.org/webreports/reports/154/S154984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball like object seen above the small island city of Ketchikan, Alaska.Around 9:30 at night my fiancé, his brother, and myself went outside for a cigarette.I noticed a fireball like object in the reflection of my neighbor's window.  We decided to go out into the street to get a better look and when we did we saw a large reddish orangish ball of light in the sky.It came towards the west, got really bright, stopped for about 5 seconds, and then went out of sight towards the east in the opposite direction.  My finance's brothers exact description was, "It looked like something on fire!"  It looked like an aerial flare from a boat but an aerial flare will arch, and this fireball maneuvered like an air craft of some sort.  One more thing to add..  All the dogs in the area were going crazy.  We do not have an explanation for what this object was.  We have never seen anything fly like that.  All three of us are sober. I am sure many people saw this tonight because the population is only about seven thousand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108561.html](http://www.nuforc.org/webreports/reports/108/S108561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
