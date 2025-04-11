@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular Object Photographed -- Not Noticed at the TimeA vertically oriented triangular appearing object was photographed in two adjacent frames while facing the canoe dock within Jonathan Dickinson State Park (Florida). The dock is on the Loxahatchee River, not very far from the Atlantic Ocean at Hobe Sound, FL. The object was perhaps 8-10 degrees above the horizon, or not quite twice as high as the tree level. It moved from left to right within the field of the camera, covering about 1/2 the (camera) field of view within the approximately five seconds between exposures. The object appears fairly large by comparison to trees and river, although I can't estimate it actual size. The object looks to be a vertically oriented flattened triangular shape that is a cloud-like white color on the broadest/nearest side and somewhat of a dark rust color along the thinner/further edge. The sky conditions were a bright overcast. The weather was calm and unseasonably cool. Nothing unusual was noted at the time aside from my having had prior reservations about staying at this particular campground (it's really a very nice state park). Only two or three other people were present in the area at the time, not withstanding my family of four. The photographs were taken during daylight using a Canon T50 35mm SLR, 50mm 1:1.8 lens and Fugicolor Superia X-TRA 400 ASA film. I don't know what the camera settings were as it was set for automatic exposure. The time of the photographs was approximately 7:00 PM EDT (+15 min / -30 min), Friday April 11, 2003. Here is the URL to the state park information where the photos were taken: http://www.dep.state.fl.us/parks/district5/jonathandickinson/((NUFORC Note:  We have requested a copy of the photo for inspection.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28558.html](http://www.nuforc.org/webreports/reports/028/S28558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bourne (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights moving west to east over cape codWe were observing the night sky when we saw a light moving from west to east, we counted 6 lights that were equally spaced moving across the sky, we may have missed some in the beginning, so there may have been more, they looked like stars, very high solid white lights.  Then another series of the same type of lights still moving east at a slightly different heading, still east.  We counted 11 in this series.  We live near a joint base on cape cod and know aircraft, these objects were very high,  I have never seen anything like this.  Could it be satellites?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154995.html](http://www.nuforc.org/webreports/reports/154/S154995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
