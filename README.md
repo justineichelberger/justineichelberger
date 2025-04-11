@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:48 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oslo (Norway) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>constant object, (moving parts, V-formation. Oslo)We were sitting at my friends balcony in Oslo, looking out over Oslo harbor when my friend saw something in the sky.  She thought it was some kind of satellite, and when I looked at the sky I didn't see anything at once, but after some pointing, I (we) saw the following: (note: she saw it approximately four seconds before me. I saw the object(s) for about ten seconds, so the duration seen by the other witness is about 14 seconds).A v-formation with about 7 lights.  The lights had the same glow as a faded star, like the stars distant at the star sky.  The seventh light was completely still, but the six others where moving still following the "main" lights.  The other six lights (three under each "wing" was spinning sort of around, then shrinking to one light and then expanding again.)  I would say that the object was at the same size as a 747, or maybe bigger, and the lights were NOT blinking, they were constant all  the time.  I'm not a trained observer, but from experience, I know that this was something out of the ordinary.  Given the six lights and their abnormal behavior.The object moved south east, not in straight ahead, but like a weak half circle.  The object disappeared behind a hill (about 300 meters tall).  I would say the object was at the same standard height as an airliner about to land, and flying over the ocean.  According to my reference point, I would say it was flying approximately 2-3 kilometers from us.Note!  This was NOT an airliner.  Passenger planes fly over Oslo regularly, and they make a lot of sound!  This was completely silent, and way too slow to be a f. ex 747 which not fly in that direction anyway. (not to land, Gardermoen is in the north direction.)  if this was to remind me of something, it certainly reminded me of the descriptions of those coming from the Hudson Valley sightings.  I am very interested in the phenomenon, and when my friend (which knows this) pointed and said "look at that," I thought she was fooling me.  She was not. I also know of similar stories about something similar over "Holmlia," which is a place east of Oslo.  (I actually heard this today after calling a friend who is very well read about the phenomena.Note: No sound what so ever!  Will mail drawing of sighting!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69621.html](http://www.nuforc.org/webreports/reports/069/S69621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Grand Valley (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright neon green pickle shaped UFO flung across sky, seen on Lake MI Drive in Allendaleit was bright green and pickle shaped, it flung across the sky super super super fast, the green-ness of it made the dark night sky light up green, it was like a neon green sign, it made a long bright green tail as it flung across the sky and went to the horizon, where you couldn't see it any more, it only lasted for like 5 or 6 seconds, it was so fast yet if you saw it you could see it was pickle shaped((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88355.html](http://www.nuforc.org/webreports/reports/088/S88355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
