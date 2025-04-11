@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bourne (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Series of lights moving west to east over cape codWe were observing the night sky when we saw a light moving from west to east, we counted 6 lights that were equally spaced moving across the sky, we may have missed some in the beginning, so there may have been more, they looked like stars, very high solid white lights.  Then another series of the same type of lights still moving east at a slightly different heading, still east.  We counted 11 in this series.  We live near a joint base on cape cod and know aircraft, these objects were very high,  I have never seen anything like this.  Could it be satellites?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154995.html](http://www.nuforc.org/webreports/reports/154/S154995.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Perth Amboy (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The object was bright white at times stem like branches, object moved in various vertical and horizontal movements very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154984.html](http://www.nuforc.org/webreports/reports/154/S154984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
