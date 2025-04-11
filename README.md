@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mercersberg (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright oval shaped object hovering 25k+ feet over area for over an hour, not a weather balloon - had high gusty windsMy husband and I observed an oval object in the sky, not moving.  At first we thought it was a star but it was daytime and this object was very bright, no clouds in the sky and no aircraft at first.  My husband got the camera, zoomed in as close as he could and started taking photos....he took a lot of photos cause he wasn't sure he was getting the pics.  He looked at pics and zoomed in and realized that the object was definitely there.  The last photo he took was a sideview, the other 2 appeared to be of the bottom of the object.  Then a jet was coming into the area and the object disappeared, so my husband went to get our neighbors and told them about it and showed them the pic.  The object came back but in a different area in the sky, my husband got his pair of binoculars and we all 4 got to look at the object, this time it looked round and still very bright and changed location again....it seems to be hovering near Camp David.  My husband has seen other questionable objects, but this is the first time where he had witnesses to what he saw.  My husband is former military, he knows what he sees and this was not military aircraft.  We do have photos but I don't know if I can download them correctly to see the image.  My husband is going to get the photos processed and will be available upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118413.html](http://www.nuforc.org/webreports/reports/118/S118413.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stockholm (Sweden) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Me and my girlfriend saw a disc hovering over housing area in Stockholm, got about 3 sec on film. http://medlem.spray.se/downloathe/UFOMy girlfriend and me was about to eat lunch when she saw a disc shaped thing hovering over a housing area in Stockholm, It stood still for a few seconds and moved rapidly to another spot to hover again. I grabbed my digital camera to record this strange behaving object. Unfortunately I only got about 3 seconds on film, due to my aged camera. I have never seen anything moving so fast nor hovering at such precision, we are to this day puzzled over what we saw. It was an amazing sight! I uploaded the movie at my personal homepage: http://medlem.spray.se/downloathe/UFO.avi((NUFORC Note:  We have viewed the video clip, which shows a disc-shaped object hovering over a populated shoreline, then suddenly banking toward the camera and accelerating very rapidly to the left.  The rocking of the boat, from which the video apparently was taken, helps provide some reference for the acceleration of the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28418.html](http://www.nuforc.org/webreports/reports/028/S28418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
