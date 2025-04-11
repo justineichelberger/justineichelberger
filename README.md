@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Flossmoor (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>white lights hovering for 2 minutes enough for me to take a picture.A friend and i spotted a UFO Hovering in one spot for 2 minutes. I captured a photo of it. Then after about 2 minutes it started flying over us in white lights. then the lights turned red (trees were in the way so i didn't see where it went). i also seen one an hour before this sighting which was for a quick second. I looked in the sky and seen a red light, which then zipped away so fast that it left a streak(as if you were moving a laser pointer around)into the space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74983.html](http://www.nuforc.org/webreports/reports/074/S74983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in P. Lakes (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Disk shape aircraft with many dark brown windows was seen  levitating low for about eight seconds.A meteor shower was announced in the morning news.  I was lucky to leave work a little early that day. It was around 4:30 PM on April 2004 ((sic.  2005.  See below.)).  It was a clear day.  I saw a couple small fireballs that were falling to the ground.I looked up in front of me and there was a large aircraft with big brown windows.  It look very close to the ground. It was definitely, much larger than my Ford Escort.  The sides were covered by soft bright clouds.  The windows were very close together.  There was a glow, like a soft warm orange.  The top and bottom of the aircraft was also an ellipse shape and they were dark.The unidentified object was levitating.  And there was no sound.I didn’t blink for as long as I could about 8 seconds.  After blinking I notice fog covering the area were the aircraft was.  It seem to me like it created its own cloud so it can hide.((NUFORC Note:  Witness indicates that date of incident is approximate.  We have no idea where "P. Lakes" is in Florida, and have no means of contacting the source of the report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((ADDENDUM FROM WITNESS))Approximate date correctionDisk shape aircraft with many dark brown windows was seen levitating low for about eight seconds.---------------- Correction: By looking at my employment record, approximate date was April 11th 2005 instead of April 11th 2004.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64825.html](http://www.nuforc.org/webreports/reports/064/S64825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
