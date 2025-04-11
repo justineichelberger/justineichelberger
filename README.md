@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:18 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:29 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Leadgate (UK/England) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 7200.0 - 7200.0 minutes.</sub><blockquote><sub>Abduction by government.There were what i believe to be men in alien 3d cloaked costumes that looked like grey aliens, outside of my front garden?  I had been allerted to them by crackling sounds coming from outside my bedroom window.  They fitted high powered lights by my fence and raised a concave and convex cone shape that was two or three feet across in width and two cables ran to it from the lights.  They turned the lights on it was burning me through the glass and the cross of seletape i had on the window melted on hard.  They then entered my house and i grabbed one of the alien looking feinds around the neck it was indeed a suit of sorts because it felt like a normal width for a neck, about seven inches-however it looked like the neck was two inches. We strugled around until the thing put its left hand to my head i heard a buzz from the device it was holding and i done every action it did to walk around and open doors for it.  I was missing five days no 1 knows where i was((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106087.html](http://www.nuforc.org/webreports/reports/106/S106087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>11 young adults sighted dark "kakhi disk or saucer above treetops, daytime; followed in [car] as it [spiraled] away.There were 11 young adults (approx. ages 17-25)about equal distribution of male/ female, of which I was one; we were on the outskirts of a university campus. -- The unidentifiable "flying" object was directly over the treetops, traveling quite slowly.  It was a medium olive-brown or dark "kakhi" in colour, and probably the size of a small bungalow. I do not recall seeing inhabitants, nor any of the group referring to or noticing "inhabitants". -- We piled into a motor vehicle and tried to follow it; it gradually ascended in a semi-cylindrical pattern, increasing speed, and we lost sight of it. -- I am rather certain this occurred on a Saturday or Friday afternoon, as we were on our way to a party or some sort of gathering at first. One of the boys said he knew about a military person (there are several bases in the area, only one of which was Ft. Campbell, KY)of whom he could inquire whether any other reports had been received. -- This guy and I talked via telephone the next day around 16:00k or 17:00k; he said he was told it was a military "experiment" (I think he said Airforce, but he could have said "army experiment", too). -- It is interesting that I remember this much of it so clearly, perhaps because there were 10 other "peers". -- However, none of us have been in touch for the past 30 yrs. at least, and probably none of us would know each other by sight, or even by name in most cases. I've no idea if any but myself still exist.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34542.html](http://www.nuforc.org/webreports/reports/034/S34542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
