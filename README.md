@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Electric City (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Getting Power from the Grand Coulee Dam?04.11.21. 12:11 pm, clear day. Silver/gray spherical ball first observed kinda hovering above a mesa. The mesa is about 1000 feet above ground level. Sphere hovers and within 10 seconds, quickly shoots up higher in the sky and then disappears. Have two photos of distancing of the sphere. Electric City is at the Coulee Dam.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164527.html](http://www.nuforc.org/webreports/reports/164/S164527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Perth Amboy (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The object was bright white at times stem like branches, object moved in various vertical and horizontal movements very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154984.html](http://www.nuforc.org/webreports/reports/154/S154984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
