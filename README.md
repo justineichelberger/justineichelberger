@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Stockholm (Sweden) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Me and my girlfriend saw a disc hovering over housing area in Stockholm, got about 3 sec on film. http://medlem.spray.se/downloathe/UFOMy girlfriend and me was about to eat lunch when she saw a disc shaped thing hovering over a housing area in Stockholm, It stood still for a few seconds and moved rapidly to another spot to hover again. I grabbed my digital camera to record this strange behaving object. Unfortunately I only got about 3 seconds on film, due to my aged camera. I have never seen anything moving so fast nor hovering at such precision, we are to this day puzzled over what we saw. It was an amazing sight! I uploaded the movie at my personal homepage: http://medlem.spray.se/downloathe/UFO.avi((NUFORC Note:  We have viewed the video clip, which shows a disc-shaped object hovering over a populated shoreline, then suddenly banking toward the camera and accelerating very rapidly to the left.  The rocking of the boat, from which the video apparently was taken, helps provide some reference for the acceleration of the object.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28418.html](http://www.nuforc.org/webreports/reports/028/S28418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle Shaped Object over Flint MichiganI was heading North on I-75 in Flint, MI and at approx 9:15 PM i saw a light to the NW and thought it was a new tower.  As I travelled further north it was crossing above I-75 just north of Pierson Rd above businesses.  There were a few cars parked on the side of the expressway viewing the object.  The object passed directly over me as i continued to head north, it was travelling from west to east.  It was triangular in shape and had a strobing red light in the center and three light panels that strobed white light from near center to the points of the triangular shape.  I cannot tell for sure if it was a true triangle but the white strobes gave the appearance of a 3 legged boomerang, at least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50103.html](http://www.nuforc.org/webreports/reports/050/S50103.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
