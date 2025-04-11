@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:30 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle Shaped Object over Flint MichiganI was heading North on I-75 in Flint, MI and at approx 9:15 PM i saw a light to the NW and thought it was a new tower.  As I travelled further north it was crossing above I-75 just north of Pierson Rd above businesses.  There were a few cars parked on the side of the expressway viewing the object.  The object passed directly over me as i continued to head north, it was travelling from west to east.  It was triangular in shape and had a strobing red light in the center and three light panels that strobed white light from near center to the points of the triangular shape.  I cannot tell for sure if it was a true triangle but the white strobes gave the appearance of a 3 legged boomerang, at least.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50103.html](http://www.nuforc.org/webreports/reports/050/S50103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Triangular Object Photographed -- Not Noticed at the TimeA vertically oriented triangular appearing object was photographed in two adjacent frames while facing the canoe dock within Jonathan Dickinson State Park (Florida). The dock is on the Loxahatchee River, not very far from the Atlantic Ocean at Hobe Sound, FL. The object was perhaps 8-10 degrees above the horizon, or not quite twice as high as the tree level. It moved from left to right within the field of the camera, covering about 1/2 the (camera) field of view within the approximately five seconds between exposures. The object appears fairly large by comparison to trees and river, although I can't estimate it actual size. The object looks to be a vertically oriented flattened triangular shape that is a cloud-like white color on the broadest/nearest side and somewhat of a dark rust color along the thinner/further edge. The sky conditions were a bright overcast. The weather was calm and unseasonably cool. Nothing unusual was noted at the time aside from my having had prior reservations about staying at this particular campground (it's really a very nice state park). Only two or three other people were present in the area at the time, not withstanding my family of four. The photographs were taken during daylight using a Canon T50 35mm SLR, 50mm 1:1.8 lens and Fugicolor Superia X-TRA 400 ASA film. I don't know what the camera settings were as it was set for automatic exposure. The time of the photographs was approximately 7:00 PM EDT (+15 min / -30 min), Friday April 11, 2003. Here is the URL to the state park information where the photos were taken: http://www.dep.state.fl.us/parks/district5/jonathandickinson/((NUFORC Note:  We have requested a copy of the photo for inspection.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28558.html](http://www.nuforc.org/webreports/reports/028/S28558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
