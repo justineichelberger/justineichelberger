@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:10 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 11 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fireball like object seen above the small island city of Ketchikan, Alaska.Around 9:30 at night my fiancé, his brother, and myself went outside for a cigarette.I noticed a fireball like object in the reflection of my neighbor's window.  We decided to go out into the street to get a better look and when we did we saw a large reddish orangish ball of light in the sky.It came towards the west, got really bright, stopped for about 5 seconds, and then went out of sight towards the east in the opposite direction.  My finance's brothers exact description was, "It looked like something on fire!"  It looked like an aerial flare from a boat but an aerial flare will arch, and this fireball maneuvered like an air craft of some sort.  One more thing to add..  All the dogs in the area were going crazy.  We do not have an explanation for what this object was.  We have never seen anything fly like that.  All three of us are sober. I am sure many people saw this tonight because the population is only about seven thousand.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108561.html](http://www.nuforc.org/webreports/reports/108/S108561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elkridge (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>second ufo sighting in same spot in two daysI reported a sighting from 04-09 as well, again i was driving home from work with my boyfriend mother. I saw the same "Phoenix Lights" looking lights in the exact same spot in the sky over my neighborhood. I saw three of them, they were just giant bright white lights. I got binoculars and came back with my boyfriends mother. I looked at them through the binocular and they were either much farther away or much smaller then what i saw on 04/09 and there was hardly as much detail. There was three 'crafts' all i could make out was a row of distinguishable ' windows' looking lights on each one. that was all the detail i could see however there was no emergency lights or anything to convince me this might be something man made. They all hovered for about 20 minutes. There were no aircraft pursuing them and planes were taking off from BWI all around them. One by one they hovered and then descended straight down and they were gone ( they landed maybe?). I am not con! vince what i saw on 4/09 and 4/11 were the same the only similarity were the 'windows' on the 'crafts' there appeared to be maybe three or four in a row?? the other similarity is the way the light looked before i looked into the binoculars and the fact there was so many. they also had a weird aura of hazy white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88319.html](http://www.nuforc.org/webreports/reports/088/S88319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [298](http://www.nuforc.org/webreports/reports/162/S162674.html)
-- [297](http://www.nuforc.org/webreports/reports/162/S162655.html)
-- [296](http://www.nuforc.org/webreports/reports/162/S162675.html)
-- [295](http://www.nuforc.org/webreports/reports/162/S162676.html)
-- [294](http://www.nuforc.org/webreports/reports/162/S162656.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
