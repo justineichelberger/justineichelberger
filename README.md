@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in São Paulo (Brazil) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Por volta de 9:00 da manha descendo a serra de santos de trem,perto de paranapiacaba avistei entre a fenda um objeto de forma cilindrica e cor metalica reluzente pensei ser um tubo do gaseoduto mas notei que ele estava parado no ar,a uns 5 metros do solo tinha mais de trinta metros de altura e mais de des metros de circunferencia,quando mostrei ao meu amigo ele começou a preperar a maquina para tirar uma foto e em questão de segundos o objeto desapareceu deixando apenas um rastro de fumaça branca como ar condensado até se perder de vista desapareceu num piscar de olhos parecia mágica não houve tempo para tirar a foto, foi realmente a coisa mais impressionate que eu já vi((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44261.html](http://www.nuforc.org/webreports/reports/044/S44261.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tappan (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small light (Orb?) flying alongside a helicopter over my houseHeard a helicopter flying by while in my house which is unusual.  I looked outside and it was really low and loud.  I  could see that it was flying side by side with a small light.  Looked like an Orb was flying along side it.  They were heading east toward the Hudson River then made a right turn South toward Manhattan.  I’m pretty sure it wasn’t part of the aircraft as it moved independently at various positions next to it and it was positioned about 20-30 yards away from the helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126838.html](http://www.nuforc.org/webreports/reports/126/S126838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
