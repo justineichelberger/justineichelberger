@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakewood (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green-white round light with streak behind in south east sky over airportAt Lakewood airport between 20:00 and 20:30 a bright streak of green white light streaked across the south east sky at high speed for about 2 seconds. The leading edge was round and the rest tapered back to a point with a length of about 4 diameters of the circular portion. The light disappeared into a cloud and was not seen again.  Typical aircraft in the vicinity of the area are slow moving 1-2 proppeller planes, helicopters or large military aircraft.  This did not match the profile of any of those. I would estimate the speed of the object at 3-7 times the speed of a small private plane. There was no sound associated with the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88385.html](http://www.nuforc.org/webreports/reports/088/S88385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in New Delhi (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was UFOI clearly remember, It was night around 8:30 or 9pm. I really dont remember the date I was 10 yrs old. That night there was a power faliour and all my friends in the socity was playing hide and seek.   I cant believe what i saw.  I saw a plate kind of stuff White in colour and very bright flying in the air.  It was not too far in the sky but ya it was glowing.  The movement of that object was not straight, it was flying in the air in circle formation not straight.  I was sceared.  I rashed to my mother and I asked her to come out but till the time she came out it went somewhere. I cant forget that night.  One thing that i noticed was that it was not to huge and too far from the ground. next day I discussed it with my teacher and friends,  They didnt believed me........I hope you understand what i saw that night. It was In INDIA, NEW Delhi.  My age now is 25 and that time I was just 10.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55224.html](http://www.nuforc.org/webreports/reports/055/S55224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
