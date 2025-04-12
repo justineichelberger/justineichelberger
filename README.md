@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tappan (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small light (Orb?) flying alongside a helicopter over my houseHeard a helicopter flying by while in my house which is unusual.  I looked outside and it was really low and loud.  I  could see that it was flying side by side with a small light.  Looked like an Orb was flying along side it.  They were heading east toward the Hudson River then made a right turn South toward Manhattan.  I’m pretty sure it wasn’t part of the aircraft as it moved independently at various positions next to it and it was positioned about 20-30 yards away from the helicopter.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126838.html](http://www.nuforc.org/webreports/reports/126/S126838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Commack (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange lights over Commack NYI am for the most part always on the skeptical side when it comes to this stuff...but last night that all changed for me. At about 9:20pm I am laying on the couch watching the hockey game on VS. I take a glance outside my front window to see what looks like fireworks about a mile South of my house. As I watch I realize that it wasn't fireworks, but looks like helicopter hovering above the treeline. As I watch it for a minute or two I realize there are actually 2 of them. I turn to the tv and try to put on the local news channel...thinking there might be somekind of a chase going on or something. But...they really aren't moving so I think maybe it's an accident and someone is about to get medivacked<sp>. Then the original light which is a bright yellow/gold in color, changing to an amber color. The object makes a turn and heads to the West...But, it was moving so slow, there is no way a plane can fly that slow. As I am watching it move I now realize there is another hovering above the original one. As i am watching the highest one it completely dissapears. Gone! I now an so intrigued that I go outside to get a better look. When I go outside I realize there is no sound! If it was a chopper I would have clearly heard it...and planes just don't hover like these did...nor do they fly as slow as the one that moved to the West. The one that moved to the West is still shining the brightest, but after a couple more minutes just dissapears....as does the other one that was hovering just above the treeline. All three objects didn't have any blinking lights. They all were the same color, just one was brighter than the other two. Again, I am very skeptical when it comes to this stuff. Untill last night I never saw anything in the sky that had me second guessing like last night.  I called my buddy about it. His brother is a Suffolk Cop and asked if anyone called in any weird calls last night. He was blank on the other line for a few minutes. He said are you serious? I said hell yeah...he proceeded to tell me his brother spoke to him before me with some woman claiming that there were strange lights shining into her house and thought there were kids in the tree's with super bright flashlights!!!  I swear I am not losing my mind, but I certainly have no explanation for what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62865.html](http://www.nuforc.org/webreports/reports/062/S62865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
