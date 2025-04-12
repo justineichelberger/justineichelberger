@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in New Delhi (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was UFOI clearly remember, It was night around 8:30 or 9pm. I really dont remember the date I was 10 yrs old. That night there was a power faliour and all my friends in the socity was playing hide and seek.   I cant believe what i saw.  I saw a plate kind of stuff White in colour and very bright flying in the air.  It was not too far in the sky but ya it was glowing.  The movement of that object was not straight, it was flying in the air in circle formation not straight.  I was sceared.  I rashed to my mother and I asked her to come out but till the time she came out it went somewhere. I cant forget that night.  One thing that i noticed was that it was not to huge and too far from the ground. next day I discussed it with my teacher and friends,  They didnt believed me........I hope you understand what i saw that night. It was In INDIA, NEW Delhi.  My age now is 25 and that time I was just 10.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55224.html](http://www.nuforc.org/webreports/reports/055/S55224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Unusual movements observed of a bright object flying over the Houston skyline.I was carpooling with two other teachers to the schools where we taught in NE Houston when this took place.As I looked south from the car I was a passenger in travelling east on the 610 North Loop West I saw a very bright object moving north over south central Houston.  It caught my attention because it was a very bright object and it did not appear to be a plane.  Suddenly it stopped moving and sat still in the sky for two or three seconds.  It then moved straight up and stopped again beneath a cloud formation.  Next a light from the object projected up onto the cloud for a second and then was turned off.  The object then shot up thru the cloud and I lost sight of the object.((NUFOR Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32349.html](http://www.nuforc.org/webreports/reports/032/S32349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
