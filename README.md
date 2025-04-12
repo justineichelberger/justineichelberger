@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Muscatine (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 spheres moving in formation.I was driving in Muscatine towards the Mississippi River due east and noticed a reflection in the sky and noticed it was a sphere object and then focused in on the object and noticed 4 more of these in the sky.  These 5 objects started to move in a formation that resembled the number 8 simultaneously.  At times, one would disappear and reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126827.html](http://www.nuforc.org/webreports/reports/126/S126827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Gosforth (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large circular flying object with flashing lights on it.Well the lights seemed to crackle and caught my attention. I went to the window and they flashed but flashed longer than a plane. It was HUGE, on elight on each side. They flashed simultaneously and flashed many colours like orange, green, blue, red and pink. I don't know how to describe that it wasn't a plane but let me assure you IT WASN'T. It moved at a fair speed though a bit slower than a plane i should think. Afterwards i heard this "wooshing" sound, I think there were magnetic effects as it sounds weird but my sister was sick and she's often sick at full moons i think due to the magnetic effects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17245.html](http://www.nuforc.org/webreports/reports/017/S17245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
