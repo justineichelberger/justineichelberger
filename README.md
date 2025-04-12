@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Keonjhar (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White lights forming triangular shape.Hi, my name is ((name deleted/sister #1)), i am a citizen of india..  i reside in keonjhar, odisha which is a town in india.  As it is summer here in this time of the year tired of d scrooching heat me and my two sisters ((name deleted/sister number 2)) and ((name deleted/sister #3)) decided to go to the terrace.   We three sat on an chair and were watching the sky it was midnight most probably 12:15, when my sister ((sister #3)) saw a star type object shining brightly at a distance not possible for a star to be...it was shining more brightly than a star we were looking continuously at it when we saw it slowly moving towards the east after some time we saw more two of them moving in the same manner they were bright white in color and they formed a triangular shape as a whole in the middle of the triangle in the sides we can say were small electric blue color objects which were of the same kind but smaller in size//after looking at it for over 10 minutes we decided to go inside.It was a really weird,eerie and strange sighiting apart  from being mysterious. We thought it might be helpful to report such an unusual event.  thank you and we will appereciate a reply.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108560.html](http://www.nuforc.org/webreports/reports/108/S108560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Muscatine (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 spheres moving in formation.I was driving in Muscatine towards the Mississippi River due east and noticed a reflection in the sky and noticed it was a sphere object and then focused in on the object and noticed 4 more of these in the sky.  These 5 objects started to move in a formation that resembled the number 8 simultaneously.  At times, one would disappear and reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126827.html](http://www.nuforc.org/webreports/reports/126/S126827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
