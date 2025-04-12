@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Gosforth (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large circular flying object with flashing lights on it.Well the lights seemed to crackle and caught my attention. I went to the window and they flashed but flashed longer than a plane. It was HUGE, on elight on each side. They flashed simultaneously and flashed many colours like orange, green, blue, red and pink. I don't know how to describe that it wasn't a plane but let me assure you IT WASN'T. It moved at a fair speed though a bit slower than a plane i should think. Afterwards i heard this "wooshing" sound, I think there were magnetic effects as it sounds weird but my sister was sick and she's often sick at full moons i think due to the magnetic effects</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17245.html](http://www.nuforc.org/webreports/reports/017/S17245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Blue lights seen dancing in the clouds over downtown EdmontonI spotted 3 blue lights moving in a rotational pattern over downtown Edmonton at approximately 1 pm on April 12, 2009. I was standing on my West facing balcony located near Grant MacEwan College when I noticed the lights.  An unusual, large, circular cloud was directly over the city and lights were positioned in the center, and densest part of the cloud.   At first I thought they were air traffic beacons, but there movements were irregular and seemed to be coming from within the cloud.  There were 4 large lights which rotated in formation and then came together.  Another smaller blue sphere joined them when they came together.  Then suddenly, like someone had switched off a light, they disappeared.  It all happened so fast I hardly had time to realize what was going on before they were gone.  I’m not positive about the number but think there was five lights in total.  My view was also partially obstructed by the above balcony.  Within an hour following the sighting the cloud cover had broken up completely.  I also spotted a helicopter circling the area within an hour following the sighting</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69625.html](http://www.nuforc.org/webreports/reports/069/S69625.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
