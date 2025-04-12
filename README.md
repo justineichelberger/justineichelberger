@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Friday Harbor (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The craft was diamond in shape, It  was huge about 1/2 an acre wide made only a slight humming sound.The UFO my husband and I saw was about 500 feet above our house. It was huge . It covered our house and our neighbors house. we estimated it to be about a 1/2 an acre big. It made only a slight humming sound. It was dark in color..Black or Gray. It had only a few dim lights on the bottom of the craft. It moved extremely slow hovering almost. we watched it move above us for about 3 minutes. It was about 300 feet away from us. It hit the tree line and then took off very fast out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16962.html](http://www.nuforc.org/webreports/reports/016/S16962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lakewood (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green-white round light with streak behind in south east sky over airportAt Lakewood airport between 20:00 and 20:30 a bright streak of green white light streaked across the south east sky at high speed for about 2 seconds. The leading edge was round and the rest tapered back to a point with a length of about 4 diameters of the circular portion. The light disappeared into a cloud and was not seen again.  Typical aircraft in the vicinity of the area are slow moving 1-2 proppeller planes, helicopters or large military aircraft.  This did not match the profile of any of those. I would estimate the speed of the object at 3-7 times the speed of a small private plane. There was no sound associated with the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88385.html](http://www.nuforc.org/webreports/reports/088/S88385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
