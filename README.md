@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Object appeared in a photograph that was taken Easter Sunday 1998.  None of the 5 persons present during the actual photographing remember seeing the object.  It was not known untill the film was developed a few days later.Myself and a group of friends were shooting off model rockets in the parking lot of West Lake High School here in Waldorf Maryland around 17:00 Easter Sunday 1998.  I snapped this photo of my nextdoor neighbor prepairing another rocket for launch, and when the photo came back from CVS, the object in the upper right hand courner was present.  It appears to be roughly oval in shape with what might be a triangular construction on top.  The triangular region seems to be highly reflective, while the lower oval portion of the overall object is dark and featureless. I have ruled out the possibility of lens contamination, it only appears on the one frame, and there were no rockets in the air at the time, and no other persons in the area.  Noone from the group remembers seeing anything, and we were all suprised by the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03538.html](http://www.nuforc.org/webreports/reports/003/S03538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chesterfield (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orangel glowing light  floating over Chesterfield, Derbyshire UK then fading awayObject moved slowly towards Chesterfield, Derbyshire from the North east then hovered for approximaetly 6 minutes at about 2000ft just East of the crooked spire. The object looked as if it was floating in a circular motion. It was bright orange in colour and circular in shape with a slight haze to it. I would say it was about magnitude -7 as time went on the object climbed slowly then faded till it was impossible to see. There was rather a lot of high cloud but the moon was visible. It moved I would say south east slightly as it faded. There were no Navigational lights on this object and no sound. Two people witnessed this incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62844.html](http://www.nuforc.org/webreports/reports/062/S62844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
