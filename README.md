@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:47 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Front Royal (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I must say I would have thought it was a "shooting star" if it was not for the speed at which it traveled. It glided through the sky and "slowed" its speed for about 3 seconds and then immediately rocketed off into the night sky. I am reporting from Front Royal,Va and moved here about 8 months ago.  Since December of 2012 I personally along with a few neighbors have witnessed numerous sightings of UFO's. I am not sure if this is a "Hot Spot" or the next Nome,but I believe it warrants an investigation. When I say numerous I mean literally upwards of 6 in the last few weeks. These are naked eye sightings NOT to be confused with airplanes because we get a lot of that activity and are more than familiar with airplanes flying overhead. I will most certainly be documenting the next sightings because there will be more I'm sure.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97127.html](http://www.nuforc.org/webreports/reports/097/S97127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Two faint pinpricks of light, flying much faster than an airplane, orbiting each other.Two faint pinpricks of light, flying much faster than an airplane, orbiting each other while flying over our heads. Clearly flying in a straight line, from south to north, over Metro Portland. My girlfriend (professional photographer) and I (film director) both witnessed this just a short time ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63366.html](http://www.nuforc.org/webreports/reports/063/S63366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
