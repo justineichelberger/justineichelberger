@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was sitting in a chair with my sick dog looking out the bedroom window. I had just turned my head to the side and was resting it on the chair looking out the window and when my eyes moved to about mid tree level that's when I seen the dark grey flying disc/saucer slowly moving from the right to the left about 50 ft off the ground so I ran outside to get a better look but it was already gone. I always thought it would be nice to see one but I was very wrong. Seeing it actually made me sick to my stomach and has really Disturbed me ever since. I've been scared to tell anyone until now. I've never seen anything like that before in my life and I hope I never do again. I'll never forget the weather that day because it felt so unusual, very gloomy and dark and windy. But what really bothers me the most is I haven't heard anyone else say anything about it. It really disturbs me knowing I'm the only one who seen it. I know I'm not losing my sanity and I don't neve! r have hallucinations or anything like that and I wasn't drinking or on drugs.Please tell me what it means? Please help me?  Thank you Jeff</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164753.html](http://www.nuforc.org/webreports/reports/164/S164753.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Friday Harbor (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The craft was diamond in shape, It  was huge about 1/2 an acre wide made only a slight humming sound.The UFO my husband and I saw was about 500 feet above our house. It was huge . It covered our house and our neighbors house. we estimated it to be about a 1/2 an acre big. It made only a slight humming sound. It was dark in color..Black or Gray. It had only a few dim lights on the bottom of the craft. It moved extremely slow hovering almost. we watched it move above us for about 3 minutes. It was about 300 feet away from us. It hit the tree line and then took off very fast out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16962.html](http://www.nuforc.org/webreports/reports/016/S16962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
