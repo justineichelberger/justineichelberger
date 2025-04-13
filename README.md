@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Powell (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Line of lightsEvenly spaced lights in a line across the sky.  Checked for Starlink orbits but they were perpendicular to this line and not in the visible sky at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155060.html](http://www.nuforc.org/webreports/reports/155/S155060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 30s - 30s minutes.</sub><blockquote><sub>Two star like objects moving together in a clear night sky.I was sitting in my backyard looking at the sky, as I often do at night, when something unusual caught my attention. Two star looking dots, lined up along a North/South axis, seemed to move slowly towards the south. They were actually so slow that at first, I thought they were stars and I was just experiencing a perspective illusion. However, the gap between these two objects and the closest constellation was constantly increasing. I thought of satellites maybe. They were not travelling as fast as satellites. Then, what are the odds of two satellites travelling on the same elipse, at apparently the same speed? There was neither any jet sound, even high altitude ones, nor any port, starboard or tail lights. I rusehd inside to get binoculars, which literally took me 20 seconds, but by the time I returned, I could not locate the objects anymore. Had they been static, I could never have told them from regular stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50126.html](http://www.nuforc.org/webreports/reports/050/S50126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
