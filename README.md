@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 12 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:24 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Unusual movements observed of a bright object flying over the Houston skyline.I was carpooling with two other teachers to the schools where we taught in NE Houston when this took place.As I looked south from the car I was a passenger in travelling east on the 610 North Loop West I saw a very bright object moving north over south central Houston.  It caught my attention because it was a very bright object and it did not appear to be a plane.  Suddenly it stopped moving and sat still in the sky for two or three seconds.  It then moved straight up and stopped again beneath a cloud formation.  Next a light from the object projected up onto the cloud for a second and then was turned off.  The object then shot up thru the cloud and I lost sight of the object.((NUFOR Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32349.html](http://www.nuforc.org/webreports/reports/032/S32349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft was moving slowly to the east/SE and appeared to be less than 1,000 feet above me as I could see flames shooting out from underneath as it went directly over my vehicle as I was driving west on Cervantes near Palafox.  Estimated speed of less than 100 mph.  Craft itself had a slight glow from fire propelling it but couldn't see enough to identify shape. Estimated size less than 10 meters diameter based on size of flame diameter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155085.html](http://www.nuforc.org/webreports/reports/155/S155085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/162/S162696.html)
-- [323](http://www.nuforc.org/webreports/reports/162/S162689.html)
-- [322](http://www.nuforc.org/webreports/reports/165/S165889.html)
-- [321](http://www.nuforc.org/webreports/reports/162/S162694.html)
-- [320](http://www.nuforc.org/webreports/reports/162/S162739.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
