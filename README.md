@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:47:01 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:57:42 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Plymouth (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Pulsating/flickering fire ball orbsOn Thursday, 04-13-17, myself and my two children witnessed multiple crafts that resembled flashing orbs or fireballs.  They were in the northern sky over the coast line, within a 2 mile radius of the local nuclear power plant.  They would appear to hover or float along and glide.  They flicker on and off like a lightbulb, and seem to disappear when airplanes fly by.  Occasionally, they would light up very bright like a fireball, but flash in an array of colors that resembled a mystic topaz or fire opal.  I have them on video that I recorded on my iPhone 6s Plus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133666.html](http://www.nuforc.org/webreports/reports/133/S133666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange/red glowing object that moved from the E to the W across the clear night sky.My girlfriend and I were looking up at the stars and noticed a bright orange/red glow in the sky to the East.  It was rather low in the sky, maybe as high as a small prop plane would fly.  It moved from the East all the way across the sky heading to the West, and disappeared on the horizon.  It went right over the house.  We heard a faint sound like a humm.  It never changed in appearance, as it appoached and passed us, which seemed very odd to me. It had no flashing lights or markers as a plane would.  I thought it must had been a rocket launch from Cape Canaveral or something, but they had no scheduled launches for that night.  I am a regular star gazer, and this event has my mind blown.  I have no idea what it could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133604.html](http://www.nuforc.org/webreports/reports/133/S133604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
