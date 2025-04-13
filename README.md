@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fort Payne (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Flashing white, blue, red and green lights over Fort Payne AlabamaI went out on the back porch with my son, and we were just looking at the stars.  He said, “Woe mom look at this!” I said,” It’s a star” and he quickly responded, “Look again the thing is flashing white, blue, red, and green.” It hovered for about twenty minutes making no sound then slowly moved to the southwest until it disappeared. I went in and got my husband so he could see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80870.html](http://www.nuforc.org/webreports/reports/080/S80870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Powell (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Line of lightsEvenly spaced lights in a line across the sky.  Checked for Starlink orbits but they were perpendicular to this line and not in the visible sky at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155060.html](http://www.nuforc.org/webreports/reports/155/S155060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
