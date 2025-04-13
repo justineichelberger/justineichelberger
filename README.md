@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sammamish (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two bright objects.Approximately 1300-1315, witnessed 2 very bright white lights in the east sky, as I watched the two lights, extremely bright visible objects, moved at different speeds and slightly changed altitude, to the south briefly and then disappeared.  Weather was clear, with a few clouds.  I moved to get a better view of the objects, but could not find them.  They were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133607.html](http://www.nuforc.org/webreports/reports/133/S133607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 silent military aircraft hover then fly over IndyLooking northeast towards Indianapolis from Eagle Creek, we noticed two stationary lights hovering in the sky.  They hovered close together for a couple minutes and then the right one quickly shot up diagonally before flying directly overhead, maybe towards Whitestown.The second plane continued to hover before following the same path, and was shortly followed by a third.  They were triangular, military aircraft and were near silent as they flew low overhead.It was very strange and seemed to be a purposeful flight, they weren't just passing by.  It seems unlikely that they would waste personnel and resources to carry out a military exercise over Indiana, but if so, then why the hovering and strange maneuvers?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126836.html](http://www.nuforc.org/webreports/reports/126/S126836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
