@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Neptune (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright light that hovered for hours, resembled a very bright star.A bright light came in from the East, traveling at about the speed of a commercial jet around dusk.  It stopped and remained in the same place in the sky for at least two hours.  As the sky grew dark, it looked like a star. Using a neighbor’s telescope, we were able to see a round object with a band of lights around the outer edge.  They appeared to be dozens of individual LED lights, very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155087.html](http://www.nuforc.org/webreports/reports/155/S155087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sammamish (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two bright objects.Approximately 1300-1315, witnessed 2 very bright white lights in the east sky, as I watched the two lights, extremely bright visible objects, moved at different speeds and slightly changed altitude, to the south briefly and then disappeared.  Weather was clear, with a few clouds.  I moved to get a better view of the objects, but could not find them.  They were no longer visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133607.html](http://www.nuforc.org/webreports/reports/133/S133607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
