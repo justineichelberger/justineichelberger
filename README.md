@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Ely (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sattelite objects moving at random across the sky , at speeds never seen before.Well it was seasons opener for fishing, a friend and myself were up along the Boundry Waters. It was a clear night you could see the stars great and we were laying on bedrock looking up at them. We talk of sattelite's something I had never seen or at least recognized. Later I saw what just seemed to me another star but all of a sudden it moved from north to the southern part of the sky so fast it was like a blink of an eye. Then it happen again only at an angle from which it had come from and then another did. At this time I tapped my friend and told him to look and pointed to were one had stoped and now three were moving at random moving across the sky so fast you could hardly keep up with them and then take off again in another direction. Sometimes in this movement across the sky they would make a right angle without hessitation, or delay. At this point I asked if he saw them also and he did, and about all he could say is that they did'nt move like any sattelite he had ever seen? What were they? We don't know, they resembled a star or sattelite, but moved so fast across such a distance and at random making angled manovers that I believe that it was'nt man made machinery. Nor were they falling stars those I have seen. Oh and I forgot all 3 moved off in a southern direction and just dissappered.((NUFORC Note:  Approximate date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14427.html](http://www.nuforc.org/webreports/reports/014/S14427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Franklin (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>My son and I were at the end of my driveway, watching the sw sky because we thought we had seen a fireball on the 11th and he says there it is.  We watched as a dim light moved slowly toward a tree line, then did a 90 degree turn in mid air and just flew the other way.  We lost vision as it entered the tree line.  It flashed as it turned and flew away.  It looked just like a ball of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133576.html](http://www.nuforc.org/webreports/reports/133/S133576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
