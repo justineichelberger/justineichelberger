@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clay (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black disc shaped object bounced around and vanished.I was on a commercial aircraft above central West Virginia.  We were at an altitude of 32,000 feet at a speed of about 400 mph at sunset.  Some clouds in distance and craft was in front of those clouds.  It looked to be at least 20 miles away.  It seemed to move and stop.  Then it disappeared and reappeared in a different place.  I took two pictures with my Android phone.  The craft seems very small but can be seen stationary in 1st pic and moving in 2nd pic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145642.html](http://www.nuforc.org/webreports/reports/145/S145642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rio Rico () reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Series of lights identified in Santa Cruz County ArizonaInitially saw two evenly spaced rows of (3) rectangular shaped white lights with two additional lights at random locations above and below the rows of lights through my living room windows.  The lights appeared to be about 1/2 mile away.  I grabbed phone camera and walked outside for better view which took about 5 seconds.  By time I got to front porch the lights had disappeared.  There was no noise which would be expected from a motorized aircraft.I then noticed six evenly spaced lights about 20-30 miles north of our house. They then broke off formation and two of the lights turned south again.  They travelled back in front of our house at a distance of 3-5 miles away.  After traveling about 5 miles south of our house they again turned north and continued on a similar path until they were no longer visible.  I witnessed much of this using binoculars and with magnification could see both white and red lights as they made turns.  The other four lights appeared to be making East to west sweeps about 30 miles north of Rio Rico.  As the distant lights made 180 degree turns I could hear the faint sound of engines when they turned away from my position. Closest thing I have ever experienced to this is witnessing stealth aircraft during my 30 year tenure as a military contractor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155089.html](http://www.nuforc.org/webreports/reports/155/S155089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
