@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:01 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Monona (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I looked up and saw a saucer like object in the sky.  It was like that one amusement ride the gravatron.  At least the shape.  It was going pretty fast and had a lot of red lights on it that were scattered.  It was too large for a plane and too low as well.  It also dis not just go the same direction.  It went back and forth for a bit then disappeared quickly after we turned on another street.  It WAS NOT an airplane.  It wad like the size of 4-5 airplanes.  The object its self was hard to tell the color, but obviously dark, with the red lights on it.  It was just gone so fast, I didn't think of using my phone.  It was amazing.((ADDENDUM FROM WITNESS))Sorry date was 04/13/17. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133592.html](http://www.nuforc.org/webreports/reports/133/S133592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Norfolk (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright orange light traveling in sky without sound over Norfolk, VA 8/13/13Driving home I noticed a bright orange light in the sky, we pulled over to the side of the road and it went directly over us without making any sound.  I could not see any "shape"; as it was traveling.  There were two neighbors outside who also witnessed it. We watched it travel into the distance until it disappeared. Then within 5 minutes, getting back in our vehicle and only traveling to our home to park, which was one block away, we notice another one coming from the same direction the first came from, it looked exactly the same and took the same path as the first one.I video taped the second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97145.html](http://www.nuforc.org/webreports/reports/097/S97145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
