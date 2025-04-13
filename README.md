@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:30 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 silent military aircraft hover then fly over IndyLooking northeast towards Indianapolis from Eagle Creek, we noticed two stationary lights hovering in the sky.  They hovered close together for a couple minutes and then the right one quickly shot up diagonally before flying directly overhead, maybe towards Whitestown.The second plane continued to hover before following the same path, and was shortly followed by a third.  They were triangular, military aircraft and were near silent as they flew low overhead.It was very strange and seemed to be a purposeful flight, they weren't just passing by.  It seems unlikely that they would waste personnel and resources to carry out a military exercise over Indiana, but if so, then why the hovering and strange maneuvers?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126836.html](http://www.nuforc.org/webreports/reports/126/S126836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Speedy Craft captured in photos over Lake Marston, Denver.While photographing the beautiful full moon... We captured on our digital camera an object moving at a VERY high rate of speed.  We took 4 pictures in a matter of 10 seconds or so. First picture dictates the craft being Miles and Miles and Miles away Beyond the city lights across the lake. Second photograph dictates the object being within 1 mile of our residence and on an axis as if it were turning.  The Third photo dictates the object level again, headed south. Fourth photo shows no object in site. The object was shaped almost like an airplane however the speed it was moving was much too fast, so fast that we didnt notice that we actually had seen anything until we looked at the photos- and NO noise was heard. These photographs were captured over Lake Marston, in Denver.We did not hear or see this object. We only captured it in photos. Weird experience!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50144.html](http://www.nuforc.org/webreports/reports/050/S50144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
