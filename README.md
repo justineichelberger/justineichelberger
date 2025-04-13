@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:23:24 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:47:01 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Craft was moving slowly to the east/SE and appeared to be less than 1,000 feet above me as I could see flames shooting out from underneath as it went directly over my vehicle as I was driving west on Cervantes near Palafox.  Estimated speed of less than 100 mph.  Craft itself had a slight glow from fire propelling it but couldn't see enough to identify shape. Estimated size less than 10 meters diameter based on size of flame diameter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155085.html](http://www.nuforc.org/webreports/reports/155/S155085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Plymouth (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Pulsating/flickering fire ball orbsOn Thursday, 04-13-17, myself and my two children witnessed multiple crafts that resembled flashing orbs or fireballs.  They were in the northern sky over the coast line, within a 2 mile radius of the local nuclear power plant.  They would appear to hover or float along and glide.  They flicker on and off like a lightbulb, and seem to disappear when airplanes fly by.  Occasionally, they would light up very bright like a fireball, but flash in an array of colors that resembled a mystic topaz or fire opal.  I have them on video that I recorded on my iPhone 6s Plus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133666.html](http://www.nuforc.org/webreports/reports/133/S133666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
