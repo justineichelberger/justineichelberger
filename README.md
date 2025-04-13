@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 13 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Madrid (Spain) () reported seeing craft that fit the description of some 'Other' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>unknown shape in a photoI was taking photographs of my house. Later, when I downloaded that pics to my PC, I discovered the shape. I saw nothing when I took the image. Is the second UFO i see in three months near my house. What can it be that things?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50128.html](http://www.nuforc.org/webreports/reports/050/S50128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clay (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black disc shaped object bounced around and vanished.I was on a commercial aircraft above central West Virginia.  We were at an altitude of 32,000 feet at a speed of about 400 mph at sunset.  Some clouds in distance and craft was in front of those clouds.  It looked to be at least 20 miles away.  It seemed to move and stop.  Then it disappeared and reappeared in a different place.  I took two pictures with my Android phone.  The craft seems very small but can be seen stationary in 1st pic and moving in 2nd pic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145642.html](http://www.nuforc.org/webreports/reports/145/S145642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/162/S162809.html)
-- [264](http://www.nuforc.org/webreports/reports/162/S162721.html)
-- [263](http://www.nuforc.org/webreports/reports/162/S162699.html)
-- [262](http://www.nuforc.org/webreports/reports/162/S162741.html)
-- [261](http://www.nuforc.org/webreports/reports/162/S162732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
