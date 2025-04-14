@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Strream of lights moving with purpose to the northeast.At around 8:45 I noticed a stream of lights moving across the sky. The quality of light was similar to stars, albeit closer, and they moved with a speed and purpose that differentiated them from passing planes.  A span of several seconds would elapse before a new one emerged from the western sky.  Every 16 or so, a light would appear to the side but otherwise they were in perfect order.  Perhaps Starlink, but the lights were much more separated than google searches show the satellites to be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155453.html](http://www.nuforc.org/webreports/reports/155/S155453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in La Puente (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>glowing red light seen over La Puente, CAAt approximately 9:20 pm (Pacific Time), I walked outside of the building I work in to secure some items in my car.  When I finished I turned facing west and I noticed a large unusually bright red glowing light just across the street over some buildings.  At first I thought it was an airplane light since the air traffic around here is pretty steady.  I quickly realized this was no plane; the light was extraordinarily bright, never flickered and seemed to be rapidly approaching me.  It was coming eastbound very quickly and it was very low.  I began to run towards it across the parking lot to try to make out what it was but the light was so bright that’s all I could see.When I first saw the object it was a ball of light but as it came closer I saw it in its profile and it appeared as a long continuous red glowing cigar shape.  It was only about a football field away from me to my left and it was flying over the train yard located across from valley blvd.  I then noticed a helicopter flying westbound (I believe it was an Industry Sheriff helicopter) and the object quickly shrank back into a ball shape.  It was as if the object was playing chicken with the helicopter, I almost thought they were going to collide or that the object would attack because it was so low.As the helicopter and object passed each other, the object flew over the helicopter and was probably less than 30 meters above it from my estimation, the object threw out a red almost force field like crescent moon shaped illumination towards its front end.  It completely lit the sky up around it and in doing so it revealed itself. It seemed like a ball of mercury, it was silverish and perfectly round.  The light shown for a few seconds and quickly faded into nothing although I could still see the circular object, as if it were driving with the lights out and there seemed to be very small electrical charges going off in front of it and I literally watched it fade into nothing.I bet anything that the pilots in that chopper saw it too; there is no way they couldn’t have.  It was heading right for them and when it threw that red field out I know it illuminated the inside of their chopper.  So unreal I'm still in complete awe…((NUFORC Note:  Missile launch from Vandenberg AFB at 21:24 hrs. (Pacific).  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80885.html](http://www.nuforc.org/webreports/reports/080/S80885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
