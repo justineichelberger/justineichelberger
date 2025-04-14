@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Luis Obispo (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Oval/egg shaped metalic craft hovered 3am over San Luis Obispo, then accelerating South at blinding speed.My wife, a Registered Nurse, stayed up late one night last year, in our home on a ranch located on top of a hill that gave her a clear unobstructerd view towards the city of San Luis Obispo and beyond. She told me the next morning that she observed a metallic looking object that was oval or egg shaped hovering low over the city.  The object appeared to "sense" that it was being observed, because it suddenly accelerated at fantastic speed in a Southern direction, disappearing from sight within a few short seconds (Much too fast for any normal aircraft). The object was approx. 6 to 8 miles away.  The night was clear and illuminated by city lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16911.html](http://www.nuforc.org/webreports/reports/016/S16911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a white sphere hovering in front of my truck as I was driving and then disappearedDriving on 620 saw a sphere/orb through my windshield about 50 ft high and 20 ft away hovering for 5 secs then took off fast and vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155120.html](http://www.nuforc.org/webreports/reports/155/S155120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
