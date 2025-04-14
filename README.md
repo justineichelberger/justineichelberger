@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:33 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:32 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large orange light moves over Santa Barbara then moves toward the channel islands.From my back yard a long, orange, very bright light was coming straight in my direction (south east). I think it was at an altitude of 5 to 6 thousand feet high but it was hard to tell. My first thought was that it was a large meteor streaking in the sky but it didn't look to be descending at all. I thought it looked like a meteor because it was the color of fire and very large.It was totally silent. I ran across the yard and told my mom to "come quick I see a UFO". Before she could get out side the object changed direction from coming directly to me and started moving toward the west over the ocean. As it moved it began to diminish in intensity and started to move faster. My mom and I began to try to explain what it could possibly be but it was clear it fit no identifiable explanation. As it continued to move westward it began to blink out then it would flare up again. It did this 3 or 4 times then just didn't come back.After it disappeared  my mom and I noticed that there was an unusually large number of airplanes in the sky. As we were looking around at the airplanes and commenting on the blinking lights and the differences from what we saw we noticed another strange light that didn't look like the other airplanes going almost directly over us heading north. As it got closer we noticed it was also totally silent and was a large triangle shaped craft (TR3-B I believe). We watched it continue slowly right over our heads and went directly over the mountains to our north.((NUFORC Note:  Missile launch from Vandenberg AFB at 21:24 hrs. (Pacific).  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80880.html](http://www.nuforc.org/webreports/reports/080/S80880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Petoskey (MI) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>MI Hwy. Patrol off. w/ partner on Hwy. 31 see 2x glowing obj. overhead. Obj. had "long, burning tail, like rooster tail."  2nd car saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01425.html](http://www.nuforc.org/webreports/reports/001/S01425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
