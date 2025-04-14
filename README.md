@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>fast flying "light/ball" flying over tempe and phoenix arizona.about 21:00 on 4/14/2005 i witnessed a "shooting star" that lasted about 4 seconds or more then moved out of my line of sight.  i've seen meteor showers and have seen many shooting stars in my 29 yrs.  accepted it as a "strange shooting star" phenomena.  then at 23:49 on same night, a fast flying dimly lit light, faster than all the planes i see constantly, moved for about 7+ seconds from a north to south east position then disappeared, it didn't burn out or anything like that, it just was gone.  noticed same sort of "light/ball" a few days prior while outside at an eatery patio.  was moving the opposite way.  was seen by few people but girlfriend claimed it was a balloon.  balloons do not move that fast at that altitude and fly an arc-like formation as it was.  i've seen same sort of "light" flying into columbia river in george, washington a few years prior.  it had no impact or slash.  witness by few friends.  i understand that private jets can fly fast but i've seen too many airplanes to think that it was one.  the reason i believe that it was a ufo is because of the coincidences with the "shooting star" that lasted longer than i've ever seen and then opposite way later, strange light moving as fast as it was.  i then contacted a tv news station and left messages to maybe have a poll for today (4/15/05)to see how many people saw the "shooting star" and then the "light/ball".  they didn't.  i thought maybe they could call sky harbor international airport and if there had been a fast moving object travelling at 23:49 or so and give me my piece of mind.  i'm believing that i'm passed off as a quack, oh well.  i saw what i've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43496.html](http://www.nuforc.org/webreports/reports/043/S43496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Del Rio (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>It was oval shaped and it just stood so still above the trees and quiet and then it disappearLast week in the morning I was waiting for the bus because it was at the end of the street, at 7:00 a.m. When my neighbor who was in my front was saying, "Oh,look, now that is a flying saucer look!" I looked and spotted over some trees above was a oval shaped flying saucer. It was colored grey and it was still not moving at all and it did not make any noise.  It was probably 20 feet away or less from me and it was in the air. The last time I saw it was when it suddenly disappear.((NUFORC Note:  Witness indicates that the date of the event is approximate.  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43582.html](http://www.nuforc.org/webreports/reports/043/S43582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
