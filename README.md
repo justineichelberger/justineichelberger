@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:15:44 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Telephoned Report:Adult male witness reports seeing two white lights streak from west to east; 80 degrees in two seconds.Adult male, standing outdoors, and facing the north, reported over the telephone witnessing two white lights, which appeared larger than planets in the night sky, streak across the sky, moving from west to east.  The witness stated that the lights passed through an estimated 80 degrees of arc in the course of approximately 2 seconds.((NUFORC Note:  Despite our numerous telephone calls to the witness, requesting a detailed report, he has not submitted one.  We have cobbled together the report above, using the few facts he shared with our Center, during a very brief telephone conversation.  PD))((NUFORC Note:  We have been promised a report by the witness.  We do not know whether the time of his sighting is Mountain, or Pacific, time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118593.html](http://www.nuforc.org/webreports/reports/118/S118593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oaks (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Larger blue circle of light followed by a smaller red dot, overcast no visible stars, approx. 4 sec. time durationA large circular blue light descending vertically towards the horizon followed by a significantly smaller red dot in a similar trajectory.  Viewed at approximately 45 degrees from the horizon to 30 degrees from the horizon. Weather Conditions:  Overcast no stars visible   Viewing direction: North by Northeast((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97174.html](http://www.nuforc.org/webreports/reports/097/S97174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
