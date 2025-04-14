@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>at the back of my house in the distance there is three orange lights that are there every 3 nights they hover there for about 15 minutes then heads west</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43485.html](http://www.nuforc.org/webreports/reports/043/S43485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was at a flea market and happened to just look up and there was a bright object that was just floating in one spot and it tend to get brighter and bigger in shape and then disappeared then appeared again.  And this is not the first time I’m seeing something like this around here.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145641.html](http://www.nuforc.org/webreports/reports/145/S145641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
