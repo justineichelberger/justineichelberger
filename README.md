@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Newington (CT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 106((NUFORC Note:  Incident has been explained by a terrestrial cause.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139637.html](http://www.nuforc.org/webreports/reports/139/S139637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wyoming (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange sphere or orbMy wife and I witnessed an an orange ball over our house traveling south to north.  Appeared as if it had a flame behind..but no noise.  We are on the landing path to major airport and see planes all the time traveling west to east and can hear the engine noise.  This was around the same height (guess 3,000 feet) in the sky and was traveling I would say 300 mph (judged on planes).  But the orange glow was unusual almost like a flame trailing but again no noise.  We had seen the same type of object about a year ago traveling on the same course. After two minutes across our view point, it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88412.html](http://www.nuforc.org/webreports/reports/088/S88412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
