@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>silent black triangle with landing gear no lightsAt approx. 10:20 PM Good Friday, April 14, 2017 Middle Aged Female walking dog alone No Alcohol/Drug use/History Walking on street across from parks/schools towards Highway 101 in Central Coast of California, Santa Maria, relatively dark two street lights ½ mile distance to highway  Walking on sidewalk on tree lined side of street, felt raindrop Looked up and noticed clear starry sky, then looked down  Then looked up noticing in peripheral left side vision something white/flash/moving  Noticed 6-7 “suction cup” white/translucent circles in a pyramid shape on the underside of  A wholly black triangular UFO  No lights emitting anywhere on the vehicle; top/bottom or sides or out of the white /translucent “suction cups” that appeared to be “landing gear”; their “whiteness” was how I could see the outline of the triangle around the circles  It was completely quiet, no “hum” or whir at all and it was a very quiet area with no cars moving, i.e. so that if it WAS emitting sound, I would be able to hear (trained musician)  It was NOT that high up in the sky!  It appeared to be on a perfect keel trajectory South east to North west as if it was observing the ground below!  It was not near a horizon and did not appear to be a “large” ship at all, but a small moveabout  I held my sight on the thing moving straight ahead above from me out a quarter mile from me and then straight up in the sky, prob a third of a mile up, if that, held my sight on it for 5 to 8 solid seconds((NUFORC Note:  We spoke via telephone with the witness, and she sounded to us to be quite serious-minded.  We suspect she is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133605.html](http://www.nuforc.org/webreports/reports/133/S133605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Strream of lights moving with purpose to the northeast.At around 8:45 I noticed a stream of lights moving across the sky. The quality of light was similar to stars, albeit closer, and they moved with a speed and purpose that differentiated them from passing planes.  A span of several seconds would elapse before a new one emerged from the western sky.  Every 16 or so, a light would appear to the side but otherwise they were in perfect order.  Perhaps Starlink, but the lights were much more separated than google searches show the satellites to be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155453.html](http://www.nuforc.org/webreports/reports/155/S155453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
