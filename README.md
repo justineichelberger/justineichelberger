@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:34 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:15:44 on 14 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Groton (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Unknown object appeared in photograph, was not noticed at the time photo was taken,Curious?Resending.I do not know the exact date this happened, it was a sunday in April, I am not sure of the year but I did include coinciding events.The reason I put question marks in the initial entries above is basically the event occurred 'after the fact'.This event occurred around the time of the last comet event, I think it was Hale-Bopp, as another reference, it was around the same time as the mass Killing at the weirdo cult place where they all mutilated themselves. I was taking a photo of a new antenna that had just been installed around 1 to 2 o'clock in the afternoon. After the developement of the film is when the object was noticed. The conditions that day were partly cloudy and breezy with moderate temperatures.I had set up my tripod to take the photo and had aimed the camera at the antenna. I did not look up at the time I took the picture. I still have the negative. The object does appear on the photo in the second photo as a shadowy image against a blue sky. I am sending a scanned copy of the 2 photos that I did take just seconds apart,the difference in the clouds locations when compaired should verify that.If you would like actual prints, you could probably verify the time the photos were developed by the numbers on back of the actual copies. The film used was a 35 mm. These were developed thruogh a Wal-Mart located in Groton, Ct.((NUFORC Note:  Date is approximate.  Sundays of April 1996 fell on April 7th, 14th, 21st, and 28th, I believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21782.html](http://www.nuforc.org/webreports/reports/021/S21782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Telephoned Report:Adult male witness reports seeing two white lights streak from west to east; 80 degrees in two seconds.Adult male, standing outdoors, and facing the north, reported over the telephone witnessing two white lights, which appeared larger than planets in the night sky, streak across the sky, moving from west to east.  The witness stated that the lights passed through an estimated 80 degrees of arc in the course of approximately 2 seconds.((NUFORC Note:  Despite our numerous telephone calls to the witness, requesting a detailed report, he has not submitted one.  We have cobbled together the report above, using the few facts he shared with our Center, during a very brief telephone conversation.  PD))((NUFORC Note:  We have been promised a report by the witness.  We do not know whether the time of his sighting is Mountain, or Pacific, time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118593.html](http://www.nuforc.org/webreports/reports/118/S118593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/162/S162992.html)
-- [350](http://www.nuforc.org/webreports/reports/162/S162723.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163370.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163259.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162707.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
