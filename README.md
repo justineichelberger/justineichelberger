@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hiram (GA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright, Steady Cone.Extremely bright light, flickering steady.  Then moving up and down.  Abruptly ended no lights to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155240.html](http://www.nuforc.org/webreports/reports/155/S155240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Evans (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>During work was called by a coworker, to my surprise, 5 balls of red light moving from east to west in the sky and after 40-50 seconds turning orange and then slowly disappearing into the sky.  After the 5 balls of light disappear, another wave comes with at least 9-10 more in a line moving fast and close with the same pattern and disappearance.  Stopped after 8 or 9 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126873.html](http://www.nuforc.org/webreports/reports/126/S126873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
