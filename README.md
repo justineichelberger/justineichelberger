@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:59 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:24 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tokeland (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>shimmering transparent object floting over the water by North River bridge in Washington St.My wife and I were driving north on spur 105 in washington state and my wife the skeptic asked me if I saw what she saw.  Looking straight down the road gave us a view of the North River bridge and the trees and hillside behind the bridge. We saw a distortion of the complete area.  It looked like heat waves that come off a hot sidewalk.  The shape best described would be a haystack that was shifting shapes.  Looking at the object you could see trhough it, but the trees behind it were distorted like looking into a wavy mirror.  The object was floating over water and moving about 15 to 25 mph.I pulled over in a spot that gave us an unobstructed view of the ufo.  It was coming towords us as it would pass by us about 100 yards to the north.  The ufo got abreast of our truck and then zip it was gone.  No special effects just gone.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47446.html](http://www.nuforc.org/webreports/reports/047/S47446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in  (NM) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>3 People in 2 states witness flying cigar, disc and triangular shaped objects across sky.Combination of disc shaped and cigar shaped and 1 larger triangular shaped with approximately 100 of them flying in single file formation from southern direction to northern direction. On the phone with friends in California that were witnessing them at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155161.html](http://www.nuforc.org/webreports/reports/155/S155161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
