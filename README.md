@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cairo (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Falling star that evolved and grew in size and color, to end in a brilliant green ball of trailing light that disappeared from sightMeteor?  April 16, 2016.  10:15 PM North on IL 57 mile marker 5-6 from Cairo, IL.  I had just left a rest stop from doing my ‘TM’ (Transcendental Meditation), so I was fresh and alert.I was driving northbound on Illinois route 57N, windshields are clear/no tint  There was no oncoming traffic at the time, and only a few northbound vehicles.I noticed from the center of the windshield coming down from the top of the windshield, a bright white streak of light which went horizontal with the horizon in front of me, from center of the windshield, moved fully across to the left lower side of the driver’s side window to the treeline.It went from a small white steak to a long multi-colored ‘tailed’ streak and ending with bright green ball of light that disappeared, either from the treeline or from just burning out. It lasted 2 to 3 seconds, as it crossed the sky from what I saw… fantastic!  I had not ever seen such a fall.Thoughts that crossed my mind in 2-3 seconds:  Falling star, missile (are we being attacked?)  Rocket Bomb Fire Color to Green – bright!!  Large – half the size of an over-head full moon((ADDENDUM FROM WITNESS))Oops. Yes, Cairo, Illinois, and it was 15th of April, 2016, which was Friday night 10:15 pm. Sorry and thanks.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126942.html](http://www.nuforc.org/webreports/reports/126/S126942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lordsburg (NM) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A large stationary craft in the southern skies of New Mexico.	I'm a 24 year old truck-driver, familiar with Aircraft and Military planes.  While driving I often look to the sky and try to identify passing air-crafts.  Today, while driving I-10 eastbound in New Mexico and talking to my sister on the phone, I sighted in the southern sky approximately 10,000 to 20,000 ft (altitude)  a large craft comparable to a Boeing 747, hovering in  a stationary point in the sky.It appeared to be metallic with no Navigation lights or wings.  At first it appeared to be cylindrical, I stopped at an exit ramp to take pictures, but my phone was unable to zoom in far enough to take an accurate picture.	I preceded on down the highway, still watching said craft as it stayed stationary.  I then preceded to contact my uncle, an Aeronautical Engineer, to try and ascertain the identity of the craft.  When we could not conclude on the identity of the craft, he gave me the hotline number for The National UFO Reporting Center.  I then reported my sighting on the hotline number, all the while, still observing the craft.	It had remained stationary yet it had now become silhouetted and appeared to have two separate parts of nearly equal size.  This entire episode lasted about 15-18 minutes.  The craft never moved, yet eventually I could no longer see it out the passenger window of my truck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108672.html](http://www.nuforc.org/webreports/reports/108/S108672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
