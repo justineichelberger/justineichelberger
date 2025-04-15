@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dothan (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright light near Dothan, Alabama sighted moving southward at extreme speed.About an hour ago, while walking my dog, I looked to the southwest and noticed what I thought was an airplane flying towards Panama City.  The object was very bright and moving faster than a commercial flight could, and after 30 seconds, or so, dimmed and disappeared completely.I am curious if anyone else saw this.((NUFORC Note:  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133622.html](http://www.nuforc.org/webreports/reports/133/S133622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Interior (near) (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>entire episode is too involved to list all details here. Experienced magnetic anomily, also.I was the caller on George Noory's program that got cut off at the top of the hour and did't get a chance to finish my report on the talk line. 3am June5th I was in the US Air Force stationed in Wall, S.Dak.1966 we had an auto-track Radar site 28 miles south of Wall.(later moved to Holbrook Arizona).  We had 2 tracking radar systems that were looking for a Low level B-52 at the time we got as lock on to a ufo that was later confirmed to be hovering over a missle silo. Object then acclerated to 5000mph when we lost track. It came to within 1 mile of our site & was observed visually as well on radar track X-Y plotter tape and on video tape. Next day all of our evidence was taken ny gov. types. We were told to keep quiet & made to sign papers under espionage act not to reveal episode.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37358.html](http://www.nuforc.org/webreports/reports/037/S37358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
