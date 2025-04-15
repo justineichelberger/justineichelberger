@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nelsonville (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>flashing sphere orb red white blueFlashing red blue white light moving in south western sky moving very slowly west seems too far away and bright to be a plane.((NUFORC Note:  Twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97201.html](http://www.nuforc.org/webreports/reports/097/S97201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jal (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>There were a few red lights that burst to a speed that seemed like light speed then disappeared.I was outside lifting weights at a drilling location where the rig I worked on was drilling a well. 2 of my friends and co-workers came up and were talking to me when I noticed a few (4 or 5 I believe) red lights in the sky traveling at a speed that appeared like a normal aircraft would travel.  The lights flew at this speed for about 3 seconds then burst forward at a speed that is far beyond anything we have on this planet that I'm aware of then disappeared all at once.  There was no noise from the UFO's and when they took off at the tremendous rate of speed it was what I would imagine the speed of light to be.This event took place in Southeast New Mexico right next to the Texas state line off of highway 1.  I believe it was early April, but I don't remember the exact date.  This sighting changed my entire outlook on the possibility of extra terrestrial life on earth.  You are welcome to contact me if you would like.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106596.html](http://www.nuforc.org/webreports/reports/106/S106596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
