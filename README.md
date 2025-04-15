@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:59 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Evans (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>During work was called by a coworker, to my surprise, 5 balls of red light moving from east to west in the sky and after 40-50 seconds turning orange and then slowly disappearing into the sky.  After the 5 balls of light disappear, another wave comes with at least 9-10 more in a line moving fast and close with the same pattern and disappearance.  Stopped after 8 or 9 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126873.html](http://www.nuforc.org/webreports/reports/126/S126873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Lompoc/Vandenberg AFB (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>FLYING DISC OBSERVED OVER MOUNTAIN DURING LAUNCH OF SCOUT MISSILEIN APPROXIMATELY APRIL OF 1963 I WAS ASSIGNED AS A NAVY CRYPTOGRAPHER AT NAVAL AIR STATION POINT MUGU, CALIF.  NAS PT MUGU WAS AT THAT TIME THE NAVY MISSILE TEST CENTER, OPERATING CLOSELY WITH VANDENBERG AFB.  THE COMMUNICATIONS CENTER AT PT MUGU HAD WHAT WE CALLED A "COUNTDOWN CIRCUIT, WHEREBY A MINITE BY MINUTE COUNT WAS PASSED FROM VANDENBERG TO PT MUGU DURING A MISSILE LAUNCH. DURING AN EVENING SHIFT (UNABLE TO REMEMBER THE DATE CLEARLY), WHILE WORKING IN THE CRYPTO CENTER, MYSELF AND MY PARTNER, JOHN WELLS, AND A CIVILIAN TECHNICIAN, (NAME NOT REMEMBERED), WERE MONITORING THE COUNTDOWN CIRCUIT DURING A LAUNCH OF A SCOUT MISSILE BEING FIRED DOWN RANGE INTO THE MID PACIFIC AREA.  THE COUNT DOWN WAS GOING NORMALLY UNTIL APPROXIMATELY 4 MINUTES TO LAUNCH, WHEN SUDDENLY BELLS BEGAN TO RING ON THE TELETYPE MACHINE AND A READ OUT STATING "HOLD HOLD HOLD UFO UFO UFO".  THE REPORT WE GOT VIA ANOTHER (CLOSED CKT) TELETYPE, (CRYPTO COVERED) WAS THAT VANDENBERG HAD LAUNCHED TWO CHASE PLANES TO INVESTIGATE THE UFO..  THE REPORT FURTHER STATED THAT THE UFO WAS "HUGE" (NO OTHER DEMENSIONS GIVEN) AND WAS HOVERING OVER THE MOUNTAINS JUST SOUTH OF THE LAUNCH SITE.  UPON THE APPROACH OF THE JETS, THE UFO SHOT OFF AT VERY HIGH SPEED IN A WESTERLY DIRECTION. IN ADDITION THERE WERE MANY CARS DRIVING NORTH AND SOUTH ON HIGHWAY 101 WHICH PASSES DIRECTLY INLAND FROM THE LAUNCH SITES WITH A LOW MOUNTAIN RANGE BETWEEN THE TWO.  MANY VEHICLES STOPPED ON THE FREEWAY AND PEOPLE GOT OUT AND WATCHED THE UFO HOVERING OVER THE MOUNTAINS, AND ALSO OBSERVED THE UFO LEAVE TO THE WEST AT HIGH SPEED.  AT THAT TIME I WAS A NAVY RADIOMAN (E-6) AND THE CRYPTO SUPERVISOR. I WAS ALSO TRAINING OFFICER TEACHING CRYPTO AND CRYPTO OPERATIONS.  DO NOT BELIEVE THE NAVY COULD IN ANYWAY RATE ME AS UNSTEADY OR UNRELIABLE. ((Personal information deleted)).  THATS ABOUT ALL I CAN REMEBER AT THIS TIME, AS IT WAS MANY YEARS AGO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04908.html](http://www.nuforc.org/webreports/reports/004/S04908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
