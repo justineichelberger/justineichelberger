@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Interior (near) (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>entire episode is too involved to list all details here. Experienced magnetic anomily, also.I was the caller on George Noory's program that got cut off at the top of the hour and did't get a chance to finish my report on the talk line. 3am June5th I was in the US Air Force stationed in Wall, S.Dak.1966 we had an auto-track Radar site 28 miles south of Wall.(later moved to Holbrook Arizona).  We had 2 tracking radar systems that were looking for a Low level B-52 at the time we got as lock on to a ufo that was later confirmed to be hovering over a missle silo. Object then acclerated to 5000mph when we lost track. It came to within 1 mile of our site & was observed visually as well on radar track X-Y plotter tape and on video tape. Next day all of our evidence was taken ny gov. types. We were told to keep quiet & made to sign papers under espionage act not to reveal episode.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37358.html](http://www.nuforc.org/webreports/reports/037/S37358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Huntingdon (Canada) (QC) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Pulsating, emence light in Huntingdon QCI was awoke at approx 2AM to my window, where I witnessed a pulsating, expandable, retractable light that came down from across the street (this is a country setting, with a highway that cuts in the middle of the field) There was 1 car that passed by, just before the light came down. It hovered for a few seconds, then as if it saw me looking at it, it went straight for me, across the roads, through a fence, as I saw this, the wood from the fence glowed. The light was so bright, that I had to look away from the window. It then disapeared, and I spent the rest of the night terrified on my bed. This happened to me 23 years ago, and I have never, ever forgotten, even the smallest detail, and the fright i had. It was not a fast moving car with its highbeams on, there was no car there at the time i saw what i saw. This was not a dream. What i state i saw, really happened. I did not see aliens, all i saw was what appeared to be a flying object, that was surrounded by an emence, expanding light.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37902.html](http://www.nuforc.org/webreports/reports/037/S37902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
