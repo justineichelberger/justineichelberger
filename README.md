@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Huntingdon (Canada) (QC) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Pulsating, emence light in Huntingdon QCI was awoke at approx 2AM to my window, where I witnessed a pulsating, expandable, retractable light that came down from across the street (this is a country setting, with a highway that cuts in the middle of the field) There was 1 car that passed by, just before the light came down. It hovered for a few seconds, then as if it saw me looking at it, it went straight for me, across the roads, through a fence, as I saw this, the wood from the fence glowed. The light was so bright, that I had to look away from the window. It then disapeared, and I spent the rest of the night terrified on my bed. This happened to me 23 years ago, and I have never, ever forgotten, even the smallest detail, and the fright i had. It was not a fast moving car with its highbeams on, there was no car there at the time i saw what i saw. This was not a dream. What i state i saw, really happened. I did not see aliens, all i saw was what appeared to be a flying object, that was surrounded by an emence, expanding light.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37902.html](http://www.nuforc.org/webreports/reports/037/S37902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brevard (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sharp turning and free falling pulsating lightWalked outside - saw what I thought was two stars close together. Appeared to become one star and began to be a Pulsating light that changed color and brightness, lots of freefalls that were huge drops and sharp 90 degree turns all over sky - would fade away and come back flashing multiple colors. Called my wife outside to witness</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155185.html](http://www.nuforc.org/webreports/reports/155/S155185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
