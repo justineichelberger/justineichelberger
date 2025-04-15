@@ -214,9 +214,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 15 April 2025 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Brevard (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sharp turning and free falling pulsating lightWalked outside - saw what I thought was two stars close together. Appeared to become one star and began to be a Pulsating light that changed color and brightness, lots of freefalls that were huge drops and sharp 90 degree turns all over sky - would fade away and come back flashing multiple colors. Called my wife outside to witness</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155185.html](http://www.nuforc.org/webreports/reports/155/S155185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The Titanic tear appeared with a gust and vanished without a trace.I was outside at 2:18 am becasue that is the time the Titanic sank 89 years ago. Well, i was looking up at the stars wondering how those people felt when I saw a flash of light come from behind me (North). I got scared because i thought it was lightning, and I turned around to see for sure. There were no clouds or anything, so i turned around. Maybe 30 seconds later it happened again and this time I felt a gust of wind also from the North. I looked up towards the sky and saw a bright shiney object moving very slightly in the sky. It was almost diamond/tear shaped and definitely not a planet, star or satellite. Im in an astronomy class and I know the difference between the 3 objects. So, I was a little scared and curious. I stood up (I forgot to mention I was on my roof) and waved at it, and then it disappeared.((NUFORC Note:  If this event, in fact, occurred, we question whether it had anything to do with the sinking of the Titanic.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17312.html](http://www.nuforc.org/webreports/reports/017/S17312.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -224,11 +224,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [574](http://www.nuforc.org/webreports/reports/162/S162737.html)
-- [573](http://www.nuforc.org/webreports/reports/162/S162717.html)
-- [572](http://www.nuforc.org/webreports/reports/162/S162706.html)
-- [571](http://www.nuforc.org/webreports/reports/162/S162733.html)
-- [570](http://www.nuforc.org/webreports/reports/162/S162715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
